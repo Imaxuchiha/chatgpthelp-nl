@@ -64,8 +64,6 @@ SOURCES = [
     {"name": "Tweakers", "url": "https://feeds.feedburner.com/tweakers/mixed", "lang": "nl", "weight": 1.5, "primary": False},
     {"name": "NU.nl Tech", "url": "https://www.nu.nl/rss/Tech", "lang": "nl", "weight": 1.5, "primary": False},
     {"name": "Bright", "url": "https://www.bright.nl/rss", "lang": "nl", "weight": 1.2, "primary": False},
-    {"name": "AI Insider", "url": "https://aiinsider.nl/feed/", "lang": "nl", "weight": 0.5, "primary": False},
-    {"name": "AISpits", "url": "https://aispits.nl/feed/", "lang": "nl", "weight": 0.5, "primary": False},
     {"name": "Autoriteit Persoonsgegevens", "url": "https://www.autoriteitpersoonsgegevens.nl/rss", "lang": "nl", "weight": 1.1, "primary": True},
 ]
 
