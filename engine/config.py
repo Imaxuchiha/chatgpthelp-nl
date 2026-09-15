@@ -34,9 +34,8 @@ SITE = {
     "lang": "nl",
     "twitter": "",
     "bluesky": "https://bsky.app/profile/chatgpthelp.nl",
-    # Meting: GA4 (eigen adsvantage-account) achter Cookiekompas-consent (Maxims eigen CMP).
+    # Meting: GA4 cookieloos (Consent Mode v2 altijd denied, geen banner — Maxim 15-09).
     "ga4": "G-68TBRXKHX0",
-    "cookiekompas_id": os.getenv("COOKIEKOMPAS_ID", ""),
     # Enige commerciële link (kostenbewust, geen ads): AI-training van Maxim.
     "sponsor": {
         "label": "AI-training voor je team",
