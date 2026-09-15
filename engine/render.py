@@ -64,6 +64,16 @@ def page(title: str, desc: str, path: str, body: str, og: str = "/img/og-default
     url = SITE["url"] + path
     ld = "".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>' for x in (ldjson or []))
     full_title = title if title.endswith(SITE["name"]) else f"{title} · {SITE['name']}"
+    measure = ""
+    if SITE.get("ga4"):
+        ck = (f'<script src="https://cookiekompas.nl/consent.js" data-website-id="{SITE["cookiekompas_id"]}" async></script>'
+              if SITE.get("cookiekompas_id") else "")
+        measure = f"""<!-- Consent Mode v2: alles geweigerd tot de bezoeker kiest (Cookiekompas-banner) -->
+<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}
+gtag('consent','default',{{ad_storage:'denied',analytics_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',functionality_storage:'granted',personalization_storage:'denied',security_storage:'granted',wait_for_update:500}});</script>
+{ck}
+<script async src="https://www.googletagmanager.com/gtag/js?id={SITE['ga4']}"></script>
+<script>gtag('js',new Date());gtag('config','{SITE['ga4']}',{{anonymize_ip:true}});</script>"""
     nav = "".join(
         f'<a href="/{slug}/"{" class=on" if nav_on == slug else ""}>{E(name)}</a>' for slug, (name, _) in CATEGORIES.items()
     ) + f'<a href="/prompts/"{" class=on" if nav_on == "prompts" else ""}>Prompts</a><a href="/memes/"{" class=on" if nav_on == "memes" else ""}>Memes</a>'
@@ -72,6 +82,7 @@ def page(title: str, desc: str, path: str, body: str, og: str = "/img/og-default
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+{measure}
 <title>{E(full_title)}</title>
 <meta name="description" content="{E(desc)}">
 <link rel="canonical" href="{url}">
@@ -97,7 +108,7 @@ def page(title: str, desc: str, path: str, body: str, og: str = "/img/og-default
 <div class="cols">
 <div><strong>{E(SITE['name'])}</strong><br>{E(SITE['tagline'])}<br><br>Deze site wordt volledig door AI gemaakt en gepubliceerd, zonder menselijke eindredactie. Elk artikel vermeldt zijn bronnen. <a href="/over/">Hoe dat werkt</a>.</div>
 <div><strong>Rubrieken</strong><br>{" · ".join(f'<a href="/{s}/">{E(n)}</a>' for s, (n, _) in CATEGORIES.items())}<br><a href="/prompts/">Prompt van de dag</a> · <a href="/memes/">Meme van de dag</a></div>
-<div><strong>Over</strong><br><a href="/over/">Over deze site</a> · <a href="/privacy/">Privacy</a> · <a href="/feed.xml">RSS</a><br><br>Onafhankelijk. Niet verbonden aan OpenAI. ChatGPT is een merk van OpenAI.<br>© {datetime.now().year} {E(SITE['domain'])}</div>
+<div><strong>Over</strong><br><a href="/over/">Over deze site</a> · <a href="/privacy/">Privacy</a> · <a href="/feed.xml">RSS</a> · <a href="{SITE['bluesky']}" rel="me noopener" target="_blank">Bluesky</a><br><br>Onafhankelijk. Niet verbonden aan OpenAI. ChatGPT is een merk van OpenAI.<br>© {datetime.now().year} {E(SITE['domain'])}</div>
 </div>
 </footer>
 </div>
@@ -270,8 +281,9 @@ def about() -> str:
 
 def privacy() -> str:
     body = f"""<article class="post prose"><h1>Privacy</h1>
-<p class="intro">Kort: we plaatsen geen cookies en volgen je niet.</p>
-<p>Deze site gebruikt geen analytics, geen advertentienetwerken en geen trackingcookies. De site wordt gehost op GitHub Pages; GitHub kan voor de werking van de dienst tijdelijk IP-adressen in serverlogs bewaren (zie het privacybeleid van GitHub). Lettertypen worden geladen via Google Fonts; daarbij ziet Google je IP-adres. Verder verwerken we geen persoonsgegevens, tenzij je ons zelf mailt.</p>
+<p class="intro">Kort: geen advertentiecookies, geen tracking zonder jouw toestemming.</p>
+<p>We gebruiken Google Analytics 4 om te zien welke artikelen gelezen worden. Analytics-cookies worden <strong>alleen</strong> geplaatst als je daar via de cookiebanner (Cookiekompas) toestemming voor geeft; tot die tijd staat alles op "geweigerd" (Google Consent Mode v2) en wordt je IP-adres geanonimiseerd. Je keuze kun je altijd wijzigen via de cookie-instellingen onderaan de pagina.</p>
+<p>Geen advertentienetwerken, geen profilering. De site wordt gehost op GitHub Pages; GitHub kan voor de werking van de dienst tijdelijk IP-adressen in serverlogs bewaren (zie het privacybeleid van GitHub). Lettertypen worden geladen via Google Fonts; daarbij ziet Google je IP-adres. Verder verwerken we geen persoonsgegevens, tenzij je ons zelf mailt.</p>
 <p>De knop "Kopieer prompt" werkt volledig in je browser. Links naar externe sites (bronnen, sponsor) vallen onder het beleid van die sites.</p>
 <p>Vragen: <a href="mailto:{E(SITE['email'])}">{E(SITE['email'])}</a>.</p></article>"""
     return page("Privacy", "Geen cookies, geen tracking. Zo gaat chatgpthelp.nl met je gegevens om.", "/privacy/", body)
