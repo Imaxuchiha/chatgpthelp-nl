@@ -27,6 +27,12 @@ Columns in de stem van Maxim, met zijn opvattingen en geanonimiseerde praktijkci
   en een feitencheck (DeepSeek-pro) die verzonnen persoonlijke claims laat herschrijven of afkeurt.
 - Alles gelabeld als AI-geschreven in de stem van Maxim; uitleg op /maxim/.
 
+## SEO-lus (maandag, `engine/seo.py`)
+Leest Search Console (read-only, 28 dagen). Pagina's met vertoningen maar lage CTR of positie 8-20: nieuwe
+title-tag + meta rond de echte zoektermen, plus een FAQ-vraag als het artikel die beantwoordt (H1/URL blijven, max 1x per 21 dagen).
+Zoektermen zonder artikel (positie >20 of alleen voorpagina/rubriek): vooraan in `content/evergreen_seeds.json`,
+woensdag geschreven. Log in `content/seo_log.json`. Handmatig: `python -m engine.run seo`.
+
 ## Lokaal
 ```
 pip install -r requirements.txt
@@ -37,7 +43,7 @@ python -m engine.run build    # dist/ bouwen
 ```
 
 ## Secrets (repo → Settings → Secrets → Actions)
-`DEEPSEEK_API_KEY` (verplicht) · `SLACK_WEBHOOK_URL` (aanbevolen) · `BSKY_HANDLE` + `BSKY_APP_PASSWORD` (optioneel, Bluesky).
+`DEEPSEEK_API_KEY` (verplicht) · `SLACK_WEBHOOK_URL` (aanbevolen) · `BSKY_HANDLE` + `BSKY_APP_PASSWORD` (optioneel, Bluesky) · `GSC_CLIENT_ID` + `GSC_CLIENT_SECRET` + `GSC_REFRESH_TOKEN` (optioneel, SEO-lus, scope webmasters.readonly).
 
 ## Kosten
 DeepSeek ≈ $0,04 per run → < €4/maand. Hosting, build en beelden: €0.

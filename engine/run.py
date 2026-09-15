@@ -16,7 +16,7 @@ from datetime import datetime
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-from . import editorial, fetch, notify
+from . import editorial, fetch, notify, seo
 from .config import DIST, MEMES, PROMPTS, SITE
 
 
@@ -50,6 +50,8 @@ def cmd_run() -> int:
     if stamp.hour < 11 or os.getenv("FORCE_MORNING"):  # ochtendeditie
         steps = [("meme", lambda: editorial.meme(existing, stamp)), ("prompt", lambda: editorial.prompt_of_day(stamp))]
         wd = int(os.getenv("FORCE_WEEKDAY", stamp.weekday()))
+        if wd == 0:  # maandag: Search Console-lus (titels/meta + nieuwe onderwerpen voor de uitleg van woensdag)
+            steps.insert(0, ("seo", lambda: seo.run(existing)))
         if wd == 1:  # dinsdag: Maxims mening over het nieuws
             steps.append(("column", lambda: editorial.column(existing, stamp)))
         if wd == 2:
@@ -72,11 +74,13 @@ def cmd_run() -> int:
         if art:
             bsky += post_persona(art)
     cost = (USAGE["prompt"] * 0.30 + USAGE["completion"] * 1.20) / 1e6
-    parts = [f"{len(new)} nieuws"] + ([f"{takes} takes"] if takes else []) + [k for k, v in extra.items() if v] + ([f"bluesky {bsky}"] if bsky else [])
+    parts = [f"{len(new)} nieuws"] + ([f"{takes} takes"] if takes else []) + [k for k, v in extra.items() if v and k != "seo"] + ([f"bluesky {bsky}"] if bsky else [])
     line = (f"chatgpthelp.nl {stamp:%d-%m %H:%M}: {', '.join(parts)} · {len(stories)} verhalen gezien · "
             f"{USAGE['calls']} LLM-calls ≈ ${cost:.3f}")
     if new:
         line += "\n" + "\n".join(f"• {a['title']} — {SITE['url']}{a['path']}" for a in new)
+    if extra.get("seo"):
+        line += "\n" + extra["seo"]
     print(line)
     notify.slack(line)
     return 0
@@ -139,6 +143,11 @@ def post_persona(art: dict) -> int:
     return 1 if uri else 0
 
 
+def cmd_seo() -> int:
+    print(seo.run(editorial.load_articles()) or "seo: GSC_CLIENT_ID/GSC_CLIENT_SECRET/GSC_REFRESH_TOKEN ontbreken")
+    return 0
+
+
 def cmd_build() -> int:
     from .render import build
 
@@ -157,7 +166,7 @@ def cmd_status() -> int:
 
 def main(argv):
     cmd = argv[1] if len(argv) > 1 else "run"
-    fn = {"run": cmd_run, "dry": cmd_dry, "build": cmd_build, "status": cmd_status}.get(cmd)
+    fn = {"seo": cmd_seo, "run": cmd_run, "dry": cmd_dry, "build": cmd_build, "status": cmd_status}.get(cmd)
     if not fn:
         print(__doc__)
         return 2
