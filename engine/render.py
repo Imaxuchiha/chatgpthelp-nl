@@ -174,7 +174,7 @@ def home(arts: list[dict], memes: list[dict], prompts: list[dict]) -> str:
     news = [a for a in arts if a.get("kind") != "evergreen"] or arts
     lead = news[0] if news else None
     side = news[1:4]
-    rest = [a for a in arts if not lead or a["slug"] not in {lead["slug"], *[s["slug"] for s in side]}][:12]
+    rest = [a for a in arts if not lead or a["slug"] != lead["slug"]][:12]
     body = ""
     if lead:
         body += f"""<section class="hero">
@@ -193,7 +193,8 @@ def home(arts: list[dict], memes: list[dict], prompts: list[dict]) -> str:
             day += prompt_box(p, link=True)
         day += "</div></section>"
     body += day
-    body += f'<section class="block"><div class="sec-head"><h2>Laatste artikelen</h2><a href="/feed.xml">RSS</a></div><div class="grid">{"".join(card(a) for a in rest)}</div></section>'
+    if rest:
+        body += f'<section class="block"><div class="sec-head"><h2>Laatste artikelen</h2><a href="/feed.xml">RSS</a></div><div class="grid">{"".join(card(a) for a in rest)}</div></section>'
     body += sponsor()
     for slug, (name, desc) in CATEGORIES.items():
         cat = [a for a in arts if a["category"] == slug][:4]
