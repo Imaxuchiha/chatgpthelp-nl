@@ -15,9 +15,24 @@
   "0b4285d334": {
    "at": "2026-09-15T11:56:40.946279",
    "why": "high-risk"
+  },
+  "7cd031ed4f": {
+   "at": "2026-09-15T12:48:34.345831",
+   "why": "ok"
+  },
+  "c7ababe382": {
+   "at": "2026-09-15T12:49:34.345831",
+   "why": "ok"
+  },
+  "296d33defd": {
+   "at": "2026-09-15T12:50:34.345831",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "Altman: beursgang OpenAI in 2026 is 'onverstandig'"
+  "Altman: beursgang OpenAI in 2026 is 'onverstandig'",
+  "Techbedrijven kampen met meer en deels onzichtbare schulden",
+  "AI-bedrijven waarschuwen voor eigen tempo: 'Stop er dan mee'",
+  "Fyxer bouwt AI-assistent voor je inbox met OpenAI"
  ]
 }

@@ -1,0 +1,15 @@
+{
+ "title": "Huurcontract checken op rode vlaggen",
+ "situation": "Je staat op het punt een huurwoning te tekenen of krijgt een nieuw contract van je verhuurder. Laat ChatGPT eerst de risico's eruit halen voordat je tekent.",
+ "prompt": "Je bent een Nederlandse jurist gespecialiseerd in huurrecht. Ik krijg een huurcontract voor een [TYPE WONING, bijv. zelfstandige woning/appartement] in [STAD] met een huurprijs van [BEDRAG] euro per maand en [SERVICEKOSTEN] euro servicekosten. Hier is de tekst: [PLAK HIER DE TEKST VAN HET CONTRACT]. Lees het contract en doe drie dingen. Eén: noem per artikel de clausules die ongunstig of ongebruikelijk zijn voor een huurder, met het artikelnummer en een korte uitleg in gewone taal. Twee: geef aan welke punten volgens Nederlands huurrecht mogelijk nietig zijn en waarom. Drie: maak een lijst met vragen die ik de verhuurder moet stellen voordat ik teken. Zet de ernst per punt erbij als laag, midden of hoog. Sluit af met de drie punten waar ik het eerst iets aan moet doen. Geen juridisch advies, wel een checklist om mee naar een jurist te gaan.",
+ "tip": "Vraag daarna om een ingekorte versie van maximaal tien regels die je direct naar de verhuurder kunt sturen.",
+ "tags": [
+  "huren",
+  "wonen",
+  "juridisch",
+  "thuis"
+ ],
+ "date": "2026-09-15",
+ "slug": "huurcontract-checken-op-rode-vlaggen",
+ "path": "/prompts/2026-09-15-huurcontract-checken-op-rode-vlaggen/"
+}

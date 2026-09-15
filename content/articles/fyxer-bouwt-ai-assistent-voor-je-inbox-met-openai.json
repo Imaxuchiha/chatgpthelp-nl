@@ -1,0 +1,65 @@
+{
+ "title": "Fyxer bouwt AI-assistent voor je inbox met OpenAI",
+ "meta": "Fyxer gebruikt OpenAI-modellen, fine-tuning en feedback van gebruikers om e-mails op te stellen in jouw eigen stem. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "fyxer",
+  "openai",
+  "e-mail",
+  "ai-assistent",
+  "fine-tuning"
+ ],
+ "intro": "Fyxer bouwt een AI-assistent die je inbox opruimt en e-mails voor je schrijft. Het bedrijf gebruikt modellen van OpenAI, fine-tuning, geheugen en feedback van echte gebruikers om dat in jouw eigen schrijfstijl te doen. OpenAI beschrijft de aanpak in een eigen publicatie. Interessant, want het laat zien hoe AI langzaam doordringt tot het saaie maar tijdrovende e-mailwerk.",
+ "takeaways": [
+  "Fyxer gebruikt modellen van OpenAI voor het ordenen van inboxen en het opstellen van e-mails.",
+  "Fine-tuning, geheugen en feedback van gebruikers moeten ervoor zorgen dat teksten in iemands eigen stem klinken.",
+  "Volgens OpenAI vertrouwen gebruikers de assistent omdat die meebeweegt met hun eigen schrijfwijze.",
+  "Het is nog niet bekend of en wanneer Fyxer in Nederland beschikbaar is."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Fyxer precies doet",
+   "body": "Fyxer richt zich op twee taken die veel kantoormensen dagelijks tijd kosten: het ordenen van je inbox en het schrijven van e-mails. Volgens OpenAI gebruikt het bedrijf daarvoor modellen van OpenAI. Denk aan het sorteren van binnenkomende berichten, het voorbereiden van antwoorden en het opstellen van concepten die je alleen nog hoeft te controleren.\n\nHet bijzondere zit niet in die taken op zich. Er zijn al veel tools die e-mails kunnen samenvatten of een antwoord kunnen voorstellen. Fyxer probeert het verschil te maken door teksten te leveren die klinken alsof jij ze zelf hebt geschreven. Dat is precies het punt waar veel AI-teksten nu nog door de mand vallen: ze zijn prima leesbaar, maar niet van jou."
+  },
+  {
+   "heading": "Fine-tuning, geheugen en feedback",
+   "body": "Om die eigen stem te bereiken, combineert Fyxer meerdere technieken. Het bedrijf gebruikt fine-tuning: een model wordt bijgetraind op specifieke voorbeelden, zodat het patroon van iemands schrijfstijl beter past. Daarnaast speelt geheugen een rol. Het systeem onthoudt eerdere keuzes en voorkeuren, zodat je niet elke keer opnieuw hoeft uit te leggen hoe je iets wilt hebben.\n\nVolgens OpenAI is ook feedback van echte gebruikers onderdeel van de aanpak. Als iemand een concept aanpast, kan dat signaal helpen om het volgende voorstel beter te maken. Zo groeit de assistent mee met de persoon die hem gebruikt. Dat klinkt logisch, maar het is technisch lastig: je wilt persoonlijke stijl leren zonder gevoelige informatie te lekken of rare gewoontes over te nemen."
+  },
+  {
+   "heading": "Waarom vertrouwen hier het hele verhaal is",
+   "body": "Een assistent die je inbox beheert, krijgt veel te zien. E-mails bevatten vaak contracten, klantgegevens, persoonsgegevens en interne plannen. Vertrouwen is dus geen bijzaak, maar de kern van het product. Volgens OpenAI is dat vertrouwen precies waar Fyxer op mikt, door de assistent te laten werken in de stem van de gebruiker en niet in een generieke AI-toon.\n\nToch blijft de vraag hoe dat vertrouwen wordt onderbouwd. OpenAI noemt in de beschrijving geen details over opslag, bewaartermijnen of welke gegevens wel en niet worden gebruikt voor training. Zulke details zijn juist belangrijk voor bedrijven die met gevoelige correspondentie werken. Wie serieus overweegt om zo'n assistent in te zetten, doet er goed aan die vragen eerst te stellen."
+  },
+  {
+   "heading": "Wat dit zegt over de markt",
+   "body": "Fyxer is niet de enige speler op dit terrein. Grote namen als Microsoft bouwen AI-hulp direct in hun e-mailprogramma's, en er zijn tientallen kleinere tools die hetzelfde proberen. Het onderscheid zit steeds vaker niet in het model zelf, maar in de vraag of een product echt aanvoelt als een verlengstuk van de gebruiker.\n\nDat verklaart ook waarom OpenAI dit soort klanten uitlicht. Het laat zien waarvoor zijn modellen worden gebruikt: niet alleen voor chatbots, maar ook voor specifieke werkprocessen. Voor de markt betekent het dat de lat omhooggaat. Een assistent die alleen maar netjes kan samenvatten, is niet meer genoeg."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse kantoormedewerkers en bedrijven is dit vooral een signaal, geen directe aanbieding. Volgens OpenAI zegt de publicatie niets over beschikbaarheid in Nederland of de Europese Unie. Er is geen prijs in euro's genoemd en geen releasedatum. Werk je met gevoelige e-mails, let dan op waar gegevens worden opgeslagen en of het product voldoet aan de AVG. Dat is in de EU strenger geregeld dan in de Verenigde Staten. Wil je zoiets uitproberen, begin dan met een aparte map of een testaccount, niet met je hele inbox.",
+ "faq": [
+  {
+   "q": "Wat is Fyxer?",
+   "a": "Fyxer is een AI-assistent voor e-mail. Het bedrijf gebruikt modellen van OpenAI om inboxen te ordenen en e-mails op te stellen in de schrijfstijl van de gebruiker."
+  },
+  {
+   "q": "Is Fyxer beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. De bron van OpenAI noemt geen beschikbaarheid in Nederland of de Europese Unie, en ook geen prijs of releasedatum."
+  },
+  {
+   "q": "Hoe leert Fyxer mijn schrijfstijl?",
+   "a": "Volgens OpenAI gebruikt Fyxer fine-tuning, geheugen en feedback van gebruikers. Daardoor kunnen voorstellen steeds beter passen bij hoe jij zelf schrijft."
+  }
+ ],
+ "slug": "fyxer-bouwt-ai-assistent-voor-je-inbox-met-openai",
+ "kind": "news",
+ "date": "2026-09-15",
+ "published": "2026-09-15T12:50",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How Fyxer built an AI executive assistant people trust",
+   "url": "https://openai.com/index/fyxer"
+  }
+ ],
+ "path": "/nieuws/fyxer-bouwt-ai-assistent-voor-je-inbox-met-openai/",
+ "og": "/img/og/fyxer-bouwt-ai-assistent-voor-je-inbox-met-openai.png"
+}
