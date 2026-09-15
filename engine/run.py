@@ -44,13 +44,21 @@ def cmd_run() -> int:
     existing = editorial.load_articles()
     ledger, stories = scan()
     new = editorial.news_batch(stories, ledger, existing, stamp)
+    takes = editorial.add_takes(new) if new else 0
     existing = editorial.load_articles()
     extra = {}
     if stamp.hour < 11 or os.getenv("FORCE_MORNING"):  # ochtendeditie
         steps = [("meme", lambda: editorial.meme(existing, stamp)), ("prompt", lambda: editorial.prompt_of_day(stamp))]
-        if stamp.weekday() == 2:
+        wd = int(os.getenv("FORCE_WEEKDAY", stamp.weekday()))
+        if wd == 1:  # dinsdag: Maxims mening over het nieuws
+            steps.append(("column", lambda: editorial.column(existing, stamp)))
+        if wd == 2:
             steps.append(("uitleg", lambda: editorial.evergreen(existing, stamp)))
-        if stamp.weekday() == 6:
+        if wd == 3:  # donderdag: uit de praktijk
+            steps.append(("praktijk", lambda: editorial.practice(existing, stamp)))
+        if wd == 5:  # zaterdag: review
+            steps.append(("review", lambda: editorial.review(existing, stamp)))
+        if wd == 6:
             steps.append(("weekoverzicht", lambda: editorial.weekoverzicht(existing, stamp)))
         for label, fn in steps:
             try:
@@ -59,8 +67,12 @@ def cmd_run() -> int:
                 print(f"  {label}-fout: {e}")
     fetch.save_ledger(ledger)
     bsky = post_memes()
+    for label in ("column", "praktijk", "review"):
+        art = extra.get(label)
+        if art:
+            bsky += post_persona(art)
     cost = (USAGE["prompt"] * 0.30 + USAGE["completion"] * 1.20) / 1e6
-    parts = [f"{len(new)} nieuws"] + [k for k, v in extra.items() if v] + ([f"bluesky {bsky}"] if bsky else [])
+    parts = [f"{len(new)} nieuws"] + ([f"{takes} takes"] if takes else []) + [k for k, v in extra.items() if v] + ([f"bluesky {bsky}"] if bsky else [])
     line = (f"chatgpthelp.nl {stamp:%d-%m %H:%M}: {', '.join(parts)} · {len(stories)} verhalen gezien · "
             f"{USAGE['calls']} LLM-calls ≈ ${cost:.3f}")
     if new:
@@ -106,6 +118,25 @@ def post_memes() -> int:
             n += 1
             print(f"  bluesky {lang}: {uri}")
     return n
+
+
+def post_persona(art: dict) -> int:
+    """Maxim-stuk als linkkaart op Bluesky (NL)."""
+    from . import images, social
+
+    if not social.enabled():
+        return 0
+    tmp = DIST.parent / ".tmp"
+    tmp.mkdir(exist_ok=True)
+    kind = {"column": "Column", "practice": "Uit de praktijk", "review": "Review"}.get(art.get("kind"), "Mening")
+    og = images.og_card(art["title"], f"{kind} · Maxim", tmp / f"{art['slug']}.png", art["slug"])
+    text = f"{kind} van Maxim: {art['title']}\n\n{art['meta']}"
+    try:
+        uri = social.post(text[:290], SITE["url"] + art["path"], art["title"], art["meta"], str(og))
+    except Exception as e:  # noqa: BLE001
+        print(f"  bluesky-fout (persona): {e}")
+        return 0
+    return 1 if uri else 0
 
 
 def cmd_build() -> int:

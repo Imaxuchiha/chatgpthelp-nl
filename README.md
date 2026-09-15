@@ -18,6 +18,15 @@ gepubliceerd. Geen mens in de lus.
 6. Publiceren naar GitHub Pages; DNS `chatgpthelp.nl` → Pages.
 7. Elke run stuurt één regel naar Slack (ook bij "0 nieuws"): stilte = motor kapot.
 
+## Maxim (personage)
+Columns in de stem van Maxim, met zijn opvattingen en geanonimiseerde praktijkcijfers:
+- `content/persona/maxim.json`: stem, opvattingen, tools die hij echt gebruikt, harde regels.
+- `content/persona/lessen.json`: geanonimiseerde praktijklessen met cijfers (nooit klantnamen).
+- Schema: di column over het nieuws, do "Uit de praktijk", za review, elke nieuwsrun "Maxims take".
+- Poorten: cijfers alleen uit lessen/nieuws, geen vreemd schrift, geen AI-tics, geen herhaalde stopzinnen,
+  en een feitencheck (DeepSeek-pro) die verzonnen persoonlijke claims laat herschrijven of afkeurt.
+- Alles gelabeld als AI-geschreven in de stem van Maxim; uitleg op /maxim/.
+
 ## Lokaal
 ```
 pip install -r requirements.txt

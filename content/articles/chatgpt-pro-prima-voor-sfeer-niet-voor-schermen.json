@@ -1,0 +1,67 @@
+{
+ "title": "ChatGPT Pro: prima voor sfeer, niet voor schermen",
+ "meta": "Ik gebruik ChatGPT Pro vooral voor Sora-video. Voor sfeerbeelden is het top, maar tekst en schermen in beeld gaan consequent fout.",
+ "category": "mening",
+ "tags": [
+  "ChatGPT Pro",
+  "Sora",
+  "AI-video",
+  "productcommercial",
+  "Maxim"
+ ],
+ "intro": "Ik heb ChatGPT Pro vooral voor Sora, de videotool van OpenAI. Voor een productcommercial wilde ik snel wat beelden genereren. Mijn conclusie: voor sfeerbeelden is het top, maar alles met tekst of schermen erin kun je beter in code bouwen. Dat klinkt omslachtig, maar het scheelt je uiteindelijk tijd en frustratie.",
+ "takeaways": [
+  "Sora maakt mooie sfeerbeelden, maar verprutst consequent letters en interfaces.",
+  "Voor dagelijks werk gebruik ik liever Claude; ChatGPT Pro is voor mij een videotool.",
+  "Schermen en tekst in beeld bouw ik in code met Remotion, dat klopt pixel voor pixel."
+ ],
+ "sections": [
+  {
+   "heading": "Waarvoor ik het gebruik",
+   "body": "ChatGPT Pro heb ik vooral voor Sora. Ik had videobeelden nodig voor een productcommercial. Gewoon even snel wat shots genereren zonder een heel videoteam in te huren. Dat is het idee.\n\nVoor dagelijks werk gebruik ik liever Claude Code. Daar bouw ik mijn hele bureau-automatisering mee. ChatGPT Pro is voor mij dus echt een videotool, niet mijn dagelijkse AI."
+  },
+  {
+   "heading": "Wat goed is",
+   "body": "Sora is sterk voor sfeerbeelden. Mooie shots, sfeervol licht, vloeiende bewegingen. Als je een achtergrond of een abstracte visual nodig hebt, werkt het prima. Voor een commercial is dat vaak al de helft.\n\nHet is ook snel. Je typt een prompt en je hebt binnen een minuut iets bruikbaars. Voor een eerste opzet of een moodboard is dat ideaal."
+  },
+  {
+   "heading": "Wat tegenvalt",
+   "body": "Zodra er tekst of een scherm in beeld komt, gaat het fout. Letters worden vervormd, interfaces kloppen niet. Sora verprutst dat consequent. Voor een productcommercial is dat een probleem, want je wilt vaak je product of app laten zien.\n\nMijn oplossing was simpel: alles met schermen en tekst in beeld bouwde ik in code met Remotion. Dat is een tool waarmee je video's programmeert. Het klinkt als meer werk, maar het klopt pixel voor pixel. Sora gebruikte ik alleen voor de sfeerbeelden eromheen."
+  },
+  {
+   "heading": "Voor wie wel en niet",
+   "body": "Voor wie alleen sfeerbeelden nodig heeft, is Sora prima. Denk aan achtergronden, abstracte visuals, sfeershots. Dan haal je er veel uit.\n\nVoor wie productdemo's, app-screens of teksten in beeld wil, is het niet genoeg. Dan ben je beter af met een combinatie van Sora voor sfeer en iets als Remotion voor de schermen. Of je huurt gewoon een videograaf, dat is soms nog sneller."
+  },
+  {
+   "heading": "Eindoordeel",
+   "body": "ChatGPT Pro is voor mij de moeite waard vanwege Sora, maar het is geen wondermiddel. Voor sfeerbeelden is het top, voor de rest niet. Als je een commercial wilt maken, moet je weten wat je er wel en niet mee kunt.\n\nMijn advies: gebruik Sora voor wat het goed kan, en bouw de rest in code of met een andere tool. Dan kom je het verst."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ondernemers: als je snel videocontent wilt voor social of een commercial, kan Sora je tijd besparen. Maar reken niet op perfecte productshots met tekst. Combineer het met een tool als Remotion voor schermen, of besteed het uit. En test eerst of de beelden die je krijgt echt bruikbaar zijn, voordat je een duur abonnement afsluit.",
+ "faq": [
+  {
+   "q": "Is ChatGPT Pro het geld waard voor video?",
+   "a": "Als je veel sfeerbeelden nodig hebt, wel. Voor productdemo's of tekst in beeld zou ik het niet alleen daarvoor gebruiken."
+  },
+  {
+   "q": "Wat is het grootste nadeel van Sora?",
+   "a": "Het verprutst consequent tekst en schermen in beeld. Letters worden vervormd en interfaces kloppen niet."
+  },
+  {
+   "q": "Wat gebruik je voor tekst en schermen in video?",
+   "a": "Ik bouw dat in code met Remotion. Dat klopt pixel voor pixel, in tegenstelling tot AI-video."
+  }
+ ],
+ "lessons_used": [
+  "sora-tekst-in-beeld"
+ ],
+ "slug": "chatgpt-pro-prima-voor-sfeer-niet-voor-schermen",
+ "kind": "review",
+ "date": "2026-09-15",
+ "published": "2026-09-15T20:04",
+ "sources": [],
+ "path": "/mening/chatgpt-pro-prima-voor-sfeer-niet-voor-schermen/",
+ "og": "/img/og/chatgpt-pro-prima-voor-sfeer-niet-voor-schermen.png",
+ "tool": "ChatGPT Pro (OpenAI)",
+ "author": "Maxim"
+}

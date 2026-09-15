@@ -133,3 +133,150 @@ def social_caption(art: dict) -> str:
     m = art["meta"]
     text = f"{t}\n\n{m}"
     return text[:250]
+
+
+# ----------------------------------------------------------------------------- Maxim ----
+# Maxim (15-09-2026): columns in zijn stem, met geanonimiseerde praktijkcijfers uit zijn werk.
+# Sterker model voor persona-content (volgt de anekdote-regel veel beter dan flash); ~3 stukken/week.
+PERSONA_MODEL = "deepseek-v4-pro"
+COLUMN_SCHEMA = """{
+ "title": "pakkende maar eerlijke kop, max 70 tekens, mag een stelling zijn",
+ "meta": "70-155 tekens: zijn standpunt in één zin",
+ "category": "mening",
+ "tags": ["3-6 tags"],
+ "intro": "openingsalinea: meteen zijn standpunt, geen aanloop",
+ "takeaways": ["3 kernpunten van zijn betoog, elk 1 zin"],
+ "sections": [ {"heading": "tussenkop", "body": "2-4 alinea's, gescheiden door \\n\\n"} ],
+ "nl_angle": "wat moet een Nederlandse ondernemer of lezer hier nu mee: 1 alinea, concreet",
+ "faq": [ {"q": "vraag", "a": "antwoord in 1-3 zinnen"} ],
+ "lessons_used": ["id's van de praktijklessen die je gebruikte, of lege lijst"]
+}"""
+
+COLUMN_RULES = """Schrijfregels voor deze column (hard):
+- Ik-vorm als het personage, in zijn stem. Duidelijk standpunt; geen 'enerzijds-anderzijds'.
+- Onderbouw met zijn praktijk: 1 tot 3 van de aangeleverde praktijklessen, cijfers LETTERLIJK.
+  Verzin geen andere cijfers, klanten, tests of ervaringen. Past geen les? Dan zonder cijfers.
+- Klanten altijd anoniem ('een klant', 'een webshop'). Nooit naam, stad, merk of niche die herkenbaar is.
+- Eigen ervaring alleen met tools uit zijn lijst. Andere tools: alleen op basis van het nieuws.
+- Nooit interne of niet-publieke kennis over Google of andere bedrijven. Een mening over Gemini of andere
+  Google-AI mag, maar alleen op basis van publieke informatie en het nieuws, zonder eigen gebruik te claimen.
+- GEEN VERZONNEN ANEKDOTES. Elk concreet voorval (een klant, een test, een tijdsduur, 'een keer liet ik...')
+  moet letterlijk uit een praktijkles of het nieuws komen. Verder alleen algemene mening en uitleg.
+- Menselijk: geen gedachtestreepjes, NOOIT de constructie 'Dat is geen X, dat is Y' of 'geen X, maar Y',
+  niet eindigen met een vraag, alinea's niet allemaal even lang, mag toegeven wat niet werkte.
+- Geen financieel, juridisch of medisch advies."""
+
+
+def write_column(persona_brief: str, lessons_text: str, news_block: str, today: str) -> dict:
+    user = f"""Datum vandaag: {today}.
+{persona_brief}
+
+Schrijf een opiniecolumn (550-850 woorden) van dit personage over het AI-nieuws hieronder. Kies het
+onderwerp waar hij het meest over te zeggen heeft en koppel het aan zijn eigen praktijk.
+
+NIEUWS (feiten alleen hieruit):
+{news_block}
+
+PRAKTIJKLESSEN (cijfers alleen hieruit):
+{lessons_text}
+
+{COLUMN_RULES}
+Eisen: 3-5 secties, 2 FAQ. Schema:
+{COLUMN_SCHEMA}"""
+    return ask_json(STYLE, user, temperature=0.75, max_tokens=3600, model=PERSONA_MODEL)
+
+
+def write_practice(persona_brief: str, lesson: dict, extra_lessons: str, today: str) -> dict:
+    user = f"""Datum vandaag: {today}.
+{persona_brief}
+
+Schrijf een column "Uit de praktijk" (550-850 woorden) van dit personage rond deze ene les uit zijn werk:
+wat er gebeurde, waarom het fout of goed ging, wat AI of automatisering ermee te maken had, en wat de
+lezer er morgen mee moet doen (stappen of checklist).
+
+HOOFDLES (cijfers letterlijk):
+[Les {lesson['id']}] {lesson['text']}
+
+AANVULLENDE LESSEN (hooguit 1 gebruiken):
+{extra_lessons}
+
+{COLUMN_RULES}
+Eisen: 3-5 secties, 3 FAQ. Schema:
+{COLUMN_SCHEMA}"""
+    return ask_json(STYLE, user, temperature=0.7, max_tokens=3600, model=PERSONA_MODEL)
+
+
+def write_review(persona_brief: str, tool: dict, lessons_text: str, today: str) -> dict:
+    user = f"""Datum vandaag: {today}.
+{persona_brief}
+
+Schrijf een eerlijke review (600-900 woorden) van dit personage over een tool die hij zelf gebruikt:
+TOOL: {tool['tool']} ({tool['status']}); waarvoor: {tool['use']}; zijn oordeel: {tool['opinion']}
+
+Opbouw: waarvoor hij het gebruikt, wat goed is, wat tegenvalt, voor wie wel en niet, eindoordeel in woorden.
+Alleen op basis van bovenstaande gegevens en de praktijklessen; geen prijzen, versienummers of functies
+waarvan je niet zeker bent. Geen sterren of cijferscore verzinnen.
+
+PRAKTIJKLESSEN (cijfers alleen hieruit):
+{lessons_text}
+
+{COLUMN_RULES}
+Eisen: 4-5 secties, 3 FAQ. Categorie "mening". Schema:
+{COLUMN_SCHEMA}"""
+    return ask_json(STYLE, user, temperature=0.65, max_tokens=3800, model=PERSONA_MODEL)
+
+
+def write_take(persona_brief: str, art: dict, lessons_text: str, focus: str = "") -> str:
+    focus_line = (f"INVALSHOEK VOOR DEZE TAKE (gebruik deze opvatting, niet kosten tenzij dit over kosten gaat): {focus}\n"
+                  if focus else "")
+    user = f"""{persona_brief}
+
+{focus_line}Begin NIET met 'Ik snap' of 'Ik geloof best'. Varieer je opening.
+
+Schrijf "Maxims take" onder dit nieuwsartikel: 2 tot 3 zinnen, ik-vorm, zijn eerlijke mening, nuchter en
+een beetje brutaal. Reageer op DIT nieuws. Gebruik alleen een praktijkles als die over precies hetzelfde
+onderwerp gaat; bij twijfel géén praktijkvoorbeeld en géén cijfers. Liever een scherpe mening zonder
+voorbeeld dan een voorbeeld dat er met de haren bij gesleept is. Geen vraag als slotzin, geen gedachtestreepjes.
+
+ARTIKEL: {art['title']} ({art['meta']})
+{art.get('intro', '')}
+
+PRAKTIJKLESSEN:
+{lessons_text}
+
+{COLUMN_RULES}
+Antwoord: {{"take": "..."}}"""
+    return (ask_json(STYLE, user, temperature=0.8, max_tokens=300).get("take") or "").strip()
+
+
+VERIFY_SYSTEM = """Je bent een strenge feitencontroleur. Je krijgt een tekst die in de ik-vorm namens een
+personage is geschreven, plus ALLE toegestane feiten over dat personage (profiel, tools, praktijklessen) en
+het nieuws. Zoek elke bewering waarin het personage iets concreets over ZICHZELF of zijn werk claimt
+(een voorval, een klant, een test, een tijdsduur, een aantal, een eerdere werkwijze, iets wat hij 'een keer'
+deed) dat NIET letterlijk of vrijwel letterlijk uit de toegestane feiten volgt. Algemene meningen, adviezen
+en uitleg zijn toegestaan en tel je NIET mee. Antwoord ALTIJD met JSON."""
+
+
+def verify_persona(text: str, allowed: str) -> list[str]:
+    user = f"""TOEGESTANE FEITEN:
+{allowed}
+
+TE CONTROLEREN TEKST:
+{text}
+
+Antwoord: {{"onderbouwd": true/false, "verzonnen": ["letterlijke zin uit de tekst die een niet-onderbouwde persoonlijke claim bevat", "..."]}}"""
+    r = ask_json(VERIFY_SYSTEM, user, temperature=0.1, max_tokens=900, model=PERSONA_MODEL)
+    return [x for x in (r.get("verzonnen") or []) if isinstance(x, str) and x.strip()]
+
+
+def revise_persona(art: dict, problems: list[str]) -> dict:
+    user = f"""Hieronder een column als JSON. Deze zinnen bevatten verzonnen persoonlijke claims die niet
+kloppen en MOETEN eruit of worden herschreven tot een algemene mening zonder persoonlijk voorval:
+{chr(10).join('- ' + p for p in problems)}
+
+Pas ALLEEN die zinnen aan; laat de rest, de cijfers uit praktijklessen en de structuur staan. Houd dezelfde
+JSON-velden. Geen gedachtestreepjes, geen 'Dat is geen X, dat is Y'.
+
+JSON:
+{json.dumps(art, ensure_ascii=False)}"""
+    return ask_json(STYLE, user, temperature=0.3, max_tokens=4200, model=PERSONA_MODEL)

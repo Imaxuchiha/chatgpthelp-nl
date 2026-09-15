@@ -165,3 +165,157 @@ def prompt_of_day(stamp: datetime) -> dict | None:
     p.update({"date": date, "slug": slugify(p["title"]), "path": f"/prompts/{date}-{slugify(p['title'])}/"})
     _save(PROMPTS, date, p)
     return p
+
+
+# ---------------------------------------------------------------------- Maxim (persona) ----
+def _persona_article(art: dict, kind: str, stamp: datetime, source_text: str, existing: list[dict], extra: dict) -> dict | None:
+    """Poort + opslaan voor columns/reviews. Cijfers moeten uit lessen of nieuws komen."""
+    from . import persona
+
+    art["category"] = "mening"
+    titles = [a["title"] for a in existing[:200]]
+    errs = gate.check_article(art, source_text, titles, "column")
+    if errs:
+        print(f"    POORT ({kind}): {errs}")
+        return None
+    # feitencheck: persoonlijke claims moeten uit profiel of lessen komen
+    p = persona.load()
+    allowed = persona.brief(p) + "\n\nPRAKTIJKLESSEN EN NIEUWS:\n" + source_text
+    for rnd in range(2):
+        fake = writer.verify_persona(gate.article_text(art), allowed)
+        if not fake:
+            break
+        print(f"    feitencheck ronde {rnd + 1}: {len(fake)} verzonnen claim(s): {[f[:60] for f in fake[:3]]}")
+        if rnd == 1:
+            print(f"    AFGEKEURD ({kind}): blijft verzinnen")
+            return None
+        art = writer.revise_persona(art, fake)
+        art["category"] = "mening"
+        errs = gate.check_article(art, source_text, titles, "column")
+        if errs:
+            print(f"    POORT na herschrijven ({kind}): {errs}")
+            return None
+    art = _finalize(art, kind, [], stamp)
+    art.update(extra)
+    art["author"] = "Maxim"
+    if (ARTICLES / f"{art['slug']}.json").exists():
+        print("    bestaat al (slug)")
+        return None
+    _save(ARTICLES, art["slug"], art)
+    return art
+
+
+def column(existing: list[dict], stamp: datetime) -> dict | None:
+    from . import persona
+
+    p = persona.load()
+    recent = [a for a in existing if a.get("kind") == "news"][:8]
+    if len(recent) < 2:
+        print("  te weinig nieuws voor een column")
+        return None
+    news_block = "\n\n".join(f"- {a['title']} ({a['date']}): {a['meta']}\n  {a.get('intro', '')}" for a in recent)
+    u = persona.used()
+    ls = persona.relevant_lessons(news_block, 5, exclude=u["lessen"][-10:])
+    print(f"  column schrijven (lessen: {[l['id'] for l in ls]})")
+    art = writer.write_column(persona.brief(p), persona.lessons_block(ls), news_block, stamp.strftime("%d-%m-%Y"))
+    src = news_block + " " + " ".join(l["text"] for l in ls)
+    out = _persona_article(art, "column", stamp, src, existing,
+                           {"sources": [{"name": SITE["name"], "title": a["title"], "url": SITE["url"] + a["path"]} for a in recent[:5]]})
+    if out:
+        u["lessen"] += [i for i in art.get("lessons_used", []) if isinstance(i, str)]
+        u["columns"].append(out["slug"])
+        persona.save_used(u)
+    return out
+
+
+def practice(existing: list[dict], stamp: datetime) -> dict | None:
+    from . import persona
+
+    p = persona.load()
+    u = persona.used()
+    todo = [l for l in persona.lessons() if l["id"] not in u["lessen"]]
+    if not todo:
+        u["lessen"] = []  # alle lessen gebruikt: opnieuw beginnen (andere invalshoek)
+        todo = persona.lessons()
+    if not todo:
+        print("  geen praktijklessen")
+        return None
+    lesson = todo[0]
+    extra = [l for l in persona.relevant_lessons(lesson["text"], 3, exclude=[lesson["id"]])]
+    print(f"  praktijkcolumn schrijven: {lesson['id']}")
+    art = writer.write_practice(persona.brief(p), lesson, persona.lessons_block(extra), stamp.strftime("%d-%m-%Y"))
+    src = lesson["text"] + " " + " ".join(l["text"] for l in extra)
+    out = _persona_article(art, "practice", stamp, src, existing, {"lesson": lesson["id"]})
+    u["lessen"].append(lesson["id"])  # ook bij poort-falen doorschuiven, anders blijft hij hangen
+    if out:
+        u["columns"].append(out["slug"])
+    persona.save_used(u)
+    return out
+
+
+def review(existing: list[dict], stamp: datetime, tries: int = 2) -> dict | None:
+    """Review van een tool die Maxim echt gebruikt; bij afkeur direct de volgende tool proberen."""
+    from . import persona
+
+    p = persona.load()
+    for _ in range(tries):
+        u = persona.used()
+        tools = [t for t in p["tools_used"] if t["tool"] not in u["tools"]]
+        if not tools:
+            u["tools"] = []
+            tools = p["tools_used"]
+        tool = tools[0]
+        ls = persona.relevant_lessons(tool["tool"] + " " + tool["use"] + " " + tool["opinion"], 3)
+        print(f"  review schrijven: {tool['tool']}")
+        art = writer.write_review(persona.brief(p), tool, persona.lessons_block(ls), stamp.strftime("%d-%m-%Y"))
+        src = " ".join([tool["tool"], tool["use"], tool["opinion"], tool["status"]] + [l["text"] for l in ls])
+        out = _persona_article(art, "review", stamp, src, existing, {"tool": tool["tool"]})
+        u["tools"].append(tool["tool"])
+        persona.save_used(u)
+        if out:
+            return out
+    return None
+
+
+def add_takes(arts: list[dict]) -> int:
+    """Korte 'Maxims take' onder nieuwe nieuwsartikelen. Poort: max 3 zinnen, geen vreemd schrift,
+    geen onbekende cijfers, geen vraag als slot, en geen stopzin die al in een recente take stond."""
+    from . import persona
+
+    if not arts:
+        return 0
+    pdata = persona.load()
+    b = persona.brief(pdata)
+    beliefs = pdata["beliefs"]
+    recent = [a["take"] for a in load_articles()[:40] if a.get("take")]
+    n = 0
+    for a in arts:
+        for attempt in range(3):
+            try:
+                ls = persona.relevant_lessons(a["title"] + " " + a["meta"] + " " + a.get("intro", ""), 2, min_score=6)
+                avoid = "\n".join("- " + r for r in recent[-12:])
+                extra = ("\n\nVERMIJD formuleringen en stopzinnen uit deze eerdere takes:\n" + avoid) if avoid else ""
+                focus = beliefs[(sum(map(ord, a["slug"])) + attempt) % len(beliefs)]
+                take = writer.write_take(b, a, persona.lessons_block(ls) + extra, focus)
+            except Exception as e:  # noqa: BLE001
+                print(f"    take-fout: {e}")
+                take = ""
+                break
+            allowed = gate.numbers_in(" ".join(l["text"] for l in ls) + " " + gate.article_text(a) + " " + a["title"])
+            bad = [x for x in gate.numbers_in(take) if x not in allowed and len(x) >= 2]
+            sentences = len(re.findall(r"[.!?](\s|$)", take))
+            dup = next((g for r in recent for g in [gate.shared_ngram(take, r)] if g), None)
+            why = ("leeg" if not take else "vreemd schrift" if gate.foreign_script(take) else f"cijfers {bad}" if bad
+                   else f"{sentences} zinnen" if sentences > 3 or len(take) > 480 else "vraag als slot" if take.rstrip().endswith("?") else f"AI-tic '{gate.antithesis(take)}'" if gate.antithesis(take)
+                   else f"herhaalt '{dup}'" if dup else "")
+            if not why:
+                break
+            print(f"    take afgekeurd ({why}), poging {attempt + 1}")
+            take = ""
+        if not take:
+            continue
+        a["take"] = take
+        recent.append(take)
+        _save(ARTICLES, a["slug"], a)
+        n += 1
+    return n

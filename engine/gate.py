@@ -36,11 +36,47 @@ def copied_run(text: str, sources_text: str, n: int) -> bool:
 
 
 def numbers_in(text: str) -> set[str]:
-    return set(re.findall(r"\d[\d.,]*", text))
+    return {n.rstrip(".,") for n in re.findall(r"\d[\d.,]*", text)}
+
+
+def fix_meta(art: dict, limit: int = 155) -> None:
+    """Te lange meta netjes inkorten op een woordgrens (geen poortfout voor iets cosmetisch)."""
+    m = (art.get("meta") or "").strip()
+    if len(m) <= limit:
+        return
+    cut = m[: limit - 1].rsplit(" ", 1)[0].rstrip(",;:- ")
+    art["meta"] = cut + "…"
+
+
+FOREIGN = re.compile(r"[Ѐ-ӿ֐-ۿ฀-๿぀-ヿ㐀-鿿가-힯]")
+
+
+def foreign_script(text: str) -> bool:
+    """True bij Chinese/Japanse/Koreaanse/Cyrillische e.d. tekens (DeepSeek-glitch)."""
+    return bool(FOREIGN.search(text or ""))
+
+
+def shared_ngram(a: str, b: str, n: int = 5) -> str | None:
+    wa = re.findall(r"\w+", a.lower())
+    wb = " ".join(re.findall(r"\w+", b.lower()))
+    for i in range(max(0, len(wa) - n + 1)):
+        g = " ".join(wa[i:i + n])
+        if g in wb:
+            return g
+    return None
+
+
+ANTITHESIS = re.compile(r"\b(dat|dit|het) is geen [^.,;:!?]{1,40}[,:;] (dat|dit|het) is\b", re.I)
+
+
+def antithesis(text: str) -> str | None:
+    m = ANTITHESIS.search(text or "")
+    return m.group(0) if m else None
 
 
 def check_article(art: dict, sources_text: str, previous_titles: list[str], kind: str = "news") -> list[str]:
     errs = []
+    fix_meta(art, LIMITS["meta_max"] - 3)
     title = (art.get("title") or "").strip()
     meta = (art.get("meta") or "").strip()
     body = article_text(art)
@@ -59,6 +95,10 @@ def check_article(art: dict, sources_text: str, previous_titles: list[str], kind
         errs.append(f"{len(secs)} secties")
     if len(art.get("takeaways") or []) < 2:
         errs.append("te weinig kernpunten")
+    if foreign_script(body + title + meta):
+        errs.append("vreemd schrift (glitch)")
+    if kind == "column" and antithesis(body):
+        errs.append(f"AI-tic: {antithesis(body)}")
     low = body.lower()
     for ph in FORBIDDEN_PHRASES:
         if ph in low:
@@ -66,13 +106,14 @@ def check_article(art: dict, sources_text: str, previous_titles: list[str], kind
     en = sum(low.count(m) for m in ENGLISH_MARKERS)
     if en > max(6, wc * 0.012):
         errs.append(f"engelse lekkage ({en})")
-    if sources_text and copied_run(body, sources_text, LIMITS["max_copied_run"]):
+    # columns citeren Maxims eigen praktijklessen; kopieerrun alleen tegen externe bronnen toetsen
+    if sources_text and kind != "column" and copied_run(body, sources_text, LIMITS["max_copied_run"]):
         errs.append("kopieerrun uit bron")
     if sources_text:
         src_nums = numbers_in(sources_text)
         bad = [n for n in numbers_in(body) if n not in src_nums and len(n.strip(".,")) >= 3 and not re.fullmatch(r"20\d\d", n)]
         # jaartallen en kleine getallen mogen (die komen uit algemene kennis); grote getallen niet
-        if len(bad) > 2:
+        if len(bad) > (0 if kind == "column" else 2):
             errs.append(f"onbekende getallen: {bad[:4]}")
     tt = tokens(title)
     for pt in previous_titles:

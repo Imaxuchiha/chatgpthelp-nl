@@ -1,0 +1,86 @@
+{
+ "title": "AI-bazen roepen om rem, maar waarom nu pas?",
+ "meta": "De waarschuwingen over AI-tempo zijn vooral handig voor degenen die al vooraan staan. Ik trap er niet in.",
+ "category": "mening",
+ "tags": [
+  "AI-beleid",
+  "OpenAI",
+  "Anthropic",
+  "regulering",
+  "tech-industrie"
+ ],
+ "intro": "De topmannen van OpenAI, Anthropic en Google DeepMind roepen ineens dat AI-ontwikkeling te snel gaat. Prima, maar ik geloof er niks van. Dit is niet ineens oprechte zorg om de mensheid. Dit is een strategische zet van bedrijven die al vooraan staan en de rest willen afremmen. Wie al een voorsprong heeft, wil de wedstrijd stilleggen.",
+ "takeaways": [
+  "De oproep om AI te vertragen komt van de koplopers, die er baat bij hebben dat anderen niet inhalen.",
+  "Voor mijn bureau verandert er weinig: ik bouw al met bestaande tools en wacht niet op de volgende hype.",
+  "Vertragen van AI-ontwikkeling lost het echte probleem niet op: slechte data en slechte metingen."
+ ],
+ "sections": [
+  {
+   "heading": "Koplopers willen de finishlijn verplaatsen",
+   "body": "OpenAI, Anthropic, Google DeepMind en zelfs Elon Musk zeggen dat AI te snel gaat. Dario Amodei schreef een heel essay met de titel 'We Must Pace the Frontier'. Mooi verhaal, maar kijk naar wie er roept. Dat zijn precies de bedrijven die de afgelopen jaren keihard hebben geracet en nu een voorsprong hebben. Als je zelf voorop loopt, is 'even rustig aan' een prima boodschap voor de concurrentie.\n\nChina noemt het angstzaaierij en experts kijken vreemd op. Logisch. Dit soort afspraken tussen concurrenten om de ontwikkeling te vertragen, heeft ook een kartelluchtje. Alsof vier supermarkten afspreken om geen nieuwe winkels te openen. Voor de consument wordt het er niet beter op."
+  },
+  {
+   "heading": "Ik zie het in mijn eigen praktijk: meten is het echte probleem",
+   "body": "Waar ik wél iets van herken, is de neiging om op korte termijn paniek te zaaien. Een klant dacht dat zijn account instortte: het laatste venster gaf 39 conversies. Maar over 25 maanden was de mediaan 83 per maand. Wie op 30 dagen oordeelt, stuurt op ruis. Zo is het ook met die AI-waarschuwingen. We hebben geen idee wat er over twee jaar echt speelt, maar nu moeten we acuut remmen?\n\nEn die 'rem' lost het echte probleem niet op. De meeste ellende in advertentieaccounts komt niet door te snelle AI, maar door slechte data. Een klant verhoogde zelf het dagbudget van Performance Max van ongeveer 21 naar 46 euro. De kosten per aanvraag gingen van zo'n 37 naar 66 euro en de extra uitgaven leverden vrijwel geen extra aanvragen op. Meer budget is geen strategie, maar dat heeft niks met AI-veiligheid te maken."
+  },
+  {
+   "heading": "Voor mij verandert er weinig",
+   "body": "Ik bouw mijn eigen tools met Claude Code en DeepSeek. Die draaien vandaag prima. Als de grote jongens besluiten om even pas op de plaats te maken, prima. Mijn werk gaat door. Ik hoef geen model dat nóg slimmer is; ik heb modellen nodig die betrouwbaar taken uitvoeren zonder dat ik elke stap moet controleren.\n\nEn eerlijk: de grootste winst zit niet in een nieuw model, maar in het beter gebruiken van wat er al is. Een technisch perfecte site zonder links rankt niet, leerde ik toen mijn eigen bureausite 100/100 scoorde op on-page SEO en toch maar 44 kliks kreeg uit 8.094 vertoningen in 90 dagen. Het probleem was domeinautoriteit, niet de pagina. Zo is het met AI ook: het probleem is niet de snelheid van ontwikkeling, maar hoe wij die tools inzetten."
+  },
+  {
+   "heading": "Laat ze maar praten",
+   "body": "Ik word moe van die paniekverhalen. Eerst jarenlang roepen dat AI de wereld gaat redden, en nu ineens dat het te snel gaat. Het is hetzelfde als een klant die na één slechte maand zijn hele account wil omgooien. Ik kijk naar data over 12 tot 18 maanden, niet naar de waan van de dag.\n\nDus nee, ik ga niet ineens stoppen met AI-tools gebruiken omdat een paar miljardairs dat zeggen. Ik blijf testen, meten en bouwen. Als zij willen vertragen, is dat hun goed recht. Maar ik ga niet wachten tot zij beslissen wat veilig genoeg is. Ik bepaal zelf wel wat ik met AI doe."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ondernemers verandert er weinig. De tools die je nu gebruikt, blijven werken. De oproep om te vertragen is vooral een Amerikaanse discussie tussen grote spelers. Waar je wél op moet letten: laat je niet gek maken door paniekverhalen. Kijk naar je eigen cijfers over een langere periode, niet naar één slechte maand. En investeer in goede metingen. Een AI-model kan nog zo snel zijn, maar als je data niet kloppen, optimaliseer je de verkeerde kant op. Dat is een les die ik elke week weer tegenkom in klantaccounts.",
+ "faq": [
+  {
+   "q": "Moet ik nu stoppen met het gebruiken van AI-tools?",
+   "a": "Nee. De oproep om te vertragen komt van de koplopers zelf en heeft vooral een strategische achtergrond. Voor jouw dagelijkse werk verandert er niets aan de tools die je al gebruikt."
+  },
+  {
+   "q": "Is die afspraak tussen AI-bedrijven niet illegaal?",
+   "a": "Dat is nog niet duidelijk. Sommige experts wijzen op kartelvorming, maar er is geen uitspraak van een toezichthouder. Voorlopig is het vooral een publieke discussie."
+  }
+ ],
+ "lessons_used": [
+  "Les nooit-30-dagen",
+  "Les seo-autoriteit",
+  "Les budget-verhogen-niets"
+ ],
+ "slug": "ai-bazen-roepen-om-rem-maar-waarom-nu-pas",
+ "kind": "column",
+ "date": "2026-09-15",
+ "published": "2026-09-15T19:55",
+ "sources": [
+  {
+   "name": "ChatGPT Help",
+   "title": "Meta lanceert abonnementen met AI en sociale media",
+   "url": "https://chatgpthelp.nl/nieuws/meta-lanceert-abonnementen-met-ai-en-sociale-media/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Techbedrijven lenen meer voor AI en datacenters",
+   "url": "https://chatgpthelp.nl/nieuws/techbedrijven-lenen-meer-voor-ai-en-datacenters/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "AI-paniek: waarom waarschuwen topmensen nu ineens?",
+   "url": "https://chatgpthelp.nl/nieuws/ai-paniek-waarom-waarschuwen-topmensen-nu-ineens/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "AI-bazen en politici botsen over tempo AI-ontwikkeling",
+   "url": "https://chatgpthelp.nl/nieuws/ai-bazen-en-politici-botsen-over-tempo-ai-ontwikkeling/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "AI-top sluit akkoord om ontwikkeling te vertragen",
+   "url": "https://chatgpthelp.nl/nieuws/ai-top-sluit-akkoord-om-ontwikkeling-te-vertragen/"
+  }
+ ],
+ "path": "/mening/ai-bazen-roepen-om-rem-maar-waarom-nu-pas/",
+ "og": "/img/og/ai-bazen-roepen-om-rem-maar-waarom-nu-pas.png",
+ "author": "Maxim"
+}

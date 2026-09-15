@@ -126,7 +126,19 @@ def sponsor() -> str:
             f'<a href="{s["url"]}" rel="sponsored noopener" target="_blank">Bekijk de training →</a><small>Advertentie van de uitgever van deze site.</small></aside>')
 
 
+KIND_LABEL = {"column": "Column", "practice": "Uit de praktijk", "review": "Review"}
+
+
+def author_box() -> str:
+    return ('<aside class="author"><div class="av">M</div><div><strong>Maxim</strong> · oprichter van Adsvantage, performance-marketeer<br>'
+            '<span>Bouwt zijn eigen AI-agents, beheert Google Ads- en Shopify-accounts en test alles eerst in de praktijk. '
+            '<a href="/maxim/">Over Maxim en hoe deze columns ontstaan</a></span></div></aside>')
+
+
 def ai_label(a: dict) -> str:
+    if a.get("kind") in KIND_LABEL:
+        return ('<div class="ai-label"><b>Gemaakt met AI</b> · geschreven door AI in de stem van Maxim, op basis van zijn '
+                'opvattingen en geanonimiseerde praktijkcijfers · <a href="/maxim/">meer</a></div>')
     n = len(a.get("sources", []))
     src = f" op basis van {n} bron{'nen' if n != 1 else ''}" if n and a.get("kind") == "news" else ""
     return f'<div class="ai-label"><b>Gemaakt met AI</b> · geschreven door een AI-redactie{src}, zonder menselijke eindredactie · <a href="/over/">meer</a></div>'
@@ -136,7 +148,11 @@ def article_page(a: dict, all_arts: list[dict]) -> str:
     cat_name = CATEGORIES[a["category"]][0]
     secs = "".join(f'<h2>{E(s.get("heading", ""))}</h2>{prose(s.get("body", ""))}' for s in a.get("sections", []))
     take = "".join(f"<li>{inline(t)}</li>" for t in a.get("takeaways", []))
-    nl = f'<div class="nl"><h3>Wat betekent dit voor Nederland?</h3>{prose(a["nl_angle"])}</div>' if a.get("nl_angle") else ""
+    nl_head = "Wat moet je hiermee?" if a.get("kind") in KIND_LABEL else "Wat betekent dit voor Nederland?"
+    nl = f'<div class="nl"><h3>{nl_head}</h3>{prose(a["nl_angle"])}</div>' if a.get("nl_angle") else ""
+    take_box = (f'<div class="take"><div class="av">M</div><div><strong>Maxims take</strong><p>{inline(a["take"])}</p>'
+            f'<small>Mening, door AI geschreven in de stem van <a href="/maxim/">Maxim</a>.</small></div></div>') if a.get("take") else ""
+    is_persona = a.get("kind") in KIND_LABEL
     faq = "".join(f'<details><summary>{E(f["q"])}</summary><p>{inline(f["a"])}</p></details>' for f in a.get("faq", []) if f.get("q"))
     srcs = "".join(f'<li>{E(s["name"])}: <a href="{E(s["url"])}" rel="nofollow noopener" target="_blank">{E(s["title"])}</a></li>' for s in a.get("sources", []))
     tags = "".join(f'<a href="/{a["category"]}/">{E(t)}</a>' for t in a.get("tags", [])[:6])
@@ -148,7 +164,8 @@ def article_page(a: dict, all_arts: list[dict]) -> str:
         "headline": a["title"], "description": a["meta"], "datePublished": a["published"] + ":00+02:00",
         "dateModified": a["published"] + ":00+02:00", "inLanguage": "nl",
         "image": [SITE["url"] + a["og"]], "mainEntityOfPage": SITE["url"] + a["path"],
-        "author": {"@type": "Organization", "name": SITE["name"] + " (AI-redactie)", "url": SITE["url"] + "/over/"},
+        "author": ({"@type": "Person", "name": "Maxim", "url": SITE["url"] + "/maxim/"} if a.get("kind") in KIND_LABEL
+                   else {"@type": "Organization", "name": SITE["name"] + " (AI-redactie)", "url": SITE["url"] + "/over/"}),
         "publisher": {"@type": "Organization", "name": SITE["name"], "logo": {"@type": "ImageObject", "url": SITE["url"] + "/img/logo.png"}},
         "isBasedOn": [s["url"] for s in a.get("sources", [])][:5],
         "keywords": ", ".join(a.get("tags", [])),
@@ -161,15 +178,17 @@ def article_page(a: dict, all_arts: list[dict]) -> str:
         ld.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
             {"@type": "Question", "name": f["q"], "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in a["faq"] if f.get("q")]})
     body = f"""<article class="post">
-<span class="kicker"><a href="/{a['category']}/" style="text-decoration:none">{E(cat_name)}</a></span>
+<span class="kicker"><a href="/{a['category']}/" style="text-decoration:none">{E(KIND_LABEL.get(a.get('kind'), cat_name))}</a></span>
 <h1>{E(a['title'])}</h1>
-<div class="meta">{nl_date(a['published'])} · {rt} min lezen</div>
+<div class="meta">{'Door Maxim · ' if is_persona else ''}{nl_date(a['published'])} · {rt} min lezen</div>
 {ai_label(a)}
 <img class="og" src="{a['og']}" alt="" width="1200" height="630">
 <p class="intro">{inline(a.get('intro', ''))}</p>
 <div class="takeaways"><h3>In het kort</h3><ul>{take}</ul></div>
 {secs}
 {nl}
+{take_box}
+{author_box() if is_persona else ''}
 {f'<section class="faq"><h2>Veelgestelde vragen</h2>{faq}</section>' if faq else ''}
 {sponsor()}
 <div class="tags">{tags}</div>
@@ -277,6 +296,29 @@ def about() -> str:
     return page("Over deze site", "Hoe chatgpthelp.nl werkt: een volledig door AI gemaakte nieuwssite over ChatGPT en AI, met bronnen en zonder menselijke eindredactie.", "/over/", body)
 
 
+def maxim_page(arts: list[dict]) -> str:
+    import json as _json
+    from .config import CONTENT
+    p = _json.loads((CONTENT / "persona" / "maxim.json").read_text(encoding="utf-8"))
+    beliefs = "".join(f"<li>{E(b)}</li>" for b in p["beliefs"])
+    tools = "".join(f"<li><strong>{E(x['tool'])}</strong>: {E(x['status'])}. {E(x['opinion'][0].upper() + x['opinion'][1:])}.</li>" for x in p["tools_used"])
+    mine = [a for a in arts if a.get("kind") in KIND_LABEL][:12]
+    body = f"""<article class="post prose"><span class="kicker">Columnist</span><h1>Maxim</h1>
+{author_box()}
+<p class="intro">{E(p['short_bio'])}</p>
+<h2>Waar hij voor staat</h2><ul>{beliefs}</ul>
+<h2>Tools die hij zelf gebruikt</h2><ul>{tools}</ul>
+<h2>Hoe deze columns ontstaan</h2>
+<p>De columns, praktijkverhalen, reviews en de korte "Maxims take" onder nieuwsartikelen worden door AI geschreven in de stem van Maxim. Het model krijgt zijn opvattingen, de tools die hij echt gebruikt en een verzameling praktijklessen uit zijn werk met Google Ads, Shopify, tracking en AI-automatisering. Cijfers in een column moeten letterlijk uit die lessen of uit het nieuws komen; een automatische poort keurt teksten met andere cijfers af. Klanten zijn altijd geanonimiseerd.</p>
+<p>Maxim leest niet elke tekst vooraf. Zie je een fout, mail <a href="mailto:{E(SITE['email'])}">{E(SITE['email'])}</a>.</p>
+{f'<h2>Recent van Maxim</h2><div class="grid">{"".join(card(a) for a in mine)}</div>' if mine else ''}
+</article>"""
+    ld = [{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Maxim",
+           "jobTitle": "Oprichter Adsvantage", "worksFor": {"@type": "Organization", "name": "Adsvantage", "url": "https://adsvantage.nl"},
+           "url": SITE["url"] + "/maxim/"}}]
+    return page("Maxim, columnist", "Wie is Maxim, waar staat hij voor en hoe ontstaan zijn columns over AI, Google Ads en Shopify op ChatGPT Help.", "/maxim/", body, ldjson=ld, nav_on="mening")
+
+
 def privacy() -> str:
     body = f"""<article class="post prose"><h1>Privacy</h1>
 <p class="intro">Kort: alleen analytische cookies, geen advertentiecookies, geen profilering.</p>
@@ -295,7 +337,7 @@ def feed(arts: list[dict]) -> str:
 
 
 def sitemaps(arts, memes, prompts):
-    urls = [("/", 1.0, "hourly")] + [(f"/{s}/", 0.8, "daily") for s in CATEGORIES] + [("/prompts/", 0.7, "daily"), ("/memes/", 0.6, "daily"), ("/over/", 0.3, "monthly"), ("/privacy/", 0.1, "yearly")]
+    urls = [("/", 1.0, "hourly")] + [(f"/{s}/", 0.8, "daily") for s in CATEGORIES] + [("/prompts/", 0.7, "daily"), ("/memes/", 0.6, "daily"), ("/over/", 0.3, "monthly"), ("/maxim/", 0.5, "weekly"), ("/privacy/", 0.1, "yearly")]
     urls += [(a["path"], 0.7, "weekly") for a in arts] + [(p["path"], 0.5, "monthly") for p in prompts] + [(f"/memes/{m['date']}/", 0.3, "monthly") for m in memes]
     sm = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(
         f"<url><loc>{SITE['url']}{u}</loc><priority>{p}</priority><changefreq>{c}</changefreq></url>" for u, p, c in urls) + "</urlset>"
@@ -326,7 +368,8 @@ def build() -> int:
     images.logo_png(DIST / "img" / "favicon.png", 64)
     images.og_card(SITE["tagline"], SITE["name"], DIST / "img" / "og-default.png", "default")
     for a in arts:
-        images.og_card(a["title"], CATEGORIES[a["category"]][0], DIST / a["og"].lstrip("/"), a["slug"])
+        label = {"column": "Column · Maxim", "practice": "Uit de praktijk · Maxim", "review": "Review · Maxim"}.get(a.get("kind"), CATEGORIES[a["category"]][0])
+        images.og_card(a["title"], label, DIST / a["og"].lstrip("/"), a["slug"])
     for m in memes:
         images.meme_card(m["top"], m["bottom"], DIST / m["img"].lstrip("/"), m["date"])
         if m.get("top_en"):
@@ -345,7 +388,7 @@ def build() -> int:
     write("/prompts/", prompts_page(prompts)); n += 1
     for p in prompts:
         write(p["path"], prompt_page(p, prompts)); n += 1
-    write("/over/", about()); write("/privacy/", privacy()); n += 2
+    write("/over/", about()); write("/privacy/", privacy()); write("/maxim/", maxim_page(arts)); n += 3
     write("/404.html", page("Pagina niet gevonden", "Deze pagina bestaat niet.", "/404.html", '<article class="post"><h1>Pagina niet gevonden</h1><p>Ga naar de <a href="/">voorpagina</a>.</p></article>'))
     write("/feed.xml", feed(arts))
     sm, ns = sitemaps(arts, memes, prompts)

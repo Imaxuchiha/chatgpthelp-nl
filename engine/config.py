@@ -52,6 +52,7 @@ CATEGORIES = {
     "uitleg": ("Uitleg", "Stap-voor-stap uitleg: zo gebruik je AI in werk en privé."),
     "bedrijven": ("Bedrijven", "AI op de werkvloer: wat betekent het voor Nederlandse bedrijven?"),
     "beleid": ("Beleid & wet", "EU AI Act, privacy, toezicht en politiek rond AI."),
+    "mening": ("Maxims mening", "Columns, praktijkverhalen en eerlijke reviews van Maxim, ondernemer en performance-marketeer."),
 }
 
 # RSS-bronnen: naam, url, taal, gewicht (hoger = eerder gekozen), betrouwbaar (primaire bron?)
@@ -96,7 +97,7 @@ HIGH_RISK_TERMS = [
 FORBIDDEN_PHRASES = [
     "in de snel veranderende wereld", "in het huidige digitale tijdperk", "het is belangrijk om op te merken",
     "revolutionair", "baanbrekend", "game-changer", "gamechanger", "delve", "duik in",
-    "als ai-taalmodel", "als een ai", "ik kan niet", "laten we eens kijken", "in conclusie",
+    "als ai-taalmodel", "als een ai-taalmodel", "ik kan niet", "laten we eens kijken", "in conclusie",
     "concluderend", "kortom,", "ontketen", "naadloos", "in dit artikel",
 ]
 

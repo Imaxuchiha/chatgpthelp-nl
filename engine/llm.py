@@ -13,12 +13,12 @@ API_URL = "https://api.deepseek.com/v1/chat/completions"
 USAGE = {"prompt": 0, "completion": 0, "calls": 0}
 
 
-def chat(messages, temperature=0.6, max_tokens=3000, json_mode=True, retries=3):
+def chat(messages, temperature=0.6, max_tokens=3000, json_mode=True, retries=3, model=None):
     key = os.getenv("DEEPSEEK_API_KEY")
     if not key:
         raise RuntimeError("DEEPSEEK_API_KEY ontbreekt")
     body = {
-        "model": DEEPSEEK_MODEL,
+        "model": model or DEEPSEEK_MODEL,
         "messages": messages,
         "temperature": temperature,
         "max_tokens": max_tokens,
@@ -84,9 +84,9 @@ def extract_json(raw: str):
     raise ValueError("geen geldige JSON: " + raw[:200])
 
 
-def ask_json(system: str, user: str, temperature=0.6, max_tokens=3000):
+def ask_json(system: str, user: str, temperature=0.6, max_tokens=3000, model=None):
     raw = chat(
         [{"role": "system", "content": system}, {"role": "user", "content": user}],
-        temperature=temperature, max_tokens=max_tokens, json_mode=True,
+        temperature=temperature, max_tokens=max_tokens, json_mode=True, model=model,
     )
     return extract_json(raw)

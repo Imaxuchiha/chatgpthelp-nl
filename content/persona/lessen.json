@@ -1,0 +1,284 @@
+[
+ {
+  "id": "longtail-niet-snoeien",
+  "topics": [
+   "google ads",
+   "shopping",
+   "ai-optimalisatie",
+   "data"
+  ],
+  "text": "Bij een webshop met duizenden producten wilde iedereen de producten zonder conversies uitsluiten. We testten het vooruit met een hold-out: de set die we zouden uitsluiten haalde daarna een ROAS van 3,47, de set die we zouden houden 2,84. 89% van de latere top-50 verkocht pas in de laatste 12 maanden. 'De top-100 levert 87% van de omzet' bleek survivorship bias."
+ },
+ {
+  "id": "nooit-30-dagen",
+  "topics": [
+   "google ads",
+   "data",
+   "rapportage"
+  ],
+  "text": "Een klant dacht dat zijn account instortte: het laatste venster gaf 39 conversies. Over 25 maanden was de mediaan 83 per maand. Wie op 30 dagen oordeelt, stuurt op ruis."
+ },
+ {
+  "id": "villains-bleken-verkopers",
+  "topics": [
+   "shopping",
+   "data",
+   "ai-optimalisatie"
+  ],
+  "text": "Van 156 producten die op korte data 'nooit verkochten' bleken er 111 ooit wel verkocht, zodra we 18 maanden Ads-data, GA4 over alle kanalen en alle varianten samen bekeken. Uitsluiten doe ik alleen nog bij bewezen nooit-verkocht over alle bronnen."
+ },
+ {
+  "id": "tracking-app-verdubbelt-omzet",
+  "topics": [
+   "tracking",
+   "shopify",
+   "google ads"
+  ],
+  "text": "Bij een webshop rapporteerde Google Ads bijna het dubbele van de omzet die er echt binnenkwam. Een externe tracking-app stond als primaire aankoop ingesteld. De eerlijke ROAS lag tussen 129% en 204%, niet op de 298% uit het dashboard."
+ },
+ {
+  "id": "nep-conversiewaarde",
+  "topics": [
+   "tracking",
+   "shopify",
+   "smart bidding"
+  ],
+  "text": "Een tracking-app zette paginaweergaven, winkelwagen en checkout-start als primaire conversies aan. Resultaat: zo'n 10.000 euro nep-conversiewaarde waar het biedalgoritme vrolijk op ging sturen."
+ },
+ {
+  "id": "shopify-spookaankopen",
+  "topics": [
+   "shopify",
+   "tracking",
+   "performance max"
+  ],
+  "text": "Het Google-kanaal van Shopify vuurde 170 aankopen die niet bestonden; GA4 zag er 1. Performance Max leerde van die spookaankopen. De AI deed precies wat hij moest doen, met verkeerde data."
+ },
+ {
+  "id": "hersync-wist-labels",
+  "topics": [
+   "shopify",
+   "merchant center",
+   "performance max"
+  ],
+  "text": "Na een hersynchronisatie tussen Shopify en Merchant Center stonden de labels op duizenden producten ineens leeg. De campagne die alleen de bestsellers mocht tonen, adverteerde daardoor met alles. Niemand kreeg een melding."
+ },
+ {
+  "id": "verkeerde-landversie",
+  "topics": [
+   "shopping",
+   "feeds",
+   "internationaal"
+  ],
+  "text": "92% van het Britse advertentiebudget van een webshop landde op de Duitse versie van de winkel. Britten zagen prijzen in euro in plaats van ponden. Eén parameter in de productfeed-link."
+ },
+ {
+  "id": "spend-naar-nooit-verkopers",
+  "topics": [
+   "performance max",
+   "shopping",
+   "ai-optimalisatie"
+  ],
+  "text": "In een feed met duizenden designs was maar ongeveer een kwart ooit verkocht. Toch ging 83% van het budget naar designs die nooit verkochten. GA4 kende 85% van de winnaars; Google Ads kende er maar een fractie van."
+ },
+ {
+  "id": "pmax-buiten-feed",
+  "topics": [
+   "performance max",
+   "google ads"
+  ],
+  "text": "Bij een Britse Performance Max-campagne ging maar 24,4% van het budget naar producten. De rest verdween in display, video en zoekverkeer buiten de feed: duizenden euro's in twee weken."
+ },
+ {
+  "id": "cookiebanner-brak-conversies",
+  "topics": [
+   "tracking",
+   "cookies",
+   "consent"
+  ],
+  "text": "Een klant installeerde een nieuwe cookiebanner en vanaf die dag telden de conversies niet meer. De afspraken kwamen wel binnen in de dataLayer, maar de tag manager vuurde geen conversie. Geen daling in vraag, een kapotte koppeling."
+ },
+ {
+  "id": "funnel-lekken-meetfout",
+  "topics": [
+   "ga4",
+   "tracking",
+   "shopify"
+  ],
+  "text": "Ik scande de funnels van 12 webshops in GA4. Van de 12 'lekken' waren er 8 meetfouten en 1 was bots: tienduizenden sessies uit één ver land, 0 aankopen. Maar 3 lekken waren echt."
+ },
+ {
+  "id": "budget-verhogen-niets",
+  "topics": [
+   "google ads",
+   "smart bidding",
+   "budget"
+  ],
+  "text": "Een klant verhoogde zelf het dagbudget van Performance Max van ongeveer 21 naar 46 euro. De kosten per aanvraag gingen van zo'n 37 naar 66 euro en de extra uitgaven leverden vrijwel geen extra aanvragen op. Meer budget is geen strategie."
+ },
+ {
+  "id": "smart-bidding-minimum",
+  "topics": [
+   "smart bidding",
+   "google ads",
+   "budget"
+  ],
+  "text": "Met minder dan zo'n 15 conversies per maand kan Smart Bidding niet leren. Dan start ik met Maximize Clicks en schakel ik pas naar Maximize Conversions vanaf 10 tot 15 conversies. Mijn vuistregel voor het maandbudget: minstens 30 keer de kosten per conversie."
+ },
+ {
+  "id": "pinning-ad-strength",
+  "topics": [
+   "google ads",
+   "advertentieteksten",
+   "ai-optimalisatie"
+  ],
+  "text": "In testen wint gedeeltelijk vastpinnen van advertentiekoppen, en verliest alles vastpinnen. Advertentiesterkte ('Ad Strength') van Google negeer ik: dat is een invulmeter, geen voorspeller van resultaat."
+ },
+ {
+  "id": "branded-lek",
+  "topics": [
+   "google ads",
+   "zoekwoorden"
+  ],
+  "text": "De merkcampagne van een klant bleek een generieke zoekterm op te pikken: 890 euro voor 6 conversies in 18 maanden, onder het mom van 'merkverkeer'."
+ },
+ {
+  "id": "display-concurrenten",
+  "topics": [
+   "google ads",
+   "display"
+  ],
+  "text": "Een displaycampagne gericht op bezoekers van concurrenten kostte 593 euro en leverde 1 conversie op. Klinkt slim in een strategiedeck, werkt zelden."
+ },
+ {
+  "id": "ab-test-onhaalbaar",
+  "topics": [
+   "cro",
+   "shopify",
+   "data"
+  ],
+  "text": "Bij een webshop met zo'n 5.000 sessies per maand duurt het ongeveer 32 maanden om 10% verbetering in conversieratio statistisch te bewijzen. A/B-testen is voor kleine shops vaak theater; eerst de grote lekken dichten."
+ },
+ {
+  "id": "seo-autoriteit",
+  "topics": [
+   "seo",
+   "google"
+  ],
+  "text": "Mijn eigen bureausite scoorde 100/100 op on-page SEO en kreeg toch maar 44 kliks uit 8.094 vertoningen in 90 dagen. Het probleem was domeinautoriteit, niet de pagina. Een technisch perfecte site zonder links rankt niet."
+ },
+ {
+  "id": "dmarc-spam",
+  "topics": [
+   "e-mail",
+   "automatisering"
+  ],
+  "text": "Mijn eigen koude mails belandden in spam. Oorzaak: twee DMARC-records op het domein, waardoor Gmail DMARC helemaal negeerde. Eén record verwijderd en het was opgelost. Geen AI-tool had dat gevonden zonder de DNS te bekijken."
+ },
+ {
+  "id": "gbp-resultaat",
+  "topics": [
+   "lokale seo",
+   "google bedrijfsprofiel"
+  ],
+  "text": "Na het optimaliseren van een Google Bedrijfsprofiel ging een lokaal bedrijf van 1 naar 21 telefoontjes en van 5 naar 67 websitekliks per maand. Eerlijk erbij: een deel daarvan was seizoen."
+ },
+ {
+  "id": "deepseek-denken-uit",
+  "topics": [
+   "deepseek",
+   "ai-tools",
+   "api"
+  ],
+  "text": "Bij het bouwen van deze nieuwssite gaf het nieuwe DeepSeek-flash-model steeds lege antwoorden. Het model gebruikte al zijn tokens om na te denken en hield niets over voor het antwoord. Denken uitzetten en het werkte: 3 artikelen, een meme en een prompt voor 0,6 dollarcent."
+ },
+ {
+  "id": "linkedin-klonk-als-ai",
+  "topics": [
+   "linkedin",
+   "ai-teksten",
+   "content"
+  ],
+  "text": "Mensen zeiden dat mijn LinkedIn-posts als AI lazen. Klopte: elke post eindigde met een vraag, bijna elke post had 'dat is geen X, dat is Y'. Een regel die op elke post terugkomt wordt een handtekening. Menselijk klinken is concreet zijn en toegeven wat niet lukte."
+ },
+ {
+  "id": "claude-code-abonnement",
+  "topics": [
+   "claude",
+   "ai-tools",
+   "kosten"
+  ],
+  "text": "Mijn dagelijkse ochtendanalyse van klantaccounts draait via Claude Code op mijn bestaande abonnement in plaats van via een betaalde API. Geen extra kosten, en DeepSeek staat klaar als goedkope terugval."
+ },
+ {
+  "id": "elevenlabs-opgezegd",
+  "topics": [
+   "ai-tools",
+   "spraak",
+   "kosten"
+  ],
+  "text": "Ik heb ElevenLabs opgezegd en draai nu Voicebox, een open-source stemmodel, lokaal op mijn laptop. Voor voice-overs en een spraakassistent is het goed genoeg, en het kost niets."
+ },
+ {
+  "id": "budget-knoppen-mens",
+  "topics": [
+   "ai-agents",
+   "automatisering",
+   "google ads"
+  ],
+  "text": "Mijn AI-agents mogen analyseren, rapporteren, campagnes in pauze klaarzetten en teksten schrijven. Budgetten verhogen en campagnes aan- of uitzetten kunnen ze bewust niet: daar zit een harde poort op met een letterlijke bevestigingszin. Autonomie tot aan de geldknop."
+ },
+ {
+  "id": "sora-tekst-in-beeld",
+  "topics": [
+   "sora",
+   "ai-video",
+   "chatgpt"
+  ],
+  "text": "Voor een productcommercial gebruikte ik Sora voor sfeerbeelden, maar alles met schermen en tekst in beeld bouwde ik in code met Remotion. Sora maakt mooie shots en verprutst consequent letters en interfaces."
+ },
+ {
+  "id": "juni-doorbraak-schalen",
+  "topics": [
+   "google ads",
+   "budget",
+   "shopping"
+  ],
+  "text": "Bij een webshop verdubbelden we in juni het budget en de ROAS bleef op 4,9 staan. Schalen kan dus wel, als de meting klopt en de vraag er is. Bij een andere klant ging hetzelfde volledig mis."
+ },
+ {
+  "id": "feed-titels-rollout",
+  "topics": [
+   "shopping",
+   "feeds",
+   "ai-teksten"
+  ],
+  "text": "Ik liet AI de producttitels van bijna 2.000 producten in meerdere landen herschrijven. De grootste les zat niet in de teksten: bij meerdere primaire feeds moet je de aanpassing aan elke feed koppelen, anders wint de oude titel stilletjes."
+ },
+ {
+  "id": "handmatige-edit-wint",
+  "topics": [
+   "merchant center",
+   "feeds"
+  ],
+  "text": "Een nieuwe producttitel wilde maar niet live gaan in Google Shopping. Iemand had ooit handmatig de producttitel in Merchant Center aangepast, en die handmatige wijziging wint van elke feed en elke override."
+ },
+ {
+  "id": "negatieve-zoekwoorden-lijst",
+  "topics": [
+   "google ads",
+   "zoekwoorden",
+   "automatisering"
+  ],
+  "text": "Ik bouwde één gedeelde lijst met negatieve zoekwoorden voor webshops en koppelde die in één keer aan een reeks accounts, taalbewust per land. Werk van een middag dat anders per account weken sluipt."
+ },
+ {
+  "id": "customer-match-api",
+  "topics": [
+   "google ads",
+   "api",
+   "data"
+  ],
+  "text": "Klantenlijsten uploaden naar Google Ads via de API: die route is in 2026 dood en vervangen door de Data Manager API. Minimaal 100 gebruikers en toestemming in de EER. Voor Shopify-shops is de native koppeling de makkelijkste weg."
+ }
+]

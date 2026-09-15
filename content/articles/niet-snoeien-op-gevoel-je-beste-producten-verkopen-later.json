@@ -1,0 +1,66 @@
+{
+ "title": "Niet snoeien op gevoel: je beste producten verkopen later",
+ "meta": "Wie producten uitsluit omdat ze nu niet verkopen, gooit zijn toekomstige topverkopers weg. Meten over 18 maanden, niet 30 dagen.",
+ "category": "mening",
+ "tags": [
+  "longtail",
+  "Google Ads",
+  "ROAS",
+  "snoeien",
+  "e-commerce",
+  "data-analyse"
+ ],
+ "intro": "Iedereen wil producten uitsluiten die niet verkopen. Ik zeg: niet doen. Je gooit je toekomstige winst weg. Bij een webshop met duizenden producten testten we het vooruit met een hold-out. De set die we zouden uitsluiten haalde daarna een ROAS van 3,47. De set die we zouden houden? 2,84. Dát is wat je weggooit als je op korte data snoeit.",
+ "takeaways": [
+  "Beoordeel producten nooit op 30 dagen, maar op 12 tot 18 maanden data.",
+  "Een hold-out test laat zien dat 'niet-verkopende' producten later vaak beter presteren dan de rest.",
+  "Uitsluiten alleen bij bewezen nooit-verkocht over alle bronnen en varianten samen."
+ ],
+ "sections": [
+  {
+   "heading": "De hold-out die iedereen overtuigde",
+   "body": "Bij een webshop met duizenden producten stond het team klaar om alles zonder conversies uit te sluiten. Logisch, toch? Geen verkopen, geen budget verspillen. Maar ik wilde eerst bewijs. We deden een hold-out: we splitsten de producten in twee groepen. De ene groep zouden we uitsluiten, de andere houden. En toen lieten we alles gewoon draaien.\n\nHet resultaat was pijnlijk duidelijk. De set die we zouden uitsluiten haalde daarna een ROAS van 3,47. De set die we zouden houden? 2,84. Dus de producten die 'niets deden' presteerden uiteindelijk beter dan de producten die we als winnaars zagen. Wie had dat verwacht? Niemand. Maar de data liegt niet."
+  },
+  {
+   "heading": "89% van de top-50 verkocht pas laat",
+   "body": "We keken verder. Van de latere top-50 producten verkocht 89% pas in de laatste 12 maanden. Dat betekent: bijna al je toekomstige winnaars zijn nu nog 'verliezers'. Als je die uitsluit, gooi je je eigen groei weg.\n\nEn dat 'de top-100 87% van de omzet levert'? Dat is survivorship bias. Je kijkt alleen naar de producten die het nu goed doen, en vergeet dat die ooit ook niets verkochten. De longtail is geen restafval, het is je pijplijn."
+  },
+  {
+   "heading": "Nooit oordelen op 30 dagen",
+   "body": "Een andere klant dacht dat zijn account instortte. Het laatste venster gaf 39 conversies. Paniek. Maar over 25 maanden was de mediaan 83 per maand. Dus 39 is gewoon ruis, geen trend. Wie op 30 dagen oordeelt, stuurt op ruis.\n\nIk kijk altijd naar 12 tot 18 maanden en jaar-op-jaar. En ik gebruik een simpele regel: uitsluiten doe ik alleen nog bij bewezen nooit-verkocht over alle bronnen. Van 156 producten die op korte data 'nooit verkochten' bleken er 111 ooit wel verkocht, zodra we 18 maanden Ads-data, GA4 over alle kanalen en alle varianten samen bekeken."
+  },
+  {
+   "heading": "Wat AI hiermee te maken heeft",
+   "body": "Ik laat Claude Code dit soort analyses automatisch draaien. Elke maand een rapport: welke producten verkopen niet op 30 dagen, maar wel op 18 maanden? Welke moeten we echt uitsluiten? Dat scheelt uren handwerk en voorkomt emotionele beslissingen.\n\nMaar de geld-knoppen blijven bij mij. AI mag data klaarzetten, maar het besluit om een product uit te sluiten neem ik pas na een hold-out of een lange termijn check. En dat werkt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse webshops met veel producten: stop met snoeien op korte data. Draai eerst een hold-out test of kijk naar 18 maanden historie. Gebruik tools als GA4 en Google Ads rapportages, en laat AI de analyse doen. Maar houd de uitsluit-knop bij een mens die begrijpt dat 89% van de top-50 pas laat verkoopt.",
+ "faq": [
+  {
+   "q": "Hoe lang moet ik een product de kans geven voordat ik het uitsluit?",
+   "a": "Minstens 12 tot 18 maanden, en kijk naar alle kanalen en varianten samen. Alleen uitsluiten bij bewezen nooit-verkocht over die periode."
+  },
+  {
+   "q": "Wat is een hold-out test?",
+   "a": "Je splitst producten in twee groepen: één die je zou uitsluiten en één die je zou houden. Vervolgens laat je beide groepen draaien en vergelijk je de resultaten. Zo voorkom je dat je op basis van korte data verkeerde beslissingen neemt."
+  },
+  {
+   "q": "Kan ik AI gebruiken om te bepalen welke producten ik moet uitsluiten?",
+   "a": "Ja, maar alleen voor de analyse. Laat AI data verzamelen en trends signaleren, maar neem zelf de beslissing op basis van lange termijn data en een hold-out test."
+  }
+ ],
+ "lessons_used": [
+  "Les longtail-niet-snoeien",
+  "Les villains-bleken-verkopers",
+  "Les nooit-30-dagen"
+ ],
+ "slug": "niet-snoeien-op-gevoel-je-beste-producten-verkopen-later",
+ "kind": "practice",
+ "date": "2026-09-15",
+ "published": "2026-09-15T19:52",
+ "sources": [],
+ "path": "/mening/niet-snoeien-op-gevoel-je-beste-producten-verkopen-later/",
+ "og": "/img/og/niet-snoeien-op-gevoel-je-beste-producten-verkopen-later.png",
+ "lesson": "longtail-niet-snoeien",
+ "author": "Maxim"
+}
