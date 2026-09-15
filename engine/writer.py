@@ -96,17 +96,20 @@ Schema:
 
 def write_meme(recent_titles: list[str], today: str, previous: list[str]) -> dict:
     prev = "\n".join(f"- {p}" for p in previous[-30:]) or "- (nog geen)"
-    user = f"""Datum vandaag: {today}. Bedenk de "AI-meme van de dag": een herkenbare, grappige
-observatie over leven en werken met ChatGPT/AI, in het Nederlands. Format = een tweedelige tekstmeme:
-"top" (situatie, max 70 tekens) en "bottom" (punchline, max 80 tekens). Droog, herkenbaar, nooit
-kwetsend, geen echte personen, geen merk-bashen, geen politiek. Mag inhaken op het nieuws van vandaag:
+    user = f"""Datum vandaag: {today}. Bedenk de "AI-meme van de dag": één herkenbare, grappige
+observatie over leven en werken met ChatGPT/AI. Lever hem in TWEE talen: een Nederlandse versie en een
+Engelse versie die in het Engels óók echt grappig is (zelfde idee, geen letterlijke vertaling; Engelse
+versie mag een andere woordgrap gebruiken). Format per taal = tweedelige tekstmeme: situatie (max 70
+tekens) en punchline (max 80 tekens). Droog, herkenbaar, nooit kwetsend, geen echte personen, geen
+merk-bashen, geen politiek. Mag inhaken op het nieuws van vandaag:
 {chr(10).join('- ' + t for t in recent_titles[:6])}
 
 Deze memes bestaan al (maak iets anders):
 {prev}
 
-Antwoord: {{"top": "...", "bottom": "...", "alt": "beschrijving van de meme in 1 zin", "hashtags": ["3 tags"]}}"""
-    return ask_json(STYLE, user, temperature=0.95, max_tokens=400)
+Antwoord: {{"top": "NL situatie", "bottom": "NL punchline", "alt": "NL beschrijving in 1 zin", "hashtags": ["3 NL tags"],
+"top_en": "EN situation", "bottom_en": "EN punchline", "alt_en": "EN one-sentence description", "hashtags_en": ["3 EN tags"]}}"""
+    return ask_json(STYLE, user, temperature=0.95, max_tokens=700)
 
 
 def write_prompt_of_day(today: str, previous: list[str]) -> dict:

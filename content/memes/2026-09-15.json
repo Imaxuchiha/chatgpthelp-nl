@@ -1,12 +1,21 @@
 {
- "top": "AI-assistent beheert mijn hele inbox",
- "bottom": "Ik mis alleen nog een assistent die mijn baas beheert",
- "alt": "Een mailbox waar een AI alle mail afhandelt, terwijl de baas nog steeds zelf om aandacht blijft vragen.",
+ "top": "AI-bazen willen ontwikkeling vertragen",
+ "bottom": "Mijn chatbot vraagt nu ook om een sabbatical",
+ "alt": "AI-leiders pleiten voor een pauze, terwijl mijn assistent gewoon vrij wil.",
  "hashtags": [
-  "#AIopwerk",
+  "#AIpauze",
   "#ChatGPT",
-  "#kantoorleven"
+  "#werkplek"
+ ],
+ "top_en": "AI bosses agree to slow down development",
+ "bottom_en": "Mine just asked for a four-day workweek",
+ "alt_en": "Tech leaders promise to hit the brakes while my AI quietly requests Fridays off.",
+ "hashtags_en": [
+  "#AIBreak",
+  "#ChatGPT",
+  "#FutureOfWork"
  ],
  "date": "2026-09-15",
- "img": "/img/memes/2026-09-15.png"
+ "img": "/img/memes/2026-09-15.png",
+ "img_en": "/img/memes/2026-09-15-en.png"
 }

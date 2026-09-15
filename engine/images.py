@@ -96,14 +96,14 @@ def og_card(title: str, category: str, out: Path, seed: str = "") -> Path:
     return out
 
 
-def meme_card(top: str, bottom: str, out: Path, seed: str = "") -> Path:
+def meme_card(top: str, bottom: str, out: Path, seed: str = "", label: str = "AI-MEME VAN DE DAG") -> Path:
     """Tekstmeme: twee panelen — situatie boven (papier), punchline onder (inkt)."""
     W, H = 1080, 1080
     img = Image.new("RGBA", (W, H), PAPER + (255,))
     d = ImageDraw.Draw(img)
     # bovenpaneel
     tag = _font("Inter.ttf", 28, "SemiBold")
-    d.text((70, 64), "AI-MEME VAN DE DAG", font=tag, fill=ACCENT)
+    d.text((70, 64), label, font=tag, fill=ACCENT)
     f1, l1, lh1 = _fit(d, top, "Fraunces.ttf", "SemiBold", W - 140, 330, 68, 36)
     y = 130
     for ln in l1:

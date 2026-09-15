@@ -144,10 +144,11 @@ def meme(existing: list[dict], stamp: datetime) -> dict | None:
         return None
     prev = [m.get("bottom", "") for m in load_memes()]
     m = writer.write_meme([a["title"] for a in existing[:8]], stamp.strftime("%d-%m-%Y"), prev)
-    if not (m.get("top") and m.get("bottom")) or len(m["top"]) > 90 or len(m["bottom"]) > 100:
-        print(f"  meme afgekeurd: {m}")
-        return None
-    m.update({"date": date, "img": f"/img/memes/{date}.png"})
+    for a, b in (("top", "bottom"), ("top_en", "bottom_en")):
+        if not (m.get(a) and m.get(b)) or len(m[a]) > 90 or len(m[b]) > 100:
+            print(f"  meme afgekeurd ({a}): {m}")
+            return None
+    m.update({"date": date, "img": f"/img/memes/{date}.png", "img_en": f"/img/memes/{date}-en.png"})
     _save(MEMES, date, m)
     return m
 

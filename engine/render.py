@@ -233,7 +233,8 @@ def meme_page(m: dict, memes: list[dict]) -> str:
     body = (f'<article class="post"><span class="kicker">AI-meme van de dag</span><h1>{E(m["top"])} — {E(m["bottom"])}</h1>'
             f'<div class="meta">{nl_date(m["date"])}</div><div class="memebox" style="margin:18px 0"><img src="{m["img"]}" alt="{E(m.get("alt", ""))}" width="1080" height="1080"></div>'
             f'<p class="meta">Deel de link of sla de afbeelding op. {" ".join("#" + E(h.strip("#")) for h in m.get("hashtags", []))}</p>'
-            f'<div class="grid">{"".join(f"<a class=memebox href=/memes/{x['date']}/><img src={x['img']} alt=\"\" loading=lazy width=1080 height=1080></a>" for x in others)}</div></article>')
+            + (f'<h2>English version</h2><div class="memebox" style="margin:18px 0;max-width:540px"><img src="{m["img_en"]}" alt="{E(m.get("alt_en", ""))}" width="1080" height="1080"></div>' if m.get("top_en") else "")
+            + f'<div class="grid">{"".join(f"<a class=memebox href=/memes/{x['date']}/><img src={x['img']} alt=\"\" loading=lazy width=1080 height=1080></a>" for x in others)}</div></article>')
     return page(f"Meme: {m['top']}", m.get("alt") or m["bottom"], f"/memes/{m['date']}/", body, m["img"], nav_on="memes")
 
 
@@ -318,6 +319,8 @@ def build() -> int:
         images.og_card(a["title"], CATEGORIES[a["category"]][0], DIST / a["og"].lstrip("/"), a["slug"])
     for m in memes:
         images.meme_card(m["top"], m["bottom"], DIST / m["img"].lstrip("/"), m["date"])
+        if m.get("top_en"):
+            images.meme_card(m["top_en"], m["bottom_en"], DIST / m["img_en"].lstrip("/"), m["date"] + "en", "AI MEME OF THE DAY")
     for p in prompts:
         images.prompt_card(p["title"], p["prompt"], DIST / "img" / "prompts" / f"{p['date']}.png")
     n = 0

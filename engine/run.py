@@ -7,7 +7,9 @@
 """
 from __future__ import annotations
 
+import json
 import os
+import re
 import sys
 from datetime import datetime
 
@@ -56,8 +58,9 @@ def cmd_run() -> int:
             except Exception as e:  # noqa: BLE001
                 print(f"  {label}-fout: {e}")
     fetch.save_ledger(ledger)
+    bsky = post_memes()
     cost = (USAGE["prompt"] * 0.30 + USAGE["completion"] * 1.20) / 1e6
-    parts = [f"{len(new)} nieuws"] + [k for k, v in extra.items() if v]
+    parts = [f"{len(new)} nieuws"] + [k for k, v in extra.items() if v] + ([f"bluesky {bsky}"] if bsky else [])
     line = (f"chatgpthelp.nl {stamp:%d-%m %H:%M}: {', '.join(parts)} · {len(stories)} verhalen gezien · "
             f"{USAGE['calls']} LLM-calls ≈ ${cost:.3f}")
     if new:
@@ -65,6 +68,44 @@ def cmd_run() -> int:
     print(line)
     notify.slack(line)
     return 0
+
+
+def post_memes() -> int:
+    """Plaatst de meme van vandaag op Bluesky: NL én EN, elk één keer (vlag in het JSON-bestand).
+    Stil overslaan als Bluesky niet geconfigureerd is."""
+    from . import images, social
+
+    if not social.enabled():
+        return 0
+    memes = editorial.load_memes()
+    if not memes:
+        return 0
+    m = memes[0]
+    if m["date"] != datetime.now().strftime("%Y-%m-%d"):
+        return 0  # alleen de meme van vandaag, nooit een achterstand inhalen
+    tmp = DIST.parent / ".tmp"
+    tmp.mkdir(exist_ok=True)
+    n = 0
+    for key, lang, label, top, bottom, alt, tags in (
+        ("bsky_nl", "nl", "AI-MEME VAN DE DAG", m["top"], m["bottom"], m.get("alt", ""), m.get("hashtags", [])),
+        ("bsky_en", "en", "AI MEME OF THE DAY", m.get("top_en"), m.get("bottom_en"), m.get("alt_en", ""), m.get("hashtags_en", [])),
+    ):
+        if not top or m.get(key):
+            continue
+        path = images.meme_card(top, bottom, tmp / f"{m['date']}-{lang}.png", m["date"] + lang, label)
+        hashtags = " ".join("#" + re.sub(r"\W", "", t) for t in (tags or [])[:3]) or ("#AI #ChatGPT #meme" if lang == "nl" else "#AI #ChatGPT #meme")
+        text = f"{top}\n{bottom}\n\n{hashtags}\n{SITE['url']}/memes/{m['date']}/"
+        try:
+            uri = social.post_image(text, str(path), f"{top} — {bottom}. {alt}", lang)
+        except Exception as e:  # noqa: BLE001
+            print(f"  bluesky-fout ({lang}): {e}")
+            continue
+        if uri:
+            m[key] = uri
+            (MEMES / f"{m['date']}.json").write_text(json.dumps(m, ensure_ascii=False, indent=1), encoding="utf-8")
+            n += 1
+            print(f"  bluesky {lang}: {uri}")
+    return n
 
 
 def cmd_build() -> int:
