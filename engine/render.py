@@ -66,9 +66,10 @@ def page(title: str, desc: str, path: str, body: str, og: str = "/img/og-default
     full_title = title if title.endswith(SITE["name"]) else f"{title} · {SITE['name']}"
     measure = ""
     if SITE.get("ga4"):
-        measure = f"""<!-- GA4 cookieloos: Consent Mode v2 staat altijd op denied, er worden geen cookies geplaatst -->
+        measure = f"""<!-- GA4 met first-party analytics-cookies, zonder banner. Advertentie-opslag en -signalen staan uit. -->
 <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}
-gtag('consent','default',{{ad_storage:'denied',analytics_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',functionality_storage:'granted',personalization_storage:'denied',security_storage:'granted',wait_for_update:500}});</script>
+gtag('consent','default',{{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'granted',functionality_storage:'granted',personalization_storage:'denied',security_storage:'granted'}});
+gtag('set','allow_google_signals',false);gtag('set','allow_ad_personalization_signals',false);</script>
 <script async src="https://www.googletagmanager.com/gtag/js?id={SITE['ga4']}"></script>
 <script>gtag('js',new Date());gtag('config','{SITE['ga4']}',{{anonymize_ip:true}});</script>"""
     nav = "".join(
@@ -278,8 +279,8 @@ def about() -> str:
 
 def privacy() -> str:
     body = f"""<article class="post prose"><h1>Privacy</h1>
-<p class="intro">Kort: we plaatsen geen cookies en volgen je niet.</p>
-<p>We gebruiken Google Analytics 4 in cookieloze modus om te zien welke artikelen gelezen worden. Google Consent Mode v2 staat vast op "geweigerd": er worden geen analytics- of advertentiecookies geplaatst, er wordt geen bezoekers-ID opgeslagen en je IP-adres wordt geanonimiseerd. Daardoor is er ook geen cookiebanner nodig.</p>
+<p class="intro">Kort: alleen analytische cookies, geen advertentiecookies, geen profilering.</p>
+<p>We gebruiken Google Analytics 4 om te zien welke artikelen gelezen worden. Daarvoor plaatst Google Analytics analytische cookies (_ga, _ga_*) die tot 14 maanden bewaard blijven. Je IP-adres wordt geanonimiseerd, Google-signalen en advertentiepersonalisatie staan uit, en we delen geen gegevens met Google voor andere doeleinden. Er worden geen advertentie- of trackingcookies van derden geplaatst. Wil je niet gemeten worden, dan kun je cookies blokkeren in je browser of de <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener" target="_blank">Google Analytics opt-out</a> gebruiken.</p>
 <p>Geen advertentienetwerken, geen profilering. De site wordt gehost op GitHub Pages; GitHub kan voor de werking van de dienst tijdelijk IP-adressen in serverlogs bewaren (zie het privacybeleid van GitHub). Lettertypen worden geladen via Google Fonts; daarbij ziet Google je IP-adres. Verder verwerken we geen persoonsgegevens, tenzij je ons zelf mailt.</p>
 <p>De knop "Kopieer prompt" werkt volledig in je browser. Links naar externe sites (bronnen, sponsor) vallen onder het beleid van die sites.</p>
 <p>Vragen: <a href="mailto:{E(SITE['email'])}">{E(SITE['email'])}</a>.</p></article>"""

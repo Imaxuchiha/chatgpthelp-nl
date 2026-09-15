@@ -34,7 +34,7 @@ SITE = {
     "lang": "nl",
     "twitter": "",
     "bluesky": "https://bsky.app/profile/chatgpthelp.nl",
-    # Meting: GA4 cookieloos (Consent Mode v2 altijd denied, geen banner — Maxim 15-09).
+    # Meting: GA4 met analytics-cookies zonder banner (bewuste keuze Maxim 15-09); ads-opslag/signalen uit.
     "ga4": "G-68TBRXKHX0",
     # Enige commerciële link (kostenbewust, geen ads): AI-training van Maxim.
     "sponsor": {
