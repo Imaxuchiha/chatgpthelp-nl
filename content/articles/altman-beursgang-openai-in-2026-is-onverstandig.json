@@ -1,0 +1,66 @@
+{
+ "title": "Altman: beursgang OpenAI in 2026 is 'onverstandig'",
+ "meta": "OpenAI-topman Sam Altman zegt dat een beursgang dit jaar onverstandig zou zijn, terwijl het bedrijf wel vertrouwelijk een beursgang heeft aangevraagd.",
+ "category": "bedrijven",
+ "tags": [
+  "openai",
+  "beursgang",
+  "sam altman",
+  "ipo",
+  "ai"
+ ],
+ "intro": "OpenAI gaat dit jaar niet naar de beurs. Dat heeft topman Sam Altman gezegd in een interview met zakenblad Fortune. Hij noemt een beursgang in 2026 \"ill-advised\", oftewel onverstandig. Tegelijk meldt TechCrunch dat OpenAI al wel vertrouwelijk een beursgang heeft aangevraagd.",
+ "takeaways": [
+  "Altman zegt in een interview met Fortune dat OpenAI in 2026 niet naar de beurs gaat.",
+  "Hij noemt een beursgang dit jaar \"ill-advised\", wat onverstandig betekent.",
+  "OpenAI heeft wel vertrouwelijk een beursgang aangevraagd, meldt TechCrunch.",
+  "In het gesprek van 45 minuten kwamen ook het hackincident bij Hugging Face en recursive self-improvement aan bod."
+ ],
+ "sections": [
+  {
+   "heading": "Geen beursgang dit jaar",
+   "body": "OpenAI blijft voorlopig een bedrijf dat aandelen in private handen houdt. Topman Sam Altman sluit een beursgang in 2026 uit. In een interview met Fortune zegt hij dat zo'n stap nu onverstandig zou zijn, meldt The Verge.\n\nOpvallend is dat OpenAI volgens TechCrunch al vertrouwelijk een beursgang heeft aangevraagd. Dat betekent dat het bedrijf de papieren klaar heeft liggen, maar nog geen datum prikt. Vertrouwelijk aanvragen mag in de Verenigde Staten: een bedrijf dient dan eerst onder de pet een aanvraag in en maakt die pas later openbaar.\n\nEen aanvraag is dus geen garantie dat er ook echt een beursgang komt. Altman maakt nu duidelijk dat het dit jaar in elk geval niet gebeurt."
+  },
+  {
+   "heading": "Wat er verder ter sprake kwam",
+   "body": "Het interview duurde volgens The Verge 45 minuten. Altman had het niet alleen over de beurs. Ook het hackincident bij Hugging Face kwam aan bod. Hugging Face is een platform waar veel AI-ontwikkelaars modellen en datasets delen; een hack daar raakt dus veel partijen tegelijk.\n\nDaarnaast sprak Altman over recursive self-improvement. Dat is het idee dat een AI-systeem zichzelf stap voor stap verbetert, waardoor het steeds sneller beter wordt. Het is een van de onderwerpen waarover binnen de AI-sector veel wordt gediscussieerd.\n\nOok de mogelijkheid van een AI die buiten menselijke controle valt, kwam langs. Wat Altman daar precies over zei, is in de beschikbare bronnen niet volledig weergegeven. Daarover is dus nog geen volledige duidelijkheid."
+  },
+  {
+   "heading": "Waarom dit nieuws is",
+   "body": "OpenAI is een van de bekendste AI-bedrijven ter wereld en heeft een flinke hoeveelheid kapitaal opgehaald bij investeerders. Een beursgang zou betekenen dat gewone beleggers aandelen kunnen kopen en dat het bedrijf meer openheid moet geven over cijfers en risico's.\n\nZolang dat niet gebeurt, blijft de financiering achter gesloten deuren verlopen. Wie wil meeprofiteren, moet dat via bestaande aandeelhouders doen. Voor het grote publiek verandert er voorlopig weinig.\n\nHet is nog niet bekend wanneer OpenAI dan wél naar de beurs zou willen. Daar heeft het bedrijf volgens de beschikbare bronnen niets over gezegd."
+  }
+ ],
+ "nl_angle": "Voor gebruikers in Nederland verandert er op korte termijn weinig. ChatGPT blijft gewoon beschikbaar en de prijzen in euro's blijven zoals ze zijn; een uitgestelde beursgang zegt daar niets over. Voor Nederlandse beleggers is er geen nieuw aandeel om te kopen. Zij kunnen OpenAI-aandelen sowieso niet via een gewone broker kopen, want die zijn niet beursgenoteerd. Mocht OpenAI later wel naar de beurs gaan, dan is het nog maar de vraag of en wanneer Europese beleggers kunnen instappen. Bedrijven die op OpenAI bouwen, moeten er rekening mee houden dat de eigendomsstructuur voorlopig onveranderd blijft.",
+ "faq": [
+  {
+   "q": "Komt er een beursgang van OpenAI in 2026?",
+   "a": "Nee. Topman Sam Altman zegt dat een beursgang dit jaar onverstandig zou zijn. OpenAI heeft wel vertrouwelijk een aanvraag ingediend, maar er is geen datum bekend."
+  },
+  {
+   "q": "Wat betekent 'ill-advised'?",
+   "a": "Dat is Engels voor onverstandig. Altman bedoelt dat het nu geen goed moment is om OpenAI naar de beurs te brengen."
+  },
+  {
+   "q": "Kan ik als Nederlander OpenAI-aandelen kopen?",
+   "a": "Nee. OpenAI is niet beursgenoteerd, dus er zijn geen aandelen die je via een Nederlandse broker kunt kopen. Of dat later verandert, is nog niet bekend."
+  }
+ ],
+ "slug": "altman-beursgang-openai-in-2026-is-onverstandig",
+ "kind": "news",
+ "date": "2026-09-15",
+ "published": "2026-09-15T11:55",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
+  },
+  {
+   "name": "TechCrunch",
+   "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+   "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+  }
+ ],
+ "path": "/bedrijven/altman-beursgang-openai-in-2026-is-onverstandig/",
+ "og": "/img/og/altman-beursgang-openai-in-2026-is-onverstandig.png"
+}
