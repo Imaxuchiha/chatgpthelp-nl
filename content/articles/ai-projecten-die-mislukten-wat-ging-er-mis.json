@@ -1,0 +1,68 @@
+{
+ "keyword": "ai projecten mislukt",
+ "seo_title": "AI-projecten die mislukten: wat ging er mis?",
+ "title": "AI-projecten die mislukten: wat ging er mis?",
+ "meta": "TechCrunch houdt een lijst bij van AI-projecten en startups die stopten of tegenvielen. Wat betekent dat voor AI in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "startups",
+  "techcrunch",
+  "siri",
+  "openai"
+ ],
+ "intro": "TechCrunch houdt een doorlopende lijst bij van AI-projecten en startups die het niet redden. Van de steeds uitgestelde Siri-AI van Apple tot een rommelige lancering van een OpenAI-superapp. De lijst laat zien dat niet elk AI-plan uitkomt.",
+ "takeaways": [
+  "TechCrunch publiceert een doorlopende lijst van mislukte AI-projecten en startups.",
+  "Apple stelt zijn Siri-AI steeds opnieuw uit, meldt TechCrunch.",
+  "OpenAI kampte volgens TechCrunch met een rommelige lancering van een superapp.",
+  "De lijst laat zien dat beloftes over AI niet altijd worden waargemaakt."
+ ],
+ "sections": [
+  {
+   "heading": "Een lijst van AI-projecten die het niet haalden",
+   "body": "TechCrunch is begonnen met een doorlopend overzicht van AI-projecten en startups die stopten of achterbleven bij de verwachtingen. De lijst heet het AI-graveyard en wordt bijgehouden door de redactie.\n\nHet gaat nadrukkelijk niet alleen om kleine bedrijven. Ook grote namen staan erin, zoals Apple en OpenAI. Daarmee laat de lijst zien dat AI-beloftes niet automatisch werkelijkheid worden, ook niet bij partijen met veel geld en mensen."
+  },
+  {
+   "heading": "Apple en Siri: steeds opnieuw uitgesteld",
+   "body": "Volgens TechCrunch is de AI-versie van Siri van Apple meerdere keren uitgesteld. Het bedrijf beloofde een slimmere assistent, maar de oplevering liet op zich wachten.\n\nVoor gebruikers betekent dat vooral onduidelijkheid: wanneer komt de beloofde functie echt? TechCrunch noemt de vertragingen als voorbeeld van een project dat niet aan de verwachtingen voldeed."
+  },
+  {
+   "heading": "OpenAI en de rommelige superapp",
+   "body": "TechCrunch schrijft ook over de lancering van een zogenoemde superapp van OpenAI. Die lancering verliep rommelig, aldus de techsite. Een superapp is één app waarin meerdere functies samenkomen, bijvoorbeeld chat, zoeken en andere diensten.\n\nWat er precies misging, maakt TechCrunch niet in detail duidelijk. Wel staat vast dat OpenAI zelf het project heeft uitgebracht en dat de introductie niet soepel verliep."
+  },
+  {
+   "heading": "Waarom zo'n lijst nuttig is",
+   "body": "De lijst is een tegenwicht tegen het optimisme dat vaak rond AI hangt. TechCrunch verzamelt gevallen waarin projecten stopten of niet leverden wat was beloofd.\n\nVoor investeerders, ontwikkelaars en gebruikers is dat relevant. Het helpt om te zien welke beloftes wel worden gehaald en welke niet. De lijst wordt regelmatig aangevuld, meldt TechCrunch."
+  }
+ ],
+ "nl_angle": "Voor Nederland is deze lijst vooral een waarschuwing. Veel Nederlandse bedrijven en organisaties kijken bij AI-plannen naar grote namen als Apple en OpenAI. Als die hun eigen deadlines niet halen, is het verstandig om niet blind op hun beloftes te bouwen. Vraag leveranciers naar concrete opleverdata en testfuncties voordat je er processen op inricht. Ook voor Nederlandse startups laat de lijst zien dat een goed idee alleen niet genoeg is: geld, timing en uitvoering tellen net zo zwaar.",
+ "faq": [
+  {
+   "q": "Wat is het AI-graveyard van TechCrunch?",
+   "a": "Het is een doorlopende lijst van AI-projecten en startups die stopten of niet aan de verwachtingen voldeden. TechCrunch vult de lijst regelmatig aan."
+  },
+  {
+   "q": "Waarom is de Siri-AI van Apple uitgesteld?",
+   "a": "TechCrunch noemt de AI-versie van Siri als voorbeeld van een project dat meerdere keren is uitgesteld. Wat precies de oorzaak is, maakt de site niet duidelijk."
+  },
+  {
+   "q": "Wat ging er mis bij de superapp van OpenAI?",
+   "a": "Volgens TechCrunch verliep de lancering van de superapp rommelig. Details over de oorzaak geeft de techsite niet."
+  }
+ ],
+ "slug": "ai-projecten-die-mislukten-wat-ging-er-mis",
+ "kind": "news",
+ "date": "2026-09-15",
+ "published": "2026-09-15T21:41",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+  }
+ ],
+ "path": "/nieuws/ai-projecten-die-mislukten-wat-ging-er-mis/",
+ "og": "/img/og/ai-projecten-die-mislukten-wat-ging-er-mis.png",
+ "take": "TechCrunch houdt een lijst bij van AI-projecten die het niet redden, en dat verbaast me niks. Ik zie te veel aankondigingen die klinken als een product terwijl er nog niks werkt, en daar prik ik zo doorheen. Bij mij op de zaak geldt: een demo is geen product, en je bent pas klaar als het op een echt account gewoon draait."
+}

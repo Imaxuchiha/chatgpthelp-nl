@@ -1,0 +1,68 @@
+{
+ "keyword": "datacenters aardgas verbruik",
+ "seo_title": "Datacenters VS verbruiken straks meer aardgas dan Duitsland",
+ "title": "Datacenters VS verbruiken straks meer aardgas dan Duitsland en Japan samen",
+ "meta": "AI-datacenters in de VS kunnen tegen 2035 meer aardgas verbruiken dan Duitsland en Japan samen. Wat betekent dat voor Nederland en de energierekening?",
+ "category": "nieuws",
+ "tags": [
+  "datacenters",
+  "aardgas",
+  "ai",
+  "energie",
+  "verenigde staten"
+ ],
+ "intro": "De groei van AI-datacenters in de Verenigde Staten kan het aardgasverbruik daar flink opstuwen. Volgens TechCrunch zouden die datacenters tegen 2035 samen meer aardgas kunnen gebruiken dan Duitsland en Japan bij elkaar. Dat raakt ook Europa, want de gasmarkt is internationaal.",
+ "takeaways": [
+  "AI-datacenters in de VS kunnen tegen 2035 meer aardgas verbruiken dan Duitsland en Japan samen.",
+  "TechCrunch meldt dat de AI-hausse Amerikaanse datacenters tot de grootste gasverbruikers ter wereld kan maken.",
+  "Meer vraag naar gas in de VS werkt door op de wereldwijde gasprijs, ook in Nederland.",
+  "Nederlandse datacenters en stroomnetten krijgen mogelijk te maken met dezelfde energiedruk."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er aan de hand is",
+   "body": "TechCrunch meldt dat de AI-hausse Amerikaanse datacenters kan maken tot een van de grootste verbruikers van aardgas ter wereld. De verwachting is dat die datacenters in 2035 samen meer aardgas gebruiken dan Duitsland en Japan bij elkaar. Dat is een flinke verschuiving: datacenters waren altijd vooral stroomvreters, nu worden ze ook grote gasverbruikers.\n\nDe reden is simpel. AI-modellen trainen en draaien kost veel energie, en dat gebeurt steeds vaker met gascentrales. Die zijn sneller te bouwen dan wind- of zonneparken en leveren ook 's nachts stroom. TechCrunch noemt geen exacte cijfers per jaar, dus hoeveel kubieke meter gas het precies wordt, is nog niet bekend."
+  },
+  {
+   "heading": "Waarom gas en niet groene stroom",
+   "body": "Datacenters willen het liefst groene stroom, maar het aanbod groeit niet snel genoeg. Nieuwe windparken en zonneparken kosten jaren aan vergunningen en netaansluitingen. Een gascentrale neerzetten gaat sneller, zeker in de VS waar veel gas uit eigen bodem komt.\n\nDaar komt bij dat het stroomnet de pieken niet aankan. Als een datacenter op een slechte plek staat, is een eigen gascentrale soms de enige optie om snel te kunnen draaien. TechCrunch schrijft dat dit patroon de VS richting een veel hoger gasverbruik duwt."
+  },
+  {
+   "heading": "Wat dit betekent voor de gasmarkt",
+   "body": "De VS is al een grote exporteur van vloeibaar aardgas (lng). Als Amerikaanse datacenters zelf meer gas opslokken, blijft er minder over voor de export. Europese landen, waaronder Nederland, kopen juist veel lng uit de VS sinds het wegvallen van Russisch gas.\n\nMinder aanbod op de wereldmarkt betekent meestal een hogere prijs. Voor Nederlandse huishoudens en bedrijven kan dat doorwerken in de energierekening, al hangt dat ook af van het weer, de opslag en het beleid in Brussel. Concrete prijsvoorspellingen geeft TechCrunch niet."
+  },
+  {
+   "heading": "Datacenters in Nederland",
+   "body": "Nederland heeft zelf een flinke datacentersector, onder meer in de Amsterdamse regio en in Groningen. Die draaien vooral op stroom van het net, niet op eigen gascentrales. Toch speelt hier hetzelfde probleem: het stroomnet zit vol en nieuwe aansluitingen wachten soms jaren.\n\nAls de vraag naar AI-rekenkracht blijft groeien, kan de druk om toch gas bij te stoken toenemen. Dat botst met de Nederlandse klimaatdoelen en met de afspraken in de EU over het terugdringen van fossiele brandstoffen."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral een prijs- en netverhaal. Meer gasverbruik in de VS betekent minder lng voor de export en dus mogelijk een hogere gasprijs in Europa. Tegelijk zitten Nederlandse datacenters en het stroomnet al krap. Bedrijven die AI willen draaien, krijgen te maken met wachttijden voor een netaansluiting en met stijgende energiekosten. Wie in Nederland een AI-dienst gebruikt of bouwt, merkt dat indirect in de rekening.",
+ "faq": [
+  {
+   "q": "Waarom gebruiken datacenters aardgas?",
+   "a": "Omdat gascentrales snel te bouwen zijn en altijd stroom leveren, ook als de zon niet schijnt. Groene stroom groeit niet snel genoeg om aan de AI-vraag te voldoen."
+  },
+  {
+   "q": "Merken we dat in Nederland?",
+   "a": "Mogelijk wel. De gasmarkt is wereldwijd, dus meer verbruik in de VS kan de prijs in Europa opdrijven. Nederland koopt veel lng uit de VS."
+  },
+  {
+   "q": "Hoeveel gas gaat het precies om?",
+   "a": "Dat is nog niet bekend. TechCrunch noemt alleen de vergelijking met Duitsland en Japan samen in 2035, zonder exacte cijfers."
+  }
+ ],
+ "slug": "datacenters-vs-verbruiken-straks-meer-aardgas-dan-duitsland-en-japan-s",
+ "kind": "news",
+ "date": "2026-09-15",
+ "published": "2026-09-15T21:42",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+   "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
+  }
+ ],
+ "path": "/nieuws/datacenters-vs-verbruiken-straks-meer-aardgas-dan-duitsland-en-japan-s/",
+ "og": "/img/og/datacenters-vs-verbruiken-straks-meer-aardgas-dan-duitsland-en-japan-s.png",
+ "take": "Een gasverbruik dat over tien jaar groter is dan dat van Duitsland en Japan samen, dat is een rekenmodel en geen gebouwd datacenter. Ik geloof pas in zulke cijfers als die centrales er echt staan en er echt gas doorheen gaat, en tot die tijd is het voor mij een demo. Voor Nederland betekent dit vooral een internationale gasmarkt die duur kan blijven, en dat merk je gewoon op de energierekening van je zaak."
+}
