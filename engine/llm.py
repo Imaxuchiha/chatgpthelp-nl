@@ -22,6 +22,8 @@ def chat(messages, temperature=0.6, max_tokens=3000, json_mode=True, retries=3):
         "messages": messages,
         "temperature": temperature,
         "max_tokens": max_tokens,
+        # deepseek-flash is een redeneermodel; zonder dit zit max_tokens vol met denkwerk en is content leeg
+        "thinking": {"type": "disabled"},
     }
     if json_mode:
         body["response_format"] = {"type": "json_object"}
