@@ -32,8 +32,10 @@ Categorieën: {CATS}.
 Antwoord ALTIJD met één JSON-object, zonder tekst eromheen."""
 
 ARTICLE_SCHEMA = """{
- "title": "string, max 70 tekens",
- "meta": "string, 70-155 tekens, zin die de kern samenvat",
+ "keyword": "de zoekterm waarop een Nederlander dit googelt, 2-4 woorden, kleine letters (bijv. 'chatgpt agent mode')",
+ "seo_title": "titel voor Google: 40-58 tekens, zoekterm VOORAAN, concreet, geen sitenaam",
+ "title": "kop (H1) voor op de pagina, max 70 tekens, bevat de zoekterm",
+ "meta": "meta description 130-155 tekens: bevat de zoekterm, zegt wat de lezer leert of krijgt",
  "category": "een van de categorie-slugs",
  "tags": ["3-6 korte tags in kleine letters"],
  "intro": "1 alinea van 2-4 zinnen: wat is er gebeurd en waarom telt het",
@@ -140,8 +142,10 @@ def social_caption(art: dict) -> str:
 # Sterker model voor persona-content (volgt de anekdote-regel veel beter dan flash); ~3 stukken/week.
 PERSONA_MODEL = "deepseek-v4-pro"
 COLUMN_SCHEMA = """{
- "title": "pakkende maar eerlijke kop, max 70 tekens, mag een stelling zijn",
- "meta": "70-155 tekens: zijn standpunt in één zin",
+ "keyword": "de zoekterm waarop een Nederlander dit googelt, 2-4 woorden, kleine letters (bijv. 'chatgpt agent mode')",
+ "seo_title": "titel voor Google: 40-58 tekens, zoekterm VOORAAN, concreet, geen sitenaam",
+ "title": "pakkende maar eerlijke kop (H1), max 70 tekens, mag een stelling zijn, bevat de zoekterm",
+ "meta": "meta description 130-155 tekens: bevat de zoekterm en zijn standpunt",
  "category": "mening",
  "tags": ["3-6 tags"],
  "intro": "openingsalinea: meteen zijn standpunt, geen aanloop",

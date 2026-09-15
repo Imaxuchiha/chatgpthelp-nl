@@ -90,3 +90,7 @@ footer a{color:var(--ink)}
 .take small{color:#b9b8b0}
 .take small a{color:#fff}
 .take .av{background:var(--accent)}
+
+.home-h1{font-family:Fraunces,Georgia,serif;font-size:clamp(1.25rem,2.4vw,1.6rem);margin:18px 0 4px;font-weight:600}
+.ai-note{font-size:.78rem;color:var(--muted);margin:28px 0 0;opacity:.8}
+.ai-note a{color:inherit}

@@ -48,6 +48,18 @@ def fix_meta(art: dict, limit: int = 155) -> None:
     art["meta"] = cut + "…"
 
 
+def fix_seo(art: dict, limit: int = 60) -> None:
+    """seo_title (title-tag) netjes houden: fallback op de kop, inkorten op woordgrens, geen sitenaam."""
+    t = (art.get("seo_title") or art.get("title") or "").strip()
+    t = re.sub(r"\s*[|·\-–—]\s*ChatGPT ?Help(\.nl)?\s*$", "", t, flags=re.I)
+    if len(t) > limit:
+        t = t[:limit].rsplit(" ", 1)[0].rstrip(",;:-–— ")
+        while re.search(r"\s(en|of|van|de|het|een|voor|met|in|op|te|om|:)$", t, re.I):
+            t = t.rsplit(" ", 1)[0].rstrip(",;:-–— ")
+    art["seo_title"] = t
+    art["keyword"] = (art.get("keyword") or "").strip().lower()
+
+
 FOREIGN = re.compile(r"[Ѐ-ӿ֐-ۿ฀-๿぀-ヿ㐀-鿿가-힯]")
 
 
@@ -77,6 +89,7 @@ def antithesis(text: str) -> str | None:
 def check_article(art: dict, sources_text: str, previous_titles: list[str], kind: str = "news") -> list[str]:
     errs = []
     fix_meta(art, LIMITS["meta_max"] - 3)
+    fix_seo(art)
     title = (art.get("title") or "").strip()
     meta = (art.get("meta") or "").strip()
     body = article_text(art)

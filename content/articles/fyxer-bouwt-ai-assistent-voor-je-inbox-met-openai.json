@@ -1,6 +1,6 @@
 {
  "title": "Fyxer bouwt AI-assistent voor je inbox met OpenAI",
- "meta": "Fyxer gebruikt OpenAI-modellen, fine-tuning en feedback van gebruikers om e-mails op te stellen in jouw eigen stem. Wat betekent dat voor Nederland?",
+ "meta": "Fyxer gebruikt OpenAI-modellen, fine-tuning en feedback om je inbox te ordenen en e-mails in jouw eigen schrijfstijl op te stellen. Zo werkt het.",
  "category": "nieuws",
  "tags": [
   "fyxer",
@@ -62,5 +62,7 @@
  ],
  "path": "/nieuws/fyxer-bouwt-ai-assistent-voor-je-inbox-met-openai/",
  "og": "/img/og/fyxer-bouwt-ai-assistent-voor-je-inbox-met-openai.png",
- "take": "Ik heb nog geen seconde gemist dat een AI mijn mailtjes voor me schrijft. Het probleem zit hem niet in de techniek, maar in de toon: zodra zo'n assistent in jouw naam mailt en het leest als een AI, ben je hem kwijt. Wil je menselijk klinken, dan moet je concreet zijn en durven toegeven wat niet lukte, en dat leer je een model niet met fine-tuning alleen."
+ "take": "Ik heb nog geen seconde gemist dat een AI mijn mailtjes voor me schrijft. Het probleem zit hem niet in de techniek, maar in de toon: zodra zo'n assistent in jouw naam mailt en het leest als een AI, ben je hem kwijt. Wil je menselijk klinken, dan moet je concreet zijn en durven toegeven wat niet lukte, en dat leer je een model niet met fine-tuning alleen.",
+ "keyword": "fyxer ai inbox",
+ "seo_title": "Fyxer AI inbox: e-mails schrijven in jouw stijl"
 }

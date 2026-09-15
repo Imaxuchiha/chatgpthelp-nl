@@ -63,7 +63,8 @@ def page(title: str, desc: str, path: str, body: str, og: str = "/img/og-default
          kind: str = "website", extra_head: str = "", nav_on: str = "") -> str:
     url = SITE["url"] + path
     ld = "".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>' for x in (ldjson or []))
-    full_title = title if title.endswith(SITE["name"]) else f"{title} · {SITE['name']}"
+    brand = f" | {SITE['name']}"
+    full_title = title if SITE["name"] in title or len(title) + len(brand) > 62 else title + brand
     measure = ""
     if SITE.get("ga4"):
         measure = f"""<!-- GA4 met first-party analytics-cookies, zonder banner. Advertentie-opslag en -signalen staan uit. -->
@@ -92,7 +93,7 @@ gtag('set','allow_google_signals',false);gtag('set','allow_ad_personalization_si
 <link rel="alternate" type="application/rss+xml" title="{E(SITE['name'])}" href="/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap">
-<link rel="stylesheet" href="/style.css?v=3">
+<link rel="stylesheet" href="/style.css?v=4">
 {ld}{extra_head}
 </head>
 <body>
@@ -132,16 +133,16 @@ KIND_LABEL = {"column": "Column", "practice": "Uit de praktijk", "review": "Revi
 def author_box() -> str:
     return ('<aside class="author"><div class="av">M</div><div><strong>Maxim</strong> · oprichter van Adsvantage, performance-marketeer<br>'
             '<span>Bouwt zijn eigen AI-agents, beheert Google Ads- en Shopify-accounts en test alles eerst in de praktijk. '
-            '<a href="/maxim/">Over Maxim en hoe deze columns ontstaan</a></span></div></aside>')
+            '<a href="/maxim/">Meer over Maxim</a></span></div></aside>')
 
 
 def ai_label(a: dict) -> str:
+    """Kleine transparantieregel helemaal onderaan het artikel (EU AI Act art. 50)."""
     if a.get("kind") in KIND_LABEL:
-        return ('<div class="ai-label"><b>Gemaakt met AI</b> · geschreven door AI in de stem van Maxim, op basis van zijn '
-                'opvattingen en geanonimiseerde praktijkcijfers · <a href="/maxim/">meer</a></div>')
-    n = len(a.get("sources", []))
-    src = f" op basis van {n} bron{'nen' if n != 1 else ''}" if n and a.get("kind") == "news" else ""
-    return f'<div class="ai-label"><b>Gemaakt met AI</b> · geschreven door een AI-redactie{src}, zonder menselijke eindredactie · <a href="/over/">meer</a></div>'
+        return '<p class="ai-note">Tekst en beeld gemaakt met AI in de stem van Maxim. <a href="/maxim/">Hoe dat werkt</a>.</p>'
+    if a.get("take"):
+        return '<p class="ai-note">Tekst en beeld gemaakt met AI op basis van de genoemde bronnen, de take in de stem van Maxim. <a href="/over/">Hoe dat werkt</a>.</p>'
+    return '<p class="ai-note">Tekst en beeld gemaakt met AI op basis van de genoemde bronnen. <a href="/over/">Hoe dat werkt</a>.</p>'
 
 
 def article_page(a: dict, all_arts: list[dict]) -> str:
@@ -151,7 +152,7 @@ def article_page(a: dict, all_arts: list[dict]) -> str:
     nl_head = "Wat moet je hiermee?" if a.get("kind") in KIND_LABEL else "Wat betekent dit voor Nederland?"
     nl = f'<div class="nl"><h3>{nl_head}</h3>{prose(a["nl_angle"])}</div>' if a.get("nl_angle") else ""
     take_box = (f'<div class="take"><div class="av">M</div><div><strong>Maxims take</strong><p>{inline(a["take"])}</p>'
-            f'<small>Mening, door AI geschreven in de stem van <a href="/maxim/">Maxim</a>.</small></div></div>') if a.get("take") else ""
+            f'</div></div>') if a.get("take") else ""
     is_persona = a.get("kind") in KIND_LABEL
     faq = "".join(f'<details><summary>{E(f["q"])}</summary><p>{inline(f["a"])}</p></details>' for f in a.get("faq", []) if f.get("q"))
     srcs = "".join(f'<li>{E(s["name"])}: <a href="{E(s["url"])}" rel="nofollow noopener" target="_blank">{E(s["title"])}</a></li>' for s in a.get("sources", []))
@@ -181,7 +182,6 @@ def article_page(a: dict, all_arts: list[dict]) -> str:
 <span class="kicker"><a href="/{a['category']}/" style="text-decoration:none">{E(KIND_LABEL.get(a.get('kind'), cat_name))}</a></span>
 <h1>{E(a['title'])}</h1>
 <div class="meta">{'Door Maxim · ' if is_persona else ''}{nl_date(a['published'])} · {rt} min lezen</div>
-{ai_label(a)}
 <img class="og" src="{a['og']}" alt="" width="1200" height="630">
 <p class="intro">{inline(a.get('intro', ''))}</p>
 <div class="takeaways"><h3>In het kort</h3><ul>{take}</ul></div>
@@ -194,8 +194,9 @@ def article_page(a: dict, all_arts: list[dict]) -> str:
 <div class="tags">{tags}</div>
 {f'<div class="sources"><strong>Bronnen</strong><ul>{srcs}</ul></div>' if srcs else ''}
 {f'<section class="block"><h2>Meer in {E(cat_name)}</h2><div class="more">{more}</div></section>' if more else ''}
+{ai_label(a)}
 </article>"""
-    return page(a["title"], a["meta"], a["path"], body, a["og"], ld, kind="article", nav_on=a["category"])
+    return page(a.get("seo_title") or a["title"], a["meta"], a["path"], body, a["og"], ld, kind="article", nav_on=a["category"])
 
 
 def home(arts: list[dict], memes: list[dict], prompts: list[dict]) -> str:
@@ -203,7 +204,7 @@ def home(arts: list[dict], memes: list[dict], prompts: list[dict]) -> str:
     lead = news[0] if news else None
     side = news[1:4]
     rest = [a for a in arts if not lead or a["slug"] != lead["slug"]][:12]
-    body = ""
+    body = '<h1 class="home-h1">AI-nieuws en ChatGPT-uitleg in het Nederlands</h1>'
     if lead:
         body += f"""<section class="hero">
 <a class="lead" href="{lead['path']}"><span class="blob" style="width:420px;height:420px;background:var(--violet);right:-120px;top:-160px"></span><span class="blob" style="width:300px;height:300px;background:var(--accent);left:-90px;bottom:-140px"></span>
@@ -232,7 +233,7 @@ def home(arts: list[dict], memes: list[dict], prompts: list[dict]) -> str:
            "description": SITE["description"]},
           {"@context": "https://schema.org", "@type": "Organization", "name": SITE["name"], "url": SITE["url"],
            "logo": SITE["url"] + "/img/logo.png", "email": SITE["email"]}]
-    return page(f"{SITE['name']} — AI-nieuws, uitleg en prompts in het Nederlands", SITE["description"], "/", body, ldjson=ld, nav_on="home")
+    return page(f"AI-nieuws en ChatGPT-uitleg in het Nederlands | {SITE['name']}", "Dagelijks AI-nieuws in het Nederlands: ChatGPT, OpenAI, Gemini en Claude uitgelegd, plus gratis prompts, tools en wat AI betekent voor Nederland.", "/", body, ldjson=ld, nav_on="home")
 
 
 def prompt_box(p: dict, link=False) -> str:
@@ -243,17 +244,37 @@ def prompt_box(p: dict, link=False) -> str:
             f'<p class="tip" style="margin-top:12px">Tip: {E(p.get("tip", ""))}</p></div>')
 
 
+# rubriek → (H1, title-tag, meta description)
+CAT_SEO = {
+    "nieuws": ("AI-nieuws vandaag", "AI-nieuws vandaag: het laatste nieuws over AI en ChatGPT",
+               "Het laatste AI-nieuws in het Nederlands: ChatGPT, OpenAI, Google Gemini, Claude en wat het betekent voor Nederland. Elke dag bijgewerkt."),
+    "chatgpt": ("ChatGPT-nieuws en updates", "ChatGPT nieuws: updates, functies en abonnementen",
+                "Alles over ChatGPT in het Nederlands: nieuwe functies, modellen, prijzen van Plus en Pro en wat je er in Nederland mee kunt."),
+    "tools": ("AI-tools uitgelegd en vergeleken", "AI-tools vergelijken: Claude, Gemini, Copilot en meer",
+              "Welke AI-tool past bij jou? Claude, Gemini, Copilot, Midjourney en andere AI-tools uitgelegd en vergeleken, in het Nederlands."),
+    "uitleg": ("AI en ChatGPT uitgelegd", "ChatGPT uitleg: zo gebruik je AI, stap voor stap",
+               "Heldere Nederlandse uitleg over ChatGPT en AI: hoe het werkt, hoe je betere prompts schrijft en hoe je AI slim inzet op werk en thuis."),
+    "bedrijven": ("AI voor bedrijven", "AI voor bedrijven: toepassingen en nieuws voor het mkb",
+                  "Hoe Nederlandse bedrijven AI inzetten: praktijkvoorbeelden, kosten, risico's en nieuws over AI op de werkvloer voor ondernemers en het mkb."),
+    "beleid": ("AI-wetgeving en beleid", "AI-wetgeving: EU AI Act, privacy en toezicht",
+               "Nieuws en uitleg over AI-wetgeving: de EU AI Act, privacy (AVG), toezicht door de AP en wat de regels betekenen voor Nederland."),
+    "mening": ("Columns over AI, Google Ads en Shopify", "Columns over AI in marketing, Google Ads en Shopify",
+               "Columns, praktijkverhalen en reviews over AI in marketing: wat werkt echt in Google Ads, Shopify en AI-tools, met cijfers uit de praktijk."),
+}
+
+
 def listing(title: str, desc: str, path: str, arts: list[dict], nav_on: str) -> str:
-    body = f'<section class="block"><h1>{E(title)}</h1><p class="meta" style="max-width:640px">{E(desc)}</p><div class="grid" style="margin-top:22px">{"".join(card(a) for a in arts)}</div></section>'
+    h1, seo_title, seo_desc = CAT_SEO.get(nav_on, (title, title, desc))
+    body = f'<section class="block"><h1>{E(h1)}</h1><p class="meta" style="max-width:640px">{E(desc)}</p><div class="grid" style="margin-top:22px">{"".join(card(a) for a in arts)}</div></section>'
     if not arts:
         body += "<p>Nog geen artikelen in deze rubriek — kom morgen terug.</p>"
-    return page(title, desc, path, body, nav_on=nav_on)
+    return page(seo_title, seo_desc, path, body, nav_on=nav_on)
 
 
 def memes_page(memes: list[dict]) -> str:
     items = "".join(f'<a class="memebox" href="/memes/{m["date"]}/"><img src="{m["img"]}" alt="{E(m.get("alt", ""))}" loading="lazy" width="1080" height="1080"></a>' for m in memes)
-    body = f'<section class="block"><h1>AI-meme van de dag</h1><p class="meta" style="max-width:640px">Elke ochtend een nieuwe. Herkenbaar voor iedereen die met ChatGPT werkt. Delen mag, met bronvermelding.</p><div class="grid" style="margin-top:22px">{items}</div></section>'
-    return page("AI-memes van de dag", "Elke dag een nieuwe meme over leven en werken met ChatGPT en AI.", "/memes/", body, nav_on="memes")
+    body = f'<section class="block"><h1>AI-memes over ChatGPT en AI</h1><p class="meta" style="max-width:640px">Elke ochtend een nieuwe. Herkenbaar voor iedereen die met ChatGPT werkt. Delen mag, met bronvermelding.</p><div class="grid" style="margin-top:22px">{items}</div></section>'
+    return page("AI-memes: elke dag een nieuwe ChatGPT-meme", "Grappige AI- en ChatGPT-memes in het Nederlands, elke dag een nieuwe. Herkenbaar voor iedereen die met AI werkt. Delen mag.", "/memes/", body, nav_on="memes")
 
 
 def meme_page(m: dict, memes: list[dict]) -> str:
@@ -263,21 +284,21 @@ def meme_page(m: dict, memes: list[dict]) -> str:
             f'<p class="meta">Deel de link of sla de afbeelding op. {" ".join("#" + E(h.strip("#")) for h in m.get("hashtags", []))}</p>'
             + (f'<h2>English version</h2><div class="memebox" style="margin:18px 0;max-width:540px"><img src="{m["img_en"]}" alt="{E(m.get("alt_en", ""))}" width="1080" height="1080"></div>' if m.get("top_en") else "")
             + f'<div class="grid">{"".join(f"<a class=memebox href=/memes/{x['date']}/><img src={x['img']} alt=\"\" loading=lazy width=1080 height=1080></a>" for x in others)}</div></article>')
-    return page(f"Meme: {m['top']}", m.get("alt") or m["bottom"], f"/memes/{m['date']}/", body, m["img"], nav_on="memes")
+    return page(f"AI-meme: {m['top']}"[:58], (f"AI-meme van {nl_date(m['date'])}: {m['top']} {m['bottom']}. " + (m.get("alt") or ""))[:155].rsplit(" ", 1)[0], f"/memes/{m['date']}/", body, m["img"], nav_on="memes")
 
 
 def prompts_page(prompts: list[dict]) -> str:
     items = "".join(f'<a href="{p["path"]}"><img src="/img/prompts/{p["date"]}.png" alt="" loading="lazy" width="1200" height="630"><div><strong>{E(p["title"])}</strong><br><span>{E(p.get("situation", ""))}</span><div class="d">{nl_date(p["date"])}</div></div></a>' for p in prompts)
-    body = f'<section class="block"><h1>Prompt van de dag</h1><p class="meta" style="max-width:640px">Elke dag één ChatGPT-prompt die je direct kunt gebruiken. Kopiëren, invullen, klaar.</p><div class="list" style="margin-top:22px">{items}</div></section>'
-    return page("ChatGPT-prompts: elke dag een nieuwe", "Dagelijks een direct bruikbare Nederlandse ChatGPT-prompt voor werk, studie en thuis.", "/prompts/", body, nav_on="prompts")
+    body = f'<section class="block"><h1>ChatGPT-prompts: elke dag een nieuwe</h1><p class="meta" style="max-width:640px">Elke dag één ChatGPT-prompt die je direct kunt gebruiken. Kopiëren, invullen, klaar.</p><div class="list" style="margin-top:22px">{items}</div></section>'
+    return page("ChatGPT-prompts in het Nederlands (elke dag nieuw)", "Gratis Nederlandse ChatGPT-prompts om direct te kopiëren: elke dag een nieuwe prompt voor werk, studie en thuis, met uitleg en tip.", "/prompts/", body, nav_on="prompts")
 
 
 def prompt_page(p: dict, prompts: list[dict]) -> str:
     others = [x for x in prompts if x["date"] != p["date"]][:6]
     body = (f'<article class="post"><span class="kicker">Prompt van de dag</span><h1>{E(p["title"])}</h1><div class="meta">{nl_date(p["date"])}</div>'
-            f'<div class="ai-label"><b>Gemaakt met AI</b> · <a href="/over/">meer</a></div>{prompt_box(p)}'
+            f'{prompt_box(p)}'
             f'<section class="block"><h2>Meer prompts</h2><div class="more">{"".join(f"<a href={x['path']}>{E(x['title'])}</a>" for x in others)}</div></section></article>')
-    return page(f"Prompt: {p['title']}", p.get("situation", "")[:155] or p["title"], p["path"], body, f"/img/prompts/{p['date']}.png", nav_on="prompts")
+    return page(f"ChatGPT-prompt: {p['title']}", (f"ChatGPT-prompt om te kopiëren: {p['title']}. " + p.get("situation", ""))[:155].rsplit(" ", 1)[0], p["path"], body, f"/img/prompts/{p['date']}.png", nav_on="prompts")
 
 
 def about() -> str:
@@ -316,7 +337,7 @@ def maxim_page(arts: list[dict]) -> str:
     ld = [{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Maxim",
            "jobTitle": "Oprichter Adsvantage", "worksFor": {"@type": "Organization", "name": "Adsvantage", "url": "https://adsvantage.nl"},
            "url": SITE["url"] + "/maxim/"}}]
-    return page("Maxim, columnist", "Wie is Maxim, waar staat hij voor en hoe ontstaan zijn columns over AI, Google Ads en Shopify op ChatGPT Help.", "/maxim/", body, ldjson=ld, nav_on="mening")
+    return page("Maxim: columnist over AI, Google Ads en Shopify", "Wie is Maxim, waar staat hij voor en hoe ontstaan zijn columns over AI, Google Ads en Shopify op ChatGPT Help.", "/maxim/", body, ldjson=ld, nav_on="mening")
 
 
 def privacy() -> str:
