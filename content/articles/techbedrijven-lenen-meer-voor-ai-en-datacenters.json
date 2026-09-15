@@ -1,0 +1,65 @@
+{
+ "title": "Techbedrijven lenen meer voor AI en datacenters",
+ "meta": "Techbedrijven in de VS maken steeds meer schulden voor AI en datacenters, meldt Allianz. Een deel van die leningen is lastig zichtbaar.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "datacenters",
+  "schulden",
+  "techbedrijven",
+  "allianz"
+ ],
+ "intro": "Amerikaanse techbedrijven lenen steeds vaker en meer geld voor de wedloop rond kunstmatige intelligentie. Dat meldt kredietverzekeraar Allianz volgens NU.nl Tech. Vroeger hadden techbedrijven juist opvallend weinig schulden. Een deel van de nieuwe leningen is bovendien lastig te zien in de boeken.",
+ "takeaways": [
+  "Techbedrijven in de VS nemen meer schulden op dan voorheen, vooral voor AI en datacenters.",
+  "Een deel van die schulden is 'onzichtbaar', aldus kredietverzekeraar Allianz.",
+  "Vroeger hadden techbedrijven juist heel weinig schulden.",
+  "De ontwikkeling raakt de financiering van AI-infrastructuur wereldwijd."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Allianz ziet",
+   "body": "Kredietverzekeraar Allianz stelt dat Amerikaanse techbedrijven zichzelf vaker en dieper in de schulden steken. Dat gebeurt in de wedloop rond kunstmatige intelligentie, meldt NU.nl Tech. Het gaat onder meer om leningen voor de bouw van datacenters.\n\nDat is een opvallende verandering. Techbedrijven stonden jarenlang bekend als bedrijven met heel weinig schulden. Ze verdienden veel en gaven weinig uit. Nu lenen ze geld voor grote bouwprojecten die nodig zijn voor AI.\n\nVolgens Allianz is een deel van die schulden bovendien 'onzichtbaar'. Daarmee bedoelt de verzekeraar dat de leningen niet altijd direct opvallen in de openbare cijfers. Hoe dat precies komt, maakt de bron niet duidelijk."
+  },
+  {
+   "heading": "Waarom datacenters geld kosten",
+   "body": "AI-modellen draaien op grote computers in datacenters. Die gebouwen kosten veel geld: grond, stroom, koeling en chips. Bedrijven bouwen ze vaak voordat er al omzet tegenover staat.\n\nDaardoor ontstaat een patroon waarbij investeringen vooruitlopen op inkomsten. Zolang de vraag naar AI groeit, lijkt dat te werken. Maar als de groei tegenvalt, blijven de kosten staan.\n\nDe bron noemt geen concrete bedragen of bedrijven. Het is dus nog niet bekend hoe groot de schulden precies zijn en welke partijen het meest lenen."
+  },
+  {
+   "heading": "Wat 'onzichtbaar' kan betekenen",
+   "body": "In het artikel van NU.nl Tech staat niet uitgelegd wat Allianz precies bedoelt met onzichtbare schulden. Mogelijk gaat het om constructies die buiten de gewone balans vallen, maar dat is niet bevestigd.\n\nWat wel duidelijk is: de verzekeraar ziet een risico. Kredietverzekeraars letten op dit soort patronen omdat ze uitkeringen doen als een bedrijf niet kan betalen.\n\nVoor beleggers en banken is het lastig als schulden niet goed zichtbaar zijn. Dan is het moeilijker om in te schatten hoe gezond een bedrijf is."
+  },
+  {
+   "heading": "Nog geen cijfers",
+   "body": "De bron geeft geen bedragen, geen namen van bedrijven en geen termijnen. Ook is niet bekend of Nederlandse of Europese techbedrijven hetzelfde doen.\n\nDaarmee blijft de kern van het bericht beperkt: de trend is zichtbaar, de omvang niet. Meer details zijn nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral relevant via de AI-infrastructuur. Datacenters in ons land, zoals in de regio Amsterdam en Eemshaven, zijn onderdeel van dezelfde wereldwijde vraag naar rekenkracht. Als buitenlandse techbedrijven meer lenen voor zulke projecten, kan dat de bouw en stroomvraag hier beïnvloeden. Ook Nederlandse banken en pensioenfondsen die in tech of datacenters beleggen, krijgen te maken met minder zichtbare schulden. Let dus op: de rekening voor AI komt deels via leningen, niet alleen via winst.",
+ "faq": [
+  {
+   "q": "Waarom hebben techbedrijven nu meer schulden?",
+   "a": "Ze lenen geld voor dure AI-projecten, zoals de bouw van datacenters. Vroeger financierden ze dat vooral uit eigen winst."
+  },
+  {
+   "q": "Wat betekent 'onzichtbare schulden'?",
+   "a": "Dat is niet precies uitgelegd in de bron. Het gaat om leningen die niet direct opvallen in de openbare cijfers van een bedrijf."
+  },
+  {
+   "q": "Merken Nederlandse bedrijven hier iets van?",
+   "a": "Mogelijk indirect, via datacenters en beleggingen van banken en pensioenfondsen. Concrete cijfers voor Nederland zijn nog niet bekend."
+  }
+ ],
+ "slug": "techbedrijven-lenen-meer-voor-ai-en-datacenters",
+ "kind": "news",
+ "date": "2026-09-15",
+ "published": "2026-09-15T17:41",
+ "sources": [
+  {
+   "name": "NU.nl Tech",
+   "title": "Techbedrijven hebben meer schulden dan vroeger, waarvan een deel 'onzichtbaar'",
+   "url": "https://www.nu.nl/economie/6409719/techbedrijven-hebben-meer-schulden-dan-vroeger-waarvan-een-deel-onzichtbaar.html"
+  }
+ ],
+ "path": "/nieuws/techbedrijven-lenen-meer-voor-ai-en-datacenters/",
+ "og": "/img/og/techbedrijven-lenen-meer-voor-ai-en-datacenters.png"
+}
