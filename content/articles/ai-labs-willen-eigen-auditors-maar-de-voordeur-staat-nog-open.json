@@ -1,0 +1,68 @@
+{
+ "keyword": "ai auditors",
+ "seo_title": "AI-auditors: labs willen eigen controle, maar is dat genoeg?",
+ "title": "AI-labs willen eigen auditors, maar de voordeur staat nog open",
+ "meta": "AI-labs willen interne auditors om rogue agents te beteugelen. TechCrunch wijst op een simpelere oplossing: doe de voordeur dicht. Wat betekent dat in…",
+ "category": "nieuws",
+ "tags": [
+  "ai-auditors",
+  "ai-beveiliging",
+  "openai",
+  "ai-agents",
+  "techcrunch"
+ ],
+ "intro": "AI-labs zoeken een oplossing voor agenten die zich misdragen. Volgens TechCrunch denken ze aan interne auditors, maar ligt de echte oplossing misschien dichterbij: de voordeur beter dichtdoen. Het debat raakt iedereen die AI-agenten inzet, ook in Nederland.",
+ "takeaways": [
+  "TechCrunch meldt dat AI-labs interne auditors willen aanstellen om rogue agents aan te pakken.",
+  "Volgens TechCrunch ligt een eenvoudiger oplossing voor de hand: de toegang aan de voorkant beperken.",
+  "Het artikel stelt dat labs vooral achteraf controleren, terwijl preventie aan de poort effectiever kan zijn.",
+  "De discussie raakt bedrijven die AI-agenten inzetten en ze toegang geven tot systemen en data."
+ ],
+ "sections": [
+  {
+   "heading": "Wat AI-labs nu willen",
+   "body": "AI-labs willen interne auditors inzetten om agenten te controleren. TechCrunch schrijft dat labs hiermee rogue agents willen opsporen en beteugelen. Een auditor kijkt achteraf naar wat een agent heeft gedaan en of dat binnen de regels bleef.\n\nDat klinkt logisch, maar het is vooral repareren na de schade. De auditor zit binnen de organisatie en kijkt mee met het eigen lab. TechCrunch noemt dat een oplossing die voor de hand ligt, maar niet per se de beste."
+  },
+  {
+   "heading": "De voordeur staat nog open",
+   "body": "TechCrunch wijst op een simpelere en effectievere oplossing die volgens de site voor het oprapen ligt. In plaats van achteraf controleren, kun je aan de voorkant beperken wat een agent mag. Denk aan toegang tot systemen, data en tools.\n\nHet artikel stelt dat labs vooral nadenken over toezicht, terwijl de echte winst zit in het beperken van toegang. Een agent die nergens bij kan, kan ook geen schade aanrichten. Dat is minder spannend dan een auditafdeling, maar wel directer."
+  },
+  {
+   "heading": "Wat dit betekent voor agenten in de praktijk",
+   "body": "AI-agenten krijgen steeds vaker taken die voorheen mensen deden. Ze lezen e-mail, boeken dingen, schrijven code of beheren bestanden. Elke koppeling is een deur die openstaat.\n\nTechCrunch legt de nadruk op die deuren. Als een agent alleen mag doen wat nodig is, wordt het risico kleiner. Een auditor kan dan controleren wat er nog misgaat, in plaats van alles achteraf te repareren. De volgorde is volgens het artikel verkeerd om."
+  },
+  {
+   "heading": "Nog geen concrete plannen",
+   "body": "Het is nog niet bekend welke labs al interne auditors hebben aangenomen of hoeveel dat er zijn. TechCrunch noemt geen bedragen, data of namen van bedrijven die dit al doen. Ook is niet duidelijk of er regelgeving komt die dit verplicht stelt.\n\nWat wel duidelijk is: het debat verschuift van achteraf kijken naar vooraf beperken. Dat is een andere manier van denken over veiligheid van AI-agenten."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die AI-agenten inzetten, is de les vooral praktisch. Geef een agent niet standaard toegang tot al je systemen, maar beperk rechten tot wat echt nodig is. Een interne auditor is duur en controleert achteraf; toegang beperken kost minder en voorkomt schade. Let ook op de Europese AI-wet, die eisen stelt aan risicobeheer en toezicht. Wie nu al werkt met kleine rechten en logging, staat straks sterker. Voor kleinere organisaties zonder auditafdeling is dat extra relevant: je hoeft geen groot team op te tuigen om toch controle te houden.",
+ "faq": [
+  {
+   "q": "Wat is een AI-auditor?",
+   "a": "Een AI-auditor controleert achteraf wat een AI-systeem of agent heeft gedaan. TechCrunch meldt dat AI-labs zulke auditors intern willen inzetten om rogue agents aan te pakken."
+  },
+  {
+   "q": "Wat is een rogue agent?",
+   "a": "Een rogue agent is een AI-agent die dingen doet die niet de bedoeling zijn. Volgens TechCrunch willen labs dit probleem aanpakken met interne auditors, maar is toegang beperken aan de voorkant misschien effectiever."
+  },
+  {
+   "q": "Wat kunnen Nederlandse bedrijven doen?",
+   "a": "Beperk de toegang van AI-agenten tot systemen en data tot wat nodig is. Zo voorkom je schade voordat een auditor iets moet repareren, en sta je sterker onder de Europese AI-wet."
+  }
+ ],
+ "slug": "ai-labs-willen-eigen-auditors-maar-de-voordeur-staat-nog-open",
+ "kind": "news",
+ "date": "2026-09-16",
+ "published": "2026-09-16T21:32",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+   "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/"
+  }
+ ],
+ "path": "/nieuws/ai-labs-willen-eigen-auditors-maar-de-voordeur-staat-nog-open/",
+ "og": "/img/og/ai-labs-willen-eigen-auditors-maar-de-voordeur-staat-nog-open.png",
+ "take": "Interne auditors zijn een duur pleistertje op een probleem dat je gratis oplost. Doe gewoon die voordeur dicht: beperk wat een agent zelfstandig mag aansturen en houd de knoppen waar geld en data in het spel zijn bij een mens. Ik betaal pas voor een oplossing als ik hem kan aanwijzen, en een auditor die achteraf constateert dat het misging verdient zichzelf nooit terug."
+}

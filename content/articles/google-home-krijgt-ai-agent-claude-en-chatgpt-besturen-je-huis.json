@@ -1,0 +1,65 @@
+{
+ "keyword": "google home ai agent",
+ "seo_title": "Google Home AI-agent: Claude en ChatGPT besturen je huis",
+ "title": "Google Home krijgt AI-agent: Claude en ChatGPT besturen je huis",
+ "meta": "Google start vroege toegang tot een MCP-server voor Google Home. AI-agenten als Claude en ChatGPT bedienen straks je slimme apparaten in huis.",
+ "category": "nieuws",
+ "tags": [
+  "google home",
+  "ai-agent",
+  "mcp",
+  "smart home",
+  "claude",
+  "chatgpt"
+ ],
+ "intro": "Google opent een vroege testversie van een nieuwe MCP-server voor Google Home. Daarmee kunnen AI-agenten zoals Claude en ChatGPT je slimme apparaten besturen met gewone taal. TechCrunch meldt dat het bedrijf hiermee slimme huizen koppelt aan AI-assistenten van andere partijen.",
+ "takeaways": [
+  "Google start early access voor een MCP-server voor Google Home.",
+  "AI-agenten als Claude en ChatGPT kunnen straks slimme apparaten bedienen.",
+  "Je kunt ook camerasamenvattingen en slimme-huisactiviteit opvragen in natuurlijke taal.",
+  "De functie zit nog in een vroege testfase."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Google precies uitrolt",
+   "body": "Google begint met een vroege toegang tot een zogeheten MCP-server voor Google Home. MCP staat voor Model Context Protocol, een afspraak waarmee AI-modellen toegang krijgen tot externe systemen. TechCrunch schrijft dat AI-agenten zoals Claude en ChatGPT via die server je aangesloten apparaten kunnen aansturen.\n\nDat gaat met natuurlijke taal. Je typt of zegt dus gewoon wat je wilt, in plaats van door menu's in een app te klikken. Denk aan lampen, thermostaat of andere slimme apparaten die aan Google Home hangen. De agent vertaalt jouw zin naar een opdracht voor het apparaat."
+  },
+  {
+   "heading": "Ook camera's en activiteit in beeld",
+   "body": "De MCP-server gaat verder dan alleen schakelaars omzetten. Volgens TechCrunch kunnen AI-agenten ook camerasamenvattingen opvragen. Je vraagt dan in gewone taal wat er is gebeurd, en de agent vat de beelden samen. Ook de slimme-huisactiviteit is op te vragen, bijvoorbeeld welke apparaten recent actief waren.\n\nDat maakt de agent een soort laag bovenop je bestaande slimme huis. Je hoeft niet meer zelf door tijdlijnen of losse apps te spitten. De AI doet het speurwerk en geeft je een kort antwoord terug."
+  },
+  {
+   "heading": "Nog vroeg, nog niet voor iedereen",
+   "body": "Het gaat om early access, dus een vroege testversie. TechCrunch noemt geen datum waarop iedereen mee kan doen. Ook is niet duidelijk welke Google Home-apparaten precies ondersteund worden en of er kosten aan zitten. Wie wil meedoen, moet waarschijnlijk eerst worden uitgenodigd of zich aanmelden.\n\nInteressant is dat Google hiermee agenten van concurrenten toelaat. Claude en ChatGPT zijn geen producten van Google. Toch mogen ze straks je Google Home bedienen. Dat past bij een bredere beweging waarin AI-assistenten steeds vaker losse diensten aan elkaar knopen."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders met slimme apparaten is dit vooral een voorproefje. Google Home is hier goed verkrijgbaar, net als slimme lampen en camera's van onder meer Philips Hue en Nest. Zodra de functie breder beschikbaar komt, kun je je huis dus in het Nederlands of Engels bedienen via Claude of ChatGPT. Let wel op: dit raakt je privacy, want een AI-agent kijkt mee met camerasamenvattingen en apparaatactiviteit. Onder de Europese privacywet AVG moet je zelf controle houden over wie die gegevens ziet. Wanneer de functie in Nederland aankomt, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Kan ik mijn Google Home nu al met ChatGPT bedienen?",
+   "a": "Nee, het gaat om een vroege testversie met beperkte toegang. TechCrunch meldt geen datum waarop iedereen mee kan doen."
+  },
+  {
+   "q": "Wat is een MCP-server?",
+   "a": "MCP staat voor Model Context Protocol. Het is een afspraak waarmee AI-modellen toegang krijgen tot externe systemen, in dit geval je slimme huis."
+  },
+  {
+   "q": "Werkt dit ook in Nederland?",
+   "a": "Dat is nog niet bekend. De functie zit in een vroege testfase en Google heeft geen landen of releasedatum genoemd."
+  }
+ ],
+ "slug": "google-home-krijgt-ai-agent-claude-en-chatgpt-besturen-je-huis",
+ "kind": "news",
+ "date": "2026-09-16",
+ "published": "2026-09-16T21:33",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Your AI agents can now control your Google Home devices",
+   "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
+  }
+ ],
+ "path": "/nieuws/google-home-krijgt-ai-agent-claude-en-chatgpt-besturen-je-huis/",
+ "og": "/img/og/google-home-krijgt-ai-agent-claude-en-chatgpt-besturen-je-huis.png",
+ "take": "Mijn slimme lampen laat ik niet door een abonnement van een ander bedienen. Google opent nu een MCP-server voor Home, dus Claude of ChatGPT kan straks je verlichting en thermostaat aansturen, maar ik bouw dat liever zelf met een script dan dat ik weer een SaaS-laag eroverheen koop. Eerst zien dat het op een echt huis gewoon draait, dan praten we verder."
+}

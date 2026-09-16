@@ -99,6 +99,26 @@
   "26c48edc2e": {
    "at": "2026-09-16T17:33:19.104658",
    "why": "ok"
+  },
+  "71646fffd9": {
+   "at": "2026-09-16T21:31:05.085860",
+   "why": "ok"
+  },
+  "454a368571": {
+   "at": "2026-09-16T21:32:05.085860",
+   "why": "ok"
+  },
+  "933ca83973": {
+   "at": "2026-09-16T21:33:05.085860",
+   "why": "poort"
+  },
+  "2306ad1a8f": {
+   "at": "2026-09-16T21:33:05.085860",
+   "why": "poort"
+  },
+  "29b48237ac": {
+   "at": "2026-09-16T21:33:05.085860",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -120,6 +140,9 @@
   "AI-datacenters impopulair: 61 procent van Amerikanen is tegen",
   "ChatGPT-cursus voor ouderen: OpenAI en AARP starten workshops",
   "OpenAI advertenties: Sponsored Agents en AI-tools voor marketeers",
-  "Robots wachten op hun ChatGPT-moment: uitleg van Nvidia"
+  "Robots wachten op hun ChatGPT-moment: uitleg van Nvidia",
+  "AI op het werk: OpenAI ziet nieuwe taken ontstaan",
+  "AI-labs willen eigen auditors, maar de voordeur staat nog open",
+  "Google Home krijgt AI-agent: Claude en ChatGPT besturen je huis"
  ]
 }
