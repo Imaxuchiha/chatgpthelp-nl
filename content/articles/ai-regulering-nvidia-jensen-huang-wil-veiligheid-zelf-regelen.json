@@ -1,0 +1,68 @@
+{
+ "keyword": "ai-regulering nvidia",
+ "seo_title": "AI-regulering nvidia: Huang wil veiligheid zelf regelen",
+ "title": "AI-regulering nvidia: Jensen Huang wil veiligheid zelf regelen",
+ "meta": "Nvidia-topman Jensen Huang vindt AI-regulering niet nodig. Lees wat hij zegt, wat Brussel doet en wat dit betekent voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "nvidia",
+  "ai-regulering",
+  "jensen huang",
+  "ai-wet",
+  "veiligheid"
+ ],
+ "intro": "Nvidia-topman Jensen Huang vindt dat overheden zich niet met AI-veiligheid moeten bemoeien. Volgens hem is AI geen nieuw soort 'buitenaardse geest', maar gewoon hardware en software. Elke maker van een AI-product kan de veiligheid daarom zelf inbouwen, zegt hij tegen TechCrunch.",
+ "takeaways": [
+  "Jensen Huang van Nvidia zegt dat AI geen 'alien mind' is, maar hardware en software",
+  "Volgens hem kan elke AI-maker veiligheid zelf regelen, zonder nieuwe wetgeving",
+  "Zijn uitspraak gaat in tegen strengere AI-regels in de EU en de VS",
+  "Voor Nederlandse bedrijven blijft de Europese AI-wet voorlopig het kader"
+ ],
+ "sections": [
+  {
+   "heading": "Wat Huang precies zegt",
+   "body": "Huang noemt AI geen nieuwe vorm van een 'buitenaardse geest'. Het is volgens hem gewoon hardware en software. Daar kun je veiligheid in bouwen, net als bij andere techniek.\n\nZijn conclusie is dan ook kort: we hebben geen AI-regulering nodig. De veiligheid laat hij liever over aan de partijen die AI-producten maken. Dat zegt hij in een interview met TechCrunch, gepubliceerd op 15 september 2026.\n\nHuang is de baas van Nvidia. Dat bedrijf levert de chips waarop de meeste AI-modellen draaien. Zijn standpunt weegt dus zwaar in het debat over AI-regels."
+  },
+  {
+   "heading": "Waarom dit opvalt",
+   "body": "Overheden werken al jaren aan regels voor AI. In de Europese Unie geldt de AI-wet, die systemen indeelt naar risico. In de Verenigde Staten lopen de meningen sterk uiteen.\n\nHuang zet zich met zijn uitspraak tegen die beweging af. Hij wil geen aparte toezichthouder voor AI. Volgens hem is het genoeg als elke maker zelf test en beveiligt.\n\nCritici zien dat anders. Zij wijzen erop dat bedrijven hun eigen fouten niet altijd melden. Of dat terecht is, blijkt niet uit de bron; TechCrunch noemt die tegenwerping niet."
+  },
+  {
+   "heading": "Zo werkt het bij AI-modellen",
+   "body": "Een AI-model zoals ChatGPT, Claude of Gemini leert patronen uit grote hoeveelheden tekst en beeld. De makers testen daarna of het model geen gevaarlijke antwoorden geeft.\n\nDat testen gebeurt vaak met rode-teamlid: mensen die expres proberen het model iets verkeerds te laten zeggen. Daarna bouwen de makers filters in.\n\nHuang zegt in feite: laat dat werk bij de makers liggen. Zij kennen hun product het beste en kunnen snel bijsturen."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Het is niet duidelijk of Huang namens de hele sector spreekt. Ook is niet bekend of Nvidia zijn standpunt in Brussel of Washington officieel heeft ingediend.\n\nTechCrunch meldt verder niets over reacties van andere chipmakers of van toezichthouders. Of er nieuwe wetsvoorstellen aankomen naar aanleiding van zijn uitspraak, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven verandert er voorlopig weinig. De Europese AI-wet blijft gelden, ook als Huang vindt dat die niet nodig is. Werk je met AI in Nederland, dan moet je nog steeds kunnen uitleggen hoe jouw systeem risico's beperkt. Zijn uitspraak kan wel het politieke debat beïnvloeden: partijen die minder regels willen, krijgen er een bekend gezicht bij. Nvidia zelf is geen kleine speler in Nederland; de chips worden hier veel gebruikt in datacenters en bij AI-startups.",
+ "faq": [
+  {
+   "q": "Wat vindt Jensen Huang van AI-regulering?",
+   "a": "Hij vindt die niet nodig. Volgens hem is AI gewoon hardware en software, en kan elke maker de veiligheid zelf regelen."
+  },
+  {
+   "q": "Verandert de Europese AI-wet hierdoor?",
+   "a": "Nee. De AI-wet blijft voorlopig gelden. Een uitspraak van een bedrijfsleider verandert geen wetgeving."
+  },
+  {
+   "q": "Wat betekent dit voor bedrijven in Nederland?",
+   "a": "Je moet nog steeds aan de Europese regels voldoen. Zijn uitspraak is vooral een signaal in het politieke debat over minder AI-regels."
+  }
+ ],
+ "slug": "ai-regulering-nvidia-jensen-huang-wil-veiligheid-zelf-regelen",
+ "kind": "news",
+ "date": "2026-09-16",
+ "published": "2026-09-16T12:03",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+   "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
+  }
+ ],
+ "path": "/nieuws/ai-regulering-nvidia-jensen-huang-wil-veiligheid-zelf-regelen/",
+ "og": "/img/og/ai-regulering-nvidia-jensen-huang-wil-veiligheid-zelf-regelen.png",
+ "take": "Huang zegt dat elke AI-maker de veiligheid zelf wel inbouwt. Dan ben je dus de slager die zijn eigen vlees keurt, want een bedrijf dat chips verkoopt heeft er vooral baat bij dat er zo veel mogelijk verkocht worden. Tot Brussel met echte regels komt, blijf ik zelf mijn tools testen op echte accounts voordat ik erop vertrouw."
+}

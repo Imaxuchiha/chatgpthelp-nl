@@ -1,0 +1,68 @@
+{
+ "keyword": "ai-ontwikkeling vertragen",
+ "seo_title": "AI-ontwikkeling vertragen: Zuckerberg wil geen rem",
+ "title": "Zuckerberg wil AI-ontwikkeling niet vertragen: markt moet het regelen",
+ "meta": "Mark Zuckerberg en Jensen Huang willen AI-ontwikkeling niet vertragen. Lees wat dat betekent voor regels en bedrijven in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "meta",
+  "mark zuckerberg",
+  "ai-regels",
+  "nvidia",
+  "ai-ontwikkeling"
+ ],
+ "intro": "Mark Zuckerberg, topman van Meta, wil de ontwikkeling van AI niet vertragen. Hij kiest daarmee een andere koers dan concurrenten die juist om een rem vragen. Volgens Bright vindt Zuckerberg dat bedrijven zelf hun verantwoordelijkheid moeten nemen, zonder nieuwe overheidsregels.",
+ "takeaways": [
+  "Zuckerberg wil geen vertraging van AI-ontwikkeling, meldt Bright.",
+  "Hij vindt dat de markt en techniek het werk moeten doen, niet de overheid.",
+  "Nvidia-topman Jensen Huang denkt er volgens Bright hetzelfde over.",
+  "Andere AI-concurrenten roepen juist op tot een rem op de ontwikkeling."
+ ],
+ "sections": [
+  {
+   "heading": "Zuckerberg kiest tegenovergestelde koers",
+   "body": "Waar een deel van de AI-sector oproept tot rustiger aan doen, gaat Mark Zuckerberg juist de andere kant op. De Meta-topman wil de ontwikkeling van AI niet vertragen. Dat meldt Bright op basis van uitspraken van de techbaas.\n\nZijn standpunt is duidelijk: bedrijven moeten zelf verantwoordelijkheid nemen. Dat gebeurt volgens hem via de markt en via techniek, niet via nieuwe regels van de overheid. Hij zet daarmee een lijn neer die haaks staat op die van concurrenten die juist pleiten voor een pauze of strengere afspraken."
+  },
+  {
+   "heading": "Huang denkt er hetzelfde over",
+   "body": "Zuckerberg staat niet alleen. Jensen Huang, de topman van chipmaker Nvidia, kiest volgens Bright dezelfde koers. Ook hij wil geen rem op de AI-ontwikkeling en ziet liever dat bedrijven zelf hun verantwoordelijkheid pakken.\n\nDat is opvallend, want Nvidia levert de chips waarop veel AI-modellen draaien. Een vertraging in de sector raakt het bedrijf direct. Toch benadrukken beide topmannen dat engineering en marktwerking genoeg zijn om problemen op te lossen."
+  },
+  {
+   "heading": "De tegenstelling met andere AI-bedrijven",
+   "body": "Niet iedereen in de AI-wereld denkt er zo over. Verschillende concurrenten roepen juist op om de ontwikkeling af te remmen. Zij wijzen op risico's die kunnen ontstaan als AI sneller gaat dan de samenleving kan bijbenen.\n\nHet meningsverschil draait om een simpele vraag: lost de markt het zelf op, of is de overheid nodig? Zuckerberg en Huang kiezen voor het eerste. Andere partijen vinden dat te riskant en willen dat er eerst duidelijke afspraken komen."
+  },
+  {
+   "heading": "Wat betekent dit voor regelgeving",
+   "body": "De discussie raakt direct aan wetgeving. In de Europese Unie gelden al regels voor AI via de AI-verordening. Als grote techbedrijven blijven aandringen op minder overheidsbemoeienis, kan dat de komende tijd voor spanning zorgen tussen Brussel en de sector.\n\nVoor Nederland betekent het dat de richting van Europa belangrijk blijft. Bedrijven hier hebben te maken met de Europese regels, ook als Amerikaanse topmannen liever zonder nieuwe regels werken. Hoe dat zich verder ontwikkelt, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en ontwikkelaars maakt het standpunt van Zuckerberg weinig uit voor de regels die nu gelden. In de EU moeten ze zich aan de AI-verordening houden, of ze het nu eens zijn met die aanpak of niet. Wel kan het debat invloed hebben op hoe streng Brussel de komende jaren optreedt. Blijven grote spelers zoals Meta en Nvidia aandringen op minder regels, dan kan dat de Europese discussie beïnvloeden. Voor nu geldt: de Europese kaders blijven staan, wat de Amerikaanse topmannen ook zeggen.",
+ "faq": [
+  {
+   "q": "Wat vindt Mark Zuckerberg van AI-regels?",
+   "a": "Volgens Bright vindt Zuckerberg dat bedrijven zelf verantwoordelijkheid moeten nemen via de markt en techniek. Nieuwe overheidsregels ziet hij niet als de oplossing."
+  },
+  {
+   "q": "Waarom wil Zuckerberg AI niet vertragen?",
+   "a": "Hij kiest, net als Nvidia-topman Jensen Huang, voor een koers zonder rem. Zij vinden dat de sector het zelf moet oplossen in plaats van te wachten op de overheid."
+  },
+  {
+   "q": "Wat betekent dit voor AI-regels in Nederland?",
+   "a": "In de EU geldt de AI-verordening, dus Nederlandse bedrijven moeten zich daaraan houden. Het standpunt van Zuckerberg verandert die regels niet direct."
+  }
+ ],
+ "slug": "zuckerberg-wil-ai-ontwikkeling-niet-vertragen-markt-moet-het-regelen",
+ "kind": "news",
+ "date": "2026-09-16",
+ "published": "2026-09-16T12:02",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Meta CEO Mark Zuckerberg ziet vertragen AI-ontwikkeling ook niet zitten",
+   "url": "https://www.bright.nl/nieuws/2136175/meta-ceo-mark-zuckerberg-ziet-vertragen-ai-ontwikkeling-ook-niet-zitten.html"
+  }
+ ],
+ "path": "/nieuws/zuckerberg-wil-ai-ontwikkeling-niet-vertragen-markt-moet-het-regelen/",
+ "og": "/img/og/zuckerberg-wil-ai-ontwikkeling-niet-vertragen-markt-moet-het-regelen.png",
+ "take": "Zuckerberg roept dat de markt het zelf regelt, maar dat hoor ik vooral van partijen die geen regels aan hun broek willen. Ik bouw liever mijn eigen agents en scripts dan dat ik leun op een platform dat zijn eigen voorwaarden bepaalt, want dan houd ik zelf de knoppen vast."
+}
