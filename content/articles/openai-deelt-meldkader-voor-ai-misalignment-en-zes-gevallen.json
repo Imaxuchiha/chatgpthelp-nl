@@ -1,0 +1,68 @@
+{
+ "keyword": "ai misalignment openai",
+ "seo_title": "AI-misalignment: OpenAI deelt meldkader en zes gevallen",
+ "title": "OpenAI deelt meldkader voor AI-misalignment en zes gevallen",
+ "meta": "OpenAI publiceert een kader om model-misalignment te melden, met zes rapporten over onverwacht gedrag. Wat betekent dit voor AI-gebruikers in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-veiligheid",
+  "misalignment",
+  "beleid",
+  "chatgpt"
+ ],
+ "intro": "OpenAI heeft een framework gepubliceerd om model-misalignment te volgen, te onderzoeken en te melden. Tegelijk bracht het bedrijf zes rapporten uit over onverwacht of zorgwekkend gedrag van AI-modellen. Dat telt, omdat steeds meer mensen en bedrijven in Nederland AI dagelijks gebruiken en willen weten hoe fouten worden opgespoord.",
+ "takeaways": [
+  "OpenAI publiceert een kader voor het melden en onderzoeken van model-misalignment.",
+  "Er zijn zes rapporten vrijgegeven over onverwacht of zorgwekkend modelgedrag.",
+  "Het kader beschrijft hoe OpenAI misalignment volgt, onderzoekt en openbaar maakt.",
+  "Voor gebruikers in Nederland gaat het vooral om transparantie over fouten en risico's."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies aankondigt",
+   "body": "OpenAI meldt op 16 september 2026 een framework voor het volgen, onderzoeken en openbaar maken van model-misalignment. Misalignment betekent dat een AI-model zich anders gedraagt dan bedoeld of verwacht. Denk aan antwoorden die afwijken van instructies of gedrag dat ontwikkelaars niet hadden voorzien.\n\nNaast het kader publiceert OpenAI zes rapporten over onverwacht of zorgwekkend modelgedrag. Het bedrijf zegt daarmee meer inzicht te willen geven in hoe zulke gevallen worden opgemerkt en afgehandeld. Meer details over de inhoud van die zes rapporten geeft de aankondiging niet."
+  },
+  {
+   "heading": "Waarom een meldkader nodig is",
+   "body": "AI-modellen worden steeds vaker ingezet voor taken waarbij fouten gevolgen hebben. Als een model zich onverwacht gedraagt, moet duidelijk zijn wie dat onderzoekt en hoe daarover wordt gerapporteerd. Een vast kader moet ervoor zorgen dat zulke gevallen niet tussen wal en schip vallen.\n\nVolgens OpenAI helpt het framework bij het tracken van misalignment: het opsporen, onderzoeken en vervolgens delen van wat er is gevonden. Dat is vooral relevant nu AI-modellen complexer worden en minder voorspelbaar kunnen reageren in nieuwe situaties."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "OpenAI geeft in de aankondiging geen concrete cijfers over hoe vaak misalignment voorkomt. Ook is niet duidelijk welke modellen of welke specifieke gevallen in de zes rapporten staan. Wie de details wil weten, zal de afzonderlijke rapporten moeten lezen.\n\nHet is evenmin bekend of andere AI-bedrijven een vergelijkbaar kader hebben of gaan volgen. OpenAI zegt alleen hoe het zelf misalignment wil volgen en melden."
+  },
+  {
+   "heading": "Wat dit betekent voor AI-gebruikers",
+   "body": "Voor gewone gebruikers verandert er direct weinig aan ChatGPT zelf. Wel laat de aankondiging zien dat OpenAI fouten en afwijkend gedrag serieuzer wil documenteren. Dat kan op termijn betekenen dat er sneller duidelijkheid komt als een model iets onverwachts doet.\n\nVoor bedrijven die AI inzetten, is het vooral een signaal om zelf ook na te denken over het melden van afwijkend modelgedrag. Een vast proces voorkomt dat incidenten blijven liggen."
+  }
+ ],
+ "nl_angle": "In Nederland gebruiken steeds meer mensen en organisaties AI, van ChatGPT tot Copilot en Gemini. OpenAI's meldkader is geen Nederlandse wetgeving, maar het raakt wel aan de Europese AI-verordening, die transparantie en risicobeheer van AI-systemen eist. Voor Nederlandse bedrijven betekent dit dat ze bij het inzetten van AI moeten kunnen uitleggen hoe ze met fouten en onverwacht gedrag omgaan. Een duidelijk intern meldproces helpt daarbij, zeker als een model wordt gebruikt in klantcontact of administratie.",
+ "faq": [
+  {
+   "q": "Wat is model-misalignment bij AI?",
+   "a": "Model-misalignment betekent dat een AI-model zich anders gedraagt dan bedoeld of verwacht. Het kan gaan om antwoorden die afwijken van instructies of om gedrag dat ontwikkelaars niet hadden voorzien."
+  },
+  {
+   "q": "Heeft dit gevolgen voor ChatGPT in Nederland?",
+   "a": "Direct verandert er weinig aan ChatGPT zelf. OpenAI wil met het kader vooral laten zien hoe het afwijkend modelgedrag opspoort, onderzoekt en meldt."
+  },
+  {
+   "q": "Moeten Nederlandse bedrijven nu ook zo'n kader hebben?",
+   "a": "Er is geen Nederlandse plicht die dit specifiek voorschrijft. Wel verwacht de Europese AI-verordening transparantie en risicobeheer, dus een eigen meldproces voor AI-fouten is verstandig."
+  }
+ ],
+ "slug": "openai-deelt-meldkader-voor-ai-misalignment-en-zes-gevallen",
+ "kind": "news",
+ "date": "2026-09-17",
+ "published": "2026-09-17T12:07",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Our framework for reporting model misalignment",
+   "url": "https://openai.com/index/model-misalignment-reporting-framework"
+  }
+ ],
+ "path": "/nieuws/openai-deelt-meldkader-voor-ai-misalignment-en-zes-gevallen/",
+ "og": "/img/og/openai-deelt-meldkader-voor-ai-misalignment-en-zes-gevallen.png",
+ "take": "Zes rapporten en een meldkader, dat is een begin, maar opschrijven is nog geen oplossen. Ik heb zelf genoeg tools zien falen waar de demo perfect liep en de praktijk niet, dus ik geloof pas dat dit iets waard is als er echte fixes uit komen. Tot die tijd: melden is makkelijk, leveren is het werk."
+}

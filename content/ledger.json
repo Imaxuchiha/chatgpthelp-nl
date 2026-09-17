@@ -119,6 +119,18 @@
   "29b48237ac": {
    "at": "2026-09-16T21:33:05.085860",
    "why": "ok"
+  },
+  "a9e6e4e324": {
+   "at": "2026-09-17T12:05:05.012927",
+   "why": "ok"
+  },
+  "cb7902d9f6": {
+   "at": "2026-09-17T12:06:05.012927",
+   "why": "ok"
+  },
+  "bbe6c30a33": {
+   "at": "2026-09-17T12:07:05.012927",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -143,6 +155,9 @@
   "Robots wachten op hun ChatGPT-moment: uitleg van Nvidia",
   "AI op het werk: OpenAI ziet nieuwe taken ontstaan",
   "AI-labs willen eigen auditors, maar de voordeur staat nog open",
-  "Google Home krijgt AI-agent: Claude en ChatGPT besturen je huis"
+  "Google Home krijgt AI-agent: Claude en ChatGPT besturen je huis",
+  "OpenAI meldt zes nieuwe incidenten met zorgwekkend AI-gedrag",
+  "Snap Specs AI-bril verbindt iPhone en Mac, uitdaging voor Siri",
+  "OpenAI deelt meldkader voor AI-misalignment en zes gevallen"
  ]
 }
