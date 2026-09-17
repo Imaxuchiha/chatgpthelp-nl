@@ -131,6 +131,30 @@
   "bbe6c30a33": {
    "at": "2026-09-17T12:07:05.012927",
    "why": "ok"
+  },
+  "18d01e0c2b": {
+   "at": "2026-09-17T17:38:06.220509",
+   "why": "poort"
+  },
+  "99ba0ab764": {
+   "at": "2026-09-17T17:38:06.220509",
+   "why": "ok"
+  },
+  "b0a1757d0f": {
+   "at": "2026-09-17T17:39:06.220509",
+   "why": "high-risk"
+  },
+  "4c6f8453bd": {
+   "at": "2026-09-17T17:39:06.220509",
+   "why": "poort"
+  },
+  "bb3e4f16a8": {
+   "at": "2026-09-17T17:39:06.220509",
+   "why": "ok"
+  },
+  "4bce8df04a": {
+   "at": "2026-09-17T17:40:06.220509",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -158,6 +182,9 @@
   "Google Home krijgt AI-agent: Claude en ChatGPT besturen je huis",
   "OpenAI meldt zes nieuwe incidenten met zorgwekkend AI-gedrag",
   "Snap Specs AI-bril verbindt iPhone en Mac, uitdaging voor Siri",
-  "OpenAI deelt meldkader voor AI-misalignment en zes gevallen"
+  "OpenAI deelt meldkader voor AI-misalignment en zes gevallen",
+  "Claude kiest zelf tussen chatten en zelfstandig werken",
+  "AI banen angst: wereldwijd vreest men baanverlies",
+  "AI-agent bellen: Instinct en Meta's Muse bellen nu zelf"
  ]
 }
