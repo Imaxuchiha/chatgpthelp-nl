@@ -1,0 +1,67 @@
+{
+ "keyword": "open-weight ai veiligheid",
+ "seo_title": "Open-weight AI veiligheid: Base Labs start partnerschap",
+ "title": "Base Labs start open-weight AI veiligheid met Hugging Face",
+ "meta": "Base Labs werkt met Hugging Face en Goodfire aan veiligheid voor open AI-modellen. Wat betekent dat voor Nederland en open modellen?",
+ "category": "nieuws",
+ "tags": [
+  "open-weight",
+  "ai-veiligheid",
+  "base labs",
+  "hugging face",
+  "goodfire"
+ ],
+ "intro": "Base Labs, de onderzoeksgroep die Baseten eerder dit jaar oprichtte, begint een samenwerking rond de veiligheid van open AI-modellen. Dat doet het samen met Hugging Face en Goodfire, meldt TechCrunch. Het doel is om methoden te ontwikkelen en te publiceren voor het trainen en monitoren van open modellen.",
+ "takeaways": [
+  "Base Labs is een onderzoeksgroep die Baseten eerder dit jaar opzette.",
+  "Hugging Face en Goodfire doen mee aan het partnerschap.",
+  "De groep wil methoden publiceren voor training en monitoring van open modellen.",
+  "Open-weight modellen zijn modellen waarvan de gewichten openbaar zijn."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Base Labs precies gaat doen",
+   "body": "Base Labs is geen nieuw bedrijf dat zomaar iets roept. De groep komt voort uit Baseten, een partij die zich bezighoudt met het draaien van AI-modellen. Eerder dit jaar zette Baseten deze onderzoeksgroep op, volgens TechCrunch.\n\nHet partnerschap richt zich op open-weight modellen. Dat zijn modellen waarvan de zogeheten gewichten openbaar zijn. Je kunt ze dus zelf downloaden en draaien, in plaats van alleen via een API van een bedrijf.\n\nBase Labs wil methoden ontwikkelen én publiceren. Het gaat dan om manieren om zulke open modellen te trainen en te monitoren. Publiceren is een belangrijk woord: de kennis komt dus niet achter een gesloten deur te liggen."
+  },
+  {
+   "heading": "Waarom Hugging Face en Goodfire erbij zijn",
+   "body": "Hugging Face is het bekendste platform voor open AI-modellen. Veel ontwikkelaars halen daar hun modellen vandaan. Goodfire richt zich op het begrijpen en sturen van wat er binnen een model gebeurt.\n\nDoor die twee partijen erbij te halen, krijgt het project zowel een distributiekanaal als technische diepgang. Hugging Face brengt bereik onder ontwikkelaars. Goodfire brengt kennis over het interpreteren van modelgedrag.\n\nTechCrunch noemt geen bedragen, geen looptijd en geen concrete deadline. Wat het partnerschap precies gaat kosten of wanneer de eerste resultaten komen, is dus nog niet bekend."
+  },
+  {
+   "heading": "Open-weight modellen onder vuur",
+   "body": "Open-weight modellen liggen al langer onder een vergrootglas. Voorstanders zeggen dat openheid controle en innovatie mogelijk maakt. Tegenstanders wijzen op misbruik, omdat iedereen het model kan aanpassen.\n\nVeiligheidsonderzoek voor open modellen is lastiger dan voor gesloten modellen. Bij een gesloten model kan een bedrijf zelf ingrijpen. Bij een open model ligt het bestand op ieders computer.\n\nDaarom richt dit partnerschap zich op monitoring: hoe zie je wat een model doet, ook als het buiten de servers van de maker draait? Dat is een vraag waar de hele open-source AI-wereld mee worstelt."
+  },
+  {
+   "heading": "Wat we nog niet weten",
+   "body": "Er zijn nog veel open vragen. Welke methoden precies worden gepubliceerd, is niet duidelijk. Ook is niet bekend of er een licentie of standaard uit komt rollen.\n\nTechCrunch noemt alleen de drie partijen en het doel. Of er meer deelnemers bijkomen, staat er niet in. Evenmin is duidelijk of er Europese partijen aansluiten.\n\nVoor nu is het vooral een signaal: veiligheid van open modellen krijgt een gezamenlijk onderzoeksloket. De uitkomsten moeten zich nog bewijzen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en bedrijven die met open modellen werken, is dit relevant. Veel van hen halen modellen via Hugging Face en draaien die lokaal of in een Europese cloud. Als er bruikbare monitoringsmethoden vrijkomen, kun je die straks zelf toepassen. Ook past dit bij de Europese AI-verordening, die eisen stelt aan transparantie en risicobeheer. Let wel: het gaat om onderzoek, niet om een kant-en-klare tool. Concrete Nederlandse beschikbaarheid of prijzen zijn nog niet bekend.",
+ "faq": [
+  {
+   "q": "wat zijn open-weight modellen?",
+   "a": "Dat zijn AI-modellen waarvan de gewichten openbaar zijn. Je kunt ze zelf downloaden en draaien, in plaats van alleen via de server van een bedrijf."
+  },
+  {
+   "q": "wat doet Base Labs?",
+   "a": "Base Labs is een onderzoeksgroep die Baseten eerder dit jaar oprichtte. De groep gaat methoden ontwikkelen en publiceren voor het trainen en monitoren van open modellen."
+  },
+  {
+   "q": "wat betekent dit voor Nederland?",
+   "a": "Nederlandse ontwikkelaars die met open modellen werken, kunnen mogelijk profiteren van de gepubliceerde methoden. Concrete tools of prijzen zijn nog niet bekend."
+  }
+ ],
+ "slug": "base-labs-start-open-weight-ai-veiligheid-met-hugging-face",
+ "kind": "news",
+ "date": "2026-09-17",
+ "published": "2026-09-17T21:43",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+   "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/"
+  }
+ ],
+ "path": "/nieuws/base-labs-start-open-weight-ai-veiligheid-met-hugging-face/",
+ "og": "/img/og/base-labs-start-open-weight-ai-veiligheid-met-hugging-face.png"
+}

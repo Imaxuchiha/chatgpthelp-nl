@@ -1,0 +1,68 @@
+{
+ "keyword": "claude code projects",
+ "seo_title": "Claude Code Projects: meerdere AI-agents samen",
+ "title": "Claude Code Projects beheert meerdere AI-agents tegelijk",
+ "meta": "Claude Code Projects laat je meerdere AI-agents samen laten werken met gedeeld geheugen. Lees wat het is en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "claude",
+  "anthropic",
+  "ai-agents",
+  "ontwikkelaars",
+  "cloud"
+ ],
+ "intro": "Anthropic heeft Projects opnieuw gelanceerd in Claude Code, het programmeerhulpmiddel van het bedrijf. Met de nieuwe versie kun je meerdere AI-agents tegelijk laten werken binnen één project. Volgens The Verge delen die agents een geheugen, doelen en een bibliotheek met bestanden. Het is een stap naar software die zichzelf deels aanstuurt.",
+ "takeaways": [
+  "Claude Code Projects laat meerdere agents draaien onder één dak, met gedeeld geheugen en gedeelde doelen.",
+  "Elk project heeft threads die taken parallel uitvoeren, aangestuurd door een coordinator.",
+  "De aanpak lijkt op wat The Verge ook bij andere tools ziet, zoals Grok Bot.",
+  "Voor Nederlandse ontwikkelaars betekent dit meer automatisering, maar ook meer controle nodig."
+ ],
+ "sections": [
+  {
+   "heading": "Wat is er precies nieuw aan Claude Code Projects",
+   "body": "Claude Code is de omgeving waarin ontwikkelaars met Claude samen code schrijven. Projects bestond al, maar is nu opnieuw opgebouwd rond meerdere agents. Volgens The Verge kun je in één project verschillende agents laten werken aan verschillende taken. Ze delen hetzelfde geheugen, dezelfde doelen en dezelfde verzameling bestanden en resultaten.\n\nDat is anders dan losse chats of losse taken. Je hoeft niet steeds opnieuw uit te leggen wat het doel is of waar de bestanden staan. Het project onthoudt dat als het ware voor je. Daardoor kun je een groter karwei in stukken knippen zonder de samenhang kwijt te raken."
+  },
+  {
+   "heading": "Threads en een coordinator die alles aanstuurt",
+   "body": "Binnen een project lopen zogeheten threads. Elke thread pakt een eigen taak op, en die taken lopen naast elkaar. The Verge beschrijft dat een coordinator het geheel aanstuurt: die verdeelt het werk en houdt bij wie wat doet.\n\nJe kunt dit vergelijken met een klein team. De een zoekt uit hoe iets technisch moet, de ander schrijft de code en een derde controleert het resultaat. Alleen zijn het hier geen mensen, maar AI-agents. De coordinator is dan de projectleider.\n\nHet idee is niet uniek voor Anthropic. The Verge noemt Grok Bot en andere tools die ook groepen AI-agents beheren. Meerdere aanbieders werken dus aan hetzelfde type gereedschap."
+  },
+  {
+   "heading": "Waarom dit voor ontwikkelaars uitmaakt",
+   "body": "Voor wie veel code schrijft, kan dit schelen in tijd. Je laat een agent een eerste versie maken, een tweede agent test die, en een derde agent ruimt fouten op. Dat gebeurt parallel, dus niet netjes na elkaar.\n\nTegelijk vraagt het meer van de gebruiker. Je moet duidelijke doelen stellen en de uitkomsten blijven controleren. Een agent die zelfstandig doorwerkt, kan ook zelfstandig de verkeerde kant op gaan. Het delen van geheugen betekent bovendien dat een fout zich makkelijker doorzet naar andere taken.\n\nAnthropic heeft nog niet bekendgemaakt wat Projects precies kost of wanneer het breder beschikbaar komt. Daar is op dit moment niets over gemeld."
+  },
+  {
+   "heading": "De bredere trend: agents die samenwerken",
+   "body": "Claude Code Projects past in een ontwikkeling waarin AI niet één vraag beantwoordt, maar een langere klus uitvoert. Meerdere agents die samenwerken is de volgende stap. The Verge plaatst de functie nadrukkelijk in die reeks, naast vergelijkbare gereedschappen van andere partijen.\n\nVoor bedrijven betekent het dat werkprocessen deels veranderen. Niet elke taak hoeft meer door een mens te worden gestart en afgerond. Wel blijft er iemand nodig die het eindresultaat beoordeelt en verantwoordelijkheid draagt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en softwarebedrijven is Claude Code Projects vooral interessant als het hier beschikbaar komt. Anthropic levert zijn diensten in de Europese Unie, maar of en wanneer deze functie in Nederland aankomt, is nog niet bekend. Let als werkgever op twee dingen: wie is verantwoordelijk als een agent iets fout doet, en wat gebeurt er met de code en bestanden die je in een project stopt? Onder de Europese AI-verordening blijft de gebruiker verantwoordelijk voor de inzet van zulke systemen. Reken er dus op dat je intern afspraken moet maken over controle en logging, ook als de tool zelf veel uit handen neemt.",
+ "faq": [
+  {
+   "q": "Wat is Claude Code Projects?",
+   "a": "Het is een functie in Claude Code waarmee je meerdere AI-agents binnen één project laat werken. Ze delen een geheugen, doelen en bestanden, en een coordinator stuurt het geheel aan."
+  },
+  {
+   "q": "Is Claude Code Projects al beschikbaar in Nederland?",
+   "a": "Daar is nog niets over bekend. Anthropic heeft geen datum of prijs genoemd, dus het is onduidelijk wanneer en of dit in Nederland komt."
+  },
+  {
+   "q": "Wat is een coordinator in Claude Code?",
+   "a": "De coordinator is het onderdeel dat het werk verdeelt en bijhoudt welke agent welke taak doet. Je kunt het zien als de projectleider binnen het project."
+  }
+ ],
+ "slug": "claude-code-projects-beheert-meerdere-ai-agents-tegelijk",
+ "kind": "news",
+ "date": "2026-09-17",
+ "published": "2026-09-17T21:41",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects"
+  }
+ ],
+ "path": "/nieuws/claude-code-projects-beheert-meerdere-ai-agents-tegelijk/",
+ "og": "/img/og/claude-code-projects-beheert-meerdere-ai-agents-tegelijk.png",
+ "take": "Claude Code gebruik ik dagelijks met het Max-abonnement, en dat meerdere agents nu een gedeeld geheugen en bestanden delen is precies waar het verschil zit. Ik betaal daar graag voor, want het levert me tijd op die ik kan aanwijzen, en dat is voor mij de enige test die telt. Voor de rest van de markt geldt: eerst gratis of goedkoop proberen, pas betalen als je het direct terugverdient."
+}
