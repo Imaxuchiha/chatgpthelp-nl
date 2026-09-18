@@ -1,0 +1,64 @@
+{
+ "keyword": "chatgpt voor juristen",
+ "seo_title": "ChatGPT voor juristen: Cooley versnelt beursgang",
+ "title": "ChatGPT voor juristen: Cooley versnelt werk aan beursgang",
+ "meta": "Advocatenkantoor Cooley gebruikt ChatGPT Work voor beursgangen. Wat betekent dat voor juristen en bedrijven in Nederland? Lees het hier.",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "openai",
+  "juristen",
+  "beursgang",
+  "advocatuur"
+ ],
+ "intro": "Advocatenkantoor Cooley gebruikt ChatGPT Work bij het begeleiden van beursgangen. Het kantoor bouwde daarvoor een eigen tool met de naam GO Public. Volgens OpenAI helpt dat advocaten om problemen eerder te zien en hun oordeel te richten op de punten die het meest tellen.",
+ "takeaways": [
+  "Cooley bouwde GO Public met ChatGPT Work voor beursgangen.",
+  "De tool moet advocaten eerder op problemen wijzen.",
+  "Menselijk oordeel blijft volgens OpenAI centraal staan.",
+  "OpenAI noemt geen prijzen, aantallen of klantnamen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Cooley met ChatGPT doet",
+   "body": "Cooley is een advocatenkantoor dat bedrijven begeleidt bij een beursgang. Zo'n traject levert stapels documenten op: contracten, financiële stukken en vragen van toezichthouders. Het kantoor bouwde met ChatGPT Work een eigen omgeving, GO Public, om die stroom aan te pakken.\n\nVolgens OpenAI brengt GO Public \"intelligentie\" in het beursgangproces. De tool helpt advocaten om kwesties eerder naar boven te halen. Daardoor kunnen ze sneller schakelen en hun tijd besteden aan de afwegingen die echt om menselijk oordeel vragen.\n\nOpenAI noemt geen aantallen, geen tijdsbesparing en geen prijs. Ook zegt het bedrijf niet welke klanten van Cooley de tool gebruiken. Wat precies in GO Public zit en hoe het technisch werkt, maakt OpenAI niet bekend."
+  },
+  {
+   "heading": "Waarom dit nieuws is",
+   "body": "Juridisch werk draait om tekst: lezen, vergelijken, samenvatten en controleren. Dat is precies waar taalmodellen sterk in kunnen zijn. Advocatenkantoren experimenteren dan ook al langer met AI, maar meestal achter de schermen.\n\nCooley zet die stap nu nadrukkelijk naar buiten, samen met OpenAI. Dat past bij een bredere beweging waarin AI niet alleen losse vragen beantwoordt, maar vastgeklikt wordt aan een werkproces. OpenAI noemt dat in dit geval ChatGPT Work.\n\nVoor de sector is de vraag niet of AI wordt gebruikt, maar hoe. Een beursgang kent harde deadlines en strenge regels. Fouten zijn duur. Dat maakt het juist interessant dat een kantoor AI inzet bij dit soort gevoelig werk."
+  },
+  {
+   "heading": "Wat OpenAI wel en niet zegt",
+   "body": "OpenAI beschrijft het resultaat in algemene termen: eerder problemen zien en het oordeel richten op wat het meest telt. Dat is een belofte, geen gemeten uitkomst. Er staan geen cijfers in de aankondiging, geen vergelijking met vroeger en geen uitspraken van Cooley zelf.\n\nOok ontbreekt informatie over beschikbaarheid. Of GO Public alleen binnen Cooley werkt of ook daarbuiten te gebruiken is, blijft onduidelijk. OpenAI zegt niets over kosten, over dataopslag of over hoe het kantoor met vertrouwelijke cliëntinformatie omgaat.\n\nDat zijn precies de punten waar een advocatenkantoor normaal gesproken streng op let. Zonder die details is het lastig te beoordelen hoe bijzonder deze stap echt is."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse advocatenkantoren en bedrijven die naar de beurs willen, laat dit zien welke kant het op gaat. Werk dat vooral uit lezen en vergelijken bestaat, kun je deels door AI laten doen. Maar de aansprakelijkheid blijft bij de jurist liggen, en de regels van de Autoriteit Financiële Markten en de Europese AI-verordening veranderen daar niets aan. Grote kantoren in Amsterdam zullen dit voorbeeld volgen; kleinere kantoren wachten vaak op bewezen resultaat. Wil je zelf experimenteren, let dan op waar je vertrouwelijke stukken laat verwerken en wie meeleest.",
+ "faq": [
+  {
+   "q": "Wat is GO Public van Cooley?",
+   "a": "GO Public is een eigen omgeving die advocatenkantoor Cooley bouwde met ChatGPT Work. De tool ondersteunt het werk rond een beursgang, zoals het vinden van aandachtspunten in documenten."
+  },
+  {
+   "q": "Vervangt ChatGPT de advocaat?",
+   "a": "Volgens OpenAI niet. De tool haalt kwesties eerder naar boven, maar het uiteindelijke oordeel blijft bij de jurist liggen."
+  },
+  {
+   "q": "Is dit al beschikbaar in Nederland?",
+   "a": "Dat is niet bekend. OpenAI zegt niets over beschikbaarheid buiten Cooley of over prijzen."
+  }
+ ],
+ "slug": "chatgpt-voor-juristen-cooley-versnelt-werk-aan-beursgang",
+ "kind": "news",
+ "date": "2026-09-18",
+ "published": "2026-09-18T11:52",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How Cooley is accelerating IPO work with ChatGPT",
+   "url": "https://openai.com/index/cooley-gopublic"
+  }
+ ],
+ "path": "/nieuws/chatgpt-voor-juristen-cooley-versnelt-werk-aan-beursgang/",
+ "og": "/img/og/chatgpt-voor-juristen-cooley-versnelt-werk-aan-beursgang.png",
+ "take": "Cooley bouwt met GO Public een eigen tool voor beursgangen, en dat is precies de goede volgorde: eerst een echt proces, dan pas de software eromheen. OpenAI roept dat advocaten problemen eerder zien, maar dat is een demo op een podium tot een kantoor ermee draait op echte dossiers. Ik geloof best dat dit werkt, alleen niet omdat een persbericht het zegt."
+}

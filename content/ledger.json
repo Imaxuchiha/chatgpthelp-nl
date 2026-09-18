@@ -167,6 +167,30 @@
   "f81776d6d4": {
    "at": "2026-09-17T21:43:32.267831",
    "why": "ok"
+  },
+  "a59b8440a1": {
+   "at": "2026-09-18T11:52:24.746966",
+   "why": "high-risk"
+  },
+  "5ff94f8b65": {
+   "at": "2026-09-18T11:52:24.746966",
+   "why": "high-risk"
+  },
+  "f06c5b1d8f": {
+   "at": "2026-09-18T11:52:24.746966",
+   "why": "poort"
+  },
+  "964ae1dd0f": {
+   "at": "2026-09-18T11:52:24.746966",
+   "why": "ok"
+  },
+  "6f911ec312": {
+   "at": "2026-09-18T11:53:24.746966",
+   "why": "ok"
+  },
+  "230ed032b0": {
+   "at": "2026-09-18T11:54:24.746966",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -200,6 +224,9 @@
   "AI-agent bellen: Instinct en Meta's Muse bellen nu zelf",
   "Claude Code Projects beheert meerdere AI-agents tegelijk",
   "Koning Charles houdt ai-top en heeft zelf twijfels over AI",
-  "Base Labs start open-weight AI veiligheid met Hugging Face"
+  "Base Labs start open-weight AI veiligheid met Hugging Face",
+  "ChatGPT voor juristen: Cooley versnelt werk aan beursgang",
+  "Crusoe haalt 3,9 miljard dollar op voor AI-datacenters",
+  "Google DeepMind start instituut voor breder AGI-debat"
  ]
 }
