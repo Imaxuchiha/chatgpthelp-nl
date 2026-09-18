@@ -191,6 +191,30 @@
   "230ed032b0": {
    "at": "2026-09-18T11:54:24.746966",
    "why": "ok"
+  },
+  "58d1c7f5bb": {
+   "at": "2026-09-18T17:06:55.038904",
+   "why": "ok"
+  },
+  "baf58204e2": {
+   "at": "2026-09-18T17:06:55.038904",
+   "why": "ok"
+  },
+  "84145fbe5f": {
+   "at": "2026-09-18T17:07:55.038904",
+   "why": "ok"
+  },
+  "bdda1fd447": {
+   "at": "2026-09-18T17:07:55.038904",
+   "why": "ok"
+  },
+  "4c4d6ebf78": {
+   "at": "2026-09-18T17:08:55.038904",
+   "why": "poort"
+  },
+  "984849f3a1": {
+   "at": "2026-09-18T17:08:55.038904",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -227,6 +251,9 @@
   "Base Labs start open-weight AI veiligheid met Hugging Face",
   "ChatGPT voor juristen: Cooley versnelt werk aan beursgang",
   "Crusoe haalt 3,9 miljard dollar op voor AI-datacenters",
-  "Google DeepMind start instituut voor breder AGI-debat"
+  "Google DeepMind start instituut voor breder AGI-debat",
+  "Onderzoekers hacken OpenAI met Claude: wat betekent dit?",
+  "AI existentieel risico: wat klopt er van de angst voor AI?",
+  "Zweedse AI-drones kiezen zelf doelwit: wat betekent dit?"
  ]
 }

@@ -1,0 +1,73 @@
+{
+ "keyword": "ai existentieel risico",
+ "seo_title": "ai existentieel risico: wat klopt er van de angst?",
+ "title": "AI existentieel risico: wat klopt er van de angst voor AI?",
+ "meta": "MIT Technology Review besprak of AI de mensheid kan uitroeien. Wat zeggen onderzoekers, waar komt de angst vandaan en wat betekent dit voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "ai-risico",
+  "veiligheid",
+  "mit technology review",
+  "ai-beleid",
+  "toekomst"
+ ],
+ "intro": "Medewerkers van 's werelds toonaangevende AI-labs zeggen dat geavanceerde AI de mensheid echt zou kunnen uitroeien. MIT Technology Review hield daarover een live sessie voor abonnees. De vraag: is dat een reëel gevaar of vooral angstzaaierij?",
+ "takeaways": [
+  "MIT Technology Review organiseerde een live Roundtables-sessie met de vraag of AI de mensheid kan doden.",
+  "Medewerkers van grote AI-labs noemen het risico zelf reëel, aldus de bronnen.",
+  "De redactie kreeg zoveel vragen dat niet alles in de uitzending paste.",
+  "Er is nog geen duidelijk antwoord of het om echt gevaar of om hype gaat."
+ ],
+ "sections": [
+  {
+   "heading": "Waar komt de angst vandaan?",
+   "body": "De discussie over een mogelijk existentieel risico van AI komt niet alleen van buitenstaanders. Volgens MIT Technology Review zeggen medewerkers van de grootste AI-labs zelf dat er een reële kans is dat geavanceerde AI de mensheid kan vernietigen. Dat maakt het onderwerp lastig weg te wuiven als pure sciencefiction.\n\nTegelijk is de vraag of die zorgen kloppen. In de Roundtables-sessie van 15 september ging de redactie in op waar die angst vandaan komt en of er echt iets achter zit. De sessie was te bekijken en te beluisteren voor abonnees.\n\nOp 18 september volgde een vervolg met antwoorden op vragen van kijkers. Tijdens de sessie van een half uur kwamen er zoveel vragen binnen dat lang niet alles aan bod kon komen."
+  },
+  {
+   "heading": "Wat zeggen de bronnen wel en niet?",
+   "body": "De bronnen zijn duidelijk over de opzet: het gaat om een gesprek dat de angsten ontleedt. Waar komen ze vandaan, houden ze stand, en zo ja, wat dan? Een definitief antwoord geven de samenvattingen niet.\n\nWat de stukken wel stellen: het debat is nu serieus genoeg dat een technologietijdschrift er een aparte sessie aan wijdt. En de vragen komen niet alleen van critici, maar ook van mensen die aan de technologie zelf werken.\n\nWat de bronnen niet geven: concrete cijfers, namen van onderzoekers of een datum waarop iets mis zou gaan. Wie daar naar zoekt, vindt in deze twee artikelen niets."
+  },
+  {
+   "heading": "Hoe moet je zulke waarschuwingen lezen?",
+   "body": "Er zit een verschil tussen een risico benoemen en een voorspelling doen. Een labmedewerker die zegt dat iets kán gebeuren, zegt niet dat het gebeurt. Dat onderscheid is belangrijk, want het nieuws over AI-risico's wordt vaak scherper gemaakt dan de onderliggende boodschap.\n\nTegelijk is het niet verstandig om zorgen helemaal weg te lachen. Dezelfde mensen die de systemen bouwen, zeggen dat er iets aan de hand kan zijn. Dat is reden om te blijven vragen wat er precies bedoeld wordt.\n\nMIT Technology Review noemt in de aankondiging beide mogelijkheden: echt gevaar of meer scaremongering en hype. De sessie probeert dat onderscheid te maken."
+  },
+  {
+   "heading": "Wat kun je hier als lezer mee?",
+   "body": "Voor gewone gebruikers verandert er vandaag weinig. ChatGPT, Claude, Gemini en Copilot werken zoals ze werken. De discussie gaat over de verre toekomst van zeer geavanceerde systemen, niet over de chatbot op je telefoon.\n\nWel helpt het om taal serieus te nemen zonder in paniek te raken. Let op woorden als 'kan', 'risico' en 'mogelijk'. Die betekenen iets anders dan 'gaat gebeuren'.\n\nWie meer wil weten, kan de sessie terugkijken. De vervolgaflevering met antwoorden staat online bij MIT Technology Review."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral een beleidsvraagstuk. De Europese AI-verordening richt zich op veiligheid en transparantie, maar gaat niet over het uitroeien van de mensheid. Nederlandse bedrijven die AI inzetten, merken nu niets van deze discussie. Wel kan het debat de komende jaren meewegen bij strengere eisen aan de grootste AI-modellen, ook in de EU. Wie in Nederland met AI werkt, doet er goed aan de ontwikkelingen te volgen zonder er direct gevolgen voor de eigen systemen te verwachten.",
+ "faq": [
+  {
+   "q": "Kan AI de mensheid echt uitroeien?",
+   "a": "Volgens MIT Technology Review zeggen medewerkers van grote AI-labs dat dit een reëel risico is. Of dat klopt, is nog niet duidelijk; de bronnen geven geen definitief antwoord."
+  },
+  {
+   "q": "Is dit nieuws of gewoon angstzaaierij?",
+   "a": "Dat is precies de vraag die de sessie onderzoekt. MIT Technology Review noemt beide opties: een echt gevaar of vooral hype."
+  },
+  {
+   "q": "Merken we hier iets van in Nederland?",
+   "a": "Voor gewone gebruikers en bedrijven verandert er nu niets. Het debat kan op termijn wel meewegen bij strengere Europese regels voor AI."
+  }
+ ],
+ "type": "news",
+ "slug": "ai-existentieel-risico-wat-klopt-er-van-de-angst-voor-ai",
+ "kind": "news",
+ "date": "2026-09-18",
+ "published": "2026-09-18T17:07",
+ "sources": [
+  {
+   "name": "MIT Technology Review",
+   "title": "Could AI really kill us all? Your questions, answered.",
+   "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
+  },
+  {
+   "name": "MIT Technology Review",
+   "title": "Roundtables: Could AI really kill us all?",
+   "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
+  }
+ ],
+ "path": "/nieuws/ai-existentieel-risico-wat-klopt-er-van-de-angst-voor-ai/",
+ "og": "/img/og/ai-existentieel-risico-wat-klopt-er-van-de-angst-voor-ai.png"
+}

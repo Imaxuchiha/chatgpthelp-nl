@@ -1,0 +1,73 @@
+{
+ "keyword": "claude hackt openai",
+ "seo_title": "Claude hackt OpenAI: onderzoekers kraken accounts",
+ "title": "Onderzoekers hacken OpenAI met Claude: wat betekent dit?",
+ "meta": "Onderzoekers gebruikten Claude om in te breken bij OpenAI. Lees wat er precies gebeurde en wat dit betekent voor AI-beveiliging in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "anthropic",
+  "claude",
+  "beveiliging",
+  "hack"
+ ],
+ "intro": "Beveiligingsonderzoekers hebben met behulp van Anthropic's Claude weten in te breken in systemen van OpenAI. Ze kregen toegang tot medewerkersaccounts en een interne codeopslag, waarna ze de kwetsbaarheden meldden. Het incident zet de beveiliging van AI-bedrijven op scherp.",
+ "takeaways": [
+  "Onderzoekers gebruikten Claude om kwetsbaarheden bij OpenAI te vinden en uit te buiten.",
+  "Ze namen medewerkersaccounts over en kregen toegang tot een interne code repository.",
+  "De fouten zijn gemeld aan OpenAI voordat er schade kon ontstaan.",
+  "Het incident roept vragen op over de beveiliging van AI-systemen en verantwoorde openbaarmaking."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies gebeurde",
+   "body": "Volgens TechCrunch hebben beveiligingsonderzoekers Anthropic's Claude gebruikt om kwetsbaarheden in de systemen van OpenAI te vinden. Ze wisten daarmee medewerkersaccounts over te nemen en kregen toegang tot een interne code repository. Daarna rapporteerden ze de gevonden fouten aan OpenAI.\n\nArs Technica meldt dat de onderzoekers via Claude een OpenAI-medewerkersaccount bereikten en gevoelige GitHub-gegevens inzagen. Het is niet duidelijk of OpenAI de aanval tijdig opmerkte of dat de onderzoekers zelf aan de bel trokken. Beide bronnen spreken van een verantwoorde melding."
+  },
+  {
+   "heading": "Hoe gevaarlijk is dit?",
+   "body": "Het incident laat zien dat AI-modellen zoals Claude kunnen worden ingezet voor geautomatiseerde aanvallen. Een model dat zelfstandig kwetsbaarheden vindt en uitbuit, verlaagt de drempel voor kwaadwillenden. OpenAI en Anthropic benadrukken dat ze veel doen aan beveiliging, maar dit voorval toont dat er risico's blijven.\n\nVoor bedrijven betekent het dat ze niet alleen moeten letten op traditionele hacks, maar ook op aanvallen die door AI worden uitgevoerd. De onderzoekers werkten ethisch, maar de techniek is in principe door iedereen te gebruiken."
+  },
+  {
+   "heading": "Reacties van OpenAI en Anthropic",
+   "body": "OpenAI heeft nog niet publiekelijk gereageerd op het incident. Anthropic, het bedrijf achter Claude, heeft ook nog geen officiële verklaring afgegeven. Beide partijen zijn bekend met de bevindingen, aldus de bronnen. Het is nog niet bekend of er maatregelen zijn genomen om herhaling te voorkomen."
+  },
+  {
+   "heading": "Wat betekent dit voor AI-beveiliging?",
+   "body": "Dit is niet het eerste incident waarbij AI wordt misbruikt voor aanvallen. Beveiligingsexperts waarschuwen al langer dat AI-modellen kunnen helpen bij het vinden van zwakke plekken. Het benadrukt de noodzaak van strenge toegangscontrole en monitoring binnen AI-bedrijven.\n\nVoor gebruikers in Nederland verandert er direct weinig. De systemen van OpenAI en Anthropic blijven beschikbaar. Wel is het goed om te beseffen dat AI-tools krachtige middelen zijn, die ook voor aanvallers interessant zijn."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en gebruikers betekent dit dat de beveiliging van AI-platforms niet vanzelfsprekend is. Als grote spelers als OpenAI al te maken krijgen met AI-aanvallen, geldt dat zeker voor kleinere organisaties. Het is verstandig om toegang tot AI-systemen goed te beveiligen en medewerkers bewust te maken van de risico's. De Autoriteit Persoonsgegevens heeft nog geen uitspraak gedaan over dit incident, maar houdt AI-veiligheid al langer in de gaten.",
+ "faq": [
+  {
+   "q": "Wat is er precies gehackt bij OpenAI?",
+   "a": "Onderzoekers kregen toegang tot medewerkersaccounts en een interne code repository. Ze gebruikten daarvoor Anthropic's Claude om kwetsbaarheden te vinden."
+  },
+  {
+   "q": "Is mijn ChatGPT-account nu onveilig?",
+   "a": "Er zijn geen aanwijzingen dat gebruikersgegevens zijn gestolen. OpenAI heeft de kwetsbaarheden gemeld gekregen en kan maatregelen nemen."
+  },
+  {
+   "q": "Mag je AI gebruiken om te hacken?",
+   "a": "Nee, hacken is strafbaar. De onderzoekers in dit geval meldden de fouten netjes, maar het inzetten van AI voor aanvallen is illegaal."
+  }
+ ],
+ "slug": "onderzoekers-hacken-openai-met-claude-wat-betekent-dit",
+ "kind": "news",
+ "date": "2026-09-18",
+ "published": "2026-09-18T17:06",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+   "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+  },
+  {
+   "name": "Ars Technica",
+   "title": "Researchers used Claude to hack OpenAI",
+   "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/"
+  }
+ ],
+ "path": "/nieuws/onderzoekers-hacken-openai-met-claude-wat-betekent-dit/",
+ "og": "/img/og/onderzoekers-hacken-openai-met-claude-wat-betekent-dit.png",
+ "take": "Onderzoekers die met Claude inbreken bij OpenAI, dat is gewoon een penetratietest met andermans gereedschap. Ik gebruik Claude Code dagelijks voor mijn eigen automatisering, maar een model dat zelf scripts en API's aanstuurt is precies waarom je toegang en geldknoppen bij een mens houdt. Meld je een gevonden lek netjes, dan is dat eerlijk werk; ga je ermee aan de haal, dan ben je gewoon fout bezig."
+}
