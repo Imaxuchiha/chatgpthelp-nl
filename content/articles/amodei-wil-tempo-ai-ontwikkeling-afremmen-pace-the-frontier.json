@@ -1,0 +1,68 @@
+{
+ "keyword": "ai-ontwikkeling tempo",
+ "seo_title": "AI-ontwikkeling tempo: Amodei wil 'pace the frontier'",
+ "title": "Amodei wil tempo AI-ontwikkeling afremmen: 'pace the frontier'",
+ "meta": "Dario Amodei van Anthropic wil het tempo van AI-ontwikkeling afremmen met onafhankelijke veiligheidstesters. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "anthropic",
+  "ai-veiligheid",
+  "dario amodei",
+  "nvidia",
+  "ai-beleid"
+ ],
+ "intro": "Dario Amodei, topman van AI-bedrijf Anthropic, heeft een plan gepresenteerd om het tempo van AI-ontwikkeling te beheersen. Hij noemt het 'pace the frontier'. Het voorstel komt een week nadat een onderzoeker van zijn eigen bedrijf een alarmerende waarschuwing gaf over de risico's van AI.",
+ "takeaways": [
+  "Amodei wil onafhankelijke veiligheidsbeoordelaars inzetten voordat nieuwe AI-modellen op de markt komen.",
+  "AI-labs in democratische landen moeten onderling gaan samenwerken, volgens zijn plan.",
+  "Nvidia-topman Jensen Huang is kritisch op het voorstel.",
+  "Het plan volgt op een doomsday-waarschuwing van een Anthropic-onderzoeker."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Amodei precies voorstelt",
+   "body": "Amodei legt zijn plan uit in een toespraak die TechCrunch heeft bekeken. De kern: AI-bedrijven zouden hun nieuwste modellen eerst laten testen door onafhankelijke veiligheidsbeoordelaars. Pas als die groen licht geven, mag een model naar buiten.\n\nDaarnaast pleit hij voor coördinatie tussen AI-labs in democratische landen. Landen met vergelijkbare waarden zouden samen afspraken moeten maken over hoe snel en hoe ver AI-ontwikkeling mag gaan. Het idee is dat losse bedrijven niet tegen elkaar opboksen zonder rem.\n\nHet voorstel krijgt steun uit de industrie, maar er is ook kritiek. Volgens TechCrunch is het nog onduidelijk hoe zulke onafhankelijke beoordelaars er in de praktijk uit moeten zien. Wie betaalt ze, wie controleert ze, en wat als een lab zich niet houdt aan de uitkomst?"
+  },
+  {
+   "heading": "Kritiek van Nvidia",
+   "body": "Jensen Huang, de baas van chipmaker Nvidia, heeft stevige kritiek op het plan. TechCrunch meldt dat hij vraagtekens zet bij de haalbaarheid. Nvidia levert de chips waarop vrijwel alle grote AI-modellen draaien, dus zijn mening weegt zwaar in de sector.\n\nHuang vindt volgens de berichtgeving dat het afremmen van de ontwikkeling niet werkt als andere landen doorgaan. Zijn tegenargument: wie zich vrijwillig inhoudt, verliest de race. Dat is een bekend dilemma in AI-beleid, en het plan van Amodei lost dat nog niet op.\n\nHet debat laat zien hoe verdeeld de sector is. Aan de ene kant staan bedrijven die veiligheid vooropstellen, aan de andere kant partijen die snelheid belangrijker vinden."
+  },
+  {
+   "heading": "De waarschuwing die eraan voorafging",
+   "body": "Een week voor het plan van Amodei uitte een onderzoeker van Anthropic een alarmerende waarschuwing over AI-risico's. Die uitspraak schudde de AI-wereld op, aldus TechCrunch. Amodei reageert daar nu op met een concreet voorstel.\n\nOpvallend: het plan komt van de CEO van het bedrijf waar de waarschuwing vandaan kwam. Dat maakt de timing gevoelig. Critici vragen zich af of Anthropic hiermee vooral zijn eigen imago wil beschermen.\n\nTechCrunch besteedt in dezelfde podcast ook aandacht aan Automattic, het bedrijf achter WordPress. Dat veranderde in 33 uur van koers. Het is een ander voorbeeld van hoe snel techbedrijven kunnen schakelen."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral relevant via de Europese AI-verordening. De EU stelt al eisen aan hoog-risico-AI, maar onafhankelijke veiligheidstesters zoals Amodei voorstelt bestaan hier nog nauwelijks. Nederlandse bedrijven die AI inzetten, kunnen op termijn te maken krijgen met extra keuringen voordat een model gebruikt mag worden. Ook de discussie over samenwerking tussen democratische landen raakt Nederland: de EU wil hierin een eigen koers varen. Concrete Nederlandse regels op basis van dit plan zijn nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat betekent 'pace the frontier' van Dario Amodei?",
+   "a": "Het is zijn voorstel om het tempo van AI-ontwikkeling te beheersen. AI-labs zouden nieuwe modellen eerst laten testen door onafhankelijke veiligheidsbeoordelaars."
+  },
+  {
+   "q": "Waarom is Nvidia-topman Jensen Huang kritisch?",
+   "a": "Huang vindt dat afremmen niet werkt als andere landen doorgaan. Wie zich inhoudt, verliest volgens hem de race."
+  },
+  {
+   "q": "Wat merkt Nederland van dit plan?",
+   "a": "Nog weinig concreets. De EU heeft eigen AI-regels, maar onafhankelijke veiligheidstesters zoals Amodei voorstelt bestaan hier nog niet."
+  }
+ ],
+ "slug": "amodei-wil-tempo-ai-ontwikkeling-afremmen-pace-the-frontier",
+ "kind": "news",
+ "date": "2026-09-18",
+ "published": "2026-09-18T20:59",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+   "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"
+  },
+  {
+   "name": "TechCrunch",
+   "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+   "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/"
+  }
+ ],
+ "path": "/nieuws/amodei-wil-tempo-ai-ontwikkeling-afremmen-pace-the-frontier/",
+ "og": "/img/og/amodei-wil-tempo-ai-ontwikkeling-afremmen-pace-the-frontier.png"
+}

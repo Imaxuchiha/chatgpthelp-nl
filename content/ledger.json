@@ -215,6 +215,26 @@
   "984849f3a1": {
    "at": "2026-09-18T17:08:55.038904",
    "why": "ok"
+  },
+  "748d4ed0df": {
+   "at": "2026-09-18T20:59:49.743433",
+   "why": "ok"
+  },
+  "5b054754d6": {
+   "at": "2026-09-18T20:59:49.743433",
+   "why": "ok"
+  },
+  "191f19fe75": {
+   "at": "2026-09-18T21:00:49.743433",
+   "why": "poort"
+  },
+  "cde89040db": {
+   "at": "2026-09-18T21:00:49.743433",
+   "why": "ok"
+  },
+  "802486953d": {
+   "at": "2026-09-18T21:01:49.743433",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -254,6 +274,9 @@
   "Google DeepMind start instituut voor breder AGI-debat",
   "Onderzoekers hacken OpenAI met Claude: wat betekent dit?",
   "AI existentieel risico: wat klopt er van de angst voor AI?",
-  "Zweedse AI-drones kiezen zelf doelwit: wat betekent dit?"
+  "Zweedse AI-drones kiezen zelf doelwit: wat betekent dit?",
+  "Amodei wil tempo AI-ontwikkeling afremmen: 'pace the frontier'",
+  "Jev: nieuw AI-model van een ChatGPT-bedenker",
+  "Gouverneur Virginia grijpt in bij datacenters en AI"
  ]
 }

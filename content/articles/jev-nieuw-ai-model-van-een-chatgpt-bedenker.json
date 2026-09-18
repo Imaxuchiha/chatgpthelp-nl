@@ -1,0 +1,63 @@
+{
+ "keyword": "jev ai model",
+ "seo_title": "Jev: nieuw AI-model van ChatGPT-bedenker",
+ "title": "Jev: nieuw AI-model van een ChatGPT-bedenker",
+ "meta": "Een ChatGPT-bedenker komt met Jev, een nieuw en goedkoper AI-model voor software. Wat het is en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "jev",
+  "ai-modellen",
+  "ontwikkelaars",
+  "openai",
+  "software"
+ ],
+ "intro": "Een van de mensen achter ChatGPT heeft een nieuw soort AI-model gemaakt: Jev. Het model belooft ontwikkelaars een goedkopere en snellere route naar software-intelligentie. TechCrunch meldt dat ontwikkelaars enthousiast reageren. Wat het precies kan, is nog niet volledig duidelijk.",
+ "takeaways": [
+  "Jev is een nieuw soort AI-model, gemaakt door iemand die ook aan ChatGPT werkte.",
+  "Het model moet goedkoper en sneller zijn voor software-intelligentie.",
+  "TechCrunch schrijft dat ontwikkelaars enthousiast zijn over Jev.",
+  "Details over prijzen, beschikbaarheid en techniek zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat is Jev?",
+   "body": "Jev is een nieuw AI-model dat volgens TechCrunch afkomstig is van een uitvinder die ook betrokken was bij ChatGPT. Het model richt zich op software-intelligentie: het vermogen van software om taken slim uit te voeren. Volgens de bron belooft Jev een goedkopere en snellere weg daarnaartoe.\n\nTechCrunch noemt het \"een nieuw soort AI-model\". Dat suggereert dat Jev niet simpelweg een volgende versie is van een bestaand taalmodel. Wat er technisch precies anders is, staat niet in de bron. Ook is niet duidelijk of het om een taalmodel, een kleiner gespecialiseerd model of iets anders gaat."
+  },
+  {
+   "heading": "Waarom ontwikkelaars enthousiast zijn",
+   "body": "Ontwikkelaars reageren volgens TechCrunch enthousiast op Jev. De belofte van lagere kosten en hogere snelheid is voor hen aantrekkelijk. Veel AI-modellen zijn krachtig, maar duur om te gebruiken en traag bij grote hoeveelheden aanvragen.\n\nEen model dat software-intelligentie betaalbaarder maakt, kan het bouwen van AI-toepassingen toegankelijker maken. Denk aan kleinere bedrijven en zelfstandige ontwikkelaars die nu terughoudend zijn vanwege de kosten. De bron noemt geen concrete prijzen of snelheidscijfers."
+  },
+  {
+   "heading": "Wat we nog niet weten",
+   "body": "TechCrunch geeft geen details over de architectuur van Jev, de omvang van het model of de prestaties op bekende benchmarks. Ook is niet bekend of Jev open source wordt of achter een betaalde dienst zit.\n\nEr is nog geen informatie over beschikbaarheid in Nederland of de Europese Unie. Evenmin is duidelijk of het model voldoet aan Europese regels, zoals de AI-verordening. Wie Jev wil gebruiken, zal moeten wachten op meer informatie van de makers."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en bedrijven is Jev voorlopig vooral een signaal. Er komen meer AI-modellen die concurreren op prijs en snelheid, niet alleen op slimheid. Dat kan de kosten van AI-toepassingen drukken. Maar zolang er geen prijzen, documentatie of Europese beschikbaarheid zijn, is het lastig om Jev serieus in te plannen. Houd de aankondigingen van de makers in de gaten en test pas als er echte toegang is.",
+ "faq": [
+  {
+   "q": "Wat is Jev?",
+   "a": "Jev is een nieuw AI-model van een uitvinder die ook aan ChatGPT werkte. Het moet een goedkopere en snellere route bieden naar software-intelligentie, meldt TechCrunch."
+  },
+  {
+   "q": "Is Jev al beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. De bron noemt geen prijzen, releasedatum of beschikbaarheid in Nederland of de Europese Unie."
+  },
+  {
+   "q": "Wat betekent Jev voor ontwikkelaars?",
+   "a": "Als Jev echt goedkoper en sneller is, kan het AI-toepassingen betaalbaarder maken. Concrete cijfers en toegang ontbreken nog."
+  }
+ ],
+ "slug": "jev-nieuw-ai-model-van-een-chatgpt-bedenker",
+ "kind": "news",
+ "date": "2026-09-18",
+ "published": "2026-09-18T21:00",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+   "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
+  }
+ ],
+ "path": "/nieuws/jev-nieuw-ai-model-van-een-chatgpt-bedenker/",
+ "og": "/img/og/jev-nieuw-ai-model-van-een-chatgpt-bedenker.png"
+}
