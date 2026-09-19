@@ -1,0 +1,68 @@
+{
+ "keyword": "ai benchmarks",
+ "seo_title": "AI benchmarks: Vals AI wil de standaard worden",
+ "title": "Vals AI wil de gouden standaard voor AI benchmarks worden",
+ "meta": "Vals AI, gesteund door Andreessen Horowitz, wil AI benchmarks neutraler en betrouwbaarder maken. Wat betekent dat voor jou in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "vals ai",
+  "benchmarks",
+  "andreessen horowitz",
+  "ai-modellen",
+  "testen"
+ ],
+ "intro": "Het Amerikaanse bedrijf Vals AI wil het testen van AI-modellen neutraler en betrouwbaarder maken. Het bedrijf krijgt steun van investeerder Andreessen Horowitz. Volgens TechCrunch moet Vals AI uitgroeien tot een soort gouden standaard voor AI benchmarks. Dat is relevant, want bijna elke nieuwe chatbot of AI-tool claimt bovenaan een testlijst te staan.",
+ "takeaways": [
+  "Vals AI wil AI benchmarks neutraler en betrouwbaarder maken.",
+  "Het bedrijf wordt gesteund door investeerder Andreessen Horowitz.",
+  "TechCrunch meldt dat Vals AI de gouden standaard voor AI benchmarks wil worden.",
+  "Er is nog geen informatie over prijzen, beschikbaarheid of een Europese introductie."
+ ],
+ "sections": [
+  {
+   "heading": "Wat is er aan de hand?",
+   "body": "Vals AI hoopt dat AI benchmarks een neutraler en betrouwbaarder hulpmiddel worden. Dat schrijft TechCrunch. Het bedrijf krijgt financiering van Andreessen Horowitz, een bekende Amerikaanse investeerder in technologie.\n\nHet aantal AI-modellen groeit snel. Daardoor wordt het lastiger om te bepalen welk model echt beter presteert. Benchmarks zijn testen die modellen vergelijken op taken zoals taal, rekenen of code schrijven. Volgens TechCrunch wil Vals AI die vergelijking serieuzer en onafhankelijker maken."
+  },
+  {
+   "heading": "Waarom benchmarks zo belangrijk zijn",
+   "body": "AI-bedrijven gebruiken benchmarks graag in hun marketing. Een model dat hoog scoort op een test, klinkt aantrekkelijk voor klanten. Maar niet elke test is even eerlijk of actueel. Soms is een test te makkelijk, of hij is gemaakt door hetzelfde bedrijf dat het model verkoopt.\n\nVals AI wil daar verandering in brengen. Het bedrijf positioneert zich als een neutrale partij die modellen test. TechCrunch noemt Vals AI expliciet als kandidaat voor de gouden standaard. Dat betekent niet automatisch dat het lukt. De AI-markt beweegt snel en nieuwe modellen verschijnen bijna wekelijks."
+  },
+  {
+   "heading": "Wie zit erachter?",
+   "body": "Andreessen Horowitz, ook wel a16z genoemd, is een grote investeerder in technologiebedrijven. De steun geeft Vals AI meer gewicht en geld om zijn tests door te ontwikkelen. TechCrunch noemt de investeerder in de titel van het artikel, wat wijst op de betekenis ervan.\n\nMeer details over het bedrag of de voorwaarden geeft de bron niet. Ook is niet duidelijk hoeveel modellen Vals AI al test. Wie de precieze methode wil weten, zal de publicaties van Vals AI zelf moeten volgen."
+  },
+  {
+   "heading": "Wat betekent dit voor Nederland?",
+   "body": "Nederlandse bedrijven kiezen steeds vaker een AI-model voor klantenservice, administratie of softwareontwikkeling. Een onafhankelijke benchmark kan helpen bij die keuze. Zeker voor organisaties die niet zelf kunnen testen, is een neutrale vergelijking handig.\n\nToch blijft het opletten. Een goede score op een Amerikaanse test zegt niet alles over de Nederlandse situatie. Denk aan taalgebruik, Europese privacyregels en de AVG. Zolang Vals AI geen Nederlandse of Europese modellen meeneemt, blijft het beeld onvolledig. Er is nog geen informatie over beschikbaarheid in Nederland of prijzen in euro's."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en overheidsorganisaties is de keuze voor een AI-model lastig. Leveranciers schermen graag met hoge scores op benchmarks. Een neutrale partij zoals Vals AI kan die claims controleren, maar alleen als de tests transparant zijn en ook naar Europese eisen kijken. Let dus op welke modellen en talen worden getest voordat je een benchmark als waarheid aanneemt.",
+ "faq": [
+  {
+   "q": "Wat is een AI benchmark?",
+   "a": "Een AI benchmark is een vaste test waarmee je AI-modellen met elkaar vergelijkt. Vaak gaat het om taken zoals vragen beantwoorden, code schrijven of rekenen."
+  },
+  {
+   "q": "Wie is Vals AI?",
+   "a": "Vals AI is een bedrijf dat AI-modellen test en benchmarks wil maken. Volgens TechCrunch krijgt het steun van investeerder Andreessen Horowitz."
+  },
+  {
+   "q": "Kan ik Vals AI in Nederland gebruiken?",
+   "a": "Daar is nog niets over bekend. De bron noemt geen prijzen, introductiedatum of beschikbaarheid in Nederland of de Europese Unie."
+  }
+ ],
+ "slug": "vals-ai-wil-de-gouden-standaard-voor-ai-benchmarks-worden",
+ "kind": "news",
+ "date": "2026-09-19",
+ "published": "2026-09-19T16:46",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+   "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/"
+  }
+ ],
+ "path": "/nieuws/vals-ai-wil-de-gouden-standaard-voor-ai-benchmarks-worden/",
+ "og": "/img/og/vals-ai-wil-de-gouden-standaard-voor-ai-benchmarks-worden.png",
+ "take": "Elke nieuwe tool roept dat hij bovenaan een benchmark staat, dus een partij die dat neutraler wil testen is op zich prima. Maar een investering van Andreessen Horowitz maakt nog geen gouden standaard, en tot die benchmarks echt onafhankelijk zijn geloof ik geen enkel rijtje met logo's. Ik test zelf liever op een echt account dan dat ik afga op een claim van een leverancier."
+}

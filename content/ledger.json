@@ -251,6 +251,26 @@
   "6b49f5c4d6": {
    "at": "2026-09-19T11:37:38.590235",
    "why": "ok"
+  },
+  "07683140e4": {
+   "at": "2026-09-19T16:44:44.673438",
+   "why": "ok"
+  },
+  "262b6f5f9e": {
+   "at": "2026-09-19T16:45:44.673438",
+   "why": "high-risk"
+  },
+  "ee78669d01": {
+   "at": "2026-09-19T16:45:44.673438",
+   "why": "poort"
+  },
+  "a864cdf7e1": {
+   "at": "2026-09-19T16:45:44.673438",
+   "why": "ok"
+  },
+  "c8eff2dfde": {
+   "at": "2026-09-19T16:46:44.673438",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -296,6 +316,9 @@
   "Gouverneur Virginia grijpt in bij datacenters en AI",
   "AI-verfilming van de Odyssee valt door de mand: wat leren we ervan?",
   "OpenAI komt met blauwdruk voor AI jeugd veiligheid",
-  "Vantora haalt 100 miljoen op voor fysieke AI startups"
+  "Vantora haalt 100 miljoen op voor fysieke AI startups",
+  "Anthropic overweegt nieuw model ondanks eerdere rem op AI",
+  "AI-regulering: de strijd binnen de sector is nog niet voorbij",
+  "Vals AI wil de gouden standaard voor AI benchmarks worden"
  ]
 }

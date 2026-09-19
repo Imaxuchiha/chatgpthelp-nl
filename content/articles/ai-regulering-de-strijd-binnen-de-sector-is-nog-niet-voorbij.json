@@ -1,0 +1,63 @@
+{
+ "keyword": "ai regulering",
+ "seo_title": "AI regulering: strijd binnen de sector laait op",
+ "title": "AI-regulering: de strijd binnen de sector is nog niet voorbij",
+ "meta": "AI-regulering blijft omstreden. Lees wat Anthropic voorstelt, hoe OpenAI reageert en wat dit betekent voor bedrijven in Nederland.",
+ "category": "beleid",
+ "tags": [
+  "ai-regulering",
+  "anthropic",
+  "openai",
+  "eu-ai-wet",
+  "veiligheid"
+ ],
+ "intro": "De discussie over AI-regulering is deze week opnieuw opgelaaid. Aan het begin van de week leek een groot deel van de AI-sector voorzichtig voor regulering te kiezen, maar die eensgezindheid brokkelt snel af. Volgens The Verge is de strijd over hoe AI veilig blijft nog lang niet beslist.",
+ "takeaways": [
+  "Anthropic-ceo Dario Amodei stelde een drie-stappenplan voor om AI-ontwikkeling af te remmen",
+  "Het plan bevat derde-partij-evaluatoren in labs, afstemming binnen de sector en internationale afspraken",
+  "De eensgezindheid over regulering binnen de AI-sector lijkt volgens The Verge alweer af te brokkelen",
+  "Voor Nederlandse bedrijven blijft de Europese AI-wet voorlopig het belangrijkste kader"
+ ],
+ "sections": [
+  {
+   "heading": "Wat Anthropic voorstelt",
+   "body": "Afgelopen weekend kwam Anthropic-ceo Dario Amodei met een plan van drie stappen om de ontwikkeling van AI te vertragen. Het eerste onderdeel is dat laboratoria externe evaluatoren toelaten. Onafhankelijke partijen zouden dan kunnen controleren hoe een model presteert en of het veilig genoeg is.\n\nDe tweede stap is afstemming binnen de eigen sector. AI-bedrijven zouden onderling afspraken moeten maken over tempo en veiligheid, in plaats van elkaar de loef af te steken. De derde stap is het sluiten van internationale overeenkomsten. Daarbij gaat het om samenwerking tussen landen, zodat regels niet per regio verschillen.\n\nVolgens The Verge was dit voorstel opvallend omdat het van binnenuit de sector kwam. Een topman van een groot AI-lab pleitte dus zelf voor meer rem op de eigen ontwikkeling."
+  },
+  {
+   "heading": "De eensgezindheid brokkelt af",
+   "body": "Aan het begin van deze week leek een groot deel van de AI-wereld voorzichtig achter regulering te staan. Meerdere partijen schaarden zich ogenschijnlijk achter het idee dat meer toezicht nodig is. Maar die steun blijkt wankel.\n\nThe Verge meldt dat de strijd over AI-regulering nog niet voorbij is. De posities schuiven op en de toon wordt harder. Wat eerst een gezamenlijk standpunt leek, valt nu uiteen in verschillende kampen.\n\nDat patroon is niet nieuw. Zodra concrete regels worden voorgesteld, verschuift het debat van het principe naar de uitvoering. Dan blijkt dat bedrijven heel verschillende belangen hebben."
+  },
+  {
+   "heading": "Waarom dit nu speelt",
+   "body": "AI-modellen worden steeds krachtiger en de zorgen over misbruik groeien mee. Tegelijkertijd willen bedrijven niet dat regelgeving hun ontwikkeling afknijpt. Die spanning komt nu tot uiting in het publieke debat.\n\nHet voorstel van Amodei raakt een gevoelige snaar. Externe evaluatoren betekenen meer controle van buitenaf. Internationale afspraken vragen om concessies. En afstemming binnen de sector betekent dat concurrenten met elkaar moeten praten in plaats van alleen tegen elkaar te strijden.\n\nVolgens The Verge is het duidelijk dat de discussie nog volop gaande is. Er is nog geen eindstand bereikt."
+  }
+ ],
+ "nl_angle": "Voor Nederland en de rest van de EU is de Europese AI-wet voorlopig het belangrijkste kader. Die wet verdeelt AI-toepassingen in risicocategorieën en stelt eisen aan transparantie en toezicht. Wat er in de Verenigde Staten gebeurt, kan die aanpak beïnvloeden. Als grote AI-bedrijven zelf met veiligheidsvoorstellen komen, kan dat de roep om strengere Europese regels versterken of juist afzwakken. Nederlandse bedrijven die AI inzetten, krijgen dus te maken met twee bewegingen: strengere Europese regels en een sector die intern zoekt naar afspraken. Het is nog niet bekend hoe die twee zich precies tot elkaar gaan verhouden.",
+ "faq": [
+  {
+   "q": "Wat stelt Anthropic voor bij AI-regulering?",
+   "a": "Anthropic-ceo Dario Amodei stelde een drie-stappenplan voor: externe evaluatoren in AI-labs, afstemming binnen de sector en internationale afspraken om AI-ontwikkeling af te remmen."
+  },
+  {
+   "q": "Geldt AI-regulering ook voor Nederland?",
+   "a": "Ja, voor Nederland geldt de Europese AI-wet. Die stelt eisen aan AI-toepassingen op basis van risico. De precieze gevolgen per bedrijf verschillen."
+  },
+  {
+   "q": "Is de AI-regulering al definitief?",
+   "a": "Nee. Volgens The Verge is de strijd over AI-regulering nog niet voorbij. De standpunten binnen de sector schuiven op en er is nog geen eindbesluit."
+  }
+ ],
+ "slug": "ai-regulering-de-strijd-binnen-de-sector-is-nog-niet-voorbij",
+ "kind": "news",
+ "date": "2026-09-19",
+ "published": "2026-09-19T16:45",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "The AI regulation smackdown isn’t over",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over"
+  }
+ ],
+ "path": "/beleid/ai-regulering-de-strijd-binnen-de-sector-is-nog-niet-voorbij/",
+ "og": "/img/og/ai-regulering-de-strijd-binnen-de-sector-is-nog-niet-voorbij.png"
+}
