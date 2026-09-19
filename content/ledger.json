@@ -235,6 +235,22 @@
   "802486953d": {
    "at": "2026-09-18T21:01:49.743433",
    "why": "ok"
+  },
+  "54be5bff3e": {
+   "at": "2026-09-19T11:35:38.590235",
+   "why": "ok"
+  },
+  "763a7ce169": {
+   "at": "2026-09-19T11:36:38.590235",
+   "why": "poort"
+  },
+  "559b0cf111": {
+   "at": "2026-09-19T11:36:38.590235",
+   "why": "ok"
+  },
+  "6b49f5c4d6": {
+   "at": "2026-09-19T11:37:38.590235",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -277,6 +293,9 @@
   "Zweedse AI-drones kiezen zelf doelwit: wat betekent dit?",
   "Amodei wil tempo AI-ontwikkeling afremmen: 'pace the frontier'",
   "Jev: nieuw AI-model van een ChatGPT-bedenker",
-  "Gouverneur Virginia grijpt in bij datacenters en AI"
+  "Gouverneur Virginia grijpt in bij datacenters en AI",
+  "AI-verfilming van de Odyssee valt door de mand: wat leren we ervan?",
+  "OpenAI komt met blauwdruk voor AI jeugd veiligheid",
+  "Vantora haalt 100 miljoen op voor fysieke AI startups"
  ]
 }
