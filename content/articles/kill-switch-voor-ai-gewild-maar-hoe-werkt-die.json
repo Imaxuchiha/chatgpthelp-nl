@@ -1,0 +1,67 @@
+{
+ "keyword": "kill switch ai",
+ "seo_title": "kill switch voor AI: niemand weet nog hoe die werkt",
+ "title": "Kill switch voor AI gewild, maar hoe werkt die?",
+ "meta": "Steeds meer mensen en politici willen een kill switch voor AI. Toch is onduidelijk hoe je zo'n noodstop maakt. Dit is er bekend.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "veiligheid",
+  "wetgeving",
+  "kill switch",
+  "openai"
+ ],
+ "intro": "Steeds meer mensen willen een noodknop waarmee je een gevaarlijk AI-systeem direct uitzet. In de Verenigde Staten werken Congresleden aan wetgeving en stelt de gouverneur van Californië een panel in. Het lastige punt: bij moderne AI-systemen zit vaak helemaal geen knop om aan te draaien.",
+ "takeaways": [
+  "Een groep Congresleden in de VS werkt aan wetgeving voor een noodstop bij AI",
+  "De gouverneur van Californië heeft een panel ingesteld om de mogelijkheden te onderzoeken",
+  "Bij moderne AI-systemen is er vaak geen enkele centrale knop die je kunt omzetten",
+  "Hoe zo'n kill switch er in de praktijk uit moet zien, is nog niet bekend"
+ ],
+ "sections": [
+  {
+   "heading": "Wat is een kill switch voor AI?",
+   "body": "Een kill switch is een noodstop: een manier om een AI-systeem meteen stil te leggen als het gevaarlijk gedrag vertoont. Het idee klinkt simpel, maar volgens Bright is er bij moderne AI-systemen vaak geen enkele knop waaraan je kunt draaien. Modellen draaien op veel verschillende servers tegelijk, verspreid over meerdere partijen.\n\nJe kunt het vergelijken met een trein die op honderd sporen tegelijk rijdt. Zet je één wissel om, dan rijdt de rest gewoon door. Daarom is de vraag niet alleen of we een noodstop willen, maar vooral hoe je die technisch maakt."
+  },
+  {
+   "heading": "Politiek wil actie, techniek loopt achter",
+   "body": "In de Verenigde Staten ligt het onderwerp inmiddels op tafel. Een groep Congresleden werkt aan wetgeving rond zo'n noodstop, meldt Bright. Daarnaast heeft de Californische gouverneur Gavin Newsom een panel ingesteld dat de mogelijkheden onderzoekt.\n\nDat politici haast maken, is begrijpelijk. Toch waarschuwt de techniek zelf: niemand weet nog precies hoe een kill switch moet werken. Er is dus vraag naar een oplossing waarvan de bouwtekening ontbreekt."
+  },
+  {
+   "heading": "Waarom een knop niet genoeg is",
+   "body": "Grote AI-modellen zijn geen apparaten in één kast. Ze bestaan uit software die op veel plekken tegelijk kan draaien, soms bij verschillende bedrijven. Een systeem volledig uitzetten betekent dus afspraken maken over wie waaraan mag trekken.\n\nDaar komt bij dat een AI niet altijd duidelijk 'aan' of 'uit' is. Een model kan worden gekopieerd, aangepast of op een andere plek opnieuw worden gestart. Een kill switch moet dus meer zijn dan één schakelaar: het is een afspraak tussen makers, gebruikers en toezichthouders."
+  },
+  {
+   "heading": "Wat betekent dit voor AI-bedrijven?",
+   "body": "Voor bedrijven die AI bouwen, betekent dit vooral meer verantwoording. Ze moeten kunnen laten zien wat hun systeem doet en hoe je het kunt stoppen. Nu is dat nog grotendeels aan de makers zelf.\n\nVerwacht voorlopig geen kant-en-klare wet. De VS onderzoekt de opties, en in de Europese Unie gelden al regels voor AI via de AI-verordening. Hoe een noodstop daarin past, is nog niet duidelijk."
+  }
+ ],
+ "nl_angle": "Voor Nederland en de rest van de EU is dit vooral een teken dat AI-toezicht concreter wordt. De Europese AI-verordening verdeelt systemen al in risicoklassen, maar een echte noodknop staat er niet in. Bedrijven die AI inzetten, doen er goed aan nu al te weten welk systeem ze gebruiken en wie het kan uitzetten. Verwacht geen wet die morgen ingaat: de VS onderzoekt de opties nog, en de uitkomst is onzeker.",
+ "faq": [
+  {
+   "q": "wat is een kill switch voor ai?",
+   "a": "Een kill switch is een noodstop waarmee je een AI-systeem direct wilt uitschakelen als het gevaarlijk wordt. Bij moderne AI-systemen is zo'n enkele knop er vaak niet."
+  },
+  {
+   "q": "is er al een kill switch voor ai?",
+   "a": "Nee. In de VS werkt een groep Congresleden aan wetgeving en onderzoekt een panel in Californië de mogelijkheden, maar hoe zo'n noodstop moet werken is nog niet bekend."
+  },
+  {
+   "q": "geldt dit ook in nederland?",
+   "a": "In de EU geldt de AI-verordening met regels per risiconiveau, maar een aparte kill switch staat daar niet in. Wat de VS besluit, kan wel invloed hebben op AI-bedrijven die ook in Europa actief zijn."
+  }
+ ],
+ "slug": "kill-switch-voor-ai-gewild-maar-hoe-werkt-die",
+ "kind": "news",
+ "date": "2026-09-20",
+ "published": "2026-09-20T20:42",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Veel mensen willen een 'kill switch' voor AI, maar niemand weet hoe die moet werken",
+   "url": "https://www.bright.nl/nieuws/2137725/veel-mensen-willen-een-kill-switch-voor-ai-maar-niemand-weet-hoe.html"
+  }
+ ],
+ "path": "/nieuws/kill-switch-voor-ai-gewild-maar-hoe-werkt-die/",
+ "og": "/img/og/kill-switch-voor-ai-gewild-maar-hoe-werkt-die.png"
+}

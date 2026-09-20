@@ -1,0 +1,68 @@
+{
+ "keyword": "ai cyberaanval energiesystemen",
+ "seo_title": "AI cyberaanval energiesystemen: mens blijft grootste risico",
+ "title": "AI cyberaanval op energiesystemen: mens blijft het grootste risico",
+ "meta": "Mensen, niet AI, vormen nog altijd het grootste cyberrisico voor energiesystemen. Lees wat dit betekent voor Nederland en hoe je je ertegen wapent.",
+ "category": "nieuws",
+ "tags": [
+  "cybersecurity",
+  "energie",
+  "ai",
+  "kritieke infrastructuur",
+  "nederland"
+ ],
+ "intro": "Energiesystemen waren al kwetsbaar voor cyberaanvallen, nog voordat AI in het nieuws kwam als mogelijk gevaar. Volgens The Verge komt het grootste risico nog altijd van mensen, niet van een kwaadaardige AI. Dat heeft gevolgen voor hoe Nederland zijn stroomnet en gasvoorziening beveiligt.",
+ "takeaways": [
+  "The Verge meldt dat energiesystemen al lang kwetsbaar zijn voor cyberaanvallen, nog voor de recente hype rond AI.",
+  "Joshua Corman, verbonden aan publieke veiligheid en veerkracht, zegt dat mensen altijd al 'prooi' waren en dat het risico groeit.",
+  "Het debat over AI die 'alle mensen zou doden' leidt af van de echte, alledaagse kwetsbaarheden in energiesystemen.",
+  "Voor Nederland betekent dit dat menselijke fouten en oude systemen minstens zo belangrijk zijn als AI-beveiliging."
+ ],
+ "sections": [
+  {
+   "heading": "Energiesystemen waren altijd al prooi",
+   "body": "The Verge schrijft dat energiesystemen al geruime tijd kwetsbaar zijn voor cyberaanvallen. Dat is niet nieuw, maar het besef groeit nu AI het debat domineert. Joshua Corman, die werkt aan publieke veiligheid en veerkracht, zegt het zo: \"We waren altijd al prooi. We overleefden alleen op het tempo van onze roofdieren.\" Die uitspraak zet de discussie in een ander licht.\n\nDe recente aandacht voor AI die mogelijk \"alle mensen zou doden\" leidt volgens de bron af van de dagelijkse realiteit. Energiebedrijven kampen met verouderde systemen, zwakke wachtwoorden en menselijke fouten. Dat zijn geen sciencefictionproblemen, maar concrete gaten die aanvallers nu al misbruiken."
+  },
+  {
+   "heading": "Menselijke fouten blijven de grootste opening",
+   "body": "Uit de bron blijkt dat het risico vooral bij mensen ligt, niet bij een zelfdenkende AI. Een verkeerd geconfigureerde server of een medewerker die op een phishinglink klikt, kan meer schade aanrichten dan welk algoritme dan ook. The Verge noemt dit een groeiend probleem voor kritieke infrastructuur.\n\nCorman benadrukt dat we altijd hebben overleefd omdat aanvallers niet altijd honger hadden. Dat is een wankele basis. Zodra een aanvaller wél doorzet, staat een energiesysteem snel onder druk. De les: beveiliging moet uitgaan van menselijk falen, niet van perfecte technologie."
+  },
+  {
+   "heading": "AI als afleiding van echte gevaren",
+   "body": "Het beeld van een kwaadaardige AI die de macht overneemt, is populair in films en headlines. Maar volgens The Verge leidt dat af van de kwetsbaarheden die er al zijn. Energiebedrijven hebben te maken met oude software, versnipperde netwerken en te weinig personeel dat verstand heeft van beveiliging.\n\nAI kan helpen om aanvallen sneller te detecteren, maar lost de basisproblemen niet op. Zolang mensen systemen beheren, blijven mensen de zwakke schakel. Dat betekent niet dat AI geen rol speelt, maar wel dat de prioriteit bij fundamentele beveiliging hoort te liggen."
+  },
+  {
+   "heading": "Wat dit betekent voor de aanpak",
+   "body": "De bron suggereert dat we minder moeten focussen op het dystopische AI-scenario en meer op weerbaarheid. Dat betekent: systemen opschonen, toegang beperken en personeel trainen. Energiebedrijven moeten ervan uitgaan dat een aanval komt, niet of die komt.\n\nCorman noemt het overleven tot nu toe eerder geluk dan wijsheid. Voor Nederland, met zijn sterk gecentraliseerde energievoorziening, is dat een waarschuwing. Kleine fouten kunnen grote gevolgen hebben voor de stroomvoorziening."
+  }
+ ],
+ "nl_angle": "In Nederland hangt onze stroom- en gasvoorziening aan elkaar via een beperkt aantal grote netbeheerders en systemen. Een cyberaanval op een van die schakels kan direct gevolgen hebben voor huishoudens en bedrijven. De boodschap van The Verge is dat we niet moeten wachten op een AI-ramp, maar nu moeten investeren in menselijke beveiliging: minder rechten voor medewerkers, betere training en het vervangen van verouderde software. Voor Nederlandse energiebedrijven en toezichthouders betekent dit dat het gesprek over AI-beveiliging niet het gesprek over basisveiligheid mag vervangen.",
+ "faq": [
+  {
+   "q": "Is AI het grootste gevaar voor energiesystemen?",
+   "a": "Nee, volgens The Verge zijn mensen nog altijd het grootste risico. Denk aan fouten, phishing en zwakke wachtwoorden."
+  },
+  {
+   "q": "Wat zei Joshua Corman over energiesystemen?",
+   "a": "Hij zei dat we altijd al prooi waren en alleen overleefden op het tempo van onze roofdieren. Dat wijst op een groeiend, structureel risico."
+  },
+  {
+   "q": "Wat betekent dit voor Nederland?",
+   "a": "Onze energievoorziening is sterk gecentraliseerd. Een aanval op een netbeheerder kan dus direct gevolgen hebben voor veel huishoudens en bedrijven."
+  }
+ ],
+ "slug": "ai-cyberaanval-op-energiesystemen-mens-blijft-het-grootste-risico",
+ "kind": "news",
+ "date": "2026-09-20",
+ "published": "2026-09-20T20:43",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+   "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure"
+  }
+ ],
+ "path": "/nieuws/ai-cyberaanval-op-energiesystemen-mens-blijft-het-grootste-risico/",
+ "og": "/img/og/ai-cyberaanval-op-energiesystemen-mens-blijft-het-grootste-risico.png",
+ "take": "Het grootste risico zit dus nog steeds bij mensen, niet bij AI. Dat verbaast me niks, want ik zie in advertentieaccounts precies hetzelfde: de meeste 'problemen' zijn meetfouten of iemand die een knop verkeerd heeft omgezet, geen geavanceerde aanval. Beveiliging is net meten: eerst zorgen dat je basis klopt, dan pas praten over de nieuwste AI-dreiging."
+}

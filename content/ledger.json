@@ -335,6 +335,26 @@
   "b12f4df503": {
    "at": "2026-09-20T16:52:09.914604",
    "why": "ok"
+  },
+  "60dfeba445": {
+   "at": "2026-09-20T20:42:33.246024",
+   "why": "poort"
+  },
+  "f1375cd824": {
+   "at": "2026-09-20T20:42:33.246024",
+   "why": "ok"
+  },
+  "ba91ca5849": {
+   "at": "2026-09-20T20:43:33.246024",
+   "why": "high-risk"
+  },
+  "d11b689309": {
+   "at": "2026-09-20T20:43:33.246024",
+   "why": "ok"
+  },
+  "58f2b00778": {
+   "at": "2026-09-20T20:44:33.246024",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -392,6 +412,9 @@
   "AI antitrust: pleidooi voor vrijstelling van mededingingsregels",
   "Tilly Norwood AI-actrice: persreis vol fouten en kritiek",
   "Anthropic runt eigen biologie-lab voor AI-experimenten",
-  "AI-hallucinatie leger VS leidt bijna tot militaire missie"
+  "AI-hallucinatie leger VS leidt bijna tot militaire missie",
+  "Kill switch voor AI gewild, maar hoe werkt die?",
+  "AI cyberaanval op energiesystemen: mens blijft het grootste risico",
+  "Anthropic kiest Accenture als eerste ingebouwde evaluator"
  ]
 }
