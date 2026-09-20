@@ -283,6 +283,38 @@
   "86ab101ea2": {
    "at": "2026-09-19T20:35:38.188897",
    "why": "ok"
+  },
+  "5a4d849559": {
+   "at": "2026-09-20T11:52:09.170543",
+   "why": "poort"
+  },
+  "b07baf65d3": {
+   "at": "2026-09-20T11:52:09.170543",
+   "why": "ok"
+  },
+  "607ffaad2d": {
+   "at": "2026-09-20T11:53:09.170543",
+   "why": "poort"
+  },
+  "fd93cc7ddf": {
+   "at": "2026-09-20T11:53:09.170543",
+   "why": "ok"
+  },
+  "6cd029fa2f": {
+   "at": "2026-09-20T11:54:09.170543",
+   "why": "high-risk"
+  },
+  "66fb6faf12": {
+   "at": "2026-09-20T11:54:09.170543",
+   "why": "poort"
+  },
+  "7604036275": {
+   "at": "2026-09-20T11:54:09.170543",
+   "why": "poort"
+  },
+  "373f3d22cf": {
+   "at": "2026-09-20T11:54:09.170543",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -334,6 +366,9 @@
   "Vals AI wil de gouden standaard voor AI benchmarks worden",
   "Disney stelt voor het eerst een chief technology officer aan",
   "Gemini hackt andere bedrijven: Google noemt het passend",
-  "AI voerbak kat: Petlibro Granary 2 meet wat elke kat eet"
+  "AI voerbak kat: Petlibro Granary 2 meet wat elke kat eet",
+  "Meta Muse AI: wat de nieuwe agent kan en waar het misgaat",
+  "Californië onderzoekt kill switch voor AI-modellen",
+  "AI antitrust: pleidooi voor vrijstelling van mededingingsregels"
  ]
 }

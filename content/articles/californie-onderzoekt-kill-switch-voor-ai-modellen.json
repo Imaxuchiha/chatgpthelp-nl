@@ -1,0 +1,68 @@
+{
+ "keyword": "kill switch ai",
+ "seo_title": "kill switch ai: Californië onderzoekt verplichting",
+ "title": "Californië onderzoekt kill switch voor AI-modellen",
+ "meta": "Californië laat onderzoeken of AI-bedrijven een kill switch moeten inbouwen. Wat betekent dat voor AI-gebruik en regelgeving in Nederland en de EU?",
+ "category": "beleid",
+ "tags": [
+  "kill switch",
+  "californië",
+  "ai-regels",
+  "gavin newsom",
+  "ai-veiligheid"
+ ],
+ "intro": "De gouverneur van Californië, Gavin Newsom, heeft vrijdag een decreet uitgevaardigd. Daarin laat hij onderzoeken of AI-bedrijven verplicht kunnen worden een kill switch in hun modellen te bouwen. Dat meldt Bright. Een kill switch is een noodknop waarmee je een systeem direct kunt uitzetten.",
+ "takeaways": [
+  "Newsom liet het onderzoek starten met een decreet van vrijdag",
+  "Het gaat om de vraag of een kill switch verplicht kan worden",
+  "Californië is de thuisbasis van veel grote AI-bedrijven",
+  "In de EU bestaan al regels voor AI, maar nog geen kill-switchplicht"
+ ],
+ "sections": [
+  {
+   "heading": "Wat Californië precies wil",
+   "body": "Uit het decreet blijkt dat Newsom wil laten uitzoeken of AI-bedrijven verplicht kunnen worden een kill switch in hun modellen in te bouwen. Zo'n schakelaar moet een model of dienst direct stil kunnen leggen. De maatregel komt van de gouverneur zelf, niet via een nieuwe wet.\n\nCalifornië is de staat waar veel grote AI-bedrijven zitten. Denk aan OpenAI en Anthropic, beide gevestigd in San Francisco. Regels die daar gelden, werken vaak door op de rest van de wereld.\n\nHet is nog niet bekend wanneer het onderzoek klaar is. Ook is onduidelijk of er echt een verplichting komt."
+  },
+  {
+   "heading": "Wat een kill switch is",
+   "body": "Een kill switch is een noodknop. Je drukt erop en een systeem stopt met werken. Zulke knoppen bestaan al bij machines en datacenters.\n\nBij AI is het ingewikkelder. Een model dat al is uitgerold, draait soms op servers van anderen. Je kunt het dan niet zomaar uitzetten. Ook is de vraag wie op de knop mag drukken: de maker, de overheid of de gebruiker.\n\nDaarnaast zegt een kill switch niets over de vraag of een model veilig is. Hij grijpt pas in als er al iets misgaat."
+  },
+  {
+   "heading": "Waarom dit nu speelt",
+   "body": "AI-modellen worden steeds vaker ingezet voor taken die veel impact hebben. Denk aan klantcontact, software schrijven of beslissingen ondersteunen. Als zo'n systeem rare dingen doet, wil je kunnen ingrijpen.\n\nCalifornië loopt vaker voorop met techregels. De staat stelde eerder al regels op voor dataprivacy. Met dit decreet zet Newsom een volgende stap, al is het voorlopig alleen een onderzoek."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Het decreet zegt niets over boetes of termijnen. Er is ook geen lijst van bedrijven die eronder vallen. Of er een echte verplichting komt, is dus nog open.\n\nOok is niet duidelijk of een kill switch technisch haalbaar is voor alle soorten AI. Bij een los model dat iemand thuis draait, heeft een overheid geen knop om op te drukken."
+  }
+ ],
+ "nl_angle": "Voor Nederland verandert er nu nog niets. De EU heeft met de AI-verordening al regels voor risicovolle AI, maar daarin staat geen kill-switchplicht. Wel kunnen eisen uit Californië doorwerken: veel AI-diensten die jij gebruikt, zoals ChatGPT, Claude en Gemini, komen van bedrijven die daar zitten. Komen er verplichtingen, dan zie je dat vaak terug in de voorwaarden of beschikbaarheid in Europa. Bedrijven die AI inzetten, doen er goed aan nu al na te denken over een eigen noodplan: wie zet een systeem uit als het fout gaat?",
+ "faq": [
+  {
+   "q": "wat is een kill switch bij ai?",
+   "a": "Een kill switch is een noodknop waarmee je een AI-systeem direct kunt stopzetten. De maker of beheerder kan het model dan uitzetten."
+  },
+  {
+   "q": "geldt een kill switch ook in Nederland?",
+   "a": "Nee, er is nog geen verplichting. Californië onderzoekt alleen of zo'n plicht er kan komen. In de EU geldt de AI-verordening, zonder kill-switchplicht."
+  },
+  {
+   "q": "welke ai-bedrijven zitten in californië?",
+   "a": "Onder meer OpenAI en Anthropic zijn er gevestigd. Daardoor hebben regels uit die staat vaak invloed op AI-diensten wereldwijd."
+  }
+ ],
+ "slug": "californie-onderzoekt-kill-switch-voor-ai-modellen",
+ "kind": "news",
+ "date": "2026-09-20",
+ "published": "2026-09-20T11:53",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Californische gouverneur wil wel een 'kill-switch' voor AI",
+   "url": "https://www.bright.nl/nieuws/2137433/californische-gouverneur-wil-wel-een-kill-switch-voor-ai.html"
+  }
+ ],
+ "path": "/beleid/californie-onderzoekt-kill-switch-voor-ai-modellen/",
+ "og": "/img/og/californie-onderzoekt-kill-switch-voor-ai-modellen.png",
+ "take": "Een kill switch klinkt stoer, maar wie bepaalt wanneer die omgaat? Newsom laat het alleen nog onderzoeken, dus er is nog geen knop en geen wet. Ik geloof pas in zo'n verplichting als hij in de praktijk werkt op een echt model, niet in een persbericht."
+}
