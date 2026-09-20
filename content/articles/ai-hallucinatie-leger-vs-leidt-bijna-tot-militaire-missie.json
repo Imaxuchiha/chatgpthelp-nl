@@ -1,0 +1,66 @@
+{
+ "keyword": "ai hallucinatie leger",
+ "seo_title": "AI-hallucinatie leger VS: bijna missie gestart",
+ "title": "AI-hallucinatie leger VS leidt bijna tot militaire missie",
+ "meta": "Een AI-hallucinatie bracht het Amerikaanse leger bijna tot actie. Wat ging er mis, wat betekent dit voor AI bij defensie en hoe zit het in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "ai-hallucinatie",
+  "leger",
+  "llm",
+  "defensie",
+  "veiligheid"
+ ],
+ "intro": "Een taalmodel gaf het Amerikaanse leger bijna een verkeerd beeld dat tot een militaire operatie had kunnen leiden. TechCrunch meldt dat het ging om een hallucinatie: de AI verzon informatie die niet klopte. Een onderzoeker van GovAI waarschuwt dat militairen beter moeten begrijpen hoe onzeker de uitkomsten van zulke modellen zijn.",
+ "takeaways": [
+  "Een AI-hallucinatie bracht het Amerikaanse leger bijna tot een militaire operatie, meldt TechCrunch.",
+  "Volgens een GovAI-onderzoeker moeten militairen de onzekerheid van LLM's beter begrijpen.",
+  "Het incident laat zien dat AI-uitkomsten nooit blind vertrouwd mogen worden bij veiligheidsbeslissingen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er gebeurde",
+   "body": "TechCrunch schrijft dat een AI-hallucinatie het Amerikaanse leger bijna een militaire operatie liet starten. Een hallucinatie betekent dat een taalmodel iets verzint dat niet op feiten berust. Het model presenteert dat als een gewoon antwoord, zonder erbij te zeggen dat het gokt.\n\nIn dit geval kwam er dus informatie uit die bijna tot actie leidde. Hoe dat precies kon gebeuren, is niet volledig duidelijk uit de bron. TechCrunch noemt geen details over welke eenheid, welke operatie of welke software is gebruikt."
+  },
+  {
+   "heading": "Waarom dit zo gevoelig ligt",
+   "body": "Een taalmodel zoals ChatGPT, Claude of Gemini voorspelt woorden. Het weet niet of iets waar is. Bij gewone vragen valt een fout vaak op. Bij defensie kan een fout grote gevolgen hebben.\n\nEen onderzoeker van GovAI zegt tegen TechCrunch dat militairen moeten snappen dat LLM's onzeker zijn. Dat is een les die verder gaat dan het leger. Overal waar AI advies geeft dat direct tot een beslissing leidt, moet een mens kunnen controleren of het klopt."
+  },
+  {
+   "heading": "AI bij overheden en defensie",
+   "body": "Steeds meer overheden gebruiken AI voor analyse en het samenvatten van informatie. Dat kan tijd schelen, maar vraagt om duidelijke regels. Wie controleert de uitkomst? Wie is verantwoordelijk als het misgaat?\n\nTechCrunch geeft geen antwoord op die vragen. Het incident maakt wel duidelijk dat het onderwerp urgent is. Een model dat overtuigend klinkt, is niet hetzelfde als een model dat gelijk heeft."
+  },
+  {
+   "heading": "Wat nog niet bekend is",
+   "body": "Het is niet bekend welke AI het Amerikaanse leger gebruikte, hoe de hallucinatie aan het licht kwam en of er mensen zijn gestraft. TechCrunch noemt die details niet. Ook is onduidelijk of er nieuw beleid komt.\n\nDat betekent niet dat er niets aan de hand is. Het betekent vooral dat er nog veel vragen openliggen. Zodra er meer naar buiten komt, is dat relevant voor iedereen die AI inzet bij beslissingen met grote gevolgen."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit een waarschuwing die verder reikt dan het leger. Defensie, politie en gemeenten gebruiken steeds vaker AI om informatie te ordenen. Een verkeerde uitkomst kan daar net zo goed doorwerken. Wil je AI inzetten bij beslissingen met impact, regel dan altijd een menselijke controle en leg vast wie verantwoordelijk is. Bij gewone ChatGPT-vragen thuis is een fout vervelend. Op de werkvloer bij veiligheid kan die fout veel duurder uitpakken.",
+ "faq": [
+  {
+   "q": "wat is een ai-hallucinatie?",
+   "a": "Een hallucinatie is een antwoord van een taalmodel dat niet klopt, maar wel overtuigend wordt gebracht. Het model verzint dan informatie of vult ontbrekende feiten zelf in."
+  },
+  {
+   "q": "wat gebeurde er bij het amerikaanse leger?",
+   "a": "Volgens TechCrunch leidde een AI-hallucinatie bijna tot een militaire operatie. Verdere details over de eenheid of het systeem zijn niet bekendgemaakt."
+  },
+  {
+   "q": "moet ik ai zomaar vertrouwen?",
+   "a": "Nee. Zie AI-uitkomsten als een eerste voorzet en controleer feiten zelf, zeker als er veel van afhangt. Een model geeft geen zekerheid, ook al klinkt het antwoord stellig."
+  }
+ ],
+ "slug": "ai-hallucinatie-leger-vs-leidt-bijna-tot-militaire-missie",
+ "kind": "news",
+ "date": "2026-09-20",
+ "published": "2026-09-20T16:52",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "AI hallucination nearly triggers US military operation",
+   "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
+  }
+ ],
+ "path": "/nieuws/ai-hallucinatie-leger-vs-leidt-bijna-tot-militaire-missie/",
+ "og": "/img/og/ai-hallucinatie-leger-vs-leidt-bijna-tot-militaire-missie.png"
+}

@@ -315,6 +315,26 @@
   "373f3d22cf": {
    "at": "2026-09-20T11:54:09.170543",
    "why": "ok"
+  },
+  "b8d5da45fa": {
+   "at": "2026-09-20T16:50:09.914604",
+   "why": "poort"
+  },
+  "58800dcf9f": {
+   "at": "2026-09-20T16:50:09.914604",
+   "why": "high-risk"
+  },
+  "1e8dff1956": {
+   "at": "2026-09-20T16:50:09.914604",
+   "why": "ok"
+  },
+  "d6d9aec5a8": {
+   "at": "2026-09-20T16:51:09.914604",
+   "why": "ok"
+  },
+  "b12f4df503": {
+   "at": "2026-09-20T16:52:09.914604",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -369,6 +389,9 @@
   "AI voerbak kat: Petlibro Granary 2 meet wat elke kat eet",
   "Meta Muse AI: wat de nieuwe agent kan en waar het misgaat",
   "Californië onderzoekt kill switch voor AI-modellen",
-  "AI antitrust: pleidooi voor vrijstelling van mededingingsregels"
+  "AI antitrust: pleidooi voor vrijstelling van mededingingsregels",
+  "Tilly Norwood AI-actrice: persreis vol fouten en kritiek",
+  "Anthropic runt eigen biologie-lab voor AI-experimenten",
+  "AI-hallucinatie leger VS leidt bijna tot militaire missie"
  ]
 }
