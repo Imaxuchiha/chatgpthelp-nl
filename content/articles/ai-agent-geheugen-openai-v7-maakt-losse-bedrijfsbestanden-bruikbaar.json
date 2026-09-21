@@ -1,0 +1,62 @@
+{
+ "keyword": "ai agent geheugen",
+ "seo_title": "AI agent geheugen: OpenAI V7 koppelt bedrijfsbestanden",
+ "title": "AI-agent geheugen: OpenAI V7 maakt losse bedrijfsbestanden bruikbaar",
+ "meta": "OpenAI laat met V7 zien hoe AI-agenten bedrijfsbestanden als geheugen gebruiken. Wat dit betekent voor Nederlandse organisaties en hun data.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-agent",
+  "gpt-5.6",
+  "kennisbeheer",
+  "bedrijven"
+ ],
+ "intro": "OpenAI heeft op 20 september 2026 een samenwerking met het bedrijf V7 aangekondigd. V7 gebruikt het model GPT-5.6 om verspreide bedrijfsbestanden om te zetten in context die AI-agenten kunnen inzetten. Zo kunnen die agenten complexe taken uitvoeren waarbij ze verwijzen naar de bron van hun informatie. Het nieuws laat zien waar de volgende stap in AI op de werkvloer naartoe gaat: niet alleen slimme modellen, maar ook een geheugen dat binnen een organisatie blijft.",
+ "takeaways": [
+  "V7 gebruikt GPT-5.6 om losse bedrijfsbestanden om te zetten in bruikbare context voor AI-agenten.",
+  "Agenten kunnen daardoor complex werk doen en daarbij verwijzen naar de bron, meldt OpenAI.",
+  "Het gaat om een vorm van institutioneel geheugen: kennis die in de organisatie zelf blijft hangen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI en V7 precies aankondigen",
+   "body": "Volgens OpenAI zet V7 verspreide bedrijfsbestanden om in context die AI-agenten kunnen gebruiken. Het bedrijf noemt dat institutioneel geheugen: kennis die normaal in mappen, mailtjes en losse documenten blijft steken, wordt nu iets waar een agent mee kan werken.\n\nHet model dat hiervoor wordt gebruikt is GPT-5.6. Dat is het nieuwste model dat OpenAI in deze aankondiging noemt. V7 bouwt daar bovenop een laag die de bestanden van een organisatie ontsluit.\n\nOpvallend is de nadruk op bronverwijzing. De agent voert niet alleen een taak uit, maar laat ook zien waar de gebruikte informatie vandaan komt. Dat is belangrijk voor werk waarbij je moet kunnen controleren waarom een antwoord klopt."
+  },
+  {
+   "heading": "Waarom bronverwijzing het verschil maakt",
+   "body": "Een AI-agent die alleen een antwoord geeft, is lastig te vertrouwen in een zakelijke omgeving. Je wilt weten op welk document, welke afspraak of welk rapport een conclusie is gebaseerd.\n\nDoor bestanden als context te gebruiken en naar de bron te verwijzen, wordt dat controleerbaar. Een medewerker kan de gebruikte stukken terugvinden en beoordelen of de agent het goed heeft gedaan.\n\nDat past bij een bredere ontwikkeling: AI gaat van losse vragen beantwoorden naar meedraaien in processen. Daarvoor is niet alleen een goed model nodig, maar ook toegang tot de eigen informatie van een bedrijf."
+  },
+  {
+   "heading": "Institutioneel geheugen als nieuwe belofte",
+   "body": "De term institutioneel geheugen klinkt groot, maar beschrijft iets herkenbaars. Veel organisaties weten zelf niet goed wat ze weten. Kennis zit in hoofden van mensen, in oude projectmappen en in systemen die niet met elkaar praten.\n\nOpenAI presenteert V7 als een manier om die verspreide bestanden bruikbaar te maken voor AI. De agent krijgt daardoor context die eerder alleen voor mensen toegankelijk was, en soms zelfs voor hen maar moeilijk terug te vinden.\n\nHet is nog niet bekend hoe dit er in de praktijk uitziet bij grote organisaties met veel verschillende systemen. OpenAI geeft in de aankondiging geen prijzen, geen beschikbaarheidsdatum en geen lijst van klanten."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven is de vraag vooral: waar staan onze bestanden en mogen die naar een AI-model? Veel organisaties werken met Microsoft 365, Google Workspace of een eigen documentbeheer. Als een agent zoals V7 die bestanden als geheugen gebruikt, dan raakt dat direct de AVG en de manier waarop je toegang regelt. Je wilt niet dat een agent bij salarisstroken, medische dossiers of vertrouwelijke contracten komt. Het is nog niet bekend of V7 in Nederland of de EU beschikbaar komt. Tot die duidelijkheid is het verstandig om eerst intern te bepalen welke documenten een AI-agent mag lezen, en welke niet.",
+ "faq": [
+  {
+   "q": "Wat is een AI-agent met geheugen?",
+   "a": "Een AI-agent die niet alleen reageert op een losse vraag, maar ook toegang heeft tot bestanden en eerdere informatie van een organisatie. Daardoor kan hij taken uitvoeren met context die blijft hangen."
+  },
+  {
+   "q": "Welk model gebruikt V7?",
+   "a": "Volgens OpenAI gebruikt V7 het model GPT-5.6 om bedrijfsbestanden om te zetten in bruikbare context voor agenten."
+  },
+  {
+   "q": "Is V7 al beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI noemt in de aankondiging geen prijzen, beschikbaarheid of landen, dus daarover is nog niets zeker."
+  }
+ ],
+ "slug": "ai-agent-geheugen-openai-v7-maakt-losse-bedrijfsbestanden-bruikbaar",
+ "kind": "news",
+ "date": "2026-09-21",
+ "published": "2026-09-21T19:11",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How V7 gives AI agents institutional memory",
+   "url": "https://openai.com/index/v7"
+  }
+ ],
+ "path": "/nieuws/ai-agent-geheugen-openai-v7-maakt-losse-bedrijfsbestanden-bruikbaar/",
+ "og": "/img/og/ai-agent-geheugen-openai-v7-maakt-losse-bedrijfsbestanden-bruikbaar.png"
+}

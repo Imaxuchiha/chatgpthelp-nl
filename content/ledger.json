@@ -367,6 +367,18 @@
   "2ff39cdd15": {
    "at": "2026-09-21T12:51:33.897407",
    "why": "ok"
+  },
+  "125da7f7ed": {
+   "at": "2026-09-21T19:10:25.428272",
+   "why": "ok"
+  },
+  "d1749ba76a": {
+   "at": "2026-09-21T19:11:25.428272",
+   "why": "ok"
+  },
+  "4c9291d46e": {
+   "at": "2026-09-21T19:12:25.428272",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -430,6 +442,9 @@
   "Anthropic kiest Accenture als eerste ingebouwde evaluator",
   "VN: AI-agent risico's aanpakken kan niet wachten op zekerheid",
   "Amazon blokkeert Meta Muse AI-agent voor online shoppen",
-  "AI maakt het elektriciteitsnet kwetsbaarder: wat betekent dat in Nederland?"
+  "AI maakt het elektriciteitsnet kwetsbaarder: wat betekent dat in Nederland?",
+  "AIVD en MIVD zetten AI in, maar grip op veilig gebruik ontbreekt",
+  "AI-agent geheugen: OpenAI V7 maakt losse bedrijfsbestanden bruikbaar",
+  "AI-boekhouden: Tabby wil accountants overbodig maken"
  ]
 }

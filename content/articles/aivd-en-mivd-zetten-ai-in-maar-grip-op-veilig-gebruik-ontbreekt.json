@@ -1,0 +1,67 @@
+{
+ "keyword": "aivd mivd ai gebruik",
+ "seo_title": "AIVD en MIVD gebruiken AI, maar grip ontbreekt",
+ "title": "AIVD en MIVD zetten AI in, maar grip op veilig gebruik ontbreekt",
+ "meta": "De AIVD en MIVD gebruiken steeds vaker AI, maar garanties op veilig en verantwoord gebruik ontbreken nog. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "aivd",
+  "mivd",
+  "ai",
+  "inlichtingendiensten",
+  "privacy"
+ ],
+ "intro": "De AIVD en MIVD gebruiken kunstmatige intelligentie steeds vaker in hun werk. Dat meldt NU.nl Tech. Alleen is er nog geen garantie dat dit veilig en verantwoord gebeurt. Daarmee ligt er een gevoelig vraagstuk op tafel: hoe houden we controle op AI bij diensten die zelf weinig mogen vertellen?",
+ "takeaways": [
+  "De AIVD en MIVD zetten AI steeds vaker in bij hun werkzaamheden.",
+  "Er ontbreekt nog een garantie dat dit veilig en verantwoord gebeurt.",
+  "Toezicht op AI bij inlichtingendiensten is lastig, omdat hun werk geheim is.",
+  "Voor burgers en bedrijven in Nederland raakt dit privacy en rechtsbescherming."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de diensten doen met AI",
+   "body": "De Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en de Militaire Inlichtingen- en Veiligheidsdienst (MIVD) gebruiken AI steeds vaker. Denk aan het doorzoeken van grote hoeveelheden data, het herkennen van patronen of het vertalen van materiaal. Dat soort taken kosten veel tijd als mensen ze handmatig doen.\n\nVolgens NU.nl Tech gaat het niet om een experiment dat ergens in een lab blijft staan. AI is onderdeel geworden van het dagelijkse werk van de diensten. Daarmee verschuift ook de vraag: niet of AI wordt gebruikt, maar hoe dat gebeurt."
+  },
+  {
+   "heading": "Het probleem: geen garantie op veilig gebruik",
+   "body": "Het kernprobleem is dat de garantie ontbreekt dat AI veilig en verantwoord wordt ingezet. Er is dus geen sluitend bewijs dat het gebruik binnen de regels blijft. Dat is precies waar het mis kan gaan.\n\nAI-systemen kunnen fouten maken, vooroordelen bevatten of data verkeerd interpreteren. Bij gewone bedrijven leidt dat tot vervelende fouten. Bij inlichtingendiensten kan het gaan over mensenrechten, opsporing of de veiligheid van personen. De gevolgen zijn dan een stuk zwaarder.\n\nDaar komt bij dat het werk van de AIVD en MIVD grotendeels geheim is. Controle van buitenaf is daardoor beperkt. De diensten mogen veel niet delen, en dat maakt het lastig om te zien of AI netjes wordt gebruikt."
+  },
+  {
+   "heading": "Waarom toezicht zo lastig is",
+   "body": "Toezichthouders kunnen alleen controleren wat ze mogen zien. Bij inlichtingendiensten is dat een klein deel van het werk. De Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten (CTIVD) houdt toezicht, maar ook die commissie werkt binnen grenzen van geheimhouding.\n\nAI maakt dat ingewikkelder. Een algoritme dat patronen herkent, is niet altijd goed uit te leggen. Zelfs de makers weten soms niet precies waarom een model tot een bepaalde uitkomst komt. Als een dienst dan moet uitleggen waarom iemand in beeld kwam, wordt dat lastig.\n\nIn Nederland speelt ook de AI-verordening van de Europese Unie. Die stelt eisen aan risicovolle AI, maar inlichtingendiensten vallen deels buiten het bereik van die regels. Nationale veiligheid is namelijk een terrein waar lidstaten zelf over gaan. Daardoor ontstaat een gat: wel AI gebruiken, maar niet automatisch onder dezelfde Europese regels vallen."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "NU.nl Tech meldt niet welke AI-systemen de diensten precies gebruiken. Ook is niet duidelijk of er al incidenten zijn geweest. Evenmin is bekend of er een concreet plan ligt om het toezicht te verbeteren.\n\nDat maakt het lastig om te zeggen hoe groot het probleem in de praktijk is. Duidelijk is wel dat de diensten AI niet meer wegdenken uit hun werk. De vraag is dus hoe Nederland daar grip op krijgt, zonder dat de diensten hun werk niet meer kunnen doen."
+  }
+ ],
+ "nl_angle": "Voor mensen in Nederland raakt dit vooral privacy en rechtsbescherming. Als de AIVD of MIVD AI gebruikt bij het verzamelen of analyseren van data, kan jouw informatie in een systeem terechtkomen zonder dat je dat weet. Bedrijven die met de overheid werken, krijgen mogelijk te maken met strengere eisen aan AI-leveringen. En wie wil weten hoe besluiten tot stand komen, loopt tegen geheimhouding aan. Nederland moet dus kiezen: meer openheid over AI bij de diensten, of accepteren dat controle beperkt blijft.",
+ "faq": [
+  {
+   "q": "Gebruiken de AIVD en MIVD echt AI?",
+   "a": "Ja, volgens NU.nl Tech zetten beide diensten AI steeds vaker in bij hun werk. Het gaat onder meer om het verwerken en analyseren van grote hoeveelheden data."
+  },
+  {
+   "q": "Is AI bij de inlichtingendiensten verboden?",
+   "a": "Nee, het is niet verboden. Het probleem is dat er nog geen garantie is dat het gebruik veilig en verantwoord gebeurt."
+  },
+  {
+   "q": "Wat betekent dit voor mijn privacy?",
+   "a": "Als jouw gegevens in een AI-systeem van een dienst belanden, merk je daar vaak niets van. Controle is lastig omdat het werk geheim is. Dat maakt het extra belangrijk dat er goed toezicht komt."
+  }
+ ],
+ "slug": "aivd-en-mivd-zetten-ai-in-maar-grip-op-veilig-gebruik-ontbreekt",
+ "kind": "news",
+ "date": "2026-09-21",
+ "published": "2026-09-21T19:10",
+ "sources": [
+  {
+   "name": "NU.nl Tech",
+   "title": "Inlichtingendiensten hebben nog te weinig grip op het gebruik van AI",
+   "url": "https://www.nu.nl/tech/6410467/inlichtingendiensten-hebben-nog-te-weinig-grip-op-het-gebruik-van-ai.html"
+  }
+ ],
+ "path": "/nieuws/aivd-en-mivd-zetten-ai-in-maar-grip-op-veilig-gebruik-ontbreekt/",
+ "og": "/img/og/aivd-en-mivd-zetten-ai-in-maar-grip-op-veilig-gebruik-ontbreekt.png"
+}
