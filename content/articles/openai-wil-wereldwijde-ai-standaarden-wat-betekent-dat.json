@@ -1,0 +1,63 @@
+{
+ "keyword": "ai standaarden openai",
+ "seo_title": "AI-standaarden: OpenAI wil wereldwijde afspraken",
+ "title": "OpenAI wil wereldwijde AI-standaarden: wat betekent dat?",
+ "meta": "OpenAI pleit voor gedeelde wereldwijde AI-standaarden rond evaluatie, rapportage en bestuur. Lees wat dit betekent voor Nederland en de EU.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-standaarden",
+  "beleid",
+  "veiligheid",
+  "europa"
+ ],
+ "intro": "OpenAI heeft een voorstel gepubliceerd voor gedeelde wereldwijde standaarden voor AI. Het bedrijf wil dat landen en organisaties samen afspraken maken over evaluatie, rapportage en bestuur van AI-systemen. Volgens OpenAI is dat nodig nu AI-modellen steeds vaker in het dagelijks leven en in bedrijven terechtkomen.",
+ "takeaways": [
+  "OpenAI pleit voor gedeelde wereldwijde standaarden voor AI.",
+  "Het voorstel draait om evaluatie, rapportage en bestuur van AI-systemen.",
+  "OpenAI noemt het verbeteren van veiligheid als hoofddoel.",
+  "Concrete regels of een tijdpad noemt OpenAI in de bron niet."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI voorstelt",
+   "body": "OpenAI schetst in een eigen publicatie een route naar gemeenschappelijke standaarden voor AI. Het bedrijf noemt daarbij drie pijlers: evaluatie, rapportage en bestuur. Evaluatie gaat over het testen van AI-systemen op veiligheid en prestaties. Rapportage gaat over het delen van informatie over wat een model doet en waar het misgaat. Bestuur gaat over wie de regels maakt en wie erop toeziet.\n\nOpvallend is dat OpenAI niet alleen naar overheden kijkt. Het bedrijf wil dat ontwikkelaars, gebruikers en toezichthouders samenwerken. Volgens OpenAI werkt een losse aanpak per land niet goed genoeg. AI-systemen worden namelijk over grenzen heen ingezet."
+  },
+  {
+   "heading": "Waarom nu",
+   "body": "AI-modellen worden steeds vaker ingezet in diensten die mensen dagelijks gebruiken. Denk aan zoekmachines, klantenservice en software op het werk. Als elk land eigen eisen stelt, wordt het voor bedrijven lastig om aan alle regels te voldoen. OpenAI zegt dat dit leidt tot extra kosten en onduidelijkheid.\n\nDaarnaast speelt mee dat AI-systemen fouten kunnen maken of verkeerd gebruikt kunnen worden. Volgens OpenAI is het delen van testresultaten een manier om zulke risico's eerder te zien. Het bedrijf noemt dit een gezamenlijke verantwoordelijkheid."
+  },
+  {
+   "heading": "Wat er nog ontbreekt",
+   "body": "De publicatie van OpenAI is een voorstel, geen set definitieve regels. Het bedrijf noemt in de bron geen concrete normen, geen meetmethode en geen tijdpad. Ook is niet duidelijk welke landen of organisaties al hebben toegezegd mee te doen.\n\nOf er echt wereldwijde standaarden komen, hangt af van overheden en internationale organisaties. Die bepalen uiteindelijk welke eisen verplicht worden. OpenAI kan dus een richting aangeven, maar niet alleen de regels vaststellen."
+  }
+ ],
+ "nl_angle": "Voor Nederland en de rest van de EU is dit vooral een signaal over de richting. De EU heeft met de AI-verordening al eigen regels voor AI-systemen. Als er daarnaast wereldwijde standaarden komen, kan dat bedrijven helpen die in meerdere landen werken. Tegelijk kan het extra rapportageverplichtingen opleveren. Voor Nederlandse organisaties die AI gebruiken, blijft de EU-regelgeving voorlopig het belangrijkste kader. Het voorstel van OpenAI verandert daar nu niets aan.",
+ "faq": [
+  {
+   "q": "Wat wil OpenAI met wereldwijde AI-standaarden?",
+   "a": "OpenAI wil dat landen en organisaties samen afspraken maken over het testen, rapporteren en besturen van AI-systemen. Het doel is volgens het bedrijf meer veiligheid en duidelijkheid."
+  },
+  {
+   "q": "Gaan deze standaarden ook in Nederland gelden?",
+   "a": "Dat is nog niet bekend. Het voorstel is nog geen officiële regel. In de EU geldt de AI-verordening, die losstaat van dit voorstel."
+  },
+  {
+   "q": "Moeten bedrijven in Nederland nu iets doen?",
+   "a": "Nee, er zijn nog geen nieuwe verplichtingen. Wel is het verstandig om te volgen hoe de EU-regels en eventuele wereldwijde standaarden zich ontwikkelen."
+  }
+ ],
+ "slug": "openai-wil-wereldwijde-ai-standaarden-wat-betekent-dat",
+ "kind": "news",
+ "date": "2026-09-21",
+ "published": "2026-09-21T22:25",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Building standards for the next phase of AI",
+   "url": "https://openai.com/index/building-standards-next-phase-ai"
+  }
+ ],
+ "path": "/nieuws/openai-wil-wereldwijde-ai-standaarden-wat-betekent-dat/",
+ "og": "/img/og/openai-wil-wereldwijde-ai-standaarden-wat-betekent-dat.png"
+}

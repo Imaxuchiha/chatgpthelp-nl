@@ -379,6 +379,18 @@
   "4c9291d46e": {
    "at": "2026-09-21T19:12:25.428272",
    "why": "ok"
+  },
+  "a7ca59844a": {
+   "at": "2026-09-21T22:23:41.210297",
+   "why": "ok"
+  },
+  "d37f5b2c59": {
+   "at": "2026-09-21T22:24:41.210297",
+   "why": "ok"
+  },
+  "2c9792fbb1": {
+   "at": "2026-09-21T22:25:41.210297",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -445,6 +457,9 @@
   "AI maakt het elektriciteitsnet kwetsbaarder: wat betekent dat in Nederland?",
   "AIVD en MIVD zetten AI in, maar grip op veilig gebruik ontbreekt",
   "AI-agent geheugen: OpenAI V7 maakt losse bedrijfsbestanden bruikbaar",
-  "AI-boekhouden: Tabby wil accountants overbodig maken"
+  "AI-boekhouden: Tabby wil accountants overbodig maken",
+  "OpenAI start adviesgroep voor wiskunde en AI",
+  "Higgsfield AI maakt videoadvertenties met GPT-6 Astra in één dag",
+  "OpenAI wil wereldwijde AI-standaarden: wat betekent dat?"
  ]
 }

@@ -1,0 +1,67 @@
+{
+ "keyword": "openai wiskunde ai",
+ "seo_title": "OpenAI wiskunde AI: adviesgroep voor AI-bewijs",
+ "title": "OpenAI start adviesgroep voor wiskunde en AI",
+ "meta": "OpenAI werkt met een onafhankelijke adviesgroep voor wiskunde en AI. Zo wil het bedrijf nieuwe AI-resultaten laten beoordelen en uitleggen.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "wiskunde",
+  "ai-onderzoek",
+  "adviesgroep",
+  "wetenschap"
+ ],
+ "intro": "OpenAI laat zich bijpraten door een onafhankelijke adviesgroep over wiskunde en kunstmatige intelligentie. Die groep moet helpen bij het beoordelen en uitleggen van nieuwe AI-resultaten. Het gaat om resultaten die met wiskunde te maken hebben. Waarom dat telt: wiskunde is een van de lastigste testen voor AI-systemen.",
+ "takeaways": [
+  "OpenAI werkt met een onafhankelijke adviesgroep over wiskunde en AI.",
+  "De groep kijkt mee bij het beoordelen van nieuwe AI-resultaten.",
+  "De groep helpt ook bij het uitleggen van die resultaten aan buitenstaanders.",
+  "OpenAI noemt de groep onafhankelijk; wie erin zit, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies aankondigt",
+   "body": "OpenAI meldt dat het samenwerkt met een onafhankelijke adviesgroep op het gebied van wiskunde en kunstmatige intelligentie. Die groep moet de beoordeling van nieuwe AI-resultaten begeleiden. Ook de communicatie erover hoort bij de taak.\n\nHet bericht is kort en noemt geen namen van leden. Er staat ook niet hoeveel mensen in de groep zitten. Openbaar is alleen dat de groep onafhankelijk is en dat het om wiskunde en AI gaat."
+  },
+  {
+   "heading": "Waarom wiskunde zo belangrijk is voor AI",
+   "body": "Wiskunde is voor AI-ontwikkelaars een populaire maatstaf. Opgaven zijn vaak eenduidig: een antwoord is goed of fout. Daardoor kun je prestaties van modellen redelijk eerlijk vergelijken.\n\nTegelijk is wiskunde lastig voor taalmodellen. Ze rekenen niet zoals een rekenmachine. Ze voorspellen wat een logisch volgende stap lijkt. Bij meerstapsopgaven gaat het daardoor sneller mis.\n\nAls een model een wiskundeproef haalt, zegt dat dus iets over redeneren. Maar niet alles: een truc die alleen op bekende opgaven werkt, bewijst weinig. Daarom is onafhankelijke controle nodig."
+  },
+  {
+   "heading": "Beoordelen én uitleggen",
+   "body": "Volgens OpenAI gaat de adviesgroep over twee dingen: de review van nieuwe resultaten en de communicatie erover. Dat tweede punt is niet bijzaak. Onderzoek naar AI gaat vaak gepaard met grote claims.\n\nEen buitenstaander kan zo'n claim moeilijk controleren. Zeker bij wiskunde, waar de details technisch zijn. Een groep die meeleest en meeschrijft, kan het publiek helpen onderscheid te maken tussen een echt resultaat en een pr-stunt.\n\nHoe dat in de praktijk werkt, is nog niet duidelijk. OpenAI zegt niets over de werkwijze, over verslagen of over wie het laatste woord heeft."
+  },
+  {
+   "heading": "Wat we nog niet weten",
+   "body": "Er is nog geen lijst met leden. Ook is niet bekend of de groep betaald wordt door OpenAI. Dat maakt de vraag hoe onafhankelijk de adviezen in de praktijk zijn lastig te beantwoorden.\n\nVerder is onduidelijk of de groep alleen meekijkt of ook kan afraden om iets naar buiten te brengen. OpenAI geeft daar geen uitsluitsel over. Wie meer wil weten, moet wachten op meer details van het bedrijf zelf."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral een signaal over betrouwbaarheid. AI-modellen worden ook hier gebruikt in onderwijs, onderzoek en software. Als OpenAI externe wiskundigen laat meekijken, kan dat helpen om claims over rekenkundige prestaties beter te wegen. Nederlandse scholen, universiteiten en bedrijven die zulke claims gebruiken bij hun keuze voor een model, krijgen dan meer houvast. Let wel: de adviesgroep is geen toezichthouder en vervangt geen Europese regels. De AI-verordening van de EU blijft het wettelijke kader. Zolang de leden en werkwijze onbekend zijn, blijft het vooral een belofte.",
+ "faq": [
+  {
+   "q": "Wat is de adviesgroep van OpenAI voor wiskunde en AI?",
+   "a": "Een onafhankelijke groep die OpenAI helpt bij het beoordelen en uitleggen van nieuwe AI-resultaten op het gebied van wiskunde. Volgens OpenAI is de groep onafhankelijk."
+  },
+  {
+   "q": "Wie zitten er in de adviesgroep?",
+   "a": "Dat is nog niet bekend. OpenAI noemt geen namen, aantallen of vergoedingen in de aankondiging."
+  },
+  {
+   "q": "Wat betekent dit voor AI-gebruikers in Nederland?",
+   "a": "Het kan claims over wiskundeprestaties van AI-modellen geloofwaardiger maken. Toch blijft het afwachten hoe onafhankelijk de groep werkt en wat er publiek wordt."
+  }
+ ],
+ "slug": "openai-start-adviesgroep-voor-wiskunde-en-ai",
+ "kind": "news",
+ "date": "2026-09-21",
+ "published": "2026-09-21T22:23",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+  }
+ ],
+ "path": "/nieuws/openai-start-adviesgroep-voor-wiskunde-en-ai/",
+ "og": "/img/og/openai-start-adviesgroep-voor-wiskunde-en-ai.png"
+}
