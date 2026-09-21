@@ -355,6 +355,18 @@
   "58f2b00778": {
    "at": "2026-09-20T20:44:33.246024",
    "why": "ok"
+  },
+  "94d0db2af4": {
+   "at": "2026-09-21T12:49:33.897407",
+   "why": "ok"
+  },
+  "fbef9683fb": {
+   "at": "2026-09-21T12:50:33.897407",
+   "why": "ok"
+  },
+  "2ff39cdd15": {
+   "at": "2026-09-21T12:51:33.897407",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -415,6 +427,9 @@
   "AI-hallucinatie leger VS leidt bijna tot militaire missie",
   "Kill switch voor AI gewild, maar hoe werkt die?",
   "AI cyberaanval op energiesystemen: mens blijft het grootste risico",
-  "Anthropic kiest Accenture als eerste ingebouwde evaluator"
+  "Anthropic kiest Accenture als eerste ingebouwde evaluator",
+  "VN: AI-agent risico's aanpakken kan niet wachten op zekerheid",
+  "Amazon blokkeert Meta Muse AI-agent voor online shoppen",
+  "AI maakt het elektriciteitsnet kwetsbaarder: wat betekent dat in Nederland?"
  ]
 }
