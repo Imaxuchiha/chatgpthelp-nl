@@ -1,0 +1,64 @@
+{
+ "keyword": "gpt-6 sol luna",
+ "seo_title": "GPT-6 Sol en Luna: OpenAI lanceert twee nieuwe modellen",
+ "title": "OpenAI lanceert GPT-6 Sol en Luna: goedkoper en minder fouten",
+ "meta": "OpenAI brengt GPT-6 Sol en Luna uit. De twee modellen zouden goedkoper zijn en minder fouten maken. Wat betekent dat voor gebruikers in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "gpt-6",
+  "sol",
+  "luna",
+  "ai-modellen"
+ ],
+ "intro": "OpenAI heeft twee nieuwe modellen aangekondigd: GPT-6 Sol en GPT-6 Luna. Volgens OpenAI zijn ze goedkoper in gebruik en maken ze minder fouten. Beide modellen zouden familie zijn van Astra, een eerdere modelgeneratie van het bedrijf.",
+ "takeaways": [
+  "OpenAI lanceert twee modellen tegelijk: GPT-6 Sol en GPT-6 Luna.",
+  "Volgens OpenAI zijn ze goedkoper en maken ze minder fouten.",
+  "De modellen zijn volgens het bedrijf verwant aan Astra.",
+  "Prijzen in euro's en beschikbaarheid in Nederland zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI aankondigt",
+   "body": "OpenAI zet twee nieuwe modellen in de markt: GPT-6 Sol en GPT-6 Luna. Het bedrijf zegt dat beide uit dezelfde familie komen als Astra. TechCrunch meldt dat OpenAI de modellen presenteert als een stap vooruit op het gebied van kosten en betrouwbaarheid.\n\nVolgens OpenAI zijn de modellen goedkoper om te gebruiken dan eerdere versies. Ook zouden ze minder fouten maken. Dat zijn twee punten waar veel gebruikers op letten, zeker als ze het model dagelijks inzetten voor werk."
+  },
+  {
+   "heading": "Sol en Luna: twee modellen, één familie",
+   "body": "OpenAI noemt Sol en Luna aparte modellen, maar zegt dat ze verwant zijn aan Astra. Wat precies het verschil is tussen Sol en Luna, maakt het bedrijf in de aankondiging niet duidelijk. TechCrunch schrijft dat OpenAI beide modellen als hetzelfde doek presenteert, gesneden uit dezelfde stof als Astra.\n\nOf het gaat om een groot en een klein model, of om varianten voor verschillende taken, is nog niet bekend. OpenAI heeft daar nog geen details over gegeven."
+  },
+  {
+   "heading": "Goedkoper en minder fouten",
+   "body": "De belofte van lagere kosten is belangrijk. Veel bedrijven betalen per gebruik aan OpenAI. Gaat de prijs per vraag omlaag, dan scheelt dat direct in de maandlasten.\n\nMinder fouten klinkt mooi, maar OpenAI geeft geen cijfers. Er is nog geen onafhankelijke test die de claim bevestigt. TechCrunch noemt de beweringen van OpenAI, zonder ze te toetsen. Nederlanders die het model willen beoordelen, zullen moeten wachten op eigen tests of ervaringen uit de praktijk."
+  }
+ ],
+ "nl_angle": "Voor gebruikers in Nederland verandert er voorlopig weinig aan de voorkant. Je kunt ChatGPT blijven gebruiken zoals je gewend bent. Wel kan een goedkoper model op termijn de prijs van een abonnement of API-gebruik drukken. Of dat echt gebeurt, hangt af van de tarieven die OpenAI rekent en van de koers van de dollar. OpenAI heeft nog geen europrijzen of een datum voor Nederland genoemd. Bedrijven die ChatGPT via de API inzetten, doen er goed aan de nieuwe prijslijst te checken zodra die er is.",
+ "faq": [
+  {
+   "q": "Wat zijn GPT-6 Sol en GPT-6 Luna?",
+   "a": "Het zijn twee nieuwe modellen van OpenAI. Volgens het bedrijf zijn ze goedkoper en maken ze minder fouten dan eerdere modellen."
+  },
+  {
+   "q": "Wanneer komen GPT-6 Sol en Luna naar Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI heeft geen datum genoemd voor Nederland of de Europese Unie."
+  },
+  {
+   "q": "Wat kosten GPT-6 Sol en Luna?",
+   "a": "OpenAI zegt dat de modellen goedkoper zijn, maar noemt geen prijzen. Er zijn nog geen tarieven in euro's bekend."
+  }
+ ],
+ "slug": "openai-lanceert-gpt-6-sol-en-luna-goedkoper-en-minder-fouten",
+ "kind": "news",
+ "date": "2026-09-22",
+ "published": "2026-09-22T21:44",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+   "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
+  }
+ ],
+ "path": "/nieuws/openai-lanceert-gpt-6-sol-en-luna-goedkoper-en-minder-fouten/",
+ "og": "/img/og/openai-lanceert-gpt-6-sol-en-luna-goedkoper-en-minder-fouten.png",
+ "take": "Goedkoper en minder fouten, dat zijn pas de cijfers waar ik naar kijk, niet de demo's. Ik betaal alleen voor een model dat zich op een echt account direct terugverdient, en tot ik dat zie blijft het bij mijn eigen scripts en DeepSeek als werkpaard. Eerst zien dat de factuur daalt en de kwaliteit gelijk blijft, dan praten we verder."
+}

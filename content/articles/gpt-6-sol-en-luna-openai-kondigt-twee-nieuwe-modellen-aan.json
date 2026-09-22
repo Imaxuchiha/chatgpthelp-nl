@@ -1,0 +1,68 @@
+{
+ "keyword": "gpt-6 sol luna",
+ "seo_title": "GPT-6 Sol en Luna: wat OpenAI vandaag aankondigt",
+ "title": "GPT-6 Sol en Luna: OpenAI kondigt twee nieuwe modellen aan",
+ "meta": "OpenAI introduceert GPT-6 Sol en Luna: twee modellen met een andere balans tussen prestaties en kosten. Lees wat dit betekent voor werk in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "gpt-6",
+  "openai",
+  "sol",
+  "luna",
+  "ai-modellen"
+ ],
+ "intro": "OpenAI heeft vandaag GPT-6 Sol en Luna aangekondigd, twee nieuwe modellen. Volgens OpenAI brengen ze frontier-intelligentie naar alledaags werk, met een verschillende balans tussen capaciteit en kosten. Daarmee zet het bedrijf opnieuw een stap in de strijd om AI die bruikbaar is voor gewone taken op kantoor.",
+ "takeaways": [
+  "OpenAI kondigt twee modellen aan: GPT-6 Sol en GPT-6 Luna.",
+  "Beide modellen zijn gericht op alledaags werk, niet alleen op zware taken.",
+  "Het verschil zit vooral in de balans tussen capaciteit en kosten.",
+  "OpenAI noemt het frontier-intelligentie voor dagelijks gebruik."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI vandaag aankondigt",
+   "body": "OpenAI heeft twee nieuwe modellen gepresenteerd: GPT-6 Sol en GPT-6 Luna. Volgens OpenAI gaat het om twee modellen die frontier-intelligentie naar alledaags werk brengen. Dat betekent dat ze bedoeld zijn voor gewone kantoortaken, niet alleen voor experimenten in een laboratorium.\n\nHet opvallende is dat OpenAI niet één model neerzet, maar twee varianten. Elk model heeft een andere balans tussen wat het kan en wat het kost. Daarmee lijkt OpenAI in te spelen op een bredere groep gebruikers: van mensen die vooral snel en goedkoop willen werken tot teams die meer capaciteit nodig hebben."
+  },
+  {
+   "heading": "Sol en Luna: twee smaken, één familie",
+   "body": "OpenAI noemt de twee modellen in één adem, maar geeft ze aparte namen. Sol en Luna verschillen in de verhouding tussen capaciteit en kosten. Meer details over de exacte prestaties, contextvensters of prijzen per miljoen tokens heeft OpenAI in de aankondiging niet gegeven.\n\nWat dat betreft blijft het voorlopig bij de hoofdlijn: twee modellen, twee profielen. Wie precies welke versie nodig heeft, zal moeten wachten op de technische documentatie of op tests van gebruikers. Duidelijk is wel dat OpenAI de keuze bij de gebruiker legt in plaats van één standaardmodel op te dringen."
+  },
+  {
+   "heading": "Waarom twee modellen in plaats van één",
+   "body": "De keuze voor twee modellen past bij een trend in de AI-sector. Aanbieders maken steeds vaker onderscheid tussen een krachtiger model voor lastige taken en een lichter model voor routinewerk. Dat helpt om kosten te drukken en om sneller te reageren.\n\nVoor OpenAI is het ook een manier om concurrerend te blijven. Concurrenten als Anthropic met Claude en Google met Gemini bieden eveneens meerdere modellen aan. Door Sol en Luna naast elkaar te zetten, kan OpenAI verschillende soorten klanten bedienen zonder alles in één duur model te stoppen. Of dat in de praktijk werkt, moet blijken uit de prestaties en de prijs."
+  },
+  {
+   "heading": "Wat nog niet bekend is",
+   "body": "OpenAI heeft nog niet gezegd wanneer GPT-6 Sol en Luna beschikbaar komen, wat ze precies kosten of in welke talen ze het beste presteren. Ook is niet duidelijk of beide modellen via dezelfde interfaces te gebruiken zijn, zoals de ChatGPT-app en de API.\n\nZulke details maken voor bedrijven vaak het verschil. Een model dat alleen in het Engels sterk is, is voor Nederlandse gebruikers minder bruikbaar. Zolang OpenAI die informatie niet deelt, blijft het bij een aankondiging waarvan de praktische waarde nog moet blijken."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders en Nederlandse bedrijven betekent dit vooral: er komen meer keuzes, en hopelijk ook meer prijsverschil. Als Luna echt goedkoper is dan Sol, kun je voor simpele taken een lichter model pakken en alleen voor lastige klussen het zwaardere model. Let wel op twee dingen. Ten eerste: OpenAI heeft nog geen prijzen in euro's genoemd, dus rekenvoorbeelden kun je nu niet maken. Ten tweede: of deze modellen net zo goed Nederlands schrijven als Engels, is nog niet bevestigd. Bedrijven die ChatGPT gebruiken voor klantcontact of tekstwerk doen er goed aan eerst te testen voordat ze hun werkwijze aanpassen.",
+ "faq": [
+  {
+   "q": "Wat zijn GPT-6 Sol en Luna?",
+   "a": "Het zijn twee nieuwe modellen van OpenAI. Volgens OpenAI brengen ze frontier-intelligentie naar alledaags werk, met een verschillende balans tussen capaciteit en kosten."
+  },
+  {
+   "q": "Wat is het verschil tussen Sol en Luna?",
+   "a": "OpenAI noemt vooral een verschil in de verhouding tussen capaciteit en kosten. Concrete cijfers over prestaties of prijzen heeft het bedrijf nog niet gegeven."
+  },
+  {
+   "q": "Wanneer komen GPT-6 Sol en Luna naar Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI heeft geen releasedatum of prijsinformatie gedeeld, dus ook niet voor Nederland of de EU."
+  }
+ ],
+ "slug": "gpt-6-sol-en-luna-openai-kondigt-twee-nieuwe-modellen-aan",
+ "kind": "news",
+ "date": "2026-09-22",
+ "published": "2026-09-22T21:42",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Introducing GPT-6 Sol and Luna",
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+  }
+ ],
+ "path": "/nieuws/gpt-6-sol-en-luna-openai-kondigt-twee-nieuwe-modellen-aan/",
+ "og": "/img/og/gpt-6-sol-en-luna-openai-kondigt-twee-nieuwe-modellen-aan.png",
+ "take": "OpenAI zegt 'frontier-intelligentie voor alledaags werk', maar dat is een demo, geen product. Ik koop pas een nieuw model als het op een echt advertentieaccount aantoonbaar tijd of geld scheelt, en tot die tijd blijft het bij kijken. Mijn regel is simpel: eerst zorgen dat je meting klopt, dan pas een model erop loslaten, want de meeste 'problemen' in een account zijn meetfouten en geen echte dalingen."
+}

@@ -419,6 +419,22 @@
   "2bcfe81479": {
    "at": "2026-09-22T17:41:25.615181",
    "why": "ok"
+  },
+  "3d48e529ad": {
+   "at": "2026-09-22T21:42:34.815418",
+   "why": "ok"
+  },
+  "7de8b05fc8": {
+   "at": "2026-09-22T21:43:34.815418",
+   "why": "poort"
+  },
+  "2d421e0305": {
+   "at": "2026-09-22T21:43:34.815418",
+   "why": "ok"
+  },
+  "b31a42e189": {
+   "at": "2026-09-22T21:44:34.815418",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -494,6 +510,9 @@
   "OpenAI Academy breidt uit met nieuwe leerroutes voor werk en studie",
   "Meta Muse verbod: AI-shopassistent weg bij Amazon",
   "Vijf AI safety-sessies op TechCrunch Disrupt 2026",
-  "AI krijgt de leiding over ruimtevaartuig van AstroForge"
+  "AI krijgt de leiding over ruimtevaartuig van AstroForge",
+  "GPT-6 Sol en Luna: OpenAI kondigt twee nieuwe modellen aan",
+  "Meta geeft toe: Muse lijkt bewust op OpenClaw",
+  "OpenAI lanceert GPT-6 Sol en Luna: goedkoper en minder fouten"
  ]
 }
