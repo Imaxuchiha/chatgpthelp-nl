@@ -407,6 +407,18 @@
   "530db518a7": {
    "at": "2026-09-22T12:06:54.007638",
    "why": "ok"
+  },
+  "e3022791f6": {
+   "at": "2026-09-22T17:39:25.615181",
+   "why": "ok"
+  },
+  "1bb4b69fa8": {
+   "at": "2026-09-22T17:40:25.615181",
+   "why": "ok"
+  },
+  "2bcfe81479": {
+   "at": "2026-09-22T17:41:25.615181",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -479,6 +491,9 @@
   "OpenAI wil wereldwijde AI-standaarden: wat betekent dat?",
   "China wil verbod op AI-metgezellen voor jongeren onder 18",
   "AI winkelen: Apple-topman Ron Johnson zet vraagtekens",
-  "OpenAI Academy breidt uit met nieuwe leerroutes voor werk en studie"
+  "OpenAI Academy breidt uit met nieuwe leerroutes voor werk en studie",
+  "Meta Muse verbod: AI-shopassistent weg bij Amazon",
+  "Vijf AI safety-sessies op TechCrunch Disrupt 2026",
+  "AI krijgt de leiding over ruimtevaartuig van AstroForge"
  ]
 }

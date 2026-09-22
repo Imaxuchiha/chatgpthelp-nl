@@ -1,0 +1,68 @@
+{
+ "keyword": "ai ruimtevaartuig",
+ "seo_title": "AI bestuurt ruimtevaartuig AstroForge: wat betekent dit?",
+ "title": "AI krijgt de leiding over ruimtevaartuig van AstroForge",
+ "meta": "AstroForge laat een klein AI-model een ruimtesonde besturen. Wat betekent autonome AI in de ruimte voor Nederland en de ruimtevaartsector?",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "ruimtevaart",
+  "astroforge",
+  "autonomie",
+  "technologie"
+ ],
+ "intro": "Het Amerikaanse bedrijf AstroForge geeft een klein AI-model de leiding over zijn volgende ruimtesonde. Het model is gebaseerd op transformer-technologie, dezelfde bouwsteen achter chatbots als ChatGPT. De missie heet Autonomy-1 en moet laten zien dat een sonde zelfstandig beslissingen kan nemen, ver van de aarde.",
+ "takeaways": [
+  "AstroForge laat een klein, transformer-gebaseerd AI-model een ruimtesonde besturen.",
+  "De missie heet Autonomy-1 en draait om zelfstandige beslissingen in de ruimte.",
+  "Transformers zijn dezelfde techniek achter bekende chatbots zoals ChatGPT.",
+  "Het is nog niet bekend wanneer de missie precies vertrekt of wat hij kost."
+ ],
+ "sections": [
+  {
+   "heading": "Wat AstroForge van plan is",
+   "body": "AstroForge bouwt ruimtevaartuigen en richt zich op het verwerken van materialen in de ruimte. Voor zijn volgende sonde zet het bedrijf een klein AI-model aan het roer. Dat model is gebaseerd op een transformer, meldt TechCrunch. Een transformer is een soort neuraal netwerk dat patronen herkent in grote hoeveelheden data. Dezelfde techniek zit onder chatbots als ChatGPT, Claude en Gemini.\n\nHet idee is dat de sonde niet continu vanaf de aarde aangestuurd hoeft te worden. In plaats daarvan neemt het model zelf beslissingen tijdens de vlucht. Dat is volgens TechCrunch het doel van de missie Autonomy-1."
+  },
+  {
+   "heading": "Waarom autonomie in de ruimte lastig is",
+   "body": "Een signaal van de aarde naar een sonde doet er lang over. Hoe verder weg, hoe groter de vertraging. Een sonde die zelf kan reageren, wint daardoor tijd. Denk aan het ontwijken van een stuk ruimteafval of het bijstellen van een koers zonder tussenkomst van een grondstation.\n\nTegelijk is de ruimte een harde omgeving. Straling kan chips verstoren en een verkeerde beslissing is niet even terug te draaien. Daarom kiezen ruimtevaartorganisaties meestal voor bewezen, eenvoudige software. Een AI-model dat zelf keuzes maakt, is een stap verder. Of dat in de praktijk goed gaat, moet Autonomy-1 laten zien."
+  },
+  {
+   "heading": "Klein model, grote verwachtingen",
+   "body": "Opvallend is dat AstroForge kiest voor een klein model. Grote AI-modellen draaien in datacenters met veel rekenkracht en stroom. Aan boord van een sonde is die ruimte er niet. Een compact model verbruikt minder energie en kan op beperkte hardware werken.\n\nDat sluit aan bij een bredere trend: AI steeds vaker op het apparaat zelf, in plaats van in de cloud. Voor de ruimte is dat extra belangrijk, want je kunt niet even een server bijplaatsen. TechCrunch geeft geen details over de omvang van het model of de gebruikte hardware. Ook is niet bekend hoe het model is getraind."
+  },
+  {
+   "heading": "Wat we nog niet weten",
+   "body": "AstroForge heeft nog geen lanceerdatum genoemd voor Autonomy-1. Ook is er geen informatie over de kosten van de missie of over de vraag of er een Nederlandse of Europese partner bij betrokken is. Zodra daar meer over bekend is, wordt dat duidelijk.\n\nHet bedrijf is niet de enige die AI naar de ruimte brengt. Ruimtevaartorganisaties en satellietbedrijven experimenteren al langer met software die zelfstandig kan handelen. Autonomy-1 is vooral interessant omdat een commerciële partij een transformer-model de hoofdrol geeft."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral een signaal over waar AI naartoe gaat. De ruimtevaartsector in ons land groeit, met bedrijven en kennisinstellingen rond Delft en Noordwijk die aan satellieten en instrumenten werken. Als AI aan boord betrouwbaar blijkt, kan dat de vraag naar slimme software voor satellieten vergroten. Tegelijk raakt het aan wetgeving: de EU werkt aan regels voor AI en voor ruimtevaart, en wie verantwoordelijk is als een autonome sonde een verkeerde beslissing neemt, is nog niet overal geregeld. Voor gewone gebruikers verandert er nu niets, maar de techniek achter hun chatbots duikt steeds vaker op in onverwachte hoeken.",
+ "faq": [
+  {
+   "q": "wat is een transformer in AI?",
+   "a": "Een transformer is een soort neuraal netwerk dat patronen herkent in data. Het is de techniek achter veel bekende AI-modellen, waaronder ChatGPT."
+  },
+  {
+   "q": "wat is AstroForge?",
+   "a": "AstroForge is een Amerikaans ruimtevaartbedrijf dat ruimtevaartuigen bouwt en zich richt op het verwerken van materialen in de ruimte."
+  },
+  {
+   "q": "wanneer vertrekt de missie Autonomy-1?",
+   "a": "Dat is nog niet bekend. AstroForge heeft geen lanceerdatum genoemd voor de missie."
+  }
+ ],
+ "slug": "ai-krijgt-de-leiding-over-ruimtevaartuig-van-astroforge",
+ "kind": "news",
+ "date": "2026-09-22",
+ "published": "2026-09-22T17:41",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "AstroForge is putting AI in command of its next spacecraft",
+   "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/"
+  }
+ ],
+ "path": "/nieuws/ai-krijgt-de-leiding-over-ruimtevaartuig-van-astroforge/",
+ "og": "/img/og/ai-krijgt-de-leiding-over-ruimtevaartuig-van-astroforge.png",
+ "take": "Een AI-model dat zelf een sonde bestuurt, prima, maar ik wil eerst zien wat het doet als er iets misgaat. In advertentieaccounts zie ik hetzelfde patroon: mensen sluiten producten of zoekwoorden uit omdat ze kort niets deden, en dat kost vaak geld. Ik geef zo'n model best het voorwerk, maar de knoppen blijven bij een mens."
+}
