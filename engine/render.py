@@ -107,7 +107,7 @@ gtag('set','allow_google_signals',false);gtag('set','allow_ad_personalization_si
 <div class="cols">
 <div><strong>{E(SITE['name'])}</strong><br>{E(SITE['tagline'])}<br><br>Deze site wordt volledig door AI gemaakt en gepubliceerd, zonder menselijke eindredactie. Elk artikel vermeldt zijn bronnen. <a href="/over/">Hoe dat werkt</a>.</div>
 <div><strong>Rubrieken</strong><br>{" · ".join(f'<a href="/{s}/">{E(n)}</a>' for s, (n, _) in CATEGORIES.items())}<br><a href="/prompts/">Prompt van de dag</a> · <a href="/memes/">Meme van de dag</a></div>
-<div><strong>Over</strong><br><a href="/over/">Over deze site</a> · <a href="/privacy/">Privacy</a> · <a href="/feed.xml">RSS</a> · <a href="{SITE['bluesky']}" rel="me noopener" target="_blank">Bluesky</a><br><br>Onafhankelijk. Niet verbonden aan OpenAI. ChatGPT is een merk van OpenAI.<br>© {datetime.now().year} {E(SITE['domain'])}</div>
+<div><strong>Over</strong><br><a href="/over/">Over deze site</a> · <a href="/privacy/">Privacy</a> · <a href="/feed.xml">RSS</a> · <a href="{SITE['bluesky']}" rel="me noopener" target="_blank">Bluesky</a><br><br>Onafhankelijk. Niet verbonden aan OpenAI. ChatGPT is een merk van OpenAI.<br>© {datetime.now().year} {E(SITE['domain'])} · uitgegeven door <a href="https://www.adsvantage.nl/" rel="publisher noopener" target="_blank">Adsvantage</a></div>
 </div>
 </footer>
 </div>
@@ -312,7 +312,7 @@ def about() -> str:
 <h2>Onafhankelijk</h2>
 <p>{E(SITE['domain'])} is niet verbonden aan OpenAI, Google, Anthropic, Microsoft of een andere AI-aanbieder. ChatGPT is een merk van OpenAI. Wij beschrijven, vergelijken en leggen uit; we verkopen geen AI-producten. De enige commerciële uiting is het duidelijk gemarkeerde blok over AI-training van de uitgever.</p>
 <h2>Uitgever</h2>
-<p>Deze site wordt uitgegeven door Adsvantage (Nederland). Contact: <a href="mailto:{E(SITE['email'])}">{E(SITE['email'])}</a>.</p>
+<p>Deze site wordt uitgegeven door <a href="https://www.adsvantage.nl/" rel="publisher noopener" target="_blank">Adsvantage</a> (Nederland). Contact: <a href="mailto:{E(SITE['email'])}">{E(SITE['email'])}</a>.</p>
 </article>"""
     return page("Over deze site", "Hoe chatgpthelp.nl werkt: een volledig door AI gemaakte nieuwssite over ChatGPT en AI, met bronnen en zonder menselijke eindredactie.", "/over/", body)
 
