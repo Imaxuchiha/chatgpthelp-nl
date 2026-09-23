@@ -447,6 +447,18 @@
   "ce45d8dc0f": {
    "at": "2026-09-23T12:07:05.292317",
    "why": "ok"
+  },
+  "9d02eeb8ce": {
+   "at": "2026-09-23T17:33:32.903190",
+   "why": "ok"
+  },
+  "1d77064cbe": {
+   "at": "2026-09-23T17:34:32.903190",
+   "why": "ok"
+  },
+  "95c888b471": {
+   "at": "2026-09-23T17:35:32.903190",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -528,6 +540,9 @@
   "OpenAI lanceert GPT-6 Sol en Luna: goedkoper en minder fouten",
   "Prompt caching in GPT-6: sneller en goedkoper werken",
   "AI overheid voorbereiding: Griekse premier waarschuwt",
-  "GPT-6 Astra halveert tijd en kosten van AI-onderzoek bij Parallel"
+  "GPT-6 Astra halveert tijd en kosten van AI-onderzoek bij Parallel",
+  "OpenAI Academy bestaat twee jaar: gratis AI-lessen voor iedereen",
+  "OpenAI geeft Oekraïne toegang tot Daybreak voor cyberverdediging",
+  "AI-websites lijken allemaal op elkaar en dat werkt averechts"
  ]
 }

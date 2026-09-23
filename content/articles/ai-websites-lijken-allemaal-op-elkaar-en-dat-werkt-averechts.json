@@ -1,0 +1,68 @@
+{
+ "keyword": "ai websites zelfde ontwerp",
+ "seo_title": "AI-websites lijken allemaal op elkaar: zo val je op",
+ "title": "AI-websites lijken allemaal op elkaar en dat werkt averechts",
+ "meta": "AI-websites zien er steeds hetzelfde uit. Bezoekers haken af. Lees waarom dat gebeurt en hoe je met je eigen site wel opvalt.",
+ "category": "nieuws",
+ "tags": [
+  "ai-websites",
+  "webdesign",
+  "ai",
+  "marketing",
+  "nederland"
+ ],
+ "intro": "Wie vandaag een website bouwt met AI, krijgt vaak hetzelfde resultaat: dezelfde paarse gradient, dezelfde ronde knoppen, dezelfde vage koppen. Bezoekers merken dat direct en krijgen er een lichte afkeer van, meldt Bright. Dat is slecht nieuws voor bedrijven die snel online wilden zijn.",
+ "takeaways": [
+  "Veel met AI gemaakte websites lijken visueel sterk op elkaar.",
+  "Bezoekers herkennen dat patroon en haken er sneller op af.",
+  "Een herkenbaar eigen ontwerp voorkomt dat je site als standaardwerk wordt gezien.",
+  "Het probleem zit vooral in standaardinstellingen en voorbeeldtemplates."
+ ],
+ "sections": [
+  {
+   "heading": "Waarom AI-websites op elkaar lijken",
+   "body": "AI-tools voor webdesign werken met patronen uit hun trainingsdata. Ze kiezen vaak de veilige middenweg: veel witruimte, een paarse of blauwe gradient, ronde hoeken en grote koppen. Dat levert een nette site op, maar ook een voorspelbare.\n\nOmdat veel mensen dezelfde tools met dezelfde standaardinstellingen gebruiken, ontstaat er een herkenbare huisstijl die niemand echt heeft gekozen. Bright beschrijft dat bezoekers dat patroon inmiddels herkennen, nog voordat ze een woord hebben gelezen."
+  },
+  {
+   "heading": "Waarom dat averechts werkt",
+   "body": "Een website moet vertrouwen geven. Als jouw site direct als AI-product wordt gezien, kan dat vertrouwen juist dalen. Bezoekers vragen zich af of er wel iemand heeft nagedacht over de inhoud.\n\nDat effect is sterker bij bedrijven die iets persoonlijks verkopen, zoals advies, zorg of ambachten. Daar verwacht de bezoeker een gezicht en een eigen toon. Een standaard AI-look maakt dat lastiger."
+  },
+  {
+   "heading": "Zo voorkom je de standaardlook",
+   "body": "Begin niet met een template, maar met je eigen verhaal. Kies twee of drie kleuren die bij je passen en durf af te wijken van de bekende gradient. Gebruik echte foto's van je team of werk in plaats van stockbeelden.\n\nSchrijf teksten zelf of laat ze redigeren. AI kan helpen bij structuur, maar niet bij jouw stem. Test daarna je site bij een paar klanten en vraag wat ze opvalt. Vaak noemen ze precies de onderdelen die te generiek zijn."
+  },
+  {
+   "heading": "Wat AI-tools zelf zeggen",
+   "body": "Aanbieders van AI-websitetools zeggen dat je de standaardinstellingen kunt aanpassen en eigen merkmateriaal kunt uploaden. Volgens OpenAI en vergelijkbare partijen is het de bedoeling dat de mens de regie houdt over stijl en inhoud.\n\nIn de praktijk gebeurt dat weinig, omdat gebruikers snel klaar willen zijn. Het resultaat is een groeiende groep sites die technisch prima werkt, maar niet blijft hangen bij de bezoeker."
+  }
+ ],
+ "nl_angle": "In Nederland gebruiken veel zzp'ers, mkb'ers en verenigingen AI-tools om snel een site te bouwen. Dat is begrijpelijk, want het scheelt tijd en geld. Maar juist in een kleine markt valt een standaardsite extra op, omdat concurrenten dezelfde tools gebruiken. Wil je klanten in Amsterdam of Twente overtuigen, dan moet je site laten zien wie je bent. Reken op een paar uur extra werk aan kleur, foto's en teksten. Dat kost weinig, maar levert vaak meer op dan een duurdere advertentie.",
+ "faq": [
+  {
+   "q": "Waarom lijken AI-websites allemaal op elkaar?",
+   "a": "AI-tools gebruiken dezelfde voorbeelden en standaardinstellingen. Daardoor kiezen ze vaak dezelfde kleuren, knoppen en indeling."
+  },
+  {
+   "q": "Maken bezoekers het uit dat een site met AI is gemaakt?",
+   "a": "Ja, veel bezoekers herkennen de standaardlook en haken er sneller op af. Vooral bij bedrijven waar vertrouwen belangrijk is."
+  },
+  {
+   "q": "Hoe maak ik mijn website minder standaard?",
+   "a": "Kies eigen kleuren, gebruik echte foto's en schrijf teksten in je eigen woorden. Pas daarna de standaardinstellingen van de AI-tool aan."
+  }
+ ],
+ "slug": "ai-websites-lijken-allemaal-op-elkaar-en-dat-werkt-averechts",
+ "kind": "news",
+ "date": "2026-09-23",
+ "published": "2026-09-23T17:35",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Waarom alle AI-websites er hetzelfde uitzien en dat precies averechts werkt",
+   "url": "https://www.bright.nl/plusplus/2138958/waarom-alle-ai-websites-er-hetzelfde-uitzien-en-dat-precies-averechts-werkt.html"
+  }
+ ],
+ "path": "/nieuws/ai-websites-lijken-allemaal-op-elkaar-en-dat-werkt-averechts/",
+ "og": "/img/og/ai-websites-lijken-allemaal-op-elkaar-en-dat-werkt-averechts.png",
+ "take": "Ik bouw mijn eigen sites liever met Claude Code dan dat ik een template-tool pak, want dan ziet het er tenminste niet uit als de rest. Dat standaard paarse gradient-gedoe komt niet door AI, dat komt door iedereen die dezelfde generator met dezelfde standaardinstellingen gebruikt. Wil je opvallen, dan moet je zelf de knoppen indrukken in plaats van de standaardtemplate te accepteren."
+}
