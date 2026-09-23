@@ -1,0 +1,67 @@
+{
+ "keyword": "gpt-6 astra juridisch",
+ "seo_title": "GPT-6 Astra juridisch: Harvey maakt betere concepten",
+ "title": "GPT-6 Astra juridisch: Harvey maakt sterkere concepten",
+ "meta": "GPT-6 Astra juridisch: OpenAI meldt dat Harvey met Astra meer structuur en context in juridische documenten stopt. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "gpt-6 astra",
+  "harvey",
+  "openai",
+  "juridisch",
+  "ai-tools"
+ ],
+ "intro": "OpenAI meldt dat Harvey, een AI-tool voor juridisch werk, GPT-6 Astra gebruikt om juridische documenten te maken. Volgens OpenAI levert dat meer structuur en meer context op, waardoor advocaten zich op strategie kunnen richten. Het gaat om een aankondiging van OpenAI zelf; onafhankelijke cijfers of klantervaringen zijn nog niet bekend.",
+ "takeaways": [
+  "Harvey gebruikt GPT-6 Astra voor juridische documenten, meldt OpenAI.",
+  "Astra zou meer structuur en context in concepten stoppen.",
+  "Advocaten houden volgens OpenAI meer tijd over voor strategie.",
+  "Prijzen, beschikbaarheid in Nederland en onafhankelijke tests zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI zegt over Harvey en Astra",
+   "body": "OpenAI schrijft dat Harvey GPT-6 Astra inzet om juridische context om te zetten in sterkere concepten. Het model zou documenten opleveren die beter gestructureerd zijn en meer rekening houden met de context van een zaak. Daardoor hoeven juristen minder tijd te besteden aan het opbouwen van een eerste versie.\n\nVolgens OpenAI ligt de winst vooral in het denkwerk dat overblijft. De tool neemt het uitzoeken en opzetten deels over, zodat een advocaat zich kan richten op strategie en op de keuzes die een zaak echt bepalen. OpenAI noemt dat zelf het doel van de samenwerking met Harvey.\n\nHet is belangrijk om te lezen wat er staat: dit is een bericht van OpenAI, niet een onafhankelijk onderzoek. Er zijn geen cijfers over fouten, snelheid of kosten gedeeld. Ook is niet duidelijk welke rechtbanken of welke soorten zaken zijn getest."
+  },
+  {
+   "heading": "Waarom juridisch werk lastig is voor AI",
+   "body": "Juridisch werk draait om precieze taal, vaste structuren en veel context. Een contract of een pleitnota moet kloppen tot op de komma, en één verkeerde verwijzing kan veel gevolgen hebben. Modellen die alleen losse zinnen genereren, schieten daar vaak tekort.\n\nOpenAI zegt dat GPT-6 Astra beter omgaat met die context. Het model zou een langere tekst of een dossier beter kunnen vasthouden en verwerken in een concept. Dat is precies het punt waarop eerdere modellen volgens critici nog weleens stukliepen: ze verliezen details of verzinnen iets dat niet in de stukken staat.\n\nToch blijft controle nodig. Een AI-model kan een overtuigend klinkende alinea maken met een verwijzing die niet bestaat. OpenAI zegt niet dat Astra dat probleem oplost. Wie met zulke tools werkt, moet de uitkomst dus blijven nalezen."
+  },
+  {
+   "heading": "Wat Harvey precies doet",
+   "body": "Harvey is een AI-tool die is gebouwd voor juridisch werk. De tool helpt bij het opstellen, samenvatten en doorzoeken van documenten. OpenAI noemt Harvey in het bericht als voorbeeld van een partij die GPT-6 Astra gebruikt.\n\nOpenAI geeft geen details over de prijs, de contractvorm of de technische inrichting. Ook is niet duidelijk of Harvey in Nederland en de rest van de Europese Unie beschikbaar is. Dat is relevant, want juridische tools vallen onder strenge regels voor gegevensbescherming.\n\nWat OpenAI wel duidelijk maakt: het gaat om een samenwerking waarin het model de juridische context moet begrijpen en omzetten in een bruikbaar concept. De nadruk ligt op structuur en op het vasthouden van de context, niet op snelheid of op het vervangen van de jurist."
+  },
+  {
+   "heading": "Wat dit zegt over GPT-6 Astra",
+   "body": "OpenAI positioneert GPT-6 Astra als een model dat beter werkt met lange, ingewikkelde teksten. De juridische sector is daarvoor een logische proeftuin: de documenten zijn lang, de eisen zijn streng en fouten zijn duur.\n\nDat betekent niet automatisch dat Astra in alle sectoren even goed presteert. OpenAI deelt geen benchmarks of vergelijkingen met andere modellen. Wie wil weten hoe het model presteert bij Nederlandse contracten of bij Europese regelgeving, moet wachten op onafhankelijke tests.\n\nWel is duidelijk dat OpenAI juridische dienstverlening als een belangrijke markt ziet. De aankondiging past bij de bredere beweging waarin AI-bedrijven hun modellen aanbieden voor specifiek professioneel werk, zoals zorg, financiën en recht."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse advocatenkantoren en juridische afdelingen is dit vooral een signaal dat AI-tools voor juridisch werk serieuzer worden. Of Harvey en GPT-6 Astra hier beschikbaar komen, is nog niet bekend. Let als je zo'n tool overweegt op drie dingen: waar de gegevens worden opgeslagen, of het voldoet aan de AVG en of de leverancier aansprakelijkheid aanvaardt voor fouten. Reken erop dat je concepten zelf blijft controleren; een AI-model is geen vervanging voor een jurist. Voor kleinere kantoren in Nederland kan de prijs een drempel zijn, maar OpenAI noemt geen bedragen, dus daar valt nog niets over te zeggen.",
+ "faq": [
+  {
+   "q": "Wat is GPT-6 Astra?",
+   "a": "GPT-6 Astra is een model van OpenAI dat volgens het bedrijf beter omgaat met lange teksten en context. OpenAI noemt juridisch werk als een van de toepassingen."
+  },
+  {
+   "q": "Is Harvey beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI meldt niets over beschikbaarheid in Nederland of de Europese Unie, en ook niet over prijzen."
+  },
+  {
+   "q": "Vervangt Harvey advocaten?",
+   "a": "Nee. Volgens OpenAI neemt de tool een deel van het opstelwerk over, zodat juristen zich op strategie kunnen richten. Controle blijft nodig."
+  }
+ ],
+ "slug": "gpt-6-astra-juridisch-harvey-maakt-sterkere-concepten",
+ "kind": "news",
+ "date": "2026-09-23",
+ "published": "2026-09-23T21:39",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+  }
+ ],
+ "path": "/nieuws/gpt-6-astra-juridisch-harvey-maakt-sterkere-concepten/",
+ "og": "/img/og/gpt-6-astra-juridisch-harvey-maakt-sterkere-concepten.png"
+}

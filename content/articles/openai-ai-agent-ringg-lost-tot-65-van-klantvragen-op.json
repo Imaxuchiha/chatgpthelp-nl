@@ -1,0 +1,68 @@
+{
+ "keyword": "openai ai agent bell",
+ "seo_title": "OpenAI AI-agent lost 65% van klantvragen op bij Ringg",
+ "title": "OpenAI AI-agent Ringg lost tot 65% van klantvragen op",
+ "meta": "Ringg gebruikt GPT-5.6 voor meertalige AI-agenten die tot 65% van klantgesprekken afhandelen, voor 90% minder kosten dan GPT-4.1.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-agent",
+  "klantenservice",
+  "gpt-5.6",
+  "ringg"
+ ],
+ "intro": "OpenAI meldt dat het bedrijf Ringg AI-agenten bouwt die tot 65% van de klantgesprekken zelfstandig afhandelen. Dat gebeurt met het model GPT-5.6, via spraak, chat, WhatsApp en web. Volgens OpenAI kost dat 90% minder dan werken met het oudere GPT-4.1.",
+ "takeaways": [
+  "Ringg laat AI-agenten tot 65% van klantgesprekken zelf oplossen.",
+  "De agenten werken via spraak, chat, WhatsApp en web, in meerdere talen.",
+  "OpenAI zegt dat dit 90% goedkoper is dan met GPT-4.1.",
+  "Het gaat om een klantverhaal van OpenAI, geen onafhankelijk onderzoek."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Ringg precies doet met GPT-5.6",
+   "body": "Ringg zet AI-agenten in voor klantcontact. Die agenten nemen gesprekken over via spraak, chat, WhatsApp en web. Volgens OpenAI lost zo'n agent tot 65% van de binnenkomende gesprekken zelf op, zonder dat een medewerker eraan te pas komt.\n\nHet bedrijf gebruikt daarvoor GPT-5.6. Dat model is nieuwer dan GPT-4.1, dat Ringg eerder gebruikte. De agenten zijn meertalig, wat betekent dat ze klanten in verschillende talen te woord kunnen staan.\n\nOpenAI noemt de cijfers in een klantverhaal op zijn eigen site. Het gaat dus om cijfers van OpenAI en Ringg zelf, niet om een losse test door een buitenstaander."
+  },
+  {
+   "heading": "90% minder kosten dan GPT-4.1",
+   "body": "Volgens OpenAI is het draaien van deze agenten 90% goedkoper dan met GPT-4.1. Dat is een flinke besparing, maar OpenAI zegt niet precies hoe dat bedrag is opgebouwd. Denk aan kosten per gesprek, per minuut spraak of per verwerkt stuk tekst.\n\nVoor bedrijven die klantenservice draaien, is dat wel het interessante deel. Een gesprek dat een AI-agent afhandelt, kost minder dan een gesprek dat een medewerker afhandelt. Zeker bij veel herhaalvragen kan dat oplopen.\n\nLet wel: goedkoper per gesprek betekent niet automatisch goedkoper in totaal. Je betaalt ook voor inrichting, koppelingen met je systemen en controle achteraf."
+  },
+  {
+   "heading": "Meertalig, ook voor Nederlandse klanten",
+   "body": "De agenten werken in meerdere talen. Dat is relevant voor bedrijven die klanten in verschillende landen helpen. Een Nederlandse klant kan in het Nederlands geholpen worden, terwijl dezelfde agent ook Engelse of Duitse klanten te woord staat.\n\nToch blijft controle nodig. Een AI-agent die 65% van de gesprekken oplost, laat 35% over voor mensen. Die gesprekken zijn vaak juist de lastige: klachten, uitzonderingen of emotionele situaties.\n\nOpenAI geeft geen lijst van talen of landen waar Ringg actief is. Of Nederlandse bedrijven dit direct kunnen gebruiken, is dus nog niet bekend."
+  },
+  {
+   "heading": "Wat OpenAI niet zegt",
+   "body": "OpenAI noemt geen prijs per gesprek, geen proefperiode en geen beschikbaarheid in Europa. Er staat ook niet bij hoe Ringg omgaat met gegevens van klanten, zoals gespreksopnames en persoonsgegevens.\n\nDat is belangrijk, want klantgesprekken bevatten vaak gevoelige informatie. Onder de Europese privacyregels (AVG) moet een bedrijf kunnen uitleggen waar gegevens staan en hoe lang ze bewaard blijven.\n\nWie dit wil gebruiken, zal die vragen zelf aan Ringg moeten stellen. OpenAI verwijst in het verhaal alleen naar de resultaten en de kostenbesparing."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven met een klantenservice is dit een teken dat AI-agenten steeds vaker een groot deel van het werk doen. Denk aan webshops, telecomaanbieders en energiemaatschappijen met veel dezelfde vragen. De belofte is minder kosten en snellere antwoorden, ook in het Nederlands. Maar je blijft zelf verantwoordelijk voor de kwaliteit en voor de privacy van klantgegevens onder de AVG. Het is nog niet duidelijk of Ringg in Nederland te koop is of wat het hier kost.",
+ "faq": [
+  {
+   "q": "Wat doet Ringg met OpenAI?",
+   "a": "Ringg bouwt AI-agenten voor klantcontact die via spraak, chat, WhatsApp en web werken. Die agenten gebruiken het model GPT-5.6 van OpenAI."
+  },
+  {
+   "q": "Hoeveel klantgesprekken lost zo'n AI-agent op?",
+   "a": "Volgens OpenAI lost Ringg tot 65% van de klantgesprekken zelf op. De rest gaat naar een medewerker."
+  },
+  {
+   "q": "Is dit al beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI noemt geen prijzen, geen Europese beschikbaarheid en geen details over gegevensverwerking."
+  }
+ ],
+ "slug": "openai-ai-agent-ringg-lost-tot-65-van-klantvragen-op",
+ "kind": "news",
+ "date": "2026-09-23",
+ "published": "2026-09-23T21:38",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+   "url": "https://openai.com/index/ringg"
+  }
+ ],
+ "path": "/nieuws/openai-ai-agent-ringg-lost-tot-65-van-klantvragen-op/",
+ "og": "/img/og/openai-ai-agent-ringg-lost-tot-65-van-klantvragen-op.png",
+ "take": "Die 65% en 90% komen uit een persbericht van OpenAI zelf, dus dat is reclame tot een klant het tegendeel bewijst. Ik kijk nooit naar dertig dagen om te bepalen of iets werkt, maar naar twaalf tot achttien maanden en jaar op jaar, en zo'n besparing moet je over die hele periode kunnen aantonen. Bij Voicebox draai ik mijn stem lokaal voor nul euro, dus die 90% zegt me pas iets als een echte klant het na een jaar nog steeds roept."
+}
