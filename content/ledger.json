@@ -435,6 +435,18 @@
   "b31a42e189": {
    "at": "2026-09-22T21:44:34.815418",
    "why": "ok"
+  },
+  "b6b1e4118c": {
+   "at": "2026-09-23T12:05:05.292317",
+   "why": "ok"
+  },
+  "cb46fb2f83": {
+   "at": "2026-09-23T12:06:05.292317",
+   "why": "ok"
+  },
+  "ce45d8dc0f": {
+   "at": "2026-09-23T12:07:05.292317",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -513,6 +525,9 @@
   "AI krijgt de leiding over ruimtevaartuig van AstroForge",
   "GPT-6 Sol en Luna: OpenAI kondigt twee nieuwe modellen aan",
   "Meta geeft toe: Muse lijkt bewust op OpenClaw",
-  "OpenAI lanceert GPT-6 Sol en Luna: goedkoper en minder fouten"
+  "OpenAI lanceert GPT-6 Sol en Luna: goedkoper en minder fouten",
+  "Prompt caching in GPT-6: sneller en goedkoper werken",
+  "AI overheid voorbereiding: Griekse premier waarschuwt",
+  "GPT-6 Astra halveert tijd en kosten van AI-onderzoek bij Parallel"
  ]
 }

@@ -1,0 +1,68 @@
+{
+ "keyword": "prompt caching gpt-6",
+ "seo_title": "Prompt caching in GPT-6: sneller en goedkoper",
+ "title": "Prompt caching in GPT-6: sneller en goedkoper werken",
+ "meta": "OpenAI verbetert prompt caching in GPT-6 met meer cachetreffers, nieuwe diagnose en breekpunten. Dit betekent het voor jouw kosten en snelheid.",
+ "category": "nieuws",
+ "tags": [
+  "gpt-6",
+  "openai",
+  "prompt caching",
+  "kosten",
+  "latency"
+ ],
+ "intro": "OpenAI heeft op 22 september 2026 nieuwe techniek voor prompt caching in GPT-6 aangekondigd. Het model onthoudt vaker delen van je invoer, waardoor reacties sneller komen en het gebruik goedkoper wordt. Voor wie veel met dezelfde instructies of documenten werkt, kan dat flink schelen.",
+ "takeaways": [
+  "GPT-6 haalt hogere cachetreffers dan eerdere modellen, volgens OpenAI.",
+  "Er komen nieuwe diagnosemiddelen om te zien wat wel en niet gecacht wordt.",
+  "Je kunt zelf breekpunten in een prompt aangeven om caching te sturen.",
+  "OpenAI belooft minder vertraging en lagere kosten door deze aanpassingen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat is prompt caching ook alweer",
+   "body": "Bij prompt caching bewaart het model een deel van je invoer. Stuur je later een prompt die hetzelfde begint, dan pakt GPT-6 dat bewaarde stuk erbij. Dat scheelt rekenwerk.\n\nHet idee is niet nieuw, maar OpenAI zegt dat GPT-6 vaker raak cached dan eerdere versies. Hoe vaker een stuk uit het geheugen komt, hoe minder tokens het model opnieuw hoeft te verwerken."
+  },
+  {
+   "heading": "Hogere cachetreffers en nieuwe diagnose",
+   "body": "Volgens OpenAI stijgt het aantal cachetreffers in GPT-6. Een treffer betekent dat een stuk tekst al bekend was. Het bedrijf noemt ook nieuwe diagnosemiddelen. Daarmee zie je welke delen van je prompt wel of niet uit de cache komen.\n\nDat is handig als je wilt snappen waarom een lang document toch elke keer opnieuw wordt gelezen. Zonder die informatie is caching vaak een blackbox."
+  },
+  {
+   "heading": "Zelf breekpunten zetten",
+   "body": "Nieuw is dat je expliciet breekpunten kunt aangeven. Een breekpunt is een plek in je prompt waar het model mag beslissen om de tekst daarvoor te bewaren.\n\nZo bepaal je zelf welk deel vastligt, bijvoorbeeld een lange systeeminstructie of een handleiding. Alles daarna varieert per vraag. OpenAI zegt dat dit de cache beter laat werken."
+  },
+  {
+   "heading": "Minder vertraging, lagere kosten",
+   "body": "OpenAI koppelt de verbeteringen aan minder latency en lagere kosten. Latency is de tijd tussen je vraag en het eerste antwoord. Bij caching hoeft het model minder te doen, dus dat scheelt wachttijd.\n\nOok de prijs per gebruik daalt in de praktijk, omdat hergebruikte tokens niet volledig meetellen. Hoeveel precies, hangt af van je eigen prompts en valt niet in één getal te vangen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en ontwikkelaars die GPT-6 via de API gebruiken, kan dit direct schelen op de maandrekening. Zeker als je veel dezelfde instructies of documenten verwerkt, zoals bij klantenservice, juridische teksten of interne kennisbanken. Let wel op de Europese regels rond gegevensverwerking: wat in de cache belandt, valt onder dezelfde afspraken als andere verwerking. OpenAI noemt geen aparte prijzen in euro's of een Nederlandse ingangsdatum, dus dat blijft voorlopig onbekend.",
+ "faq": [
+  {
+   "q": "Wat is prompt caching precies?",
+   "a": "Het model bewaart een deel van je invoer, zodat het bij een volgende vergelijkbare prompt minder opnieuw hoeft te rekenen. Dat maakt reacties sneller en goedkoper."
+  },
+  {
+   "q": "Werkt prompt caching in GPT-6 ook voor Nederlandse teksten?",
+   "a": "Ja, caching gaat over tokens en niet over de taal. Nederlands werkt dus net zo goed, zolang je prompt maar hetzelfde begint."
+  },
+  {
+   "q": "Wat kost het en wanneer komt het naar Nederland?",
+   "a": "OpenAI heeft geen losse prijzen in euro's of een Nederlandse datum genoemd. De functies horen bij GPT-6 en zijn via de API beschikbaar volgens OpenAI."
+  }
+ ],
+ "slug": "prompt-caching-in-gpt-6-sneller-en-goedkoper-werken",
+ "kind": "news",
+ "date": "2026-09-23",
+ "published": "2026-09-23T12:05",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Better prompt caching for GPT-6",
+   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+  }
+ ],
+ "path": "/nieuws/prompt-caching-in-gpt-6-sneller-en-goedkoper-werken/",
+ "og": "/img/og/prompt-caching-in-gpt-6-sneller-en-goedkoper-werken.png",
+ "take": "Prompt caching is precies het soort verbetering dat je gratis krijgt zonder extra abonnement, dus daar zeg ik geen nee tegen. Maar sneller en goedkoper klinkt mooi tot je zelf meet wat het oplevert, en dat is weer typisch zo'n belofte waarvan ik de cijfers pas vertrouw als ze uit mijn eigen tools komen. Mijn werk gaat in mijn eigen scripts met de API, dus als de cachetreffers daar echt omhoog gaan plak ik dat er gewoon in zonder dat er een nieuw dashboard aan te pas komt."
+}
