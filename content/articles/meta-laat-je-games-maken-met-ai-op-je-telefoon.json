@@ -1,0 +1,68 @@
+{
+ "keyword": "games maken met ai meta",
+ "seo_title": "Games maken met AI: Meta lanceert Horizon Create",
+ "title": "Meta laat je games maken met AI op je telefoon",
+ "meta": "Meta lanceert Horizon Create en Horizon Studio. Met AI-prompts maak je zelf games voor het Horizon-platform. Dit betekent het voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "meta",
+  "horizon",
+  "ai-games",
+  "gameontwikkeling",
+  "horizon create"
+ ],
+ "intro": "Meta wil meer mensen games laten maken voor Horizon, het sociale platform van het bedrijf. Twee nieuwe tools moeten dat mogelijk maken met AI-prompts: Horizon Create voor je telefoon en Horizon Studio in de browser. Volgens The Verge hoopt Meta zo de drempel voor gameontwikkeling flink te verlagen.",
+ "takeaways": [
+  "Meta kondigt twee tools aan: Horizon Create (mobiel) en Horizon Studio (browser).",
+  "Met AI-prompts maak je games zonder programmeerwerk.",
+  "Horizon Studio biedt fijnmazigere instellingen dan de mobiele app.",
+  "Het is nog niet bekend wanneer de tools in Nederland beschikbaar komen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Meta precies aankondigt",
+   "body": "Meta heeft twee nieuwe ontwikkeltools aangekondigd voor Horizon, het sociale platform waar gebruikers samenkomen in virtuele ruimtes. De eerste heet Horizon Create: een mobiele app waarin je met AI-prompts games bouwt. De tweede is Horizon Studio, een browserapplicatie met meer verfijnde bediening.\n\nHet idee is simpel. Je typt wat je wilt maken en de AI zet dat om in een speelbare game. Horizon Studio geeft daarbij meer controle over de details, terwijl Horizon Create vooral bedoeld is voor wie snel iets in elkaar wil zetten op de telefoon. The Verge meldt dat de apps beschikbaar komen, maar het volledige tijdpad is nog niet duidelijk."
+  },
+  {
+   "heading": "Waarom Meta dit doet",
+   "body": "Horizon heeft meer makers nodig. Zonder genoeg games en ervaringen blijft een sociaal platform leeg. Meta probeert die drempel te verlagen door AI als hulpmiddel in te zetten, zodat je geen programmeertaal hoeft te leren.\n\nDat past in een bredere trend waarbij AI het maken van content steeds toegankelijker maakt. Denk aan het genereren van afbeeldingen of teksten. Games bouwen met een prompt is de volgende stap. Of dat in de praktijk goed werkt, moet nog blijken."
+  },
+  {
+   "heading": "Wat dit betekent voor gameontwikkelaars",
+   "body": "Voor professionele ontwikkelaars verandert er voorlopig weinig. Horizon Create en Studio zijn geen vervanging van engines zoals Unity of Unreal. Ze zijn gericht op snelle, eenvoudige games binnen één platform.\n\nToch kan het de instroom van nieuwe makers vergroten. Iemand die nooit heeft geprogrammeerd, kan nu toch iets bouwen. Dat kan leiden tot meer aanbod, maar ook tot veel eenvoudige of generieke games. De kwaliteit blijft mensenwerk."
+  },
+  {
+   "heading": "Beschikbaarheid en onduidelijkheden",
+   "body": "Meta heeft nog niet gezegd wanneer Horizon Create en Horizon Studio in Nederland of de rest van de Europese Unie verschijnen. Ook is niet bekend of er kosten aan verbonden zijn of dat je een account nodig hebt met een bepaalde leeftijd.\n\nWie nu al games wil maken met AI, kan terecht bij verschillende losse tools. Maar een compleet platform dat ontwerpen, publiceren en spelen combineert, is nieuw. Zodra Meta meer details deelt, weten we of dit echt werkt."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders die graag games maken of spelen op sociale platforms is dit interessant, maar nog niet direct bruikbaar. Meta heeft geen releasedatum voor Nederland genoemd. Horizon is in Nederland beschikbaar via de Meta Quest-bril, maar de nieuwe AI-tools zijn nog niet uitgerold. Wie wil experimenteren met AI en gameontwikkeling moet voorlopig uitwijken naar andere tools. Zodra de apps hier komen, kan de drempel om zelf een game te maken flink dalen.",
+ "faq": [
+  {
+   "q": "Wat is Horizon Create van Meta?",
+   "a": "Horizon Create is een mobiele app waarmee je met AI-prompts games maakt voor het Horizon-platform van Meta. Je hebt geen programmeerkennis nodig."
+  },
+  {
+   "q": "Wanneer komen Horizon Create en Studio naar Nederland?",
+   "a": "Dat is nog niet bekend. Meta heeft geen datum genoemd voor Nederland of de Europese Unie."
+  },
+  {
+   "q": "Heb ik een VR-bril nodig voor Horizon?",
+   "a": "Horizon is vooral bekend van de Meta Quest-bril, maar de nieuwe tools zijn apps voor telefoon en browser. Of je zonder bril games kunt spelen, is nog niet duidelijk."
+  }
+ ],
+ "slug": "meta-laat-je-games-maken-met-ai-op-je-telefoon",
+ "kind": "news",
+ "date": "2026-09-24",
+ "published": "2026-09-24T21:57",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Meta is going to let you build games with AI right on your phone",
+   "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"
+  }
+ ],
+ "path": "/nieuws/meta-laat-je-games-maken-met-ai-op-je-telefoon/",
+ "og": "/img/og/meta-laat-je-games-maken-met-ai-op-je-telefoon.png",
+ "take": "Meta verlaagt de drempel, maar je gameloopt jezelf niet rijk met wat prompts op je telefoon. Ik bouw mijn eigen tools liever met Claude Code en een goedkoop DeepSeek-script dan dat ik weer een abonnement neem op een platform dat mij in hun ecosysteem houdt. Eerst zien wat Horizon Create echt oplevert op een telefoon, dan geloven."
+}

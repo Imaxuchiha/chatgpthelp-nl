@@ -1,0 +1,64 @@
+{
+ "keyword": "google photos virtuele kledingkast",
+ "seo_title": "Google Photos virtuele kledingkast nu op iOS en Android",
+ "title": "Google Photos virtuele kledingkast nu op iOS en Android",
+ "meta": "Google Photos maakt nu op iOS en Android een virtuele kledingkast van je foto's. Lees wat de AI-functie doet en wat dit voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "google photos",
+  "ai",
+  "kleding",
+  "android",
+  "ios"
+ ],
+ "intro": "Google Photos heeft zijn AI-functie voor een virtuele kledingkast breed uitgerold. De optie was sinds juni alleen op Android te gebruiken, maar is nu ook op iOS beschikbaar. TechCrunch meldt dat het bedrijf de functie baseert op de film 'Clueless' uit 1995.",
+ "takeaways": [
+  "De virtuele kledingkast in Google Photos is nu beschikbaar op Android en iOS.",
+  "De functie bouwt een digitale garderobe op basis van je eigen foto's.",
+  "Eerst kregen alleen Android-gebruikers toegang, sinds juni 2026.",
+  "TechCrunch noemt de film 'Clueless' als inspiratie voor het idee."
+ ],
+ "sections": [
+  {
+   "heading": "Wat doet de virtuele kledingkast?",
+   "body": "Google Photos scant je foto's en herkent daar kledingstukken in. Die stukken komen terecht in een digitale kledingkast. Je kunt daarna combinaties maken zonder alles uit de kast te trekken.\n\nHet idee komt van een scène uit de film 'Clueless', waarin een personage outfits op een computer samenstelt. TechCrunch schrijft dat Google die scène als voorbeeld noemt. De functie is dus geen nieuwe uitvinding, maar een bekend filmbeeld dat nu werkelijkheid wordt."
+  },
+  {
+   "heading": "Van Android naar iPhone",
+   "body": "De functie rolde in juni 2026 eerst uit voor Android-gebruikers. Sinds 24 september 2026 kunnen ook iPhone-bezitters ermee aan de slag. TechCrunch meldt dat de uitrol nu op beide systemen loopt.\n\nDat is opvallend, want Google brengt nieuwe functies vaak eerst naar Android. Door ook iOS meteen mee te nemen, hoopt het bedrijf waarschijnlijk meer gebruikers te trekken. Voor jou maakt het niet uit welk toestel je hebt: de functie werkt op beide."
+  },
+  {
+   "heading": "Wat betekent dit voor je privacy?",
+   "body": "Je foto's blijven volgens de beschrijving binnen Google Photos. Toch is het goed om te weten dat je een AI-model toegang geeft tot je kledingfoto's. Wie dat niet wil, kan de functie laten liggen.\n\nIn de Europese Unie gelden strenge regels voor het verwerken van persoonsgegevens. Google moet zich aan de AVG houden. Of de functie in Nederland standaard aan staat, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders met Google Photos verandert er weinig ingrijpends: de functie komt gewoon beschikbaar in de app. Je hebt geen apart abonnement nodig voor zover bekend. Wel is het verstandig om te checken welke foto's Google mag gebruiken. De AVG geeft je het recht om gegevens te laten verwijderen, maar dat kost vaak moeite. Wie liever geen AI in de kledingkast wil, kan de functie negeren of uitzetten in de instellingen.",
+ "faq": [
+  {
+   "q": "Is de virtuele kledingkast van Google Photos gratis?",
+   "a": "Daar zegt TechCrunch niets over. De functie zit in Google Photos, dat een gratis basisversie heeft. Of er een betaald abonnement nodig is, is nog niet duidelijk."
+  },
+  {
+   "q": "Werkt de virtuele kledingkast ook in Nederland?",
+   "a": "De uitrol is wereldwijd op Android en iOS, meldt TechCrunch. Het is niet zeker of Nederland meteen meedoet. Controleer je Google Photos-app voor de actuele status."
+  },
+  {
+   "q": "Moet ik mijn foto's delen met Google voor deze functie?",
+   "a": "De functie gebruikt je eigen foto's in Google Photos. Je hoeft niets extra te uploaden. Wel verwerkt Google die beelden met AI, dus lees het privacybeleid als je dat belangrijk vindt."
+  }
+ ],
+ "slug": "google-photos-virtuele-kledingkast-nu-op-ios-en-android",
+ "kind": "news",
+ "date": "2026-09-24",
+ "published": "2026-09-24T21:59",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+   "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/"
+  }
+ ],
+ "path": "/nieuws/google-photos-virtuele-kledingkast-nu-op-ios-en-android/",
+ "og": "/img/og/google-photos-virtuele-kledingkast-nu-op-ios-en-android.png",
+ "take": "Ik heb Google Photos nooit gebruikt om outfits uit mijn foto's te halen, dus ik oordeel op het nieuws en niet op mijn eigen account. Wat me opvalt: iedereen roept meteen dat dit een leuke gimmick is, terwijl het echte werk zit in hoe Google je foto's leest en wat er met die data gebeurt. Mijn regel blijft simpel: AI mag het voorwerk doen, maar de knoppen en de data blijven bij een mens."
+}

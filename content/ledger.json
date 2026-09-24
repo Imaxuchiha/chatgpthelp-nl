@@ -511,6 +511,38 @@
   "be4c10b9fe": {
    "at": "2026-09-24T17:55:42.426905",
    "why": "ok"
+  },
+  "ac1c66756d": {
+   "at": "2026-09-24T21:57:30.322954",
+   "why": "poort"
+  },
+  "1c18de282b": {
+   "at": "2026-09-24T21:57:30.322954",
+   "why": "high-risk"
+  },
+  "3ab9cbba8c": {
+   "at": "2026-09-24T21:57:30.322954",
+   "why": "poort"
+  },
+  "18e7444965": {
+   "at": "2026-09-24T21:57:30.322954",
+   "why": "ok"
+  },
+  "4f47c154f1": {
+   "at": "2026-09-24T21:58:30.322954",
+   "why": "ok"
+  },
+  "0b7b681fb8": {
+   "at": "2026-09-24T21:59:30.322954",
+   "why": "poort"
+  },
+  "091e61d142": {
+   "at": "2026-09-24T21:59:30.322954",
+   "why": "poort"
+  },
+  "b848899f89": {
+   "at": "2026-09-24T21:59:30.322954",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -604,6 +636,9 @@
   "YouTube AI-tools nemen bijna al het werk van makers over",
   "AI zonder fouten bouwen: TechCrunch Disrupt 2026",
   "AI-agent internet afsluiten: waarom dat in de praktijk lastig is",
-  "Ando ai app: nieuwe berichtenapp laat mens en AI-agent samenwerken"
+  "Ando ai app: nieuwe berichtenapp laat mens en AI-agent samenwerken",
+  "Meta laat je games maken met AI op je telefoon",
+  "Meta Muse Charm: AI-hanger die lijkt op Tamagotchi",
+  "Google Photos virtuele kledingkast nu op iOS en Android"
  ]
 }
