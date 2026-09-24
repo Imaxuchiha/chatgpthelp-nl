@@ -1,0 +1,68 @@
+{
+ "keyword": "ando ai app",
+ "seo_title": "Ando ai app: berichtenapp voor mens en AI-agent",
+ "title": "Ando ai app: nieuwe berichtenapp laat mens en AI-agent samenwerken",
+ "meta": "Ando haalt 20 miljoen dollar op voor een berichtenapp waarin mensen en AI-agenten samenwerken. Wat betekent dat voor teams in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "ando",
+  "ai-agenten",
+  "berichtenapp",
+  "slack",
+  "startup",
+  "investeringen"
+ ],
+ "intro": "De Amerikaanse startup Ando bouwt een berichtenapp waarin mensen en AI-agenten samen in één teamomgeving werken. Het bedrijf haalde 20 miljoen dollar op in pre-seed- en seed-financiering, met investeerders als Accel, Index Ventures en Emergence. Ando richt zich daarmee op hetzelfde terrein als Slack, maar dan met AI als volwaardige deelnemer aan het gesprek.",
+ "takeaways": [
+  "Ando haalt 20 miljoen dollar op in pre-seed- en seed-financiering.",
+  "Investeerders zijn onder meer Accel, Index Ventures en Emergence.",
+  "De app wil concurreren met Slack en laat mensen en AI-agenten samenwerken.",
+  "TechCrunch meldt het nieuws op 24 september 2026."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Ando precies bouwt",
+   "body": "Ando werkt aan een berichtenapp voor teams. Het bijzondere zit in de deelnemers: niet alleen collega's, maar ook AI-agenten kunnen meedoen in het gesprek. Dat betekent dat een agent bijvoorbeeld taken kan oppakken, vragen kan beantwoorden of informatie kan aanleveren, zonder dat je steeds naar een apart AI-programma hoeft te schakelen.\n\nTechCrunch schrijft dat Ando zich daarmee richt op Slack. Dat is de bekende zakelijke chat-app die veel bedrijven gebruiken. Ando positioneert zich dus niet als losse AI-tool, maar als complete werkplek waar mens en machine dezelfde gesprekken voeren."
+  },
+  {
+   "heading": "Wie betaalt dit avontuur",
+   "body": "De financiering bestaat uit pre-seed- en seed-geld en komt in totaal op 20 miljoen dollar. Onder de investeerders zitten Accel, Index Ventures en Emergence. Dat zijn bekende namen in de wereld van technologiebeleggingen. Zo'n bedrag in een vroege fase laat zien dat investeerders geloven in de combinatie van teamchat en AI-agenten.\n\nHoeveel geld er precies per investeerder is ingestapt, maakt TechCrunch niet bekend. Ook is niet duidelijk hoeveel Ando zelf waard is na deze ronde. Dat blijft dus nog open."
+  },
+  {
+   "heading": "Waarom dit een trend is",
+   "body": "Steeds meer bedrijven stoppen AI direct in de software die mensen toch al gebruiken. In plaats van een los chatvenster naast je werk, komt de AI in je gesprekken en documenten terecht. Ando speelt op die ontwikkeling in door de agent niet als hulpmiddel naast de app te zetten, maar als deelnemer in de app zelf.\n\nOf dat werkt, moet blijken. Slack is diep verankerd bij veel organisaties, met jaren aan gesprekken, integraties en gewoontes. Een nieuwkomer moet dus niet alleen technisch goed zijn, maar ook teams overtuigen om over te stappen. Daar zit de echte uitdaging."
+  },
+  {
+   "heading": "Wat we nog niet weten",
+   "body": "TechCrunch noemt geen lanceerdatum, geen prijs en geen lijst van beschikbare AI-modellen. Ook is niet duidelijk of Ando in Europa of Nederland uitkomt. Het bedrijf geeft daar in het artikel geen uitsluitsel over.\n\nVoor Nederlandse teams betekent dat vooral: nog even afwachten. Wie nu een berichtenapp met AI-agenten wil, kan beter kijken naar wat bestaande platforms al bieden. Denk aan AI-functies in Slack, Microsoft Teams of Copilot. Ando is voorlopig vooral een signaal dat deze markt in beweging is."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven is Ando voorlopig niet direct bruikbaar: er is geen prijs in euro's, geen Europese lanceerdatum en geen duidelijkheid over naleving van de AVG. Toch is het nieuws relevant. Het laat zien dat AI-agenten steeds vaker als collega's in teamapps worden gezet. Werk je met Slack of Microsoft Teams, dan kun je verwachten dat AI daar een grotere rol krijgt. Let bij zulke tools wel op waar de gegevens worden opgeslagen en of dat past bij de regels voor persoonsgegevens.",
+ "faq": [
+  {
+   "q": "Wat is Ando?",
+   "a": "Ando is een Amerikaanse startup die een berichtenapp voor teams bouwt waarin mensen en AI-agenten samenwerken. Het bedrijf richt zich op dezelfde markt als Slack."
+  },
+  {
+   "q": "Hoeveel geld heeft Ando opgehaald?",
+   "a": "Ando haalde 20 miljoen dollar op in pre-seed- en seed-financiering, met investeerders als Accel, Index Ventures en Emergence."
+  },
+  {
+   "q": "Is Ando al beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. TechCrunch noemt geen lanceerdatum, prijs of beschikbaarheid in Europa."
+  }
+ ],
+ "slug": "ando-ai-app-nieuwe-berichtenapp-laat-mens-en-ai-agent-samenwerken",
+ "kind": "news",
+ "date": "2026-09-24",
+ "published": "2026-09-24T17:55",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+   "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/"
+  }
+ ],
+ "path": "/nieuws/ando-ai-app-nieuwe-berichtenapp-laat-mens-en-ai-agent-samenwerken/",
+ "og": "/img/og/ando-ai-app-nieuwe-berichtenapp-laat-mens-en-ai-agent-samenwerken.png"
+}

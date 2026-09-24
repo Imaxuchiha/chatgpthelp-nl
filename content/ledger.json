@@ -499,6 +499,18 @@
   "f6f486af34": {
    "at": "2026-09-24T12:11:53.123231",
    "why": "ok"
+  },
+  "6ffd8810ca": {
+   "at": "2026-09-24T17:53:42.426905",
+   "why": "ok"
+  },
+  "eb32233e29": {
+   "at": "2026-09-24T17:54:42.426905",
+   "why": "ok"
+  },
+  "be4c10b9fe": {
+   "at": "2026-09-24T17:55:42.426905",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -589,6 +601,9 @@
   "Odido-hackers zeggen FBI te hebben gehackt: wat nu?",
   "Meta Muse AI komt naar slimme bril en nieuwe wearable",
   "Australië boos: OpenAI AI krijgt toegang tot overheidswebsite",
-  "YouTube AI-tools nemen bijna al het werk van makers over"
+  "YouTube AI-tools nemen bijna al het werk van makers over",
+  "AI zonder fouten bouwen: TechCrunch Disrupt 2026",
+  "AI-agent internet afsluiten: waarom dat in de praktijk lastig is",
+  "Ando ai app: nieuwe berichtenapp laat mens en AI-agent samenwerken"
  ]
 }
