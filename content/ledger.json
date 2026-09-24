@@ -471,6 +471,34 @@
   "8476b2856b": {
    "at": "2026-09-23T21:40:17.010850",
    "why": "ok"
+  },
+  "795ccd23b3": {
+   "at": "2026-09-24T12:09:53.123231",
+   "why": "ok"
+  },
+  "3be0b47dbc": {
+   "at": "2026-09-24T12:09:53.123231",
+   "why": "ok"
+  },
+  "14d2985af4": {
+   "at": "2026-09-24T12:09:53.123231",
+   "why": "ok"
+  },
+  "5e14d39d2c": {
+   "at": "2026-09-24T12:10:53.123231",
+   "why": "poort"
+  },
+  "5c5964d493": {
+   "at": "2026-09-24T12:10:53.123231",
+   "why": "ok"
+  },
+  "12f84a1530": {
+   "at": "2026-09-24T12:11:53.123231",
+   "why": "poort"
+  },
+  "f6f486af34": {
+   "at": "2026-09-24T12:11:53.123231",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -558,6 +586,9 @@
   "AI-websites lijken allemaal op elkaar en dat werkt averechts",
   "OpenAI AI-agent Ringg lost tot 65% van klantvragen op",
   "GPT-6 Astra juridisch: Harvey maakt sterkere concepten",
-  "Odido-hackers zeggen FBI te hebben gehackt: wat nu?"
+  "Odido-hackers zeggen FBI te hebben gehackt: wat nu?",
+  "Meta Muse AI komt naar slimme bril en nieuwe wearable",
+  "Australië boos: OpenAI AI krijgt toegang tot overheidswebsite",
+  "YouTube AI-tools nemen bijna al het werk van makers over"
  ]
 }
