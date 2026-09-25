@@ -1,0 +1,73 @@
+{
+ "keyword": "gemini live avatar",
+ "seo_title": "Gemini Live Avatar: pratende AI met gezicht",
+ "title": "Gemini 3.8 Live krijgt een gezicht met Live Avatar",
+ "meta": "Google lanceert Gemini 3.8 Live met Live Avatar: een pratende AI met gezicht en lip-sync. Voorlopig alleen voor Gemini Enterprise-klanten.",
+ "category": "nieuws",
+ "tags": [
+  "gemini",
+  "google",
+  "ai",
+  "live avatar",
+  "deepmind"
+ ],
+ "intro": "Google heeft Gemini 3.8 Live uitgebracht, een update waarbij je met het taalmodel praat en tegelijk een geanimeerd AI-personage ziet meepraten. Het gezicht, Live Avatar genoemd, beweegt zijn lippen mee en wisselt van gezichtsuitdrukking. De functie is voorlopig alleen beschikbaar voor zakelijke klanten van Gemini Enterprise.",
+ "takeaways": [
+  "Gemini 3.8 Live combineert een gesprek met het model en een realtime animatie van een AI-personage.",
+  "Live Avatar synchoniseert lippen en toont verschillende gezichtsuitdrukkingen tijdens het praten.",
+  "De functie is nu alleen beschikbaar voor Gemini Enterprise-klanten, niet voor gewone gebruikers.",
+  "Volgens The Verge kan Live Avatar wisselen tussen meerdere stijlen of gedaanten."
+ ],
+ "sections": [
+  {
+   "heading": "Wat is Gemini 3.8 Live met Live Avatar",
+   "body": "Google heeft op 24 september 2026 een nieuwe versie van zijn AI-model aangekondigd: Gemini 3.8 Live met Live Avatar. Je voert een gesprek met het model en ziet tegelijk een geanimeerd personage dat reageert. Dat personage beweegt zijn lippen synchroon met wat er gezegd wordt en laat gezichtsuitdrukkingen zien. Volgens The Verge gaat het om een echt gesprek, niet om een vooraf opgenomen video.\n\nHet model is een update van Gemini Live, de spraakmodus die Google eerder introduceerde. Nieuw is dus vooral het visuele aspect: de AI krijgt een gezicht. Google DeepMind noemt de functie in zijn eigen aankondiging Live Avatar."
+  },
+  {
+   "heading": "Voorlopig alleen voor bedrijven",
+   "body": "De functie is nog niet voor iedereen. Live Avatar is op dit moment alleen beschikbaar voor klanten van Gemini Enterprise, de zakelijke variant van Google's AI-diensten. Gewone gebruikers van de gratis Gemini-app of van Google Workspace kunnen er dus nog niet mee werken. Wanneer dat verandert, is nog niet bekend.\n\nDat is een patroon dat vaker terugkomt bij Google: nieuwe AI-functies verschijnen eerst in de zakelijke omgeving en rollen daarna uit naar consumenten. The Verge meldt dat Live Avatar kan wisselen tussen verschillende gedaanten of stijlen, maar geeft geen volledige lijst."
+  },
+  {
+   "heading": "Wat het verschil is met een gewone chatbot",
+   "body": "Bij een tekstchatbot lees je antwoorden. Bij spraakmodellen zoals Gemini Live praat je met de AI. Live Avatar voegt daar een visuele laag aan toe: je ziet een personage dat reageert. Dat kan prettiger voelen bij langere gesprekken, bijvoorbeeld bij klantcontact of uitleg aan medewerkers.\n\nTegelijk roept het vragen op. Een pratend gezicht maakt de AI menselijker dan hij is. Het model blijft een taalmodel dat tekst voorspelt; het heeft geen gevoelens of bewustzijn. Voor bedrijven die de functie inzetten, is het belangrijk dat duidelijk blijft dat klanten met een AI praten en niet met een echt persoon."
+  },
+  {
+   "heading": "Hoe bijzonder is dit technisch",
+   "body": "Het laten samenvallen van lippen en spraak is technisch lastig. De audio en de animatie moeten vrijwel gelijk lopen, anders voelt het gesprek ongemakkelijk. Volgens The Verge doet Gemini 3.8 Live dat in realtime, tijdens het gesprek zelf.\n\nGoogle is niet het eerste bedrijf dat een pratende AI met gezicht laat zien. Wel is het een van de grootste partijen die zoiets in een zakelijk product stopt. Details over de techniek achter Live Avatar heeft Google nog niet volledig gedeeld."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die met Google werken, is Live Avatar voorlopig vooral iets om in de gaten te houden. De functie zit achter Gemini Enterprise, dat via Google Cloud wordt afgenomen. Nederlandse organisaties met zo'n contract kunnen mogelijk als een van de eersten testen. Voor gewone gebruikers in Nederland verandert er nu niets: de gratis Gemini-app krijgt Live Avatar nog niet. Let ook op de Europese AI-regels: een pratend AI-gezicht valt onder de transparantieverplichtingen van de AI-verordening, dus klanten moeten kunnen zien dat ze met een machine praten.",
+ "faq": [
+  {
+   "q": "Wat is Gemini Live Avatar?",
+   "a": "Een functie in Gemini 3.8 Live waarbij je een gesprek voert met het AI-model en tegelijk een geanimeerd personage ziet dat meepraat, met lip-sync en gezichtsuitdrukkingen."
+  },
+  {
+   "q": "Kan ik Live Avatar in Nederland gebruiken?",
+   "a": "Voorlopig niet als gewone gebruiker. De functie is alleen beschikbaar voor klanten van Gemini Enterprise, de zakelijke variant van Google."
+  },
+  {
+   "q": "Wanneer komt Live Avatar voor iedereen?",
+   "a": "Dat is nog niet bekend. Google heeft geen datum genoemd voor uitrol naar consumenten."
+  }
+ ],
+ "slug": "gemini-3-8-live-krijgt-een-gezicht-met-live-avatar",
+ "kind": "news",
+ "date": "2026-09-25",
+ "published": "2026-09-25T12:16",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+   "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
+  },
+  {
+   "name": "Google DeepMind",
+   "title": "Introducing Gemini 3.8 Live with Live Avatar",
+   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
+  }
+ ],
+ "path": "/nieuws/gemini-3-8-live-krijgt-een-gezicht-met-live-avatar/",
+ "og": "/img/og/gemini-3-8-live-krijgt-een-gezicht-met-live-avatar.png",
+ "take": "Een pratende kop met lip-sync is precies het soort demo waar ik niets mee kan tot ik zie wat het op een echt account oplevert. Google zet het achter Gemini Enterprise, dus voor het MKB in Nederland is het voorlopig niet eens te koop, en dan houdt het voor mij op. Ik hou het bij modellen die zich direct terugverdienen, want een gezicht erbij verkoopt nog geen extra omzet."
+}

@@ -543,6 +543,30 @@
   "b848899f89": {
    "at": "2026-09-24T21:59:30.322954",
    "why": "ok"
+  },
+  "ee9698a7fd": {
+   "at": "2026-09-25T12:16:21.661938",
+   "why": "ok"
+  },
+  "91625e27c9": {
+   "at": "2026-09-25T12:16:21.661938",
+   "why": "ok"
+  },
+  "59f1aa90ff": {
+   "at": "2026-09-25T12:17:21.661938",
+   "why": "poort"
+  },
+  "0d0673a437": {
+   "at": "2026-09-25T12:17:21.661938",
+   "why": "poort"
+  },
+  "0dcf050e48": {
+   "at": "2026-09-25T12:17:21.661938",
+   "why": "ok"
+  },
+  "14475aa6ed": {
+   "at": "2026-09-25T12:18:21.661938",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -639,6 +663,9 @@
   "Ando ai app: nieuwe berichtenapp laat mens en AI-agent samenwerken",
   "Meta laat je games maken met AI op je telefoon",
   "Meta Muse Charm: AI-hanger die lijkt op Tamagotchi",
-  "Google Photos virtuele kledingkast nu op iOS en Android"
+  "Google Photos virtuele kledingkast nu op iOS en Android",
+  "Gemini 3.8 Live krijgt een gezicht met Live Avatar",
+  "Microsoft stopt met Copilot + pc-merk vanwege slecht imago",
+  "Google test Gemini Live Avatar voor klantenservice met nepmensen"
  ]
 }
