@@ -1,0 +1,67 @@
+{
+ "keyword": "codex voor bedrijven",
+ "seo_title": "Codex voor bedrijven: Proaction verkoopt 60% meer",
+ "title": "Codex voor bedrijven: Proaction verkoopt 60% meer en bespaart 75 uur",
+ "meta": "OpenAI meldt dat Proaction met Codex, GPT-Live-1 en GPT-6 Astra 60% meer verkoopt en ruim 75 uur bespaart. Wat betekent dat voor Nederlandse bedrijven?",
+ "category": "nieuws",
+ "tags": [
+  "codex",
+  "openai",
+  "gpt-6 astra",
+  "fleetmanagement",
+  "automatisering"
+ ],
+ "intro": "OpenAI heeft een klantverhaal gepubliceerd over Proaction, een bedrijf dat software maakt voor wagenparkbeheer. Met Codex, GPT-Live-1 en GPT-6 Astra bouwt, beheert en verkoopt Proaction zijn product sneller. Volgens OpenAI levert dat 60% meer omzet op en bespaart het team meer dan 75 uur per jaar.",
+ "takeaways": [
+  "Proaction gebruikt Codex, GPT-Live-1 en GPT-6 Astra voor bouwen, beheren en verkopen.",
+  "Volgens OpenAI groeide de omzet met 60%.",
+  "Het bedrijf bespaart meer dan 75 uur per jaar.",
+  "Het gaat om moderne software voor wagenparkbeheer."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies meldt",
+   "body": "OpenAI beschrijft Proaction als een bedrijf dat moderne fleetmanagement-software maakt. Fleetmanagement is het beheren van een wagenpark: denken aan onderhoud, ritten, kosten en planning van voertuigen. Proaction gebruikt drie AI-producten van OpenAI: Codex, GPT-Live-1 en GPT-6 Astra.\n\nCodex zet het bedrijf in bij het bouwen van software. GPT-Live-1 en GPT-6 Astra helpen volgens OpenAI bij het draaien van het product en bij verkoop. OpenAI noemt geen bedragen in euro's en zegt niet hoeveel mensen er bij Proaction werken. Ook is niet duidelijk over welke periode de 60% omzetgroei gaat."
+  },
+  {
+   "heading": "Bouwen, beheren en verkopen in één verhaal",
+   "body": "Opvallend is dat OpenAI de drie tools niet als losse producten neerzet. Ze worden samen gebruikt in het hele proces: van code schrijven tot klanten helpen. Dat past bij een bredere beweging waarbij AI niet alleen teksten schrijft, maar ook meewerkt aan software en bedrijfsprocessen.\n\nVoor softwareteams betekent dit dat Codex vooral het ontwikkelwerk versnelt. GPT-Live-1 en GPT-6 Astra lijken meer op de voorkant te zitten: contact met klanten, uitleg en verkoop. OpenAI geeft in het bericht geen technische details over hoe dat precies werkt."
+  },
+  {
+   "heading": "Wat 75 uur besparing betekent",
+   "body": "Volgens OpenAI bespaart Proaction meer dan 75 uur. Het bericht zegt niet of dat per persoon, per team of per jaar is. Zulke cijfers komen vaak uit een klantverhaal en zijn niet onafhankelijk gecontroleerd. Toch geeft het een indicatie van waar bedrijven de winst zoeken: minder handmatig werk, sneller code en minder tijd kwijt aan terugkerende taken.\n\nVoor Nederlandse bedrijven is dat herkenbaar. Veel teams worstelen met te weinig developers en veel administratie. AI-tools beloven daar verlichting, maar de praktijk hangt af van hoe goed je processen al op orde zijn."
+  },
+  {
+   "heading": "Fleetmanagement en AI",
+   "body": "Fleetmanagement is in Nederland een serieuze markt. Denk aan leasebedrijven, transporteurs, gemeenten en installatiebedrijven met busjes. Zij willen weten waar voertuigen zijn, wanneer onderhoud nodig is en wat een rit kost. Software die dat regelt, kan veel tijd schelen.\n\nAI kan daarbij helpen door data te ordenen, vragen te beantwoorden en teksten te maken. OpenAI noemt Proaction als voorbeeld, maar geeft geen lijst met andere klanten. Of deze aanpak breder werkt, is dus nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven is dit vooral een signaal dat AI-tools steeds vaker samen worden gebruikt in plaats van los. Codex voor ontwikkeling, GPT-Live-1 en GPT-6 Astra voor klantcontact en verkoop. Let wel: de cijfers komen van OpenAI zelf en zijn niet onafhankelijk getoetst. Wil je zoiets in Nederland invoeren, kijk dan eerst naar de AVG, de rol van persoonsgegevens in wagenparkbeheer en de kosten per gebruiker. OpenAI noemt geen prijzen in euro's of beschikbaarheid in de EU.",
+ "faq": [
+  {
+   "q": "Wat is Codex van OpenAI?",
+   "a": "Codex is een AI-tool van OpenAI die helpt bij het schrijven en aanpassen van code. In dit verhaal gebruikt Proaction het bij het bouwen van fleetmanagement-software."
+  },
+  {
+   "q": "Wat is GPT-6 Astra?",
+   "a": "GPT-6 Astra is een model van OpenAI dat in het klantverhaal van Proaction wordt genoemd. OpenAI geeft in dit bericht geen details over de mogelijkheden of prijs."
+  },
+  {
+   "q": "Is dit ook beschikbaar in Nederland?",
+   "a": "OpenAI zegt hier niets over beschikbaarheid in Nederland of de EU. De genoemde cijfers gaan over Proaction en zijn niet onafhankelijk gecontroleerd."
+  }
+ ],
+ "slug": "codex-voor-bedrijven-proaction-verkoopt-60-meer-en-bespaart-75-uur",
+ "kind": "news",
+ "date": "2026-09-25",
+ "published": "2026-09-25T22:00",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+   "url": "https://openai.com/index/proaction"
+  }
+ ],
+ "path": "/nieuws/codex-voor-bedrijven-proaction-verkoopt-60-meer-en-bespaart-75-uur/",
+ "og": "/img/og/codex-voor-bedrijven-proaction-verkoopt-60-meer-en-bespaart-75-uur.png"
+}

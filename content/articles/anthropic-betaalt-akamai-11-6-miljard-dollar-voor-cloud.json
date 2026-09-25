@@ -1,0 +1,64 @@
+{
+ "keyword": "anthropic akamai deal",
+ "seo_title": "Anthropic akamai deal: 11,6 miljard voor cloud",
+ "title": "Anthropic betaalt Akamai 11,6 miljard dollar voor cloud",
+ "meta": "Anthropic legt 11,6 miljard dollar vast bij Akamai voor cloudcapaciteit. Wat betekent dat voor AI-gebruikers en bedrijven in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "anthropic",
+  "akamai",
+  "cloud",
+  "ai-infrastructuur",
+  "claude"
+ ],
+ "intro": "Anthropic heeft een clouddeal gesloten met Akamai van 11,6 miljard dollar over zeven jaar. Dat meldt TechCrunch. Het is een opvallende keuze: Akamai draait vooral op cpu's, niet op de gpu's die AI-bedrijven normaal gebruiken. De afspraak kan oplopen tot ongeveer 20 miljard dollar.",
+ "takeaways": [
+  "Anthropic betaalt Akamai 11,6 miljard dollar over zeven jaar, met een mogelijke groei naar circa 20 miljard.",
+  "Akamai krijgt een belang van maximaal 5 procent in eigen aandelen aan Anthropic, dat groeit naarmate er meer wordt uitgegeven.",
+  "De deal draait op cpu-capaciteit, een andere route dan de gpu-clusters die de meeste AI-modellen gebruiken.",
+  "De overeenkomst loopt zeven jaar en is daarmee een van de grootste cloudcontracten in de AI-sector."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies is afgesproken",
+   "body": "Volgens TechCrunch legt Anthropic 11,6 miljard dollar vast bij Akamai. De betalingen lopen over zeven jaar. In het contract staat ruimte om te groeien naar ongeveer 20 miljard dollar als Anthropic meer capaciteit afneemt.\n\nOpvallend is de aandelenconstructie. Akamai geeft Anthropic een belang van maximaal 5 procent van zijn eigen aandelen. Dat belang groeit mee met wat Anthropic uitgeeft. Zulke afspraken zie je niet vaak: een klant die betaalt en tegelijk aandelen in de leverancier krijgt.\n\nAkamai is van oorsprong bekend van contentdistributie en beveiliging. Het bedrijf bouwt al langer aan clouddiensten voor bedrijven. Met deze deal krijgt die tak een grote klant."
+  },
+  {
+   "heading": "Waarom cpu's en niet gpu's",
+   "body": "De meeste AI-modellen worden getraind en gedraaid op gpu's, de grafische processors van Nvidia en anderen. Akamai levert vooral cpu-capaciteit. Dat is de gewone rekenkracht waarop servers draaien.\n\nToch kan dat logisch zijn. Niet elke AI-taak vraagt om zware gpu's. Denk aan het verwerken van verzoeken, het draaien van kleinere modellen, beveiliging en dataverkeer. Daar zijn cpu's vaak goedkoper en zuiniger.\n\nTechCrunch noemt de keuze een gok op cpu's. Of die gok goed uitpakt, is nog niet bekend. Anthropic heeft zelf nog geen details gegeven over welke workloads naar Akamai gaan."
+  },
+  {
+   "heading": "De wedloop om rekenkracht",
+   "body": "AI-bedrijven leggen steeds vaker meerjarige contracten vast om zeker te zijn van rekenkracht. Rekenkracht is schaars en duur. Wie te laat is, kan minder snel nieuwe modellen uitrollen.\n\nAnthropic maakt met Claude rechtstreeks concurrentie met ChatGPT van OpenAI en met Gemini van Google. Alle drie hebben ze veel servers nodig. Een deel huren ze in bij cloudpartijen, een deel bouwen ze zelf.\n\nDe deal met Akamai laat zien dat er naast de grote clouds ruimte is voor andere spelers. Voor Akamai is dit een kans om zich steviger in de AI-markt te positioneren."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers verandert er vandaag weinig aan Claude zelf. De prijs en beschikbaarheid blijven voorlopig zoals ze zijn. Wel is dit een signaal dat AI-bedrijven hun rekenkracht voor jaren vooruit vastleggen. Dat kan betekenen dat de kosten van AI-diensten minder snel dalen dan gehoopt, omdat dure contracten moeten worden terugverdiend. Nederlandse bedrijven die Claude of vergelijkbare tools inzetten, doen er goed aan om hun afhankelijkheid van één leverancier te spreiden. Ook is nog niet duidelijk of de extra capaciteit in Europa komt te staan; dat is belangrijk voor dataopslag en privacyregels onder de AVG.",
+ "faq": [
+  {
+   "q": "wat kost de deal tussen Anthropic en Akamai?",
+   "a": "Volgens TechCrunch betaalt Anthropic 11,6 miljard dollar over zeven jaar. Het bedrag kan groeien naar ongeveer 20 miljard dollar als er meer capaciteit wordt afgenomen."
+  },
+  {
+   "q": "krijgt Anthropic aandelen van Akamai?",
+   "a": "Ja, in een ongebruikelijke constructie krijgt Anthropic een belang van maximaal 5 procent in Akamai. Dat belang groeit naarmate Anthropic meer uitgeeft."
+  },
+  {
+   "q": "verandert er iets aan Claude in Nederland?",
+   "a": "Nee, voorlopig niet. De deal gaat over rekenkracht achter de schermen. Prijzen en beschikbaarheid van Claude blijven voor zover bekend hetzelfde."
+  }
+ ],
+ "bron": "TechCrunch",
+ "slug": "anthropic-betaalt-akamai-11-6-miljard-dollar-voor-cloud",
+ "kind": "news",
+ "date": "2026-09-25",
+ "published": "2026-09-25T22:01",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+   "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
+  }
+ ],
+ "path": "/nieuws/anthropic-betaalt-akamai-11-6-miljard-dollar-voor-cloud/",
+ "og": "/img/og/anthropic-betaalt-akamai-11-6-miljard-dollar-voor-cloud.png"
+}
