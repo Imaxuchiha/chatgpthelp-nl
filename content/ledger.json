@@ -567,6 +567,22 @@
   "14475aa6ed": {
    "at": "2026-09-25T12:18:21.661938",
    "why": "ok"
+  },
+  "1f14fef7c2": {
+   "at": "2026-09-25T17:55:16.155157",
+   "why": "poort"
+  },
+  "637d4699a5": {
+   "at": "2026-09-25T17:55:16.155157",
+   "why": "ok"
+  },
+  "6adb903e82": {
+   "at": "2026-09-25T17:56:16.155157",
+   "why": "ok"
+  },
+  "4fb7b8b01c": {
+   "at": "2026-09-25T17:57:16.155157",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -666,6 +682,9 @@
   "Google Photos virtuele kledingkast nu op iOS en Android",
   "Gemini 3.8 Live krijgt een gezicht met Live Avatar",
   "Microsoft stopt met Copilot + pc-merk vanwege slecht imago",
-  "Google test Gemini Live Avatar voor klantenservice met nepmensen"
+  "Google test Gemini Live Avatar voor klantenservice met nepmensen",
+  "Rogue AI-aanvallen: agents van grote AI-bedrijven gaan mis",
+  "Anthropic geeft oprichters 50,1% stemrecht voor beursgang",
+  "AI ontwerpt chips: waar staan we in 2026?"
  ]
 }

@@ -1,0 +1,68 @@
+{
+ "keyword": "ai ontwerpt chips",
+ "seo_title": "AI ontwerpt chips: waar staan we in 2026?",
+ "title": "AI ontwerpt chips: waar staan we in 2026?",
+ "meta": "Op TechCrunch Disrupt 2026 praten twee oprichters over AI die eigen chips ontwerpt. Wat betekent dat voor Nederland en de chipindustrie?",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "chips",
+  "halfgeleiders",
+  "techcrunch",
+  "ontwerp"
+ ],
+ "intro": "Tijdens TechCrunch Disrupt 2026 staan Anna Goldie en Azalia Mirhoseini op het podium. Zij zijn medeoprichter van Ricursive Intelligence en praten daar over de vraag wanneer AI zelf chips gaat ontwerpen. TechCrunch meldt dat het gesprek gaat over het sluiten van de lus tussen AI en chipontwikkeling.",
+ "takeaways": [
+  "Anna Goldie en Azalia Mirhoseini zijn medeoprichter van Ricursive Intelligence.",
+  "Zij spreken op het Disrupt-podium van TechCrunch Disrupt 2026.",
+  "Het onderwerp is de wisselwerking tussen AI en het ontwerpen van chips.",
+  "TechCrunch noemt het sluiten van de lus tussen AI en chipontwikkeling."
+ ],
+ "sections": [
+  {
+   "heading": "Wie spreken er op Disrupt 2026?",
+   "body": "TechCrunch Disrupt is een jaarlijks technologie-evenement van TechCrunch. In 2026 staan Anna Goldie en Azalia Mirhoseini op het zogeheten Disrupt Stage. Zij zijn de medeoprichters van Ricursive Intelligence.\n\nHet evenement richt zich op startups, investeerders en technici. Een plek op het hoofdpodium betekent meestal dat het onderwerp belangrijk genoeg is voor een breed publiek. TechCrunch besteedt er vooraf aandacht aan in zijn programma-aankondiging."
+  },
+  {
+   "heading": "Waar gaat het gesprek over?",
+   "body": "Het centrale thema is de vraag wanneer AI zelf hardware gaat ontwerpen. TechCrunch omschrijft het als het sluiten van de lus tussen AI en chipontwikkeling. Daarmee bedoelen ze dat AI niet alleen chips gebruikt, maar ook meedenkt over het ontwerp ervan.\n\nChipontwerp is van oudsher mensenwerk. Ingenieurs bepalen waar rekenkracht, geheugen en verbindingen komen te zitten. AI kan daarbij helpen door snel veel varianten te vergelijken. De vraag is hoe ver die rol gaat: van hulpmiddel tot zelfstandige ontwerper.\n\nRicursive Intelligence is een bedrijf dat zich met dit onderwerp bezighoudt. Meer details over hun aanpak geeft TechCrunch in deze aankondiging niet."
+  },
+  {
+   "heading": "Waarom is dit een gevoelig onderwerp?",
+   "body": "Chips zijn de basis van bijna alle digitale producten. Wie het ontwerp sneller en goedkoper maakt, krijgt invloed op de hele keten. Tegelijk kleven er vragen aan: wie controleert een ontwerp dat door AI is gemaakt, en wie is verantwoordelijk als er iets misgaat?\n\nOok speelt mee dat de chipwereld sterk verdeeld is over landen. De Verenigde Staten, China, Taiwan en Europa hebben allemaal eigen belangen. Technologie die het ontwerpproces versnelt, raakt daardoor al snel ook politiek."
+  },
+  {
+   "heading": "Wat weten we nog niet?",
+   "body": "TechCrunch geeft in de aankondiging geen concrete cijfers, data of resultaten. Er is nog niet bekend wat Ricursive Intelligence precies heeft gebouwd of getest. Ook is niet duidelijk wanneer het gesprek plaatsvindt en of er nieuwe aankondigingen komen.\n\nDe aankondiging noemt verder een kortingsactie op passe-partouts voor het evenement. Dat is promotie en zegt niets over de inhoud van het gesprek."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral relevant via ASML en de toeleveringsketen eromheen. ASML bouwt machines die chips maken, en het ontwerp bepaalt welke machines en processen nodig zijn. Als AI het ontwerpen van chips sneller maakt, kan dat de vraag naar bepaalde machines en kennis veranderen. Nederlandse bedrijven en kennisinstellingen die aan chipontwerp werken, krijgen daarmee een extra reden om dit onderwerp te volgen. Concrete gevolgen voor Nederland zijn nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is Ricursive Intelligence?",
+   "a": "Ricursive Intelligence is een bedrijf van Anna Goldie en Azalia Mirhoseini. TechCrunch noemt hen als sprekers op Disrupt 2026, maar geeft verder weinig details over het bedrijf."
+  },
+  {
+   "q": "Wat betekent het als AI chips ontwerpt?",
+   "a": "Dan gebruikt AI niet alleen chips, maar helpt het ook bij het bepalen van het ontwerp ervan. Denk aan het vergelijken van varianten en het plaatsen van rekenkracht en geheugen."
+  },
+  {
+   "q": "Wat merkt Nederland hiervan?",
+   "a": "Nederland is belangrijk in de chipketen, onder meer via ASML. Veranderingen in chipontwerp kunnen op termijn de vraag naar machines en ontwerpkennis beïnvloeden. Concrete gevolgen zijn nog niet bekend."
+  }
+ ],
+ "slug": "ai-ontwerpt-chips-waar-staan-we-in-2026",
+ "kind": "news",
+ "date": "2026-09-25",
+ "published": "2026-09-25T17:57",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+   "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"
+  }
+ ],
+ "path": "/nieuws/ai-ontwerpt-chips-waar-staan-we-in-2026/",
+ "og": "/img/og/ai-ontwerpt-chips-waar-staan-we-in-2026.png",
+ "take": "Ik heb nog nooit een chip ontworpen en dat ga ik ook niet doen, dus of Ricursive dit echt voor elkaar krijgt kan ik niet beoordelen. Wat ik wel weet: een demo op een podium is geen product, en voor mij geldt dezelfde regel als bij elke AI-tool. Laat eerst zien dat het op een echt ontwerp tijd of geld scheelt dat je kunt aanwijzen, dan praten we verder."
+}
