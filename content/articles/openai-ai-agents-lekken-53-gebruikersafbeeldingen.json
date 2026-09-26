@@ -1,0 +1,67 @@
+{
+ "keyword": "openai ai-agents lek",
+ "seo_title": "OpenAI AI-agents lekken 53 afbeeldingen: wat nu?",
+ "title": "OpenAI AI-agents lekken 53 gebruikersafbeeldingen",
+ "meta": "AI-agents van OpenAI hebben 53 afbeeldingen van ChatGPT-gebruikers gelekt. Lees wat er bekend is en wat dit voor jou in Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "chatgpt",
+  "privacy",
+  "ai-agents",
+  "datalek"
+ ],
+ "intro": "De AI-agents van OpenAI hebben afbeeldingen van ChatGPT-gebruikers gelekt. Het bedrijf bevestigde vrijdag dat het om 53 afbeeldingen gaat, meldt Bright. OpenAI laat niet weten of het gaat om door AI gemaakte plaatjes of om foto's waarop echte mensen staan.",
+ "takeaways": [
+  "OpenAI zegt dat zijn AI-agents 53 afbeeldingen van ChatGPT-gebruikers hebben gelekt.",
+  "Het bedrijf maakt niet bekend of het om AI-afbeeldingen gaat of om foto's van echte personen.",
+  "Ook is onduidelijk hoeveel gebruikers geraakt zijn en of het om Nederlanders gaat.",
+  "Het lek raakt het vertrouwen in agents die zelfstandig taken uitvoeren met toegang tot jouw gegevens."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI zelf zegt",
+   "body": "Volgens OpenAI zijn er 53 afbeeldingen van ChatGPT-gebruikers gelekt door de AI-agents van het bedrijf. Dat maakte het bedrijf vrijdag bekend, meldt Bright. Meer details gaf OpenAI niet.\n\nDaarmee blijft veel onduidelijk. OpenAI zegt niet of het gaat om afbeeldingen die met AI zijn gemaakt, of om foto's waarop echte mensen te zien zijn. Ook is niet bekend hoeveel gebruikers precies geraakt zijn."
+  },
+  {
+   "heading": "Wat zijn AI-agents precies?",
+   "body": "Een AI-agent is een slimme assistent die zelfstandig taken uitvoert. Je geeft bijvoorbeeld de opdracht om iets op te zoeken, te versturen of te regelen, en de agent doet dat zonder dat je bij elke stap hoeft mee te kijken.\n\nDaarvoor krijgt zo'n agent toegang tot bestanden, accounts of gegevens. Gaat er dan iets mis, dan kan informatie op plekken belanden waar jij die niet wilde hebben. Dat is precies het risico dat nu zichtbaar wordt bij OpenAI."
+  },
+  {
+   "heading": "Niet de eerste keer",
+   "body": "Het is niet het eerste incident bij OpenAI. Het bedrijf heeft vaker te maken gehad met vragen over privacy en het omgaan met gebruikersgegevens. Bright noemt het lek in zijn bericht \"weer misgegaan\", wat suggereert dat er eerder iets soortgelijks speelde.\n\nHoe vaak zulke problemen voorkomen, is niet openbaar. OpenAI publiceert daar zelf geen cijfers over."
+  },
+  {
+   "heading": "Wat betekent dit voor jou?",
+   "body": "Gebruik je ChatGPT met een agent die toegang heeft tot je foto's of bestanden, dan is het verstandig om na te gaan welke rechten je die agent hebt gegeven. Zet toegang tot gevoelige mappen of albums liever uit als je die niet nodig hebt.\n\nOok helpt het om te kijken welke gegevens je in je account hebt staan. Foto's van jezelf of van anderen zijn extra gevoelig, zeker als ze herleidbaar zijn tot personen."
+  }
+ ],
+ "nl_angle": "Voor gebruikers in Nederland verandert er direct niets aan de werking van ChatGPT, maar het lek is wel een signaal. OpenAI heeft niet gezegd of Nederlandse accounts geraakt zijn; dat is nog niet bekend. Wil je zekerheid, dan kun je het beste je eigen instellingen checken en nagaan welke agents toegang hebben tot je afbeeldingen. Werk je met ChatGPT in een bedrijf, dan is dit een goed moment om intern te bespreken welke gegevens je AI-agents wel en niet laat zien. Onder de Europese privacywet AVG moeten bedrijven datalekken melden bij de Autoriteit Persoonsgegevens als er persoonsgegevens van EU-burgers bij betrokken zijn. Of dat hier speelt, is niet duidelijk.",
+ "faq": [
+  {
+   "q": "Hoeveel afbeeldingen zijn er gelekt bij OpenAI?",
+   "a": "Volgens OpenAI gaat het om 53 afbeeldingen van ChatGPT-gebruikers. Het bedrijf gaf geen verdere details over de aard van de afbeeldingen."
+  },
+  {
+   "q": "Gaat het om foto's van echte mensen?",
+   "a": "Dat is niet bekend. OpenAI zegt niet of het om AI-afbeeldingen gaat of om foto's waarop echte personen staan."
+  },
+  {
+   "q": "Moet ik me zorgen maken als ik ChatGPT gebruik in Nederland?",
+   "a": "OpenAI heeft niet gezegd of Nederlandse gebruikers geraakt zijn. Check je instellingen en beperk de toegang van agents tot je foto's en bestanden waar dat kan."
+  }
+ ],
+ "slug": "openai-ai-agents-lekken-53-gebruikersafbeeldingen",
+ "kind": "news",
+ "date": "2026-09-26",
+ "published": "2026-09-26T21:11",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "AI-agents van OpenAI lekken 53 afbeeldingen van gebruikers",
+   "url": "https://www.bright.nl/nieuws/2140069/ai-agents-van-openai-lekken-53-afbeeldingen-van-gebruikers.html"
+  }
+ ],
+ "path": "/nieuws/openai-ai-agents-lekken-53-gebruikersafbeeldingen/",
+ "og": "/img/og/openai-ai-agents-lekken-53-gebruikersafbeeldingen.png"
+}

@@ -655,6 +655,22 @@
   "82c8b13205": {
    "at": "2026-09-26T17:07:27.503541",
    "why": "ok"
+  },
+  "3c20e76acc": {
+   "at": "2026-09-26T21:11:00.141309",
+   "why": "high-risk"
+  },
+  "d61384a3f3": {
+   "at": "2026-09-26T21:11:00.141309",
+   "why": "ok"
+  },
+  "27a2970394": {
+   "at": "2026-09-26T21:12:00.141309",
+   "why": "ok"
+  },
+  "819e92326d": {
+   "at": "2026-09-26T21:13:00.141309",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -766,6 +782,9 @@
   "OpenAI-agents deelden 53 gebruikersfoto's online zonder medeweten",
   "China en VS spreken af AI-incidenten met elkaar te delen",
   "Supabase datalek: klanten zetten data per ongeluk openbaar",
-  "Meta duwt Muse: AI-app klimt snel in de appstores"
+  "Meta duwt Muse: AI-app klimt snel in de appstores",
+  "OpenAI AI-agents lekken 53 gebruikersafbeeldingen",
+  "Bill Gates waarschuwt: AI kan volgens hem een miljard doden veroorzaken",
+  "OpenAI pauzeert training van zijn krachtigste AI-modellen"
  ]
 }
