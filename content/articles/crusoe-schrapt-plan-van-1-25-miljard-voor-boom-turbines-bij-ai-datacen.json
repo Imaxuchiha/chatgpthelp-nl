@@ -1,0 +1,63 @@
+{
+ "keyword": "ai datacenters stroom",
+ "seo_title": "AI-datacenters stroom: Crusoe schrapt plan van $1,25 miljard",
+ "title": "Crusoe schrapt plan van $1,25 miljard voor Boom-turbines bij AI-datacenters",
+ "meta": "Crusoe zet een plan van 1,25 miljard dollar voor Boom-turbines bij AI-datacenters stop. Wat betekent dat voor stroom en rekenkracht in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "ai-datacenters",
+  "energie",
+  "crusoe",
+  "boom supersonic",
+  "stroomnet"
+ ],
+ "intro": "Crusoe heeft een plan van 1,25 miljard dollar geschrapt om turbines van Boom Supersonic te gebruiken voor stroom bij AI-datacenters. Topman Blake Scholl van Boom zegt dat de nieuwe energiecentrales niet meer in de plannen van Crusoe passen. Het besluit raakt de vraag hoe AI-rekenkracht aan stroom komt.",
+ "takeaways": [
+  "Crusoe laat een plan van 1,25 miljard dollar voor Boom-turbines vallen.",
+  "Boom-topman Blake Scholl zegt dat de centrales niet meer in Crusoe's korte termijnplannen zitten.",
+  "AI-datacenters vragen veel stroom, en dat maakt de energievoorziening een knelpunt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Crusoe precies laat vallen",
+   "body": "Crusoe wilde voor 1,25 miljard dollar turbines van Boom Supersonic inzetten bij AI-datacenters. Die turbines zijn geen vliegtuigmotoren, maar vaste energiecentrales op de grond. Ze zouden stroom moeten leveren aan datacenters die veel rekenkracht draaien.\n\nVolgens TechCrunch zegt Blake Scholl, de topman van Boom Supersonic, dat de nieuwe centrales niet meer in de korte termijnplannen van Crusoe zitten. Daarmee vervalt voorlopig een grote order voor Boom. Hoeveel turbines het precies ging en welke locaties er in beeld waren, is niet bekendgemaakt."
+  },
+  {
+   "heading": "Waarom AI-datacenters zoveel stroom nodig hebben",
+   "body": "AI-modellen trainen en draaien kost veel elektriciteit. Grote datacenters met duizenden chips vragen continu stroom, en die vraag groeit. Daardoor zoeken bedrijven naar manieren om zelf energie op te wekken of langdurige contracten af te sluiten.\n\nCrusoe is een van de partijen die zich richt op stroom voor datacenters. Het bedrijf koos eerder voor een aanpak met eigen opwek, in plaats van volledig afhankelijk te zijn van het bestaande net. Het plan met Boom paste in die strategie. Nu dat plan wegvalt, moet Crusoe op zoek naar andere oplossingen."
+  },
+  {
+   "heading": "Wat dit zegt over de markt voor stroom",
+   "body": "Het besluit laat zien dat plannen voor stroom bij AI-datacenters niet vanzelf doorgaan. Zelfs een bedrag van 1,25 miljard dollar is geen garantie dat een project doorgaat. Bedrijven wegen kosten, techniek en timing af.\n\nVoor Boom Supersonic betekent het dat de verkoop van vaste centrales nog niet loopt zoals gehoopt. Het bedrijf is vooral bekend van zijn werk aan een nieuw supersonisch vliegtuig. De stap naar energiecentrales was een nieuwe tak. Of Boom die tak houdt, is nog niet duidelijk."
+  }
+ ],
+ "nl_angle": "Nederland krijgt steeds meer datacenters, en die vragen veel stroom. Netbeheerder en overheid waarschuwen al langer dat het stroomnet vol raakt. Als grote partijen zoals Crusoe hun eigen opwek niet rondkrijgen, kan dat de groei van AI-rekenkracht in Europa vertragen. Voor Nederlandse bedrijven betekent dit vooral: houd rekening met wachttijden en kosten voor stroom, en kijk of je werk naar regio's met ruimte kunt verplaatsen.",
+ "faq": [
+  {
+   "q": "Wat is Crusoe voor bedrijf?",
+   "a": "Crusoe is een bedrijf dat zich richt op stroom en infrastructuur voor datacenters, waaronder AI-rekenkracht. Het koos eerder voor eigen opwek in plaats van alleen het gewone stroomnet."
+  },
+  {
+   "q": "Wat maakt Boom Supersonic?",
+   "a": "Boom Supersonic werkt vooral aan een supersonisch passagiersvliegtuig. Daarnaast ontwikkelt het bedrijf vaste energiecentrales, die het aan datacenters wilde leveren."
+  },
+  {
+   "q": "Wat betekent dit voor AI in Nederland?",
+   "a": "Direct verandert er weinig, want het gaat om een Amerikaans project. Wel laat het zien dat stroom een knelpunt is voor AI-datacenters, ook in Nederland en de rest van Europa."
+  }
+ ],
+ "slug": "crusoe-schrapt-plan-van-1-25-miljard-voor-boom-turbines-bij-ai-datacen",
+ "kind": "news",
+ "date": "2026-09-26",
+ "published": "2026-09-26T11:57",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+   "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+  }
+ ],
+ "path": "/nieuws/crusoe-schrapt-plan-van-1-25-miljard-voor-boom-turbines-bij-ai-datacen/",
+ "og": "/img/og/crusoe-schrapt-plan-van-1-25-miljard-voor-boom-turbines-bij-ai-datacen.png",
+ "take": "Een plan van 1,25 miljard dollar voor turbines bij AI-datacenters wordt gewoon geschrapt omdat het niet meer past. Dat is eerlijk gezegd het enige eerlijke signaal in dit verhaal: liever nu stoppen dan een energiecentrale neerzetten die nergens op aansluit. Al die aankondigingen over rekenkracht en stroom zijn voor mij gebakken lucht tot er echt iets staat, en een demo of persbericht is nog geen product."
+}

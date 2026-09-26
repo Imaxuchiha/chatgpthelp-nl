@@ -1,0 +1,67 @@
+{
+ "keyword": "ai oplichting bank",
+ "seo_title": "AI-oplichting bank: 95 miljoen euro gestolen",
+ "title": "AI-oplichters stelen 95 miljoen euro van Italiaanse bank",
+ "meta": "Oplichters gebruikten AI om topmannen na te bootsen en stalen 95 miljoen euro van Intesa Sanpaolo. Zo werkt deze truc en dit betekent het voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ai-oplichting",
+  "fraude",
+  "deepfake",
+  "bankieren",
+  "intesa sanpaolo"
+ ],
+ "intro": "Oplichters hebben in februari 95 miljoen euro buitgemaakt bij Intesa Sanpaolo, de grootste bank van Italië. Ze deden zich met kunstmatige intelligentie voor als topmannen van het bedrijf. Ruim de helft van het geld is teruggehaald, maar ongeveer 36 miljoen euro is nog altijd spoorloos, meldt NU.nl Tech.",
+ "takeaways": [
+  "Oplichters stalen 95 miljoen euro van de Italiaanse bank Intesa Sanpaolo.",
+  "Ze gebruikten AI om de identiteit van topmannen na te bootsen.",
+  "Ongeveer 36 miljoen euro is nog niet teruggevonden.",
+  "De fraude gebeurde al in februari 2026 en werd deze week bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies gebeurde",
+   "body": "De oplichters richtten zich op Intesa Sanpaolo, de grootste bank van Italië. Volgens NU.nl Tech deden ze zich voor als leidinggevenden van het bedrijf. Daarvoor gebruikten ze kunstmatige intelligentie, waarmee ze stem en beeld van echte topmannen konden nabootsen.\n\nMet die nep-identiteit wisten ze medewerkers zover te krijgen dat er geld werd overgemaakt. In totaal ging het om 95 miljoen euro. Een groot deel daarvan, iets meer dan de helft, is inmiddels teruggehaald. Zo'n 36 miljoen euro is nog altijd verdwenen.\n\nHet gaat om een van de grootste gevallen van AI-fraude bij een bank tot nu toe. De zaak speelde al in februari 2026, maar werd pas deze week naar buiten gebracht."
+  },
+  {
+   "heading": "Zo werkt deze truc",
+   "body": "Bij deze vorm van oplichting maken criminelen gebruik van zogeheten deepfakes: nepvideo's en nepstemmen die met AI zijn gemaakt. Ze lijken vaak echt genoeg om iemand aan de telefoon of in een videogesprek te misleiden.\n\nDe truc heet ook wel 'CEO-fraude'. Daarbij doet een oplichter zich voor als de baas van een bedrijf en vraagt een medewerker om dringend geld over te maken. Vroeger gebeurde dat vooral via e-mail. Met AI kan dat nu ook via een telefoongesprek of videobellen, wat veel overtuigender overkomt.\n\nVoor banken is dit lastig, omdat de fraude niet via een technisch lek gaat. De criminelen misbruiken het vertrouwen van mensen binnen het bedrijf."
+  },
+  {
+   "heading": "Wat dit betekent voor banken en bedrijven",
+   "body": "De zaak laat zien dat AI-fraude steeds geavanceerder wordt. Bedrijven moeten hun medewerkers leren dat een bekende stem of een bekend gezicht niet automatisch betekent dat het echt is. Een extra controle, bijvoorbeeld via een tweede kanaal, kan veel schade voorkomen.\n\nBanken werken wereldwijd aan betere controles bij grote overboekingen. Toch blijft het lastig om fraude te herkennen als criminelen zich voordoen als iemand die je vertrouwt. Volgens NU.nl Tech is het nog niet bekend hoe de oplichters precies te werk gingen en of er mensen zijn aangehouden."
+  },
+  {
+   "heading": "Nog veel onduidelijk",
+   "body": "Er is nog veel onbekend over de zaak. Zo is niet duidelijk hoe de oplichters toegang kregen tot de systemen of personen bij de bank. Ook is niet bekend of er verdachten zijn opgepakt.\n\nWat wel vaststaat: het grootste deel van het gestolen bedrag is teruggehaald. Dat lukte waarschijnlijk doordat de fraude snel werd ontdekt. Toch blijft er een flink bedrag zoek, en dat laat zien hoe groot de impact van dit soort AI-oplichting kan zijn."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit een waarschuwing. Ook hier worden bedrijven en banken steeds vaker doelwit van AI-fraude. Grote Nederlandse banken zoals ING, Rabobank en ABN AMRO zeggen al langer dat criminelen met AI werken. Als jij of je werkgever een dringend betaalverzoek krijgt van een bekende stem of een videoboodschap, controleer dan altijd via een tweede kanaal. Een telefoontje terug naar een bekend nummer kan al genoeg zijn. De Autoriteit Financiële Markten en De Nederlandsche Bank houden dit soort fraude in de gaten, maar de beste bescherming begint bij alertheid van medewerkers zelf.",
+ "faq": [
+  {
+   "q": "Hoe konden oplichters 95 miljoen euro stelen met AI?",
+   "a": "Ze gebruikten AI om stem en beeld van topmannen van Intesa Sanpaolo na te bootsen. Daarmee misleidden ze medewerkers om geld over te maken."
+  },
+  {
+   "q": "Is het gestolen geld al terug?",
+   "a": "Ruim de helft van de 95 miljoen euro is teruggehaald. Ongeveer 36 miljoen euro is nog altijd spoorloos."
+  },
+  {
+   "q": "Kan dit ook in Nederland gebeuren?",
+   "a": "Ja, AI-fraude komt ook in Nederland voor. Banken en bedrijven waarschuwen al langer voor nep-stemmen en deepfakes bij betaalverzoeken."
+  }
+ ],
+ "slug": "ai-oplichters-stelen-95-miljoen-euro-van-italiaanse-bank",
+ "kind": "news",
+ "date": "2026-09-26",
+ "published": "2026-09-26T11:56",
+ "sources": [
+  {
+   "name": "NU.nl Tech",
+   "title": "AI-oplichters doen zich voor als topman en stelen 95 miljoen euro van bank Italië",
+   "url": "https://www.nu.nl/tech/6411049/ai-oplichters-doen-zich-voor-als-topman-en-stelen-95-miljoen-euro-van-bank-italie.html"
+  }
+ ],
+ "path": "/nieuws/ai-oplichters-stelen-95-miljoen-euro-van-italiaanse-bank/",
+ "og": "/img/og/ai-oplichters-stelen-95-miljoen-euro-van-italiaanse-bank.png"
+}

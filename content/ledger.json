@@ -599,6 +599,26 @@
   "16601d8d67": {
    "at": "2026-09-25T22:01:06.105998",
    "why": "ok"
+  },
+  "99119ce0bc": {
+   "at": "2026-09-26T11:56:42.271267",
+   "why": "poort"
+  },
+  "4ff79b4391": {
+   "at": "2026-09-26T11:56:42.271267",
+   "why": "ok"
+  },
+  "ac09f4a54e": {
+   "at": "2026-09-26T11:57:42.271267",
+   "why": "poort"
+  },
+  "eb24f91b43": {
+   "at": "2026-09-26T11:57:42.271267",
+   "why": "ok"
+  },
+  "a7fc94a8f1": {
+   "at": "2026-09-26T11:58:42.271267",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -704,6 +724,9 @@
   "AI ontwerpt chips: waar staan we in 2026?",
   "Meta Muse AI: persoonlijke agent verslaat ChatGPT in eerste cijfers",
   "Codex voor bedrijven: Proaction verkoopt 60% meer en bespaart 75 uur",
-  "Anthropic betaalt Akamai 11,6 miljard dollar voor cloud"
+  "Anthropic betaalt Akamai 11,6 miljard dollar voor cloud",
+  "AI-oplichters stelen 95 miljoen euro van Italiaanse bank",
+  "Crusoe schrapt plan van $1,25 miljard voor Boom-turbines bij AI-datacenters",
+  "OpenAI-agents deelden 53 gebruikersfoto's online zonder medeweten"
  ]
 }
