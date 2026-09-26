@@ -1,0 +1,63 @@
+{
+ "keyword": "supabase datalek",
+ "seo_title": "Supabase datalek: klanten zetten data openbaar",
+ "title": "Supabase datalek: klanten zetten data per ongeluk openbaar",
+ "meta": "Supabase-klanten zetten data per ongeluk openbaar op het web. Wat betekent dat voor jouw AI-app en welke stappen voorkom je hiermee?",
+ "category": "nieuws",
+ "tags": [
+  "supabase",
+  "datalek",
+  "ai-apps",
+  "privacy",
+  "beveiliging"
+ ],
+ "intro": "Sommige klanten van Supabase hebben data van mensen openbaar op het web gezet. Dat meldt TechCrunch. Het probleem raakt vooral apps die snel met AI zijn gebouwd en daarna niet goed zijn beveiligd.",
+ "takeaways": [
+  "TechCrunch meldt dat meerdere Supabase-klanten gevoelige data publiek toegankelijk hebben gemaakt.",
+  "Het gaat vaak om apps die met AI zijn gegenereerd en daarna niet goed zijn ingesteld.",
+  "Supabase is een populaire database- en backend-dienst voor snelle app-ontwikkeling.",
+  "De precieze omvang en het aantal getroffen gebruikers is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er aan de hand is",
+   "body": "TechCrunch schrijft dat sommige klanten van Supabase data van mensen openbaar op het web hebben gezet. Het gaat om gegevens die eigenlijk achter een login of beveiliging hoorden te zitten. De bevindingen laten zien hoe snel data kan lekken als een app niet goed is ingesteld.\n\nSupabase is een dienst die ontwikkelaars gebruiken voor databases, inloggen en opslag. Je kunt het zien als een kant-en-klare achterkant voor een app. Daardoor kun je snel iets bouwen, maar juist die snelheid maakt fouten makkelijk."
+  },
+  {
+   "heading": "Waarom dit vaker gebeurt bij AI-apps",
+   "body": "Volgens TechCrunch speelt het probleem vooral bij apps die met AI zijn gemaakt of zogeheten vibe-coded zijn. Daarbij laat iemand een taalmodel code schrijven zonder de beveiliging goed te controleren. De app werkt dan wel, maar de database staat open voor iedereen.\n\nHet is geen fout in Supabase zelf, maar een verkeerde configuratie door de maker van de app. Toch laat het zien hoe belangrijk het is om standaardinstellingen te controleren voordat je iets live zet."
+  },
+  {
+   "heading": "Wat je zelf kunt doen",
+   "body": "Gebruik je Supabase of een vergelijkbare dienst? Loop dan je toegangsregels na. Zet alleen data openbaar die echt openbaar mag zijn. Test met een uitgelogde browser of je gevoelige gegevens kunt zien zonder in te loggen.\n\nVraag je bij elke AI-gegenereerde app af wie de data kan lezen. Laat iemand met verstand van beveiliging meekijken voordat je gebruikersgegevens opslaat. Dat kost tijd, maar voorkomt een datalek."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars, zzp'ers en bedrijven die snel een AI-app bouwen met Supabase geldt dezelfde waarschuwing. Onder de AVG ben je als verwerkingsverantwoordelijke verantwoordelijk voor datalekken, ook als een taalmodel de code schreef. Een openbaar toegankelijke database met persoonsgegevens kan leiden tot boetes en meldplicht bij de Autoriteit Persoonsgegevens. Controleer dus je instellingen voordat je live gaat.",
+ "faq": [
+  {
+   "q": "Is Supabase zelf gehackt?",
+   "a": "Nee, volgens TechCrunch gaat het om verkeerde instellingen bij klanten. De data stond openbaar doordat apps niet goed waren beveiligd."
+  },
+  {
+   "q": "Wat is vibe-coded precies?",
+   "a": "Vibe-coded betekent dat iemand een app vooral door AI laat schrijven en zelf weinig controleert. Dat gaat snel, maar beveiligingsfouten blijven dan makkelijk staan."
+  },
+  {
+   "q": "Moet ik mijn Supabase-project nu controleren?",
+   "a": "Ja, loop je toegangsregels na en test of gevoelige data zichtbaar is zonder inloggen. Zet alleen openbaar wat echt openbaar mag zijn."
+  }
+ ],
+ "slug": "supabase-datalek-klanten-zetten-data-per-ongeluk-openbaar",
+ "kind": "news",
+ "date": "2026-09-26",
+ "published": "2026-09-26T17:06",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+   "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
+  }
+ ],
+ "path": "/nieuws/supabase-datalek-klanten-zetten-data-per-ongeluk-openbaar/",
+ "og": "/img/og/supabase-datalek-klanten-zetten-data-per-ongeluk-openbaar.png"
+}

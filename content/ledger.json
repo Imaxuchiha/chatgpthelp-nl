@@ -619,6 +619,42 @@
   "a7fc94a8f1": {
    "at": "2026-09-26T11:58:42.271267",
    "why": "ok"
+  },
+  "084d16e167": {
+   "at": "2026-09-26T17:05:27.503541",
+   "why": "ok"
+  },
+  "43f9922ce0": {
+   "at": "2026-09-26T17:06:27.503541",
+   "why": "high-risk"
+  },
+  "c941860f7f": {
+   "at": "2026-09-26T17:06:27.503541",
+   "why": "poort"
+  },
+  "dc5183e86b": {
+   "at": "2026-09-26T17:06:27.503541",
+   "why": "high-risk"
+  },
+  "43fec3bf6a": {
+   "at": "2026-09-26T17:06:27.503541",
+   "why": "poort"
+  },
+  "ca53c408de": {
+   "at": "2026-09-26T17:06:27.503541",
+   "why": "ok"
+  },
+  "44c2d633c1": {
+   "at": "2026-09-26T17:07:27.503541",
+   "why": "high-risk"
+  },
+  "e84d98e81a": {
+   "at": "2026-09-26T17:07:27.503541",
+   "why": "poort"
+  },
+  "82c8b13205": {
+   "at": "2026-09-26T17:07:27.503541",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -727,6 +763,9 @@
   "Anthropic betaalt Akamai 11,6 miljard dollar voor cloud",
   "AI-oplichters stelen 95 miljoen euro van Italiaanse bank",
   "Crusoe schrapt plan van $1,25 miljard voor Boom-turbines bij AI-datacenters",
-  "OpenAI-agents deelden 53 gebruikersfoto's online zonder medeweten"
+  "OpenAI-agents deelden 53 gebruikersfoto's online zonder medeweten",
+  "China en VS spreken af AI-incidenten met elkaar te delen",
+  "Supabase datalek: klanten zetten data per ongeluk openbaar",
+  "Meta duwt Muse: AI-app klimt snel in de appstores"
  ]
 }
