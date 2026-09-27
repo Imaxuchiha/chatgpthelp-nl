@@ -1,0 +1,67 @@
+{
+ "keyword": "ai ouderenzorg vs",
+ "seo_title": "AI ouderenzorg VS: pilot mislukt, wat leren wij?",
+ "title": "AI in ouderenzorg VS mislukt: lessen voor Nederland",
+ "meta": "AI in de Amerikaanse ouderenzorg pakt slecht uit: ouderen wachten langer. Wat betekent dat voor Nederland en de zorg hier?",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "ouderenzorg",
+  "zorg",
+  "verenigde staten",
+  "beleid"
+ ],
+ "intro": "In de Verenigde Staten loopt sinds januari een proef waarbij AI bepaalt welke zorg oudere patiënten krijgen. Dat pakt slecht uit, meldt Bright: veel ouderen wachten juist langer op de juiste zorg. De pilot laat zien dat je zorg niet zomaar aan een algoritme overlaat.",
+ "takeaways": [
+  "Sinds januari loopt in de VS een pilot waarin AI oudere patiënten zorg toewijst.",
+  "De proef verloopt slecht: ouderen wachten langer voordat ze passende zorg krijgen.",
+  "Het is nog niet bekend of de pilot wordt gestopt of aangepast.",
+  "In Nederland is zo'n AI-pilot in de ouderenzorg nog niet aan de orde."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de pilot in de VS doet",
+   "body": "In de Verenigde Staten draait sinds januari een proef met AI in de ouderenzorg. Het systeem moet bepalen welke zorg een oudere patiënt krijgt en hoe snel. Dat klinkt efficiënt, maar de praktijk is weerbarstig.\n\nVolgens Bright moeten veel ouderen juist langer wachten tot ze de juiste zorg krijgen. Het algoritme lijkt de situatie van patiënten niet goed te wegen. Waar het systeem snelheid belooft, ontstaat dus vertraging."
+  },
+  {
+   "heading": "Waarom het misgaat",
+   "body": "Zorg is geen simpel verdeelprobleem. Een oudere patiënt heeft vaak meerdere aandoeningen tegelijk, en de ernst daarvan laat zich lastig in regels vangen. Een model dat met beperkte gegevens is getraind, mist die context.\n\nDaar komt bij dat ouderenzorg draait om vertrouwen. Als een computer bepaalt wie eerst aan de beurt is, voelt dat voor patiënten en hun familie als een blackbox. De proef in de VS laat zien dat zo'n systeem niet vanzelf beter werkt dan een menselijke beoordeling.\n\nBright noemt de pilot ronduit een farce. Dat is stevige taal, maar de kern klopt: de belofte van snellere zorg is niet waargemaakt."
+  },
+  {
+   "heading": "Wat dit zegt over AI in de zorg",
+   "body": "AI kan in de zorg nuttig zijn, bijvoorbeeld bij het lezen van scans of het opstellen van roosters. Maar zodra een model beslist over toegang tot zorg, komen er ethische en juridische vragen bij. Wie is verantwoordelijk als het misgaat?\n\nIn de VS is dat nog niet goed geregeld. De pilot laat zien dat je eerst moet nadenken over toezicht, uitlegbaarheid en bezwaar voordat je zo'n systeem inzet. Techniek alleen is niet genoeg."
+  },
+  {
+   "heading": "Nog geen einde in zicht",
+   "body": "Of de Amerikaanse pilot wordt stopgezet of aangepast, is nog niet bekend. Duidelijk is wel dat de eerste resultaten tegenvallen. Voor andere landen is dat een waarschuwing: test klein, meet eerlijk en houd mensen in de lead."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit een les, geen kopie. Onze ouderenzorg werkt via huisartsen, wijkverpleging en het CIZ, met de Wet langdurige zorg als kader. Een algoritme dat zelfstandig zorg toewijst, past daar niet zomaar in. Wel experimenteren zorginstellingen hier met AI voor administratie en planning. De Amerikaanse pilot laat zien waarom je AI niet de toegang tot zorg laat bepalen zonder menselijke controle. Verwacht dus geen snelle invoering in Nederland; eerder meer discussie over regels en toezicht.",
+ "faq": [
+  {
+   "q": "wat is er misgegaan met ai in de ouderenzorg in de vs?",
+   "a": "Volgens Bright wachten ouderen juist langer op de juiste zorg doordat het systeem hun situatie niet goed inschat. De belofte van snellere zorg is niet uitgekomen."
+  },
+  {
+   "q": "komt zulke ai ook naar nederland?",
+   "a": "Er is nog geen Nederlandse pilot waarin AI zelf zorg toewijst. Zorginstellingen gebruiken AI hier vooral voor administratie en planning, niet voor toegang tot zorg."
+  },
+  {
+   "q": "mag ai in nederland beslissen over zorg?",
+   "a": "Nee, besluiten over langdurige zorg lopen via menselijke beoordeling, zoals het CIZ. AI mag daar volgens de huidige regels niet zelfstandig over beslissen."
+  }
+ ],
+ "slug": "ai-in-ouderenzorg-vs-mislukt-lessen-voor-nederland",
+ "kind": "news",
+ "date": "2026-09-27",
+ "published": "2026-09-27T12:37",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Amerika zet AI in om ouderenzorg te regelen: blijkt een farce",
+   "url": "https://www.bright.nl/nieuws/2140262/amerika-zet-ai-in-om-ouderenzorg-te-regelen-blijkt-een-farce.html"
+  }
+ ],
+ "path": "/nieuws/ai-in-ouderenzorg-vs-mislukt-lessen-voor-nederland/",
+ "og": "/img/og/ai-in-ouderenzorg-vs-mislukt-lessen-voor-nederland.png"
+}

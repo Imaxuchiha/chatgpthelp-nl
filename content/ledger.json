@@ -671,6 +671,26 @@
   "819e92326d": {
    "at": "2026-09-26T21:13:00.141309",
    "why": "ok"
+  },
+  "ffb3278cb4": {
+   "at": "2026-09-27T12:36:35.867081",
+   "why": "ok"
+  },
+  "4b65cfb95a": {
+   "at": "2026-09-27T12:37:35.867081",
+   "why": "ok"
+  },
+  "2ce54805b1": {
+   "at": "2026-09-27T12:38:35.867081",
+   "why": "high-risk"
+  },
+  "b98fd80ccb": {
+   "at": "2026-09-27T12:38:35.867081",
+   "why": "poort"
+  },
+  "7777e45713": {
+   "at": "2026-09-27T12:38:35.867081",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -785,6 +805,9 @@
   "Meta duwt Muse: AI-app klimt snel in de appstores",
   "OpenAI AI-agents lekken 53 gebruikersafbeeldingen",
   "Bill Gates waarschuwt: AI kan volgens hem een miljard doden veroorzaken",
-  "OpenAI pauzeert training van zijn krachtigste AI-modellen"
+  "OpenAI pauzeert training van zijn krachtigste AI-modellen",
+  "OpenAI pauzeert werk aan krachtigste AI na nieuw incident",
+  "AI in ouderenzorg VS mislukt: lessen voor Nederland",
+  "Gemini winkelen India: Google test aankopen via AI-chat"
  ]
 }
