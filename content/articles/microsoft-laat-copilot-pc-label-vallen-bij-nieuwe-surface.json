@@ -1,0 +1,67 @@
+{
+ "keyword": "copilot+ pc",
+ "seo_title": "Copilot+ pc-label verdwijnt bij nieuwe Surface",
+ "title": "Microsoft laat Copilot+ pc-label vallen bij nieuwe Surface",
+ "meta": "Microsoft stopt met het Copilot+ pc-label op zijn nieuwe Surface-laptops. Wat betekent dat voor kopers in Nederland en voor AI op je laptop?",
+ "category": "nieuws",
+ "tags": [
+  "microsoft",
+  "copilot+ pc",
+  "surface",
+  "ai-pc",
+  "hardware"
+ ],
+ "intro": "Microsoft blijft het label Copilot+ pc niet langer opdringen. De nieuwe Surface-laptops van het bedrijf voeren de aanduiding niet meer, meldt Ars Technica. Daarmee lijkt de marketingterm die twee jaar lang aan AI-laptops hing, aan betekenis in te boeten.",
+ "takeaways": [
+  "Nieuwe Surface-laptops van Microsoft dragen het Copilot+ pc-label niet meer, meldt Ars Technica.",
+  "Copilot+ pc was een keurmerk voor laptops met een snelle NPU en AI-functies aan boord.",
+  "Het is nog niet bekend of Microsoft de term helemaal laat vallen of alleen bij Surface.",
+  "Voor kopers in Nederland verandert er weinig aan de hardware zelf."
+ ],
+ "sections": [
+  {
+   "heading": "Wat was een Copilot+ pc ook alweer?",
+   "body": "Copilot+ pc is een term die Microsoft in 2024 introduceerde voor een nieuwe generatie Windows-laptops. Zo'n machine heeft een zogeheten NPU, een chip die AI-taken lokaal uitvoert. Denk aan live ondertiteling, beeldbewerking in Paint of het terugvinden van bestanden via een beschrijving.\n\nHet label moest duidelijk maken welke laptops snel genoeg waren voor die functies. Fabrikanten zetten de sticker daarom graag op de doos. In de praktijk zeiden veel kopers weinig met de term, omdat ze vooral letten op prijs, accuduur en scherm."
+  },
+  {
+   "heading": "Wat verandert Microsoft nu?",
+   "body": "Volgens Ars Technica laat Microsoft het label weg bij zijn nieuwe Surface-laptops. De apparaten zijn dus geen Copilot+ pc meer in de communicatie, ook al kunnen ze vergelijkbare AI-taken aan. Microsoft heeft nog niet uitgelegd waarom het de aanduiding laat vallen.\n\nHet is ook niet duidelijk of andere merken het label blijven gebruiken. Fabrikanten als Lenovo, HP, Dell en Asus brachten de afgelopen jaren tientallen modellen met de sticker uit. Of zij de term nu laten vallen, is nog niet bekend."
+  },
+  {
+   "heading": "Waarom dit meer is dan een stickertje",
+   "body": "Een keurmerk werkt alleen als kopers het herkennen en er waarde aan hechten. Bij Copilot+ pc lukte dat maar matig. Veel AI-functies kwamen later of werkten beperkt, en sommige waren alleen in het Engels beschikbaar. Dan wordt een label vooral verwarrend.\n\nMicrosoft lijkt daarom terug te grijpen op gewone productnamen. Dat past bij een bredere trend: AI wordt een functie in software, geen reden om een aparte categorie hardware te maken. Voor de consument is dat prettiger, want je hoeft geen afkortingen meer te ontcijferen voor je een laptop koopt."
+  },
+  {
+   "heading": "Wat betekent dit voor AI-functies op je laptop?",
+   "body": "De AI-functies zelf verdwijnen niet. Windows blijft Copilot en lokale AI-taken aanbieden, zolang je hardware dat aankan. Het verschil zit in de communicatie: Microsoft noemt je laptop niet langer een Copilot+ pc, maar de chip eronder verandert niet.\n\nVoor wie vorig jaar een duurdere laptop kocht juist om dat label, is dat even slikken. De functies blijven werken, maar het predicaat dat je ervoor betaalde, is minder waard geworden. Dat is een bekend patroon in de techniek: marketingtermen komen en gaan sneller dan de hardware zelf."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse kopers verandert er praktisch weinig. De Surface-modellen komen zoals altijd in Nederland uit, met dezelfde prijzen in euro's en dezelfde Windows-versie. Wel is het slim om bij je volgende laptopaankoop niet op het Copilot+ pc-label te letten, maar op de specificaties: welke NPU, hoeveel werkgeheugen en welke AI-functies werken in het Nederlands. Microsoft heeft nog niet gezegd of het label in Nederland apart wordt gevoerd; de Europese winkels volgen doorgaans de wereldwijde naamgeving.",
+ "faq": [
+  {
+   "q": "Wat is een Copilot+ pc precies?",
+   "a": "Dat is een Windows-laptop met een snelle NPU, bedoeld voor AI-taken die lokaal op het apparaat draaien. Microsoft gebruikte de term sinds 2024 als keurmerk."
+  },
+  {
+   "q": "Verdwijnen de AI-functies nu van mijn laptop?",
+   "a": "Nee. Bestaande Copilot+ pc's blijven hun AI-functies houden. Alleen het label verdwijnt bij nieuwe Surface-modellen, meldt Ars Technica."
+  },
+  {
+   "q": "Moet ik nog op Copilot+ pc letten bij een nieuwe laptop?",
+   "a": "Niet per se. Kijk liever naar de NPU, het werkgeheugen en of de AI-functies die jij wilt gebruiken in het Nederlands beschikbaar zijn."
+  }
+ ],
+ "slug": "microsoft-laat-copilot-pc-label-vallen-bij-nieuwe-surface",
+ "kind": "news",
+ "date": "2026-09-27",
+ "published": "2026-09-27T21:45",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+   "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/"
+  }
+ ],
+ "path": "/nieuws/microsoft-laat-copilot-pc-label-vallen-bij-nieuwe-surface/",
+ "og": "/img/og/microsoft-laat-copilot-pc-label-vallen-bij-nieuwe-surface.png"
+}
