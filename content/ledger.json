@@ -691,6 +691,22 @@
   "7777e45713": {
    "at": "2026-09-27T12:38:35.867081",
    "why": "ok"
+  },
+  "0581fb1c87": {
+   "at": "2026-09-27T17:47:03.730939",
+   "why": "ok"
+  },
+  "d15a1eb707": {
+   "at": "2026-09-27T17:48:03.730939",
+   "why": "poort"
+  },
+  "71b88d6b71": {
+   "at": "2026-09-27T17:48:03.730939",
+   "why": "ok"
+  },
+  "26c3af8439": {
+   "at": "2026-09-27T17:49:03.730939",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -808,6 +824,9 @@
   "OpenAI pauzeert training van zijn krachtigste AI-modellen",
   "OpenAI pauzeert werk aan krachtigste AI na nieuw incident",
   "AI in ouderenzorg VS mislukt: lessen voor Nederland",
-  "Gemini winkelen India: Google test aankopen via AI-chat"
+  "Gemini winkelen India: Google test aankopen via AI-chat",
+  "Kia EV2 elektrisch: de kleinste en goedkoopste Kia vergeleken",
+  "AI zorgkosten verzekeraars: VS meldt 942 miljoen extra uitgaven",
+  "Rechter staat Pentagon toe Anthropic te blacklisten om Claude"
  ]
 }

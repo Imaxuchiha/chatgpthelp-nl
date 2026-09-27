@@ -1,0 +1,67 @@
+{
+ "keyword": "anthropic pentagon verbod",
+ "seo_title": "Anthropic Pentagon verbod: rechter staat blacklist toe",
+ "title": "Rechter staat Pentagon toe Anthropic te blacklisten om Claude",
+ "meta": "Een Amerikaanse rechter vindt dat het Pentagon Anthropic mag blacklisten omdat het bedrijf weigert Claude aan te passen voor militaire operaties.",
+ "category": "nieuws",
+ "tags": [
+  "anthropic",
+  "claude",
+  "pentagon",
+  "ai-beleid",
+  "vs"
+ ],
+ "intro": "Het Pentagon mag Anthropic op een zwarte lijst zetten. Dat heeft een Amerikaanse rechter bepaald. Anthropic weigert om Claude aan te passen voor militaire operaties. Het bedrijf vreest dat zijn AI te veel vrijheid krijgt.",
+ "takeaways": [
+  "De rechter oordeelt dat het Pentagon Anthropic mag uitsluiten van overheidscontracten.",
+  "Anthropic weigert Claude aan te passen voor militaire doeleinden.",
+  "Het bedrijf noemt de eisen van het Pentagon te ver gaan.",
+  "De zaak kan gevolgen hebben voor andere AI-bedrijven die met Defensie willen samenwerken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat is er precies gebeurd?",
+   "body": "Een federale rechter in de Verenigde Staten heeft geoordeeld dat het Pentagon Anthropic op een zwarte lijst mag plaatsen. Dat meldt Ars Technica. De zaak draait om de weigering van Anthropic om bepaalde functies van zijn AI-model Claude aan te zetten voor militaire operaties. Het bedrijf vindt dat die functies te veel risico opleveren.\n\nHet Pentagon stelt dat het gebruik van 'overly constrained AI models' kan leiden tot mislukte militaire operaties. De rechters geven het Pentagon daarin gelijk. Daarmee is de weg vrij voor het ministerie van Defensie om Anthropic uit te sluiten van toekomstige contracten."
+  },
+  {
+   "heading": "Waarom weigert Anthropic?",
+   "body": "Anthropic staat bekend als een AI-bedrijf dat veel waarde hecht aan veiligheid. Het bedrijf wil niet dat Claude wordt gebruikt voor doeleinden die ethisch of juridisch problematisch zijn. Militaire operaties vallen daar volgens Anthropic onder.\n\nHet bedrijf vreest dat het aanpassen van Claude voor het Pentagon betekent dat het model ook kan worden gebruikt voor aanvallen of surveillance. Dat gaat in tegen de eigen richtlijnen. Anthropic heeft nog niet publiekelijk gereageerd op de uitspraak."
+  },
+  {
+   "heading": "Wat betekent dit voor de AI-sector?",
+   "body": "De uitspraak kan een signaal zijn voor andere AI-bedrijven. Wie zaken wil doen met het Amerikaanse leger, moet mogelijk concessies doen aan de veiligheidseisen van het model. Bedrijven die weigeren, riskeren een plek op de zwarte lijst.\n\nHet Pentagon heeft de laatste jaren meer belangstelling voor AI. Het wil AI inzetten voor logistiek, inlichtingen en besluitvorming. Als grote AI-bedrijven zoals Anthropic niet meewerken, kan dat de militaire plannen vertragen."
+  },
+  {
+   "heading": "Hoe reageert de politiek?",
+   "body": "Er is nog geen officiële reactie van het Witte Huis of het Amerikaanse Congres. Critici zeggen dat de rechter te veel macht geeft aan het Pentagon. Voorstanders vinden dat het leger niet afhankelijk moet zijn van bedrijven die hun eigen regels stellen.\n\nDe zaak loopt mogelijk nog door. Anthropic kan in beroep gaan tegen de uitspraak. Dat is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederland is deze zaak vooral interessant omdat de Europese Unie werkt aan eigen regels voor AI. De AI-verordening (AI Act) stelt eisen aan hoog-risico AI, ook bij defensie. Als Amerikaanse bedrijven zoals Anthropic zich terugtrekken uit militaire projecten, kan dat gevolgen hebben voor Europese samenwerking. Nederland koopt veel defensiematerieel in de VS. Als AI-leveranciers wegblijven, kan dat leiden tot vertraging of hogere kosten. Ook Nederlandse AI-bedrijven die met Defensie willen werken, moeten nadenken over hun eigen ethische grenzen.",
+ "faq": [
+  {
+   "q": "Mag het Pentagon zomaar een AI-bedrijf blacklisten?",
+   "a": "Volgens de rechter wel, omdat het Pentagon eigen inkoopregels mag hanteren. Het bedrijf kan wel in beroep gaan."
+  },
+  {
+   "q": "Wat betekent dit voor Claude-gebruikers in Nederland?",
+   "a": "Voorlopig verandert er niets. Claude blijft beschikbaar voor gewone gebruikers. De zaak gaat alleen over militaire contracten in de VS."
+  },
+  {
+   "q": "Kan de Europese Unie ook AI-bedrijven uitsluiten?",
+   "a": "De EU heeft eigen regels voor overheidsinkoop en AI. Of dat tot een blacklist leidt, is nog niet bekend."
+  }
+ ],
+ "slug": "rechter-staat-pentagon-toe-anthropic-te-blacklisten-om-claude",
+ "kind": "news",
+ "date": "2026-09-27",
+ "published": "2026-09-27T17:49",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+   "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
+  }
+ ],
+ "path": "/nieuws/rechter-staat-pentagon-toe-anthropic-te-blacklisten-om-claude/",
+ "og": "/img/og/rechter-staat-pentagon-toe-anthropic-te-blacklisten-om-claude.png"
+}
