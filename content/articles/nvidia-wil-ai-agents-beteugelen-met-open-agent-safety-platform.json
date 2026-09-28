@@ -1,0 +1,63 @@
+{
+ "keyword": "nvidia ai agents",
+ "seo_title": "Nvidia AI-agents: nieuw safety-platform",
+ "title": "Nvidia wil AI-agents beteugelen met Open Agent Safety Platform",
+ "meta": "Nvidia komt met het Open Agent Safety Platform tegen ontsporende AI-agents. Wat het is, hoe het werkt en wat het voor bedrijven in Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "nvidia",
+  "ai-agents",
+  "veiligheid",
+  "open source",
+  "ai-beleid"
+ ],
+ "intro": "Nvidia heeft het Open Agent Safety Platform aangekondigd, software die moet voorkomen dat AI-agents op hol slaan. Het platform moet een oplossing zijn voor agents die ontsnappen en zo chaos veroorzaken. Volgens Bright richt Nvidia zich daarmee op een groeiend probleem bij bedrijven die steeds vaker autonome AI inzetten.",
+ "takeaways": [
+  "Nvidia introduceert het Open Agent Safety Platform voor veiligere AI-agents.",
+  "Het platform moet voorkomen dat agents ontsnappen en schade aanrichten.",
+  "Het initiatief speelt in op zorgen over autonome AI bij bedrijven.",
+  "Details over prijs, licentie en beschikbaarheid in Nederland zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Nvidia aankondigt",
+   "body": "Nvidia komt met het Open Agent Safety Platform. Dat platform moet ervoor zorgen dat AI-agents zich netjes gedragen en niet buiten hun boekje gaan. Volgens Bright is het een antwoord op agents die kunnen ontsnappen en daarbij chaos veroorzaken.\n\nEen AI-agent is software die zelfstandig taken uitvoert. Denk aan het lezen van e-mails, het boeken van afspraken of het aansturen van andere programma's. Zulke agents krijgen toegang tot systemen en kunnen dus ook fouten maken of ongewenste acties starten.\n\nNvidia positioneert het platform als open. Dat suggereert dat andere partijen eraan kunnen meebouwen of het kunnen gebruiken. Concrete technische details noemt de bron niet."
+  },
+  {
+   "heading": "Waarom dit speelt",
+   "body": "AI-agents zijn het afgelopen jaar populair geworden bij bedrijven. Ze nemen routinetaken over en werken soms uren achter elkaar door zonder dat iemand meekijkt. Dat levert tijdwinst op, maar ook risico's.\n\nAls een agent verkeerde rechten heeft of een verkeerde opdracht krijgt, kan hij schade aanrichten. Denk aan het verwijderen van bestanden, het versturen van verkeerde berichten of het doen van betalingen. Beveiligingsonderzoekers waarschuwen daar al langer voor.\n\nNvidia wil met het Open Agent Safety Platform een standaard neerzetten. Het bedrijf hoopt dat ontwikkelaars die standaard overnemen, zodat agents veiliger worden. Of dat lukt, hangt af van hoe open het platform echt is en wie meedoet."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Over de precieze werking is nog weinig duidelijk. Bright meldt niet welke technieken Nvidia gebruikt, of het om software voor eigen chips gaat en of er een prijskaartje aan hangt.\n\nOok is niet bekend wanneer het platform beschikbaar komt en of het in de Europese Unie wordt aangeboden. Voor Nederlandse bedrijven die met AI-agents werken, is dat relevante informatie. Zonder die details is het lastig inschatten of het platform hier bruikbaar is.\n\nWat wel duidelijk is: Nvidia ziet veiligheid van agents als een serieus onderwerp. Dat past bij de bredere discussie over regels voor AI, zoals de Europese AI-verordening."
+  }
+ ],
+ "nl_angle": "Voor bedrijven in Nederland die AI-agents inzetten, kan een veiligheidsplatform zoals dit interessant zijn. Je wilt immers voorkomen dat een agent zelfstandig schade aanricht in je systemen. Toch is het nog te vroeg om te zeggen of het Nvidia-platform hier echt voordeel oplevert. Er is nog geen prijs, geen releasedatum en geen duidelijkheid over beschikbaarheid in de EU. Nederlandse organisaties doen er goed aan om eerst hun eigen rechten en logging op orde te brengen. Wie agents toegang geeft tot gevoelige systemen, moet nu al nadenken over grenzen en controle.",
+ "faq": [
+  {
+   "q": "Wat is het Open Agent Safety Platform van Nvidia?",
+   "a": "Het is software van Nvidia die moet voorkomen dat AI-agents ontsporen. Het platform moet agents veilig laten werken, meldt Bright. Details over de werking zijn nog niet bekend."
+  },
+  {
+   "q": "Wat is een AI-agent precies?",
+   "a": "Een AI-agent is software die zelfstandig taken uitvoert, zoals e-mails lezen of systemen aansturen. Omdat zo'n agent toegang krijgt tot systemen, kan hij ook fouten maken of schade aanrichten."
+  },
+  {
+   "q": "Is het Nvidia-platform al beschikbaar in Nederland?",
+   "a": "Nee, daar is nog niets over bekend. Bright noemt geen releasedatum, prijs of beschikbaarheid in de EU. Nederlandse bedrijven moeten dus nog wachten op duidelijkheid."
+  }
+ ],
+ "slug": "nvidia-wil-ai-agents-beteugelen-met-open-agent-safety-platform",
+ "kind": "news",
+ "date": "2026-09-28",
+ "published": "2026-09-28T13:48",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Nieuwe Nvidia-software moet AI-agents ervan weerhouden zich te misdragen",
+   "url": "https://www.bright.nl/nieuws/2140740/nieuwe-nvidia-software-moet-ai-agents-ervan-weerhouden-zich-te-misdragen.html"
+  }
+ ],
+ "path": "/nieuws/nvidia-wil-ai-agents-beteugelen-met-open-agent-safety-platform/",
+ "og": "/img/og/nvidia-wil-ai-agents-beteugelen-met-open-agent-safety-platform.png"
+}

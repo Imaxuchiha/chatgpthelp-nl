@@ -1,0 +1,64 @@
+{
+ "keyword": "variabele prijzen algoritmes",
+ "seo_title": "Variabele prijzen algoritmes: ACM wil meer uitleg",
+ "title": "Variabele prijzen door algoritmes: ACM wil meer duidelijkheid",
+ "meta": "Consumenten wantrouwen wisselende online prijzen door algoritmes. Lees wat de ACM vindt en wat dit voor jou als koper in Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "algoritmes",
+  "prijzen",
+  "acm",
+  "consumenten",
+  "webshops"
+ ],
+ "intro": "Veel consumenten zien online verschillende prijzen voor hetzelfde product, zoals een vliegticket of speelgoed. Ze snappen vaak niet waarom dat gebeurt en denken soms onterecht dat hun eerdere zoekopdrachten de prijs opdrijven. De Autoriteit Consument & Markt (ACM) vindt dat bedrijven hier duidelijker over moeten zijn, meldt NU.nl Tech.",
+ "takeaways": [
+  "Consumenten krijgen online wisselende prijzen te zien door algoritmes, zonder duidelijke uitleg.",
+  "Veel mensen denken onterecht dat eerder zoekgedrag de prijs verhoogt.",
+  "De ACM wil dat bedrijven transparanter zijn over hoe prijzen tot stand komen.",
+  "Het wantrouwen onder kopers groeit door het gebrek aan uitleg."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er speelt",
+   "body": "Wie online een vliegticket of stuk speelgoed zoekt, ziet soms binnen korte tijd verschillende prijzen. Dat komt door algoritmes die prijzen automatisch aanpassen. Volgens NU.nl Tech weten consumenten vaak niet waarom ze een bepaalde prijs te zien krijgen.\n\nVeel mensen denken dat hun eerdere zoekopdrachten de prijs opdrijven. Dat klopt in de meeste gevallen niet, maar het idee leeft breed. Het gevolg is wantrouwen: kopers vertrouwen de prijs die ze zien niet meer."
+  },
+  {
+   "heading": "Wat de ACM vindt",
+   "body": "De Autoriteit Consument & Markt (ACM) is de Nederlandse waakhond voor eerlijke handel. De ACM vindt dat bedrijven duidelijker moeten uitleggen hoe hun prijzen tot stand komen. Nu blijft voor kopers vaak onduidelijk waarom de ene keer meer wordt gevraagd dan de andere keer.\n\nDe toezichthouder pleit dus voor meer transparantie. Dat betekent niet dat variabele prijzen verboden zijn, maar wel dat bedrijven moeten uitleggen wat er speelt. Zulke uitleg kan het vertrouwen van consumenten herstellen."
+  },
+  {
+   "heading": "Hoe algoritmes prijzen bepalen",
+   "body": "Algoritmes kijken naar allerlei signalen, zoals vraag en aanbod, voorraad en het moment van de dag. Daardoor kan de prijs van hetzelfde product per bezoek verschillen. Voor de consument is dat lastig te volgen.\n\nHet probleem zit vooral in de ondoorzichtigheid. Zonder uitleg lijkt het willekeurig, terwijl er vaak een systeem achter zit. Dat verschil tussen gevoel en werkelijkheid voedt het wantrouwen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse kopers betekent dit dat je niet zomaar kunt aannemen dat een prijs vaststaat. Vergelijk daarom altijd op meerdere momenten en bij meerdere aanbieders voordat je iets koopt, zoals een vliegticket of speelgoed. Bedrijven in Nederland die met dynamische prijzen werken, krijgen mogelijk te maken met strengere eisen van de ACM. Het is nog niet bekend welke concrete regels of boetes daaraan hangen. Tot die duidelijkheid er is, blijft het voor jou als consument opletten geblazen.",
+ "faq": [
+  {
+   "q": "Waarom zie ik online een andere prijs dan eerder?",
+   "a": "Algoritmes passen prijzen automatisch aan op basis van vraag, aanbod en timing. Daardoor kan de prijs van hetzelfde product per bezoek verschillen."
+  },
+  {
+   "q": "Maakt mijn zoekgeschiedenis de prijs duurder?",
+   "a": "Veel consumenten denken dat, maar volgens NU.nl Tech klopt dat in de meeste gevallen niet. Het wantrouwen komt vooral door gebrek aan uitleg."
+  },
+  {
+   "q": "Wat wil de ACM doen aan wisselende prijzen?",
+   "a": "De ACM vindt dat bedrijven duidelijker moeten zijn over hoe hun prijzen tot stand komen. Concrete regels of boetes zijn nog niet bekend."
+  }
+ ],
+ "slug": "variabele-prijzen-door-algoritmes-acm-wil-meer-duidelijkheid",
+ "kind": "news",
+ "date": "2026-09-28",
+ "published": "2026-09-28T13:47",
+ "sources": [
+  {
+   "name": "NU.nl Tech",
+   "title": "Wisselende prijzen door algoritmes leiden tot wantrouwen onder consumenten",
+   "url": "https://www.nu.nl/economie/6411225/wisselende-prijzen-door-algoritmes-leiden-tot-wantrouwen-onder-consumenten.html"
+  }
+ ],
+ "path": "/nieuws/variabele-prijzen-door-algoritmes-acm-wil-meer-duidelijkheid/",
+ "og": "/img/og/variabele-prijzen-door-algoritmes-acm-wil-meer-duidelijkheid.png",
+ "take": "De ACM wil dat bedrijven uitleggen waarom een prijs verandert, en dat is terecht. Maar het echte werk zit niet in een betere uitleg, het zit in betere meting: als je zelf niet weet hoe je prijzen tot stand komen, kun je het een klant ook niet uitleggen. Mijn regel is simpel: eerst gratis of goedkoop testen wat zo'n algoritme doet, en pas betalen als je kunt aanwijzen wat het oplevert."
+}

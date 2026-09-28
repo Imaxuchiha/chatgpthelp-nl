@@ -723,6 +723,18 @@
   "9366ee5bcb": {
    "at": "2026-09-27T21:45:12.673850",
    "why": "ok"
+  },
+  "4df5a8ed8e": {
+   "at": "2026-09-28T13:47:05.781492",
+   "why": "ok"
+  },
+  "033b431817": {
+   "at": "2026-09-28T13:48:05.781492",
+   "why": "ok"
+  },
+  "7efef2a525": {
+   "at": "2026-09-28T13:49:05.781492",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -846,6 +858,9 @@
   "Rechter staat Pentagon toe Anthropic te blacklisten om Claude",
   "OpenAI-agents scanden VN-statistieksite ruim 16.000 keer",
   "AI werkgelegenheid starters: voorlopig geen massale baanverlies",
-  "Microsoft laat Copilot+ pc-label vallen bij nieuwe Surface"
+  "Microsoft laat Copilot+ pc-label vallen bij nieuwe Surface",
+  "Variabele prijzen door algoritmes: ACM wil meer duidelijkheid",
+  "Nvidia wil AI-agents beteugelen met Open Agent Safety Platform",
+  "Microsoft geeft Copilot een Home-omgeving en meer AI-functies"
  ]
 }
