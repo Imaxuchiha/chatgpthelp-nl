@@ -751,6 +751,18 @@
   "373869b44e": {
    "at": "2026-09-28T20:44:45.081256",
    "why": "ok"
+  },
+  "227c6ab559": {
+   "at": "2026-09-28T23:51:31.004697",
+   "why": "ok"
+  },
+  "d2394bd4de": {
+   "at": "2026-09-28T23:52:31.004697",
+   "why": "ok"
+  },
+  "342c492ea4": {
+   "at": "2026-09-28T23:53:31.004697",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -880,6 +892,9 @@
   "Microsoft geeft Copilot een Home-omgeving en meer AI-functies",
   "Nvidia komt met beveiliging voor ontsporende AI-agents",
   "OpenAI steunt journalistiek met 5 miljoen dollar aan subsidie",
-  "Google stopt met Gemini Gems en gaat verder met vaardigheden"
+  "Google stopt met Gemini Gems en gaat verder met vaardigheden",
+  "AMD neemt AI-lab World Labs over voor 8,2 miljard dollar",
+  "Modal Labs nadert 750 miljoen dollar bij waardering van 15,75 miljard",
+  "Shopify opent checkout voor AI-agents in de browser"
  ]
 }
