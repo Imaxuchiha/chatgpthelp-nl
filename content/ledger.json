@@ -735,6 +735,22 @@
   "7efef2a525": {
    "at": "2026-09-28T13:49:05.781492",
    "why": "ok"
+  },
+  "46fca61f49": {
+   "at": "2026-09-28T20:42:45.081256",
+   "why": "ok"
+  },
+  "fa45a29570": {
+   "at": "2026-09-28T20:42:45.081256",
+   "why": "ok"
+  },
+  "216d56bba2": {
+   "at": "2026-09-28T20:43:45.081256",
+   "why": "ok"
+  },
+  "373869b44e": {
+   "at": "2026-09-28T20:44:45.081256",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -861,6 +877,9 @@
   "Microsoft laat Copilot+ pc-label vallen bij nieuwe Surface",
   "Variabele prijzen door algoritmes: ACM wil meer duidelijkheid",
   "Nvidia wil AI-agents beteugelen met Open Agent Safety Platform",
-  "Microsoft geeft Copilot een Home-omgeving en meer AI-functies"
+  "Microsoft geeft Copilot een Home-omgeving en meer AI-functies",
+  "Nvidia komt met beveiliging voor ontsporende AI-agents",
+  "OpenAI steunt journalistiek met 5 miljoen dollar aan subsidie",
+  "Google stopt met Gemini Gems en gaat verder met vaardigheden"
  ]
 }

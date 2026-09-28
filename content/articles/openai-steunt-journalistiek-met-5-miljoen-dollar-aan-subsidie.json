@@ -1,0 +1,63 @@
+{
+ "keyword": "openai journalistiek subsidie",
+ "seo_title": "OpenAI steunt journalistiek met 5 miljoen dollar",
+ "title": "OpenAI steunt journalistiek met 5 miljoen dollar aan subsidie",
+ "meta": "OpenAI breidt het Lenfest AI-programma uit met 5 miljoen dollar en softwaretegoed. Lees wat dit betekent voor journalistiek en AI in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "journalistiek",
+  "ai",
+  "subsidie",
+  "lenfest"
+ ],
+ "intro": "OpenAI stopt extra geld in een programma dat nieuwsredacties helpt met AI. Het bedrijf trekt 5 miljoen dollar uit voor het Lenfest AI Collaborative and Fellowship Program, plus nog eens maximaal 5 miljoen dollar aan softwaretegoed en technische hulp. Voor Nederlandse redacties is er voorlopig geen directe rol weggelegd, maar het signaal is duidelijk: AI-bedrijven willen meebepalen hoe nieuws tot stand komt.",
+ "takeaways": [
+  "OpenAI geeft 5 miljoen dollar aan het Lenfest AI-programma.",
+  "Daarbovenop komt maximaal 5 miljoen dollar aan softwaretegoed en technische ondersteuning.",
+  "Het geld gaat naar samenwerking en een fellowshipprogramma voor journalistiek.",
+  "Voor Nederlandse redacties is nog niet bekend of zij kunnen meedoen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies betaalt",
+   "body": "Volgens OpenAI gaat het om een uitbreiding van het Lenfest AI Collaborative and Fellowship Program. Het bedrijf legt 5 miljoen dollar aan contanten op tafel. Daarnaast stelt het maximaal 5 miljoen dollar beschikbaar in de vorm van softwaretegoed en ondersteuning door eigen ingenieurs.\n\nDat is geen liefdadigheid zonder belang. OpenAI bouwt met dit soort programma's een netwerk op van redacties die met hun tools werken. De kennis die daaruit komt, stroomt terug naar het bedrijf. Het Lenfest Institute is een Amerikaanse organisatie die zich richt op de toekomst van lokaal nieuws."
+  },
+  {
+   "heading": "Waarom dit opvalt",
+   "body": "AI-bedrijven zoeken al langer de samenwerking met nieuwsmedia. Enerzijds omdat ze teksten en archieven nodig hebben om modellen te trainen. Anderzijds omdat ze willen voorkomen dat uitgevers hen voor de rechter slepen over auteursrechten.\n\nMet een programma als dit positioneert OpenAI zich als partner in plaats van als tegenstander. Voor redacties betekent het concreet: geld en gereedschap om AI verantwoord in te zetten. Denk aan het samenvatten van lange stukken, het doorzoeken van archieven of het controleren van feiten. De keerzijde is dat de journalistiek afhankelijker wordt van een commerciële partij."
+  },
+  {
+   "heading": "Hoe het programma werkt",
+   "body": "Het programma bestaat uit twee delen. Het Collaborative-deel brengt redacties samen die ervaringen uitwisselen over AI in de nieuwsroom. Het Fellowship-deel geeft individuele journalisten de ruimte om een eigen project uit te voeren.\n\nOpenAI levert naast geld ook technische mensen. Die kunnen helpen bij het bouwen van eigen tools op basis van de modellen van het bedrijf. Hoe de selectie precies verloopt en wie zich kan aanmelden, maakt OpenAI in deze aankondiging niet duidelijk. Dat is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse redacties verandert er vandaag weinig. Het Lenfest Institute is een Amerikaanse organisatie en het programma richt zich in eerste instantie op de Verenigde Staten. Toch is het relevant om te volgen. Grote AI-bedrijven zoeken ook in Europa de samenwerking met uitgevers, mede door strengere regels rond auteursrecht en AI. Nederlandse nieuwsorganisaties die met ChatGPT of vergelijkbare tools willen werken, moeten zelf beoordelen of ze dat willen. Let daarbij op waar je teksten en bronmateriaal terechtkomen en of dat past bij je eigen afspraken over privacy en bronbescherming.",
+ "faq": [
+  {
+   "q": "Hoeveel geld geeft OpenAI aan het Lenfest-programma?",
+   "a": "OpenAI geeft 5 miljoen dollar aan contanten en daarnaast maximaal 5 miljoen dollar aan softwaretegoed en technische ondersteuning."
+  },
+  {
+   "q": "Kunnen Nederlandse redacties meedoen?",
+   "a": "Dat is nog niet bekend. Het programma is opgezet met een Amerikaanse organisatie en richt zich in eerste instantie op de Verenigde Staten."
+  },
+  {
+   "q": "Wat is het Lenfest Institute?",
+   "a": "Het Lenfest Institute is een Amerikaanse organisatie die zich richt op de toekomst van lokaal nieuws en journalistiek."
+  }
+ ],
+ "slug": "openai-steunt-journalistiek-met-5-miljoen-dollar-aan-subsidie",
+ "kind": "news",
+ "date": "2026-09-28",
+ "published": "2026-09-28T20:43",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+  }
+ ],
+ "path": "/nieuws/openai-steunt-journalistiek-met-5-miljoen-dollar-aan-subsidie/",
+ "og": "/img/og/openai-steunt-journalistiek-met-5-miljoen-dollar-aan-subsidie.png"
+}
