@@ -1,0 +1,63 @@
+{
+ "keyword": "ai agent beveiliging",
+ "seo_title": "AI agent beveiliging: Reco haalt 55 miljoen op",
+ "title": "Reco haalt 55 miljoen op voor AI agent beveiliging",
+ "meta": "Reco haalt 55 miljoen dollar op voor beveiliging van AI-agenten. Wat betekent dat voor bedrijven in Nederland die met AI-agenten werken?",
+ "category": "nieuws",
+ "tags": [
+  "ai-agenten",
+  "beveiliging",
+  "reco",
+  "investeringen",
+  "openai"
+ ],
+ "intro": "Het Amerikaanse bedrijf Reco heeft 55 miljoen dollar opgehaald voor software die AI-agenten beveiligt. Volgens TechCrunch komt daar bovenop de 30 miljoen dollar die het bedrijf in februari ophaalde. In totaal heeft Reco nu 140 miljoen dollar aan financiering binnen. Dat het geld zo snel binnenkomt, laat zien dat beveiliging van AI-agenten een eigen markt aan het worden is.",
+ "takeaways": [
+  "Reco haalt 55 miljoen dollar op, bovenop 30 miljoen in februari.",
+  "De totale financiering van het bedrijf komt daarmee op 140 miljoen dollar.",
+  "Steeds meer start-ups richten zich op de beveiliging van AI-agenten.",
+  "Beveiliging van AI-agenten wordt een aparte tak binnen de AI-markt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Reco doet en waarom het geld krijgt",
+   "body": "Reco houdt zich bezig met de beveiliging van AI-agenten. Dat zijn programma's die zelfstandig taken uitvoeren, zoals mailen, bestanden aanpassen of systemen aansturen. Volgens TechCrunch bouwt het bedrijf voort op een eerdere ronde van 30 miljoen dollar in februari. Met de nieuwe 55 miljoen dollar komt de teller op 140 miljoen dollar.\n\nBeleggers zien blijkbaar brood in dit soort software. AI-agenten krijgen steeds vaker toegang tot bedrijfssystemen en data. Dat maakt ze interessant voor aanvallers. Een agent die namens jou mag inloggen of betalingen mag doen, is een logisch doelwit."
+  },
+  {
+   "heading": "Een drukke markt voor agentbeveiliging",
+   "body": "TechCrunch schrijft dat de markt voor beveiliging van AI-agenten vol begint te raken. Meerdere start-ups doen hetzelfde. Dat betekent concurrentie om klanten, om talent en om investeerdersgeld.\n\nVoor kopers is dat niet slecht. Meer aanbieders betekent meer keuze en meer druk op de prijs. Tegelijk is het lastig om te beoordelen welke partij echt bescherming biedt. Er zijn nog weinig standaarden voor dit type beveiliging."
+  },
+  {
+   "heading": "Waarom dit nu speelt",
+   "body": "AI-agenten zijn het afgelopen jaar een vast onderdeel geworden van zakelijke software. OpenAI, Anthropic en Google bouwen agentfuncties in hun producten. Bedrijven koppelen die agenten aan hun eigen systemen.\n\nDaarmee ontstaat een nieuw risico. Een agent kan fouten maken, verkeerde gegevens delen of misbruikt worden. Beveiligingsbedrijven spelen daarop in. Reco is een van de partijen die geld ophalen om dat probleem aan te pakken. Concrete klanten of resultaten noemt TechCrunch niet."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die met AI-agenten werken, betekent dit vooral meer keuze. Grote organisaties hier kijken al naar Copilot, ChatGPT en vergelijkbare tools met agentfuncties. Wie die agenten toegang geeft tot klantdata of financiële systemen, moet nadenken over beveiliging. De bedragen in dollars vallen in euro's iets lager uit, maar de orde van grootte blijft hetzelfde. Let op: Reco is een Amerikaans bedrijf. Of het hier actief wordt en welke eisen de Autoriteit Persoonsgegevens stelt aan zulke software, is nog niet bekend. Werk je met agenten die persoonsgegevens verwerken, dan blijft de AVG gewoon van toepassing.",
+ "faq": [
+  {
+   "q": "Wat is een AI-agent precies?",
+   "a": "Een AI-agent is software die zelfstandig taken uitvoert, zoals mailen, zoeken of systemen aansturen. Je geeft hem een doel en hij bepaalt zelf de stappen."
+  },
+  {
+   "q": "Waarom is beveiliging van AI-agenten nodig?",
+   "a": "Omdat agenten toegang krijgen tot bedrijfssystemen en data. Gaat dat mis, dan kan een agent gegevens lekken of verkeerde acties uitvoeren."
+  },
+  {
+   "q": "Is Reco beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. Reco is een Amerikaans bedrijf en TechCrunch meldt niets over activiteiten in Europa of Nederland."
+  }
+ ],
+ "slug": "reco-haalt-55-miljoen-op-voor-ai-agent-beveiliging",
+ "kind": "news",
+ "date": "2026-09-29",
+ "published": "2026-09-29T16:46",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Reco raises $55M as AI agent security startups crowd the market",
+   "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
+  }
+ ],
+ "path": "/nieuws/reco-haalt-55-miljoen-op-voor-ai-agent-beveiliging/",
+ "og": "/img/og/reco-haalt-55-miljoen-op-voor-ai-agent-beveiliging.png"
+}

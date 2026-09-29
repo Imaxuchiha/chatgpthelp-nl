@@ -787,6 +787,18 @@
   "7cd7dfe3ad": {
    "at": "2026-09-29T16:12:31.807184",
    "why": "ok"
+  },
+  "f617697ebf": {
+   "at": "2026-09-29T16:44:54.443135",
+   "why": "ok"
+  },
+  "bbb4343f64": {
+   "at": "2026-09-29T16:45:54.443135",
+   "why": "ok"
+  },
+  "7111554b65": {
+   "at": "2026-09-29T16:46:54.443135",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -925,6 +937,9 @@
   "OpenAI safety cases: strengere regels voor AI-training",
   "Kia EV2 getest: stiller en luxer dan je voor deze prijs verwacht",
   "Duurste ChatGPT-abonnement terug, maar met minder prestaties",
-  "Meta Muse AI gaf adres van YouTuber aan een vreemde"
+  "Meta Muse AI gaf adres van YouTuber aan een vreemde",
+  "Meta breidt AI-agent Muse uit naar kleine bedrijven",
+  "OpenAI biedt excuses aan na datalek door ai-agenten in Australië",
+  "Reco haalt 55 miljoen op voor AI agent beveiliging"
  ]
 }
