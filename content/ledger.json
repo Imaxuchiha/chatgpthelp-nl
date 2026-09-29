@@ -763,6 +763,18 @@
   "342c492ea4": {
    "at": "2026-09-28T23:53:31.004697",
    "why": "ok"
+  },
+  "5538e1c442": {
+   "at": "2026-09-29T13:25:10.201799",
+   "why": "ok"
+  },
+  "cfe8e90040": {
+   "at": "2026-09-29T13:26:10.201799",
+   "why": "ok"
+  },
+  "cf468ec39d": {
+   "at": "2026-09-29T13:27:10.201799",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -895,6 +907,9 @@
   "Google stopt met Gemini Gems en gaat verder met vaardigheden",
   "AMD neemt AI-lab World Labs over voor 8,2 miljard dollar",
   "Modal Labs nadert 750 miljoen dollar bij waardering van 15,75 miljard",
-  "Shopify opent checkout voor AI-agents in de browser"
+  "Shopify opent checkout voor AI-agents in de browser",
+  "OpenAI stelt nieuw AI-model uit na veiligheidsrisico's",
+  "OpenAI excuses aan Australië: strengere beveiliging na incidenten",
+  "OpenAI safety cases: strengere regels voor AI-training"
  ]
 }

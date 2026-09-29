@@ -1,0 +1,67 @@
+{
+ "keyword": "openai nieuw model uitgesteld",
+ "seo_title": "OpenAI nieuw model uitgesteld om veiligheidsrisico's",
+ "title": "OpenAI stelt nieuw AI-model uit na veiligheidsrisico's",
+ "meta": "OpenAI schrapt de lancering van een nieuw AI-model vanwege veiligheidsrisico's bij interne tests. Wat betekent dat voor gebruikers in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "chatgpt",
+  "ai-veiligheid",
+  "modellen",
+  "tech"
+ ],
+ "intro": "OpenAI brengt een nieuw AI-model voorlopig niet uit. Bij interne testen kwamen meerdere veiligheidsrisico's naar boven, bevestigt het bedrijf achter ChatGPT. De lancering stond gepland voor begin oktober. Het is nog niet bekend wanneer het model nu wel verschijnt.",
+ "takeaways": [
+  "OpenAI zet de geplande lancering van een nieuw AI-model stop",
+  "Interne tests wezen op meerdere veiligheidsrisico's",
+  "Het model zou begin oktober uitkomen, maar dat gaat niet door",
+  "OpenAI geeft geen nieuwe releasedatum"
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies zegt",
+   "body": "OpenAI bevestigt het uitstel na berichtgeving van The Wall Street Journal. Het bedrijf noemt veiligheidsrisico's die tijdens interne testen aan het licht kwamen. Welke risico's dat precies zijn, maakt OpenAI niet openbaar.\n\nHet nieuwe model stond gepland voor begin oktober. Die datum vervalt. Een nieuwe datum noemt het bedrijf niet. Ook is niet duidelijk of het model alleen later komt of dat OpenAI er inhoudelijk nog aan sleutelt."
+  },
+  {
+   "heading": "Waarom dit opvalt",
+   "body": "OpenAI brengt normaal gesproken regelmatig nieuwe versies van zijn modellen uit. Dat het bedrijf een lancering op het laatste moment terugdraait, komt minder vaak voor. Het past bij de grotere nadruk op veiligheidstests voordat een model naar het publiek gaat.\n\nDe afgelopen tijd kreeg de AI-sector meer vragen over wat modellen wel en niet mogen doen. Overheden in de Europese Unie werken aan regels voor AI. Fabrikanten laten daardoor vaker zien dat ze eerst testen voordat iets breed beschikbaar komt."
+  },
+  {
+   "heading": "Wat het betekent voor ChatGPT",
+   "body": "ChatGPT blijft gewoon werken. Het uitgestelde model is een nieuw model, niet een vervanging die nu al live staat. Gebruikers merken voorlopig dus niets van het besluit, behalve dat een mogelijke verbetering later komt.\n\nOf het uitstel invloed heeft op de abonnementen van OpenAI is niet bekend. Het bedrijf heeft daar niets over gezegd. Ook over prijzen of nieuwe functies rond het model is nog geen informatie."
+  },
+  {
+   "heading": "Wat we nog niet weten",
+   "body": "OpenAI zegt niet welke veiligheidsrisico's precies zijn gevonden. Ook is er geen nieuwe releasedatum. Of het model in de Europese Unie direct beschikbaar zou zijn geweest, is niet gemeld.\n\nMeer duidelijkheid komt mogelijk pas als OpenAI zelf met een update komt. Tot die tijd blijft het bij de bevestiging dat de lancering van begin oktober niet doorgaat."
+  }
+ ],
+ "nl_angle": "Voor gebruikers en bedrijven in Nederland verandert er nu weinig: ChatGPT blijft beschikbaar zoals het is. Wie zat te wachten op een nieuwer model, moet langer geduld hebben. Het is nog niet bekend of het model straks in de hele EU wordt uitgerold of eerst elders. Bedrijven die hun werkprocessen op een nieuw model wilden baseren, kunnen hun planning beter nog niet aanpassen. Houd de officiële kanalen van OpenAI in de gaten voor een nieuwe datum.",
+ "faq": [
+  {
+   "q": "Komt er nog een nieuw OpenAI-model?",
+   "a": "Ja, OpenAI zegt alleen dat de lancering is uitgesteld. Een nieuwe datum is nog niet bekend."
+  },
+  {
+   "q": "Waarom stopt OpenAI de lancering?",
+   "a": "Bij interne testen kwamen veiligheidsrisico's naar voren. Welke dat zijn, heeft OpenAI niet bekendgemaakt."
+  },
+  {
+   "q": "Merk ik hier iets van in ChatGPT?",
+   "a": "Nee, ChatGPT blijft gewoon werken. Het gaat om een nieuw model dat nog niet is uitgebracht."
+  }
+ ],
+ "slug": "openai-stelt-nieuw-ai-model-uit-na-veiligheidsrisico-s",
+ "kind": "news",
+ "date": "2026-09-29",
+ "published": "2026-09-29T13:25",
+ "sources": [
+  {
+   "name": "NU.nl Tech",
+   "title": "OpenAI schrapt lancering nieuw AI-model vanwege veiligheidsrisico's",
+   "url": "https://www.nu.nl/tech/6411341/openai-schrapt-lancering-nieuw-ai-model-vanwege-veiligheidsrisicos.html"
+  }
+ ],
+ "path": "/nieuws/openai-stelt-nieuw-ai-model-uit-na-veiligheidsrisico-s/",
+ "og": "/img/og/openai-stelt-nieuw-ai-model-uit-na-veiligheidsrisico-s.png"
+}
