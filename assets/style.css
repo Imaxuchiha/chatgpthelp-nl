@@ -94,3 +94,6 @@ footer a{color:var(--ink)}
 .home-h1{font-family:Fraunces,Georgia,serif;font-size:clamp(1.25rem,2.4vw,1.6rem);margin:18px 0 4px;font-weight:600}
 .ai-note{font-size:.78rem;color:var(--muted);margin:28px 0 0;opacity:.8}
 .ai-note a{color:inherit}
+.pager{display:flex;flex-wrap:wrap;gap:8px;margin:28px 0 8px}
+.pager a{text-decoration:none;background:var(--card);border:1px solid var(--line);padding:8px 13px;border-radius:10px;font-size:.95rem;min-width:44px;min-height:44px;display:inline-flex;align-items:center;justify-content:center}
+.pager a.on{background:var(--ink,#111);color:var(--bg,#fff);border-color:transparent}

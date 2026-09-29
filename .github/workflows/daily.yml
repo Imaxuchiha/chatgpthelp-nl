@@ -1,12 +1,13 @@
 name: redactie
 
-# Volledig autonome redactie: 2x per dag nieuws schrijven (ochtend + middag), 1x per dag meme +
-# prompt van de dag, woensdag een uitleg-artikel, zondag het weekoverzicht. Daarna site bouwen en
+# Volledig autonome redactie: 3x per dag nieuws; de planner in engine/run.py (STEPS) doet in de eerste run
+# van de dag meme + prompt + de weekstappen. Niets hangt af van het klokuur: GitHub start geplande runs
+# vaak 3-5 uur te laat. Daarna site bouwen en
 # naar GitHub Pages publiceren. Nodig als secret: DEEPSEEK_API_KEY. Optioneel: SLACK_WEBHOOK_URL,
 # BSKY_HANDLE + BSKY_APP_PASSWORD.
 on:
   schedule:
-    - cron: '20 5 * * *'   # 07:20 NL (zomer) — ochtendeditie + meme + prompt
+    - cron: '20 3 * * *'   # 05:20 NL (zomer) — vroeg gepland zodat de vertraagde start toch 's ochtends valt
     - cron: '40 11 * * *'  # 13:40 NL — middageditie
     - cron: '10 16 * * *'  # 18:10 NL — avondeditie
   workflow_dispatch:

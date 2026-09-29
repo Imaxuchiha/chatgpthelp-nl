@@ -10,8 +10,29 @@ import shutil
 from datetime import datetime, timedelta
 
 from . import images
-from .config import ASSETS, CATEGORIES, DIST, SITE
+from .config import ASSETS, CATEGORIES, DIST, HUB_MATCH, SITE
 from .editorial import load_articles, load_memes, load_prompts
+from .fetch import jaccard, tokens
+
+PER_PAGE = 36  # rubriekpagina's pagineren, anders groeit /nieuws/ met ~9 kaarten per dag onbeperkt door
+HUB_RE = {slug: re.compile(rx, re.I) for slug, rx in HUB_MATCH.items()}
+
+
+def in_rubric(a: dict, slug: str) -> bool:
+    if a["category"] == slug:
+        return True
+    rx = HUB_RE.get(slug)
+    return bool(rx and rx.search(" ".join([a["title"], a.get("meta", ""), a.get("keyword", "")] + a.get("tags", []))))
+
+
+def related(a: dict, all_arts: list[dict], n: int = 4) -> list[dict]:
+    """Interne links op inhoud: meeste overlap in titel + tags, liefst niet ouder dan de laatste 300 stukken."""
+    me = tokens(" ".join([a["title"]] + a.get("tags", [])))
+    scored = [(jaccard(me, tokens(" ".join([x["title"]] + x.get("tags", [])))), x) for x in all_arts[:300] if x["slug"] != a["slug"]]
+    best = [x for s, x in sorted(scored, key=lambda sx: -sx[0]) if s > 0.05][:n]
+    fill = [x for x in all_arts if x["category"] == a["category"] and x["slug"] != a["slug"] and x not in best]
+    return (best + fill)[:n]
+
 
 MONTHS = ["januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"]
 E = html.escape
@@ -60,7 +81,7 @@ def words(art: dict) -> int:
 
 
 def page(title: str, desc: str, path: str, body: str, og: str = "/img/og-default.png", ldjson: list | None = None,
-         kind: str = "website", extra_head: str = "", nav_on: str = "") -> str:
+         kind: str = "website", extra_head: str = "", nav_on: str = "", noindex: bool = False) -> str:
     url = SITE["url"] + path
     ld = "".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>' for x in (ldjson or []))
     brand = f" | {SITE['name']}"
@@ -84,7 +105,7 @@ gtag('set','allow_google_signals',false);gtag('set','allow_ad_personalization_si
 {measure}
 <title>{E(full_title)}</title>
 <meta name="description" content="{E(desc)}">
-<link rel="canonical" href="{url}">
+<link rel="canonical" href="{url}">{'<meta name="robots" content="noindex,follow">' if noindex else ''}
 <meta property="og:type" content="{kind}"><meta property="og:site_name" content="{E(SITE['name'])}">
 <meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}">
 <meta property="og:url" content="{url}"><meta property="og:image" content="{SITE['url']}{og}"><meta property="og:locale" content="nl_NL">
@@ -157,13 +178,12 @@ def article_page(a: dict, all_arts: list[dict]) -> str:
     faq = "".join(f'<details><summary>{E(f["q"])}</summary><p>{inline(f["a"])}</p></details>' for f in a.get("faq", []) if f.get("q"))
     srcs = "".join(f'<li>{E(s["name"])}: <a href="{E(s["url"])}" rel="nofollow noopener" target="_blank">{E(s["title"])}</a></li>' for s in a.get("sources", []))
     tags = "".join(f'<a href="/{a["category"]}/">{E(t)}</a>' for t in a.get("tags", [])[:6])
-    related = [x for x in all_arts if x["category"] == a["category"] and x["slug"] != a["slug"]][:4]
-    more = "".join(f'<a href="{x["path"]}">{E(x["title"])}</a>' for x in related)
+    more = "".join(f'<a href="{x["path"]}">{E(x["title"])}</a>' for x in related(a, all_arts))
     rt = max(1, round(words(a) / 220))
     ld = [{
         "@context": "https://schema.org", "@type": "NewsArticle" if a.get("kind") != "evergreen" else "Article",
         "headline": a["title"], "description": a["meta"], "datePublished": a["published"] + ":00+02:00",
-        "dateModified": a["published"] + ":00+02:00", "inLanguage": "nl",
+        "dateModified": (a["seo_updated"] + "T09:00:00+02:00") if a.get("seo_updated") else a["published"] + ":00+02:00", "inLanguage": "nl",
         "image": [SITE["url"] + a["og"]], "mainEntityOfPage": SITE["url"] + a["path"],
         "author": ({"@type": "Person", "name": "Maxim", "url": SITE["url"] + "/maxim/"} if a.get("kind") in KIND_LABEL
                    else {"@type": "Organization", "name": SITE["name"] + " (AI-redactie)", "url": SITE["url"] + "/over/"}),
@@ -193,7 +213,7 @@ def article_page(a: dict, all_arts: list[dict]) -> str:
 {sponsor()}
 <div class="tags">{tags}</div>
 {f'<div class="sources"><strong>Bronnen</strong><ul>{srcs}</ul></div>' if srcs else ''}
-{f'<section class="block"><h2>Meer in {E(cat_name)}</h2><div class="more">{more}</div></section>' if more else ''}
+{f'<section class="block"><h2>Lees ook</h2><div class="more">{more}</div></section>' if more else ''}
 {ai_label(a)}
 </article>"""
     return page(a.get("seo_title") or a["title"], a["meta"], a["path"], body, a["og"], ld, kind="article", nav_on=a["category"])
@@ -226,7 +246,7 @@ def home(arts: list[dict], memes: list[dict], prompts: list[dict]) -> str:
         body += f'<section class="block"><div class="sec-head"><h2>Laatste artikelen</h2><a href="/feed.xml">RSS</a></div><div class="grid">{"".join(card(a) for a in rest)}</div></section>'
     body += sponsor()
     for slug, (name, desc) in CATEGORIES.items():
-        cat = [a for a in arts if a["category"] == slug][:4]
+        cat = [a for a in arts if in_rubric(a, slug)][:4]
         if cat:
             body += f'<section class="block"><div class="sec-head"><h2>{E(name)}</h2><a href="/{slug}/">Alles in {E(name)} →</a></div><div class="grid">{"".join(card(a) for a in cat)}</div></section>'
     ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE["name"], "url": SITE["url"], "inLanguage": "nl",
@@ -263,12 +283,23 @@ CAT_SEO = {
 }
 
 
-def listing(title: str, desc: str, path: str, arts: list[dict], nav_on: str) -> str:
+def listing(title: str, desc: str, path: str, arts: list[dict], nav_on: str, pg: int = 1, pages: int = 1) -> str:
+    """Rubriekpagina. Lege rubriek = noindex (dunne pagina) en niet in de sitemap; vanaf pagina 2 eigen URL
+    /<rubriek>/pagina/N/ met eigen canonical, zodat oudere artikelen via gewone links vindbaar blijven."""
     h1, seo_title, seo_desc = CAT_SEO.get(nav_on, (title, title, desc))
+    if pg > 1:
+        h1, seo_title, seo_desc = f"{h1} (pagina {pg})", f"{seo_title} | pagina {pg}", f"Pagina {pg}: {seo_desc}"[:158]
     body = f'<section class="block"><h1>{E(h1)}</h1><p class="meta" style="max-width:640px">{E(desc)}</p><div class="grid" style="margin-top:22px">{"".join(card(a) for a in arts)}</div></section>'
     if not arts:
-        body += "<p>Nog geen artikelen in deze rubriek — kom morgen terug.</p>"
-    return page(seo_title, seo_desc, path, body, nav_on=nav_on)
+        body += "<p>Nog geen artikelen in deze rubriek. Kom morgen terug.</p>"
+    if pages > 1:
+        base = f"/{nav_on}/"
+        link = lambda n: base if n == 1 else f"{base}pagina/{n}/"  # noqa: E731
+        nums = "".join(f'<a href="{link(n)}"{" class=on" if n == pg else ""}>{n}</a>' for n in range(1, pages + 1))
+        prev = f'<a href="{link(pg - 1)}" rel="prev">← Nieuwer</a>' if pg > 1 else ""
+        nxt = f'<a href="{link(pg + 1)}" rel="next">Ouder →</a>' if pg < pages else ""
+        body += f'<nav class="pager" aria-label="Paginering">{prev}{nums}{nxt}</nav>'
+    return page(seo_title, seo_desc, path, body, nav_on=nav_on, noindex=not arts)
 
 
 def memes_page(memes: list[dict]) -> str:
@@ -358,10 +389,22 @@ def feed(arts: list[dict]) -> str:
 
 
 def sitemaps(arts, memes, prompts):
-    urls = [("/", 1.0, "hourly")] + [(f"/{s}/", 0.8, "daily") for s in CATEGORIES] + [("/prompts/", 0.7, "daily"), ("/memes/", 0.6, "daily"), ("/over/", 0.3, "monthly"), ("/maxim/", 0.5, "weekly"), ("/privacy/", 0.1, "yearly")]
-    urls += [(a["path"], 0.7, "weekly") for a in arts] + [(p["path"], 0.5, "monthly") for p in prompts] + [(f"/memes/{m['date']}/", 0.3, "monthly") for m in memes]
+    # lastmod = de dag dat de inhoud echt veranderde (publicatie of SEO-lus); Google gebruikt lastmod, niet priority.
+    def newest(items):
+        return max((x.get("seo_updated") or x["date"] for x in items), default=None)
+    urls = [("/", 1.0, "hourly", newest(arts))]
+    for s in CATEGORIES:
+        mine = [a for a in arts if in_rubric(a, s)]
+        if mine:  # lege rubriek staat op noindex en hoort niet in de sitemap
+            urls.append((f"/{s}/", 0.8, "daily", newest(mine)))
+            urls += [(f"/{s}/pagina/{pg}/", 0.4, "daily", None) for pg in range(2, -(-len(mine) // PER_PAGE) + 1)]
+    urls += [("/prompts/", 0.7, "daily", newest(prompts)), ("/memes/", 0.6, "daily", newest(memes)), ("/over/", 0.3, "monthly", None),
+             ("/maxim/", 0.5, "weekly", newest([a for a in arts if a.get("kind") in ("column", "practice", "review")])), ("/privacy/", 0.1, "yearly", None)]
+    urls += [(a["path"], 0.7, "weekly", a.get("seo_updated") or a["date"]) for a in arts]
+    urls += [(p["path"], 0.5, "monthly", p["date"]) for p in prompts] + [(f"/memes/{m['date']}/", 0.3, "monthly", m["date"]) for m in memes]
     sm = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(
-        f"<url><loc>{SITE['url']}{u}</loc><priority>{p}</priority><changefreq>{c}</changefreq></url>" for u, p, c in urls) + "</urlset>"
+        f"<url><loc>{SITE['url']}{u}</loc>{f'<lastmod>{lm}</lastmod>' if lm else ''}<priority>{p}</priority><changefreq>{c}</changefreq></url>"
+        for u, p, c, lm in urls) + "</urlset>"
     cutoff = (datetime.now() - timedelta(hours=48)).isoformat()
     recent = [a for a in arts if a["published"] >= cutoff and a.get("kind") == "news"][:100]
     news = ('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">'
@@ -402,7 +445,11 @@ def build() -> int:
     for a in arts:
         write(a["path"], article_page(a, arts)); n += 1
     for slug, (name, desc) in CATEGORIES.items():
-        write(f"/{slug}/", listing(name, desc, f"/{slug}/", [a for a in arts if a["category"] == slug], slug)); n += 1
+        mine = [a for a in arts if in_rubric(a, slug)]
+        pages = max(1, -(-len(mine) // PER_PAGE))
+        for pg in range(1, pages + 1):
+            path = f"/{slug}/" if pg == 1 else f"/{slug}/pagina/{pg}/"
+            write(path, listing(name, desc, path, mine[(pg - 1) * PER_PAGE:pg * PER_PAGE], slug, pg, pages)); n += 1
     write("/memes/", memes_page(memes)); n += 1
     for m in memes:
         write(f"/memes/{m['date']}/", meme_page(m, memes)); n += 1

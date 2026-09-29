@@ -55,6 +55,14 @@ CATEGORIES = {
     "mening": ("Maxims mening", "Columns, praktijkverhalen en eerlijke reviews van Maxim, ondernemer en performance-marketeer."),
 }
 
+# Onderwerp-hubs: de schrijf-AI kiest bijna altijd "nieuws" als rubriek (127 van 135 op 29-09), waardoor
+# /chatgpt/ en /tools/ leeg bleven. Deze rubrieken tonen daarom ook elk artikel dat over het onderwerp
+# gaat (titel, meta, tags, zoekwoord), ongeacht zijn eigen rubriek. Vullen zichzelf bij elke build.
+HUB_MATCH = {
+    "chatgpt": r"\b(chat ?gpt|openai|gpt[- ]?\d[\w.]*|sora|sam altman)\b",
+    "tools": r"\b(claude|anthropic|gemini|copilot|midjourney|perplexity|mistral|deepseek|llama|grok|notebooklm|meta ai|muse ai)\b",
+}
+
 # RSS-bronnen: naam, url, taal, gewicht (hoger = eerder gekozen), betrouwbaar (primaire bron?)
 SOURCES = [
     {"name": "OpenAI", "url": "https://openai.com/news/rss.xml", "lang": "en", "weight": 1.6, "primary": True},

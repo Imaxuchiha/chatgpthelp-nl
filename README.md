@@ -4,12 +4,17 @@ Nederlandse nieuws- en informatiesite over ChatGPT en AI die volledig door softw
 gepubliceerd. Geen mens in de lus.
 
 ## Hoe het werkt
-1. **GitHub Actions** (`.github/workflows/daily.yml`) draait 3x per dag (07:20 / 13:40 / 18:10 NL).
+1. **GitHub Actions** (`.github/workflows/daily.yml`) draait 3x per dag (gepland 05:20 / 13:40 / 18:10 NL;
+   GitHub start geplande runs vaak 3-5 uur later, daarom hangt niets af van het klokuur).
 2. `engine/fetch.py` leest ~14 RSS-bronnen, filtert op AI-relevantie, clustert tot verhalen en
    slaat alles wat al bekeken is over (`content/ledger.json`).
 3. `engine/writer.py` laat DeepSeek (`deepseek-flash`, denken uit) een **origineel Nederlands**
-   artikel schrijven op basis van alleen de bronnen; de ochtendrun schrijft ook meme + prompt van de
-   dag, woensdag een uitleg-artikel (`content/evergreen_seeds.json`), zondag het weekoverzicht.
+   artikel schrijven op basis van alleen de bronnen. De **planner** (`STEPS` in `engine/run.py`, status in
+   `content/schedule.json`) laat de eerste run van de dag meme + prompt maken, ma de SEO-lus, di column,
+   wo + vr een uitleg-artikel (`content/evergreen_seeds.json`), do praktijk, za review, zo weekoverzicht.
+   Mislukt een stap, dan probeert de volgende run het opnieuw (max 3x per dag); een weekstap die 8 dagen
+   niet gelukt is wordt ingehaald (max 1 per run). De **waakhond** zet in de Slack-regel welke stap te
+   lang niet gelukt is.
 4. `engine/gate.py` keurt: lengte, titel/meta, Nederlands, geen kopieerrun (≥12 woorden), geen
    onbekende getallen, geen clichés, geen dubbel onderwerp. Faalt = niet publiceren.
    Gevoelige onderwerpen (`HIGH_RISK_TERMS` in `engine/config.py`) worden nooit automatisch gepubliceerd.
@@ -38,7 +43,8 @@ woensdag geschreven. Log in `content/seo_log.json`. Handmatig: `python -m engine
 pip install -r requirements.txt
 set DEEPSEEK_API_KEY=...
 python -m engine.run dry      # bronnen bekijken
-python -m engine.run run      # editie schrijven (FORCE_MORNING=1 forceert meme/prompt)
+python -m engine.run run      # editie schrijven (FORCE_STEPS=meme,prompt forceert stappen)
+python -m engine.run status   # content + planner: wat is wanneer gelukt, wat staat open
 python -m engine.run build    # dist/ bouwen
 ```
 
