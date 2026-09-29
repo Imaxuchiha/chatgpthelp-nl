@@ -8,10 +8,12 @@ from __future__ import annotations
 
 import json
 
-from .config import CATEGORIES, SITE
+from .config import CATEGORIES, FORBIDDEN_PHRASES, SITE
 from .llm import ask_json
 
 CATS = ", ".join(f"{k} ({v[0]})" for k, v in CATEGORIES.items())
+# exact dezelfde lijst als de poort (gate.py), zodat het model weet wat afgekeurd wordt
+BANNED = "; ".join(f'"{p.strip()}"' for p in FORBIDDEN_PHRASES)
 
 STYLE = f"""Je bent de redactie van {SITE['name']} ({SITE['domain']}), een Nederlandse nieuws- en
 informatiesite over ChatGPT en AI voor gewone mensen en professionals in Nederland.
@@ -21,8 +23,10 @@ Schrijfregels (hard):
   gelijk aan een bron.
 - Gebruik ALLEEN feiten die in de aangeleverde bronnen staan. Verzin geen cijfers, citaten, namen of
   data. Weet je iets niet: zeg dat het nog niet bekend is.
-- Toon: nuchter, helder, concreet, licht informeel, jij-vorm. Korte zinnen. Geen hype, geen clichés
-  ("revolutionair", "baanbrekend", "in de snel veranderende wereld", "kortom", "in dit artikel").
+- Toon: nuchter, helder, concreet, licht informeel, jij-vorm. Korte zinnen. Geen hype, geen clichés.
+  Begin direct met de inhoud; verwijs nooit naar de tekst zelf.
+- VERBODEN WOORDEN (de kwaliteitscontrole keurt de hele tekst af als één ervan erin staat, ook in een
+  ontkenning): {BANNED}.
 - Vertaal het nieuws naar Nederland: wat betekent dit voor iemand in Nederland (prijs in euro's,
   beschikbaarheid in NL/EU, wetgeving, werk).
 - Amerikaanse termen uitleggen. Merknamen correct: ChatGPT, OpenAI, Claude, Gemini, Copilot.
@@ -295,15 +299,23 @@ JSON:
     return ask_json(STYLE, user, temperature=0.3, max_tokens=4200, model=PERSONA_MODEL)
 
 
-def fix_phrasing(art: dict, snippets: list[str]) -> dict:
-    """Gerichte reparatie na afkeur op AI-tic: alleen de betreffende zinnen herschrijven. De poort keurt daarna opnieuw."""
-    user = f"""Hieronder een artikel als JSON. In deze tekststukken wordt eerst iets ontkend en daarna rechtgezet,
-een retorisch patroon dat als AI klinkt:
-{chr(10).join('- ' + s for s in snippets)}
+def fix_phrasing(art: dict, errs: list[str], persona: bool = True) -> dict:
+    """Gerichte reparatie na afkeur op stijl (AI-tic of verboden frase): alleen de betreffende zinnen herschrijven.
+    De poort keurt daarna gewoon opnieuw; er wordt niets versoepeld."""
+    lines = []
+    for e in errs:
+        kind, _, snippet = e.partition(": ")
+        if kind == "AI-tic":
+            lines.append(f'- "{snippet}": eerst iets ontkennen en dan rechtzetten; maak er één directe bewering van')
+        else:
+            lines.append(f'- de woorden "{snippet}" mogen nergens in de tekst staan; herschrijf die zin zonder die woorden')
+    user = f"""Hieronder een artikel als JSON. Een kwaliteitscontrole keurde het af op deze punten:
+{chr(10).join(lines)}
 
-Herschrijf ALLEEN de zinnen waarin die stukken staan, tot één directe bewering met dezelfde inhoud. Laat al het
-andere woord voor woord staan, ook cijfers en structuur. Houd dezelfde JSON-velden. Geen gedachtestreepjes.
+Herschrijf ALLEEN de zinnen die het betreft. Laat al het andere woord voor woord staan, ook cijfers en structuur.
+Houd dezelfde JSON-velden. Geen gedachtestreepjes.
 
 JSON:
 {json.dumps(art, ensure_ascii=False)}"""
-    return ask_json(STYLE, user, temperature=0.2, max_tokens=4200, model=PERSONA_MODEL)
+    kw = {"model": PERSONA_MODEL} if persona else {}
+    return ask_json(STYLE, user, temperature=0.2, max_tokens=4200, **kw)

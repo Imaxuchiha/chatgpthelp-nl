@@ -41,6 +41,11 @@ def _save(dirpath, name: str, data: dict) -> None:
     (dirpath / f"{name}.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
+def _style_only(errs: list[str]) -> bool:
+    """Alleen stijlfouten (AI-tic, verboden frase) die één gerichte herschrijfronde waard zijn."""
+    return bool(errs) and all(e.startswith(("AI-tic: ", "verboden frase: ")) for e in errs)
+
+
 def _finalize(art: dict, kind: str, sources: list[dict], stamp: datetime) -> dict:
     cat = art.get("category") if art.get("category") in CATEGORIES else ("uitleg" if kind == "evergreen" else "nieuws")
     slug = slugify(art["title"])
@@ -108,6 +113,10 @@ def evergreen(existing: list[dict], stamp: datetime) -> dict | None:
     print(f"  uitleg schrijven: {seed['topic']}")
     art = writer.write_evergreen(seed, stamp.strftime("%d-%m-%Y"))
     errs = gate.check_article(art, "", [a["title"] for a in existing], "evergreen")
+    if _style_only(errs):
+        print(f"    POORT: {errs} → zin herschrijven")
+        art = writer.fix_phrasing(art, errs, persona=False)
+        errs = gate.check_article(art, "", [a["title"] for a in existing], "evergreen")
     if errs:
         print(f"    POORT: {errs}")
         return None
@@ -177,10 +186,10 @@ def _persona_article(art: dict, kind: str, stamp: datetime, source_text: str, ex
     art["category"] = "mening"
     titles = [a["title"] for a in existing[:200]]
     errs = gate.check_article(art, source_text, titles, "column")
-    if errs and all(e.startswith("AI-tic: ") for e in errs):
+    if _style_only(errs):
         # alleen een stijlfout: één gerichte herschrijfronde, daarna gewoon opnieuw door dezelfde poort
         print(f"    POORT ({kind}): {errs} → zin herschrijven")
-        art = writer.fix_phrasing(art, [e[len("AI-tic: "):] for e in errs])
+        art = writer.fix_phrasing(art, errs)
         art["category"] = "mening"
         errs = gate.check_article(art, source_text, titles, "column")
     if errs:
@@ -298,11 +307,15 @@ def add_takes(arts: list[dict]) -> int:
     recent = [a["take"] for a in load_articles()[:40] if a.get("take")]
     n = 0
     for a in arts:
+        feedback = []  # wat de poort bij een vorige poging afkeurde, letterlijk terug naar het model
         for attempt in range(3):
             try:
                 ls = persona.relevant_lessons(a["title"] + " " + a["meta"] + " " + a.get("intro", ""), 2, min_score=6)
                 avoid = "\n".join("- " + r for r in recent[-12:])
                 extra = ("\n\nVERMIJD formuleringen en stopzinnen uit deze eerdere takes:\n" + avoid) if avoid else ""
+                if feedback:
+                    extra += ("\n\nJE VORIGE POGING WERD AFGEKEURD. Zorg nu dat:\n" + "\n".join("- " + f for f in feedback)
+                              + "\nFormuleer de opvatting in eigen, nieuwe woorden; neem geen zinsdelen uit het profiel over.")
                 focus = beliefs[(sum(map(ord, a["slug"])) + attempt) % len(beliefs)]
                 take = writer.write_take(b, a, persona.lessons_block(ls) + extra, focus)
             except Exception as e:  # noqa: BLE001
@@ -319,6 +332,12 @@ def add_takes(arts: list[dict]) -> int:
             if not why:
                 break
             print(f"    take afgekeurd ({why}), poging {attempt + 1}")
+            feedback.append(
+                f"de woorden '{dup}' er niet in staan" if why.startswith("herhaalt") else
+                "het maximaal 3 korte zinnen en 400 tekens is" if why.endswith("zinnen") else
+                f"geen andere cijfers dan die uit de praktijkles of het artikel ({', '.join(bad)} mogen niet)" if bad else
+                f"'{gate.antithesis(take)}' eruit is: één directe bewering" if why.startswith("AI-tic") else
+                f"dit niet meer gebeurt: {why}")
             take = ""
         if not take:
             continue
