@@ -60,5 +60,7 @@
  ],
  "path": "/nieuws/kia-ev2-getest-stiller-en-luxer-dan-je-voor-deze-prijs-verwacht/",
  "og": "/img/og/kia-ev2-getest-stiller-en-luxer-dan-je-voor-deze-prijs-verwacht.png",
- "take": "Een auto die vier weken op de weg is geweest en meteen 'stiller en luxer dan je voor deze prijs verwacht' heet, daar zet ik mijn vraagtekens bij. Ik rijd zelf geen EV2 en heb hem niet getest, dus over de auto zeg ik niks, maar het patroon ken ik: eerst een mooie kop, dan pas de cijfers. Mijn regel is simpel: ik geloof een claim pas als ik hem zelf kan nameten, en tot die tijd is het een testrit van vier weken, geen oordeel."
+ "take": "Een auto die vier weken op de weg is geweest en meteen 'stiller en luxer dan je voor deze prijs verwacht' heet, daar zet ik mijn vraagtekens bij. Ik rijd zelf geen EV2 en heb hem niet getest, dus over de auto zeg ik niks, maar het patroon ken ik: eerst een mooie kop, dan pas de cijfers. Mijn regel is simpel: ik geloof een claim pas als ik hem zelf kan nameten, en tot die tijd is het een testrit van vier weken, geen oordeel.",
+ "noindex": true,
+ "noindex_reden": "off-topic (geen AI), doorgelaten door het oude substring-filter; 29-09"
 }

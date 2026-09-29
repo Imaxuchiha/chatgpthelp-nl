@@ -64,5 +64,7 @@
  ],
  "path": "/nieuws/odido-hackers-zeggen-fbi-te-hebben-gehackt-wat-nu/",
  "og": "/img/og/odido-hackers-zeggen-fbi-te-hebben-gehackt-wat-nu.png",
- "take": "ShinyHunters die beweren de FBI te hebben gehackt, dat is gewoon dezelfde truc als altijd: eerst een grote naam roepen, dan pas met bewijs komen. Ik geloof zo'n claim niet voordat er iets concreets ligt, een persbericht is geen datalek. Wat mij betreft blijft het advies simpel: geloof de dreiging, maar betaal niet op basis van een screenshot."
+ "take": "ShinyHunters die beweren de FBI te hebben gehackt, dat is gewoon dezelfde truc als altijd: eerst een grote naam roepen, dan pas met bewijs komen. Ik geloof zo'n claim niet voordat er iets concreets ligt, een persbericht is geen datalek. Wat mij betreft blijft het advies simpel: geloof de dreiging, maar betaal niet op basis van een screenshot.",
+ "noindex": true,
+ "noindex_reden": "off-topic (geen AI), doorgelaten door het oude substring-filter; 29-09"
 }

@@ -113,6 +113,8 @@ def evergreen(existing: list[dict], stamp: datetime) -> dict | None:
         return None
     art = _finalize(art, "evergreen", [], stamp)
     art["seed"] = seed["topic"]
+    if seed.get("keyword"):
+        art["keyword"] = seed["keyword"]
     _save(ARTICLES, art["slug"], art)
     return art
 
@@ -175,6 +177,12 @@ def _persona_article(art: dict, kind: str, stamp: datetime, source_text: str, ex
     art["category"] = "mening"
     titles = [a["title"] for a in existing[:200]]
     errs = gate.check_article(art, source_text, titles, "column")
+    if errs and all(e.startswith("AI-tic: ") for e in errs):
+        # alleen een stijlfout: één gerichte herschrijfronde, daarna gewoon opnieuw door dezelfde poort
+        print(f"    POORT ({kind}): {errs} → zin herschrijven")
+        art = writer.fix_phrasing(art, [e[len("AI-tic: "):] for e in errs])
+        art["category"] = "mening"
+        errs = gate.check_article(art, source_text, titles, "column")
     if errs:
         print(f"    POORT ({kind}): {errs}")
         return None

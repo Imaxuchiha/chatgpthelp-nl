@@ -14,7 +14,7 @@ from datetime import datetime, timedelta, timezone
 
 import feedparser
 
-from .config import AI_TERMS, HIGH_RISK_TERMS, LEDGER, LIMITS, NOISE_TERMS, SOURCES
+from .config import AI_MIN_SUMMARY_HITS, AI_PATTERN, HIGH_RISK_TERMS, LEDGER, LIMITS, SOURCES
 
 UA = "Mozilla/5.0 (compatible; chatgpthelp-bot/1.0; +https://chatgpthelp.nl/over/)"
 STOP = set("""de het een en of van in op voor met is zijn wordt worden aan bij door om te dat die dit
@@ -60,11 +60,15 @@ def save_ledger(ledger: dict) -> None:
     LEDGER.write_text(json.dumps(ledger, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
-def is_ai(text: str) -> bool:
-    t = f" {text.lower()} "
-    for n in NOISE_TERMS:
-        t = t.replace(n, " ")
-    return any(term in t for term in AI_TERMS)
+AI_RX = re.compile(AI_PATTERN, re.I)
+# OpenAI schrijft "GPT‑6" met een niet-afbrekend koppelteken; zonder dit matcht gpt-\d niet
+HYPHENS = str.maketrans({"‐": "-", "‑": "-", "‒": "-", "–": "-", "­": ""})
+
+
+def is_ai(title: str, summary: str = "") -> bool:
+    """AI-term in de titel, of minstens AI_MIN_SUMMARY_HITS keer in de samenvatting."""
+    title, summary = title.translate(HYPHENS), summary.translate(HYPHENS)
+    return bool(AI_RX.search(title)) or len(AI_RX.findall(summary)) >= AI_MIN_SUMMARY_HITS
 
 
 def risk(text: str) -> str:
@@ -98,7 +102,7 @@ def fetch_all(max_age_hours: int | None = None) -> list[dict]:
                 continue
             summary = _clean(e.get("summary", "") or (e.get("content", [{}])[0].get("value", "") if e.get("content") else ""))
             blob = f"{title} {summary}"
-            if not is_ai(blob):
+            if not src.get("ai_feed") and not is_ai(title, summary):
                 continue
             items.append({
                 "id": _sid(_norm_url(link)),

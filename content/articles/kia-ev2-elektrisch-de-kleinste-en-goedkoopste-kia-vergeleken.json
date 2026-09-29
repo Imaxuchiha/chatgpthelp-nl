@@ -58,5 +58,7 @@
   }
  ],
  "path": "/nieuws/kia-ev2-elektrisch-de-kleinste-en-goedkoopste-kia-vergeleken/",
- "og": "/img/og/kia-ev2-elektrisch-de-kleinste-en-goedkoopste-kia-vergeleken.png"
+ "og": "/img/og/kia-ev2-elektrisch-de-kleinste-en-goedkoopste-kia-vergeleken.png",
+ "noindex": true,
+ "noindex_reden": "off-topic (geen AI), doorgelaten door het oude substring-filter; 29-09"
 }

@@ -4,6 +4,7 @@
   python -m engine.run dry      # alleen bronnen scannen en tonen
   python -m engine.run build    # site renderen naar dist/
   python -m engine.run status   # overzicht content/ + planner
+  python -m engine.run indexnow # na deploy: nieuwe URL's melden bij Bing (IndexNow)
 """
 from __future__ import annotations
 
@@ -29,7 +30,7 @@ STEPS = [
     ("meme", None, False),
     ("prompt", None, False),
     ("column", {1}, True),          # dinsdag: Maxims mening over het nieuws
-    ("uitleg", {2, 4}, True),       # woensdag + vrijdag: evergreen uitleg, de SEO-motor
+    ("uitleg", {0, 2, 4}, True),    # ma + wo + vr: evergreen uitleg op zoekvolume, de SEO-motor
     ("praktijk", {3}, True),        # donderdag: uit de praktijk
     ("review", {5}, True),          # zaterdag
     ("weekoverzicht", {6}, False),  # zondag; midweeks inhalen heeft geen zin
@@ -38,7 +39,7 @@ SCHEDULE = CONTENT / "schedule.json"
 MAX_TRIES = 3     # pogingen per stap per dag; daarna wachten tot de volgende beurt
 CATCHUP_DAYS = 8  # een weekstap die zo lang niet gelukt is, haalt de eerstvolgende run in (max 1 per run)
 # waakhond: zo veel dagen mag de laatste geslaagde keer oud zijn; daarna gaat er een waarschuwing mee naar Slack
-MAX_AGE = {"nieuws": 1, "meme": 1, "prompt": 1, "bluesky": 1, "seo": 8, "column": 8, "uitleg": 5,
+MAX_AGE = {"nieuws": 1, "meme": 1, "prompt": 1, "bluesky": 1, "seo": 8, "column": 8, "uitleg": 4,
            "praktijk": 8, "review": 8, "weekoverzicht": 8}
 KIND_OF = {"column": "column", "uitleg": "evergreen", "praktijk": "practice", "review": "review", "weekoverzicht": "week"}
 
@@ -274,6 +275,47 @@ def cmd_build() -> int:
     return 0
 
 
+def cmd_indexnow(hours: int = 12) -> int:
+    """Na de deploy: nieuwe en bijgewerkte URL's van de laatste `hours` uur melden bij IndexNow.
+    Dubbel melden bij overlappende runs is onschuldig; een fout breekt de publicatie nooit."""
+    import urllib.request
+    from datetime import timedelta
+
+    from .render import in_rubric
+    from .config import CATEGORIES
+
+    key = SITE.get("indexnow_key")
+    if not key:
+        print("indexnow: geen sleutel")
+        return 0
+    now = datetime.now()
+    cutoff, day = (now - timedelta(hours=hours)).isoformat(timespec="minutes"), str(now.date())
+    arts = editorial.load_articles()
+    fresh = [a for a in arts if not a.get("noindex") and (a["published"] >= cutoff or a.get("seo_updated") == day)]
+    paths = [a["path"] for a in fresh]
+    if fresh:
+        paths += ["/"] + sorted({f"/{s}/" for s in CATEGORIES for a in fresh if in_rubric(a, s)})
+    m = editorial.load_memes()
+    if m and m[0]["date"] == day:
+        paths += [f"/memes/{day}/", "/memes/"]
+    p = editorial.load_prompts()
+    if p and p[0]["date"] == day:
+        paths += [p[0]["path"], "/prompts/"]
+    urls = list(dict.fromkeys(SITE["url"] + x for x in paths))
+    if not urls:
+        print("indexnow: niets nieuws")
+        return 0
+    body = {"host": SITE["domain"], "key": key, "keyLocation": f"{SITE['url']}/{key}.txt", "urlList": urls[:1000]}
+    req = urllib.request.Request("https://api.indexnow.org/indexnow", json.dumps(body).encode(),
+                                 {"Content-Type": "application/json; charset=utf-8"})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            print(f"indexnow: {len(urls)} URL's gemeld, HTTP {r.status}")
+    except Exception as e:  # noqa: BLE001
+        print(f"indexnow-fout: {e} ({len(urls)} URL's niet gemeld)")
+    return 0
+
+
 def cmd_status() -> int:
     arts = editorial.load_articles()
     print(f"{len(arts)} artikelen, {len(list(MEMES.glob('*.json')))} memes, {len(list(PROMPTS.glob('*.json')))} prompts")
@@ -292,7 +334,8 @@ def cmd_status() -> int:
 
 def main(argv):
     cmd = argv[1] if len(argv) > 1 else "run"
-    fn = {"seo": cmd_seo, "run": cmd_run, "dry": cmd_dry, "build": cmd_build, "status": cmd_status}.get(cmd)
+    fn = {"seo": cmd_seo, "run": cmd_run, "dry": cmd_dry, "build": cmd_build, "status": cmd_status,
+          "indexnow": cmd_indexnow}.get(cmd)
     if not fn:
         print(__doc__)
         return 2

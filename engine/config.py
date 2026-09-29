@@ -36,6 +36,9 @@ SITE = {
     "bluesky": "https://bsky.app/profile/chatgpthelp.nl",
     # Meting: GA4 met analytics-cookies zonder banner (bewuste keuze Maxim 15-09); ads-opslag/signalen uit.
     "ga4": "G-68TBRXKHX0",
+    # IndexNow (Bing, Yandex, Seznam; Bing voedt ook ChatGPT- en Copilot-zoeken). Sleutel is publiek by design:
+    # hij staat als /<sleutel>.txt op de site. Google doet niet mee; die leest de sitemap.
+    "indexnow_key": "d51e395866d5710100206fceebc473f9",
     # Enige commerciële link (kostenbewust, geen ads): AI-training van Maxim.
     "sponsor": {
         "label": "AI-training voor je team",
@@ -65,8 +68,8 @@ HUB_MATCH = {
 
 # RSS-bronnen: naam, url, taal, gewicht (hoger = eerder gekozen), betrouwbaar (primaire bron?)
 SOURCES = [
-    {"name": "OpenAI", "url": "https://openai.com/news/rss.xml", "lang": "en", "weight": 1.6, "primary": True},
-    {"name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "lang": "en", "weight": 1.2, "primary": True},
+    {"name": "OpenAI", "url": "https://openai.com/news/rss.xml", "lang": "en", "weight": 1.6, "primary": True, "ai_feed": True},
+    {"name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "lang": "en", "weight": 1.2, "primary": True, "ai_feed": True},
     {"name": "Google (The Keyword)", "url": "https://blog.google/technology/ai/rss/", "lang": "en", "weight": 1.2, "primary": True},
     {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "lang": "en", "weight": 0.6, "primary": True},
     {"name": "The Verge", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "lang": "en", "weight": 1.3, "primary": False},
@@ -79,16 +82,18 @@ SOURCES = [
     {"name": "Autoriteit Persoonsgegevens", "url": "https://www.autoriteitpersoonsgegevens.nl/rss", "lang": "nl", "weight": 1.1, "primary": True},
 ]
 
-# Relevantie: een item moet minstens één van deze termen bevatten (titel+samenvatting).
-AI_TERMS = [
-    "chatgpt", "openai", "gpt-", "gpt5", "gpt6", "sora", "dall-e", "dall·e", "claude", "anthropic",
-    "gemini", "deepmind", "copilot", "llm", "large language", "taalmodel", "kunstmatige intelligentie",
-    "artificial intelligence", " ai ", "ai-", "ai ", "generatieve", "generative", "midjourney",
-    "stable diffusion", "perplexity", "mistral", "deepseek", "meta ai", "llama", "grok", "xai",
-    "nvidia", "machine learning", "neural", "agent", "chatbot", "ai act", "ai-wet", "algoritme",
-]
-# Termen die wél 'ai' bevatten maar niets met AI te maken hebben — uitsluiten.
-NOISE_TERMS = ["aida", "airbnb", "air fryer", "airfryer", "airpods", "aircraft", "airline", "mail", "rail", "hair"]
+# Relevantie. Bronnen met "ai_feed": True (de AI-labs zelf) gaan altijd door; de AI-rubrieken van Verge, Ars e.d. niet,
+# want die bevatten ook koelkast- en datacenternieuws. Voor alle andere moet de TITEL een AI-term bevatten, of de
+# samenvatting er minstens twee. Hele woorden, geen substrings: de oude lijst ("agent", "ai ", "nvidia") liet op
+# 27 en 29-09 twee Kia EV2-autotests en een Odido-hack (FBI-agenten) door als AI-nieuws.
+AI_PATTERN = (
+    r"\b(chat ?gpt|openai|gpt-?\d[\w.]*|sora|dall-?e|claude|anthropic|gemini|deepmind|copilot|llms?|"
+    r"large language models?|taalmodel\w*|kunstmatige intelligentie|artificial intelligence|a\.?i\.?|"
+    r"ai-\w+|\w+-ai|generatiev\w*|generative|midjourney|stable diffusion|perplexity|mistral|deepseek|"
+    r"meta ai|llama|grok|xai|machine learning|neura\w+ netw\w*|chatbots?|ai act|ai-wet|"
+    r"ai[- ]agents?|ai[- ]agenten|agentic|coding agents?|codex|deepfakes?|algoritm\w*|superintelligen\w*|agi)\b"
+)
+AI_MIN_SUMMARY_HITS = 2
 
 # Gevoelige onderwerpen: zonder menselijke eindredactie NIET automatisch publiceren.
 HIGH_RISK_TERMS = [

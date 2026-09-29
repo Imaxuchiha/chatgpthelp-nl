@@ -216,7 +216,8 @@ def article_page(a: dict, all_arts: list[dict]) -> str:
 {f'<section class="block"><h2>Lees ook</h2><div class="more">{more}</div></section>' if more else ''}
 {ai_label(a)}
 </article>"""
-    return page(a.get("seo_title") or a["title"], a["meta"], a["path"], body, a["og"], ld, kind="article", nav_on=a["category"])
+    return page(a.get("seo_title") or a["title"], a["meta"], a["path"], body, a["og"], ld, kind="article", nav_on=a["category"],
+                noindex=bool(a.get("noindex")))
 
 
 def home(arts: list[dict], memes: list[dict], prompts: list[dict]) -> str:
@@ -425,13 +426,16 @@ def build() -> int:
     if DIST.exists():
         shutil.rmtree(DIST)
     DIST.mkdir(parents=True)
-    arts, memes, prompts = load_articles(), load_memes(), load_prompts()
+    all_arts, memes, prompts = load_articles(), load_memes(), load_prompts()
+    # "noindex": true in een artikel (bv. off-topic dat door het oude filter glipte): de pagina blijft bereikbaar
+    # voor wie de link heeft, maar staat op noindex en valt uit voorpagina, rubrieken, sitemap, RSS en "Lees ook"
+    arts = [a for a in all_arts if not a.get("noindex")]
     shutil.copy(ASSETS / "style.css", DIST / "style.css")
     (DIST / "img").mkdir()
     images.logo_png(DIST / "img" / "logo.png")
     images.logo_png(DIST / "img" / "favicon.png", 64)
     images.og_card(SITE["tagline"], SITE["name"], DIST / "img" / "og-default.png", "default")
-    for a in arts:
+    for a in all_arts:
         label = {"column": "Column · Maxim", "practice": "Uit de praktijk · Maxim", "review": "Review · Maxim"}.get(a.get("kind"), CATEGORIES[a["category"]][0])
         images.og_card(a["title"], label, DIST / a["og"].lstrip("/"), a["slug"])
     for m in memes:
@@ -442,7 +446,7 @@ def build() -> int:
         images.prompt_card(p["title"], p["prompt"], DIST / "img" / "prompts" / f"{p['date']}.png")
     n = 0
     write("/", home(arts, memes, prompts)); n += 1
-    for a in arts:
+    for a in all_arts:
         write(a["path"], article_page(a, arts)); n += 1
     for slug, (name, desc) in CATEGORIES.items():
         mine = [a for a in arts if in_rubric(a, slug)]
@@ -463,5 +467,7 @@ def build() -> int:
     write("/sitemap.xml", sm); write("/news-sitemap.xml", ns)
     write("/robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE['url']}/sitemap.xml\nSitemap: {SITE['url']}/news-sitemap.xml\n")
     write("/CNAME", SITE["domain"] + "\n")
+    if SITE.get("indexnow_key"):
+        write(f"/{SITE['indexnow_key']}.txt", SITE["indexnow_key"])
     (DIST / ".nojekyll").write_text("")
     return n

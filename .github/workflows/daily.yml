@@ -85,3 +85,20 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+      # Pas na de deploy: nieuwe URL's melden bij IndexNow (Bing e.a.). ref: main, want de redactie-job heeft
+      # net nieuwe content gepusht die niet in de commit zit die deze run startte.
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: IndexNow
+        continue-on-error: true
+        run: |
+          pip install -q -r requirements.txt
+          python -m engine.run indexnow
+        env:
+          TZ: Europe/Amsterdam

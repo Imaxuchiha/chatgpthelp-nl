@@ -68,10 +68,18 @@ Schema:
 
 
 def write_evergreen(seed: dict, today: str) -> dict:
+    kw = ""
+    if seed.get("keyword"):
+        # zoekwoord + volumes uit Keyword Planner (eigen MCC) of Search Console, zie content/evergreen_seeds.json
+        rel = "; ".join(seed.get("related", [])) or "-"
+        kw = f"""
+Hoofdzoekwoord: "{seed['keyword']}" ({seed.get('volume', '?')} zoekopdrachten per maand in Nederland). Zet het
+letterlijk vooraan in "seo_title", in "keyword", in de meta en in de eerste alinea. Verwante zoektermen die de
+lezer ook intypt: {rel}. Beantwoord die in een sectie of FAQ als ze bij het onderwerp passen; forceer niets."""
     user = f"""Datum vandaag: {today}.
 Schrijf een praktisch uitleg-artikel (600-1000 woorden) over: "{seed['topic']}".
 Doelgroep: {seed.get('audience', 'Nederlandse beginners en gevorderden')}.
-Zoekintentie: {seed.get('intent', 'hoe doe ik dit / wat is dit')}.
+Zoekintentie: {seed.get('intent', 'hoe doe ik dit / wat is dit')}.{kw}
 Je hebt geen bronnen; gebruik alleen algemeen bekende, stabiele kennis over ChatGPT en AI. Noem GEEN
 prijzen, versienummers of datums die kunnen veranderen, tenzij je ze markeert als "op het moment van
 schrijven". Geef concrete stappen en minimaal één voorbeeldprompt (in een sectie, letterlijk tussen
@@ -166,7 +174,8 @@ COLUMN_RULES = """Schrijfregels voor deze column (hard):
   Google-AI mag, maar alleen op basis van publieke informatie en het nieuws, zonder eigen gebruik te claimen.
 - GEEN VERZONNEN ANEKDOTES. Elk concreet voorval (een klant, een test, een tijdsduur, 'een keer liet ik...')
   moet letterlijk uit een praktijkles of het nieuws komen. Verder alleen algemene mening en uitleg.
-- Menselijk: geen gedachtestreepjes, NOOIT de constructie 'Dat is geen X, dat is Y' of 'geen X, maar Y',
+- Menselijk: geen gedachtestreepjes. Zeg in elke zin direct wat iets WEL is, als bewering; een zin begint
+  nooit met een ontkenning die daarna wordt rechtgezet (de poort keurt dat af als AI-tic),
   niet eindigen met een vraag, alinea's niet allemaal even lang, mag toegeven wat niet werkte.
 - Geen financieel, juridisch of medisch advies."""
 
@@ -279,8 +288,22 @@ kloppen en MOETEN eruit of worden herschreven tot een algemene mening zonder per
 {chr(10).join('- ' + p for p in problems)}
 
 Pas ALLEEN die zinnen aan; laat de rest, de cijfers uit praktijklessen en de structuur staan. Houd dezelfde
-JSON-velden. Geen gedachtestreepjes, geen 'Dat is geen X, dat is Y'.
+JSON-velden. Geen gedachtestreepjes; elke zin een directe bewering.
 
 JSON:
 {json.dumps(art, ensure_ascii=False)}"""
     return ask_json(STYLE, user, temperature=0.3, max_tokens=4200, model=PERSONA_MODEL)
+
+
+def fix_phrasing(art: dict, snippets: list[str]) -> dict:
+    """Gerichte reparatie na afkeur op AI-tic: alleen de betreffende zinnen herschrijven. De poort keurt daarna opnieuw."""
+    user = f"""Hieronder een artikel als JSON. In deze tekststukken wordt eerst iets ontkend en daarna rechtgezet,
+een retorisch patroon dat als AI klinkt:
+{chr(10).join('- ' + s for s in snippets)}
+
+Herschrijf ALLEEN de zinnen waarin die stukken staan, tot één directe bewering met dezelfde inhoud. Laat al het
+andere woord voor woord staan, ook cijfers en structuur. Houd dezelfde JSON-velden. Geen gedachtestreepjes.
+
+JSON:
+{json.dumps(art, ensure_ascii=False)}"""
+    return ask_json(STYLE, user, temperature=0.2, max_tokens=4200, model=PERSONA_MODEL)

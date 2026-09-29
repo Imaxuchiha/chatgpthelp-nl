@@ -1,42 +1,319 @@
 [
- {"topic": "Wat is ChatGPT en hoe werkt het? Uitleg voor beginners", "intent": "wat is", "audience": "beginners"},
- {"topic": "ChatGPT gratis of betaald: welke versie heb je nodig?", "intent": "vergelijken", "audience": "beginners"},
- {"topic": "Zo schrijf je een goede prompt: de 5 onderdelen van een prompt die werkt", "intent": "hoe doe ik", "audience": "beginners en gevorderden"},
- {"topic": "ChatGPT in het Nederlands gebruiken: tips voor betere antwoorden", "intent": "hoe doe ik", "audience": "beginners"},
- {"topic": "Is ChatGPT veilig? Wat gebeurt er met wat je typt", "intent": "privacy", "audience": "iedereen"},
- {"topic": "ChatGPT voor je e-mails: zo schrijf je sneller zakelijke mails", "intent": "hoe doe ik", "audience": "kantoormedewerkers"},
- {"topic": "ChatGPT voor studenten: wat mag wel en niet bij huiswerk en scripties", "intent": "mag dat", "audience": "studenten"},
- {"topic": "ChatGPT vs Claude vs Gemini: welke AI-assistent past bij jou?", "intent": "vergelijken", "audience": "iedereen"},
- {"topic": "AI-hallucinaties: waarom ChatGPT soms dingen verzint en hoe je dat controleert", "intent": "wat is", "audience": "iedereen"},
- {"topic": "ChatGPT op je telefoon: de app instellen en slim gebruiken", "intent": "hoe doe ik", "audience": "beginners"},
- {"topic": "Spraak gebruiken in ChatGPT: praten in plaats van typen", "intent": "hoe doe ik", "audience": "beginners"},
- {"topic": "Zo laat je ChatGPT een tekst samenvatten zonder dat er feiten verdwijnen", "intent": "hoe doe ik", "audience": "professionals"},
- {"topic": "ChatGPT voor sollicitatiebrieven en je cv: doen of niet?", "intent": "hoe doe ik", "audience": "werkzoekenden"},
- {"topic": "Custom instructions in ChatGPT: laat de AI onthouden wie je bent", "intent": "hoe doe ik", "audience": "gevorderden"},
- {"topic": "Wat is een AI-agent? Het verschil met een chatbot in gewone taal", "intent": "wat is", "audience": "iedereen"},
- {"topic": "AI en de AVG: waar moet je op letten als je ChatGPT op het werk gebruikt", "intent": "mag dat", "audience": "ondernemers en werknemers"},
- {"topic": "De EU AI Act in gewone taal: wat verandert er voor gebruikers en bedrijven", "intent": "wat is", "audience": "ondernemers"},
- {"topic": "ChatGPT voor Excel en Google Sheets: formules laten schrijven en uitleggen", "intent": "hoe doe ik", "audience": "kantoormedewerkers"},
- {"topic": "Afbeeldingen maken met AI: zo begin je met ChatGPT, Midjourney of Gemini", "intent": "hoe doe ik", "audience": "beginners"},
- {"topic": "AI-teksten herkennen: kun je zien of iets door ChatGPT is geschreven?", "intent": "wat is", "audience": "docenten en werkgevers"},
- {"topic": "ChatGPT voor ondernemers: 10 taken die je vandaag al kunt uitbesteden aan AI", "intent": "ideeën", "audience": "zzp'ers en mkb"},
- {"topic": "Een AI-beleid voor je bedrijf: wat spreek je af met je team?", "intent": "hoe doe ik", "audience": "managers"},
- {"topic": "Microsoft Copilot vs ChatGPT: wat is het verschil en wat heb je nodig?", "intent": "vergelijken", "audience": "kantoormedewerkers"},
- {"topic": "ChatGPT Projects en mappen: je gesprekken georganiseerd houden", "intent": "hoe doe ik", "audience": "gevorderden"},
- {"topic": "Zo gebruik je ChatGPT om te leren: uitleg vragen, oefenen en jezelf overhoren", "intent": "hoe doe ik", "audience": "studenten en scholieren"},
- {"topic": "ChatGPT voor leraren: lesvoorbereiding, toetsen en feedback met AI", "intent": "hoe doe ik", "audience": "docenten"},
- {"topic": "Wat is een taalmodel (LLM)? Tokens, context en waarom AI 'vergeet'", "intent": "wat is", "audience": "nieuwsgierigen"},
- {"topic": "Bestanden uploaden in ChatGPT: pdf's, foto's en spreadsheets laten analyseren", "intent": "hoe doe ik", "audience": "professionals"},
- {"topic": "Deep research in AI-tools: uitgebreid laten uitzoeken en bronnen laten geven", "intent": "hoe doe ik", "audience": "professionals"},
- {"topic": "AI voor je huishouden: weekmenu's, boodschappenlijsten en planning met ChatGPT", "intent": "ideeën", "audience": "gezinnen"},
- {"topic": "Kinderen en ChatGPT: vanaf welke leeftijd en welke afspraken maak je?", "intent": "advies", "audience": "ouders"},
- {"topic": "ChatGPT voor je webshop: productteksten schrijven die niet als AI klinken", "intent": "hoe doe ik", "audience": "webshopeigenaren"},
- {"topic": "Wat kost AI echt? Abonnementen, API's en gratis alternatieven op een rij", "intent": "vergelijken", "audience": "iedereen"},
- {"topic": "Systeemprompt, rol en voorbeeld: drie prompttechnieken die altijd werken", "intent": "hoe doe ik", "audience": "gevorderden"},
- {"topic": "ChatGPT geeft een fout antwoord: zo stuur je bij zonder opnieuw te beginnen", "intent": "hoe doe ik", "audience": "beginners"},
- {"topic": "AI en auteursrecht in Nederland: mag je AI-teksten en -beelden zomaar gebruiken?", "intent": "mag dat", "audience": "makers en ondernemers"},
- {"topic": "Notities en vergaderingen samenvatten met AI: zo pak je het aan", "intent": "hoe doe ik", "audience": "professionals"},
- {"topic": "ChatGPT als programmeerhulp voor niet-programmeurs: kleine scripts en macro's", "intent": "hoe doe ik", "audience": "gevorderden"},
- {"topic": "Wat is RAG en waarom krijgen bedrijven een 'eigen ChatGPT'?", "intent": "wat is", "audience": "managers"},
- {"topic": "AI-detectie op school en werk: wat het wel en niet kan", "intent": "wat is", "audience": "studenten en docenten"}
+ {
+  "topic": "ChatGPT in het Nederlands gebruiken: tips voor betere antwoorden",
+  "intent": "hoe doe ik",
+  "audience": "beginners",
+  "keyword": "chatgpt nederlands",
+  "volume": 40500,
+  "related": [
+   "chat gpt nederlands gratis (14.800)",
+   "chat gpt online (1.600)",
+   "chatgpt in het nederlands"
+  ]
+ },
+ {
+  "topic": "ChatGPT gratis of betaald: welke versie heb je nodig?",
+  "intent": "vergelijken",
+  "audience": "beginners",
+  "keyword": "chatgpt gratis",
+  "volume": 12100,
+  "related": [
+   "chatgpt plus (3.600)",
+   "chatgpt pro (1.900)",
+   "kosten chatgpt (590)",
+   "chatgpt kosten (480)"
+  ]
+ },
+ {
+  "topic": "ChatGPT op je telefoon: de app instellen en slim gebruiken",
+  "intent": "hoe doe ik",
+  "audience": "beginners",
+  "keyword": "chatgpt app",
+  "volume": 9900,
+  "related": [
+   "chatgpt downloaden (5.400)",
+   "chatgpt app gratis (260)"
+  ]
+ },
+ {
+  "topic": "ChatGPT storing of werkt ChatGPT niet? Zo check je het en dit kun je zelf doen",
+  "keyword": "chatgpt storing",
+  "volume": 8100,
+  "related": [
+   "chatgpt werkt niet (390)"
+  ],
+  "intent": "probleem oplossen: ligt het aan ChatGPT of aan mij, en wat nu",
+  "audience": "gebruikers bij wie ChatGPT het niet doet"
+ },
+ {
+  "topic": "De EU AI Act in gewone taal: wat verandert er voor gebruikers en bedrijven",
+  "intent": "wat is",
+  "audience": "ondernemers",
+  "keyword": "ai act",
+  "volume": 3600,
+  "related": [
+   "eu ai (480)"
+  ]
+ },
+ {
+  "topic": "Afbeeldingen maken met AI: zo begin je met ChatGPT, Midjourney of Gemini",
+  "intent": "hoe doe ik",
+  "audience": "beginners",
+  "keyword": "ai afbeelding maken",
+  "volume": 3600,
+  "related": [
+   "chatgpt afbeelding maken (1.300)"
+  ]
+ },
+ {
+  "topic": "De beste AI-tools op een rij: gratis en betaald, per taak gekozen",
+  "keyword": "ai tools",
+  "volume": 3600,
+  "related": [
+   "beste ai tools (390)",
+   "nieuwe ai tool (110)"
+  ],
+  "intent": "vergelijken en kiezen",
+  "audience": "Nederlandse beginners en gevorderden"
+ },
+ {
+  "topic": "ChatGPT vs Claude vs Gemini: welke AI-assistent past bij jou?",
+  "intent": "vergelijken",
+  "audience": "iedereen",
+  "keyword": "claude vs chatgpt",
+  "volume": 2400,
+  "related": [
+   "gemini vs chatgpt (880)",
+   "claude ai (201.000)",
+   "gemini (1.500.000)"
+  ]
+ },
+ {
+  "topic": "Wat is ChatGPT en hoe werkt het? Uitleg voor beginners",
+  "intent": "wat is",
+  "audience": "beginners",
+  "keyword": "wat is chatgpt",
+  "volume": 1900,
+  "related": [
+   "hoe werkt chatgpt (880)",
+   "hoe gebruik je chatgpt (170)"
+  ]
+ },
+ {
+  "topic": "Zo schrijf je een goede prompt: de 5 onderdelen van een prompt die werkt",
+  "intent": "hoe doe ik",
+  "audience": "beginners en gevorderden",
+  "keyword": "chatgpt prompt",
+  "volume": 880,
+  "related": [
+   "prompt chatgpt (590)",
+   "prompt schrijven (140)"
+  ]
+ },
+ {
+  "topic": "Wat is een AI-agent? Het verschil met een chatbot in gewone taal",
+  "intent": "wat is",
+  "audience": "iedereen",
+  "keyword": "chatgpt agent",
+  "volume": 720,
+  "related": [
+   "ai agent"
+  ]
+ },
+ {
+  "topic": "ChatGPT-abonnement opzeggen: zo stop je Plus of Pro en wat je dan houdt",
+  "keyword": "chatgpt abonnement opzeggen",
+  "volume": 720,
+  "related": [],
+  "intent": "stappen: hoe zeg ik op",
+  "audience": "betalende gebruikers"
+ },
+ {
+  "topic": "Wat kost AI echt? Abonnementen, API's en gratis alternatieven op een rij",
+  "intent": "vergelijken",
+  "audience": "iedereen",
+  "keyword": "kosten chatgpt",
+  "volume": 590,
+  "related": [
+   "chatgpt kosten (480)",
+   "api ai (210)"
+  ]
+ },
+ {
+  "topic": "AI-teksten herkennen: kun je zien of iets door ChatGPT is geschreven?",
+  "intent": "wat is",
+  "audience": "docenten en werkgevers",
+  "keyword": "ai teksten",
+  "volume": 480,
+  "related": [
+   "ai tekst herkennen (70)"
+  ]
+ },
+ {
+  "topic": "ChatGPT voor studenten: wat mag wel en niet bij huiswerk en scripties",
+  "intent": "mag dat",
+  "audience": "studenten",
+  "keyword": "chatgpt studenten",
+  "volume": 210,
+  "related": []
+ },
+ {
+  "topic": "Microsoft Copilot vs ChatGPT: wat is het verschil en wat heb je nodig?",
+  "intent": "vergelijken",
+  "audience": "kantoormedewerkers",
+  "keyword": "chatgpt vs copilot",
+  "volume": 170,
+  "related": [
+   "copilot (450.000)"
+  ]
+ },
+ {
+  "topic": "Is ChatGPT veilig? Wat gebeurt er met wat je typt",
+  "intent": "privacy",
+  "audience": "iedereen",
+  "keyword": "chatgpt privacy",
+  "volume": 110,
+  "related": [
+   "chatgpt veilig (70)"
+  ]
+ },
+ {
+  "topic": "ChatGPT voor Excel en Google Sheets: formules laten schrijven en uitleggen",
+  "intent": "hoe doe ik",
+  "audience": "kantoormedewerkers",
+  "keyword": "chatgpt excel",
+  "volume": 110,
+  "related": []
+ },
+ {
+  "topic": "ChatGPT voor sollicitatiebrieven en je cv: doen of niet?",
+  "intent": "hoe doe ik",
+  "audience": "werkzoekenden",
+  "keyword": "chatgpt cv",
+  "volume": 50,
+  "related": []
+ },
+ {
+  "topic": "ChatGPT voor ondernemers: 10 taken die je vandaag al kunt uitbesteden aan AI",
+  "intent": "ideeën",
+  "audience": "zzp'ers en mkb",
+  "keyword": "chatgpt voor bedrijven",
+  "volume": 50,
+  "related": []
+ },
+ {
+  "topic": "ChatGPT voor je e-mails: zo schrijf je sneller zakelijke mails",
+  "intent": "hoe doe ik",
+  "audience": "kantoormedewerkers"
+ },
+ {
+  "topic": "AI-hallucinaties: waarom ChatGPT soms dingen verzint en hoe je dat controleert",
+  "intent": "wat is",
+  "audience": "iedereen"
+ },
+ {
+  "topic": "Spraak gebruiken in ChatGPT: praten in plaats van typen",
+  "intent": "hoe doe ik",
+  "audience": "beginners"
+ },
+ {
+  "topic": "Zo laat je ChatGPT een tekst samenvatten zonder dat er feiten verdwijnen",
+  "intent": "hoe doe ik",
+  "audience": "professionals"
+ },
+ {
+  "topic": "Custom instructions in ChatGPT: laat de AI onthouden wie je bent",
+  "intent": "hoe doe ik",
+  "audience": "gevorderden"
+ },
+ {
+  "topic": "AI en de AVG: waar moet je op letten als je ChatGPT op het werk gebruikt",
+  "intent": "mag dat",
+  "audience": "ondernemers en werknemers"
+ },
+ {
+  "topic": "Een AI-beleid voor je bedrijf: wat spreek je af met je team?",
+  "intent": "hoe doe ik",
+  "audience": "managers"
+ },
+ {
+  "topic": "ChatGPT Projects en mappen: je gesprekken georganiseerd houden",
+  "intent": "hoe doe ik",
+  "audience": "gevorderden"
+ },
+ {
+  "topic": "Zo gebruik je ChatGPT om te leren: uitleg vragen, oefenen en jezelf overhoren",
+  "intent": "hoe doe ik",
+  "audience": "studenten en scholieren"
+ },
+ {
+  "topic": "ChatGPT voor leraren: lesvoorbereiding, toetsen en feedback met AI",
+  "intent": "hoe doe ik",
+  "audience": "docenten"
+ },
+ {
+  "topic": "Wat is een taalmodel (LLM)? Tokens, context en waarom AI 'vergeet'",
+  "intent": "wat is",
+  "audience": "nieuwsgierigen"
+ },
+ {
+  "topic": "Bestanden uploaden in ChatGPT: pdf's, foto's en spreadsheets laten analyseren",
+  "intent": "hoe doe ik",
+  "audience": "professionals"
+ },
+ {
+  "topic": "Deep research in AI-tools: uitgebreid laten uitzoeken en bronnen laten geven",
+  "intent": "hoe doe ik",
+  "audience": "professionals"
+ },
+ {
+  "topic": "AI voor je huishouden: weekmenu's, boodschappenlijsten en planning met ChatGPT",
+  "intent": "ideeën",
+  "audience": "gezinnen"
+ },
+ {
+  "topic": "Kinderen en ChatGPT: vanaf welke leeftijd en welke afspraken maak je?",
+  "intent": "advies",
+  "audience": "ouders"
+ },
+ {
+  "topic": "ChatGPT voor je webshop: productteksten schrijven die niet als AI klinken",
+  "intent": "hoe doe ik",
+  "audience": "webshopeigenaren"
+ },
+ {
+  "topic": "Systeemprompt, rol en voorbeeld: drie prompttechnieken die altijd werken",
+  "intent": "hoe doe ik",
+  "audience": "gevorderden"
+ },
+ {
+  "topic": "ChatGPT geeft een fout antwoord: zo stuur je bij zonder opnieuw te beginnen",
+  "intent": "hoe doe ik",
+  "audience": "beginners"
+ },
+ {
+  "topic": "AI en auteursrecht in Nederland: mag je AI-teksten en -beelden zomaar gebruiken?",
+  "intent": "mag dat",
+  "audience": "makers en ondernemers"
+ },
+ {
+  "topic": "Notities en vergaderingen samenvatten met AI: zo pak je het aan",
+  "intent": "hoe doe ik",
+  "audience": "professionals"
+ },
+ {
+  "topic": "ChatGPT als programmeerhulp voor niet-programmeurs: kleine scripts en macro's",
+  "intent": "hoe doe ik",
+  "audience": "gevorderden"
+ },
+ {
+  "topic": "Wat is RAG en waarom krijgen bedrijven een 'eigen ChatGPT'?",
+  "intent": "wat is",
+  "audience": "managers"
+ },
+ {
+  "topic": "AI-detectie op school en werk: wat het wel en niet kan",
+  "intent": "wat is",
+  "audience": "studenten en docenten"
+ }
 ]
