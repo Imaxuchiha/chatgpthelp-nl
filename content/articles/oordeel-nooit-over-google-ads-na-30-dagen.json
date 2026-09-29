@@ -1,0 +1,70 @@
+{
+ "keyword": "google ads niet na 30 dagen oordelen",
+ "seo_title": "Google Ads: oordeel nooit na 30 dagen",
+ "title": "Oordeel nooit over Google Ads na 30 dagen",
+ "meta": "Wie na 30 dagen over Google Ads oordeelt, stuurt op ruis. Maxim legt uit waarom je minimaal 12 maanden data nodig hebt.",
+ "category": "mening",
+ "tags": [
+  "google ads",
+  "smart bidding",
+  "conversies",
+  "data-analyse",
+  "performance marketing"
+ ],
+ "intro": "Een klant belde me bijna in paniek: zijn account was ingestort. Het laatste venster gaf 39 conversies. Toen ik de cijfers erbij pakte, zag ik iets anders. Over 25 maanden was de mediaan 83 per maand. Er was helemaal niets aan de hand. Wie op 30 dagen oordeelt, stuurt op ruis.",
+ "takeaways": [
+  "30 dagen data is ruis, geen trend.",
+  "Kijk altijd naar 12 tot 18 maanden en vergelijk jaar-op-jaar.",
+  "Pas op met uitsluiten op gevoel: je gooit vaak je toekomstige winnaars weg."
+ ],
+ "sections": [
+  {
+   "heading": "39 conversies is geen instorting",
+   "body": "Die klant had naar het dashboard gekeken en schrok. 39 conversies in de laatste 30 dagen, terwijl hij dacht dat het er normaal meer waren. Maar over 25 maanden was de mediaan 83 per maand. Dus die 39 was laag, maar niet abnormaal. Het was gewoon een slechte maand, of een meetfout, of seizoen. Dat weet je niet na 30 dagen.\n\nIk zie dit elke week. Iemand kijkt naar een kort venster, ziet een daling en trekt meteen conclusies. Campagnes pauzeren, budgetten verlagen, zoekwoorden uitsluiten. En dan vragen ze zich af waarom het account nooit stabiel draait. Het antwoord is simpel: ze optimaliseren op ruis."
+  },
+  {
+   "heading": "Meten vóór optimaliseren",
+   "body": "Mijn regel is: meten vóór optimaliseren. De meeste 'problemen' in advertentieaccounts zijn meetfouten, geen echte dalingen. Een conversietag die eraf ligt, een feed die niet meer draait, een seizoenspatroon dat je vergeten bent. Als je dan gaat optimaliseren, maak je het alleen maar erger.\n\nDaarom kijk ik nooit naar 30 dagen. Altijd 12 tot 18 maanden, en jaar-op-jaar. Pas dan zie je of iets structureel is. En zelfs dan: een maand met 39 conversies tegen een mediaan van 83 is geen ramp. Het is een datapunt. Meer niet."
+  },
+  {
+   "heading": "Niet snoeien op gevoel",
+   "body": "Erger nog dan paniek is snoeien op gevoel. Bij een webshop met duizenden producten wilde iedereen de producten zonder conversies uitsluiten. Logisch toch? Die doen het niet, dus weg ermee. Maar we testten het vooruit met een hold-out. De set die we zouden uitsluiten haalde daarna een ROAS van 3,47. De set die we zouden houden haalde 2,84. Dus de 'slechte' producten deden het beter dan de 'goede'.\n\nEn 89% van de latere top-50 verkocht pas in de laatste 12 maanden. De top-100 levert 87% van de omzet, zeggen ze dan. Maar dat is survivorship bias. Je kijkt naar wat nú in de top staat, en vergeet dat die producten ook ooit onderaan stonden. Als je toen had gesnoeid, had je ze nooit laten groeien."
+  },
+  {
+   "heading": "Wat AI hiermee te maken heeft",
+   "body": "AI maakt dit alleen maar erger als je niet oplet. Smart Bidding is zo goed als de data die je het voert. Met slechte meting optimaliseert de AI vol overtuiging de verkeerde kant op. En als je zelf met AI-tools rapportages maakt, kun je nog sneller conclusies trekken uit te weinig data.\n\nIk gebruik Claude Code dagelijks voor analyses, maar ik laat het nooit beslissen op basis van 30 dagen. Ik bouw de data eerst goed op, over minimaal 12 maanden, en dan pas laat ik de AI patronen zoeken. Anders krijg je een zelfverzekerd antwoord op de verkeerde vraag."
+  },
+  {
+   "heading": "Wat je morgen moet doen",
+   "body": "Trek je Google Ads-data over de afgelopen 18 maanden. Zet de conversies per maand in een grafiek en kijk naar de mediaan, niet naar het gemiddelde. Kijk jaar-op-jaar: is deze maand echt slechter dan dezelfde maand vorig jaar? Check je meting: draaien alle conversietags, is de feed actueel, zijn er geen dubbele tellingen?\n\nPas als je dat allemaal hebt gedaan, en het probleem is er na 3 maanden nog, dan kun je gaan optimaliseren. En zelfs dan: sluit niet uit op gevoel. Test het vooruit, met een hold-out, zoals ik deed. Want de producten die nu niets doen, zijn vaak je winnaars van volgend jaar."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ondernemers betekent dit: stop met wekelijks naar je Google Ads-dashboard staren en schrikken van elke dip. Seizoenen, feestdagen en meetfouten zorgen voor ruis. Zet je rapportage op 12 tot 18 maanden, vergelijk jaar-op-jaar, en laat je niet gek maken door een slechte maand. Wil je toch optimaliseren, test dan vooruit met een hold-outgroep, zoals ik deed. Dat kost een beetje omzet op korte termijn, maar voorkomt dat je je toekomstige top-producten weggooit.",
+ "faq": [
+  {
+   "q": "Hoeveel data heb ik nodig om Google Ads te beoordelen?",
+   "a": "Minimaal 12 tot 18 maanden, en vergelijk altijd jaar-op-jaar. 30 dagen is ruis."
+  },
+  {
+   "q": "Wat is een normale maandelijkse schommeling in conversies?",
+   "a": "Dat hangt af van je account, maar een maand met 39 conversies tegen een mediaan van 83 is geen instorting. Kijk naar de mediaan over 25 maanden, niet naar één uitschieter."
+  },
+  {
+   "q": "Moet ik producten zonder conversies uitsluiten?",
+   "a": "Nee, niet op gevoel. Test het vooruit met een hold-out. Bij een webshop haalde de 'slechte' set daarna een ROAS van 3,47 tegen 2,84 voor de 'goede' set."
+  }
+ ],
+ "lessons_used": [
+  "nooit-30-dagen",
+  "longtail-niet-snoeien"
+ ],
+ "slug": "oordeel-nooit-over-google-ads-na-30-dagen",
+ "kind": "practice",
+ "date": "2026-09-29",
+ "published": "2026-09-29T18:59",
+ "sources": [],
+ "path": "/mening/oordeel-nooit-over-google-ads-na-30-dagen/",
+ "og": "/img/og/oordeel-nooit-over-google-ads-na-30-dagen.png",
+ "lesson": "nooit-30-dagen",
+ "author": "Maxim"
+}

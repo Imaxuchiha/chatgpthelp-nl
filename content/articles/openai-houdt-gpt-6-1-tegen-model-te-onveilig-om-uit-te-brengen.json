@@ -1,0 +1,68 @@
+{
+ "keyword": "gpt-6.1 openai",
+ "seo_title": "GPT-6.1 te onveilig: OpenAI stelt release uit",
+ "title": "OpenAI houdt GPT-6.1 tegen: model te onveilig om uit te brengen",
+ "meta": "OpenAI zegt dat het geplande GPT-6.1 te onveilig is om uit te brengen. Wat dat betekent voor gebruikers in Nederland en bestaande ChatGPT-modellen.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "gpt-6.1",
+  "ai-veiligheid",
+  "chatgpt",
+  "modellen"
+ ],
+ "intro": "OpenAI heeft laten weten dat het geplande model GPT-6.1 niet wordt uitgebracht. Het bedrijf vindt het model te onveilig. Opvallend: volgens OpenAI spelen dezelfde afwegingen tussen prestaties en veiligheid ook bij de modellen die nu al publiek beschikbaar zijn.",
+ "takeaways": [
+  "OpenAI zegt dat GPT-6.1 te onveilig is om uit te brengen.",
+  "Het bedrijf ziet dezelfde spanning tussen prestaties en veiligheid bij huidige publieke modellen.",
+  "Er is nog geen datum waarop GPT-6.1 alsnog verschijnt.",
+  "Voor bestaande ChatGPT-gebruikers verandert er voorlopig niets."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI zegt over GPT-6.1",
+   "body": "OpenAI heeft aangekondigd dat het geplande GPT-6.1 niet wordt vrijgegeven. De reden is volgens het bedrijf dat het model te onveilig is. Dat meldt Ars Technica.\n\nHet gaat dus niet om een vertraging van een paar weken of een technisch probleem dat nog wordt opgelost. OpenAI zegt zelf dat het model in deze vorm niet naar buiten kan. Waarom precies, maakt het bedrijf niet volledig duidelijk. Er zijn geen details gepubliceerd over welke specifieke risico's zijn gevonden."
+  },
+  {
+   "heading": "Zelfde afweging bij huidige modellen",
+   "body": "Interessanter is wat OpenAI erbij zegt. Dezelfde spanning tussen prestaties en veiligheid zou ook te zien zijn bij de modellen die nu al publiek beschikbaar zijn. Denk aan de ChatGPT-versies die je vandaag kunt gebruiken.\n\nDat betekent niet automatisch dat die modellen onveilig zijn. Het betekent wel dat OpenAI erkent dat er bij elk model een afweging wordt gemaakt: meer kunnen gaat soms samen met meer risico. Bij GPT-6.1 viel die afweging volgens het bedrijf de verkeerde kant op.\n\nWat dat zegt over de modellen die al live staan, laat OpenAI in het midden. Er is geen lijst met concrete voorbeelden en geen uitleg per model."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Er is nog geen nieuwe datum voor GPT-6.1. Ook is niet duidelijk of het model helemaal wordt geschrapt of later in aangepaste vorm terugkomt. OpenAI heeft daar niets over gezegd.\n\nOok ontbreekt informatie over hoe groot het verschil is tussen GPT-6.1 en de huidige modellen. Zonder die cijfers is het lastig te beoordelen of dit een klein uitstel is of een fundamenteel probleem. Wie hier meer over wil weten, moet wachten op een officiële toelichting van OpenAI."
+  },
+  {
+   "heading": "Geen directe gevolgen voor gebruikers",
+   "body": "Voor wie ChatGPT gewoon gebruikt, verandert er nu niets. De bestaande modellen blijven beschikbaar. Er worden geen functies uitgezet en er is geen nieuwe prijs of abonnementswijziging aangekondigd.\n\nWel is dit een signaal over de richting. OpenAI zet veiligheid nu zichtbaar vóór een release, ook als het om een nieuw model gaat. Dat is relevant voor bedrijven die hun processen op toekomstige modellen willen baseren."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers en bedrijven betekent dit vooral: reken niet op GPT-6.1 op korte termijn. Wie nu ChatGPT gebruikt, merkt niets van deze beslissing. Bedrijven die hun planning op een nieuw model hadden gebaseerd, doen er goed aan om die planning niet vast te zetten op een datum. Er is nog geen releasedatum en er is geen Europese of Nederlandse regelgeving die hier een rol speelt; dit is een keuze van OpenAI zelf. Let ook op de AI-verordening van de EU, die eisen stelt aan risicovolle AI-systemen. OpenAI geeft geen details over welke veiligheidseisen precies een rol speelden bij GPT-6.1.",
+ "faq": [
+  {
+   "q": "Waarom brengt OpenAI GPT-6.1 niet uit?",
+   "a": "Volgens OpenAI is het model te onveilig. Het bedrijf heeft niet gepubliceerd welke specifieke risico's zijn gevonden."
+  },
+  {
+   "q": "Wat betekent dit voor ChatGPT dat ik nu gebruik?",
+   "a": "Voorlopig niets. De bestaande modellen blijven beschikbaar en er zijn geen functies uitgezet."
+  },
+  {
+   "q": "Komt GPT-6.1 nog wel uit?",
+   "a": "Dat is nog niet bekend. OpenAI heeft geen nieuwe datum genoemd en zegt niet of het model helemaal wordt geschrapt."
+  }
+ ],
+ "slug": "openai-houdt-gpt-6-1-tegen-model-te-onveilig-om-uit-te-brengen",
+ "kind": "news",
+ "date": "2026-09-29",
+ "published": "2026-09-29T19:01",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+   "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
+  }
+ ],
+ "path": "/nieuws/openai-houdt-gpt-6-1-tegen-model-te-onveilig-om-uit-te-brengen/",
+ "og": "/img/og/openai-houdt-gpt-6-1-tegen-model-te-onveilig-om-uit-te-brengen.png",
+ "take": "Een model tegenhouden omdat je het zelf te gevaarlijk vindt, daar heb ik meer aan dan aan een persbericht vol vertrouwen. Wat me wel opvalt: OpenAI zegt er meteen bij dat diezelfde afweging speelt bij de modellen die nu al openbaar zijn, dus dan weten we waar we met ChatGPT staan. Eerlijk gezegd vertrouw ik een partij die dit hardop zegt meer dan een die doet alsof alles onder controle is."
+}

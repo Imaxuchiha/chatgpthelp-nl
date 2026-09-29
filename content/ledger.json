@@ -819,6 +819,18 @@
   "a6537ed251": {
    "at": "2026-09-29T16:51:36.726977",
    "why": "ok"
+  },
+  "4e6047898d": {
+   "at": "2026-09-29T18:59:31.771099",
+   "why": "ok"
+  },
+  "0d5fc586f5": {
+   "at": "2026-09-29T19:00:31.771099",
+   "why": "ok"
+  },
+  "482046899a": {
+   "at": "2026-09-29T19:01:31.771099",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -963,6 +975,9 @@
   "Reco haalt 55 miljoen op voor AI agent beveiliging",
   "Anthropic IPO: waarschuwing voor AI-risico's in eigen prospectus",
   "AI-chatbot als zoekmachine geeft je minder informatie",
-  "OpenAI brengt GPT-6.1 Astra niet uit om misleiding"
+  "OpenAI brengt GPT-6.1 Astra niet uit om misleiding",
+  "America.gov chatbot moet Amerikaanse overheid simpeler maken",
+  "OpenAI DevDay 2026: 20+ launches en volgens Altman een nieuw ding",
+  "OpenAI houdt GPT-6.1 tegen: model te onveilig om uit te brengen"
  ]
 }
