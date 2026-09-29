@@ -1,0 +1,68 @@
+{
+ "keyword": "gpt-6.1 sol",
+ "seo_title": "GPT-6.1 Sol: bijna-Astra intelligentie, veel goedkoper",
+ "title": "GPT-6.1 Sol: bijna-Astra intelligentie voor een vijfde van de prijs",
+ "meta": "OpenAI brengt GPT-6.1 Sol uit: bijna-Astra intelligentie voor coderen, computergebruik en professioneel werk, tegen een vijfde van de API-prijs.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "gpt-6.1 sol",
+  "api",
+  "coderen",
+  "prijzen"
+ ],
+ "intro": "OpenAI heeft GPT-6.1 Sol aangekondigd, een model dat volgens het bedrijf bijna het niveau van Astra haalt voor coderen, computergebruik en professioneel werk. Je betaalt er een vijfde van de standaard API-prijs per input- en outputtoken. Daarmee zet OpenAI een nieuw model neer dat vooral voor zakelijk gebruik interessant is.",
+ "takeaways": [
+  "GPT-6.1 Sol levert volgens OpenAI bijna-Astra intelligentie.",
+  "Het model richt zich op coderen, computergebruik en professioneel werk.",
+  "De API-prijs per input- en outputtoken is een vijfde van die van Astra.",
+  "OpenAI noemt het zelf een nieuw model in de GPT-6-reeks."
+ ],
+ "sections": [
+  {
+   "heading": "Wat GPT-6.1 Sol is",
+   "body": "GPT-6.1 Sol is een nieuw model van OpenAI. Het bedrijf positioneert het tussen de bestaande modellen in: het haalt bijna het intelligentieniveau van Astra, maar kost een stuk minder. Volgens OpenAI gaat het om near-Astra intelligence voor coderen, computergebruik en professioneel werk.\n\nComputergebruik betekent dat het model taken op een computer kan uitvoeren, zoals klikken en typen in software. Dat is nuttig voor het automatiseren van terugkerende kantoorwerkzaamheden. OpenAI noemt in de aankondiging geen releasedatum of landenbeschikbaarheid."
+  },
+  {
+   "heading": "Een vijfde van de prijs van Astra",
+   "body": "Het belangrijkste verkoopargument zit in de prijs. Volgens OpenAI kost GPT-6.1 Sol per input- en outputtoken een vijfde van wat Astra rekent via de standaard API. OpenAI noemt geen absolute bedragen in euro's of dollars.\n\nVoor bedrijven die veel tokens versturen, kan dat verschil oplopen. Wie een applicatie bouwt die dagelijks duizenden verzoeken doet, merkt een lagere tokenprijs direct in de maandlasten. Zonder concrete prijzen per miljoen tokens is nog niet te zeggen hoeveel een Nederlandse klant precies betaalt."
+  },
+  {
+   "heading": "Waarvoor je het kunt gebruiken",
+   "body": "OpenAI noemt drie toepassingen: coderen, computergebruik en professioneel werk. Bij coderen gaat het om het schrijven, uitleggen en verbeteren van programmacode. Computergebruik verwijst naar het aansturen van software via de interface.\n\nProfessioneel werk is een brede categorie. Denk aan het samenvatten van documenten, het opstellen van teksten en het verwerken van gegevens. OpenAI geeft in de aankondiging geen specifieke voorbeelden of klanten."
+  },
+  {
+   "heading": "Wat nog onduidelijk is",
+   "body": "OpenAI meldt niet wanneer GPT-6.1 Sol beschikbaar komt, of het in de Europese Unie wordt uitgerold en wat de exacte prijzen zijn. Ook is niet bekend of het model in ChatGPT verschijnt of alleen via de API.\n\nZulke details komen vaak later, via documentatie of een vervolgaankondiging. Tot die tijd blijft het bij de informatie die OpenAI zelf geeft: bijna-Astra prestaties voor een vijfde van de tokenprijs."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en ontwikkelaars is de prijs het meest concreet. Een model dat een vijfde kost van Astra kan de rekening voor AI-toepassingen flink verlagen, zeker bij veel API-verkeer. Of GPT-6.1 Sol in Nederland en de rest van de EU beschikbaar komt, is nog niet bekend. Let ook op de Europese AI-regels: bij inzet voor recruitment of kredietverstrekking kan een model als dit als hoog-risico gelden, met extra verplichtingen voor de aanbieder en gebruiker.",
+ "faq": [
+  {
+   "q": "Wat is GPT-6.1 Sol?",
+   "a": "Een nieuw model van OpenAI dat volgens het bedrijf bijna het niveau van Astra haalt voor coderen, computergebruik en professioneel werk."
+  },
+  {
+   "q": "Hoeveel kost GPT-6.1 Sol?",
+   "a": "OpenAI zegt dat de API-prijs per input- en outputtoken een vijfde is van die van Astra. Exacte bedragen noemt het bedrijf niet."
+  },
+  {
+   "q": "Is GPT-6.1 Sol beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI geeft in de aankondiging geen releasedatum of beschikbaarheid per land."
+  }
+ ],
+ "slug": "gpt-6-1-sol-bijna-astra-intelligentie-voor-een-vijfde-van-de-prijs",
+ "kind": "news",
+ "date": "2026-09-29",
+ "published": "2026-09-29T22:42",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Introducing GPT-6.1 Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-1-sol"
+  }
+ ],
+ "path": "/nieuws/gpt-6-1-sol-bijna-astra-intelligentie-voor-een-vijfde-van-de-prijs/",
+ "og": "/img/og/gpt-6-1-sol-bijna-astra-intelligentie-voor-een-vijfde-van-de-prijs.png",
+ "take": "Een model dat een vijfde van de prijs kost, daar word ik pas hebberig van als ik zelf zie wat eruit komt. Ik heb genoeg AI-tekst gelezen die als AI leest, en dat werkt gewoon niet, dus goedkoop is pas goedkoop als het werk ook echt af is. Eerst een paar weken op mijn eigen account testen, dan pas een mening."
+}

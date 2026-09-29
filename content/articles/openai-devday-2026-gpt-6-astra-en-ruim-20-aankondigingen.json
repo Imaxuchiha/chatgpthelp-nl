@@ -1,0 +1,67 @@
+{
+ "keyword": "openai devday 2026",
+ "seo_title": "OpenAI DevDay 2026: GPT-6 Astra en 20 updates",
+ "title": "OpenAI DevDay 2026: GPT-6 Astra en ruim 20 aankondigingen",
+ "meta": "Op DevDay 2026 kondigde OpenAI meer dan 20 updates aan, waaronder GPT-6 Astra, Codex en nieuwe API's. Dit betekent het voor gebruikers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "gpt-6 astra",
+  "devday",
+  "codex",
+  "api"
+ ],
+ "intro": "OpenAI hield op 29 september 2026 zijn jaarlijkse DevDay. Het bedrijf meldt meer dan twintig aankondigingen, met GPT-6 Astra als opvallendste. Ook ChatGPT, Codex, de API's en beveiliging kregen updates.",
+ "takeaways": [
+  "OpenAI kondigde tijdens DevDay 2026 meer dan twintig nieuwe zaken aan.",
+  "GPT-6 Astra is het meest genoemde model in de aankondiging.",
+  "Ook ChatGPT, Codex, API's en beveiliging krijgen updates.",
+  "OpenAI richt zich met de nieuwe tools op ontwikkelaars en builders."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI op DevDay 2026 aankondigde",
+   "body": "Tijdens DevDay 2026 presenteerde OpenAI meer dan twintig aankondigingen. Volgens OpenAI gaat het onder meer om GPT-6 Astra, het nieuwste model in de GPT-reeks. Daarnaast noemt het bedrijf updates voor ChatGPT en Codex.\n\nOok de API's van OpenAI krijgen aandacht, net als beveiliging. Verder zijn er nieuwe tools voor builders, de ontwikkelaars die met de techniek van OpenAI applicaties bouwen. OpenAI zette de volledige lijst in een overzichtsartikel op zijn eigen site.\n\nHet evenement is de jaarlijkse dag waarop OpenAI zijn nieuwste producten laat zien. DevDay is vooral bedoeld voor ontwikkelaars en bedrijven die met de modellen werken."
+  },
+  {
+   "heading": "GPT-6 Astra als grootste naam",
+   "body": "De naam GPT-6 Astra springt eruit in de aankondiging. OpenAI noemt het model als onderdeel van de ruim twintig updates. Wat GPT-6 Astra precies kan en wanneer het beschikbaar komt, maakt de samenvatting van OpenAI niet duidelijk.\n\nOok is niet bekend of het model meteen voor iedereen toegankelijk is of eerst voor een selecte groep ontwikkelaars. OpenAI heeft daar in de aankondiging geen details over gegeven. Zodra meer bekend is, volgt waarschijnlijk een aparte uitleg per model."
+  },
+  {
+   "heading": "ChatGPT, Codex en de API's",
+   "body": "Naast het nieuwe model noemt OpenAI updates voor ChatGPT. Dat is de chatbot die miljoenen mensen dagelijks gebruiken. Ook Codex komt terug in de lijst; dat is de tool van OpenAI voor programmeerwerk.\n\nDe API's van OpenAI krijgen eveneens vernieuwingen. Via die API's bouwen bedrijven en ontwikkelaars eigen toepassingen op de modellen van OpenAI. Beveiliging is het laatste thema dat in de aankondiging wordt genoemd.\n\nOpenAI zegt de details per onderwerp te hebben uitgewerkt. Wie precies wil weten wat er verandert, kan het beste de afzonderlijke aankondigingen lezen."
+  },
+  {
+   "heading": "Wat betekent dit voor Nederland",
+   "body": "Voor gebruikers in Nederland verandert er op korte termijn weinig aan de bestaande ChatGPT-app. Nieuwe modellen en tools komen meestal eerst in de Verenigde Staten uit en daarna in Europa. Wanneer GPT-6 Astra in Nederland beschikbaar is, is nog niet bekend.\n\nVoor bedrijven die met de API van OpenAI werken, zijn de aankondigingen wel relevant. Nieuwe tools kunnen het bouwen van eigen toepassingen makkelijker maken. Let daarbij op de Europese regels rond gegevensbescherming; die gelden ook voor AI-toepassingen op de werkvloer.\n\nPrijsinformatie in euro's gaf OpenAI tijdens DevDay niet. Reken erop dat nieuwe modellen eerst in een duurdere laag komen en later breder beschikbaar worden."
+  }
+ ],
+ "nl_angle": "Nederlandse ontwikkelaars en bedrijven die op OpenAI bouwen, krijgen met de DevDay-aankondigingen nieuwe mogelijkheden in handen. Tegelijk blijft het afwachten wanneer GPT-6 Astra en de nieuwe tools hier echt te gebruiken zijn; OpenAI noemt geen datum voor Europa. Houd de officiële aankondigingen in de gaten en test nieuwe functies pas in productie als de voorwaarden en prijzen duidelijk zijn.",
+ "faq": [
+  {
+   "q": "Wat is GPT-6 Astra?",
+   "a": "GPT-6 Astra is het nieuwe model dat OpenAI tijdens DevDay 2026 noemt. Details over mogelijkheden en beschikbaarheid gaf OpenAI in de aankondiging nog niet."
+  },
+  {
+   "q": "Wanneer komt GPT-6 Astra naar Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI noemt in de DevDay-aankondiging geen datum voor Europa of Nederland."
+  },
+  {
+   "q": "Wat is DevDay van OpenAI?",
+   "a": "DevDay is het jaarlijkse evenement van OpenAI voor ontwikkelaars. Tijdens DevDay 2026 kwamen meer dan twintig aankondigingen langs, waaronder GPT-6 Astra, ChatGPT, Codex, API's en beveiliging."
+  }
+ ],
+ "slug": "openai-devday-2026-gpt-6-astra-en-ruim-20-aankondigingen",
+ "kind": "news",
+ "date": "2026-09-29",
+ "published": "2026-09-29T22:41",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "DevDay 2026 Recap",
+   "url": "https://openai.com/index/devday-2026-recap"
+  }
+ ],
+ "path": "/nieuws/openai-devday-2026-gpt-6-astra-en-ruim-20-aankondigingen/",
+ "og": "/img/og/openai-devday-2026-gpt-6-astra-en-ruim-20-aankondigingen.png"
+}

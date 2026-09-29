@@ -831,6 +831,18 @@
   "482046899a": {
    "at": "2026-09-29T19:01:31.771099",
    "why": "ok"
+  },
+  "19db7cc5ca": {
+   "at": "2026-09-29T22:41:06.975928",
+   "why": "ok"
+  },
+  "dd66acaed2": {
+   "at": "2026-09-29T22:42:06.975928",
+   "why": "ok"
+  },
+  "01d7ca2b25": {
+   "at": "2026-09-29T22:43:06.975928",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -978,6 +990,9 @@
   "OpenAI brengt GPT-6.1 Astra niet uit om misleiding",
   "America.gov chatbot moet Amerikaanse overheid simpeler maken",
   "OpenAI DevDay 2026: 20+ launches en volgens Altman een nieuw ding",
-  "OpenAI houdt GPT-6.1 tegen: model te onveilig om uit te brengen"
+  "OpenAI houdt GPT-6.1 tegen: model te onveilig om uit te brengen",
+  "OpenAI DevDay 2026: GPT-6 Astra en ruim 20 aankondigingen",
+  "GPT-6.1 Sol: bijna-Astra intelligentie voor een vijfde van de prijs",
+  "OpenAI komt met abonnement van 500 dollar per maand"
  ]
 }
