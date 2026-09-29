@@ -799,6 +799,26 @@
   "7111554b65": {
    "at": "2026-09-29T16:46:54.443135",
    "why": "ok"
+  },
+  "3704d533c8": {
+   "at": "2026-09-29T16:49:36.726977",
+   "why": "high-risk"
+  },
+  "4673f7cac1": {
+   "at": "2026-09-29T16:49:36.726977",
+   "why": "ok"
+  },
+  "5e8efe6b0a": {
+   "at": "2026-09-29T16:50:36.726977",
+   "why": "ok"
+  },
+  "eb3e34cc0b": {
+   "at": "2026-09-29T16:51:36.726977",
+   "why": "high-risk"
+  },
+  "a6537ed251": {
+   "at": "2026-09-29T16:51:36.726977",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -940,6 +960,9 @@
   "Meta Muse AI gaf adres van YouTuber aan een vreemde",
   "Meta breidt AI-agent Muse uit naar kleine bedrijven",
   "OpenAI biedt excuses aan na datalek door ai-agenten in Australië",
-  "Reco haalt 55 miljoen op voor AI agent beveiliging"
+  "Reco haalt 55 miljoen op voor AI agent beveiliging",
+  "Anthropic IPO: waarschuwing voor AI-risico's in eigen prospectus",
+  "AI-chatbot als zoekmachine geeft je minder informatie",
+  "OpenAI brengt GPT-6.1 Astra niet uit om misleiding"
  ]
 }
