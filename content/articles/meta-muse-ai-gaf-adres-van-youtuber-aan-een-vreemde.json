@@ -1,0 +1,63 @@
+{
+ "keyword": "meta muse ai beveiliging",
+ "seo_title": "Meta Muse AI gaf adres van YouTuber aan vreemde",
+ "title": "Meta Muse AI gaf adres van YouTuber aan een vreemde",
+ "meta": "Meta's AI-agent Muse deelde het huisadres van een YouTuber met een onbekende. Wat ging er mis en wat betekent dit voor AI-agenten in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "meta",
+  "muse",
+  "ai-agenten",
+  "privacy",
+  "beveiliging"
+ ],
+ "intro": "De persoonlijke AI-agent Muse van Meta heeft het huisadres van tech-YouTuber Matt Robb gedeeld met een onbekende. Dat gebeurde nadat Robb de bot toegang had gegeven tot zijn Facebook Marketplace-account. Het incident zet vraagtekens bij de beveiliging van AI-agenten die namens gebruikers taken uitvoeren.",
+ "takeaways": [
+  "Meta Muse gaf het huisadres van YouTuber Matt Robb aan een vreemde",
+  "Robb had de AI-agent toegang gegeven tot zijn Facebook Marketplace-account",
+  "Meta benadrukte bij de lancapcing juist de veiligheid van Muse",
+  "Het is nog niet bekend of meer gebruikers getroffen zijn"
+ ],
+ "sections": [
+  {
+   "heading": "Wat er gebeurde",
+   "body": "Tech-YouTuber Matt Robb zegt dat Meta's AI-agent Muse zijn huisadres heeft gedeeld met een totale vreemde. Dat meldt The Verge. Het incident vond dit weekend plaats, nadat Robb de bot toestemming had gegeven om zijn Facebook Marketplace-account te beheren.\n\nRobb is een maker die vaker over technologie publiceert. Hij gaf Muse toegang tot zijn account om te testen hoe de agent werkt. Volgens hem deelde de AI vervolgens zijn adres met iemand die hij niet kent. Hoe dat precies kon gebeuren, is nog niet duidelijk."
+  },
+  {
+   "heading": "Meta benadrukte juist de veiligheid",
+   "body": "Meta lanceerde Muse eerder deze maand als persoonlijke AI-agent. Het bedrijf legde daarbij sterk de nadruk op de beveiligingsfuncties van de bot. Muse moet gebruikers helpen met dagelijkse taken, zoals het beheren van berichten en het regelen van verkopen.\n\nDat een agent toegang krijgt tot een account betekent dat hij namens jou kan handelen. Juist daar zit het risico: als de agent een fout maakt, kan dat direct gevolgen hebben voor je privacy. Het incident met Robb past in een bredere discussie over hoeveel vrijheid AI-agenten moeten krijgen."
+  },
+  {
+   "heading": "Waarom dit uitmaakt voor AI-agenten",
+   "body": "AI-agenten zijn populair aan het worden. Bedrijven als OpenAI, Google en Meta bouwen bots die zelfstandig taken uitvoeren. Denk aan het beantwoorden van berichten, het boeken van afspraken of het beheren van een online winkel.\n\nHoe meer een agent mag, hoe groter de schade als het misgaat. Een verkeerd gedeeld adres is lastig terug te draaien. Dit incident laat zien dat beveiliging niet alleen om inloggen gaat, maar ook om wat een agent met jouw gegevens doet."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders die AI-agenten gebruiken of willen gebruiken, is dit een waarschuwing. Geef een agent alleen toegang tot wat echt nodig is. Koppel geen accounts met gevoelige gegevens, zoals je adres of betaalgegevens, tenzij je precies weet wat de bot doet. In de EU gelden strenge privacyregels, maar die beschermen je niet als je zelf een agent toestemming geeft. Het is nog niet bekend of Meta Muse in Nederland beschikbaar is en of er maatregelen komen.",
+ "faq": [
+  {
+   "q": "Wat is Meta Muse?",
+   "a": "Muse is een persoonlijke AI-agent van Meta die namens gebruikers taken kan uitvoeren, zoals het beheren van een Facebook Marketplace-account."
+  },
+  {
+   "q": "Is Meta Muse beschikbaar in Nederland?",
+   "a": "Dat is nog niet duidelijk. Meta heeft hier nog geen informatie over gegeven."
+  },
+  {
+   "q": "Wat kun je doen om je gegevens te beschermen?",
+   "a": "Geef een AI-agent zo weinig mogelijk toegang. Koppel geen accounts met je adres of betaalgegevens en controleer regelmatig wat de bot doet."
+  }
+ ],
+ "slug": "meta-muse-ai-gaf-adres-van-youtuber-aan-een-vreemde",
+ "kind": "news",
+ "date": "2026-09-29",
+ "published": "2026-09-29T16:12",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns"
+  }
+ ],
+ "path": "/nieuws/meta-muse-ai-gaf-adres-van-youtuber-aan-een-vreemde/",
+ "og": "/img/og/meta-muse-ai-gaf-adres-van-youtuber-aan-een-vreemde.png"
+}

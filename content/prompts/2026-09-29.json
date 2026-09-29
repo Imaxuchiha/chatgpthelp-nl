@@ -1,0 +1,14 @@
+{
+ "title": "Prompt van de dag: oppas instructies opstellen",
+ "situation": "Je gaat een avond weg en laat de kinderen bij een oppas of familielid. Met deze prompt maak je in één keer een compleet, rustig instructieblad op maat.",
+ "prompt": "Je bent een ervaren gastouder die heldere instructies schrijft voor oppassers. Ik laat mijn [AANTAL] kind(eren) van [LEEFTIJDEN] thuis bij [NAAM OPPAS] op [DATUM] van [TIJD] tot [TIJD]. Schrijf een instructieblad van maximaal één A4 met deze onderdelen: 1) eten en drinken met tijden, 2) slaap- of bedtijdroutine stap voor stap, 3) schermtijd en wat wel/niet mag, 4) allergieën, medicijnen en wat te doen bij ziekte, 5) noodnummers en wanneer bellen, 6) hoe je de kinderen troost of rustig krijgt, 7) wat echt niet mag. Gebruik korte zinnen en een rustige toon. Zet achter elk onderdeel een regel waar de oppas iets kan afvinken. Sluit af met drie dingen die onze kinderen fijn vinden.",
+ "tip": "Vraag om een tweede versie in telegramstijl voor op de koelkast, zodat de oppas hem in tien seconden leest.",
+ "tags": [
+  "thuis",
+  "gezin",
+  "organisatie"
+ ],
+ "date": "2026-09-29",
+ "slug": "prompt-van-de-dag-oppas-instructies-opstellen",
+ "path": "/prompts/2026-09-29-prompt-van-de-dag-oppas-instructies-opstellen/"
+}
