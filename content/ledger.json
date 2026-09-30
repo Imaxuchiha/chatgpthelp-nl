@@ -887,6 +887,30 @@
   "a993d027af": {
    "at": "2026-09-30T19:00:56.880082",
    "why": "ok"
+  },
+  "b370702999": {
+   "at": "2026-09-30T22:45:04.695266",
+   "why": "high-risk"
+  },
+  "2104d195ee": {
+   "at": "2026-09-30T22:45:04.695266",
+   "why": "high-risk"
+  },
+  "6a91381a42": {
+   "at": "2026-09-30T22:45:04.695266",
+   "why": "ok"
+  },
+  "f9ce0d68ae": {
+   "at": "2026-09-30T22:46:04.695266",
+   "why": "poort"
+  },
+  "97fa5252aa": {
+   "at": "2026-09-30T22:46:04.695266",
+   "why": "ok"
+  },
+  "d4c4ffc0ae": {
+   "at": "2026-09-30T22:47:04.695266",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1043,6 +1067,9 @@
   "OpenAI Dots: schattige AI-agents die je kunt bellen",
   "OpenAI breidt AI-training voor kleine bedrijven uit met SBDC",
   "AI-agents van Meta en OpenAI: schattig, maar ze willen veel van je weten",
-  "DoorDash lanceert AI-agent waarmee je eten bestelt via een appje"
+  "DoorDash lanceert AI-agent waarmee je eten bestelt via een appje",
+  "OpenAI stopt campagne voor model-distillatie",
+  "Gemini 4 Argon: Google beperkt toegang tot nieuw AI-model",
+  "OpenAI Decisions API moet zwermende agents beteugelen"
  ]
 }

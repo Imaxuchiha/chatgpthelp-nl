@@ -1,0 +1,67 @@
+{
+ "keyword": "openai model distillatie",
+ "seo_title": "OpenAI stopt model-distillatie: wat het betekent",
+ "title": "OpenAI stopt campagne voor model-distillatie",
+ "meta": "OpenAI heeft een campagne gestopt waarbij beschermde modelredeneringen werden gestolen. Lees wat distillatie is en wat dit voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "modeldistillatie",
+  "ai-beveiliging",
+  "chatgpt",
+  "europa"
+ ],
+ "intro": "OpenAI zegt dat het een gecoördineerde campagne heeft gestopt waarbij beschermde modelredeneringen werden weggelokt. Het bedrijf noemt dit 'adversarial distillation' en scherpt zijn verdediging aan. Voor gebruikers en bedrijven in Nederland raakt dit de vraag hoe veilig AI-modellen eigenlijk zijn.",
+ "takeaways": [
+  "OpenAI meldt dat het een gecoördineerde model-distillatiecampagne heeft gestopt.",
+  "Bij distillatie proberen partijen de redeneringen van een beschermd model te kopiëren.",
+  "OpenAI zegt zijn verdediging tegen dit soort aanvallen te versterken.",
+  "Hoe de campagne precies werkte en wie erachter zat, maakt OpenAI niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI zegt over de campagne",
+   "body": "Volgens OpenAI is er een gecoördineerde poging geweest om beschermde modelredeneringen te ontfutselen. Het bedrijf beschrijft dit als een campagne voor model-distillatie en zegt die te hebben gestopt.\n\nOpenAI geeft in zijn bericht geen details over de omvang, de duur of de partijen achter de campagne. Ook maakt het bedrijf niet bekend welke modellen precies zijn getroffen. Wat wel duidelijk is: OpenAI ziet dit als een serieus probleem en werkt aan betere verdediging."
+  },
+  {
+   "heading": "Wat is model-distillatie eigenlijk",
+   "body": "Bij distillatie gebruikt iemand de uitkomsten van een groot, duur model om een kleiner model te trainen. Dat kleinere model leert dan dezelfde antwoorden en redeneerstappen te geven, zonder dat er zelf veel rekenkracht of onderzoeksgeld in is gestopt.\n\nSoms gebeurt dat netjes, met toestemming. Maar als het stiekem en op grote schaal gebeurt, spreken bedrijven van 'adversarial distillation'. Je probeert dan bewust de beschermde redeneringen van een model te kopiëren. OpenAI noemt dat in zijn bericht een aanval op de bescherming van het model."
+  },
+  {
+   "heading": "Waarom dit voor Nederland uitmaakt",
+   "body": "Veel Nederlandse bedrijven en instellingen bouwen nu eigen AI-toepassingen, vaak bovenop modellen van OpenAI, Anthropic of Google. Als de redeneringen van zulke modellen makkelijk te kopiëren zijn, verzwakt dat de positie van de partij die het model heeft ontwikkeld.\n\nTegelijk raakt het de vraag hoe uniek een model nog is. Een concurrent kan met betrekkelijk weinig middelen een vergelijkbaar model bouwen. Voor Nederlandse gebruikers verandert er op korte termijn weinig aan de dienst zelf, maar het zegt iets over de wedloop achter de schermen."
+  },
+  {
+   "heading": "Wat OpenAI niet zegt",
+   "body": "OpenAI laat in het bericht in het midden hoe de campagne precies werkte. Er staat niet welke technieken zijn gebruikt, hoeveel accounts erbij betrokken waren of of er juridische stappen volgen.\n\nOok is niet bekend of er gegevens van gewone gebruikers zijn geraakt. Het bedrijf zegt alleen dat het zijn verdediging tegen dit soort aanvallen versterkt. Meer details zijn nog niet naar buiten gebracht."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse organisaties die AI-modellen van OpenAI gebruiken, verandert er direct weinig aan de dienst. Wel is het een signaal dat de bescherming van modelredeneringen een aandachtspunt is. Bedrijven die zelf een model willen bouwen op basis van andermans uitkomsten, moeten beseffen dat OpenAI en soortgelijke partijen hier actief op letten. Wie in Nederland een AI-toepassing ontwikkelt, doet er goed aan om de herkomst van trainingsdata en modeluitkomsten vast te leggen.",
+ "faq": [
+  {
+   "q": "Wat is model-distillatie?",
+   "a": "Bij distillatie train je een kleiner model met de antwoorden van een groter model. Het kleine model leert zo dezelfde redeneringen na te doen, zonder de oorspronkelijke trainingskosten."
+  },
+  {
+   "q": "Wat heeft OpenAI precies gestopt?",
+   "a": "Volgens OpenAI een gecoördineerde campagne om beschermde modelredeneringen te verkrijgen. Het bedrijf geeft geen details over de partijen of de omvang."
+  },
+  {
+   "q": "Merken Nederlandse gebruikers hier iets van?",
+   "a": "Aan de dienst zelf verandert voorlopig niets. Het is vooral een teken dat OpenAI zijn verdediging tegen dit soort aanvallen aanscherpt."
+  }
+ ],
+ "slug": "openai-stopt-campagne-voor-model-distillatie",
+ "kind": "news",
+ "date": "2026-09-30",
+ "published": "2026-09-30T22:45",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Disrupting a coordinated model-distillation campaign",
+   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+  }
+ ],
+ "path": "/nieuws/openai-stopt-campagne-voor-model-distillatie/",
+ "og": "/img/og/openai-stopt-campagne-voor-model-distillatie.png"
+}

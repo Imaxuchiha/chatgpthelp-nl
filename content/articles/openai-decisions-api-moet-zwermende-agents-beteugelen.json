@@ -1,0 +1,64 @@
+{
+ "keyword": "openai decisions api",
+ "seo_title": "OpenAI Decisions API: wat het is en wat het doet",
+ "title": "OpenAI Decisions API moet zwermende agents beteugelen",
+ "meta": "OpenAI brengt een Decisions API uit, een kloon van Jev. Lees wat het doet, waarom het telt en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "decisions api",
+  "ai-agents",
+  "jev",
+  "api"
+ ],
+ "intro": "OpenAI heeft een Decisions API aangekondigd, een eigen versie van het systeem Jev. Volgens TechCrunch moet die snelle, goedkope intelligentie leveren en voorkomen dat losse AI-agents als een zwerm door elkaar gaan werken. Het bericht laat zien waar de volgende strijd in AI om gaat: niet om slimme modellen, maar om snelle beslissers.",
+ "takeaways": [
+  "OpenAI noemt de Decisions API een kloon van Jev, meldt TechCrunch.",
+  "Het systeem moet snelle en goedkope intelligentie leveren voor beslissingen.",
+  "Volgens TechCrunch kan het helpen om zwermende agents van OpenAI in te tomen.",
+  "Er zijn nog geen prijzen of releasedata voor Nederland bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI met de Decisions API wil",
+   "body": "De Decisions API is volgens TechCrunch een kloon van Jev. Jev is een systeem dat draait om één ding: snel en goedkoop een beslissing nemen. OpenAI bevestigt daarmee dat niet elk stukje AI een groot taalmodel hoeft te zijn.\n\nIn plaats van één model dat alles doet, kiest OpenAI voor een aparte laag die alleen knopen doorhakt. Dat is sneller en naar verwachting goedkoper dan een volledig taalmodel voor elke stap. TechCrunch schrijft dat de API het belang van snelle, betaalbare intelligentie onderstreept."
+  },
+  {
+   "heading": "Het probleem van zwermende agents",
+   "body": "OpenAI werkt aan agents die zelfstandig taken uitvoeren. Zet je er meerdere tegelijk aan het werk, dan gaan ze langs elkaar heen werken. TechCrunch noemt dat swarming agents: een zwerm die zijn eigen gang gaat.\n\nDe Decisions API moet daar een rem op zetten. Als losse agents hun beslissingen via één snelle laag afhandelen, blijft het gedrag volgens TechCrunch beter te volgen. Denk aan een agent die een afspraak inplant en een tweede die de agenda leest: zonder afstemming lopen die door elkaar."
+  },
+  {
+   "heading": "Waarom dit nieuws is",
+   "body": "Grote AI-bedrijven wedijveren met steeds grotere modellen. OpenAI zet met de Decisions API juist in op klein en snel. Dat past bij de praktijk: veel bedrijven willen geen dure modelaanroep voor elke simpele keuze.\n\nTechCrunch vergelijkt de stap met Jev en noemt de API een kloon. Daarmee geeft OpenAI toe dat het idee werkt en dat concurrenten op hetzelfde spoor zitten. Wat de API precies kost en wanneer hij beschikbaar komt, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die met AI-agents werken, kan een goedkope beslissingslaag het verschil maken. Reken je nu per taak af aan een groot model, dan loopt de rekening snel op. Een aparte API voor simpele knopen kan de kosten drukken, mits OpenAI hem in de Europese Unie aanbiedt en de gegevensverwerking aan de AVG voldoet. Zolang prijs en beschikbaarheid onbekend zijn, is het vooral een signaal: de winst zit steeds vaker in snel en goedkoop, niet in groot.",
+ "faq": [
+  {
+   "q": "Wat is de OpenAI Decisions API?",
+   "a": "Dat is een API die snelle, goedkope beslissingen levert voor AI-systemen. TechCrunch noemt het een kloon van Jev."
+  },
+  {
+   "q": "Wat zijn zwermende agents?",
+   "a": "Dat zijn meerdere AI-agents die tegelijk werken en langs elkaar heen kunnen gaan. De Decisions API moet dat gedrag in toom houden."
+  },
+  {
+   "q": "Is de Decisions API al beschikbaar in Nederland?",
+   "a": "Daar is nog niets over bekend. OpenAI heeft geen prijs of releasedatum genoemd."
+  }
+ ],
+ "slug": "openai-decisions-api-moet-zwermende-agents-beteugelen",
+ "kind": "news",
+ "date": "2026-09-30",
+ "published": "2026-09-30T22:47",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+   "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
+  }
+ ],
+ "path": "/nieuws/openai-decisions-api-moet-zwermende-agents-beteugelen/",
+ "og": "/img/og/openai-decisions-api-moet-zwermende-agents-beteugelen.png",
+ "take": "Snelle beslissers klinken leuk, maar de meeste 'problemen' in advertentieaccounts zijn meetfouten en geen echte dalingen. Voordat zo'n zwerm iets mag beslissen, wil ik eerst zien dat de data eronder klopt, want AI optimaliseert met volle overtuiging de verkeerde kant op. Tot die tijd blijft dit voor mij een aankondiging en geen product."
+}
