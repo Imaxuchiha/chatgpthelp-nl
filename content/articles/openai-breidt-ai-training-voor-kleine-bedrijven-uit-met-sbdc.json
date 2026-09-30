@@ -1,0 +1,64 @@
+{
+ "keyword": "ai training kleine bedrijven",
+ "seo_title": "AI training kleine bedrijven: OpenAI en SBDC slaan handen",
+ "title": "OpenAI breidt AI-training voor kleine bedrijven uit met SBDC",
+ "meta": "OpenAI werkt samen met America's SBDC om kleine bedrijven praktische AI-training te geven. Lees wat dit betekent voor ondernemers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "mkb",
+  "ai-training",
+  "sbd",
+  "kleine bedrijven"
+ ],
+ "intro": "OpenAI gaat samenwerken met America's SBDC om kleine bedrijven meer praktische AI-training en lokale ondersteuning te bieden. Tegelijk publiceert het bedrijf een rapport over hoe kleine teams AI gebruiken. De stap laat zien dat AI-lessen voor het mkb steeds belangrijker worden.",
+ "takeaways": [
+  "OpenAI en America's SBDC bieden samen hands-on AI-training aan kleine bedrijven.",
+  "Er komt een nieuw rapport over hoe kleine teams AI inzetten.",
+  "De samenwerking richt zich op lokale ondersteuning, niet alleen online cursussen.",
+  "Voor Nederlandse ondernemers is er nog geen vergelijkbaar programma aangekondigd."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI en SBDC precies gaan doen",
+   "body": "Volgens OpenAI gaat het om een partnerschap met America's SBDC. Dat is een netwerk dat kleine bedrijven in de Verenigde Staten ondersteunt. De samenwerking moet leiden tot meer praktische AI-training en hulp dichtbij huis.\n\nHet gaat niet alleen om video's of online cursussen. De trainingen zijn bedoeld als hands-on: ondernemers leren AI toepassen op hun eigen werk. Denk aan het automatiseren van klantvragen of het sneller maken van teksten.\n\nOpenAI noemt de stap belangrijk omdat kleine teams vaak weinig tijd hebben om nieuwe technologie uit te proberen. Door lokale begeleiding hopen de partijen de drempel te verlagen."
+  },
+  {
+   "heading": "Nieuw rapport over AI in kleine teams",
+   "body": "Naast de training komt er een rapport over hoe kleine teams AI gebruiken. OpenAI zegt daarin te laten zien waar kansen liggen en waar het misgaat. Het rapport is nog niet openbaar, dus details over cijfers of specifieke bedrijven zijn nog niet bekend.\n\nWel is duidelijk dat OpenAI de uitkomsten wil gebruiken om de trainingen te verbeteren. Het bedrijf ziet kleine bedrijven als een groep die veel baat kan hebben bij AI, maar vaak niet weet waar te beginnen.\n\nDe combinatie van onderzoek en training moet ervoor zorgen dat de lessen aansluiten bij de praktijk. Dat is volgens OpenAI nodig om AI nuttig te maken voor dagelijks werk."
+  },
+  {
+   "heading": "Waarom dit nieuws telt",
+   "body": "Grote bedrijven experimenteren al langer met AI. Kleine bedrijven blijven vaak achter, omdat ze geen aparte afdeling hebben voor technologie. OpenAI en SBDC richten zich juist op die groep.\n\nDe samenwerking past bij een bredere trend: AI-bedrijven zoeken manieren om hun tools nuttig te maken voor het mkb. Voor OpenAI is dat ook commercieel interessant, want kleine bedrijven vormen een grote potentiële klantengroep.\n\nOf de aanpak werkt, moet blijken uit het rapport en de eerste trainingen. Concrete resultaten zijn nog niet gemeld."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ondernemers is er nog geen vergelijkbaar programma aangekondigd. De samenwerking richt zich op de Verenigde Staten, via America's SBDC. Nederlandse mkb'ers die AI willen leren gebruiken, moeten voorlopig zelf op zoek naar cursussen of begeleiding. Wel laat dit nieuws zien dat AI-training voor kleine bedrijven serieus wordt genomen. Het is goed mogelijk dat OpenAI of andere partijen later ook in Nederland of de EU met lokale partners gaan samenwerken. Wie nu al wil beginnen, kan kijken naar bestaande AI-cursussen bij brancheverenigingen of regionale ondernemersloketten.",
+ "faq": [
+  {
+   "q": "Wat is America's SBDC?",
+   "a": "America's SBDC is een Amerikaans netwerk dat kleine bedrijven ondersteunt met advies en training. OpenAI werkt hiermee samen om AI-lessen lokaal aan te bieden."
+  },
+  {
+   "q": "Komt deze AI-training ook naar Nederland?",
+   "a": "Daar is nog niets over bekend. De samenwerking richt zich op de Verenigde Staten. Voor Nederland zijn geen plannen aangekondigd."
+  },
+  {
+   "q": "Wat staat er in het rapport over kleine teams en AI?",
+   "a": "OpenAI heeft nog geen details vrijgegeven. Het rapport gaat over hoe kleine teams AI gebruiken en waar kansen liggen."
+  }
+ ],
+ "slug": "openai-breidt-ai-training-voor-kleine-bedrijven-uit-met-sbdc",
+ "kind": "news",
+ "date": "2026-09-30",
+ "published": "2026-09-30T18:58",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Helping small businesses put AI to work",
+   "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+  }
+ ],
+ "path": "/nieuws/openai-breidt-ai-training-voor-kleine-bedrijven-uit-met-sbdc/",
+ "og": "/img/og/openai-breidt-ai-training-voor-kleine-bedrijven-uit-met-sbdc.png",
+ "take": "AI-training voor het mkb is prima, maar ik huur geen trainer in voor iets wat ik zelf in een middag bouw. Mijn bureau-automatisering, rapportages en analyses draaien op Claude Code en eigen scripts, precies omdat ik liever zelf bouw dan het zoveelste abonnement of cursusbudget erbij neem. Leer een ondernemer eerst één concreet proces automatiseren dat tijd oplevert, dan praten we verder."
+}

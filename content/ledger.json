@@ -867,6 +867,26 @@
   "24d8c66968": {
    "at": "2026-09-30T11:50:56.237363",
    "why": "ok"
+  },
+  "b5e5e43443": {
+   "at": "2026-09-30T18:58:56.880082",
+   "why": "ok"
+  },
+  "c3c29bca3f": {
+   "at": "2026-09-30T18:59:56.880082",
+   "why": "ok"
+  },
+  "a963531753": {
+   "at": "2026-09-30T19:00:56.880082",
+   "why": "high-risk"
+  },
+  "987a4afdc0": {
+   "at": "2026-09-30T19:00:56.880082",
+   "why": "high-risk"
+  },
+  "a993d027af": {
+   "at": "2026-09-30T19:00:56.880082",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1020,6 +1040,9 @@
   "OpenAI komt met abonnement van 500 dollar per maand",
   "OpenAI lanceert Dots: altijd aanwezige AI-assistent",
   "McDonald's gebruikt ai voor dynamische prijzen per locatie",
-  "OpenAI Dots: schattige AI-agents die je kunt bellen"
+  "OpenAI Dots: schattige AI-agents die je kunt bellen",
+  "OpenAI breidt AI-training voor kleine bedrijven uit met SBDC",
+  "AI-agents van Meta en OpenAI: schattig, maar ze willen veel van je weten",
+  "DoorDash lanceert AI-agent waarmee je eten bestelt via een appje"
  ]
 }

@@ -1,0 +1,67 @@
+{
+ "keyword": "doordash ai agent",
+ "seo_title": "DoorDash AI-agent: eten bestellen via een appje",
+ "title": "DoorDash lanceert AI-agent waarmee je eten bestelt via een appje",
+ "meta": "DoorDash start een AI-agent voor eten bestellen via tekstberichten. Wat doet het, en wat betekent dit voor bezorgapps in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "doordash",
+  "ai-agent",
+  "bezorging",
+  "food delivery",
+  "openai"
+ ],
+ "intro": "DoorDash heeft een AI-agent gelanceerd waarmee klanten eten kunnen bestellen door simpelweg een tekstbericht te sturen. De bezorgdienst hoopt daarmee voorsprong te pakken op concurrenten Uber Eats en Grubhub. Het is een van de eerste grote bezorgplatforms die een gespreksagent in de bestelervaring verwerkt.",
+ "takeaways": [
+  "DoorDash lanceert een AI-agent waarmee je via tekstberichten eten bestelt.",
+  "Het bedrijf wil zich onderscheiden van Uber Eats en Grubhub.",
+  "De agent is onderdeel van de bestelervaring in de DoorDash-app.",
+  "Details over beschikbaarheid buiten de VS zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de DoorDash-agent doet",
+   "body": "Volgens TechCrunch kunnen klanten van DoorDash voortaan een AI-agent aanspreken om eten te bestellen. In plaats van door menu's te tikken, stuur je een bericht met wat je wilt eten. De agent verwerkt dat verzoek en zet het om in een bestelling.\n\nDoorDash positioneert de agent als een gemakslaag bovenop de bestaande bezorgservice. Het bedrijf noemt de stap een manier om het bestelproces sneller te maken voor wie niet door eindeloze lijsten wil scrollen."
+  },
+  {
+   "heading": "Concurrentiestrijd met Uber Eats en Grubhub",
+   "body": "TechCrunch meldt dat DoorDash met de AI-agent voorsprong wil pakken op Uber Eats en Grubhub. De drie partijen concurreren al jaren om dezelfde klanten in de Amerikaanse bezorgmarkt. Een gespreksagent is een nieuw wapen in die strijd.\n\nBezorgplatforms zoeken al langer naar manieren om bestellingen eenvoudiger te maken. Eerdere pogingen draaiden vooral om aanbevelingen en gepersonaliseerde lijstjes. Een agent die zelf een bestelling opstelt, gaat een stap verder."
+  },
+  {
+   "heading": "Hoe de agent technisch werkt",
+   "body": "TechCrunch geeft geen details over welk taalmodel DoorDash gebruikt of hoe de agent precies is gebouwd. Het is dus nog niet bekend of het om een eigen model gaat of om een samenwerking met een partij als OpenAI of Anthropic.\n\nOok is niet duidelijk of de agent alleen suggesties doet of zelfstandig een bestelling plaatst en afrekent. Zulke keuzes bepalen hoeveel controle de gebruiker houdt. Bij dit soort agents is dat vaak het lastigste punt."
+  },
+  {
+   "heading": "Beschikbaarheid en prijs",
+   "body": "Over een prijs voor de functie meldt TechCrunch niets. Ook is niet bekend of de agent extra kosten met zich meebrengt voor klanten of restaurants. DoorDash heeft geen Europese uitrol aangekondigd.\n\nVoor Nederland is het daarom nog afwachten. DoorDash is hier niet actief; de Nederlandse bezorgmarkt wordt gedomineerd door partijen als Thuisbezorgd en Uber Eats."
+  }
+ ],
+ "nl_angle": "Voor Nederland verandert er voorlopig weinig. DoorDash is niet actief op de Nederlandse markt, dus de nieuwe agent is hier niet beschikbaar. Toch is de stap relevant: Thuisbezorgd en Uber Eats kijken net als hun Amerikaanse concurrenten naar AI om bestellen makkelijker te maken. Als zulke agents hier komen, krijg je waarschijnlijk te maken met dezelfde vragen als in de VS: wat doet de agent met je voorkeuren, welke gegevens worden opgeslagen, en wie is verantwoordelijk als er iets misgaat met een bestelling? Onder de Europese privacyregels (AVG) moet een bedrijf kunnen uitleggen welke persoonsgegevens het verwerkt. Bij een agent die zelf keuzes maakt, ligt dat ingewikkelder dan bij een simpel bestelformulier.",
+ "faq": [
+  {
+   "q": "Wat is de DoorDash AI-agent?",
+   "a": "Een functie waarmee klanten via tekstberichten eten kunnen bestellen. TechCrunch meldt dat DoorDash de agent heeft gelanceerd om sneller te zijn dan Uber Eats en Grubhub."
+  },
+  {
+   "q": "Is de DoorDash AI-agent beschikbaar in Nederland?",
+   "a": "Nee. DoorDash is niet actief in Nederland en er is geen Europese uitrol aangekondigd. De functie is voorlopig alleen relevant voor de Amerikaanse markt."
+  },
+  {
+   "q": "Welk AI-model gebruikt DoorDash?",
+   "a": "Dat is nog niet bekend. TechCrunch noemt geen leverancier of model, dus of het om een eigen systeem of een samenwerking gaat, is niet duidelijk."
+  }
+ ],
+ "slug": "doordash-lanceert-ai-agent-waarmee-je-eten-bestelt-via-een-appje",
+ "kind": "news",
+ "date": "2026-09-30",
+ "published": "2026-09-30T19:00",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "DoorDash launches an AI agent you can text to order food",
+   "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
+  }
+ ],
+ "path": "/nieuws/doordash-lanceert-ai-agent-waarmee-je-eten-bestelt-via-een-appje/",
+ "og": "/img/og/doordash-lanceert-ai-agent-waarmee-je-eten-bestelt-via-een-appje.png"
+}

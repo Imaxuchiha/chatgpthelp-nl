@@ -1,0 +1,64 @@
+{
+ "keyword": "ai-agents meta openai",
+ "seo_title": "AI-agents Meta en OpenAI: dit weten ze van je",
+ "title": "AI-agents van Meta en OpenAI: schattig, maar ze willen veel van je weten",
+ "meta": "Meta's Muse en OpenAI's Dots zijn gebruiksvriendelijke AI-agents die veel persoonsgegevens vragen. Wat betekent dat voor jou in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "ai-agents",
+  "meta",
+  "openai",
+  "privacy",
+  "gegevens"
+ ],
+ "intro": "Meta en OpenAI hebben allebei een gebruiksvriendelijke AI-agent gelanceerd, met schattige mascottes die je moeten verleiden. Volgens Bright vragen die agents wel griezelig veel persoonlijke gegevens. Dat roept de vraag op wat je precies weggeeft als je zo'n agent gebruikt.",
+ "takeaways": [
+  "Meta noemt zijn AI-agent Muse, OpenAI komt met Dots.",
+  "Beide agents zijn ontworpen om gebruiksvriendelijk te zijn en vertrouwen te wekken.",
+  "De agents vragen veel persoonlijke gegevens van gebruikers.",
+  "Het is nog niet bekend welke gegevens precies worden opgeslagen en hoe lang."
+ ],
+ "sections": [
+  {
+   "heading": "Schattige mascottes als lokkertje",
+   "body": "Meta en OpenAI hebben elk een AI-agent uitgebracht die er bewust vriendelijk en toegankelijk uitziet. Meta noemt zijn agent Muse, OpenAI werkt met Dots. Volgens Bright zijn het de schattige mascottes die gebruikers moeten overhalen om de agent veel te laten weten.\n\nDie aanpak is niet toevallig. Een agent die persoonlijk overkomt, voelt minder als een datacollector. Toch is dat precies wat er volgens Bright gebeurt: de agents verzamelen allerlei gegevens om goed te kunnen functioneren."
+  },
+  {
+   "heading": "Wat vragen de agents precies?",
+   "body": "De agents willen volgens Bright griezelig veel van je weten. Denk aan informatie over je dagelijkse routines, je contacten en je voorkeuren. Hoe meer context de agent heeft, hoe beter hij taken voor je kan uitvoeren.\n\nHet probleem zit in de balans. Gebruiksgemak en privacy staan op gespannen voet. Je levert iets in zodra je een agent toegang geeft tot je gegevens. Bright stelt de vraag tegen welke prijs dat gebeurt, en dat is een terechte vraag."
+  },
+  {
+   "heading": "Nog veel onduidelijk",
+   "body": "Wat precies wordt opgeslagen, hoe lang en met wie het wordt gedeeld, is nog niet volledig bekend. Volgens Bright is dat een van de grootste zorgen rond deze nieuwe generatie agents.\n\nZowel Meta als OpenAI heeft nog geen volledige openheid gegeven over de datastromen achter Muse en Dots. Tot die duidelijkheid er is, blijft het lastig inschatten wat je precies weggeeft."
+  }
+ ],
+ "nl_angle": "Voor gebruikers in Nederland betekent dit dat je goed moet opletten welke gegevens je een AI-agent geeft. Onder de Europese privacywet AVG heb je recht op inzage en verwijdering van je gegevens, maar dat vraagt wel dat je weet wat er is opgeslagen. Geef een agent alleen toegang tot wat echt nodig is, en controleer de privacyinstellingen voordat je hem loslaat op je mailbox of agenda.",
+ "faq": [
+  {
+   "q": "Wat is een AI-agent precies?",
+   "a": "Een AI-agent is een programma dat zelfstandig taken voor je uitvoert, zoals je agenda beheren of berichten beantwoorden. Hoe meer toegang je geeft, hoe meer hij kan doen."
+  },
+  {
+   "q": "Zijn Muse en Dots beschikbaar in Nederland?",
+   "a": "Volgens Bright zijn beide agents gelanceerd, maar het is niet duidelijk of ze allebei al in Nederland en de rest van de EU beschikbaar zijn. Daar is nog geen volledige duidelijkheid over."
+  },
+  {
+   "q": "Wat kan ik doen om mijn gegevens te beschermen?",
+   "a": "Geef een agent alleen toegang tot wat nodig is, check de privacyinstellingen en gebruik onder de AVG je recht op inzage of verwijdering als je wilt weten wat er is opgeslagen."
+  }
+ ],
+ "slug": "ai-agents-van-meta-en-openai-schattig-maar-ze-willen-veel-van-je-weten",
+ "kind": "news",
+ "date": "2026-09-30",
+ "published": "2026-09-30T18:59",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "'Die schattige AI-agents willen griezelig veel van je weten'",
+   "url": "https://www.bright.nl/nieuws/2141638/die-schattige-ai-agents-willen-griezelig-veel-van-je-weten.html"
+  }
+ ],
+ "path": "/nieuws/ai-agents-van-meta-en-openai-schattig-maar-ze-willen-veel-van-je-weten/",
+ "og": "/img/og/ai-agents-van-meta-en-openai-schattig-maar-ze-willen-veel-van-je-weten.png",
+ "take": "Schattige mascottes en een agent die je hele hebben en houden wil, dat is geen product meer maar een abonnement op jezelf. Ik gebruik AI liever voor werk dat ik kan nameten, zoals teksten en analyses in mijn eigen scripts, en dan hoeft zo'n ding niet te weten wie ik ben. Geef een agent alleen wat hij voor die ene taak nodig heeft."
+}
