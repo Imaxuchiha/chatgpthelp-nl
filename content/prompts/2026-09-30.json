@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: reparatiekosten checken voor je auto",
+ "situation": "Je hebt een prijsopgave van de garage gekregen en wilt weten of die redelijk is voordat je akkoord geeft. Handig bij een onverwachte reparatie of APK-afkeur.",
+ "prompt": "Je bent een ervaren autotechnicus in Nederland. Ik kreeg van mijn garage een prijsopgave voor [MERK EN MODEL, BOUWJAAR] met [KILOMETERSTAND] km. De garage wil het volgende doen: [BESCHRIJF DE REPARATIES, BIJV. 'distributieriem vervangen, waterpomp, koelvloeistof']. De prijs is [BEDRAG] euro inclusief btw en arbeidsloon. Geef mij: 1) of dit werk logisch is bij deze kilometerstand, 2) welke onderdelen gangbaar zijn en wat ze ongeveer kosten, 3) of de arbeidstijd realistisch is, 4) welke vragen ik de garage moet stellen, 5) of ik een tweede offerte moet aanvragen. Zet het in een overzichtelijke lijst. Noem geen prijzen als je die niet zeker weet, zeg dan dat het per regio verschilt.",
+ "tip": "Vraag ook of de garage originele of imitatie-onderdelen gebruikt, dat scheelt vaak flink in de prijs.",
+ "tags": [
+  "auto",
+  "geld",
+  "klantvriendelijk",
+  "reparatie"
+ ],
+ "date": "2026-09-30",
+ "slug": "prompt-reparatiekosten-checken-voor-je-auto",
+ "path": "/prompts/2026-09-30-prompt-reparatiekosten-checken-voor-je-auto/"
+}

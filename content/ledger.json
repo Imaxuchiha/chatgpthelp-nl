@@ -843,6 +843,30 @@
   "01d7ca2b25": {
    "at": "2026-09-29T22:43:06.975928",
    "why": "ok"
+  },
+  "4989aec5d0": {
+   "at": "2026-09-30T11:48:56.237363",
+   "why": "ok"
+  },
+  "7562a87434": {
+   "at": "2026-09-30T11:48:56.237363",
+   "why": "ok"
+  },
+  "c12496f78a": {
+   "at": "2026-09-30T11:49:56.237363",
+   "why": "high-risk"
+  },
+  "5cf330f331": {
+   "at": "2026-09-30T11:49:56.237363",
+   "why": "ok"
+  },
+  "1eb6183d72": {
+   "at": "2026-09-30T11:50:56.237363",
+   "why": "poort"
+  },
+  "24d8c66968": {
+   "at": "2026-09-30T11:50:56.237363",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -993,6 +1017,9 @@
   "OpenAI houdt GPT-6.1 tegen: model te onveilig om uit te brengen",
   "OpenAI DevDay 2026: GPT-6 Astra en ruim 20 aankondigingen",
   "GPT-6.1 Sol: bijna-Astra intelligentie voor een vijfde van de prijs",
-  "OpenAI komt met abonnement van 500 dollar per maand"
+  "OpenAI komt met abonnement van 500 dollar per maand",
+  "OpenAI lanceert Dots: altijd aanwezige AI-assistent",
+  "McDonald's gebruikt ai voor dynamische prijzen per locatie",
+  "OpenAI Dots: schattige AI-agents die je kunt bellen"
  ]
 }

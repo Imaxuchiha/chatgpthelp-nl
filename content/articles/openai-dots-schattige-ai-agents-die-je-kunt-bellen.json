@@ -1,0 +1,68 @@
+{
+ "keyword": "openai dots agents",
+ "seo_title": "OpenAI Dots: schattige AI-agents om mee te bellen",
+ "title": "OpenAI Dots: schattige AI-agents die je kunt bellen",
+ "meta": "OpenAI komt met Dots: digitale figuurtjes die taken voor je uitvoeren. Lees wat ze doen, hoe je ze gebruikt en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-agents",
+  "dots",
+  "chatgpt",
+  "ai-tools"
+ ],
+ "intro": "OpenAI werkt aan Dots: digitale figuurtjes die als AI-agent taken voor je uitvoeren. Ze doen hetzelfde werk als een gewone agent, maar zien er vriendelijker uit. Volgens Bright wil OpenAI zo AI-agents toegankelijker maken, nadat het bedrijf signalen opving dat de techniek mensen wat te eng werd.",
+ "takeaways": [
+  "Een Dot is een digitaal figuurtje dat taken voor je uitvoert, net als een AI-agent.",
+  "Je kunt met je Dot appen en bellen, meldt Bright.",
+  "OpenAI koos voor een schattige uitstraling omdat AI mensen te eng werd.",
+  "Details over prijs, lancering en beschikbaarheid in Nederland zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat is een Dot precies?",
+   "body": "Een Dot is volgens Bright een digitaal figuurtje dat OpenAI heeft bedacht rond AI-agents. Zo'n agent is software die zelfstandig klusjes voor je doet: denk aan het regelen van afspraken of het verzamelen van informatie. De Dot is geen nieuwe techniek, maar een andere verpakking van wat een agent al kan.\n\nHet verschil zit vooral in de vorm. Waar een agent vaak als een kaal tekstvenster op je scherm verschijnt, is een Dot een personage met een gezicht. Daardoor voelt het minder als software en meer als iets waarmee je praat."
+  },
+  {
+   "heading": "Appen en bellen met je eigen figuurtje",
+   "body": "Je kunt binnenkort met je Dot appen en bellen, schrijft Bright. Dat betekent dat je via een chat of een gesprek opdrachten geeft en vragen stelt, net zoals je dat bij ChatGPT doet. De Dot voert vervolgens de taak uit.\n\nOpenAI positioneert de Dots als een laagdrempelige manier om met agents te werken. Niet iedereen zit te wachten op een technisch dashboard of een lange lijst instellingen. Een figuurtje dat terugpraat voelt voor veel mensen vertrouwder."
+  },
+  {
+   "heading": "Waarom schattig in plaats van eng?",
+   "body": "Volgens Bright werd AI voor een deel van het publiek iets te eng. Agents die zelfstandig dingen regelen roepen vragen op: wat doen ze precies, en wie houdt ze in de gaten? OpenAI probeert dat gevoel weg te nemen met een vriendelijke uitstraling.\n\nDat is een bewuste keuze in de presentatie, niet een technische verandering. De onderliggende mogelijkheden blijven hetzelfde. Of een schattig gezicht ook echt meer vertrouwen geeft, moet de praktijk uitwijzen."
+  },
+  {
+   "heading": "Wat weten we nog niet",
+   "body": "Over de prijs, de exacte lanceerdatum en de beschikbaarheid in Nederland is nog niets bekend. Bright noemt die details niet. Ook is onduidelijk of de Dots in de bestaande ChatGPT-app komen of in een aparte app.\n\nZodra OpenAI meer naar buiten brengt, wordt duidelijk of Nederlandse gebruikers er direct mee aan de slag kunnen. Tot die tijd blijft het bij de aankondiging en de eerste indrukken."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders verandert er voorlopig weinig: er is nog geen releasedatum en geen prijs in euro's. Wel past dit bij een bredere trend waarin OpenAI en concurrenten als Google en Anthropic steeds meer nadruk leggen op agents die zelf taken uitvoeren. Als de Dots in de Europese Unie uitkomen, gelden hier dezelfde regels als voor andere AI-toepassingen, waaronder de Europese AI-verordening. Voor bedrijven die nu al met ChatGPT werken, is het vooral een signaal dat de bediening van AI persoonlijker en spraakgestuurd wordt. Het loont om te volgen of zo'n agent past bij je eigen werkproces, voordat je er geld of tijd in steekt.",
+ "faq": [
+  {
+   "q": "wat zijn openai dots?",
+   "a": "Dots zijn digitale figuurtjes die OpenAI heeft bedacht rond AI-agents. Ze voeren dezelfde taken uit als een agent, maar zien er vriendelijker uit."
+  },
+  {
+   "q": "kan ik met een dot bellen?",
+   "a": "Ja, volgens Bright kun je met je Dot appen en bellen. Je geeft dan via een chat of gesprek opdrachten, net als bij ChatGPT."
+  },
+  {
+   "q": "wanneer komen de dots naar nederland?",
+   "a": "Dat is nog niet bekend. OpenAI heeft geen lanceerdatum, prijs of beschikbaarheid voor Nederland gedeeld."
+  }
+ ],
+ "slug": "openai-dots-schattige-ai-agents-die-je-kunt-bellen",
+ "kind": "news",
+ "date": "2026-09-30",
+ "published": "2026-09-30T11:50",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "AI werd iets te eng, maar OpenAI komt nu met schattige AI-agents: Dots",
+   "url": "https://www.bright.nl/nieuws/2141346/ai-werd-iets-te-eng-daarom-komt-openai-met-schattige-ai-agents-dots.html"
+  }
+ ],
+ "path": "/nieuws/openai-dots-schattige-ai-agents-die-je-kunt-bellen/",
+ "og": "/img/og/openai-dots-schattige-ai-agents-die-je-kunt-bellen.png",
+ "take": "Een agent met een schattig gezichtje is nog steeds een agent die je data en je geld aanraakt. Ik heb zelf geen Dots getest, dus ik zeg niks over of het werkt, maar dit is precies het soort aankondiging dat ik eerst zie en dan geloof: vriendelijker presenteren is makkelijker dan aantonen dat de taak ook echt af is. Tot ik zie wat zo'n figuurtje op een echt account doet, blijft het voor mij een demo en geen product."
+}

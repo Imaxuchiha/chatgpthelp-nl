@@ -1,0 +1,68 @@
+{
+ "keyword": "openai dots",
+ "seo_title": "OpenAI Dots: altijd aanwezige AI-assistent uitgelegd",
+ "title": "OpenAI lanceert Dots: altijd aanwezige AI-assistent",
+ "meta": "OpenAI lanceert Dots, altijd aanwezige AI-assistenten op GPT-6 Astra. Lees wat het is, hoe het werkt en wat het betekent voor gebruikers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "dots",
+  "ai-assistent",
+  "gpt-6",
+  "agent"
+ ],
+ "intro": "OpenAI heeft tijdens zijn DevDay-presentatie Dots aangekondigd, een nieuwe vorm van AI-assistenten die op de achtergrond doorlopend taken uitvoeren. De aankondiging komt een dag voor de officiële lancering en positioneert Dots als antwoord op Meta's Muse. Volgens The Verge moeten Dots bijna alles kunnen doen binnen verbonden apps.",
+ "takeaways": [
+  "Dots zijn altijd actieve AI-assistenten die op de achtergrond werken, zonder specifieke hardware of interface.",
+  "Het model GPT-6 Astra, dat OpenAI zelf capabel noemt, drijft de Dots aan.",
+  "Dots leren gaandeweg je voorkeuren en werken door aan doelen die jij zelf bepaalt.",
+  "De lancering is een direct antwoord op Meta's Muse, dat OpenAI als concurrent ziet."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Dots precies zijn",
+   "body": "Dots zijn volgens OpenAI bedoeld als assistenten die losstaan van één apparaat of één scherm. Ze werken continu op de achtergrond en volgen doelen die de gebruiker zelf heeft ingesteld, met zo weinig tussenkomst als mogelijk. TechCrunch omschrijft ze als bubbelachtige, agentische avatars.\n\nIn plaats van dat je telkens een opdracht typt, houdt een Dot zelf bij wat er speelt en onderneemt actie binnen apps die verbonden zijn. OpenAI zegt tijdens de DevDay-keynote dat Dots bijna alles kunnen doen binnen die verbonden apps. Het systeem leert daarbij je voorkeuren kennen, zodat het na verloop van tijd beter inschat wat je wilt."
+  },
+  {
+   "heading": "Aangedreven door GPT-6 Astra",
+   "body": "De Dots draaien op GPT-6 Astra, het model dat OpenAI zelf als krachtig bestempelt. The Verge meldt dat dit model de basis vormt voor het agentische gedrag. Dat betekent dat de assistent niet alleen vragen beantwoordt, maar ook zelf stappen zet.\n\nOpenAI positioneert Dots nadrukkelijk als concurrent van Muse, de AI-hulp van Meta. Beide bedrijven zetten in op assistenten die continu meedraaien in plaats van alleen op verzoek. Waar Muse vooral rond Meta's eigen ecosysteem is gebouwd, zegt OpenAI dat Dots onafhankelijk van specifieke hardware of interface moeten werken."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "OpenAI heeft tijdens de presentatie geen prijs, releasedatum of lijst van ondersteunde apps genoemd. Ook is niet duidelijk of Dots in de Europese Unie direct beschikbaar komen. TechCrunch en The Verge noemen geen concrete limieten voor het aantal Dots per gebruiker of voor de mate van autonomie.\n\nWel is duidelijk dat Dots voortbouwen op eerder werk aan agentische systemen. De belofte is dat ze blijven doorwerken aan een doel, ook als je zelf niet meekijkt. Hoe dat in de praktijk uitpakt, moet blijken zodra meer gebruikers ermee aan de slag gaan."
+  }
+ ],
+ "nl_angle": "Voor gebruikers in Nederland is het vooral afwachten of Dots hier tegelijk met de Amerikaanse uitrol verschijnen. OpenAI heeft geen Europese datum genoemd. Als Dots net als eerdere functies eerst in de Verenigde Staten starten, kan de wachttijd oplopen. Bedrijven die nu al met ChatGPT werken, krijgen mogelijk later een assistent die zelfstandig taken in verbonden apps uitvoert. Let daarbij op de Europese regels rond AI en gegevensverwerking, want een assistent die continu meeleest in je apps raakt al snel persoonsgegevens.",
+ "faq": [
+  {
+   "q": "Wat zijn OpenAI Dots?",
+   "a": "Dots zijn altijd actieve AI-assistenten van OpenAI die op de achtergrond doelen uitvoeren binnen verbonden apps. Ze werken los van één specifiek apparaat of scherm."
+  },
+  {
+   "q": "Welk model gebruiken Dots?",
+   "a": "Volgens The Verge draaien Dots op GPT-6 Astra, het model dat OpenAI zelf als capabel omschrijft."
+  },
+  {
+   "q": "Zijn Dots al beschikbaar in Nederland?",
+   "a": "Daar is nog niets over bekend. OpenAI heeft geen releasedatum of Europese beschikbaarheid genoemd tijdens de aankondiging."
+  }
+ ],
+ "slug": "openai-lanceert-dots-altijd-aanwezige-ai-assistent",
+ "kind": "news",
+ "date": "2026-09-30",
+ "published": "2026-09-30T11:48",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "OpenAI launches Dots, its bubbly agentic avatar",
+   "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
+  },
+  {
+   "name": "The Verge",
+   "title": "OpenAI launches Dots, its Muse competitor",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+  }
+ ],
+ "path": "/nieuws/openai-lanceert-dots-altijd-aanwezige-ai-assistent/",
+ "og": "/img/og/openai-lanceert-dots-altijd-aanwezige-ai-assistent.png"
+}
