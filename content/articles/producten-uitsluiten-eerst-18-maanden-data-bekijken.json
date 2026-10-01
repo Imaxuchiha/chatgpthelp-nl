@@ -1,0 +1,66 @@
+{
+ "keyword": "producten uitsluiten google ads",
+ "seo_title": "Producten uitsluiten Google Ads? Eerst 18 maanden data",
+ "title": "Producten uitsluiten? Eerst 18 maanden data bekijken",
+ "meta": "Producten uitsluiten in Google Ads zonder 18 maanden data is geld weggooien. Maxim legt uit waarom 111 van 156 'nooit verkochte' producten toch verkochten.",
+ "category": "mening",
+ "tags": [
+  "Google Ads",
+  "producten uitsluiten",
+  "ROAS",
+  "data-analyse",
+  "e-commerce"
+ ],
+ "intro": "Ik sluit geen producten meer uit op basis van een paar weken of zelfs maanden data. Te vaak zag ik dat 'nooit verkochte' producten gewoon tijd nodig hadden. Pas na achttien maanden data over alle kanalen durf ik iets weg te gooien.",
+ "takeaways": [
+  "Van 156 producten die op korte data 'nooit verkochten' bleken er 111 ooit wel verkocht, zodra we 18 maanden data combineerden.",
+  "Uitsluiten doe ik alleen nog bij bewezen nooit-verkocht over alle bronnen: Google Ads, GA4 en alle varianten samen.",
+  "Wie op 30 dagen oordeelt, stuurt op ruis. Kijk naar 12 tot 18 maanden en jaar-op-jaar."
+ ],
+ "sections": [
+  {
+   "heading": "De fout die bijna iedereen maakt",
+   "body": "Een klant met een webshop in woonaccessoires had 156 producten die volgens de laatste Google Ads-data 'nooit verkochten'. Het team wilde ze uitsluiten, want dat leek logisch: geen conversies, dus geen budget verspillen. Ik heb dat tegengehouden en eerst de data goed bekeken.\n\nWe hebben achttien maanden aan Google Ads-data gepakt, GA4 over alle kanalen erbij gelegd en alle varianten van een product samengevoegd. Wat bleek? Van die 156 producten hadden er 111 ooit wél een verkoop gegenereerd. Niet verspreid over de hele periode, maar soms pas na maanden. Die producten waren helemaal niet dood, ze hadden gewoon een lange staart."
+  },
+  {
+   "heading": "Waarom korte data je bedriegt",
+   "body": "Veel adverteerders kijken naar een venster van 30 dagen en denken dat ze het weten. Maar 30 dagen is ruis. Ik heb een klant gehad die dacht dat zijn account instortte, want het laatste venster gaf 39 conversies. Over 25 maanden was de mediaan 83 per maand. Dus die 39 was gewoon een slechte maand, geen trend.\n\nMet producten is het nog erger. Een product kan maandenlang niets doen en dan ineens verkopen door een seizoen, een trend of gewoon toeval. Als je het dan al hebt uitgesloten, mis je die omzet. En het ergste: je weet niet eens wat je mist, want het product staat niet meer live."
+  },
+  {
+   "heading": "Hoe ik het nu aanpak",
+   "body": "Ik sluit een product pas uit als het over alle bronnen bewezen nooit verkocht is. Dus niet alleen Google Ads, maar ook organisch, e-mail, andere kanalen. En ik kijk naar minimaal achttien maanden, liever langer. Pas als een product in die hele periode nergens een verkoop heeft opgeleverd, mag het weg.\n\nDat klinkt traag, maar het bespaart geld. Want een product dat je uitsluit, kan nooit meer verkopen. En de kosten van het laten staan zijn vaak lager dan je denkt, zeker met slimme biedstrategieën die vanzelf minder budget naar slechte producten sturen."
+  },
+  {
+   "heading": "Wat AI hiermee te maken heeft",
+   "body": "AI en automatisering maken dit alleen maar belangrijker. Performance Max en Smart Bidding optimaliseren op de data die je ze geeft. Als jij producten uitsluit op basis van verkeerde aannames, leert de AI dat die producten niet verkopen en gaat het budget naar andere. Maar dat is een self-fulfilling prophecy.\n\nIk gebruik Claude Code om dit soort analyses te automatiseren. Het trekt data uit Google Ads en GA4, combineert varianten en rekent uit welke producten echt nooit verkopen. Dat kost me een paar minuten in plaats van een middag handmatig excelwerk. Maar de beslissing om iets uit te sluiten blijft bij mij, niet bij de AI."
+  }
+ ],
+ "nl_angle": "Voor een Nederlandse ondernemer betekent dit: wacht met uitsluiten. Kijk naar minimaal 18 maanden data, combineer alle kanalen en alle varianten, en oordeel pas dan. En meet eerst goed: de meeste 'problemen' in advertentieaccounts zijn meetfouten, geen echte dalingen. Automatiseer de analyse met tools als Claude Code, maar houd de geldknoppen zelf in handen.",
+ "faq": [
+  {
+   "q": "Wanneer mag ik een product uitsluiten in Google Ads?",
+   "a": "Pas als het over minimaal 18 maanden en over alle bronnen (Google Ads, GA4, organisch, e-mail) bewezen nooit een verkoop heeft opgeleverd."
+  },
+  {
+   "q": "Waarom is 30 dagen data niet genoeg?",
+   "a": "30 dagen is ruis. Conversies schommelen sterk per maand; een product kan maandenlang niets doen en dan ineens verkopen door seizoen of trend."
+  },
+  {
+   "q": "Kan AI helpen bij het bepalen welke producten ik moet uitsluiten?",
+   "a": "Ja, AI kan de data-analyse automatiseren en sneller inzicht geven. Maar de uiteindelijke beslissing om budget te verschuiven of producten uit te sluiten moet bij een mens blijven."
+  }
+ ],
+ "lessons_used": [
+  "Les villains-bleken-verkopers",
+  "Les nooit-30-dagen"
+ ],
+ "slug": "producten-uitsluiten-eerst-18-maanden-data-bekijken",
+ "kind": "practice",
+ "date": "2026-10-01",
+ "published": "2026-10-01T12:16",
+ "sources": [],
+ "path": "/mening/producten-uitsluiten-eerst-18-maanden-data-bekijken/",
+ "og": "/img/og/producten-uitsluiten-eerst-18-maanden-data-bekijken.png",
+ "lesson": "villains-bleken-verkopers",
+ "author": "Maxim"
+}

@@ -911,6 +911,30 @@
   "d4c4ffc0ae": {
    "at": "2026-09-30T22:47:04.695266",
    "why": "ok"
+  },
+  "5c1f615d64": {
+   "at": "2026-10-01T12:16:09.325299",
+   "why": "ok"
+  },
+  "94349d4a27": {
+   "at": "2026-10-01T12:16:09.325299",
+   "why": "ok"
+  },
+  "066cc330ab": {
+   "at": "2026-10-01T12:17:09.325299",
+   "why": "ok"
+  },
+  "887ad3ec5b": {
+   "at": "2026-10-01T12:18:09.325299",
+   "why": "poort"
+  },
+  "5a94c6e5c1": {
+   "at": "2026-10-01T12:18:09.325299",
+   "why": "poort"
+  },
+  "32bba24946": {
+   "at": "2026-10-01T12:18:09.325299",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1070,6 +1094,9 @@
   "DoorDash lanceert AI-agent waarmee je eten bestelt via een appje",
   "OpenAI stopt campagne voor model-distillatie",
   "Gemini 4 Argon: Google beperkt toegang tot nieuw AI-model",
-  "OpenAI Decisions API moet zwermende agents beteugelen"
+  "OpenAI Decisions API moet zwermende agents beteugelen",
+  "Gemini 4 Argon is Google's krachtigste model, maar nog niet te gebruiken",
+  "Hackende AI-agents zorgen voor problemen, regelgeving ontbreekt",
+  "Eten bestellen met AI: DoorDash laat je sms'en naar een assistent"
  ]
 }

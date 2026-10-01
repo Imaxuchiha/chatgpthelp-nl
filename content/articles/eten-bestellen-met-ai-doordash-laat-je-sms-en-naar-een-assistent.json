@@ -1,0 +1,64 @@
+{
+ "keyword": "eten bestellen met ai",
+ "seo_title": "Eten bestellen met AI: DoorDash test sms-bestelling",
+ "title": "Eten bestellen met AI: DoorDash laat je sms'en naar een assistent",
+ "meta": "DoorDash test een AI-assistent die je eten bestelt via sms. Zo werkt het, en dit betekent het voor bezorging in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "doordash",
+  "ai-assistent",
+  "bezorging",
+  "eten bestellen",
+  "sms"
+ ],
+ "intro": "DoorDash introduceert een AI-assistent waarmee je eten bestelt door simpelweg een sms'je te sturen. De assistent zoekt restaurants en gerechten uit, stelt je bestelling samen en regelt het afrekenen. Daarmee zet het bedrijf een volgende stap in bestellen zonder app. Volgens Bright is het idee dat je in 2026 geen aparte app meer opent om eten te regelen.",
+ "takeaways": [
+  "DoorDash test een AI-assistent die bestellingen aanneemt via sms.",
+  "De assistent kiest restaurants en gerechten en handelt de betaling af.",
+  "Je hoeft geen app te openen; een tekstbericht is genoeg.",
+  "Of en wanneer dit in Nederland komt, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Bestellen zonder app",
+   "body": "Bij de meeste bezorgdiensten doorloop je vaste stappen: app openen, zoeken, gerechten aanklikken, betalen. DoorDash wil dat vervangen door een gesprek. Je stuurt een bericht met wat je wilt eten, en de AI zoekt passende restaurants in de buurt.\n\nHet systeem stelt vervolgens zelf een bestelling samen. Denk aan een gerecht plus een drankje, of een aanpassing zoals minder pittig. Daarna regelt de assistent het afrekenen. Je hoeft dus geen menu's door te klikken of keuzes te bevestigen in een app."
+  },
+  {
+   "heading": "Wat de assistent zelf doet",
+   "body": "De AI zoekt restaurants en gerechten uit op basis van jouw bericht. Dat betekent dat hij keuzes maakt: welk restaurant past, welk gerecht hoort erbij, en welke aanpassingen logisch zijn. Ook het afrekenen zit in het proces.\n\nDat is een verschil met een gewone chatbot die alleen suggesties geeft. Hier neemt de software daadwerkelijk stappen in een bestelproces. Bright noemt het simpelweg een sms'je sturen en noemt dat makkelijk. Hoe de assistent omgaat met allergieën, dieetwensen of fouten in je bestelling, staat niet in de bron."
+  },
+  {
+   "heading": "Van praten naar regelen",
+   "body": "Assistenten die alleen tekst genereren zijn inmiddels gewoon. De volgende stap is software die taken uitvoert: zoeken, kiezen, bestellen, betalen. Dit DoorDash-voorbeeld past in die beweging.\n\nVoor gebruikers voelt dat als gemak. Je typt één bericht en de rest gaat vanzelf. Tegelijk verschuift de controle: de AI bepaalt welke opties je te zien krijgt en welke keuzes worden gemaakt. Wat er gebeurt als een restaurant niet beschikbaar is of een gerecht ontbreekt, vermeldt de bron niet."
+  }
+ ],
+ "nl_angle": "In Nederland bestel je eten via partijen als Thuisbezorgd en Uber Eats, meestal in een app. Een sms-assistent zoals DoorDash die test, is hier nog niet beschikbaar. Of Nederlandse bezorgdiensten zoiets invoeren, is niet bekend. Let je op zulke ontwikkelingen, dan gaat het vooral om twee vragen: welke gegevens deel je in een chat, en wie is aansprakelijk als de AI het verkeerde gerecht bestelt? Tot die duidelijkheid er is, blijft de app voorlopig de veiligste route.",
+ "faq": [
+  {
+   "q": "Hoe bestel ik eten met een AI-assistent?",
+   "a": "Bij de test van DoorDash stuur je een sms met wat je wilt eten. De AI zoekt restaurants en gerechten, stelt de bestelling samen en regelt de betaling."
+  },
+  {
+   "q": "Is dit al beschikbaar in Nederland?",
+   "a": "Nee. De bron gaat over DoorDash, een Amerikaans bezorgbedrijf. Of Nederlandse diensten zoiets invoeren, is nog niet bekend."
+  },
+  {
+   "q": "Wat gebeurt er als de AI een fout maakt?",
+   "a": "Daar zegt de bron niets over. Het is nog niet bekend hoe het bedrijf omgaat met verkeerde gerechten of verkeerde bedragen."
+  }
+ ],
+ "slug": "eten-bestellen-met-ai-doordash-laat-je-sms-en-naar-een-assistent",
+ "kind": "news",
+ "date": "2026-10-01",
+ "published": "2026-10-01T12:18",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Deze AI brengt eten naar je voordeur",
+   "url": "https://www.bright.nl/nieuws/2141740/eten-bestellen-via-ai-is-zo-makkelijk.html"
+  }
+ ],
+ "path": "/nieuws/eten-bestellen-met-ai-doordash-laat-je-sms-en-naar-een-assistent/",
+ "og": "/img/og/eten-bestellen-met-ai-doordash-laat-je-sms-en-naar-een-assistent.png",
+ "take": "Eten bestellen via een sms'je klinkt leuk, maar ik wil eerst zien of die assistent het ook goed doet als het druk is. In mijn ervaring is een demo nog geen product, en zo'n aankondiging is voor mij pas iets waard als hij in de praktijk tijd of geld oplevert. Tot die tijd blijft het een verhaaltje, geen reden om mijn app te verwijderen."
+}

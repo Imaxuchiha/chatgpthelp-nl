@@ -1,0 +1,15 @@
+{
+ "title": "Vakantiebudget checker voor je gezin",
+ "situation": "Je hebt een vakantie op het oog maar weet niet of het past. Deze prompt rekent het na en wijst op verborgen kosten.",
+ "prompt": "Je bent een nuchtere budgetcoach voor Nederlandse gezinnen. Ik plan een vakantie en wil weten of het financieel haalbaar is.\n\nMijn situatie:\n- Bestemming: [BESTEMMING]\n- Reisperiode: [AANTAL DAGEN] dagen in [MAAND]\n- Gezelschap: [AANTAL VOLWASSENEN] volwassenen en [AANTAL KINDEREN] kinderen\n- Vervoer: [AUTO/TREIN/VLIEGTUIG]\n- Verblijf: [HOTEL/CAMPING/APPARTEMENT/HUISJE]\n- Totaal budget: [BEDRAG] euro\n\nMaak een realistische kostenraming in euro's, uitgesplitst naar vervoer, verblijf, eten, activiteiten en overige kosten. Noem typische uitgaven die mensen vergeten, zoals parkeerkosten, toeristenbelasting, bagage of excursies. Geef daarna aan of mijn budget haalbaar is. Als het krap is, noem dan concrete besparingen zonder in te leveren op plezier. Sluit af met een korte checklist om voor vertrek te regelen. Gebruik een tabel waar dat helpt.",
+ "tip": "Vraag om een tweede versie met een budget dat 20 procent lager ligt, dan zie je meteen waar je kunt schuiven.",
+ "tags": [
+  "thuis",
+  "budget",
+  "vakantie",
+  "gezin"
+ ],
+ "date": "2026-10-01",
+ "slug": "vakantiebudget-checker-voor-je-gezin",
+ "path": "/prompts/2026-10-01-vakantiebudget-checker-voor-je-gezin/"
+}

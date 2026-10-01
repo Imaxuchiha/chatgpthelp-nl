@@ -1,0 +1,72 @@
+{
+ "keyword": "gemini 4 argon",
+ "seo_title": "Gemini 4 Argon: Google's krachtigste model nog niet",
+ "title": "Gemini 4 Argon is Google's krachtigste model, maar nog niet te gebruiken",
+ "meta": "Google kondigt Gemini 4 Argon aan als krachtigste model voor code en cybersecurity. Nog niet beschikbaar voor gebruikers. Wat betekent dit in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "gemini",
+  "google",
+  "ai-modellen",
+  "cybersecurity",
+  "coderen"
+ ],
+ "intro": "Google heeft Gemini 4 Argon aangekondigd, volgens het bedrijf zijn krachtigste AI-model tot nu toe. Het model is gericht op programmeerwerk en cybersecurity. Opvallend: je kunt het voorlopig nog niet gebruiken.",
+ "takeaways": [
+  "Gemini 4 Argon is volgens Google het krachtigste model dat het bedrijf tot nu toe heeft uitgebracht.",
+  "Het model richt zich op coderen en cybersecurity.",
+  "Gewone gebruikers kunnen het model nog niet inzetten.",
+  "De aankondiging vervangt de eerder verwachte Gemini 3.5 Pro."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Google aankondigde",
+   "body": "Google heeft Gemini 4 Argon uitgebracht, meldt TechCrunch. Het bedrijf positioneert het model als een werkpaard voor programmeerwerk en cybersecurity. Volgens Google gaat het om zijn krachtigste model tot nu toe.\n\nDe naam wijkt af van wat eerder werd verwacht. Ars Technica schrijft dat er eerder werd uitgegaan van een Gemini 3.5 Pro. Die komt er dus niet, in plaats daarvan springt Google naar versie 4 met de naam Argon."
+  },
+  {
+   "heading": "Nog niet beschikbaar",
+   "body": "Het model is aangekondigd, maar je kunt het nog niet gebruiken. Ars Technica meldt dat de beschikbaarheid voor gebruikers nog op zich laat wachten. Wanneer dat verandert, is niet bekend.\n\nGoogle geeft zelf geen concrete datum waarop het model breder opengaat. Ook is niet duidelijk of het via de gratis versie van ChatGPT-alternatieven zoals de Gemini-app komt, of alleen via betaalde zakelijke routes."
+  },
+  {
+   "heading": "Waarom coderen en cybersecurity",
+   "body": "Google richt het model nadrukkelijk op twee gebieden: software schrijven en beveiliging. Dat zijn takken waar AI-modellen de afgelopen tijd veel aandacht krijgen, omdat er veel geld mee te verdienen valt bij bedrijven.\n\nVoor cybersecurity betekent dat bijvoorbeeld het opsporen van zwakke plekken in code. Voor programmeurs gaat het om het genereren en verbeteren van code. Google noemt het model een werkpaard, wat suggereert dat het vooral op dagelijks gebruik is gericht en niet op losse demonstraties."
+  },
+  {
+   "heading": "Wat er nog onduidelijk is",
+   "body": "Er zijn nog veel open vragen. Wat het model precies kost, wanneer het beschikbaar komt en of het in de Europese Unie direct meedoet, is niet bekend. Google heeft daar in de aangekondigde informatie niets over gezegd.\n\nOok is niet duidelijk hoe Gemini 4 Argon zich verhoudt tot concurrenten zoals Claude van Anthropic of de modellen van OpenAI. Zulke vergelijkingen komen meestal pas als onafhankelijke partijen het model kunnen testen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse programmeurs en securityteams is er nog geen actie nodig: het model is niet beschikbaar. Zodra Gemini 4 Argon in de EU opengaat, kan het interessant worden voor bedrijven die code laten controleren of beveiligingslekken willen opsporen. Let wel op dat Google bij eerdere modellen soms eerst een beperkte groep toegang gaf, voordat de rest van Europa volgde. Houd de aankondigingen van Google in de gaten als je wilt weten wanneer je het kunt proberen.",
+ "faq": [
+  {
+   "q": "Wat is Gemini 4 Argon?",
+   "a": "Dat is het nieuwste AI-model van Google. Volgens het bedrijf is het zijn krachtigste model tot nu toe, gericht op coderen en cybersecurity."
+  },
+  {
+   "q": "Kan ik Gemini 4 Argon al gebruiken?",
+   "a": "Nee, het model is alleen aangekondigd. Een datum waarop het beschikbaar komt, is nog niet bekend."
+  },
+  {
+   "q": "Komt er nog een Gemini 3.5 Pro?",
+   "a": "Volgens Ars Technica niet. Google slaat die versie over en gaat direct naar Gemini 4 Argon."
+  }
+ ],
+ "slug": "gemini-4-argon-is-google-s-krachtigste-model-maar-nog-niet-te-gebruike",
+ "kind": "news",
+ "date": "2026-10-01",
+ "published": "2026-10-01T12:16",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+   "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+  },
+  {
+   "name": "Ars Technica",
+   "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+   "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
+  }
+ ],
+ "path": "/nieuws/gemini-4-argon-is-google-s-krachtigste-model-maar-nog-niet-te-gebruike/",
+ "og": "/img/og/gemini-4-argon-is-google-s-krachtigste-model-maar-nog-niet-te-gebruike.png"
+}
