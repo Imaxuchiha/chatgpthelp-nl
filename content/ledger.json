@@ -935,6 +935,38 @@
   "32bba24946": {
    "at": "2026-10-01T12:18:09.325299",
    "why": "ok"
+  },
+  "7e67b43cf9": {
+   "at": "2026-10-01T19:28:54.686293",
+   "why": "poort"
+  },
+  "a80484c2d5": {
+   "at": "2026-10-01T19:28:54.686293",
+   "why": "ok"
+  },
+  "3074ace362": {
+   "at": "2026-10-01T19:29:54.686293",
+   "why": "poort"
+  },
+  "896ee18f53": {
+   "at": "2026-10-01T19:29:54.686293",
+   "why": "high-risk"
+  },
+  "e7f973146b": {
+   "at": "2026-10-01T19:29:54.686293",
+   "why": "high-risk"
+  },
+  "d942622639": {
+   "at": "2026-10-01T19:29:54.686293",
+   "why": "ok"
+  },
+  "0d142c0352": {
+   "at": "2026-10-01T19:30:54.686293",
+   "why": "poort"
+  },
+  "9c6f1560c6": {
+   "at": "2026-10-01T19:30:54.686293",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1097,6 +1129,9 @@
   "OpenAI Decisions API moet zwermende agents beteugelen",
   "Gemini 4 Argon is Google's krachtigste model, maar nog niet te gebruiken",
   "Hackende AI-agents zorgen voor problemen, regelgeving ontbreekt",
-  "Eten bestellen met AI: DoorDash laat je sms'en naar een assistent"
+  "Eten bestellen met AI: DoorDash laat je sms'en naar een assistent",
+  "ChatGPT Enterprise bij Albertsons: zo werkt AI in de supermarkt",
+  "Shopify Canvas: webshop bouwen via AI-chat",
+  "OpenAI lanceert agent Dots en jaagt op Meta's Muse"
  ]
 }

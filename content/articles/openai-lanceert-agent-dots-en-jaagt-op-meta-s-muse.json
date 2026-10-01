@@ -1,0 +1,67 @@
+{
+ "keyword": "openai agent dots",
+ "seo_title": "OpenAI agent Dots: concurrent voor Meta's Muse",
+ "title": "OpenAI lanceert agent Dots en jaagt op Meta's Muse",
+ "meta": "OpenAI kondigt op DevDay de agent Dots aan, aangedreven door GPT-6 Astra. Lees wat dit betekent voor Nederland en of het gratis wordt.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-agents",
+  "meta",
+  "gpt-6",
+  "devday"
+ ],
+ "intro": "OpenAI heeft op zijn jaarlijkse DevDay-conferentie de AI-agent Dots aangekondigd. De agent draait op GPT-6 Astra en moet concurreren met Meta's Muse, dat nu al een groot succes is. Volgens The Verge is dit OpenAI's poging om de strijd om AI-agenten aan te gaan.",
+ "takeaways": [
+  "OpenAI-ceo Sam Altman onthulde Dots als een 'echte AI-agent' op basis van GPT-6 Astra.",
+  "De aankondiging is een direct antwoord op Meta's Muse, dat volgens The Verge een vliegende start kent.",
+  "OpenAI positioneert Dots als een agent die is geïnspireerd op bestaande, populaire agenten.",
+  "Het is nog niet bekend of Dots gratis wordt; Meta's Muse is dat wel."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI aankondigde op DevDay",
+   "body": "Tijdens DevDay betrad ceo Sam Altman het podium onder luid gejuich. Hij introduceerde Dots, een agent die volgens hem een 'real-deal AI' is. De agent wordt aangedreven door GPT-6 Astra, het nieuwste model van OpenAI. Volgens The Verge zette OpenAI alles op alles om de concurrentie aan te gaan, vooral met Meta. De presentatie was duidelijk bedoeld om indruk te maken op ontwikkelaars en gebruikers.\n\nDots is niet zomaar een chatbot. Het is een agent die zelfstandig taken kan uitvoeren, vergelijkbaar met wat Meta's Muse doet. Altman zei dat Dots is geïnspireerd door 'de coole agenten' die er al zijn. Daarmee lijkt hij toe te geven dat OpenAI niet de eerste was, maar wel de beste wil zijn."
+  },
+  {
+   "heading": "De strijd met Meta's Muse",
+   "body": "Meta's Muse-agentplatform doet het nu al erg goed, meldt The Verge. Het is een vroege hit en dat zet druk op OpenAI. Muse is gratis beschikbaar, wat het voor veel gebruikers aantrekkelijk maakt. OpenAI moet dus niet alleen technisch uitblinken, maar ook op prijs concurreren. De vraag is of Dots dat kan.\n\nVolgens The Verge is de aankondiging van Dots een directe aanval op Meta. OpenAI hoopt met GPT-6 Astra een voorsprong te pakken. Maar of dat lukt, hangt af van de beschikbaarheid en kosten. Het bedrijf heeft daar nog niets over gezegd."
+  },
+  {
+   "heading": "Wat betekent dit voor gebruikers?",
+   "body": "Voor gewone gebruikers verandert er voorlopig weinig. Dots is nog niet beschikbaar en er is geen releasedatum genoemd. Wel is duidelijk dat AI-agenten steeds belangrijker worden. Ze kunnen straks taken voor je uitvoeren, zoals e-mails beheren of aankopen doen. OpenAI en Meta investeren daar zwaar in.\n\nIn Nederland zullen gebruikers waarschijnlijk via ChatGPT met Dots te maken krijgen. Of dat in de gratis versie komt, is onbekend. Meta's Muse is al gratis, dus OpenAI staat voor een lastige keuze. Als Dots alleen in een betaald abonnement zit, kan dat Nederlandse gebruikers afschrikken."
+  },
+  {
+   "heading": "Prijs en beschikbaarheid in Nederland",
+   "body": "OpenAI heeft nog geen prijs of lanceerdatum voor Dots bekendgemaakt. Het is ook niet duidelijk of de agent in de Europese Unie meteen beschikbaar komt. OpenAI heeft vaker vertraging opgelopen met uitrollen in de EU vanwege wetgeving zoals de AI Act. Voor Nederlandse bedrijven en consumenten is dat een belangrijk aandachtspunt.\n\nAls Dots komt, verwacht dan een abonnement in euro's. ChatGPT Plus kost nu ongeveer 23 euro per maand. Het is goed mogelijk dat Dots alleen voor betalende gebruikers is. Gratis alternatieven zoals Meta's Muse kunnen dan aantrekkelijker zijn. OpenAI zal met een scherpe prijs moeten komen om in Nederland voet aan de grond te krijgen."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders betekent de komst van Dots vooral meer concurrentie tussen AI-agenten. Meta's Muse is al gratis en werkt in het Nederlands, dus OpenAI moet iets bijzonders bieden. De AI Act in de EU kan de uitrol vertragen. Bedrijven die AI-agenten willen inzetten, krijgen straks meer keuze, maar moeten letten op kosten en privacy. Of Dots in het Nederlands werkt, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is OpenAI Dots?",
+   "a": "Dots is een nieuwe AI-agent van OpenAI, aangedreven door GPT-6 Astra. De agent kan zelfstandig taken uitvoeren en is aangekondigd op DevDay."
+  },
+  {
+   "q": "Is Dots gratis?",
+   "a": "Dat is nog niet bekend. OpenAI heeft geen prijs of releasedatum genoemd. Meta's Muse is wel gratis, dus OpenAI staat onder druk."
+  },
+  {
+   "q": "Wanneer komt Dots naar Nederland?",
+   "a": "Er is nog geen lanceerdatum voor Nederland of de EU. OpenAI heeft vaker vertraging gehad met uitrollen in Europa vanwege de AI Act."
+  }
+ ],
+ "slug": "openai-lanceert-agent-dots-en-jaagt-op-meta-s-muse",
+ "kind": "news",
+ "date": "2026-10-01",
+ "published": "2026-10-01T19:30",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
+  }
+ ],
+ "path": "/nieuws/openai-lanceert-agent-dots-en-jaagt-op-meta-s-muse/",
+ "og": "/img/og/openai-lanceert-agent-dots-en-jaagt-op-meta-s-muse.png"
+}
