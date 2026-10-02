@@ -1,0 +1,67 @@
+{
+ "keyword": "gemini live guided vision",
+ "seo_title": "Gemini Live Guided Vision: AI leest kleine letters voor",
+ "title": "Google lanceert Guided Vision in Gemini Live",
+ "meta": "Guided Vision in Gemini Live beschrijft wat je camera ziet en leest kleine letters voor. Zo werkt het op Android en dit betekent het voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "gemini live",
+  "google",
+  "android",
+  "ai-camera",
+  "toegankelijkheid"
+ ],
+ "intro": "Google heeft Guided Vision uitgerold in Gemini Live. Met deze functie geeft de AI realtime audio-uitleg bij alles waar je de camera van je telefoon op richt. Dat meldt The Verge. Je kunt er kleine letters mee laten voorlezen of voorwerpen om je heen laten benoemen.",
+ "takeaways": [
+  "Guided Vision is vanaf 1 oktober 2026 beschikbaar in Gemini Live.",
+  "De functie werkt op Android-toestellen die compatibel zijn.",
+  "Je deelt je camera in Gemini Live en krijgt direct gesproken uitleg.",
+  "Google noemt voorbeelden als kleine tekst lezen, omgeving beschrijven en objecten vinden."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Guided Vision doet",
+   "body": "Guided Vision is een nieuwe functie binnen Gemini Live, de spraakmodus van Google's AI-assistent. Je opent Gemini Live op een compatibel Android-toestel en deelt je camerabeeld. De AI kijkt met je mee en geeft via audio door wat er te zien is.\n\nVolgens The Verge gaat het om realtime beschrijvingen. Je richt je camera ergens op en krijgt meteen gesproken uitleg. Denk aan het lezen van kleine letters op een etiket, het beschrijven van een ruimte of het vinden en herkennen van spullen in je omgeving."
+  },
+  {
+   "heading": "Beschikbaarheid en toestellen",
+   "body": "De functie start vandaag in Gemini Live op Android-toestellen die geschikt zijn. Welke toestellen precies mee kunnen, maakt Google niet in één keer duidelijk. The Verge schrijft over \"compatible Android devices\", zonder een volledige lijst te geven.\n\nEr is nog geen informatie over een versie voor iPhone of over uitrol in andere talen dan het Engels. Ook is niet bekend of en wanneer Guided Vision naar Nederland komt. Wie het wil proberen, heeft een Android-telefoon nodig met toegang tot Gemini Live."
+  },
+  {
+   "heading": "Waarom dit opvalt",
+   "body": "AI-assistenten kunnen al tekst herkennen op foto's. Het nieuwe is dat dit nu live gebeurt, tijdens een gesprek met de assistent. Je hoeft geen foto te maken en te uploaden; je camera staat aan en de uitleg komt direct terug.\n\nDat maakt de functie bruikbaar in situaties waarin je je handen niet vrij hebt of snel iets wilt weten. Denk aan een bijsluiter, een menukaart in een donker restaurant of een doos in een magazijn. Voor mensen met een visuele beperking kan zo'n gesproken beschrijving extra hulp betekenen."
+  },
+  {
+   "heading": "Wat het nog niet is",
+   "body": "Guided Vision is geen vervanging voor een medisch hulpmiddel of een professionele keuring. De AI kan dingen verkeerd benoemen, zeker bij kleine letters of onduidelijk beeld. Google geeft zelf geen garantie op foutloze uitkomsten, blijkt niet uit de bron.\n\nOok is het geen camera die zelfstandig rondkijkt. Jij bepaalt waar je op richt. De beschrijving komt in het Engels, zolang andere talen niet zijn aangekondigd."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders met een Android-telefoon is Guided Vision voorlopig vooral iets om in de gaten te houden. De functie is nog niet in het Nederlands aangekondigd en er is geen datum voor uitrol in Nederland of de EU. Wie hem wil gebruiken, moet mogelijk wachten op een Engelse versie of op ondersteuning voor meer talen. Let ook op privacy: je deelt live camerabeeld met Google. Zet alleen je camera aan als je dat bewust wilt, en check welke gegevens Google bewaart.",
+ "faq": [
+  {
+   "q": "Wat is Guided Vision in Gemini Live?",
+   "a": "Het is een functie waarbij Google's AI via je camera realtime audio-uitleg geeft. Je kunt er tekst mee laten voorlezen of voorwerpen laten benoemen."
+  },
+  {
+   "q": "Werkt Guided Vision op de iPhone?",
+   "a": "Nee, de functie start op compatibele Android-toestellen. Over een iPhone-versie is niets bekend."
+  },
+  {
+   "q": "Is Guided Vision beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. Er is geen aankondiging voor uitrol in Nederland of de EU, en ook niet in het Nederlands."
+  }
+ ],
+ "slug": "google-lanceert-guided-vision-in-gemini-live",
+ "kind": "news",
+ "date": "2026-10-02",
+ "published": "2026-10-02T11:54",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Google’s new Guided Vision feature can help you read the fine print",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
+  }
+ ],
+ "path": "/nieuws/google-lanceert-guided-vision-in-gemini-live/",
+ "og": "/img/og/google-lanceert-guided-vision-in-gemini-live.png"
+}

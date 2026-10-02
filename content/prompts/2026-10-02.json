@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: schoolrapport van je kind begrijpen",
+ "situation": "Je krijgt het rapport of het oudergesprek zit eraan te komen, maar de vage termen en cijfers zeggen je weinig. Met deze prompt haal je er in gewone taal uit wat er echt staat.",
+ "prompt": "Je bent een ervaren remedial teacher in het Nederlandse basisonderwijs. Ik heb hieronder het schoolrapport van mijn kind van [GROEP]. Leeftijd: [LEEFTIJD]. Vakken waar ik me zorgen over maak: [VAKKEN]. Sterke punten die ik zelf zie: [STERKE PUNTEN].\n\nRapporttekst: [PLAK HIER DE TEKST VAN HET RAPPORT]\n\nDoe het volgende:\n1. Vertaal elke beoordeling naar gewone taal: wat betekent dit concreet voor mijn kind?\n2. Benoem per vak of dit op of onder het verwachte niveau zit, en waarom.\n3. Geef drie vragen die ik tijdens het oudergesprek kan stellen.\n4. Geef twee oefeningen of gewoontes voor thuis, passend bij deze leeftijd.\n\nWees eerlijk maar niet alarmerend. Gebruik geen onderwijsjargon zonder uitleg.",
+ "tip": "Vraag aan het eind om een korte samenvatting van maximaal vijf regels die je zo in het gesprek op tafel kunt leggen.",
+ "tags": [
+  "onderwijs",
+  "ouders",
+  "studie",
+  "thuis"
+ ],
+ "date": "2026-10-02",
+ "slug": "prompt-schoolrapport-van-je-kind-begrijpen",
+ "path": "/prompts/2026-10-02-prompt-schoolrapport-van-je-kind-begrijpen/"
+}

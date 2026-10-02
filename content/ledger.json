@@ -967,6 +967,30 @@
   "9c6f1560c6": {
    "at": "2026-10-01T19:30:54.686293",
    "why": "ok"
+  },
+  "c6a6cc08c8": {
+   "at": "2026-10-02T11:53:46.760365",
+   "why": "ok"
+  },
+  "856e5a03db": {
+   "at": "2026-10-02T11:54:46.760365",
+   "why": "poort"
+  },
+  "b7dd825032": {
+   "at": "2026-10-02T11:54:46.760365",
+   "why": "poort"
+  },
+  "578143be7e": {
+   "at": "2026-10-02T11:54:46.760365",
+   "why": "high-risk"
+  },
+  "c2e280cb22": {
+   "at": "2026-10-02T11:54:46.760365",
+   "why": "ok"
+  },
+  "9b59a27765": {
+   "at": "2026-10-02T11:55:46.760365",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1132,6 +1156,9 @@
   "Eten bestellen met AI: DoorDash laat je sms'en naar een assistent",
   "ChatGPT Enterprise bij Albertsons: zo werkt AI in de supermarkt",
   "Shopify Canvas: webshop bouwen via AI-chat",
-  "OpenAI lanceert agent Dots en jaagt op Meta's Muse"
+  "OpenAI lanceert agent Dots en jaagt op Meta's Muse",
+  "Sony brengt AI-upscaling van PS5 Pro naar de gewone PS5",
+  "Google lanceert Guided Vision in Gemini Live",
+  "ChatGPT kan nu kleding virtueel passen met jouw foto's"
  ]
 }
