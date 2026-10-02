@@ -1,0 +1,63 @@
+{
+ "keyword": "openai dots agent",
+ "seo_title": "OpenAI Dots: nieuwe agent voor werk en taken",
+ "title": "OpenAI Dots: een agent voor je werk, en je burrito",
+ "meta": "OpenAI lanceert Dots, een agentplatform dat vooral op werk lijkt gericht. Wat doet het, wat kost het en wanneer komt het naar Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "dots",
+  "ai-agents",
+  "chatgpt",
+  "werk"
+ ],
+ "intro": "OpenAI heeft een nieuw agentplatform aangekondigd dat Dots heet. Volgens The Verge voelt het gebruik ervan vooral als werksoftware, ook al kan een Dot ook je avondeten bestellen. De aankondiging valt op omdat OpenAI hiermee nadrukkelijk de zakelijke markt opzoekt.",
+ "takeaways": [
+  "OpenAI noemt het platform Dots, met losse agents die taken voor je uitvoeren.",
+  "Volgens The Verge voelt het gebruik als workplace software, met de nadruk op werk.",
+  "Een Dot kan ook praktische dingen buiten werk doen, zoals eten bestellen.",
+  "Prijs, releasedatum en beschikbaarheid in Nederland zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat zijn Dots precies?",
+   "body": "Dots is de naam van een nieuw agentplatform van OpenAI. Het bestaat uit losse agents, Dots genoemd, die je opdrachten kunt geven. Volgens The Verge zijn het \"cute little guys\" die je instructies uitvoeren. Denk aan een assistent die taken oppakt zonder dat je zelf elke stap hoeft te doen.\n\nHet bijzondere zit volgens de bron in de uitstraling. Waar veel AI-assistenten heel toegankelijk proberen te zijn, voelt Dots als software voor je werk. Je krijgt het gevoel dat je een zakelijke tool gebruikt die toevallig ook een burrito voor je kan bestellen. De nadruk ligt dus op werk, niet op vermaak.\n\nThe Verge vergeleek het met Meta Muse, dat veel laagdrempeliger aanvoelt. Dots is serieuzer van toon en opzet. Dat past bij de richting die OpenAI eerder insloeg met tools voor bedrijven en teams."
+  },
+  {
+   "heading": "Wat kun je ermee doen?",
+   "body": "Een Dot voert taken voor je uit op basis van een opdracht. Dat kan gaan om werkzaamheden, maar dus ook om iets praktisch als eten bestellen. De precieze mogelijkheden zijn nog niet volledig duidelijk. OpenAI heeft nog geen volledige lijst met functies gedeeld.\n\nVolgens The Verge is de ervaring vooral die van werksoftware. Je gebruikt het niet even snel voor de leuk, maar om dingen gedaan te krijgen. Dat sluit aan bij de bredere trend waarin AI niet alleen antwoorden geeft, maar ook acties uitvoert.\n\nWat een Dot wel en niet mag, is nog niet bekend. Ook is niet duidelijk welke koppelingen met andere diensten er zijn. Wie in Nederland wil weten of het werkt met bekende boekhoud- of planningssoftware, moet nog wachten op meer informatie."
+  },
+  {
+   "heading": "Wat betekent dit voor de markt?",
+   "body": "OpenAI zet met Dots een volgende stap in de richting van agents die zelfstandig taken uitvoeren. Dat is een verschuiving: van een chatbot die je vragen beantwoordt naar software die dingen voor je regelt. The Verge noemt het platform expliciet enterprise software.\n\nDaarmee richt OpenAI zich op bedrijven en teams, niet alleen op consumenten. Dat is logisch, want daar zit vaak de bereidheid om te betalen voor tools die tijd besparen. Tegelijk moet blijken of gebruikers het vertrouwen hebben om een agent echt taken te laten uitvoeren.\n\nDe naam Dots roept vragen op over de opzet. Zijn het losse agents die je per taak inzet, of werken ze samen? Volgens de bron zijn het kleine helpers die jouw opdrachten uitvoeren. Meer details heeft OpenAI nog niet gegeven."
+  }
+ ],
+ "nl_angle": "Voor Nederland is er nog weinig concreet. OpenAI heeft geen prijs in euro's, geen releasedatum en geen bevestiging gegeven dat Dots hier beschikbaar komt. Nederlandse bedrijven die met AI-agents willen werken, moeten dus nog wachten op duidelijkheid. Let bij een eventuele komst ook op Europese regels rond gegevensbescherming, want een agent die taken uitvoert krijgt vaak toegang tot bedrijfsgegevens. Zodra OpenAI meer deelt, is de vraag of Dots in het Nederlands werkt en of het voldoet aan de Europese AI-verordening.",
+ "faq": [
+  {
+   "q": "Wat is OpenAI Dots?",
+   "a": "Dots is een nieuw agentplatform van OpenAI met losse agents die taken voor je uitvoeren. Volgens The Verge voelt het vooral als werksoftware."
+  },
+  {
+   "q": "Wanneer komt Dots naar Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI heeft geen releasedatum of beschikbaarheid voor Nederland of de EU gedeeld."
+  },
+  {
+   "q": "Wat kost OpenAI Dots?",
+   "a": "Er is nog geen prijs bekendgemaakt. Ook is niet duidelijk of er een gratis versie komt of alleen een betaald abonnement voor bedrijven."
+  }
+ ],
+ "slug": "openai-dots-een-agent-voor-je-werk-en-je-burrito",
+ "kind": "news",
+ "date": "2026-10-02",
+ "published": "2026-10-02T22:40",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+  }
+ ],
+ "path": "/nieuws/openai-dots-een-agent-voor-je-werk-en-je-burrito/",
+ "og": "/img/og/openai-dots-een-agent-voor-je-werk-en-je-burrito.png"
+}

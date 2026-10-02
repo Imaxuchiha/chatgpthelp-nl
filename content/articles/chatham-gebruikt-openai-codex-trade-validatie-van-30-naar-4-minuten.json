@@ -1,0 +1,67 @@
+{
+ "keyword": "openai codex finance",
+ "seo_title": "OpenAI Codex bij Chatham: validatie in 4 minuten",
+ "title": "Chatham gebruikt OpenAI Codex: trade-validatie van 30 naar 4 minuten",
+ "meta": "Chatham Financial gebruikt Codex en GPT-5.6 van OpenAI voor financiële workflows. Validatie van een trade ging van 30 minuten naar minder dan 4.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "codex",
+  "gpt-5.6",
+  "financien",
+  "automatisering"
+ ],
+ "intro": "Chatham Financial gebruikt Codex en GPT-5.6 van OpenAI om zijn eigen technologie te bouwen en werkprocessen opnieuw in te richten. Daardoor duurt het valideren van een trade nu minder dan vier minuten, tegen ongeveer een half uur eerst. Dat meldt OpenAI in een klantverhaal over het bedrijf.",
+ "takeaways": [
+  "Chatham Financial zet Codex en GPT-5.6 in voor kapitaalmarktenwerk.",
+  "Het valideren van een trade ging van circa 30 minuten naar minder dan 4 minuten.",
+  "Het bedrijf gebruikt de tools zowel om software te bouwen als om workflows te herontwerpen.",
+  "OpenAI noemt de zaak een voorbeeld van AI in een gereguleerde financiële omgeving."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Chatham precies doet met Codex",
+   "body": "Chatham Financial is een adviesbureau dat bedrijven helpt met rente- en valutarisico's op de kapitaalmarkten. Volgens OpenAI gebruikt het bedrijf Codex, de codeertool van OpenAI, om zelf technologie te bouwen. Daarnaast zet het GPT-5.6 in om bestaande werkprocessen opnieuw in te richten.\n\nHet gaat dus niet om één los proefproject. Codex helpt bij het schrijven en aanpassen van software, terwijl GPT-5.6 wordt gebruikt om het werk eromheen slimmer te maken. OpenAI noemt dit in zijn bericht een voorbeeld van hoe een financieel dienstverlener AI in de dagelijkse operatie verweeft."
+  },
+  {
+   "heading": "Van 30 minuten naar minder dan 4",
+   "body": "Het meest concrete cijfer in het verhaal gaat over trade-validatie. Dat is het controleren of een afgesloten transactie klopt: bedragen, voorwaarden, tegenpartij en afspraken. Volgens OpenAI duurde dat proces bij Chatham eerst ongeveer 30 minuten per trade. Met de nieuwe aanpak is dat teruggebracht tot minder dan 4 minuten.\n\nDat verschil telt op. Bij een handelsdesk met veel transacties per dag gaat het al snel om uren werk die vrijkomen. Het werk verdwijnt niet, maar verschuift: minder handmatig natrekken, meer tijd voor uitzonderingen en klantvragen."
+  },
+  {
+   "heading": "Waarom dit opvalt in de financiële sector",
+   "body": "Financiële instellingen zijn voorzichtig met nieuwe technologie. Regels rond gegevens, controleerbaarheid en verantwoording maken proeven lastig. Chatham opereert in die omgeving en laat volgens OpenAI zien dat het kan, mits het werkproces zelf opnieuw wordt ingericht.\n\nOpvallend is dat Chatham niet alleen een model inkoopt. Het bouwt met Codex eigen technologie en past GPT-5.6 toe op bestaande processen. Dat is een andere aanpak dan een chatbot naast het werk zetten en hopen op tijdwinst."
+  },
+  {
+   "heading": "Wat OpenAI hiermee laat zien",
+   "body": "OpenAI gebruikt klantverhalen om te laten zien waar zijn modellen in de praktijk terechtkomen. Met Chatham richt het zich op een sector die bekendstaat als behoudend en streng gereguleerd. Een concreet cijfer als 30 minuten naar 4 minuten werkt daarbij beter dan een algemene belofte.\n\nDetails over de precieze inrichting, kosten of het aantal gebruikers geeft OpenAI in het bericht niet. Ook is niet bekend of Chatham dezelfde aanpak ook buiten deze processen uitrolt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse banken, verzekeraars en adviesbureaus is dit vooral een signaal over tempo. Werk dat nu nog handmatig wordt nagelopen, kan met codeertools en een taalmodel een stuk sneller. Tegelijk gelden in Nederland en de EU dezelfde strenge eisen aan uitlegbaarheid en controle als elders. Wie zoiets invoert, moet kunnen aantonen hoe een controle tot stand komt en wie verantwoordelijk is bij een fout. De tijdwinst is dus haalbaar, maar de inrichting en vastlegging kosten vooraf werk.",
+ "faq": [
+  {
+   "q": "Wat is Codex van OpenAI?",
+   "a": "Codex is de codeertool van OpenAI die helpt bij het schrijven, aanpassen en begrijpen van software. Chatham Financial gebruikt het volgens OpenAI om eigen technologie te bouwen."
+  },
+  {
+   "q": "Hoeveel sneller gaat trade-validatie bij Chatham?",
+   "a": "Volgens OpenAI ging dat van ongeveer 30 minuten naar minder dan 4 minuten per trade."
+  },
+  {
+   "q": "Gebruikt Chatham ook GPT-5.6?",
+   "a": "Ja, volgens OpenAI zet Chatham naast Codex ook GPT-5.6 in, onder meer om werkprocessen opnieuw in te richten."
+  }
+ ],
+ "slug": "chatham-gebruikt-openai-codex-trade-validatie-van-30-naar-4-minuten",
+ "kind": "news",
+ "date": "2026-10-02",
+ "published": "2026-10-02T22:41",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Chatham scales its capital markets expertise with OpenAI",
+   "url": "https://openai.com/index/chatham-financial"
+  }
+ ],
+ "path": "/nieuws/chatham-gebruikt-openai-codex-trade-validatie-van-30-naar-4-minuten/",
+ "og": "/img/og/chatham-gebruikt-openai-codex-trade-validatie-van-30-naar-4-minuten.png"
+}

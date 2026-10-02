@@ -1007,6 +1007,38 @@
   "7170e20148": {
    "at": "2026-10-02T18:50:40.445496",
    "why": "ok"
+  },
+  "88ce35f7c1": {
+   "at": "2026-10-02T22:39:05.879377",
+   "why": "high-risk"
+  },
+  "fe94e1e839": {
+   "at": "2026-10-02T22:39:05.879377",
+   "why": "high-risk"
+  },
+  "e148a12b42": {
+   "at": "2026-10-02T22:39:05.879377",
+   "why": "ok"
+  },
+  "d6c07c04c1": {
+   "at": "2026-10-02T22:40:05.879377",
+   "why": "poort"
+  },
+  "39b9fbb58d": {
+   "at": "2026-10-02T22:40:05.879377",
+   "why": "poort"
+  },
+  "5028b5fce3": {
+   "at": "2026-10-02T22:40:05.879377",
+   "why": "ok"
+  },
+  "77605701fd": {
+   "at": "2026-10-02T22:41:05.879377",
+   "why": "poort"
+  },
+  "a97398f76e": {
+   "at": "2026-10-02T22:41:05.879377",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1178,6 +1210,9 @@
   "ChatGPT kan nu kleding virtueel passen met jouw foto's",
   "GPT-6 modellen kiezen: OpenAI geeft gids voor startups",
   "Samsung AI-bril komt laat: camera roept steeds meer weerstand op",
-  "Paus Leo XIV: AI-kunst mist de vonk van de mens"
+  "Paus Leo XIV: AI-kunst mist de vonk van de mens",
+  "Apple beperkt volledige schijftoegang op Mac vanwege AI-agents",
+  "OpenAI Dots: een agent voor je werk, en je burrito",
+  "Chatham gebruikt OpenAI Codex: trade-validatie van 30 naar 4 minuten"
  ]
 }

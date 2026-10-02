@@ -1,0 +1,64 @@
+{
+ "keyword": "apple volledige schijftoegang",
+ "seo_title": "Apple beperkt volledige schijftoegang op Mac door AI-agents",
+ "title": "Apple beperkt volledige schijftoegang op Mac vanwege AI-agents",
+ "meta": "Apple scherpt de regels voor volledige schijftoegang op de Mac aan. Lees wat AI-agents hiermee te maken hebben en wat dit voor jou betekent.",
+ "category": "nieuws",
+ "tags": [
+  "apple",
+  "mac",
+  "ai-agents",
+  "privacy",
+  "beveiliging"
+ ],
+ "intro": "Apple gaat de toegang tot de volledige schijf op de Mac beperken. Volgens The Verge reageert het bedrijf daarmee op de risico's die AI-agents met zich meebrengen. De nieuwe regels moeten voorkomen dat apps zomaar alles op je schijf kunnen lezen.",
+ "takeaways": [
+  "Apple voert nieuwe beperkingen in voor volledige schijftoegang op de Mac.",
+  "Het bedrijf zegt dat AI-agents het risico op misbruik flink vergroten.",
+  "Gebruikers die een app echt volledige toegang willen geven, moeten dat bewust en actief doen.",
+  "De maatregel volgt op eerdere berichtgeving van TechCrunch."
+ ],
+ "sections": [
+  {
+   "heading": "Wat verandert er precies",
+   "body": "Apple scherpt de regels aan voor wat het \"volledige schijftoegang\" noemt op de Mac. Die machtiging geeft een app toegang tot vrijwel alle bestanden op je computer, van documenten tot systeemgegevens. Volgens The Verge komen er nieuwe controles die ervoor moeten zorgen dat alleen gebruikers die dit echt willen, een app dat hoge toegangsniveau geven.\n\nApple zegt in een update op vrijdag dat het de nieuwe maatregelen uitrolt. Het bedrijf wil dat de stap om volledige schijftoegang te geven bewust gebeurt, niet per ongeluk of als bijeffect van een installatie. Hoe de nieuwe schermen er precies uitzien, is nog niet volledig duidelijk."
+  },
+  {
+   "heading": "Waarom AI-agents de aanleiding zijn",
+   "body": "De aanleiding is de opkomst van AI-agents. Dat zijn programma's die zelfstandig taken op je computer kunnen uitvoeren, zoals bestanden openen, verplaatsen of doorzoeken. Apple stelt dat zulke agents het risico op misbruik \"substantieel\" vergroten, meldt The Verge.\n\nEen agent met volledige schijftoegang kan in theorie bij alles wat op je Mac staat. Denk aan foto's, e-mails, wachtwoordbestanden en werkdocumenten. Zonder goede rem kan een fout in zo'n agent of een verkeerd ingestelde machtiging grote gevolgen hebben. Apple wil daarom dat de gebruiker zelf de regie houdt over wie wat mag zien."
+  },
+  {
+   "heading": "Wat dit betekent voor Mac-gebruikers",
+   "body": "Voor de meeste mensen verandert er day-to-day weinig. Je kunt nog steeds apps toegang geven, maar het wordt een bewustere keuze. Verwacht extra meldingen of instellingen wanneer een app om volledige schijftoegang vraagt.\n\nHet advies is simpel: geef die machtiging alleen aan apps die je vertrouwt en die hem echt nodig hebben. Een tekstverwerker of fotobewerker heeft zelden volledige toegang nodig. Een back-upprogramma of beveiligingstool soms wel. Twijfel je? Dan kun je de toegang later intrekken via de systeeminstellingen."
+  }
+ ],
+ "nl_angle": "De maatregel raakt ook Nederlandse Mac-gebruikers en bedrijven die met AI-tools werken. Steeds meer Nederlandse organisaties proberen AI-agents in te zetten voor taken als het ordenen van bestanden of het samenvatten van documenten. Als zo'n agent volledige schijftoegang krijgt, ligt gevoelige informatie zoals klantgegevens of personeelsdossiers binnen bereik. Onder de AVG blijft de organisatie verantwoordelijk voor die gegevens, ook als een AI-agent ze per ongeluk deelt of verplaatst. Het is dus verstandig om vooraf te bepalen welke agent welke toegang krijgt, en die keuze vast te leggen.",
+ "faq": [
+  {
+   "q": "Wat is volledige schijftoegang op de Mac?",
+   "a": "Het is een machtiging waarmee een app bijna alle bestanden op je Mac kan lezen en aanpassen. Apple beperkt nu hoe makkelijk je die toegang geeft."
+  },
+  {
+   "q": "Waarom doet Apple dit nu?",
+   "a": "Volgens Apple vergroten AI-agents het risico op misbruik flink. De nieuwe controles moeten voorkomen dat een app zonder echte bedoeling volledige toegang krijgt."
+  },
+  {
+   "q": "Moet ik iets aanpassen op mijn Mac?",
+   "a": "Niet direct. Let voortaan op de meldingen als een app om volledige schijftoegang vraagt en geef die alleen aan programma's die je vertrouwt."
+  }
+ ],
+ "slug": "apple-beperkt-volledige-schijftoegang-op-mac-vanwege-ai-agents",
+ "kind": "news",
+ "date": "2026-10-02",
+ "published": "2026-10-02T22:39",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+   "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+  }
+ ],
+ "path": "/nieuws/apple-beperkt-volledige-schijftoegang-op-mac-vanwege-ai-agents/",
+ "og": "/img/og/apple-beperkt-volledige-schijftoegang-op-mac-vanwege-ai-agents.png",
+ "take": "Apple doet dit omdat AI-agents met volledige schijftoegang gewoon te veel kunnen aanraken, en dat is een grens die ik zelf ook trek. Ik bouw veel met Claude Code en die mag bestanden, scripts en API's aansturen, maar alleen binnen de taak waarvoor ik hem aanzet. Tot ik zie dat zo'n agent netjes binnen die grens blijft, is dit voor mij een demo van goede bedoelingen en geen product."
+}
