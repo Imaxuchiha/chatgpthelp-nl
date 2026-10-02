@@ -991,6 +991,22 @@
   "9b59a27765": {
    "at": "2026-10-02T11:55:46.760365",
    "why": "ok"
+  },
+  "8e206c4d9e": {
+   "at": "2026-10-02T18:48:40.445496",
+   "why": "ok"
+  },
+  "ed14027002": {
+   "at": "2026-10-02T18:49:40.445496",
+   "why": "poort"
+  },
+  "eb2735348e": {
+   "at": "2026-10-02T18:49:40.445496",
+   "why": "ok"
+  },
+  "7170e20148": {
+   "at": "2026-10-02T18:50:40.445496",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1159,6 +1175,9 @@
   "OpenAI lanceert agent Dots en jaagt op Meta's Muse",
   "Sony brengt AI-upscaling van PS5 Pro naar de gewone PS5",
   "Google lanceert Guided Vision in Gemini Live",
-  "ChatGPT kan nu kleding virtueel passen met jouw foto's"
+  "ChatGPT kan nu kleding virtueel passen met jouw foto's",
+  "GPT-6 modellen kiezen: OpenAI geeft gids voor startups",
+  "Samsung AI-bril komt laat: camera roept steeds meer weerstand op",
+  "Paus Leo XIV: AI-kunst mist de vonk van de mens"
  ]
 }

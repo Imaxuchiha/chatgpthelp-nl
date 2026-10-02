@@ -1,0 +1,63 @@
+{
+ "keyword": "ai-kunst paus",
+ "seo_title": "AI-kunst paus Leo XIV: algoritmes missen vonk",
+ "title": "Paus Leo XIV: AI-kunst mist de vonk van de mens",
+ "meta": "Paus Leo XIV zegt dat AI-gegenereerde kunst wezenlijk verschilt van menselijke kunst. Wat betekent dat voor makers en AI-tools in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "ai-kunst",
+  "paus leo xiv",
+  "auteursrecht",
+  "generatieve ai",
+  "cultuur"
+ ],
+ "intro": "Paus Leo XIV heeft zich kritisch uitgelaten over kunst die door AI wordt gemaakt. Volgens hem is er een verschil in wezen, nog voordat je over smaak praat. De uitspraak valt midden in een groeiend debat over auteursrecht en de positie van makers.",
+ "takeaways": [
+  "Paus Leo XIV noemt een ontologisch verschil tussen kunst en wat een machine maakt.",
+  "Hij stelt dat algoritmes de vonk van menselijkheid missen.",
+  "AI-beelden komen volgens hem tot stand via statistische berekening op miljoenen andermans beelden."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de paus precies zegt",
+   "body": "Volgens TechCrunch schrijft paus Leo XIV dat er een ontologisch verschil is tussen kunst en wat een machine kan genereren. Dat verschil bestaat volgens hem nog vóór je iets over esthetiek zegt. Hij omschrijft AI-beelden als het resultaat van statistische berekening op basis van miljoenen beelden die anderen hebben gemaakt.\n\nDe paus voegt daaraan toe dat algoritmes de vonk van menselijkheid missen. Daarmee plaatst hij kunst tegenover wat een machine produceert. Het is geen oordeel over één specifiek model of één specifieke tool, maar een bredere uitspraak over het verschil tussen mens en machine."
+  },
+  {
+   "heading": "Waarom dit nu speelt",
+   "body": "De uitspraak komt op een moment dat AI-beeldgeneratoren steeds vaker worden gebruikt voor illustraties, concepten en advertenties. Makers en rechthebbenden vragen zich af hoe hun werk zich verhoudt tot wat modellen produceren. De paus raakt met zijn woorden precies dat punt: een model werkt met bestaand beeldmateriaal van anderen.\n\nDaarmee gaat het niet alleen over smaak. Het gaat ook over herkomst, toestemming en de vraag wie wat mag maken. De paus zegt daar niets over wetgeving, maar zijn formulering sluit wel aan bij zorgen die in de cultuursector leven."
+  },
+  {
+   "heading": "Wat Nederland hiervan merkt",
+   "body": "In Nederland gebruiken bureaus, freelancers en mediabedrijven AI-tools voor beeld. De uitspraak verandert daar juridisch niets aan. Wel kan ze het gesprek beïnvloeden over wanneer je AI-beeld wel of niet inzet, en of je dat vermeldt aan een klant.\n\nOpdrachtgevers kunnen vaker vragen naar de herkomst van beeld. Voor makers kan dat een kans zijn om hun eigen werk scherper te positioneren. Het is nog niet bekend of de uitspraak leidt tot nieuwe richtlijnen binnen kerkelijke instellingen of aanverwante organisaties."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse makers, bureaus en opdrachtgevers is dit vooral een signaal in het debat over AI-beeld. Reken niet op nieuwe regels door deze uitspraak; de Europese AI-verordening en het auteursrecht blijven het kader. Wel kan het gesprek met klanten veranderen: waar komt dit beeld vandaan, en is het door een mens gemaakt of door een model? Wie met AI werkt, doet er goed aan dat transparant te benoemen.",
+ "faq": [
+  {
+   "q": "Wat zei paus Leo XIV over AI-kunst?",
+   "a": "Volgens TechCrunch schrijft hij dat er een ontologisch verschil is tussen kunst en wat een machine genereert, nog voor je over esthetiek praat. Algoritmes missen volgens hem de vonk van menselijkheid."
+  },
+  {
+   "q": "Verandert er iets aan de wet in Nederland?",
+   "a": "Nee. De uitspraak is geen wet of richtlijn. Het auteursrecht en de Europese AI-regels blijven het kader voor AI-beeld in Nederland."
+  },
+  {
+   "q": "Mag ik AI-beeld blijven gebruiken voor werk?",
+   "a": "Dat mag, zolang je je aan bestaande regels en contracten houdt. Het is nog niet bekend of hier nieuwe beperkingen bij komen."
+  }
+ ],
+ "slug": "paus-leo-xiv-ai-kunst-mist-de-vonk-van-de-mens",
+ "kind": "news",
+ "date": "2026-10-02",
+ "published": "2026-10-02T18:50",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Pope Leo XIV is not a fan of AI-generated art",
+   "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
+  }
+ ],
+ "path": "/nieuws/paus-leo-xiv-ai-kunst-mist-de-vonk-van-de-mens/",
+ "og": "/img/og/paus-leo-xiv-ai-kunst-mist-de-vonk-van-de-mens.png",
+ "take": "De paus heeft gelijk dat er een verschil in wezen is, maar dat verschil zit in de maker en niet in de techniek. Ik gebruik AI-beeld en AI-video gewoon voor content, en voor voice-overs draai ik Voicebox lokaal in plaats van een betaald abonnement. Of het publiek het merkt, is een tweede, en dat is precies waar het debat over auteursrecht over zou moeten gaan."
+}
