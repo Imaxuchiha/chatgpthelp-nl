@@ -24,7 +24,7 @@ SITE = {
     "url": "https://chatgpthelp.nl",
     "tagline": "Dagelijks AI-nieuws, uitleg en prompts — in gewoon Nederlands.",
     "description": (
-        "ChatGPT Help is een onafhankelijke Nederlandse nieuws- en informatiesite over ChatGPT, "
+        "ChatGPT Help is een Nederlandse nieuws- en informatiesite van Adsvantage over ChatGPT, "
         "Claude, Gemini en andere AI. Elke dag het belangrijkste AI-nieuws, praktische uitleg, "
         "een prompt van de dag en een meme van de dag. De site wordt volledig door AI gemaakt; "
         "bronnen staan altijd onder elk artikel."

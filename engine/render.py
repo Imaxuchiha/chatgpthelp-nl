@@ -128,7 +128,7 @@ gtag('set','allow_google_signals',false);gtag('set','allow_ad_personalization_si
 <div class="cols">
 <div><strong>{E(SITE['name'])}</strong><br>{E(SITE['tagline'])}<br><br>Deze site wordt volledig door AI gemaakt en gepubliceerd, zonder menselijke eindredactie. Elk artikel vermeldt zijn bronnen. <a href="/over/">Hoe dat werkt</a>.</div>
 <div><strong>Rubrieken</strong><br>{" · ".join(f'<a href="/{s}/">{E(n)}</a>' for s, (n, _) in CATEGORIES.items())}<br><a href="/prompts/">Prompt van de dag</a> · <a href="/memes/">Meme van de dag</a></div>
-<div><strong>Over</strong><br><a href="/over/">Over deze site</a> · <a href="/privacy/">Privacy</a> · <a href="/feed.xml">RSS</a> · <a href="{SITE['bluesky']}" rel="me noopener" target="_blank">Bluesky</a><br><br>Onafhankelijk. Niet verbonden aan OpenAI. ChatGPT is een merk van OpenAI.<br>© {datetime.now().year} {E(SITE['domain'])}</div>
+<div><strong>Over</strong><br><a href="/over/">Over deze site</a> · <a href="/privacy/">Privacy</a> · <a href="/feed.xml">RSS</a> · <a href="{SITE['bluesky']}" rel="me noopener" target="_blank">Bluesky</a><br><br>Niet verbonden aan OpenAI of een andere AI-aanbieder. Uitgegeven door Adsvantage. ChatGPT is een merk van OpenAI.<br>© {datetime.now().year} {E(SITE['domain'])}</div>
 </div>
 </footer>
 </div>
@@ -335,14 +335,14 @@ def prompt_page(p: dict, prompts: list[dict]) -> str:
 
 def about() -> str:
     body = f"""<article class="post prose"><h1>Over {E(SITE['name'])}</h1>
-<p class="intro">{E(SITE['name'])} is een onafhankelijke Nederlandse nieuws- en informatiesite over ChatGPT en andere AI. De site wordt volledig door AI gemaakt: van het kiezen van het nieuws tot het schrijven, de beelden en het publiceren.</p>
+<p class="intro">{E(SITE['name'])} is een Nederlandse nieuws- en informatiesite over ChatGPT en andere AI, uitgegeven door marketingbureau Adsvantage. De site wordt volledig door AI gemaakt: van het kiezen van het nieuws tot het schrijven, de beelden en het publiceren.</p>
 <h2>Hoe werkt het?</h2>
 <p>Meerdere keren per dag leest onze software de nieuwsfeeds van onder meer OpenAI, Google, Anthropic-partners, The Verge, TechCrunch, Ars Technica, Tweakers, NU.nl en de Autoriteit Persoonsgegevens. Verhalen die door meerdere bronnen worden gemeld krijgen voorrang. Een taalmodel schrijft daarna een <strong>origineel Nederlands artikel</strong> op basis van uitsluitend die bronnen, met een aparte alinea over wat het nieuws voor Nederland betekent.</p>
 <p>Elk artikel gaat door een automatische kwaliteitspoort: lengte, Nederlands, geen zinnen overgenomen uit bronnen, geen cijfers die niet in de bronnen staan, geen dubbele onderwerpen. Haalt een artikel de poort niet, dan verschijnt het niet. Gevoelige onderwerpen (rechtszaken, overlijden, misbruik, verkiezingen, medisch advies) publiceren we <strong>niet</strong> automatisch, omdat er geen menselijke eindredactie is.</p>
 <h2>Transparantie (EU AI-verordening, artikel 50)</h2>
 <p>Alle teksten en beelden op deze site zijn door AI gegenereerd en niet door een mens geredigeerd. Dat staat bij elk artikel. Onder elk nieuwsartikel staan de bronnen waarop het is gebaseerd, met link. Zie je een fout? Mail <a href="mailto:{E(SITE['email'])}">{E(SITE['email'])}</a>; correcties worden bij de volgende run verwerkt.</p>
-<h2>Onafhankelijk</h2>
-<p>{E(SITE['domain'])} is niet verbonden aan OpenAI, Google, Anthropic, Microsoft of een andere AI-aanbieder. ChatGPT is een merk van OpenAI. Wij beschrijven, vergelijken en leggen uit; we verkopen geen AI-producten. De enige commerciële uiting is het duidelijk gemarkeerde blok over AI-training van de uitgever.</p>
+<h2>Niet verbonden aan AI-aanbieders</h2>
+<p>{E(SITE['domain'])} is niet verbonden aan OpenAI, Google, Anthropic, Microsoft of een andere AI-aanbieder. ChatGPT is een merk van OpenAI. Wij beschrijven, vergelijken en leggen uit; we verkopen geen AI-producten. De uitgever verdient wel aan zijn eigen diensten: artikelen kunnen Adsvantage of de AI-training van de uitgever noemen, en dat staat er dan altijd bij.</p>
 <h2>Uitgever</h2>
 <p>Deze site wordt uitgegeven door Adsvantage (Nederland). Contact: <a href="mailto:{E(SITE['email'])}">{E(SITE['email'])}</a>.</p>
 </article>"""
