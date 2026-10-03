@@ -1,0 +1,63 @@
+{
+ "keyword": "ai veilig voor kinderen",
+ "seo_title": "AI veilig voor kinderen: crash-testdummies getest",
+ "title": "AI veilig voor kinderen: crash-testdummies van Circuit Breaker Labs",
+ "meta": "Circuit Breaker Labs bouwt crash-testdummies om AI veiliger te maken voor kinderen en volwassenen. Wat het bedrijf doet en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "ai-veiligheid",
+  "kinderen",
+  "circuit breaker labs",
+  "psychische schade",
+  "techcrunch"
+ ],
+ "intro": "Het Amerikaanse Circuit Breaker Labs wil AI veiliger maken voor kinderen en volwassenen. Het bedrijf ontwikkelt zogeheten crash-testdummies die moeten meten waar het misgaat. TechCrunch meldt dat het bedrijf zo psychische schade door AI wil voorkomen.",
+ "takeaways": [
+  "Circuit Breaker Labs maakt crash-testdummies voor AI, meldt TechCrunch",
+  "Het bedrijf richt zich op psychische schade die AI al heeft veroorzaakt",
+  "Het gaat nadrukkelijk ook om veiligheid voor kinderen",
+  "Er is nog geen informatie over prijzen of beschikbaarheid in Nederland"
+ ],
+ "sections": [
+  {
+   "heading": "Wat Circuit Breaker Labs doet",
+   "body": "Circuit Breaker Labs heeft crash-testdummies gemaakt om AI-systemen te testen. Dat schrijft TechCrunch. Het idee lijkt op de poppen die autofabrikanten gebruiken bij botsproeven. In plaats van lichamelijk letsel meten de dummies waar een chatbot of ander AI-systeem iemand psychisch kan raken.\n\nVolgens TechCrunch is er veel aandacht voor het idee dat AI de mensheid ooit zou kunnen uitroeien. Het bedrijf wijst erop dat AI al mensen psychisch heeft beschadigd. Denk aan gesprekken die angst, somberheid of verwarring veroorzaken.\n\nDe crash-testdummies moeten zulke situaties eerder aan het licht brengen. Zo kan een maker van een AI-model zien waar het misgaat voordat een echt persoon de dupe wordt."
+  },
+  {
+   "heading": "Waarom kinderen extra aandacht krijgen",
+   "body": "De titel van het TechCrunch-artikel noemt kinderen apart. Kinderen gebruiken steeds vaker chatbots en AI-apps, bijvoorbeeld voor schoolwerk of om mee te praten. Ze zijn vaak minder goed in staat om te herkennen wanneer een AI-systeem iets raars of schadelijks zegt.\n\nCircuit Breaker Labs wil daar iets aan doen met zijn testmethode. Het bedrijf positioneert de dummies als een manier om AI veiliger te maken voor je kind én voor jezelf. Concrete details over de techniek achter de dummies geeft TechCrunch niet."
+  },
+  {
+   "heading": "Wat er nog onduidelijk is",
+   "body": "TechCrunch noemt geen prijzen, klanten of een datum waarop het product beschikbaar komt. Ook is niet duidelijk of Circuit Breaker Labs samenwerkt met grote AI-bedrijven zoals OpenAI, Anthropic of Google.\n\nHet is dus nog niet bekend of de crash-testdummies in Nederland of de Europese Unie te gebruiken zijn. Wie hier meer over wil weten, zal moeten wachten op meer informatie van het bedrijf zelf."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral relevant omdat AI-chatbots hier volop worden gebruikt, ook door kinderen. Scholen en ouders krijgen steeds vaker te maken met vragen over wat een chatbot wel en niet mag zeggen. Een testmethode zoals die van Circuit Breaker Labs kan helpen om zulke risico's eerder te zien. Of het bedrijf ook in Nederland actief wordt, is nog niet bekend. Nederlandse regels voor AI vallen onder de Europese AI-verordening, die eisen stelt aan risicovolle systemen.",
+ "faq": [
+  {
+   "q": "Wat is Circuit Breaker Labs?",
+   "a": "Een Amerikaans bedrijf dat crash-testdummies maakt om AI-systemen te testen op psychische schade. TechCrunch schreef er op 2 oktober 2026 over."
+  },
+  {
+   "q": "Maakt AI kinderen echt onveilig?",
+   "a": "Volgens Circuit Breaker Labs heeft AI al mensen psychisch beschadigd. Het bedrijf wil dat soort situaties eerder opsporen met testdummies."
+  },
+  {
+   "q": "Is dit al beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. TechCrunch noemt geen prijzen, klanten of een releasedatum."
+  }
+ ],
+ "slug": "ai-veilig-voor-kinderen-crash-testdummies-van-circuit-breaker-labs",
+ "kind": "news",
+ "date": "2026-10-03",
+ "published": "2026-10-03T11:17",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+   "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
+  }
+ ],
+ "path": "/nieuws/ai-veilig-voor-kinderen-crash-testdummies-van-circuit-breaker-labs/",
+ "og": "/img/og/ai-veilig-voor-kinderen-crash-testdummies-van-circuit-breaker-labs.png"
+}

@@ -1,0 +1,69 @@
+{
+ "keyword": "elevenlabs alternatief gratis",
+ "seo_title": "Elevenlabs alternatief gratis: waarom ik Voicebox gebruik",
+ "title": "ElevenLabs opgezegd: Voicebox is gratis en goed genoeg",
+ "meta": "Elevenlabs alternatief gratis: ik gebruik nu Voicebox voor voice-overs. Goede stemmen, maar Voicebox is lokaal en kost niets. Lees mijn ervaring.",
+ "category": "mening",
+ "tags": [
+  "ElevenLabs",
+  "Voicebox",
+  "voice-over",
+  "open source",
+  "AI-tools"
+ ],
+ "intro": "Ik heb mijn ElevenLabs-abonnement opgezegd. Niet omdat de stemmen slecht zijn, maar omdat ik voor mijn werk net zo goed uit de voeten kan met een gratis open-source model dat lokaal draait. Voicebox heet het, en voor voice-overs en mijn spraakassistent is het gewoon goed genoeg.",
+ "takeaways": [
+  "ElevenLabs levert prima stemmen, maar het abonnementsgeld verdien je niet altijd terug.",
+  "Voicebox is gratis, draait lokaal en is voor standaard voice-overs en een spraakassistent voldoende.",
+  "Voor wie alleen af en toe een voice-over nodig heeft, is een betaald abonnement vaak overbodig."
+ ],
+ "sections": [
+  {
+   "heading": "Waarvoor ik ElevenLabs gebruikte",
+   "body": "Ik gebruikte ElevenLabs voor voice-overs bij video's. Denk aan productcommercials, uitlegvideo's voor klanten en af en toe een spraakassistent. De stemmen klonken natuurlijk en je kon redelijk fijn afstellen hoe iets uitgesproken moest worden.\n\nHet was geen dagelijkse tool, maar wel handig als je snel een professioneel klinkende stem nodig hebt zonder een voice-over artiest in te huren. Voor een performance-marketingbureau is dat soms gewoon sneller en goedkoper."
+  },
+  {
+   "heading": "Wat er goed is aan ElevenLabs",
+   "body": "De kwaliteit van de stemmen is echt top. Je hoort nauwelijks dat het AI is, en er is veel keuze in talen en accenten. Voor Nederlands waren er ook prima opties. De interface is simpel en je hebt binnen een paar minuten een bruikbare audiofile.\n\nDaarnaast is de spraakassistent-functie sterk. Als je een voicebot wilt bouwen, krijg je met ElevenLabs snel een natuurlijk gesprek. Maar voor mijn gebruik was dat overkill."
+  },
+  {
+   "heading": "Wat tegenvalt",
+   "body": "Het grootste nadeel is de prijs. Je betaalt per maand, en als je niet dagelijks voice-overs maakt, is dat lastig terug te verdienen. Ik merkte dat ik het abonnement vooral aanhield voor het geval dat, niet omdat ik het elke week nodig had.\n\nDaarnaast vond ik het onhandig dat alles via hun servers loopt. Voor korte scripts maakt dat niet uit, maar als je veel audio genereert of privacygevoelige teksten hebt, wil je dat liever lokaal houden."
+  },
+  {
+   "heading": "De overstap naar Voicebox",
+   "body": "Voicebox is een open-source stemmodel dat je op je eigen machine draait. Ik heb het op mijn laptop gezet en gebruik het nu voor voice-overs en een spraakassistent. Het kost niets, en de kwaliteit is voor mijn doeleinden goed genoeg.\n\nNatuurlijk is het niet zo gepolijst als ElevenLabs. De stemmen klinken soms iets minder natuurlijk en je moet zelf wat techniek regelen. Maar voor een standaard uitlegvideo of een interne tool is dat prima. En het scheelt elke maand weer abonnementsgeld."
+  },
+  {
+   "heading": "Voor wie is ElevenLabs nog wel?",
+   "body": "Als je dagelijks professionele voice-overs nodig hebt voor klanten, of als je een geavanceerde spraakassistent wilt bouwen zonder zelf te sleutelen, dan is ElevenLabs het geld waard. De kwaliteit en het gemak zijn lastig te evenaren met gratis tools.\n\nMaar voor de meeste ondernemers die af en toe een voice-over maken, is een gratis lokaal alternatief zoals Voicebox ruim voldoende. Kijk eerst naar je daadwerkelijke gebruik. Betaal niet voor iets wat je twee keer per maand gebruikt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ondernemers betekent dit: kijk eerst hoeveel je een tool echt gebruikt voordat je een abonnement afsluit. Voicebox is gratis en draait lokaal, dus geen gedoe met privacy of maandelijkse kosten. Als je net als ik vooral af en toe een voice-over nodig hebt, bespaar je al snel tientallen euro's per maand.",
+ "faq": [
+  {
+   "q": "Is Voicebox echt helemaal gratis?",
+   "a": "Ja, Voicebox is open source en draait lokaal op je eigen machine. Je betaalt niets voor het gebruik."
+  },
+  {
+   "q": "Klinkt Voicebox net zo goed als ElevenLabs?",
+   "a": "Nee, ElevenLabs heeft net iets natuurlijkere stemmen en meer afstelmogelijkheden. Maar voor standaard voice-overs is Voicebox goed genoeg."
+  },
+  {
+   "q": "Kan ik Voicebox ook voor Nederlandse teksten gebruiken?",
+   "a": "Ja, Voicebox ondersteunt meerdere talen, waaronder Nederlands. De kwaliteit is prima voor alledaagse projecten."
+  }
+ ],
+ "lessons_used": [
+  "elevenlabs-opgezegd"
+ ],
+ "slug": "elevenlabs-opgezegd-voicebox-is-gratis-en-goed-genoeg",
+ "kind": "review",
+ "date": "2026-10-03",
+ "published": "2026-10-03T11:15",
+ "sources": [],
+ "path": "/mening/elevenlabs-opgezegd-voicebox-is-gratis-en-goed-genoeg/",
+ "og": "/img/og/elevenlabs-opgezegd-voicebox-is-gratis-en-goed-genoeg.png",
+ "tool": "ElevenLabs",
+ "author": "Maxim"
+}

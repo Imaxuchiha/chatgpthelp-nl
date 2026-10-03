@@ -1,0 +1,67 @@
+{
+ "keyword": "meta muse ai gadgets",
+ "seo_title": "Meta Muse AI gadgets: maak je eigen slimme apparaat",
+ "title": "Meta Muse AI gadgets: bouw je eigen slimme apparaat",
+ "meta": "Meta heeft code vrijgegeven waarmee je zelf Muse AI gadgets bouwt. Lees wat het is, hoe je begint en wat het in Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "meta",
+  "muse",
+  "ai-agent",
+  "open source",
+  "gadgets"
+ ],
+ "intro": "Meta laat ontwikkelaars zelf Muse-apparaten bouwen met de AI-agent van het bedrijf. De bijbehorende code is open source gemaakt, meldt The Verge. Daarmee kun je Muse bijvoorbeeld op een E Ink-scherm of een HDMI-stick zetten.",
+ "takeaways": [
+  "Meta heeft de code voor Muse-gadgets open source vrijgegeven.",
+  "Muse is een AI-agent die op zelfgebouwde apparaten kan draaien.",
+  "Meta noemt voorbeelden zoals een kleuren E Ink-scherm en een HDMI-stick.",
+  "Het is nog niet bekend of en wanneer dit in Nederland beschikbaar komt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Meta precies vrijgeeft",
+   "body": "Meta geeft code vrij waarmee je zelf apparaten bouwt rond Muse, de AI-agent van het bedrijf. Dat schrijft The Verge. Het gaat dus niet om een kant-en-klaar product uit de winkel, maar om bouwstenen voor eigen projecten.\n\nVolgens The Verge suggereert Meta een paar voorbeelden. Je kunt Muse op een kleuren E Ink-scherm zetten om herinneringen te tonen. Ook is een HDMI-stick genoemd, zodat Muse op een groot scherm verschijnt. Meer voorbeelden noemt de bron niet."
+  },
+  {
+   "heading": "Wat je met zo'n gadget kunt doen",
+   "body": "Een AI-agent is software die zelfstandig taken uitvoert en daarbij keuzes maakt. Muse is de agent van Meta. Door de code open source te maken, kan iedereen met programmeerkennis ermee aan de slag.\n\nDenk aan een klein scherm op je bureau dat je agenda bijhoudt. Of een stick achter de tv die vragen beantwoordt. De precieze mogelijkheden hangen af van wat ontwikkelaars zelf bouwen. Meta levert het gereedschap, niet het eindproduct."
+  },
+  {
+   "heading": "Open source: wat betekent dat?",
+   "body": "Open source betekent dat de broncode openbaar is. Iedereen mag die bekijken, aanpassen en hergebruiken. Dat is anders dan bij gesloten software, waar je alleen een werkend programma krijgt zonder de code erachter.\n\nVoor ontwikkelaars is dat handig: je kunt zelf functies toevoegen of weghalen. Voor Meta is het een manier om meer mensen met hun AI-agent te laten werken. Het bedrijf hoopt waarschijnlijk op een ecosysteem van zelfgebouwde apparaten."
+  },
+  {
+   "heading": "Nog veel onduidelijk",
+   "body": "The Verge noemt geen prijzen, releasedata of landen waar dit beschikbaar komt. Of Nederlandse ontwikkelaars direct mee kunnen doen, is dus nog niet bekend. Ook is niet duidelijk welke hardware je precies nodig hebt.\n\nWie wil beginnen, moet waarschijnlijk zelf uitzoeken welke onderdelen werken. Reken op een E Ink-scherm, een HDMI-stick of vergelijkbare hardware. Concrete winkellijsten of prijzen in euro's zijn er nog niet."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral interessant voor hobbyisten, studenten en kleine ontwikkelaars. Je kunt er zelf een apparaat mee bouwen, maar je moet wel kunnen programmeren. Grote bedrijven zullen waarschijnlijk wachten op duidelijke ondersteuning en Europese regels rond AI. Of Meta dit ook in de EU aanbiedt, is nog niet bekend. Houd er rekening mee dat je zelf hardware koopt; een prijs in euro's is er nog niet.",
+ "faq": [
+  {
+   "q": "Wat is Meta Muse?",
+   "a": "Muse is een AI-agent van Meta. Je kunt hem op zelfgebouwde apparaten zetten, zoals een E Ink-scherm of een HDMI-stick."
+  },
+  {
+   "q": "Is de Muse-code gratis?",
+   "a": "Meta heeft de code open source gemaakt. Iedereen mag die bekijken en aanpassen. Of er kosten aan verbonden zijn, meldt The Verge niet."
+  },
+  {
+   "q": "Kan ik dit in Nederland gebruiken?",
+   "a": "Dat is nog niet bekend. The Verge noemt geen landen of releasedata. Je hebt in ieder geval programmeerkennis en eigen hardware nodig."
+  }
+ ],
+ "slug": "meta-muse-ai-gadgets-bouw-je-eigen-slimme-apparaat",
+ "kind": "news",
+ "date": "2026-10-03",
+ "published": "2026-10-03T11:15",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Meta open sources code to let you make Muse AI gadgets",
+   "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
+  }
+ ],
+ "path": "/nieuws/meta-muse-ai-gadgets-bouw-je-eigen-slimme-apparaat/",
+ "og": "/img/og/meta-muse-ai-gadgets-bouw-je-eigen-slimme-apparaat.png"
+}

@@ -1039,6 +1039,26 @@
   "a97398f76e": {
    "at": "2026-10-02T22:41:05.879377",
    "why": "ok"
+  },
+  "96caaea42c": {
+   "at": "2026-10-03T11:15:56.852668",
+   "why": "high-risk"
+  },
+  "9dbf432046": {
+   "at": "2026-10-03T11:15:56.852668",
+   "why": "high-risk"
+  },
+  "c0a74765cc": {
+   "at": "2026-10-03T11:15:56.852668",
+   "why": "ok"
+  },
+  "5113cb6536": {
+   "at": "2026-10-03T11:16:56.852668",
+   "why": "ok"
+  },
+  "a84fd7ae93": {
+   "at": "2026-10-03T11:17:56.852668",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1213,6 +1233,9 @@
   "Paus Leo XIV: AI-kunst mist de vonk van de mens",
   "Apple beperkt volledige schijftoegang op Mac vanwege AI-agents",
   "OpenAI Dots: een agent voor je werk, en je burrito",
-  "Chatham gebruikt OpenAI Codex: trade-validatie van 30 naar 4 minuten"
+  "Chatham gebruikt OpenAI Codex: trade-validatie van 30 naar 4 minuten",
+  "Meta Muse AI gadgets: bouw je eigen slimme apparaat",
+  "Sean Parker bouwt Stability AI om rond muziek",
+  "AI veilig voor kinderen: crash-testdummies van Circuit Breaker Labs"
  ]
 }

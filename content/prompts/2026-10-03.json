@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: energierekening doorgespit op sluipverbruik",
+ "situation": "Je energierekening valt hoger uit dan verwacht en je wilt weten waar het geld blijft. Gebruik deze prompt om je jaarafschrift en apparatenlijst samen te laten analyseren.",
+ "prompt": "Je bent een energieadviseur voor huishoudens in Nederland. Ik stuur je mijn [JAARAFSCHRIFT OF VERBRUIKSOVERZICHT] met mijn jaarverbruik in kWh en m3, mijn [TARIEF PER EENHEID] en mijn [VAST RECHT PER MAAND]. Mijn huishouden bestaat uit [AANTAL PERSONEN] personen in een [TYPE WONING, BIJVOORBEELD TUSSENWONING UIT 1985]. Mijn apparaten: [LIJST MET APPARATEN EN GESCHAT GEBRUIK, BIJVOORBEELD OUDE VRIESKAST, DROGER 3X PER WEEK, AIRCO IN ZOMER]. Bereken mijn geschatte jaarrekening in euro's, splits in vast recht en verbruik. Wijs de drie grootste verbruikers aan met een schatting in kWh en euro's. Geef per post een concreet bespaarbedrag en terugverdientijd. Zeg het eerlijk als cijfers ontbreken.",
+ "tip": "Vul het werkelijke verbruik uit je slimme meter in plaats van een schatting; dan wordt de vergelijking per apparaat veel scherper.",
+ "tags": [
+  "thuis",
+  "energie",
+  "besparen",
+  "rekenen"
+ ],
+ "date": "2026-10-03",
+ "slug": "prompt-energierekening-doorgespit-op-sluipverbruik",
+ "path": "/prompts/2026-10-03-prompt-energierekening-doorgespit-op-sluipverbruik/"
+}
