@@ -1075,6 +1075,38 @@
   "2b2053e0bc": {
    "at": "2026-10-03T17:15:59.276069",
    "why": "ok"
+  },
+  "6b4e586a8f": {
+   "at": "2026-10-03T21:10:33.018325",
+   "why": "poort"
+  },
+  "e17984123f": {
+   "at": "2026-10-03T21:10:33.018325",
+   "why": "high-risk"
+  },
+  "f1c80105d2": {
+   "at": "2026-10-03T21:10:33.018325",
+   "why": "poort"
+  },
+  "f143fce070": {
+   "at": "2026-10-03T21:10:33.018325",
+   "why": "ok"
+  },
+  "91c2390ce6": {
+   "at": "2026-10-03T21:11:33.018325",
+   "why": "poort"
+  },
+  "9a415d111d": {
+   "at": "2026-10-03T21:11:33.018325",
+   "why": "ok"
+  },
+  "ef48f9156b": {
+   "at": "2026-10-03T21:12:33.018325",
+   "why": "high-risk"
+  },
+  "b3a9a516e9": {
+   "at": "2026-10-03T21:12:33.018325",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1255,6 +1287,9 @@
   "AI veilig voor kinderen: crash-testdummies van Circuit Breaker Labs",
   "Nieuwe Siri in iOS 27 gedraagt zich bewust niet als een mens",
   "Franse supercomputer Bull moet Europese AI vooruit helpen",
-  "Splice-ceo: AI e-mails doden echte gesprekken"
+  "Splice-ceo: AI e-mails doden echte gesprekken",
+  "OpenAI veiligheidsmedewerker vertrekt: 'cultuur is kapot'",
+  "AI-agent in sms: welke assistenten leven in je berichten?",
+  "AI-hallucinaties maken klanten veeleisender: wat speelt er?"
  ]
 }

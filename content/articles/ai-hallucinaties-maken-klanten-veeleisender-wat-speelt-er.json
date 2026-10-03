@@ -1,0 +1,64 @@
+{
+ "keyword": "ai hallucinaties klantenservice",
+ "seo_title": "AI-hallucinaties klantenservice: klanten worden veeleisender",
+ "title": "AI-hallucinaties maken klanten veeleisender: wat speelt er?",
+ "meta": "AI-hallucinaties zorgen voor verkeerde informatie richting klanten. Lees wat dit betekent voor servicepersoneel en bedrijven in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "klantenservice",
+  "hallucinaties",
+  "werk",
+  "horeca"
+ ],
+ "intro": "Klanten komen steeds vaker met zelfverzekerde maar onjuiste informatie aanzetten, omdat ze die van een AI-chatbot hebben gekregen. The Verge sprak met horecapersoneel in New York dat daar last van heeft. De vraag is hoe groot dit probleem in Nederland wordt.",
+ "takeaways": [
+  "The Verge beschrijft een serveerster in New York die gasten met allergieën moet corrigeren omdat AI verkeerde informatie gaf.",
+  "AI-systemen kunnen overtuigend klinkende maar foutieve antwoorden geven, zogeheten hallucinaties.",
+  "Klanten vertrouwen die antwoorden vaak blind en worden bozer als het personeel iets anders zegt.",
+  "Voor Nederlandse bedrijven betekent dit extra uitlegwerk aan de balie, telefoon of klantenservice."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er speelt in New York",
+   "body": "The Verge sprak met Madison, een serveerster in New York. Ze vraagt elke gast aan tafel naar allergieën, voordat er iets besteld wordt. Volgens haar zeggen mensen soms dat ze een schaal- en schelpdierenallergie hebben, maar stellen ze daarna geen enkele vraag meer over het eten.\n\nDat klinkt onschuldig, maar het levert riskante situaties op. Als een gast op basis van een AI-antwoord denkt dat een gerecht veilig is, kan dat misgaan. Het personeel moet dan alsnog ingrijpen, vaak op een moment dat de gast al zeker denkt te weten hoe het zit."
+  },
+  {
+   "heading": "Waarom AI-antwoorden zo overtuigend klinken",
+   "body": "Een hallucinatie is een antwoord dat een AI-model met veel stelligheid geeft, terwijl het niet klopt. Het model vult gaten op met wat waarschijnlijk lijkt, niet met wat feitelijk juist is. Voor een lezer is dat lastig te onderscheiden van een correct antwoord, zeker als de toon zelfverzekerd is.\n\nIn de horeca komt daar iets bij: gasten gebruiken AI-chatbots steeds vaker als vraagbaak over ingrediënten, bereidingswijzen of allergenen. Het antwoord lijkt eenvoudig, maar de verantwoordelijkheid ligt nog altijd bij het restaurant. Madison vertelt dat ze geregeld moet uitleggen dat de informatie die mensen hebben gekregen niet klopt."
+  },
+  {
+   "heading": "Klanten worden veeleisender",
+   "body": "Het patroon dat The Verge beschrijft, gaat verder dan horeca. Klanten die een AI-antwoord hebben gelezen, komen met een verwachting die het bedrijf moet waarmaken of corrigeren. Soms klopt het antwoord niet, soms klopt het maar half, en soms gaat het over een regel die per vestiging verschilt.\n\nDat zet druk op medewerkers. Ze moeten niet alleen hun eigen werk doen, maar ook uitleggen waarom een chatbot iets anders beweerde. In het artikel van The Verge klinkt dat door in de houding van sommige gasten: ze zijn stellig, ook als ze het mis hebben. Het gesprek aan tafel of aan de balie wordt daardoor lastiger dan nodig."
+  }
+ ],
+ "nl_angle": "In Nederland geldt dezelfde dynamiek. Klanten gebruiken ChatGPT, Gemini of Copilot om snel iets op te zoeken over openingstijden, retourvoorwaarden, allergenen of prijzen. Klopt het antwoord niet, dan moet de baliemedewerker of klantenservice het rechtzetten. Bedrijven kunnen daarop inspelen door hun eigen informatie helder en actueel te houden, zodat een AI-chatbot minder snel hoeft te gokken. Voor werkgevers is het daarnaast verstandig om medewerkers te leren omgaan met klanten die een fout AI-antwoord komen verdedigen.",
+ "faq": [
+  {
+   "q": "Wat is een AI-hallucinatie?",
+   "a": "Een AI-hallucinatie is een antwoord dat een taalmodel met veel zekerheid geeft, maar dat feitelijk niet klopt. Het model vult ontbrekende informatie op met iets dat waarschijnlijk lijkt."
+  },
+  {
+   "q": "Hebben klanten hier in Nederland ook last van?",
+   "a": "Ja, klanten gebruiken AI-chatbots ook in Nederland voor vragen over producten, regels en openingstijden. Klopt het antwoord niet, dan moet het bedrijf dat rechtzetten."
+  },
+  {
+   "q": "Wat kunnen bedrijven eraan doen?",
+   "a": "Zorg dat je eigen informatie over producten, prijzen en voorwaarden klopt en makkelijk te vinden is. Leer medewerkers daarnaast om rustig uit te leggen waarom een AI-antwoord niet klopt."
+  }
+ ],
+ "slug": "ai-hallucinaties-maken-klanten-veeleisender-wat-speelt-er",
+ "kind": "news",
+ "date": "2026-10-03",
+ "published": "2026-10-03T21:12",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "AI hallucinations are making entitled customers even worse",
+   "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents"
+  }
+ ],
+ "path": "/nieuws/ai-hallucinaties-maken-klanten-veeleisender-wat-speelt-er/",
+ "og": "/img/og/ai-hallucinaties-maken-klanten-veeleisender-wat-speelt-er.png",
+ "take": "Mensen die hun gelijk bij een chatbot halen en daarmee bij de balie staan, daar heb ik weinig medelijden mee. Ik gebruik AI zelf elke dag, maar ik controleer wat eruit komt voordat ik er budget of een beslissing op baseer, want een model dat met volle overtuiging onzin verkoopt is precies waarom ik geld-knoppen bij een mens laat. Wie een AI-antwoord als bewijs presenteert, moet ook kunnen uitleggen waar het vandaan komt."
+}

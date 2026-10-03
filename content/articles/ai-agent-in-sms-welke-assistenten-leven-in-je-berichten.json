@@ -1,0 +1,64 @@
+{
+ "keyword": "ai agent in sms",
+ "seo_title": "AI-agent in sms: wat kun je nu al gebruiken?",
+ "title": "AI-agent in sms: welke assistenten leven in je berichten?",
+ "meta": "TechCrunch zette AI-agenten op een rij die in je sms-berichten leven. Zo werken ze, en dit betekent het voor gebruikers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ai-agenten",
+  "sms",
+  "chatgpt",
+  "techcrunch",
+  "messaging"
+ ],
+ "intro": "TechCrunch publiceerde een overzicht van AI-agenten die in je sms-berichten kunnen wonen. Het gaat om algemene assistenten en om agenten voor gezinnen, reizen en werk. Dat laat zien dat chatassistenten steeds vaker via gewone berichtenapps lopen in plaats van via een aparte app.",
+ "takeaways": [
+  "TechCrunch zette een lijst op van AI-agenten die in tekstberichten werken.",
+  "De lijst loopt van algemene assistenten tot agenten voor gezin, reis en werk.",
+  "TechCrunch noemt geen prijzen, beschikbaarheid per land of releasedata.",
+  "Of deze agenten in Nederland werken, blijkt niet uit het overzicht."
+ ],
+ "sections": [
+  {
+   "heading": "Wat TechCrunch precies op een rij zette",
+   "body": "TechCrunch maakte een lijst van de meest opvallende AI-agenten die in je tekstberichten kunnen leven. De site verdeelt ze in een paar groepen: algemene assistenten, en agenten die speciaal zijn gemaakt voor gezinnen, voor reizen en voor werk. Meer details over hoe die agenten technisch werken, geeft TechCrunch in de samenvatting niet.\n\nHet idee achter zulke agenten is simpel: je hoeft geen aparte app te openen. Je stuurt een bericht en krijgt antwoord in dezelfde berichtenapp die je al gebruikt. TechCrunch noemt in de samenvatting geen specifieke aanbieders, geen prijzen en geen landen waar de diensten beschikbaar zijn."
+  },
+  {
+   "heading": "Van algemene assistent tot gezinshulp",
+   "body": "De lijst begint bij algemene assistenten. Dat zijn agenten die je voor van alles kunt inzetten, ongeveer zoals een chatbot in een app. Daarna volgen agenten met een duidelijker doel: eentje voor het gezin, eentje voor reizen en eentje voor werk. TechCrunch noemt dat de opvallendste categorieën.\n\nWat die agenten precies kunnen, blijkt niet uit de samenvatting. TechCrunch zegt alleen dat het gaat om agenten die in je tekstberichten wonen. Of ze ook bellen, agenda's beheren of aankopen doen, is niet duidelijk uit de aangeleverde informatie."
+  },
+  {
+   "heading": "Waarom berichtenapps populair zijn voor AI",
+   "body": "Een berichtenapp is voor veel mensen de plek waar ze toch al de hele dag zitten. Een agent die daar leeft, voelt minder als een nieuw programma en meer als een contactpersoon in je lijst. TechCrunch noemt dat niet als argument, maar de opzet van de lijst wijst die kant op: de agent komt naar de app die je al gebruikt.\n\nToch roept dat vragen op. Berichtenapps zijn vaak persoonlijk, en een agent die meeleest in je sms-verkeer raakt al snel privacygevoelige informatie. TechCrunch gaat in de samenvatting niet in op privacy, beveiliging of dataopslag. Daar is dus nog niets over bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederland is het vooral afwachten. TechCrunch noemt geen beschikbaarheid per land, dus het is niet duidelijk of deze agenten hier werken. Veel AI-diensten komen eerst in de Verenigde Staten uit en later in de Europese Unie, mede door de Europese AI-regels. Werk je in Nederland met een berichtenagent, let dan op waar je gegevens terechtkomen en of de dienst onder Europese privacyregels valt. Concrete prijzen in euro's of een Nederlandse releasedatum staan niet in het overzicht.",
+ "faq": [
+  {
+   "q": "Wat is een AI-agent in je sms?",
+   "a": "Dat is een AI-assistent die je via tekstberichten aanspreekt, in plaats van via een aparte app. Je stuurt een bericht en krijgt antwoord in dezelfde berichtenapp."
+  },
+  {
+   "q": "Welke AI-agenten noemt TechCrunch?",
+   "a": "TechCrunch noemt algemene assistenten en agenten voor gezinnen, reizen en werk. Specifieke namen, prijzen of releasedata staan niet in de samenvatting."
+  },
+  {
+   "q": "Zijn deze AI-agenten in Nederland beschikbaar?",
+   "a": "Dat is niet bekend. TechCrunch noemt geen landen of beschikbaarheid per regio, dus hierover is nog niets zeker."
+  }
+ ],
+ "slug": "ai-agent-in-sms-welke-assistenten-leven-in-je-berichten",
+ "kind": "news",
+ "date": "2026-10-03",
+ "published": "2026-10-03T21:11",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "All the AI agents that can live in your text messages",
+   "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
+  }
+ ],
+ "path": "/nieuws/ai-agent-in-sms-welke-assistenten-leven-in-je-berichten/",
+ "og": "/img/og/ai-agent-in-sms-welke-assistenten-leven-in-je-berichten.png",
+ "take": "Een agent in je sms, dat betekent gewoon dat je een paar maanden moet kijken of hij het volhoudt. Ik beoordeel een account nooit op dertig dagen, want dan zie je ruis en geen trend. Zelf werk ik met Claude Code voor mijn bureau-automatisering, maar welke sms-agent in Nederland echt iets toevoegt durf ik pas te zeggen als ik twaalf tot achttien maanden aan cijfers zie."
+}

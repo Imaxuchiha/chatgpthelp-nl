@@ -1,0 +1,69 @@
+{
+ "keyword": "openai veiligheid medewerker vertrekt",
+ "seo_title": "OpenAI veiligheidsmedewerker vertrekt: cultuur kapot",
+ "title": "OpenAI veiligheidsmedewerker vertrekt: 'cultuur is kapot'",
+ "meta": "Een veiligheidsmedewerker van OpenAI stapt op en noemt de bedrijfscultuur kapot. Wat betekent dat voor gebruikers en bedrijven in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-veiligheid",
+  "ontslag",
+  "cultuur",
+  "techcrunch"
+ ],
+ "intro": "Een medewerker op de veiligheidsafdeling van OpenAI heeft zijn ontslag ingediend en zegt dat de cultuur bij het bedrijf kapot is. David Robinson noemt zichzelf volgens TechCrunch een cliché: iemand bij een toonaangevend AI-bedrijf die bij zijn vertrek een dringende waarschuwing afgeeft. Het vertrek raakt de vraag hoe serieus AI-bedrijven veiligheid nemen.",
+ "takeaways": [
+  "David Robinson werkte aan veiligheid bij OpenAI en vertrekt nu.",
+  "Hij zegt dat de cultuur bij het bedrijf kapot is.",
+  "TechCrunch meldt dat hij zichzelf een cliché noemt: waarschuwen én weggaan.",
+  "OpenAI heeft nog niet publiek gereageerd op zijn vertrek."
+ ],
+ "sections": [
+  {
+   "heading": "Wie vertrekt er bij OpenAI",
+   "body": "Het gaat om David Robinson, die volgens TechCrunch op de veiligheidsafdeling van OpenAI werkte. Hij heeft zijn ontslag ingediend en daarbij een waarschuwing afgegeven over het bedrijf.\n\nRobinson zegt zelf dat hij \"nogal een cliché\" is. Daarmee doelt hij op het patroon van medewerkers bij grote AI-bedrijven die bij hun vertrek waarschuwen voor de koers van hun werkgever. TechCrunch beschrijft hem precies zo: iemand die een dringende boodschap achterlaat terwijl hij de deur achter zich dichttrekt."
+  },
+  {
+   "heading": "Wat hij zegt over de cultuur",
+   "body": "De kern van zijn boodschap: de cultuur bij OpenAI is kapot. Dat is een zware uitspraak voor een bedrijf dat veiligheid nadrukkelijk als onderdeel van zijn missie presenteert.\n\nMeer details over wat er precies misgaat, geeft de bron niet. TechCrunch noemt geen concrete voorbeelden, geen namen van betrokken managers en geen datum waarop het vertrek inging. Wat er intern is besproken voordat hij wegging, is niet bekend."
+  },
+  {
+   "heading": "Waarom dit vaker gebeurt",
+   "body": "OpenAI is niet het eerste AI-bedrijf waar mensen die aan veiligheid werken vertrekken met een waarschuwing. Het patroon is inmiddels herkenbaar: iemand met kennis van de interne keuken stapt op en zegt dat snelheid het wint van zorgvuldigheid.\n\nVoor buitenstaanders is dat lastig te controleren. De bedrijven publiceren weinig over interne discussies, en oud-medewerkers vertellen vaak maar een deel van het verhaal. Wat overblijft is een signaal: de mensen die het dichtst bij de techniek zitten, maken zich zorgen."
+  },
+  {
+   "heading": "Wat OpenAI zelf zegt",
+   "body": "Een reactie van OpenAI op het vertrek is nog niet bekend. TechCrunch meldt alleen dat Robinson is opgestapt en wat hij zelf zegt over de reden.\n\nZolang het bedrijf niets zegt, blijft het bij één lezing van de zaak. Dat maakt het nieuws vooral een signaal, geen bewezen feitenrelaas. Voor wie OpenAI-producten gebruikt, verandert er vandaag niets aan de werking van ChatGPT."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers en bedrijven die met ChatGPT werken, is er geen directe technische impact: de dienst blijft werken. Wel is het relevant voor organisaties die AI inzetten en daarbij op veiligheid letten. Als de mensen die bij OpenAI aan veiligheid werken vertrekken met een waarschuwing, is het verstandig om niet blind te vertrouwen op één leverancier. Kijk naar eigen afspraken over datagebruik, controleer welke Europese regels gelden en houd een tweede model achter de hand. Nederlandse bedrijven die onder de AI-verordening van de EU vallen, moeten hun eigen risicoafweging toch al vastleggen, ongeacht wat er bij een leverancier speelt.",
+ "faq": [
+  {
+   "q": "Wie is David Robinson bij OpenAI?",
+   "a": "Volgens TechCrunch een medewerker op de veiligheidsafdeling van OpenAI die zijn ontslag heeft ingediend. Hij waarschuwt bij zijn vertrek voor de cultuur bij het bedrijf."
+  },
+  {
+   "q": "Wat betekent dit voor ChatGPT in Nederland?",
+   "a": "Er verandert niets aan de werking van ChatGPT. Het vertrek is een signaal over de interne cultuur bij OpenAI, niet over de beschikbaarheid van de dienst in Nederland."
+  },
+  {
+   "q": "Heeft OpenAI gereageerd op het vertrek?",
+   "a": "Een publieke reactie van OpenAI is nog niet bekend. De bron noemt alleen het vertrek en de uitspraken van Robinson zelf."
+  }
+ ],
+ "type": "json_object",
+ "slug": "openai-veiligheidsmedewerker-vertrekt-cultuur-is-kapot",
+ "kind": "news",
+ "date": "2026-10-03",
+ "published": "2026-10-03T21:10",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+   "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+  }
+ ],
+ "path": "/nieuws/openai-veiligheidsmedewerker-vertrekt-cultuur-is-kapot/",
+ "og": "/img/og/openai-veiligheidsmedewerker-vertrekt-cultuur-is-kapot.png",
+ "take": "Een veiligheidsmedewerker die bij zijn vertrek zegt dat de cultuur kapot is, dat zegt vooral iets over OpenAI en weinig over mijn advertentieaccounts. Ik beoordeel een AI-bedrijf op wat er meetbaar uitkomt, niet op hoe luid het over veiligheid praat. Zolang de cijfers onder mijn campagnes kloppen, blijft mijn mening over de rest van het bedrijf gewoon nog niet gevormd."
+}
