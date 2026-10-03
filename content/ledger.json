@@ -1059,6 +1059,22 @@
   "a84fd7ae93": {
    "at": "2026-10-03T11:17:56.852668",
    "why": "ok"
+  },
+  "d1a8128552": {
+   "at": "2026-10-03T17:13:59.276069",
+   "why": "ok"
+  },
+  "dca05253f3": {
+   "at": "2026-10-03T17:14:59.276069",
+   "why": "high-risk"
+  },
+  "3f84ab8868": {
+   "at": "2026-10-03T17:14:59.276069",
+   "why": "ok"
+  },
+  "2b2053e0bc": {
+   "at": "2026-10-03T17:15:59.276069",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1236,6 +1252,9 @@
   "Chatham gebruikt OpenAI Codex: trade-validatie van 30 naar 4 minuten",
   "Meta Muse AI gadgets: bouw je eigen slimme apparaat",
   "Sean Parker bouwt Stability AI om rond muziek",
-  "AI veilig voor kinderen: crash-testdummies van Circuit Breaker Labs"
+  "AI veilig voor kinderen: crash-testdummies van Circuit Breaker Labs",
+  "Nieuwe Siri in iOS 27 gedraagt zich bewust niet als een mens",
+  "Franse supercomputer Bull moet Europese AI vooruit helpen",
+  "Splice-ceo: AI e-mails doden echte gesprekken"
  ]
 }
