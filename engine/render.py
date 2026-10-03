@@ -136,9 +136,11 @@ gtag('set','allow_google_signals',false);gtag('set','allow_ad_personalization_si
 </html>"""
 
 
-def card(a: dict, big=False) -> str:
+def card(a: dict, big=False, kop="h3") -> str:
+    # kop: het niveau volgt de plek op de pagina. Onder een h2 een h3; direct onder de h1 (overzichtspagina's)
+    # een h2. Een h1 gevolgd door een h3 slaat een niveau over; de tagpoort (seo_tags.py) keurt dat af.
     return (f'<a class="card" href="{a["path"]}"><img src="{a["og"]}" alt="" loading="lazy" width="1200" height="630">'
-            f'<div class="b"><span class="kicker">{E(CATEGORIES[a["category"]][0])}</span><h3>{E(a["title"])}</h3>'
+            f'<div class="b"><span class="kicker">{E(CATEGORIES[a["category"]][0])}</span><{kop}>{E(a["title"])}</{kop}>'
             f'<p>{E(a["meta"])}</p><div class="meta" style="margin-top:8px">{nl_date(a["published"])}</div></div></a>')
 
 
@@ -204,7 +206,7 @@ def article_page(a: dict, all_arts: list[dict]) -> str:
 <div class="meta">{'Door Maxim · ' if is_persona else ''}{nl_date(a['published'])} · {rt} min lezen</div>
 <img class="og" src="{a['og']}" alt="" width="1200" height="630">
 <p class="intro">{inline(a.get('intro', ''))}</p>
-<div class="takeaways"><h3>In het kort</h3><ul>{take}</ul></div>
+<div class="takeaways"><h2>In het kort</h2><ul>{take}</ul></div>
 {secs}
 {nl}
 {take_box}
@@ -257,9 +259,9 @@ def home(arts: list[dict], memes: list[dict], prompts: list[dict]) -> str:
     return page(f"AI-nieuws en ChatGPT-uitleg in het Nederlands | {SITE['name']}", "Dagelijks AI-nieuws in het Nederlands: ChatGPT, OpenAI, Gemini en Claude uitgelegd, plus gratis prompts, tools en wat AI betekent voor Nederland.", "/", body, ldjson=ld, nav_on="home")
 
 
-def prompt_box(p: dict, link=False) -> str:
+def prompt_box(p: dict, link=False, kop="h3") -> str:
     title = f'<a href="{p["path"]}" style="color:inherit;text-decoration:none">{E(p["title"])}</a>' if link else E(p["title"])
-    return (f'<div class="promptbox"><span class="kicker">Prompt van de dag · {nl_date(p["date"])}</span><h3>{title}</h3>'
+    return (f'<div class="promptbox"><span class="kicker">Prompt van de dag · {nl_date(p["date"])}</span><{kop}>{title}</{kop}>'
             f'<p style="color:#c9c8c0">{E(p.get("situation", ""))}</p><pre id="p-{p["date"]}">{E(p["prompt"])}</pre>'
             f'<button class="copy" data-for="p-{p["date"]}" onclick="navigator.clipboard.writeText(document.getElementById(this.dataset.for).innerText).then(()=>{{this.textContent=\'Gekopieerd ✓\'}})">Kopieer prompt</button>'
             f'<p class="tip" style="margin-top:12px">Tip: {E(p.get("tip", ""))}</p></div>')
@@ -290,7 +292,7 @@ def listing(title: str, desc: str, path: str, arts: list[dict], nav_on: str, pg:
     h1, seo_title, seo_desc = CAT_SEO.get(nav_on, (title, title, desc))
     if pg > 1:
         h1, seo_title, seo_desc = f"{h1} (pagina {pg})", f"{seo_title} | pagina {pg}", f"Pagina {pg}: {seo_desc}"[:158]
-    body = f'<section class="block"><h1>{E(h1)}</h1><p class="meta" style="max-width:640px">{E(desc)}</p><div class="grid" style="margin-top:22px">{"".join(card(a) for a in arts)}</div></section>'
+    body = f'<section class="block"><h1>{E(h1)}</h1><p class="meta" style="max-width:640px">{E(desc)}</p><div class="grid" style="margin-top:22px">{"".join(card(a, kop="h2") for a in arts)}</div></section>'
     if not arts:
         body += "<p>Nog geen artikelen in deze rubriek. Kom morgen terug.</p>"
     if pages > 1:
@@ -328,7 +330,7 @@ def prompts_page(prompts: list[dict]) -> str:
 def prompt_page(p: dict, prompts: list[dict]) -> str:
     others = [x for x in prompts if x["date"] != p["date"]][:6]
     body = (f'<article class="post"><span class="kicker">Prompt van de dag</span><h1>{E(p["title"])}</h1><div class="meta">{nl_date(p["date"])}</div>'
-            f'{prompt_box(p)}'
+            f'{prompt_box(p, kop="h2")}'
             f'<section class="block"><h2>Meer prompts</h2><div class="more">{"".join(f"<a href={x['path']}>{E(x['title'])}</a>" for x in others)}</div></section></article>')
     return page(f"ChatGPT-prompt: {p['title']}", (f"ChatGPT-prompt om te kopiëren: {p['title']}. " + p.get("situation", ""))[:155].rsplit(" ", 1)[0], p["path"], body, f"/img/prompts/{p['date']}.png", nav_on="prompts")
 
