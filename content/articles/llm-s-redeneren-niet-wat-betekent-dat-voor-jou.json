@@ -1,0 +1,64 @@
+{
+ "keyword": "llm redeneren",
+ "seo_title": "LLM's redeneren niet: wat betekent dat?",
+ "title": "LLM's redeneren niet: wat betekent dat voor jou?",
+ "meta": "MIT Technology Review legt uit waarom taalmodellen niet echt redeneren. Wat betekent dat voor je werk en je verwachtingen in Nederland?",
+ "category": "uitleg",
+ "tags": [
+  "llm",
+  "redeneren",
+  "ai",
+  "mit",
+  "onderzoek"
+ ],
+ "intro": "Taalmodellen zoals ChatGPT geven soms antwoorden die slim lijken, maar volgens MIT Technology Review redeneren ze niet echt. De vraag is wat dat betekent voor hoe je zulke tools inzet. Het maakt uit of je een model als denkhulp of als rekenmachine behandelt.",
+ "takeaways": [
+  "MIT Technology Review stelt dat LLM's niet redeneren zoals mensen dat doen.",
+  "Een model kan een goede zet of een fout antwoord produceren zonder echte redenatie.",
+  "Voor Nederlandse gebruikers betekent dit: controleer uitkomsten, zeker bij belangrijke beslissingen.",
+  "De discussie raakt aan hoe je AI inzet op werk, school en in bedrijven."
+ ],
+ "sections": [
+  {
+   "heading": "Wat MIT Technology Review zegt",
+   "body": "MIT Technology Review publiceerde op 2 oktober 2026 een stuk met de titel \"Don't be fooled—LLMs don't reason\". De auteur beschrijft een moment in Seoul in maart 2016, tijdens de beroemde Go-wedstrijd. Hij zag een programma dat hij mede had gebouwd een steen op de vijfde lijn zetten. Die zet, nummer 37 in de tweede partij van vijf, leek zo vreemd dat sommige commentatoren dachten aan een fout.\n\nVolgens het artikel is dat gevoel misleidend. Een taalmodel kan indrukwekkende zetten of antwoorden produceren zonder dat daar een menselijk soort redenering achter zit. Het patroon ziet er slim uit, maar dat maakt het nog geen begrip.\n\nDe kern van het stuk is een waarschuwing: verwar het nabootsen van redeneren niet met echt redeneren. Dat onderscheid is belangrijk zodra je zulke systemen inzet voor taken waar fouten geld of veiligheid kosten."
+  },
+  {
+   "heading": "Waarom het verschil uitmaakt",
+   "body": "Als een model niet redeneert, dan kun je niet vertrouwen op de logica die het presenteert. Het kan een overtuigend verhaal ophangen dat toch niet klopt. In de praktijk betekent dat: een antwoord van ChatGPT is een voorstel, geen bewijs.\n\nDat raakt aan hoe bedrijven AI gebruiken. Een model dat een contract samenvat of een factuur controleert, kan een fout maken die je niet direct ziet. Zonder controle achteraf loop je risico. De MIT-bijdrage sluit aan bij een bredere discussie over wat deze systemen wel en niet kunnen.\n\nVoor ontwikkelaars betekent het dat je niet moet bouwen op de aanname dat een model zelf fouten vindt. Je hebt aparte controles nodig, zoals het narekenen van cijfers of het checken van bronnen."
+  },
+  {
+   "heading": "Hoe je er in de praktijk mee omgaat",
+   "body": "Gebruik een taalmodel als hulpmiddel, niet als orakel. Laat het opties geven, maar neem het eindbesluit zelf. Vraag om tussenstappen en controleer die. Bij cijfers, wetgeving of medische vragen: zoek een echte bron.\n\nDat is geen reden om de tools weg te doen. Het is een reden om je verwachting bij te stellen. Een model dat snel tekst maakt, is nuttig. Een model dat zegt dat iets waar is, is nog geen bewijs.\n\nIn Nederland zie je dezelfde discussie op school en op het werk. Docenten en werkgevers vragen zich af waar je op mag vertrouwen. Het antwoord is simpel: op het model niet, op je eigen controle wel."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders die ChatGPT of Copilot dagelijks gebruiken, betekent dit vooral: blijf opletten. Of je nu een offerte laat opstellen, een script laat schrijven of een samenvatting van een Nederlands rapport vraagt, de uitkomst kan fout zijn zonder dat het er zo uitziet. Bij werk waar geld of veiligheid aan hangt, zoals boekhouding, juridisch advies of zorg, is een tweede controle geen luxe. Scholen en bedrijven in Nederland die AI invoeren, doen er goed aan om afspraken te maken over wie het eindantwoord controleert. De tool versnelt het werk, maar de verantwoordelijkheid blijft bij de mens.",
+ "faq": [
+  {
+   "q": "Redeneren LLM's echt?",
+   "a": "Volgens MIT Technology Review niet. Ze kunnen antwoorden produceren die op redeneren lijken, maar er zit geen menselijk soort begrip achter."
+  },
+  {
+   "q": "Moet ik ChatGPT dan niet meer gebruiken?",
+   "a": "Je kunt het blijven gebruiken als hulpmiddel. Het advies is om uitkomsten te controleren, zeker bij cijfers, wetgeving of belangrijke beslissingen."
+  },
+  {
+   "q": "Wat betekent dit voor bedrijven in Nederland?",
+   "a": "Bedrijven doen er goed aan om vast te leggen wie AI-uitkomsten controleert. Zonder die controle kunnen fouten ongemerkt doorwerken in processen."
+  }
+ ],
+ "slug": "llm-s-redeneren-niet-wat-betekent-dat-voor-jou",
+ "kind": "news",
+ "date": "2026-10-04",
+ "published": "2026-10-04T11:55",
+ "sources": [
+  {
+   "name": "MIT Technology Review",
+   "title": "Don’t be fooled—LLMs don’t reason",
+   "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
+  }
+ ],
+ "path": "/uitleg/llm-s-redeneren-niet-wat-betekent-dat-voor-jou/",
+ "og": "/img/og/llm-s-redeneren-niet-wat-betekent-dat-voor-jou.png",
+ "take": "Een model dat overtuigend klinkt is nog geen model dat rekent, en dat verschil merk ik elke dag in mijn eigen scripts. Ik zet zo'n ding op teksten en analyses, waar ik de uitkomst kan nameten, en niet op de vraag of een campagne aan of uit moet. Wie het als rekenmachine behandelt, krijgt spijt."
+}

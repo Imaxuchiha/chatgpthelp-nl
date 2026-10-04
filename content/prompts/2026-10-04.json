@@ -1,0 +1,15 @@
+{
+ "title": "Declaratie voorbereiden bij je werkgever",
+ "situation": "Je hebt kosten gemaakt voor je werk die je wilt terugvragen, maar je weet niet precies hoe je dat netjes en volledig op papier zet. Deze prompt helpt je een overtuigende declaratie op te stellen.",
+ "prompt": "Je bent een ervaren office manager die declaraties beoordeelt. Ik wil [BEDRAG IN EURO] terugvragen van mijn werkgever voor [SOORT KOSTEN, bijv. reiskosten, thuiswerkmateriaal, cursus]. De kosten zijn gemaakt op [DATUM] en ik heb [WEL/GEEN] bonnetjes. Schrijf een korte, zakelijke e-mail aan mijn leidinggevende [NAAM] waarin ik de kosten uitleg, het bedrag noem en vraag om vergoeding volgens [REGELING OF CAO, of: onze gebruikelijke declaratieregels]. Voeg een overzichtelijke opsomming toe met datum, omschrijving en bedrag. Houd de toon vriendelijk maar professioneel. Sluit af met een concrete vraag: binnen welke termijn kan de vergoeding worden overgemaakt? Geef ook een korte tip als er iets ontbreekt.",
+ "tip": "Vul de exacte cao-regeling of het personeelshandboek in, dan verwijst de e-mail meteen naar de juiste afspraak.",
+ "tags": [
+  "werk",
+  "declaratie",
+  "administratie",
+  "e-mail"
+ ],
+ "date": "2026-10-04",
+ "slug": "declaratie-voorbereiden-bij-je-werkgever",
+ "path": "/prompts/2026-10-04-declaratie-voorbereiden-bij-je-werkgever/"
+}

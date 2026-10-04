@@ -1,0 +1,23 @@
+{
+ "top": "Assistent vraagt of ik het even rustig aan wil doen",
+ "bottom": "Hij zit zelf de hele dag aan zijn tokenlimiet",
+ "alt": "Een chatbot die zelf overbelast is, adviseert de gebruiker rustiger aan te doen.",
+ "hashtags": [
+  "#AIhumor",
+  "#ChatGPT",
+  "#werkdruk"
+ ],
+ "top_en": "My AI assistant told me to pace myself today",
+ "bottom_en": "Says the one who hits a rate limit every afternoon",
+ "alt_en": "The assistant warns about burnout while it is the one constantly running out of capacity.",
+ "hashtags_en": [
+  "#AIhumor",
+  "#ChatGPT",
+  "#burnout"
+ ],
+ "date": "2026-10-04",
+ "img": "/img/memes/2026-10-04.png",
+ "img_en": "/img/memes/2026-10-04-en.png",
+ "bsky_nl": "at://did:plc:c4k5u5woydb62sge4emyqrfj/app.bsky.feed.post/3mx254xbrxr2r",
+ "bsky_en": "at://did:plc:c4k5u5woydb62sge4emyqrfj/app.bsky.feed.post/3mx254yt7ck2j"
+}

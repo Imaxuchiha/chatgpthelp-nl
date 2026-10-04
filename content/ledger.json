@@ -1107,6 +1107,30 @@
   "b3a9a516e9": {
    "at": "2026-10-03T21:12:33.018325",
    "why": "ok"
+  },
+  "5336f443b9": {
+   "at": "2026-10-04T11:54:41.781232",
+   "why": "poort"
+  },
+  "d26cbd1795": {
+   "at": "2026-10-04T11:54:41.781232",
+   "why": "poort"
+  },
+  "fc1c6e2793": {
+   "at": "2026-10-04T11:54:41.781232",
+   "why": "ok"
+  },
+  "c4d9a25e0d": {
+   "at": "2026-10-04T11:55:41.781232",
+   "why": "poort"
+  },
+  "5a3c2fdeff": {
+   "at": "2026-10-04T11:55:41.781232",
+   "why": "ok"
+  },
+  "3f1d1537d7": {
+   "at": "2026-10-04T11:56:41.781232",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1290,6 +1314,9 @@
   "Splice-ceo: AI e-mails doden echte gesprekken",
   "OpenAI veiligheidsmedewerker vertrekt: 'cultuur is kapot'",
   "AI-agent in sms: welke assistenten leven in je berichten?",
-  "AI-hallucinaties maken klanten veeleisender: wat speelt er?"
+  "AI-hallucinaties maken klanten veeleisender: wat speelt er?",
+  "Nvidia Shield TV Pro wordt $100 duurder door AI-geheugentekort",
+  "LLM's redeneren niet: wat betekent dat voor jou?",
+  "OpenAI ontslaat drie veiligheidsonderzoekers na intern onderzoek"
  ]
 }
