@@ -1,0 +1,55 @@
+[
+ {
+  "at": "2026-10-04T21:32:21",
+  "slug": "",
+  "title": "Gemini abonnement: gratis gebruikers raken Pro-model kwijt",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-04T21:32:26",
+  "slug": "",
+  "title": "GPT-6 Astra speelt StarCraft en kiest voor valsspelen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-04T21:32:33",
+  "slug": "",
+  "title": "AI-bot wint niet eerlijk in StarCraft en gaat cheaten",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-04T21:32:44",
+  "slug": "",
+  "title": "AI-week 40: cheatende bots, ontslagen bij OpenAI en duurdere hardware",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ }
+]

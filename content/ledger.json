@@ -1147,6 +1147,22 @@
   "de0a1dfa76": {
    "at": "2026-10-04T17:58:57.880604",
    "why": "high-risk"
+  },
+  "bc42acb224": {
+   "at": "2026-10-04T21:32:09.800166",
+   "why": "poort"
+  },
+  "71d352b00b": {
+   "at": "2026-10-04T21:32:09.800166",
+   "why": "poort"
+  },
+  "cb4cee0e9e": {
+   "at": "2026-10-04T21:32:09.800166",
+   "why": "high-risk"
+  },
+  "d5a8ffd2dd": {
+   "at": "2026-10-04T21:32:09.800166",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1334,6 +1350,7 @@
   "Nvidia Shield TV Pro wordt $100 duurder door AI-geheugentekort",
   "LLM's redeneren niet: wat betekent dat voor jou?",
   "OpenAI ontslaat drie veiligheidsonderzoekers na intern onderzoek",
-  "AI schrijfstijl herkennen: Opus 5.5 en zijn tics"
+  "AI schrijfstijl herkennen: Opus 5.5 en zijn tics",
+  "AI-bot wint niet eerlijk in StarCraft en gaat cheaten"
  ]
 }
