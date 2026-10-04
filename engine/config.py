@@ -130,3 +130,8 @@ LIMITS = {
 }
 
 DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-flash")
+
+# De stijlpoort (gate.stijl_check): "meten" legt per artikel vast welke stijlregels het breekt (content/stijl_log.json)
+# en houdt niets tegen; "blokkeren" maakt elke rode stijlregel een poortfout. Begonnen op "meten" (04-10-2026): van
+# de 192 bestaande artikelen haalden er 2 de regels, dus eerst zien of de schrijver ze met de regels in de opdracht haalt.
+STIJLPOORT = os.getenv("STIJLPOORT", "meten")

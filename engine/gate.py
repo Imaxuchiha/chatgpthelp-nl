@@ -3,10 +3,18 @@ onvoorwaardelijk). Regels: lengte, titel/meta, Nederlands, geen hype-clichés, g
 bronnen, geen verzonnen getallen, dedup tegen eerdere titels."""
 from __future__ import annotations
 
+import datetime
+import json
 import re
+from pathlib import Path
 
+from . import config
+from . import seo_stijl as St
 from .config import ENGLISH_MARKERS, FORBIDDEN_PHRASES, LIMITS
 from .fetch import jaccard, tokens
+
+STIJL_LOG = Path(__file__).resolve().parents[1] / "content" / "stijl_log.json"
+STIJL_LOG_MAX = 500
 
 
 def word_count(text: str) -> int:
@@ -135,4 +143,37 @@ def check_article(art: dict, sources_text: str, previous_titles: list[str], kind
             break
     if not art.get("category"):
         errs.append("geen categorie")
+    rood = stijl_check(art)
+    andere = len(errs)
+    if config.STIJLPOORT == "blokkeren":
+        errs += [f"stijlpoort {c}: {m}" for c, m in rood]
+    _log_stijl(art, kind, rood, andere)
     return errs
+
+
+def stijl_check(art: dict) -> list[tuple[str, str]]:
+    """De stijlpoort van de SEO-motor (engine/seo_stijl.py, een kopie van adsvantage-fleet/scripts/seo_stijl.py die
+    een test daar gelijk houdt): de algemene regels S1 tot S14, zoals geen gedachtestreepjes, geen holle woorden, geen
+    'niet X maar Y' en afwisselende zinnen. De eisen voor eigen blogs (een ik- of wij-zin, geen dubbele punt in de
+    titel) gelden niet voor nieuws. Geeft de rode bevindingen als (code, melding)."""
+    alineas = [art.get("intro", "")] + [s.get("body", "") for s in art.get("sections") or []] \
+        + [art.get("nl_angle", "")] + [f.get("a", "") for f in art.get("faq") or []]
+    koppen = [s.get("heading", "") for s in art.get("sections") or []]
+    r = St.toets([a for a in alineas if isinstance(a, str) and a.strip()], "sectie", title=art.get("title", ""),
+                 h1=art.get("title", ""), koppen=koppen)
+    return [(c, m) for e, c, m in r["bevindingen"] if e == St.ROOD]
+
+
+def _log_stijl(art: dict, kind: str, rood: list, andere_fouten: int) -> None:
+    """Meting: welke stijlregels breekt dit artikel. Een mislukte meting houdt niets tegen."""
+    try:
+        try:
+            log = json.loads(STIJL_LOG.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            log = []
+        log.append({"at": datetime.datetime.now().isoformat(timespec="seconds"), "slug": art.get("slug") or "",
+                    "title": (art.get("title") or "")[:90], "kind": kind, "rood": sorted({c for c, _m in rood}),
+                    "andere_fouten": andere_fouten, "stand": config.STIJLPOORT})
+        STIJL_LOG.write_text(json.dumps(log[-STIJL_LOG_MAX:], ensure_ascii=False, indent=1), encoding="utf-8")
+    except OSError:
+        pass

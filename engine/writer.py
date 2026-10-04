@@ -8,12 +8,28 @@ from __future__ import annotations
 
 import json
 
+from . import seo_stijl as St
 from .config import CATEGORIES, FORBIDDEN_PHRASES, SITE
 from .llm import ask_json
 
 CATS = ", ".join(f"{k} ({v[0]})" for k, v in CATEGORIES.items())
 # exact dezelfde lijst als de poort (gate.py), zodat het model weet wat afgekeurd wordt
 BANNED = "; ".join(f'"{p.strip()}"' for p in FORBIDDEN_PHRASES)
+# De regels van de stijlpoort (gate.stijl_check), letterlijk uit seo_stijl opgebouwd: poort en opdracht lopen zo nooit
+# uit elkaar. Alleen de algemene regels; een ik- of wij-zin vragen we bij nieuws niet.
+STIJLREGELS = (
+    "Stijl (een poort toetst dit letterlijk):\n"
+    "- Geen gedachtestreepje (ook geen ' - ' tussen woorden), geen uitroepteken, geen emoji.\n"
+    f"- Gemiddeld hooguit {St.MAX_GEMIDDELD} woorden per zin. Wissel lange en korte zinnen af: binnen elke "
+    f"{St.VENSTER_KORT} woorden staat minstens één zin van hooguit {St.KORTE_ZIN} woorden, en nooit vier zinnen op rij "
+    "van bijna dezelfde lengte.\n"
+    "- Nooit de constructie 'niet X maar Y' of 'geen X maar Y': zeg wat het wél is.\n"
+    f"- Hooguit één opsomming van precies drie dingen ('A, B en C') per {St.DRIESLAG_PER} woorden.\n"
+    f"- Hooguit {St.MAX_ZINNEN_ALINEA} zinnen per alinea. Twee alinea's na elkaar beginnen nooit met dezelfde twee "
+    f"woorden. Hooguit één alinea begint met een van deze woorden: {', '.join(St.OPENERS)}.\n"
+    f"- De laatste alinea vat niet samen en begint niet met: {', '.join(St.SLOTWOORDEN)}.\n"
+    f"- Deze woorden en zinsdelen komen nergens voor: {', '.join(t.rstrip('*') for t in St.HOL)}."
+)
 
 STYLE = f"""Je bent de redactie van {SITE['name']} ({SITE['domain']}), een Nederlandse nieuws- en
 informatiesite over ChatGPT en AI voor gewone mensen en professionals in Nederland.
@@ -33,6 +49,9 @@ Schrijfregels (hard):
 - Nederlandse spelling (Groene Boekje), geen Engelse woorden waar een Nederlands woord bestaat.
 - Titels: concreet en informatief, geen clickbait, geen vraag als het antwoord één woord is, max 70 tekens.
 Categorieën: {CATS}.
+
+{STIJLREGELS}
+
 Antwoord ALTIJD met één JSON-object, zonder tekst eromheen."""
 
 ARTICLE_SCHEMA = """{
