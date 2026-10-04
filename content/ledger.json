@@ -1131,6 +1131,22 @@
   "3f1d1537d7": {
    "at": "2026-10-04T11:56:41.781232",
    "why": "ok"
+  },
+  "bfb9524f7b": {
+   "at": "2026-10-04T17:57:57.880604",
+   "why": "poort"
+  },
+  "76e51f3d8d": {
+   "at": "2026-10-04T17:57:57.880604",
+   "why": "high-risk"
+  },
+  "eddd674147": {
+   "at": "2026-10-04T17:57:57.880604",
+   "why": "ok"
+  },
+  "de0a1dfa76": {
+   "at": "2026-10-04T17:58:57.880604",
+   "why": "high-risk"
   }
  },
  "published_titles": [
@@ -1317,6 +1333,7 @@
   "AI-hallucinaties maken klanten veeleisender: wat speelt er?",
   "Nvidia Shield TV Pro wordt $100 duurder door AI-geheugentekort",
   "LLM's redeneren niet: wat betekent dat voor jou?",
-  "OpenAI ontslaat drie veiligheidsonderzoekers na intern onderzoek"
+  "OpenAI ontslaat drie veiligheidsonderzoekers na intern onderzoek",
+  "AI schrijfstijl herkennen: Opus 5.5 en zijn tics"
  ]
 }

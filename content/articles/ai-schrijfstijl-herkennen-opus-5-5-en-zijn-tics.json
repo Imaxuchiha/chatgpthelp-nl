@@ -1,0 +1,68 @@
+{
+ "keyword": "ai schrijfstijl herkennen",
+ "seo_title": "AI schrijfstijl herkennen: Opus 5.5 en zijn tics",
+ "title": "AI schrijfstijl herkennen: Opus 5.5 en zijn tics",
+ "meta": "AI schrijfstijl herkennen wordt makkelijker: Opus 5.5 gebruikt 'dependable' 23 keer vaker dan mensen. Lees welke woorden verraden dat een tekst van AI…",
+ "category": "nieuws",
+ "tags": [
+  "opus 5.5",
+  "ai schrijfstijl",
+  "ai detectie",
+  "chatgpt",
+  "taalmodellen"
+ ],
+ "intro": "Taalmodellen hebben herkenbare tics. TechCrunch meldt dat Opus 5.5 het woord \"dependable\" 23 keer vaker gebruikt dan menselijke teksten. Dat maakt het makkelijker om te zien of een tekst door AI is geschreven.",
+ "takeaways": [
+  "Opus 5.5 gebruikt \"dependable\" 23 keer vaker dan menselijke voorbeelden, meldt TechCrunch.",
+  "Het model zegt graag dat iets \"this matters\" is, een terugkerende schrijftic.",
+  "Zulke tics helpen bij het herkennen van AI-teksten, maar zijn geen waterdicht bewijs.",
+  "Nederlandse lezers merken zulke Engelse tics vooral in vertaalde of Engelstalige AI-teksten."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Opus 5.5 verraadt",
+   "body": "TechCrunch analyseerde teksten van Opus 5.5 en vergeleek die met menselijke voorbeelden. Het opvallendste signaal: het woord \"dependable\" komt 23 keer vaker voor dan bij mensen. Dat is geen toeval, maar een patroon dat het model telkens herhaalt.\n\nDaarnaast heeft Opus 5.5 de neiging om te benadrukken dat iets belangrijk is. De formulering \"this matters\" duikt steeds op, vaak zonder dat de tekst uitlegt waarom iets belangrijk zou zijn. Het model lijkt daarmee een gevoel van urgentie te willen toevoegen.\n\nZulke terugkerende woorden en zinnen noemen onderzoekers schrijftics. Elk model heeft ze. Bij het ene model is het een stopwoord, bij het andere een vaste manier om een alinea te openen."
+  },
+  {
+   "heading": "Waarom dit uitmaakt",
+   "body": "AI-teksten worden steeds vaker ingezet voor nieuwsbrieven, websiteteksten en klantmails. Als een model vaste woorden blijft herhalen, valt dat op. Lezers kunnen daardoor sneller vermoeden dat een tekst niet door een mens is geschreven.\n\nVoor redacties en marketeers is dat relevant. Een tekst die vol staat met dezelfde tics voelt minder geloofwaardig. Wie AI gebruikt als hulpmiddel, doet er goed aan om zulke herhalingen eruit te halen voordat de tekst naar buiten gaat.\n\nTegelijk is een tic geen bewijs. Mensen hebben ook stopwoorden. Een enkele keer \"dependable\" zegt niets. Het patroon, in combinatie met andere signalen, zegt meer."
+  },
+  {
+   "heading": "Hoe je AI-teksten herkent",
+   "body": "Let op woorden die vaker terugkomen dan nodig. Tel hoe vaak eenzelfde bijvoeglijk naamwoord opduikt in een alinea. Kijk ook naar zinnen die iets belangrijk noemen zonder uitleg te geven.\n\nEen tweede signaal is ritme. AI-teksten hebben vaak alinea's van vergelijkbare lengte en zinnen met dezelfde opbouw. Mensen wisselen meer af, ook in lengte.\n\nEen derde signaal is vaagheid. Het model zegt dat iets \"belangrijk\" is, maar noemt geen concreet cijfer, voorbeeld of bron. Wie scherp leest, ziet het verschil."
+  },
+  {
+   "heading": "Wat dit betekent voor AI-gebruik",
+   "body": "De bevinding laat zien dat modellen niet neutraal schrijven. Ze hebben voorkeuren die per versie verschillen. Opus 5.5 kiest vaker voor \"dependable\", een ander model heeft weer een andere favoriet.\n\nVoor wie AI inzet, betekent dat: lees de uitvoer na en schrap herhalingen. Een korte check op stopwoorden scheelt al veel. Zo blijft de tekst van jou, niet van het model."
+  }
+ ],
+ "nl_angle": "In Nederland gebruiken steeds meer bedrijven en freelancers AI voor teksten. De tics van Opus 5.5 zijn Engelstalig, maar ze sijpelen door in vertaalde content. Wie een Nederlandse tekst laat vertalen uit het Engels, krijgt soms dezelfde herhalingen terug. Het advies is simpel: lees na, schrap stopwoorden en voeg eigen voorbeelden toe. Op die manier blijft de tekst herkenbaar menselijk, ook als AI meeschreef.",
+ "faq": [
+  {
+   "q": "Welk woord gebruikt Opus 5.5 te vaak?",
+   "a": "Volgens TechCrunch is dat \"dependable\". Het model gebruikt het 23 keer vaker dan in menselijke teksten."
+  },
+  {
+   "q": "Is een AI-tic bewijs dat een tekst door AI is geschreven?",
+   "a": "Nee. Mensen hebben ook stopwoorden. Pas een patroon van meerdere tics samen zegt iets over de herkomst."
+  },
+  {
+   "q": "Hoe herken ik AI-teksten in het Nederlands?",
+   "a": "Let op herhaalde bijvoeglijke naamwoorden, zinnen die iets belangrijk noemen zonder uitleg, en alinea's die allemaal even lang zijn."
+  }
+ ],
+ "slug": "ai-schrijfstijl-herkennen-opus-5-5-en-zijn-tics",
+ "kind": "news",
+ "date": "2026-10-04",
+ "published": "2026-10-04T17:57",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+   "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"
+  }
+ ],
+ "path": "/nieuws/ai-schrijfstijl-herkennen-opus-5-5-en-zijn-tics/",
+ "og": "/img/og/ai-schrijfstijl-herkennen-opus-5-5-en-zijn-tics.png",
+ "take": "Dat een model vaker 'dependable' zegt dan een mens, geloof ik meteen, want AI-tekst die als AI leest werkt gewoon niet. Ik lees AI-tekst altijd terug aan een klant en herschrijf hem tot hij klinkt als iemand die iets te verkopen heeft. Wie zulke tics wil gebruiken om teksten af te keuren, moet wel weten dat een woord alleen nog geen slechte tekst maakt."
+}
