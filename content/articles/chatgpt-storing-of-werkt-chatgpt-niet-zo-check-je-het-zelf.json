@@ -1,0 +1,70 @@
+{
+ "keyword": "chatgpt storing",
+ "seo_title": "ChatGPT storing: check of ChatGPT werkt en wat je doet",
+ "title": "ChatGPT storing of werkt ChatGPT niet? Zo check je het zelf",
+ "meta": "ChatGPT storing of werkt ChatGPT niet? Check of het aan OpenAI ligt of aan jouw verbinding, account of browser. Met stappen die je direct kunt doen.",
+ "category": "uitleg",
+ "tags": [
+  "chatgpt",
+  "storing",
+  "problemen oplossen",
+  "openai",
+  "internet"
+ ],
+ "intro": "ChatGPT storing komt voor. Soms ligt het aan OpenAI, soms aan je eigen verbinding, browser of account. Je leert hier hoe je het verschil ziet en wat je zelf kunt doen.",
+ "takeaways": [
+  "Een storing bij OpenAI raakt meestal veel gebruikers tegelijk, in meerdere landen.",
+  "Een foutmelding of trage reactie betekent niet automatisch dat ChatGPT stuk is.",
+  "Met een paar checks weet je binnen enkele minuten of het aan jou ligt.",
+  "Een tweede account of een andere browser is een snelle test."
+ ],
+ "sections": [
+  {
+   "heading": "Eerst checken: ligt het aan ChatGPT of aan jou",
+   "body": "Begin met de vraag of alleen jij last hebt, of iedereen. Vraag een collega, huisgenoot of vriend die ChatGPT ook gebruikt. Werkt het bij hen wel, dan zit het probleem waarschijnlijk aan jouw kant.\n\nWerkt het bij meerdere mensen niet, dan is een storing bij OpenAI aannemelijk. OpenAI meldt zulke problemen op een eigen statuspagina. Daar zie je per onderdeel of er iets misgaat. Denk aan inloggen, chatten of de app.\n\nOok handig: kijk op sociale media of forums. Bij een echte storing verschijnen binnen enkele minuten veel klachten. Zie je die niet, dan is de kans groot dat het lokaal zit."
+  },
+  {
+   "heading": "Je eigen verbinding en apparaat testen",
+   "body": "Open een andere website. Lukt dat niet, dan is je internet de boosdoener. Herstart je router en probeer het opnieuw. Werkt alleen ChatGPT niet, dan ligt het niet aan je hele verbinding.\n\nTest daarna een ander apparaat. Lukt ChatGPT op je telefoon wel en op je laptop niet, dan zit het in je browser of laptop. Probeer een andere browser of een incognitovenster. Dat sluit veel uit.\n\nWis eventueel cookies en cache van je browser. Soms blijft een oude sessie hangen. Uitloggen en opnieuw inloggen lost dat vaak op. Let wel op dat je je wachtwoord bij de hand hebt."
+  },
+  {
+   "heading": "Account, abonnement en inlogproblemen",
+   "body": "Soms werkt ChatGPT niet door iets met je account. Ben je uitgelogd zonder reden? Dan kan een sessie verlopen zijn. Log opnieuw in en kijk of het probleem weg is.\n\nKrijg je een melding over je limiet? Dan heb je je gebruikslimiet bereikt. Dat is geen storing. Wacht tot de limiet reset of gebruik een ander model als dat kan.\n\nEen geblokkeerd account geeft ook fouten. Neem dan contact op met de support van OpenAI. Zij kunnen zien wat er met je account aan de hand is."
+  },
+  {
+   "heading": "Wat je kunt doen tijdens een storing",
+   "body": "Bij een storing kun je weinig doen aan de kant van OpenAI. Probeer het later opnieuw. Grote storingen worden meestal binnen een paar uur opgelost.\n\nGebruik ondertussen een alternatief. Denk aan Copilot van Microsoft, Claude van Anthropic of Gemini van Google. Die werken vaak wel. Zo kun je toch doorwerken.\n\nBewaar je chatgeschiedenis lokaal als je die nodig hebt. Kopieer belangrijke antwoorden naar een document. Dan ben je niet afhankelijk van de dienst op dat moment."
+  },
+  {
+   "heading": "Zo check je het met een gerichte prompt",
+   "body": "Je kunt ChatGPT zelf vragen om je te helpen bij een storing. Dat klinkt tegenstrijdig, maar het werkt als de chat nog wel reageert. Gebruik dan deze prompt letterlijk:\n\n\"Ik krijg een foutmelding bij ChatGPT. Wat zijn de drie meest voorkomende oorzaken en wat kan ik stap voor stap doen?\"\n\nKrijg je antwoord, dan werkt de chat dus nog. Gaat het mis bij het laden, dan is de storing waarschijnlijk bij OpenAI. Probeer het dan later opnieuw."
+  }
+ ],
+ "nl_angle": "In Nederland gebruiken veel mensen ChatGPT voor werk, studie en privé. Een storing valt vaak samen met piekmomenten, bijvoorbeeld op werkdagen tussen negen en vijf. Voor bedrijven die ChatGPT in hun proces hebben, is het verstandig om een alternatief achter de hand te houden. Zo voorkom je dat je werk stil komt te liggen.",
+ "faq": [
+  {
+   "q": "Hoe weet ik of ChatGPT een storing heeft?",
+   "a": "Check de statuspagina van OpenAI en vraag of anderen hetzelfde probleem hebben. Werkt het bij meerdere mensen niet, dan is het waarschijnlijk een storing."
+  },
+  {
+   "q": "ChatGPT werkt niet, wat kan ik zelf doen?",
+   "a": "Herstart je router, probeer een andere browser of incognitovenster en log opnieuw in. Test ook een ander apparaat om te zien of het aan jouw kant zit."
+  },
+  {
+   "q": "Ligt het aan mijn account als ChatGPT niet werkt?",
+   "a": "Soms wel. Een verlopen sessie, limiet of blokkade kan het probleem zijn. Log opnieuw in en neem contact op met support als het aanhoudt."
+  },
+  {
+   "q": "Hoelang duurt een storing bij ChatGPT?",
+   "a": "Dat verschilt per storing. Kleine problemen zijn vaak binnen een uur opgelost, grotere kunnen enkele uren duren. Probeer het regelmatig opnieuw."
+  }
+ ],
+ "slug": "chatgpt-storing-of-werkt-chatgpt-niet-zo-check-je-het-zelf",
+ "kind": "evergreen",
+ "date": "2026-10-05",
+ "published": "2026-10-05T12:36",
+ "sources": [],
+ "path": "/uitleg/chatgpt-storing-of-werkt-chatgpt-niet-zo-check-je-het-zelf/",
+ "og": "/img/og/chatgpt-storing-of-werkt-chatgpt-niet-zo-check-je-het-zelf.png",
+ "seed": "ChatGPT storing of werkt ChatGPT niet? Zo check je het en dit kun je zelf doen"
+}

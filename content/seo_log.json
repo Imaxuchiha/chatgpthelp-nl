@@ -1,4 +1,18 @@
 {
- "changes": [],
+ "changes": [
+  {
+   "at": "2026-10-05T12:37",
+   "path": "/nieuws/meta-lanceert-abonnementen-met-ai-en-sociale-media/",
+   "imp": 38,
+   "clicks": 0,
+   "pos": 7.2,
+   "old_title": "Meta One abonnement: AI en sociale media in één bundel",
+   "new_title": "Social media abonnement: Meta One bundelt apps en AI",
+   "old_meta": "Meta lanceert wereldwijd Meta One: abonnementen die sociale media combineren met extra AI-gebruik, met tiers voor particulieren, creators en bedrijven.",
+   "new_meta": "Meta lanceert Meta One: een social media abonnement dat apps bundelt met extra AI-gebruik, in tiers voor particulieren, creators en bedrijven.",
+   "faq_added": true,
+   "reden": "De zoekterm 'social media abonnement' staat vooraan in de title en de meta legt direct uit wat Meta One bundelt, wat de klik vanaf positie 6 tot 8 moet opleveren."
+  }
+ ],
  "seeded": []
 }

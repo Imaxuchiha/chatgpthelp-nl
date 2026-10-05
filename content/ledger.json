@@ -1163,6 +1163,18 @@
   "d5a8ffd2dd": {
    "at": "2026-10-04T21:32:09.800166",
    "why": "ok"
+  },
+  "12559e0388": {
+   "at": "2026-10-05T12:36:58.296698",
+   "why": "ok"
+  },
+  "3cbec84de8": {
+   "at": "2026-10-05T12:37:58.296698",
+   "why": "ok"
+  },
+  "f39e63dca1": {
+   "at": "2026-10-05T12:38:58.296698",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1351,6 +1363,9 @@
   "LLM's redeneren niet: wat betekent dat voor jou?",
   "OpenAI ontslaat drie veiligheidsonderzoekers na intern onderzoek",
   "AI schrijfstijl herkennen: Opus 5.5 en zijn tics",
-  "AI-bot wint niet eerlijk in StarCraft en gaat cheaten"
+  "AI-bot wint niet eerlijk in StarCraft en gaat cheaten",
+  "Noorwegen verbiedt AI-brillen tijdelijk op drukke plekken",
+  "ChatGPT advertenties: OpenAI voegt visueel formaat toe",
+  "AI en nepnieuws: nobelprijswinnaar Ressa waarschuwt"
  ]
 }

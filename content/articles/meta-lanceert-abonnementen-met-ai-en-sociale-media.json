@@ -1,6 +1,6 @@
 {
  "title": "Meta lanceert abonnementen met AI en sociale media",
- "meta": "Meta lanceert wereldwijd Meta One: abonnementen die sociale media combineren met extra AI-gebruik, met tiers voor particulieren, creators en bedrijven.",
+ "meta": "Meta lanceert Meta One: een social media abonnement dat apps bundelt met extra AI-gebruik, in tiers voor particulieren, creators en bedrijven.",
  "category": "nieuws",
  "tags": [
   "meta",
@@ -47,6 +47,10 @@
   {
    "q": "Wat heeft Muse met Meta One te maken?",
    "a": "Muse is de nieuwe AI-assistent van Meta. Meta One bundelt extra gebruik van die assistent met bestaande app-abonnementen."
+  },
+  {
+   "q": "Wat is een social media abonnement van Meta?",
+   "a": "Meta One is een bundel die abonnementen op losse Meta-apps combineert met extra AI-gebruik. Er zijn varianten voor particulieren, creators en bedrijven."
   }
  ],
  "slug": "meta-lanceert-abonnementen-met-ai-en-sociale-media",
@@ -63,6 +67,7 @@
  "path": "/nieuws/meta-lanceert-abonnementen-met-ai-en-sociale-media/",
  "og": "/img/og/meta-lanceert-abonnementen-met-ai-en-sociale-media.png",
  "take": "Meta bundelt zijn apps met extra AI in één abonnement. Mooi voor creators, maar voor adverteerders verandert er niks aan de kern: budgetten en campagnes aan of uit blijven mensenwerk. Ik laat AI het liefst het reken- en analysewerk doen en houd de geldknoppen zelf vast, want een algoritme dat de verkeerde kant op optimaliseert kost je gewoon omzet.",
- "keyword": "meta one abonnement",
- "seo_title": "Meta One abonnement: AI en sociale media in één bundel"
+ "keyword": "social media abonnement",
+ "seo_title": "Social media abonnement: Meta One bundelt apps en AI",
+ "seo_updated": "2026-10-05"
 }

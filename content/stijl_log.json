@@ -51,5 +51,54 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-05T12:37:10",
+  "slug": "",
+  "title": "Noorwegen verbiedt AI-brillen tijdelijk op drukke plekken",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S5",
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-05T12:37:18",
+  "slug": "",
+  "title": "ChatGPT advertenties: OpenAI voegt visueel formaat toe",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-05T12:37:24",
+  "slug": "",
+  "title": "AI en nepnieuws: nobelprijswinnaar Ressa waarschuwt",
+  "kind": "news",
+  "rood": [
+   "S10"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-05T12:37:52",
+  "slug": "",
+  "title": "ChatGPT storing of werkt ChatGPT niet? Zo check je het zelf",
+  "kind": "evergreen",
+  "rood": [
+   "S10"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

@@ -1,0 +1,14 @@
+{
+ "title": "Sollicitatiebrief laten meelezen voor je sollicitatie",
+ "situation": "Je hebt een vacature gevonden en twijfelt of je brief wel aansluit. Deze prompt laat ChatGPT je concept beoordelen als een kritische recruiter.",
+ "prompt": "Je bent een ervaren recruiter bij [BEDRIJF/SECTOR] in Nederland. Ik solliciteer op de functie [FUNCTIETITEL] en stuur hieronder mijn concept-sollicitatiebrief plus de vacaturetekst. Beoordeel mijn brief op drie punten: sluit ik aan op de gevraagde eisen, is mijn motivatie concreet genoeg, en welke eisen laat ik liggen. Geef per punt een korte toelichting met citaten uit mijn brief. Herschrijf daarna alleen de alinea over mijn motivatie, in maximaal 120 woorden, met dezelfde toon als mijn originele brief. Verzin geen ervaring die ik niet heb genoemd. Sluit af met drie gerichte vragen die ik aan de recruiter kan stellen tijdens het gesprek. Hier is de vacaturetekst: [PLAK VACATURETEKST]. Hier is mijn brief: [PLAK JE CONCEPTBRIEF].",
+ "tip": "Plak ook je cv erbij, dan kan ChatGPT zien of je brief en cv hetzelfde verhaal vertellen.",
+ "tags": [
+  "werk",
+  "solliciteren",
+  "carriere"
+ ],
+ "date": "2026-10-05",
+ "slug": "sollicitatiebrief-laten-meelezen-voor-je-sollicitatie",
+ "path": "/prompts/2026-10-05-sollicitatiebrief-laten-meelezen-voor-je-sollicitatie/"
+}
