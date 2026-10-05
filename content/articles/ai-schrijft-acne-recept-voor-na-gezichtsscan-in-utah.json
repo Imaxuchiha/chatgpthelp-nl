@@ -1,0 +1,68 @@
+{
+ "keyword": "ai recept huid",
+ "seo_title": "AI recept huid: app schrijft acne-medicatie voor",
+ "title": "AI schrijft acne-recept voor na gezichtsscan in Utah",
+ "meta": "Een app van Nolla Health schrijft zelfstandig acne-recepten na een gezichtsscan. Zo werkt het, en dit betekent het voor Nederland en de EU.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "gezondheidszorg",
+  "acne",
+  "recepten",
+  "nolla health"
+ ],
+ "intro": "In de Amerikaanse staat Utah kunnen mensen hun gezicht scannen met een app. Het AI-systeem van startup Nolla Health beoordeelt de acne en schrijft zelfstandig een recept uit. Het is een van de eerste keren dat een AI-systeem in de VS zonder tussenkomst van een arts medicatie voorschrijft.",
+ "takeaways": [
+  "Nolla Health laat gebruikers in Utah hun gezicht scannen via een app.",
+  "Het AI-systeem stelt de ernst van acne vast en schrijft zelf een recept uit.",
+  "De dienst start in Utah; uitbreiding naar andere staten is nog niet bekend.",
+  "In Nederland en de EU is zo'n zelfstandig AI-recept voorlopig niet toegestaan."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Nolla Health precies doet",
+   "body": "Nolla Health kondigde maandag aan dat inwoners van Utah de app kunnen gebruiken. Je scant je gezicht en het systeem analyseert de acne. Daarna volgt automatisch een recept, zonder dat een arts meekijkt. The Verge meldt dat Bloomberg eerder over de plannen schreef.\n\nDe startup noemt de stap een primeur in de Amerikaanse zorg. De service is nu alleen in Utah beschikbaar. Of en wanneer andere staten volgen, is nog niet bekend."
+  },
+  {
+   "heading": "Waarom dit juridisch gevoelig ligt",
+   "body": "In de Verenigde Staten mogen artsen recepten uitschrijven. Of software dat zelfstandig mag, verschilt per staat. Utah heeft regels die meer ruimte bieden aan digitale zorg.\n\nToch roept de aanpak vragen op. Wie is aansprakelijk als de AI een verkeerde diagnose stelt? En hoe controleert een patiënt of het advies klopt? Nolla Health heeft daar nog geen publieke details over gegeven."
+  },
+  {
+   "heading": "Hoe AI in de zorg vaker opduikt",
+   "body": "AI wordt al gebruikt bij het lezen van scans en het opsporen van afwijkingen. Daar blijft meestal een arts aan het stuur. Het systeem van Nolla Health gaat een stap verder en neemt het voorschrijven over.\n\nDat verschil is groot. Een fout in een huidanalyse is vervelend, maar een verkeerd medicijn kan schadelijk zijn. De discussie over verantwoordelijkheid wordt daarmee concreter."
+  },
+  {
+   "heading": "Wat dit betekent voor Nederland",
+   "body": "In Nederland mag alleen een arts een recept uitschrijven. Een app die dat zelf doet, past niet binnen de huidige regels. De Europese AI-verordening zet medische software bovendien in de hoogste risicoklasse.\n\nVoor patiënten in Nederland verandert er nu dus niets. Wel is het een signaal dat buitenlandse startups experimenteren met zorg zonder arts. Nederlandse toezichthouders en zorgverzekeraars zullen dit soort ontwikkelingen blijven volgen."
+  }
+ ],
+ "nl_angle": "In Nederland en de rest van de EU is een zelfstandig AI-recept voorlopig niet toegestaan. Alleen een arts mag medicatie voorschrijven, en medische AI valt onder strenge Europese regels. Toch laat Nolla Health zien waar de techniek naartoe gaat. Voor huisartsen en apothekers is het vooral een reden om de discussie over verantwoordelijkheid en controle scherp te houden.",
+ "faq": [
+  {
+   "q": "Kan ik in Nederland een acne-recept via een app krijgen?",
+   "a": "Nee. In Nederland moet een arts het recept uitschrijven. Een app mag dat niet zelfstandig doen."
+  },
+  {
+   "q": "Wat is Nolla Health?",
+   "a": "Nolla Health is een Amerikaanse zorgstartup die een app aanbiedt waarmee je je gezicht scant. Het AI-systeem beoordeelt acne en schrijft in Utah een recept uit."
+  },
+  {
+   "q": "Is deze AI-dienst ook in Europa beschikbaar?",
+   "a": "Daar is niets over bekend. De dienst start in Utah en uitbreiding naar andere staten of landen is nog niet aangekondigd."
+  }
+ ],
+ "slug": "ai-schrijft-acne-recept-voor-na-gezichtsscan-in-utah",
+ "kind": "news",
+ "date": "2026-10-06",
+ "published": "2026-10-06T00:34",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "This startup is issuing AI-generated acne prescriptions",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
+  }
+ ],
+ "path": "/nieuws/ai-schrijft-acne-recept-voor-na-gezichtsscan-in-utah/",
+ "og": "/img/og/ai-schrijft-acne-recept-voor-na-gezichtsscan-in-utah.png",
+ "take": "Een AI die zelf een recept uitschrijft, dat is precies het soort demo waar ik eerst de uitkomsten van wil zien voordat ik het een product noem. De geld-knoppen en de beslissingen die iemands gezondheid raken horen bij een mens te blijven, ook als het model het in de meeste gevallen goed doet. In Utah mogen ze het proberen, in Nederland en de EU ligt dat voorlopig anders."
+}

@@ -6,7 +6,9 @@
   "Les budget-verhogen-niets",
   "Les nooit-30-dagen",
   "nooit-30-dagen",
-  "villains-bleken-verkopers"
+  "villains-bleken-verkopers",
+  "les shopify-spookaankopen",
+  "les feed-titels-rollout"
  ],
  "tools": [
   "Claude Code (Anthropic)",
@@ -20,6 +22,7 @@
   "ai-bazen-roepen-om-rem-maar-waarom-nu-pas",
   "ai-agent-beveiliging-eerst-zelf-snappen-dan-pas-betalen",
   "oordeel-nooit-over-google-ads-na-30-dagen",
-  "producten-uitsluiten-eerst-18-maanden-data-bekijken"
+  "producten-uitsluiten-eerst-18-maanden-data-bekijken",
+  "ai-schrijft-acnerecept-na-scan-ik-zou-eerst-de-data-checken"
  ]
 }

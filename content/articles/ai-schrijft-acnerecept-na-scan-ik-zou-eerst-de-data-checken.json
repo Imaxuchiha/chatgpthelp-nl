@@ -1,0 +1,87 @@
+{
+ "keyword": "ai acne recept",
+ "seo_title": "AI acne recept: waarom ik dit niet vertrouw zonder arts",
+ "title": "AI schrijft acnerecept na scan: ik zou eerst de data checken",
+ "meta": "AI acne recept zonder arts klinkt handig, maar ik wil eerst weten welke data erin zit. Zo kijk ik ernaar vanuit performance-marketing.",
+ "category": "mening",
+ "tags": [
+  "AI gezondheidszorg",
+  "AI regulering",
+  "data kwaliteit",
+  "AI acne",
+  "medische AI"
+ ],
+ "intro": "Een AI die zelf een acnerecept uitschrijft na een gezichtsscan. In Utah kan het al. Ik snap de efficiëntie, maar ik wil eerst zien welke data dat model voert. Want als mijn jaren in performance-marketing één ding hebben geleerd: een model is zo goed als de data die je erin stopt.",
+ "takeaways": [
+  "AI zonder arts klinkt efficiënt, maar de kwaliteit hangt volledig af van de trainingsdata en validatie.",
+  "Mijn ervaring met Smart Bidding leert dat verkeerde data een AI vol overtuiging de verkeerde kant op laat optimaliseren.",
+  "Voor Nederland en de EU is dit nog ver weg, maar ondernemers moeten nu al nadenken over aansprakelijkheid en data-eisen."
+ ],
+ "sections": [
+  {
+   "heading": "Een recept zonder arts is een data-claim",
+   "body": "Nolla Health zegt dat hun AI zelfstandig acnerecepten kan schrijven. Dat is een stevige claim. Ik zou als eerste vragen: op hoeveel beelden is dat getraind? Hoe zag de validatie eruit? Welke huidtypes zaten erin? Want een model dat alleen op lichte huid is getraind, gaat op een donkere huid misschien de mist in. En dat is precies het soort fout dat je niet ziet aankomen.\n\nIn mijn wereld heet dat een datalek in je trainingsset. Als Google Ads leert van conversies die niet bestaan, krijg je campagnes die vol overtuiging op het verkeerde doel afgaan. Ik heb dat letterlijk meegemaakt met een Shopify-koppeling die 170 spookaankopen doorstuurde. Performance Max dacht dat het fantastisch draaide. De AI deed precies wat hij moest doen, met verkeerde data. Bij een acnerecept wil je niet dat zoiets gebeurt."
+  },
+  {
+   "heading": "Meet eerst, dan pas optimaliseren",
+   "body": "Mijn vuistregel is: meten vóór optimaliseren. Die regel geldt voor advertentieaccounts, maar net zo goed voor medische AI. Voordat je een AI zelfstandig recepten laat uitschrijven, moet je de foutmarge kennen. Hoe vaak zit het ernaast? Wat zijn de gevolgen van een verkeerd recept? En wie is er aansprakelijk als het misgaat?\n\nIn de VS is de juridische context anders dan hier. In Nederland en de EU gelden strengere regels voor medische hulpmiddelen. Een AI die zelfstandig medicatie voorschrijft, valt waarschijnlijk onder de Medical Device Regulation. Dat betekent klinische validatie, een notified body, en een fabrikant die verantwoordelijkheid neemt. Voorlopig zie ik dat nog niet snel gebeuren. En dat is maar goed ook."
+  },
+  {
+   "heading": "De belofte is groot, de data zijn dun",
+   "body": "Ik heb zelf gezien hoe snel AI kan leren van slechte data. Bij een klant liet ik AI bijna 2.000 producttitels herschrijven in meerdere landen. De grootste les zat niet in de teksten: bij meerdere primaire feeds moet je de aanpassing aan elke feed koppelen, anders wint de oude titel stilletjes. Zo'n detail maakt het verschil tussen een geslaagde optimalisatie en een stille mislukking.\n\nBij een acnerecept is zo'n detail misschien een huidtype dat niet in de trainingsset zat. Of een belichting die de scan vertekent. Je kunt pas vertrouwen op de output als je de input kent. En die input is bij medische AI vaak niet openbaar. Daarom blijf ik kritisch, ook al klinkt het verhaal aan de oppervlakte logisch."
+  },
+  {
+   "heading": "Wat dit voor jou betekent",
+   "body": "Als ondernemer in Nederland hoef je hier nu niets mee. De kans dat je morgen een AI-recept krijgt zonder arts, is nul. Maar de discussie raakt wel aan iets groters: hoe we omgaan met AI-beslissingen die impact hebben op mensen. In marketing is een verkeerde beslissing vervelend. In de zorg kan het schadelijk zijn.\n\nMijn advies: blijf kritisch op claims van AI-bedrijven. Vraag naar de data, de validatie en de foutmarges. En onthoud: een model is zo goed als de data die je erin stopt. Dat geldt voor een advertentiecampagne, maar net zo goed voor een acnerecept."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ondernemers is dit een signaal. AI wordt steeds zelfstandiger in sectoren met hoge impact. Zorg dat je eigen AI-projecten een duidelijke data- en validatiestrategie hebben. Documenteer welke data je gebruikt, hoe je test, en wie er verantwoordelijk is bij fouten. Dat is niet alleen verstandig, het wordt op termijn waarschijnlijk ook wettelijk verplicht onder de AI Act.",
+ "faq": [
+  {
+   "q": "Is een AI-acnerecept legaal in Nederland?",
+   "a": "Nee, voorlopig niet. Medische AI die zelfstandig medicatie voorschrijft, valt onder strenge Europese regels en moet uitgebreid gevalideerd worden."
+  },
+  {
+   "q": "Waarom wantrouwt Maxim AI in de zorg?",
+   "a": "Omdat een AI-model zo goed is als de data waarop het is getraind. Zonder inzicht in die data en de foutmarges is zelfstandig voorschrijven te riskant."
+  }
+ ],
+ "lessons_used": [
+  "les shopify-spookaankopen",
+  "les feed-titels-rollout"
+ ],
+ "slug": "ai-schrijft-acnerecept-na-scan-ik-zou-eerst-de-data-checken",
+ "kind": "column",
+ "date": "2026-10-06",
+ "published": "2026-10-06T00:32",
+ "sources": [
+  {
+   "name": "ChatGPT Help",
+   "title": "AI schrijft acne-recept voor na gezichtsscan in Utah",
+   "url": "https://chatgpthelp.nl/nieuws/ai-schrijft-acne-recept-voor-na-gezichtsscan-in-utah/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "OpenAI legt uit hoe AI tekst watermerken werken onder EU regels",
+   "url": "https://chatgpthelp.nl/beleid/openai-legt-uit-hoe-ai-tekst-watermerken-werken-onder-eu-regels/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "ChatGPT krijgt watermerk in de EU, Nederland volgt later",
+   "url": "https://chatgpthelp.nl/nieuws/chatgpt-krijgt-watermerk-in-de-eu-nederland-volgt-later/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "AI en nepnieuws: nobelprijswinnaar Ressa waarschuwt",
+   "url": "https://chatgpthelp.nl/nieuws/ai-en-nepnieuws-nobelprijswinnaar-ressa-waarschuwt/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "ChatGPT advertenties: OpenAI voegt visueel formaat toe",
+   "url": "https://chatgpthelp.nl/nieuws/chatgpt-advertenties-openai-voegt-visueel-formaat-toe/"
+  }
+ ],
+ "path": "/mening/ai-schrijft-acnerecept-na-scan-ik-zou-eerst-de-data-checken/",
+ "og": "/img/og/ai-schrijft-acnerecept-na-scan-ik-zou-eerst-de-data-checken.png",
+ "author": "Maxim"
+}

@@ -1,0 +1,67 @@
+{
+ "keyword": "ai tekst watermerk eu",
+ "seo_title": "AI tekst watermerk EU: zo werkt het bij OpenAI",
+ "title": "OpenAI legt uit hoe AI tekst watermerken werken onder EU regels",
+ "meta": "OpenAI beschrijft hoe tekstwatermerken onder EU-regels werken, waar ze gelden en waarom onderzoekers eerst toegang krijgen tot detectie.",
+ "category": "beleid",
+ "tags": [
+  "openai",
+  "watermerk",
+  "eu",
+  "ai-act",
+  "transparantie"
+ ],
+ "intro": "OpenAI heeft uitgelegd hoe het omgaat met Europese regels rond de herkomst van AI-tekst. Het bedrijf beschrijft waar watermerken wel en niet gelden en waarom detectie eerst voor onderzoekers opengaat. Voor Nederland is dit relevant zodra de Europese afspraken gaan gelden.",
+ "takeaways": [
+  "OpenAI past tekstwatermerken toe binnen de kaders van EU-regels over herkomst van AI-tekst.",
+  "Detectie van watermerken is in eerste instantie bedoeld voor onderzoekers, niet voor het grote publiek.",
+  "OpenAI beschrijft waar watermerken wel en niet van toepassing zijn.",
+  "Voor bedrijven en gebruikers in Nederland kan dit gevolgen krijgen voor hoe AI-tekst herkenbaar wordt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies zegt over watermerken",
+   "body": "OpenAI legt uit hoe het tekstwatermerken inzet onder de Europese regels voor herkomst. Het bedrijf beschrijft waar die watermerken wel gelden en waar niet. Detectie van die merken start bij onderzoekers, meldt OpenAI.\n\nDat betekent dat het herkennen van AI-tekst niet meteen voor iedereen beschikbaar komt. OpenAI kiest eerst voor toegang via onderzoek, voordat bredere groepen meekijken. Hoe dat er in de praktijk uitziet, is nog niet volledig duidelijk."
+  },
+  {
+   "heading": "Waarom de EU hierover regels maakt",
+   "body": "De Europese Unie wil dat duidelijk is of tekst door een AI-model is gemaakt. Watermerken zijn een techniek om dat herkenbaar te maken. OpenAI zegt zich aan die richting te houden.\n\nVoor gebruikers betekent dit dat AI-tekst in de toekomst vaker een verborgen signaal kan bevatten. Of dat altijd lukt, hangt af van het model en de toepassing. OpenAI geeft aan dat niet elke tekst onder dezelfde aanpak valt."
+  },
+  {
+   "heading": "Detectie eerst voor onderzoekers",
+   "body": "OpenAI start de detectie van watermerken bij onderzoekers. Zij kunnen als eersten nagaan of een stuk tekst een watermerk draagt. Het bredere publiek krijgt die mogelijkheid later of in beperkte vorm.\n\nDie keuze heeft te maken met misbruik en privacy. Een detector die openlijk beschikbaar is, kan ook verkeerd worden gebruikt. OpenAI weegt die risico's mee in de aanpak."
+  },
+  {
+   "heading": "Wat dit betekent voor AI-tekst in de praktijk",
+   "body": "Watermerken veranderen niets aan de tekst die je leest. Ze zitten op de achtergrond en zijn bedoeld voor herkenning. Voor redacties, scholen en bedrijven kan dat uitmaken bij het controleren van bronnen.\n\nOf watermerken in de praktijk betrouwbaar genoeg zijn, moet blijken. OpenAI zegt hier nog niet alles over. Duidelijk is dat de Europese regels het onderwerp op de agenda hebben gezet."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders en Nederlandse bedrijven betekent dit dat AI-tekst straks vaker een verborgen watermerk kan hebben. De Europese regels gelden ook hier, dus organisaties die met ChatGPT werken krijgen mogelijk te maken met herkomstcontroles. Of en wanneer detectietools in Nederland beschikbaar komen, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is een tekstwatermerk in AI-tekst?",
+   "a": "Een watermerk is een verborgen signaal in tekst waarmee je kunt nagaan of een AI-model de tekst heeft gemaakt. OpenAI past dit toe binnen de Europese regels voor herkomst."
+  },
+  {
+   "q": "Kan ik zelf AI-tekst herkennen met een watermerk?",
+   "a": "Niet direct. OpenAI geeft aan dat detectie eerst voor onderzoekers opengaat. Voor het brede publiek is nog niet duidelijk wanneer en hoe dat beschikbaar komt."
+  },
+  {
+   "q": "Gelden deze EU-regels ook in Nederland?",
+   "a": "Ja, de Europese afspraken gelden in alle EU-landen, dus ook in Nederland. Wat dat concreet betekent voor gebruikers en bedrijven, moet nog blijken."
+  }
+ ],
+ "slug": "openai-legt-uit-hoe-ai-tekst-watermerken-werken-onder-eu-regels",
+ "kind": "news",
+ "date": "2026-10-06",
+ "published": "2026-10-06T00:33",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Our approach to EU text provenance rules",
+   "url": "https://openai.com/index/eu-text-provenance"
+  }
+ ],
+ "path": "/beleid/openai-legt-uit-hoe-ai-tekst-watermerken-werken-onder-eu-regels/",
+ "og": "/img/og/openai-legt-uit-hoe-ai-tekst-watermerken-werken-onder-eu-regels.png"
+}

@@ -1,0 +1,69 @@
+{
+ "keyword": "chatgpt watermerk",
+ "seo_title": "ChatGPT watermerk in EU: wat merkt Nederland ervan",
+ "title": "ChatGPT krijgt watermerk in de EU, Nederland volgt later",
+ "meta": "OpenAI voorziet ChatGPT-teksten in de EU van een onzichtbaar watermerk. Wat betekent dat voor jou in Nederland en wat doet bewerken ermee?",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "watermerk",
+  "openai",
+  "ai act",
+  "eu"
+ ],
+ "intro": "OpenAI brengt een onzichtbaar watermerk aan in teksten van ChatGPT en Codex. Dat gebeurt eerst voor gebruikers in de Europese Unie, meldt The Verge. Het bedrijf zegt daarmee te voldoen aan de Europese AI-wet. Wie in Nederland ChatGPT gebruikt, krijgt er op termijn ook mee te maken.",
+ "takeaways": [
+  "OpenAI watermerkt tekst van ChatGPT en Codex, eerst in de EU.",
+  "Het watermerk is onzichtbaar en machinaal uitleesbaar.",
+  "Bewerken kan de markeringen moeilijker vindbaar maken, zegt OpenAI.",
+  "Het systeem heet textGrain en deed het volgens OpenAI goed in vergelijkingen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies uitrolt",
+   "body": "De uitrol start in de Europese Unie. ChatGPT en Codex krijgen daar een watermerk in hun tekstuitvoer. Dat watermerk zie je zelf niet terug op het scherm.\n\nHet gaat om een patroon dat software kan herkennen. OpenAI noemt zijn techniek textGrain. Volgens het bedrijf deed die het in tests net zo goed of beter dan andere aanpakken.\n\nEen voorbeeld dat OpenAI zelf noemt is SynthID van Google DeepMind. Anthropic kondigde in augustus al watermerking aan, met diezelfde techniek als basis."
+  },
+  {
+   "heading": "Waarom de EU eerst is",
+   "body": "De Europese AI-wet vraagt om duidelijkheid over de herkomst van AI-tekst. OpenAI zegt dat het watermerk bedoeld is om aan die regels te voldoen. Daarom is de EU het eerste gebied waar de functie verschijnt.\n\nAndere regio's volgen later, maar wanneer precies is nog niet bekend. Ook is niet duidelijk of het watermerk in alle talen even goed werkt.\n\nVoor Nederland geldt hetzelfde als voor de rest van de EU. Zodra de functie hier actief is, zit het watermerk in de teksten die je via ChatGPT maakt."
+  },
+  {
+   "heading": "Bewerken maakt opsporen lastiger",
+   "body": "OpenAI geeft zelf aan dat het watermerk te verstoren is. Bewerk je een tekst, dan worden de onzichtbare markeringen moeilijker te vinden. Dat geldt bijvoorbeeld bij het herschrijven van zinnen of het knippen en plakken tussen programma's.\n\nDaarmee is het watermerk geen hard bewijs. Het is een signaal dat een tekst mogelijk met ChatGPT is gemaakt. Andersom betekent de afwezigheid van een watermerk niet dat een tekst van een mens komt.\n\nOf het watermerk standhoudt bij vertaling naar het Nederlands, is nog niet duidelijk. OpenAI zegt daar in de bronnen niets over."
+  }
+ ],
+ "nl_angle": "Voor Nederland verandert er voorlopig weinig in de praktijk. Je blijft ChatGPT gewoon gebruiken en ziet geen verschil in de teksten. Wel kan het uitmaken voor scholen, uitgevers en werkgevers die willen controleren of een tekst door AI is gemaakt. Zij krijgen er een extra signaal bij, maar geen waterdicht bewijs. Bedrijven die AI-tekst publiceren onder hun eigen naam, doen er goed aan om te blijven vermelden hoe een tekst tot stand kwam.",
+ "faq": [
+  {
+   "q": "Krijgt ChatGPT in Nederland ook een watermerk?",
+   "a": "Ja, Nederland valt onder de EU en de uitrol start in de Europese Unie. Wanneer het hier precies actief wordt, is nog niet bekend."
+  },
+  {
+   "q": "Kan ik het watermerk in ChatGPT zien?",
+   "a": "Nee, het is onzichtbaar voor gebruikers. Alleen software kan de markering uitlezen."
+  },
+  {
+   "q": "Blijft het watermerk zitten als ik de tekst bewerk?",
+   "a": "Vaak niet. OpenAI zegt dat bewerken de markeringen moeilijker vindbaar maakt."
+  }
+ ],
+ "slug": "chatgpt-krijgt-watermerk-in-de-eu-nederland-volgt-later",
+ "kind": "news",
+ "date": "2026-10-06",
+ "published": "2026-10-06T00:32",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+   "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+  },
+  {
+   "name": "The Verge",
+   "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
+  }
+ ],
+ "path": "/nieuws/chatgpt-krijgt-watermerk-in-de-eu-nederland-volgt-later/",
+ "og": "/img/og/chatgpt-krijgt-watermerk-in-de-eu-nederland-volgt-later.png",
+ "take": "Een watermerk verandert niks aan de vraag of die tekst klopt, dus ik blijf gewoon naar de cijfers kijken. Zolang de tracking niet op orde is, maakt zo'n label het account echt niet beter. Ik zie dit watermerk als een compliance-ding voor Brussel, geen kwaliteitskeurmerk voor jouw content."
+}

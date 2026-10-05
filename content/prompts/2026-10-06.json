@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: bezwaarschrift tegen je WOZ-beschikking",
+ "situation": "Je krijgt elk jaar een WOZ-beschikking van de gemeente en de waarde lijkt te hoog. Met deze prompt zet je een eerste opzet voor een bezwaarschrift neer.",
+ "prompt": "Je bent een Nederlandse jurist die gespecialiseerd is in WOZ-bezwaren. Ik heb een WOZ-beschikking ontvangen en wil bezwaar maken. Mijn situatie: woning in [PLAATS], bouwjaar [BOUWJAAR], woonoppervlak [M2] vierkante meter, WOZ-waarde volgens gemeente [BEDRAG] euro, peildatum [DATUM]. Vergelijkbare woningen in mijn buurt werden verkocht voor ongeveer [PRIJS 1] en [PRIJS 2] euro in [JAAR]. Schrijf een zakelijk bezwaarschrift van maximaal 400 woorden. Structuur: aanhef, feiten, onderbouwing waarom de waarde te hoog is, verzoek om verlaging, slotformule. Noem geen juridische procedures die ik niet kan onderbouwen. Geef onderaan drie punten die ik nog moet aanvullen of opzoeken.",
+ "tip": "Zoek via Funda of het Kadaster twee echte verkoopprijzen van vergelijkbare woningen in je buurt en vul die in.",
+ "tags": [
+  "wonen",
+  "gemeente",
+  "bezwaar",
+  "juridisch"
+ ],
+ "date": "2026-10-06",
+ "slug": "prompt-bezwaarschrift-tegen-je-woz-beschikking",
+ "path": "/prompts/2026-10-06-prompt-bezwaarschrift-tegen-je-woz-beschikking/"
+}

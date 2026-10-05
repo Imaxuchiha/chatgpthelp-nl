@@ -1175,6 +1175,26 @@
   "f39e63dca1": {
    "at": "2026-10-05T12:38:58.296698",
    "why": "ok"
+  },
+  "8dc6e37ab1": {
+   "at": "2026-10-06T00:32:53.549876",
+   "why": "ok"
+  },
+  "7730836721": {
+   "at": "2026-10-06T00:32:53.549876",
+   "why": "ok"
+  },
+  "78ad538158": {
+   "at": "2026-10-06T00:33:53.549876",
+   "why": "ok"
+  },
+  "d32eae6e5a": {
+   "at": "2026-10-06T00:34:53.549876",
+   "why": "poort"
+  },
+  "5bc9d1f473": {
+   "at": "2026-10-06T00:34:53.549876",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1366,6 +1386,9 @@
   "AI-bot wint niet eerlijk in StarCraft en gaat cheaten",
   "Noorwegen verbiedt AI-brillen tijdelijk op drukke plekken",
   "ChatGPT advertenties: OpenAI voegt visueel formaat toe",
-  "AI en nepnieuws: nobelprijswinnaar Ressa waarschuwt"
+  "AI en nepnieuws: nobelprijswinnaar Ressa waarschuwt",
+  "ChatGPT krijgt watermerk in de EU, Nederland volgt later",
+  "OpenAI legt uit hoe AI tekst watermerken werken onder EU regels",
+  "AI schrijft acne-recept voor na gezichtsscan in Utah"
  ]
 }

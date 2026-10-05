@@ -100,5 +100,70 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-06T00:33:04",
+  "slug": "",
+  "title": "ChatGPT krijgt watermerk in de EU, Nederland volgt later",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-06T00:33:11",
+  "slug": "",
+  "title": "OpenAI legt uit hoe AI tekst watermerken werken onder EU regels",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-06T00:33:16",
+  "slug": "",
+  "title": "Reclame in ChatGPT straks ook bij het maken van afbeeldingen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-06T00:33:23",
+  "slug": "",
+  "title": "AI schrijft acne-recept voor na gezichtsscan in Utah",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-06T00:33:55",
+  "slug": "",
+  "title": "AI schrijft acnerecept na scan: ik zou eerst de data checken",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S4",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
