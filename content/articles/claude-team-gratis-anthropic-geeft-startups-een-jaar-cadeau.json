@@ -1,0 +1,66 @@
+{
+ "keyword": "claude team gratis",
+ "seo_title": "Claude Team gratis: Anthropic geeft startups een jaar",
+ "title": "Claude Team gratis: Anthropic geeft startups een jaar cadeau",
+ "meta": "Anthropic geeft startups een jaar gratis Claude Team en 1.000 dollar aan credits. Lees wat dit kost, wie meedoet en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "anthropic",
+  "claude",
+  "startups",
+  "ai-tools",
+  "credits"
+ ],
+ "intro": "Anthropic geeft startups een jaar lang gratis toegang tot Claude Team, plus 1.000 dollar aan tokencredits. Het bedrijf achter Claude wil zo meer bedrijven aan zich binden. TechCrunch meldt het programma op 6 oktober 2026.",
+ "takeaways": [
+  "Startups krijgen een jaar gratis Claude Team, de zakelijke versie van Claude.",
+  "Daarbovenop komen 1.000 dollar aan credits voor het gebruik van de modellen.",
+  "Anthropic zegt dat de voordelen van AI vooral via bouwende bedrijven bij mensen komen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Anthropic precies weggeeft",
+   "body": "Het gaat om twee dingen. Startups krijgen een jaar lang gratis toegang tot Claude Team, de zakelijke variant van de chatbot. Daarnaast krijgen ze 1.000 dollar aan credits voor het gebruik van de modellen.\n\nClaude Team is bedoeld voor organisaties die met meerdere mensen werken. Denk aan gedeelde gesprekken, beheer van accounts en toegang voor het hele team. Normaal betalen bedrijven per gebruiker per maand voor die laag.\n\nDe credits zijn apart. Die gebruik je voor tokens, de eenheid waarmee je verbruik bij de API wordt afgerekend. Bouw je een eigen applicatie op Claude, dan betaal je per stuk tekst dat het model verwerkt."
+  },
+  {
+   "heading": "Waarom Anthropic dit doet",
+   "body": "Anthropic legt de reden zelf uit. Volgens het bedrijf bereiken de voordelen van AI de meeste mensen via bedrijven die op de modellen bouwen. Het model alleen is dus niet het eindpunt.\n\nDat is ook commercieel logisch. Een startup die een jaar met Claude werkt, blijft vaak hangen. Overstappen naar een concurrent kost tijd en geld. Zo groeit het aantal zakelijke klanten.\n\nDe markt voor AI-modellen is flink competitief. OpenAI, Google en Anthropic vechten om dezelfde ontwikkelaars. Een gratis jaar is een directe manier om die groep binnen te halen."
+  },
+  {
+   "heading": "Wat het normaal kost",
+   "body": "Anthropic noemt zelf geen prijs voor het weggegeven pakket. Wat Claude Team normaal per gebruiker kost, staat niet in de bron. Reken dus niet met een bedrag dat wij niet kunnen onderbouwen.\n\nDe 1.000 dollar aan credits is wel concreet. Tegen de huidige koers is dat grofweg 900 euro. Hoe lang je daarmee doet, hangt af van je verbruik. Een klein project verbruikt weinig, een drukke app veel meer.\n\nVoor een vroege startup is dat een reëel voordeel. De eerste maanden draai je vaak op een klein budget. Dan scheelt een jaar gratis toegang echt."
+  },
+  {
+   "heading": "Wie komt in aanmerking",
+   "body": "TechCrunch schrijft dat het om startups gaat. Verdere voorwaarden, zoals omzet, leeftijd of regio, staan niet in de bron. Of Nederlandse startups automatisch meedoen, is nog niet bekend.\n\nOok is niet duidelijk of er een limiet is aan het aantal plekken. Grote programma's van AI-bedrijven lopen soms snel vol. Wie wil meedoen, kan het beste de officiële aankondiging van Anthropic in de gaten houden.\n\nWat er na dat jaar gebeurt, is eveneens onduidelijk. Gaat de prijs dan omhoog, of blijft een deel van de korting staan? Daar zegt Anthropic nu niets over."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse startups is dit interessant als het programma ook hier openstaat. Een jaar gratis Claude Team plus ongeveer 900 euro aan credits scheelt een hoop in de beginfase. Let wel op de voorwaarden rond data en privacy. Werk je met klantgegevens, dan valt Claude Team onder de zakelijke voorwaarden van Anthropic, maar je blijft zelf verantwoordelijk voor een goede verwerkingsovereenkomst. Ook speelt mee dat de Europese regels voor AI van toepassing blijven. Grote taalmodellen vallen onder de AI-verordening, met extra eisen voor sommige toepassingen. Controleer dus per project wat wel en niet mag. Voor veel Nederlandse bouwers is dit vooral een kans om goedkoop te testen of Claude past bij hun product.",
+ "faq": [
+  {
+   "q": "Is Claude Team gratis voor startups?",
+   "a": "Ja, volgens TechCrunch krijgen startups een jaar lang gratis toegang tot Claude Team. Daarbovenop komt 1.000 dollar aan credits voor het gebruik van de modellen."
+  },
+  {
+   "q": "Hoeveel is 1.000 dollar aan credits in euro's?",
+   "a": "Tegen de huidige koers is dat ongeveer 900 euro. Hoe lang je daarmee doet, hangt af van hoeveel tokens je verbruikt."
+  },
+  {
+   "q": "Geldt dit aanbod ook voor Nederlandse startups?",
+   "a": "Dat is nog niet bekend. Anthropic heeft de exacte voorwaarden en regio's niet gepubliceerd. Houd de officiële aankondiging in de gaten."
+  }
+ ],
+ "slug": "claude-team-gratis-anthropic-geeft-startups-een-jaar-cadeau",
+ "kind": "news",
+ "date": "2026-10-06",
+ "published": "2026-10-06T19:25",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+   "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+  }
+ ],
+ "path": "/nieuws/claude-team-gratis-anthropic-geeft-startups-een-jaar-cadeau/",
+ "og": "/img/og/claude-team-gratis-anthropic-geeft-startups-een-jaar-cadeau.png"
+}

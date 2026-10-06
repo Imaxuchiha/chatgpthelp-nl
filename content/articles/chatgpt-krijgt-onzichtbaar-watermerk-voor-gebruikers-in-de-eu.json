@@ -1,0 +1,68 @@
+{
+ "keyword": "chatgpt watermerk",
+ "seo_title": "ChatGPT watermerk: onzichtbare markering in de EU",
+ "title": "ChatGPT krijgt onzichtbaar watermerk voor gebruikers in de EU",
+ "meta": "OpenAI voegt een onzichtbaar watermerk toe aan ChatGPT-teksten in de EU. Lees wat textGrain is, waarom het komt en wat het voor jou betekent.",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "openai",
+  "watermerk",
+  "eu",
+  "ai-wet"
+ ],
+ "intro": "OpenAI voegt een onzichtbaar watermerk toe aan teksten die ChatGPT maakt. De functie heet textGrain en geldt alleen voor gebruikers in de Europese Unie. Het bedrijf zegt dit te doen om aan Europese regels te voldoen.",
+ "takeaways": [
+  "OpenAI noemt de functie textGrain, volgens het bedrijf zelf.",
+  "Het watermerk komt alleen bij EU-gebruikers in de teksten terecht.",
+  "De maatregel hangt samen met Europese regelgeving voor AI.",
+  "Of het watermerk technisch standhoudt bij bewerken, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI aankondigt",
+   "body": "OpenAI gaat teksten van ChatGPT markeren met een watermerk. Dat watermerk is onzichtbaar voor wie de tekst leest. De functie krijgt de naam textGrain, meldt NU.nl Tech op basis van informatie van OpenAI.\n\nDe markering komt alleen bij gebruikers in de Europese Unie in de tekst. Gebruikers buiten de EU krijgen er voorlopig niets mee te maken. OpenAI geeft zelf geen details over de techniek achter textGrain."
+  },
+  {
+   "heading": "Waarom dit er komt",
+   "body": "OpenAI zegt dat het watermerk nodig is om aan Europese regelgeving te voldoen. De EU stelt eisen aan AI-systemen en aan de transparantie over wat zo'n systeem maakt. Een watermerk is een manier om herkomst vast te leggen.\n\nHoe de Europese regels precies worden gehandhaafd, is nog niet duidelijk. Ook is niet bekend welke instantie controleert of het watermerk goed werkt. OpenAI noemt in de aankondiging geen datum waarop textGrain ingaat."
+  },
+  {
+   "heading": "Wat een watermerk wel en niet doet",
+   "body": "Een onzichtbaar watermerk verandert niets aan de tekst die je te zien krijgt. De woorden en zinnen blijven hetzelfde. Het spoor zit in het bestand of in de opbouw van de tekst verwerkt.\n\nZo'n markering helpt om te achterhalen of een tekst uit ChatGPT komt. Of dat lukt als iemand de tekst daarna bewerkt, is nog niet bekend. OpenAI zegt daar niets over in de bron."
+  },
+  {
+   "heading": "Nederland en de EU",
+   "body": "De functie geldt voor gebruikers in de Europese Unie, dus ook in Nederland. Wie ChatGPT in het Nederlands gebruikt, krijgt het watermerk in de uitvoer. Je merkt er naar verwachting weinig van tijdens het lezen.\n\nVoor bedrijven die ChatGPT-teksten publiceren, kan het uitmaken. Een klant of lezer kan mogelijk nagaan dat een tekst met AI is gemaakt. Of dat in de praktijk gebeurt, hangt af van de tools die zoiets kunnen uitlezen."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders die ChatGPT gebruiken verandert er zichtbaar weinig. De teksten zien er hetzelfde uit, alleen zit er een verborgen markering in. Werk je met ChatGPT-teksten voor klanten, dan is het goed om te weten dat herkomst mogelijk te controleren is. Of dat ook lukt bij bewerkte teksten is nog niet bekend. OpenAI heeft geen datum genoemd waarop textGrain ingaat.",
+ "faq": [
+  {
+   "q": "Wat is textGrain?",
+   "a": "TextGrain is de naam die OpenAI geeft aan het onzichtbare watermerk in ChatGPT-teksten. Het moet duidelijk maken dat een tekst met AI is gemaakt."
+  },
+  {
+   "q": "Geldt het watermerk ook in Nederland?",
+   "a": "Ja, de functie geldt voor gebruikers in de Europese Unie en dus ook in Nederland. Buiten de EU is de markering er voorlopig niet."
+  },
+  {
+   "q": "Verandert de tekst door het watermerk?",
+   "a": "Nee, de tekst die je leest blijft hetzelfde. De markering zit verborgen in de tekst verwerkt."
+  }
+ ],
+ "slug": "chatgpt-krijgt-onzichtbaar-watermerk-voor-gebruikers-in-de-eu",
+ "kind": "news",
+ "date": "2026-10-06",
+ "published": "2026-10-06T19:23",
+ "sources": [
+  {
+   "name": "NU.nl Tech",
+   "title": "ChatGPT gaat teksten voorzien van onzichtbaar AI-watermerk",
+   "url": "https://www.nu.nl/economie/6412191/chatgpt-gaat-teksten-voorzien-van-onzichtbaar-ai-watermerk.html"
+  }
+ ],
+ "path": "/nieuws/chatgpt-krijgt-onzichtbaar-watermerk-voor-gebruikers-in-de-eu/",
+ "og": "/img/og/chatgpt-krijgt-onzichtbaar-watermerk-voor-gebruikers-in-de-eu.png",
+ "take": "Een watermerk dat je niet ziet, daar heb ik niks aan als adverteerder. OpenAI doet dit voor Brussel, niet voor mij, en dat is prima, maar de belofte dat je AI-tekst voortaan kunt traceren geloof ik pas als het werkt. Ik bouw mijn eigen tools liever zelf dan dat ik afhankelijk word van een functie die een ander aanzet, want dat is precies waarom ik geen abonnementen stapel."
+}

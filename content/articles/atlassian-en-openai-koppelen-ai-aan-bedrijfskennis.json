@@ -1,0 +1,68 @@
+{
+ "keyword": "atlassian openai samenwerking",
+ "seo_title": "Atlassian en OpenAI breiden samenwerking uit",
+ "title": "Atlassian en OpenAI koppelen AI aan bedrijfskennis",
+ "meta": "Atlassian en OpenAI breiden hun samenwerking uit. AI-modellen krijgen toegang tot bedrijfskennis, zodat teams sneller plannen en opleveren.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "atlassian",
+  "ai op het werk",
+  "samenwerking",
+  "bedrijfssoftware"
+ ],
+ "intro": "Atlassian en OpenAI breiden hun bestaande samenwerking uit. De twee bedrijven koppelen AI-modellen aan kennis die binnen organisaties ligt opgeslagen. Daardoor moeten teams beter kunnen plannen, bouwen en werk opleveren, meldt OpenAI.",
+ "takeaways": [
+  "Atlassian en OpenAI breiden hun partnership uit, volgens OpenAI.",
+  "AI-modellen worden verbonden met bedrijfskennis uit de systemen van Atlassian.",
+  "Het doel is dat teams sneller plannen, bouwen en werk afronden.",
+  "Er zijn nog geen prijzen, releasedata of Nederlandse klanten bekendgemaakt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de twee bedrijven precies doen",
+   "body": "OpenAI en Atlassian werken al langer samen. Die samenwerking wordt nu uitgebreid. Het idee is simpel: AI-modellen van OpenAI krijgen toegang tot de kennis die in Atlassian-software zit.\n\nDenk aan projectdocumentatie, taken, notities en gesprekken tussen collega's. Die informatie zit vaak verspreid over meerdere systemen. De koppeling moet daar een brug tussen slaan.\n\nVolgens OpenAI draait het om het verbinden van frontier-modellen met bedrijfskennis. Frontier-modellen zijn de krachtigste AI-modellen die een bedrijf op dat moment heeft. Atlassian maakt onder meer Jira en Confluence, veelgebruikte programma's voor projectwerk en documentatie."
+  },
+  {
+   "heading": "Van kennis naar actie",
+   "body": "De titel van de aankondiging zegt het al: kennis moet actie worden. Nu belandt veel bedrijfsinformatie in een archief waar niemand meer naar kijkt. Een AI-model kan die informatie doorzoeken en samenvatten.\n\nDaarna kan het helpen bij de volgende stap. Bijvoorbeeld een planning opstellen, een taak aanmaken of een concepttekst schrijven. Teams hoeven dan minder te schakelen tussen losse programma's.\n\nOpenAI noemt in de aankondiging drie doelen: plannen, bouwen en opleveren. Dat zijn brede termen. Concrete voorbeelden per product noemt het bedrijf niet."
+  },
+  {
+   "heading": "Wat nog onduidelijk is",
+   "body": "Er is nog veel niet bekend. OpenAI en Atlassian noemen geen prijs, geen releasedatum en geen lijst met beschikbare functies. Ook is niet duidelijk welke klanten als eerste toegang krijgen.\n\nDat maakt het lastig om te zeggen hoe groot dit in de praktijk wordt. Gaat het om een klein aantal extra functies in Jira en Confluence? Of om een nieuwe manier van werken waarbij de AI zelf taken uitvoert? De aankondiging laat dat open.\n\nVoor bedrijven die nu al Atlassian-software gebruiken, is het vooral een signaal. De kans is groot dat AI-functies onderdeel worden van de pakketten die ze al betalen. Of dat ook voor kleinere klanten geldt, is nog niet duidelijk."
+  },
+  {
+   "heading": "Waarom dit nieuws telt",
+   "body": "OpenAI zoekt de zakelijke markt op. Samenwerkingen met grote softwarebedrijven zijn een snelle route naar veel gebruikers. Atlassian heeft wereldwijd miljoenen klanten, van kleine teams tot grote concerns.\n\nVoor Atlassian werkt het de andere kant op. Het bedrijf kan zich onderscheiden door AI die echt iets weet van jouw projecten. Een model dat alleen algemene vragen beantwoordt, voegt minder toe dan een model dat je eigen documentatie kent.\n\nDe concurrentie op dit punt is groot. Microsoft, Google en andere partijen bouwen vergelijkbare koppelingen tussen AI en werksoftware. Deze uitbreiding past in dat patroon."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die Jira of Confluence gebruiken, kan dit op termijn betekenen dat AI-functies in hun bestaande pakket komen. Grote organisaties met veel projectdocumentatie hebben daar het meest aan. Kleine teams merken er mogelijk weinig van, omdat nog niet bekend is welke functies gratis of betaald worden. Let ook op de Europese regels rond privacy en dataverwerking. Bedrijfskennis naar een AI-model sturen vraagt om duidelijke afspraken over waar die data staat en wie erbij kan. OpenAI heeft nog niet gezegd hoe dat voor Europese klanten wordt geregeld.",
+ "faq": [
+  {
+   "q": "Wat houdt de samenwerking tussen Atlassian en OpenAI in?",
+   "a": "OpenAI koppelt zijn AI-modellen aan kennis uit Atlassian-software zoals Jira en Confluence. Zo moeten teams sneller kunnen plannen en werk opleveren."
+  },
+  {
+   "q": "Wanneer komen deze AI-functies beschikbaar?",
+   "a": "Dat is nog niet bekend. OpenAI en Atlassian noemen geen releasedatum en geen prijs in hun aankondiging."
+  },
+  {
+   "q": "Heb ik als Nederlandse gebruiker iets aan deze samenwerking?",
+   "a": "Mogelijk wel, als je Jira of Confluence gebruikt. Of de functies in Nederland en de rest van de EU komen en wat ze kosten, is nog niet duidelijk."
+  }
+ ],
+ "slug": "atlassian-en-openai-koppelen-ai-aan-bedrijfskennis",
+ "kind": "news",
+ "date": "2026-10-06",
+ "published": "2026-10-06T19:24",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+   "url": "https://openai.com/index/atlassian-partnership"
+  }
+ ],
+ "path": "/nieuws/atlassian-en-openai-koppelen-ai-aan-bedrijfskennis/",
+ "og": "/img/og/atlassian-en-openai-koppelen-ai-aan-bedrijfskennis.png",
+ "take": "Ik heb zelf niet met deze koppeling gewerkt, dus veel verder dan het persbericht kom ik niet. Waar ik wel iets van vind: AI mag van mij het zoekwerk doen in dat soort bedrijfskennis, maar de knoppen waarmee je echt geld uitgeeft of werk de deur uit doet, blijven bij een mens. Teams die straks blind op zo'n agent vertrouwen, leveren sneller op en ontdekken later dat niemand nog weet waarom."
+}

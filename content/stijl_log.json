@@ -242,5 +242,59 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-06T19:23:22",
+  "slug": "",
+  "title": "ChatGPT krijgt onzichtbaar watermerk voor gebruikers in de EU",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-06T19:23:30",
+  "slug": "",
+  "title": "Atlassian en OpenAI koppelen AI aan bedrijfskennis",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-06T19:23:38",
+  "slug": "",
+  "title": "AI hackers banken: Zuid-Korea waarschuwt voor aanvallen met AI",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-06T19:23:46",
+  "slug": "",
+  "title": "Claude Team gratis: Anthropic geeft startups een jaar cadeau",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

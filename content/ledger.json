@@ -1227,6 +1227,22 @@
   "ba6c5da9a8": {
    "at": "2026-10-06T12:31:18.915166",
    "why": "ok"
+  },
+  "b62d71d361": {
+   "at": "2026-10-06T19:23:12.008767",
+   "why": "ok"
+  },
+  "60ef2af305": {
+   "at": "2026-10-06T19:24:12.008767",
+   "why": "ok"
+  },
+  "f15446d0fe": {
+   "at": "2026-10-06T19:25:12.008767",
+   "why": "poort"
+  },
+  "5ca9c0ebb6": {
+   "at": "2026-10-06T19:25:12.008767",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1424,6 +1440,9 @@
   "AI schrijft acne-recept voor na gezichtsscan in Utah",
   "OpenAI voegt onzichtbaar watermerk toe aan ChatGPT-teksten in de EU",
   "Reflection lanceert Beam: open-weight AI-model voor bedrijven",
-  "AI wiskunde doorbraak: wat OpenAI en Anthropic claimen"
+  "AI wiskunde doorbraak: wat OpenAI en Anthropic claimen",
+  "ChatGPT krijgt onzichtbaar watermerk voor gebruikers in de EU",
+  "Atlassian en OpenAI koppelen AI aan bedrijfskennis",
+  "Claude Team gratis: Anthropic geeft startups een jaar cadeau"
  ]
 }
