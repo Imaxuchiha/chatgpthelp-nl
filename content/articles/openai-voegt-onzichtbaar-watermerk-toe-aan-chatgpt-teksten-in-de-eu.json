@@ -1,0 +1,68 @@
+{
+ "keyword": "chatgpt watermerk",
+ "seo_title": "ChatGPT watermerk: onzichtbaar merkteken in de EU",
+ "title": "OpenAI voegt onzichtbaar watermerk toe aan ChatGPT-teksten in de EU",
+ "meta": "OpenAI merkt teksten van ChatGPT en Codex voortaan onzichtbaar in de Europese Unie. Lees wat dat betekent voor jou en je werk.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "chatgpt",
+  "watermerk",
+  "eu",
+  "ai-wet"
+ ],
+ "intro": "OpenAI heeft bekendgemaakt dat teksten die gebruikers laten maken met ChatGPT en Codex voortaan een onzichtbaar watermerk bevatten. Dat gebeurt alleen binnen de Europese Unie, om te voldoen aan nieuwe regelgeving. Voor gebruikers in Nederland verandert er zichtbaar weinig aan de uitvoer.",
+ "takeaways": [
+  "OpenAI voegt een onzichtbaar watermerk toe aan gegenereerde teksten van ChatGPT en Codex.",
+  "Het watermerk geldt alleen voor gebruikers in de Europese Unie.",
+  "Het doel is naleving van nieuwe Europese regels rond AI.",
+  "Aan de tekst zelf verandert voor de lezer niets zichtbaars."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI aankondigt",
+   "body": "OpenAI meldt dat er voortaan een onzichtbaar watermerk zit in teksten die gebruikers laten genereren met ChatGPT en Codex. Het merkteken is niet met het blote oog te zien. Volgens OpenAI dient het om herkomst van AI-teksten controleerbaar te maken.\n\nDe maatregel geldt alleen in de Europese Unie. Buiten de EU blijft de situatie zoals die was. OpenAI koppelt de stap aan nieuwe Europese regels voor AI."
+  },
+  {
+   "heading": "Waarom alleen in de EU",
+   "body": "De Europese Unie stelt eisen aan systemen die teksten genereren. Aanbieders moeten duidelijk maken dat content door AI is gemaakt. OpenAI past het watermerk daarom toe waar die regels gelden.\n\nVoor gebruikers in Nederland betekent dit dat hun gegenereerde teksten het merkteken bevatten. Dat gebeurt automatisch. Je hoeft zelf niets aan te zetten of in te stellen."
+  },
+  {
+   "heading": "Wat een watermerk wel en niet doet",
+   "body": "Een watermerk is een signaal dat in de tekst zelf is verwerkt. Het is niet zichtbaar voor wie de tekst leest. Software kan het merkteken mogelijk wel herkennen.\n\nOpenAI geeft geen details over hoe het watermerk precies werkt. Ook is nog niet bekend hoe nauwkeurig het is te detecteren. Of het merkteken bewerkingen overleeft, zoals knippen en plakken, is niet duidelijk."
+  },
+  {
+   "heading": "Gevolgen voor bedrijven en redacties",
+   "body": "Organisaties die ChatGPT gebruiken voor teksten kunnen te maken krijgen met herkenning achteraf. Een klant of toezichthouder kan mogelijk vaststellen dat een tekst met AI is gemaakt.\n\nVoor redacties en communicatieafdelingen is dat relevant. Wie AI-teksten publiceert, moet kunnen uitleggen hoe die tot stand kwamen. Het watermerk maakt die herkomst in theorie controleerbaar."
+  }
+ ],
+ "nl_angle": "In Nederland geldt het watermerk voor iedereen die ChatGPT of Codex gebruikt. Je merkt er direct niets van: de uitvoer ziet er hetzelfde uit. Werk je met AI-teksten voor klanten, dan kan het later wel uitmaken. Een opdrachtgever of toezichthouder kan mogelijk nagaan of een tekst door AI is gemaakt. Het loont om intern af te spreken wanneer je AI inzet en hoe je dat vastlegt.",
+ "faq": [
+  {
+   "q": "Krijgt elke ChatGPT-tekst nu een watermerk?",
+   "a": "Volgens OpenAI krijgen teksten van ChatGPT en Codex een onzichtbaar watermerk, maar alleen voor gebruikers in de Europese Unie."
+  },
+  {
+   "q": "Kan ik het watermerk zien in de tekst?",
+   "a": "Nee, het merkteken is onzichtbaar. Het is bedoeld om met software te kunnen worden herkend."
+  },
+  {
+   "q": "Waarom doet OpenAI dit alleen in de EU?",
+   "a": "OpenAI zegt dit te doen om te voldoen aan nieuwe Europese regels voor AI. Buiten de EU geldt de maatregel niet."
+  }
+ ],
+ "slug": "openai-voegt-onzichtbaar-watermerk-toe-aan-chatgpt-teksten-in-de-eu",
+ "kind": "news",
+ "date": "2026-10-06",
+ "published": "2026-10-06T12:29",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "OpenAI voegt onzichtbaar watermerk toe aan gegenereerde ChatGPT-teksten",
+   "url": "https://www.bright.nl/nieuws/2143560/openai-voegt-onzichtbaar-watermerk-toe-aan-gegenereerde-chatgpt-teksten.html"
+  }
+ ],
+ "path": "/nieuws/openai-voegt-onzichtbaar-watermerk-toe-aan-chatgpt-teksten-in-de-eu/",
+ "og": "/img/og/openai-voegt-onzichtbaar-watermerk-toe-aan-chatgpt-teksten-in-de-eu.png",
+ "take": "Dat watermerk zit in de uitvoer verstopt, dus je merkt er niks van. Prima van OpenAI, maar zo'n stempel lost niks op als je zelf je teksten husselt. Bij mijn eigen tools blijven de knoppen waar geld in het spel is gewoon bij mij, en zo hoort het ook."
+}

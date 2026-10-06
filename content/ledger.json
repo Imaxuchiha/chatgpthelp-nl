@@ -1195,6 +1195,38 @@
   "5bc9d1f473": {
    "at": "2026-10-06T00:34:53.549876",
    "why": "ok"
+  },
+  "5655d4ea5a": {
+   "at": "2026-10-06T12:29:18.915166",
+   "why": "high-risk"
+  },
+  "59fe1c77c8": {
+   "at": "2026-10-06T12:29:18.915166",
+   "why": "poort"
+  },
+  "13690b186d": {
+   "at": "2026-10-06T12:29:18.915166",
+   "why": "high-risk"
+  },
+  "161e220c42": {
+   "at": "2026-10-06T12:29:18.915166",
+   "why": "ok"
+  },
+  "f8194ba3ef": {
+   "at": "2026-10-06T12:30:18.915166",
+   "why": "poort"
+  },
+  "fb1f3dca95": {
+   "at": "2026-10-06T12:30:18.915166",
+   "why": "poort"
+  },
+  "668fcb6077": {
+   "at": "2026-10-06T12:30:18.915166",
+   "why": "ok"
+  },
+  "ba6c5da9a8": {
+   "at": "2026-10-06T12:31:18.915166",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1389,6 +1421,9 @@
   "AI en nepnieuws: nobelprijswinnaar Ressa waarschuwt",
   "ChatGPT krijgt watermerk in de EU, Nederland volgt later",
   "OpenAI legt uit hoe AI tekst watermerken werken onder EU regels",
-  "AI schrijft acne-recept voor na gezichtsscan in Utah"
+  "AI schrijft acne-recept voor na gezichtsscan in Utah",
+  "OpenAI voegt onzichtbaar watermerk toe aan ChatGPT-teksten in de EU",
+  "Reflection lanceert Beam: open-weight AI-model voor bedrijven",
+  "AI wiskunde doorbraak: wat OpenAI en Anthropic claimen"
  ]
 }

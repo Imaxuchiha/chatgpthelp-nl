@@ -1,0 +1,68 @@
+{
+ "keyword": "ai wiskunde doorbraak",
+ "seo_title": "AI wiskunde doorbraak: wat OpenAI en Anthropic claimen",
+ "title": "AI wiskunde doorbraak: wat OpenAI en Anthropic claimen",
+ "meta": "AI-labs claimen doorbraken in de wiskunde, tot een Millenniumprijsvraag aan toe. Wat klopt ervan en wat betekent dit voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "wiskunde",
+  "openai",
+  "anthropic",
+  "onderzoek"
+ ],
+ "intro": "OpenAI, Anthropic en andere labs meldden het afgelopen jaar doorbraken bij langdurige wiskundeproblemen. Volgens The Verge gaat dat verder dan onderzoekers tot nu toe voor mogelijk hielden. Een van de zeven Millenniumprijsvragen zou zijn opgelost. Tegelijk gaan de labs snel te werk en sneuvelen er dingen.",
+ "takeaways": [
+  "OpenAI en Anthropic claimen oplossingen voor meerdere oude wiskundeproblemen.",
+  "Een van de Millennium Prize-problemen zou zijn opgelost, meldt The Verge.",
+  "De resultaten gaan verder dan onderzoekers verwachtten van huidige systemen.",
+  "De labs werken volgens critici te snel en controleren te weinig."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de labs claimen",
+   "body": "Het afgelopen jaar kwamen er berichten van OpenAI, Anthropic en andere laboratoria over wiskundige doorbraken. Het gaat om problemen waar onderzoekers soms decennia mee bezig zijn. In minstens één geval zou het gaan om een van de zeven Millennium Prize-problemen. Die staan bekend als extreem moeilijk. The Verge schrijft dat de systemen verder reiken dan wat onderzoekers nu van zulke modellen verwachtten.\n\nDat is opvallend. Wiskunde geldt als een vak waarin je een bewijs volledig moet kunnen volgen. Een goed antwoord alleen is niet genoeg. De labs zeggen dat hun systemen niet alleen uitkomsten geven, maar ook redeneringen opbouwen. Onafhankelijke wiskundigen hebben nog niet alles kunnen narekenen."
+  },
+  {
+   "heading": "Snel bewegen, dingen breken",
+   "body": "The Verge plaatst de claims in een bekend patroon uit Silicon Valley. De labs kondigen resultaten snel aan en werken ondertussen door aan de volgende versie. Volgens de bron gebeurt dat in een tempo waarin zorgvuldige controle lastig bij te houden is. Wiskundigen buiten de labs krijgen weinig tijd om bewijzen te lezen en te testen.\n\nDat levert spanning op. Een fout bewijs kan jaren rondzingen voordat iemand de fout vindt. Bij gewone software merk je een fout vaak snel. Bij een lang bewijs kan het lang duren. De vraag is dan ook hoe de labs met correcties omgaan."
+  },
+  {
+   "heading": "Waarom dit meer is dan een wedstrijdje",
+   "body": "Wiskunde is een testcase voor AI. Een model dat een bewijs vindt, moet stappen zetten die logisch kloppen. Dat is lastiger dan een vloeiende tekst schrijven. De resultaten zeggen dus iets over hoe ver zulke systemen zijn.\n\nVoor de labs is het ook een middel om hun modellen te verkopen. Wie een Millenniumprijsvraag oplost, trekt aandacht van onderzoekers, bedrijven en overheden. The Verge noemt de aankondigingen dan ook onderdeel van een bredere strijd om wie de beste AI bouwt."
+  },
+  {
+   "heading": "Wat nog onduidelijk is",
+   "body": "Veel details zijn nog niet openbaar. Het is niet duidelijk welke problemen precies zijn opgelost. Ook is niet bekend hoe lang de systemen erover deden en welke rol mensen hadden. Sommige resultaten zijn nog niet door vakgenoten beoordeeld.\n\nZolang dat niet is gebeurd, blijft het bij claims. Dat betekent niet dat er niets is gebeurd. Het betekent wel dat je voorzichtig moet zijn met de conclusie dat AI de wiskunde overneemt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse onderzoekers en studenten verandert er voorlopig weinig in hun dagelijkse werk. Wel is het verstandig om aankondigingen van AI-labs te volgen via vakbladen en preprint-servers, niet via persberichten. Universiteiten in Nederland gebruiken zulke systemen al bij het controleren van bewijzen en het zoeken naar fouten. Wie zelf met wiskunde werkt, kan een model inzetten als hulpmiddel, maar moet de uitkomst altijd narekenen. Voor bedrijven die AI inhuren voor technisch rekenwerk geldt hetzelfde: vraag om controleerbare stappen, niet alleen om een eindantwoord.",
+ "faq": [
+  {
+   "q": "Heeft AI echt een Millenniumprijsvraag opgelost?",
+   "a": "Volgens The Verge claimen labs dat een van de zeven problemen is opgelost. Onafhankelijke bevestiging door wiskundigen ontbreekt nog."
+  },
+  {
+   "q": "Welke AI-lab deed deze doorbraken?",
+   "a": "Het gaat om OpenAI, Anthropic en andere laboratoria. Welk lab welk probleem oploste, is niet volledig duidelijk."
+  },
+  {
+   "q": "Wat betekent dit voor wiskundigen in Nederland?",
+   "a": "Zij kunnen AI gebruiken als hulpmiddel bij bewijzen en controle. De uitkomsten moeten ze zelf narekenen, want veel resultaten zijn nog niet beoordeeld."
+  }
+ ],
+ "slug": "ai-wiskunde-doorbraak-wat-openai-en-anthropic-claimen",
+ "kind": "news",
+ "date": "2026-10-06",
+ "published": "2026-10-06T12:31",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "All the drama around AI’s takeover of mathematics",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution"
+  }
+ ],
+ "path": "/nieuws/ai-wiskunde-doorbraak-wat-openai-en-anthropic-claimen/",
+ "og": "/img/og/ai-wiskunde-doorbraak-wat-openai-en-anthropic-claimen.png",
+ "take": "Wiskundeclaims van labs zeggen me weinig tot iemand de oplossing publiek verifieert. Ik lees AI-tekst dagelijks terug aan klanten, en een model dat als machine klinkt verkoopt gewoon niet, dus bewijs eerst maar dat het echt klopt. Dat een vraagstuk sneuvelt voordat het af is, herken ik: bij mijn eigen tools zie ik pas wat werkt als ik het test op echte data."
+}

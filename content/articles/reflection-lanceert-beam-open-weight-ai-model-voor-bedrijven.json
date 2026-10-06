@@ -1,0 +1,68 @@
+{
+ "keyword": "open-weight ai model",
+ "seo_title": "open-weight ai model: Reflection lanceert Beam",
+ "title": "Reflection lanceert Beam: open-weight AI-model voor bedrijven",
+ "meta": "Reflection brengt Beam uit, een open-weight AI-model voor bedrijven en overheden. Wat betekent dit voor organisaties in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "reflection",
+  "beam",
+  "open-weight",
+  "ai-modellen",
+  "bedrijven"
+ ],
+ "intro": "Reflection heeft Beam aangekondigd, een open-weight AI-model dat moet concurreren met Chinese modellen tegen lagere rekenkosten. Het bedrijf richt zich op bedrijven en overheden die hun eigen AI-systemen willen bouwen. Volgens TechCrunch is de timing opvallend, nu de vraag naar lokale AI-oplossingen groeit.",
+ "takeaways": [
+  "Reflection lanceert Beam, een open-weight AI-model dat concurreert met Chinese modellen tegen lagere rekenkosten.",
+  "Het model richt zich op enterprises en sovereign nations die eigen AI-fabrieken willen bouwen.",
+  "Instellingen kunnen Reflection-modellen trainen op eigen data voor een lokaal, gepersonaliseerd AI-systeem.",
+  "TechCrunch meldt dat de aankondiging past bij de groeiende vraag naar soevereine AI-oplossingen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Reflection met Beam wil bereiken",
+   "body": "Reflection positioneert Beam als alternatief voor Chinese open-weight modellen. Het bedrijf zegt dat Beam minder rekenkracht nodig heeft dan bestaande modellen. Dat is relevant voor organisaties met beperkte GPU-capaciteit.\n\nHet model is open-weight. Dat betekent dat de gewichten van het model beschikbaar zijn. Instellingen kunnen het model dus zelf draaien en aanpassen. Reflection mikt op bedrijven en overheden die niet afhankelijk willen zijn van externe cloudpartijen."
+  },
+  {
+   "heading": "AI-fabrieken als product",
+   "body": "Reflection verkoopt niet alleen het model. Het bedrijf biedt ook zogeheten AI-fabrieken aan. Dat is een product waarmee instellingen hun eigen lokale AI-systeem bouwen. Ze trainen de modellen van Reflection op hun eigen bedrijfsdata.\n\nVolgens TechCrunch is dat een bewuste keuze. Veel organisaties willen hun data niet naar een Amerikaanse of Chinese cloud sturen. Een lokaal systeem geeft meer controle over gevoelige informatie. Reflection speelt met Beam in op die behoefte."
+  },
+  {
+   "heading": "Concurrentie met Chinese modellen",
+   "body": "Chinese open-weight modellen zijn de afgelopen jaren sterk in prijs gedaald. Reflection zegt dat Beam vergelijkbare prestaties levert tegen lagere rekenkosten. Het bedrijf noemt geen concrete cijfers of benchmarks in de aankondiging.\n\nOf Beam echt goedkoper is, valt nog niet te controleren. TechCrunch meldt dat Reflection geen onafhankelijke testresultaten heeft gedeeld. Nederlandse bedrijven die willen vergelijken, moeten wachten op meer informatie."
+  },
+  {
+   "heading": "Soevereine AI als trend",
+   "body": "Steeds meer landen en grote organisaties willen eigen AI-capaciteit. Ze willen niet afhankelijk zijn van een paar Amerikaanse techbedrijven. Reflection noemt die groep expliciet als doelgroep.\n\nIn Europa speelt daarnaast de AI-verordening een rol. Organisaties moeten kunnen uitleggen hoe hun AI-systemen werken. Een lokaal getraind model maakt dat eenvoudiger. Reflection zegt dat Beam daarvoor geschikt is, maar details over naleving ontbreken nog."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en overheidsinstellingen is Beam interessant als het echt minder rekenkracht kost. Dan wordt een eigen AI-systeem betaalbaarder. De AI-verordening vraagt om transparantie over gebruikte modellen. Een open-weight model dat je zelf draait, helpt daarbij. Reflection heeft nog geen prijzen in euro's of beschikbaarheid in de EU genoemd. Nederlandse organisaties kunnen zich voorlopig oriënteren, maar nog niet bestellen.",
+ "faq": [
+  {
+   "q": "Wat is een open-weight AI-model?",
+   "a": "Bij een open-weight model zijn de gewichten van het getrainde model beschikbaar. Je kunt het model zelf draaien en aanpassen, zonder afhankelijk te zijn van de maker."
+  },
+  {
+   "q": "Is Beam beschikbaar in Nederland?",
+   "a": "Reflection heeft nog geen releasedatum of beschikbaarheid voor Europa genoemd. Het is dus nog niet bekend wanneer Beam in Nederland te gebruiken is."
+  },
+  {
+   "q": "Wat kost Beam?",
+   "a": "Reflection noemt geen prijzen. Het bedrijf zegt alleen dat Beam minder rekenkosten vraagt dan concurrerende modellen."
+  }
+ ],
+ "slug": "reflection-lanceert-beam-open-weight-ai-model-voor-bedrijven",
+ "kind": "news",
+ "date": "2026-10-06",
+ "published": "2026-10-06T12:30",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+  }
+ ],
+ "path": "/nieuws/reflection-lanceert-beam-open-weight-ai-model-voor-bedrijven/",
+ "og": "/img/og/reflection-lanceert-beam-open-weight-ai-model-voor-bedrijven.png",
+ "take": "Ik heb Beam zelf niet gebruikt, dus ik oordeel alleen op wat er nu ligt: een aankondiging met een belofte over lagere rekenkosten. Mijn regel is simpel: eerst zien, dan geloven. Laat me een werkende versie zien op een echte server met echte data, en dan praten we verder."
+}
