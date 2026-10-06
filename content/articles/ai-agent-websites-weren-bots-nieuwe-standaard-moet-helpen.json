@@ -1,0 +1,68 @@
+{
+ "keyword": "ai-agent websites",
+ "seo_title": "AI-agent websites weren bots: nieuwe standaard",
+ "title": "AI-agent websites weren bots, nieuwe standaard moet helpen",
+ "meta": "AI-agent websites blokkeren steeds vaker geautomatiseerde bezoekers. Lees wat er speelt, wat een nieuwe standaard doet en wat dit voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "ai-agents",
+  "websites",
+  "standaard",
+  "bots",
+  "openai"
+ ],
+ "intro": "Persoonlijke AI-agenten moeten voor jou kunnen shoppen, vluchten boeken en reserveringen regelen. Websites zetten daar steeds vaker bewust een blokkade tegenop. TechCrunch meldt dat een nieuwe standaard moet helpen om die impasse te doorbreken.",
+ "takeaways": [
+  "Websites weren AI-agenten met anti-botverdediging en bewuste blokkades",
+  "TechCrunch meldt dat een nieuwe standaard moet helpen bij toegang",
+  "Consumenten zitten tussen de belofte van agenten en de praktijk in",
+  "Duidelijk is nog niet welke partijen de standaard precies steunen"
+ ],
+ "sections": [
+  {
+   "heading": "Wat AI-agenten willen doen",
+   "body": "Een AI-agent is software die zelfstandig taken uitvoert. Je geeft een opdracht en de agent regelt de rest. Denk aan een vlucht boeken, een tafel reserveren of een product bestellen.\n\nTechCrunch beschrijft dat zulke agenten vooral beloven dat je zelf geen formulieren meer invult. De agent klikt, typt en betaalt namens jou. In theorie scheelt dat tijd en gedoe.\n\nDe praktijk is weerbarstiger. Veel websites zien zo'n agent als een geautomatiseerde bezoeker. Dat is precies het soort verkeer dat ze liever weren."
+  },
+  {
+   "heading": "Waarom sites de deur dicht houden",
+   "body": "Websites gebruiken anti-botverdediging om misbruik tegen te gaan. Denk aan scraping, nepaccounts en geautomatiseerd ticketkopen. Een agent die namens een mens werkt, lijkt technisch op zo'n bot.\n\nSommige sites blokkeren agenten ook bewust. TechCrunch noemt die blokkades een volgende horde voor de hele sector. De consument zit daardoor tussen belofte en praktijk in.\n\nHet gevolg is herkenbaar. De agent loopt vast, de taak mislukt en jij moet alsnog zelf boeken. De belofte van gemak verdampt dan snel."
+  },
+  {
+   "heading": "Een nieuwe standaard als uitweg",
+   "body": "Volgens TechCrunch moet een nieuwe standaard duidelijk maken welke agentensoftware welkom is. Websites kunnen dan onderscheid maken tussen kwaadwillende bots en agenten met toestemming van de gebruiker.\n\nHoe die standaard precies werkt, is nog niet volledig bekend. TechCrunch noemt geen concrete namen van bedrijven die al meedoen. Ook is onduidelijk wanneer de standaard breed beschikbaar komt.\n\nDuidelijk is wel dat er iets moet veranderen. Zonder afspraken blijven agenten tegen dezelfde muren aanlopen."
+  },
+  {
+   "heading": "Wat dit betekent voor gebruikers",
+   "body": "Voor jou als gebruiker verandert er voorlopig weinig. Een agent die vluchten boekt, werkt alleen op sites die hem toelaten. Bij websites die blokkeren, moet je zelf aan de slag.\n\nToch is het onderwerp relevant. Steeds meer mensen gebruiken AI voor dagelijkse taken. Als websites dat blijven blokkeren, blijft het gemak beperkt tot een handvol platforms.\n\nDe vraag is of winkels en boekingssites meewerken. Zij bepalen uiteindelijk of jouw agent binnenkomt of buiten blijft."
+  }
+ ],
+ "nl_angle": "In Nederland merk je dit vooral bij webwinkels, reisbureaus en reserveringssystemen. Grote platforms kunnen een standaard sneller invoeren dan kleine Nederlandse sites. Tot die tijd blijft het uitproberen: de ene agent werkt wel, de andere loopt vast. Let ook op Europese regels rond geautomatiseerde toegang en gegevensbescherming. Die kunnen de invoering hier vertragen of juist sturen.",
+ "faq": [
+  {
+   "q": "Wat is een AI-agent precies?",
+   "a": "Een AI-agent is software die zelfstandig taken uitvoert, zoals boeken of bestellen, op basis van jouw opdracht."
+  },
+  {
+   "q": "Waarom blokkeren websites AI-agenten?",
+   "a": "Veel sites weren geautomatiseerd verkeer om scraping, nepaccounts en misbruik tegen te gaan. Een agent lijkt technisch op zo'n bot."
+  },
+  {
+   "q": "Werkt dit al in Nederland?",
+   "a": "Sommige diensten werken, veel sites blokkeren nog. Een nieuwe standaard moet daar verandering in brengen, maar details zijn nog niet bekend."
+  }
+ ],
+ "slug": "ai-agent-websites-weren-bots-nieuwe-standaard-moet-helpen",
+ "kind": "news",
+ "date": "2026-10-06",
+ "published": "2026-10-06T22:57",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "The next hurdle for AI agents: getting websites to let them in",
+   "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
+  }
+ ],
+ "path": "/nieuws/ai-agent-websites-weren-bots-nieuwe-standaard-moet-helpen/",
+ "og": "/img/og/ai-agent-websites-weren-bots-nieuwe-standaard-moet-helpen.png",
+ "take": "Een standaard tegen blokkades lost niks op als de belofte niet klopt. Ik zie liever eerst dat zo'n agent echt een vlucht boekt, dan dat ik weer een persbericht lees over hoe geweldig het gaat worden. Mijn geld-knoppen blijven bij een mens tot dat ding het aantoont."
+}

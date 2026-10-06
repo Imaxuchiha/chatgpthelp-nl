@@ -296,5 +296,46 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-06T22:55:20",
+  "slug": "",
+  "title": "OpenAI en Ironclad testen AI-agents op contractwerk",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-06T22:55:28",
+  "slug": "",
+  "title": "AI contentmoderatie krijgt licht model PolicyLM-1.7B",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-06T22:55:36",
+  "slug": "",
+  "title": "AI-agent websites weren bots, nieuwe standaard moet helpen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

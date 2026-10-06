@@ -1,0 +1,68 @@
+{
+ "keyword": "ai contentmoderatie",
+ "seo_title": "AI contentmoderatie: PolicyLM-1.7B uitgelegd",
+ "title": "AI contentmoderatie krijgt licht model PolicyLM-1.7B",
+ "meta": "Musubi brengt PolicyLM-1.7B uit, een licht AI-model voor contentmoderatie. Lees wat open weights betekenen voor platforms en gebruikers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "contentmoderatie",
+  "ai-modellen",
+  "open weights",
+  "musubi",
+  "platforms"
+ ],
+ "intro": "Musubi heeft dinsdag PolicyLM-1.7B aangekondigd, een licht beslismodel voor contentmoderatie in realtime. Het bedrijf brengt het model uit met open weights. Dat betekent dat anderen de software zelf kunnen draaien en aanpassen. TechCrunch meldt het nieuws.",
+ "takeaways": [
+  "PolicyLM-1.7B is een licht beslismodel van Musubi voor moderatie in realtime",
+  "Het model komt uit met open weights, dus anderen kunnen het zelf gebruiken",
+  "TechCrunch noemt het een voorbeeld van AI-beslismodellen voor contentmoderatie",
+  "Het model heeft 1,7 miljard parameters, af te leiden uit de naam"
+ ],
+ "sections": [
+  {
+   "heading": "Wat Musubi aankondigde",
+   "body": "Musubi kondigde dinsdag PolicyLM-1.7B aan. Volgens TechCrunch gaat het om een licht beslismodel. Het is gemaakt voor contentmoderatie in realtime. Het bedrijf brengt het model uit met open weights.\n\nOpen weights betekent dat de modelbestanden publiek beschikbaar zijn. Iedereen met genoeg rekenkracht kan het model zelf draaien. Je hoeft dan geen gebruik te maken van een externe dienst. De naam suggereert 1,7 miljard parameters, al zegt de bron dat niet expliciet.\n\nTechCrunch plaatst het nieuws in een bredere ontwikkeling. AI-beslismodellen kunnen de manier waarop platforms content beoordelen veranderen. In plaats van alles naar een groot model te sturen, kun je een kleiner model dicht bij de content draaien."
+  },
+  {
+   "heading": "Waarom een licht model telt",
+   "body": "Grote taalmodellen kosten veel rekenkracht. Voor elke reactie of elk bericht een groot model aanroepen, is duur en traag. Een licht model van 1,7 miljard parameters past op minder krachtige hardware. Dat maakt moderatie op locatie mogelijk.\n\nRealtime moderatie betekent dat een platform een bericht beoordeelt op het moment dat het verschijnt. Een kleiner model kan dat sneller doen. TechCrunch noemt PolicyLM-1.7B een beslismodel, wat wijst op een specifieke taak: beslissen of content wel of niet door mag.\n\nOpen weights geven platforms controle. Ze kunnen het model aanpassen aan eigen regels. Ze zijn niet afhankelijk van één leverancier. Wel blijft verantwoordelijkheid voor de uitkomsten bij het platform zelf liggen."
+  },
+  {
+   "heading": "Wat open weights betekenen",
+   "body": "Bij open weights krijg je de bestanden van het model. Je kunt het zelf installeren en draaien. Dat verschilt van een gesloten model, waarbij je alleen via een API toegang krijgt. OpenAI en Anthropic kiezen vaak voor die gesloten aanpak.\n\nOpen weights maken onderzoek en aanpassing makkelijker. Een Nederlandse partij kan het model fijnslijpen op de eigen taal en regels. Ook kun je gegevens lokaal houden, wat scheelt voor privacygevoelige content.\n\nEr kleven ook nadelen aan. Je hebt zelf hardware en kennis nodig. En een open model kan door anderen worden misbruikt. Musubi heeft nog niet gezegd welke licentie precies geldt. Dat is nog niet bekend."
+  },
+  {
+   "heading": "Moderatie en AI-beslissingen",
+   "body": "Contentmoderatie is het beoordelen van berichten, video's en reacties. Platforms doen dat om spam, haat en illegale inhoud te weren. Vaak gebeurt dat deels automatisch en deels met menselijke controle.\n\nAI-beslismodellen kunnen dat proces versnellen. Ze geven een oordeel op basis van regels die het platform heeft opgesteld. TechCrunch stelt dat zulke modellen de moderatie kunnen veranderen. Een klein model kan een eerste filter zijn, waarna mensen twijfelgevallen bekijken.\n\nVoor gebruikers verandert er indirect iets. Snellere moderatie kan betekenen dat ongewenste content eerder verdwijnt. Tegelijk kan een automatisch oordeel onterecht zijn. Bezwaar maken blijft dan nodig."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse platforms en bedrijven is een licht model met open weights interessant. Je kunt het zelf draaien op eigen servers, zonder data naar het buitenland te sturen. Dat helpt bij de AVG, die strenge eisen stelt aan het verwerken van persoonsgegevens. Grote Nederlandse platforms zoals Marktplaats of Dumpert zouden zo'n model kunnen inzetten voor hun reacties. Kleinere organisaties hebben er minder aan, omdat ze kennis en hardware missen. Of PolicyLM-1.7B in de EU beschikbaar komt en onder welke licentie, is nog niet duidelijk.",
+ "faq": [
+  {
+   "q": "wat is PolicyLM-1.7B?",
+   "a": "PolicyLM-1.7B is een licht AI-beslismodel van Musubi voor contentmoderatie in realtime. Het bedrijf bracht het dinsdag uit met open weights, meldt TechCrunch."
+  },
+  {
+   "q": "wat betekent open weights?",
+   "a": "Open weights betekent dat de bestanden van het model publiek beschikbaar zijn. Je kunt het model dan zelf draaien en aanpassen, in plaats van alleen via een API van de maker."
+  },
+  {
+   "q": "is PolicyLM-1.7B beschikbaar in Nederland?",
+   "a": "Musubi heeft nog niet gezegd of en wanneer het model in Nederland of de EU beschikbaar komt. Ook de exacte licentie is nog niet bekend."
+  }
+ ],
+ "slug": "ai-contentmoderatie-krijgt-licht-model-policylm-1-7b",
+ "kind": "news",
+ "date": "2026-10-06",
+ "published": "2026-10-06T22:56",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "How AI decision models could change content moderation",
+   "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
+  }
+ ],
+ "path": "/nieuws/ai-contentmoderatie-krijgt-licht-model-policylm-1-7b/",
+ "og": "/img/og/ai-contentmoderatie-krijgt-licht-model-policylm-1-7b.png",
+ "take": "Open weights klinken mooi, maar ik beoordeel een model op wat het doet in de praktijk. In advertentieaccounts zie ik dat de meeste 'problemen' meetfouten zijn en geen echte dalingen, dus ik kijk eerst naar de data voordat ik iets aanpas. Een licht model voor contentmoderatie is prima voor volume, maar zonder goede meting eronder optimaliseert het gewoon de verkeerde kant op."
+}

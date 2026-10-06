@@ -1,0 +1,67 @@
+{
+ "keyword": "openai computer use",
+ "seo_title": "OpenAI computer use: Ironclad test AI-agents",
+ "title": "OpenAI en Ironclad testen AI-agents op contractwerk",
+ "meta": "OpenAI en Ironclad trainen AI-agents op complexe contracttaken. Lees wat computer use betekent voor werk en wetgeving in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ironclad",
+  "computer use",
+  "ai-agents",
+  "contracten"
+ ],
+ "intro": "OpenAI werkt samen met softwarebedrijf Ironclad aan AI-agents die zelfstandig computers bedienen. De twee partijen trainen en testen die agents op ingewikkelde contracttaken. Daarmee wil OpenAI computer use geschikt maken voor professioneel werk.",
+ "takeaways": [
+  "OpenAI en Ironclad richten zich op complexe workflows rond contracten.",
+  "De agents leren een computer te bedienen zoals een medewerker dat doet.",
+  "Evaluatie van zulk werk moet duidelijk maken hoe betrouwbaar de aanpak is.",
+  "OpenAI noemt nog geen prijs, releasedatum of beschikbaarheid in Nederland."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI en Ironclad samen doen",
+   "body": "OpenAI meldt dat het samen met Ironclad AI-agents traint en beoordeelt. Het gaat om complexe workflows in het contractproces. Een agent moet daarbij stappen op een computer uitvoeren, zoals klikken, lezen en invullen.\n\nIronclad levert software voor contractbeheer. Dat maakt het bedrijf een geschikte testomgeving. De agents komen dus niet alleen in een demo terecht, maar in werk dat juridische teams dagelijks doen.\n\nOpenAI zegt dat het doel is om computer use voor professioneel werk verder te brengen. Hoe de samenwerking precies is ingericht, maakt OpenAI niet volledig openbaar."
+  },
+  {
+   "heading": "Wat computer use inhoudt",
+   "body": "Bij computer use bestuurt een AI-model een computeromgeving. De agent ziet een scherm, kiest een actie en voert die uit. Dat gaat verder dan tekst genereren in een chatvenster.\n\nIn contractwerk zitten veel terugkerende stappen. Denk aan gegevens uit een document halen, velden invullen en een taak doorsturen. Zulke stappen lenen zich voor automatisering.\n\nTegelijk blijft controle nodig. Een verkeerde klik kan gevolgen hebben voor een overeenkomst. OpenAI en Ironclad testen daarom ook hoe je zulk gedrag beoordeelt."
+  },
+  {
+   "heading": "Waarom dit telt voor werk",
+   "body": "Veel kantoorwerk draait om software bedienen. Wie dat kan automatiseren, verandert de rol van medewerkers. Zij gaan dan vooral controleren en beslissen.\n\nVoor juridische teams kan dat schelen in tijd. Contracten nalezen en verwerken kost nu eenmaal uren. Een agent die voorwerk doet, houdt menselijke aandacht over voor de lastige punten.\n\nToch is niet elk proces geschikt. Werk met veel uitzonderingen vraagt om menselijke beoordeling. De uitkomst van deze test zegt nog weinig over andere sectoren."
+  },
+  {
+   "heading": "Wat nog niet bekend is",
+   "body": "OpenAI noemt geen prijs, lanceerdatum of landen waar de technologie komt. Ook is niet duidelijk welke modellen precies worden gebruikt.\n\nOf Nederlandse bedrijven dit kunnen inzetten, is dus nog open. Ironclad richt zich vooral op de Amerikaanse markt. Europese regels voor gegevens en AI kunnen invoering vertragen.\n\nMeer informatie volgt waarschijnlijk via OpenAI zelf. Tot die tijd blijft het bij een aankondiging van training en evaluatie."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven is dit vooral een signaal, geen product om te bestellen. Contractwerk komt in vrijwel elk kantoor voor, van mkb tot multinational. Gaat computer use werken, dan raakt dat juridische afdelingen, inkoop en administratie. Let op twee punten. Ten eerste de Europese AI-verordening: systemen die werk automatiseren krijgen plichten rond transparantie en toezicht. Ten tweede de AVG, want contracten bevatten vaak persoonsgegevens. Zolang OpenAI geen Europese beschikbaarheid meldt, kun je hier nog niet mee aan de slag.",
+ "faq": [
+  {
+   "q": "wat is computer use bij OpenAI?",
+   "a": "Een AI-agent bedient zelf een computer: scherm lezen, klikken en formulieren invullen. OpenAI test dit nu op contractwerk met Ironclad."
+  },
+  {
+   "q": "is deze technologie al beschikbaar in Nederland?",
+   "a": "Nee, OpenAI noemt geen releasedatum of beschikbaarheid per land. De samenwerking draait om training en evaluatie."
+  },
+  {
+   "q": "wat betekent dit voor juridische banen?",
+   "a": "Vooral voorbereidend werk kan deels automatisch gaan. Menselijke controle blijft nodig bij uitzonderingen en aansprakelijkheid."
+  }
+ ],
+ "slug": "openai-en-ironclad-testen-ai-agents-op-contractwerk",
+ "kind": "news",
+ "date": "2026-10-06",
+ "published": "2026-10-06T22:55",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Advancing computer use with Ironclad",
+   "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
+  }
+ ],
+ "path": "/nieuws/openai-en-ironclad-testen-ai-agents-op-contractwerk/",
+ "og": "/img/og/openai-en-ironclad-testen-ai-agents-op-contractwerk.png"
+}

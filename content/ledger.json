@@ -1243,6 +1243,22 @@
   "5ca9c0ebb6": {
    "at": "2026-10-06T19:25:12.008767",
    "why": "ok"
+  },
+  "9964af802e": {
+   "at": "2026-10-06T22:55:08.354858",
+   "why": "ok"
+  },
+  "2196494782": {
+   "at": "2026-10-06T22:56:08.354858",
+   "why": "ok"
+  },
+  "43f8aab039": {
+   "at": "2026-10-06T22:57:08.354858",
+   "why": "high-risk"
+  },
+  "fe89f2d659": {
+   "at": "2026-10-06T22:57:08.354858",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1443,6 +1459,9 @@
   "AI wiskunde doorbraak: wat OpenAI en Anthropic claimen",
   "ChatGPT krijgt onzichtbaar watermerk voor gebruikers in de EU",
   "Atlassian en OpenAI koppelen AI aan bedrijfskennis",
-  "Claude Team gratis: Anthropic geeft startups een jaar cadeau"
+  "Claude Team gratis: Anthropic geeft startups een jaar cadeau",
+  "OpenAI en Ironclad testen AI-agents op contractwerk",
+  "AI contentmoderatie krijgt licht model PolicyLM-1.7B",
+  "AI-agent websites weren bots, nieuwe standaard moet helpen"
  ]
 }
