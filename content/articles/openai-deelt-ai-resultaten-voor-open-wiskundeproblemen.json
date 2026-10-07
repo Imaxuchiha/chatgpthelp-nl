@@ -1,0 +1,68 @@
+{
+ "keyword": "openai wiskunde ai",
+ "seo_title": "OpenAI wiskunde ai: nieuwe bewijzen op GitHub",
+ "title": "OpenAI deelt ai-resultaten voor open wiskundeproblemen",
+ "meta": "OpenAI publiceert nieuwe wiskunderesultaten van een intern model en zet de Lean-bewijzen op GitHub. Wat betekent dat voor onderzoek in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "wiskunde",
+  "lean",
+  "onderzoek",
+  "ai"
+ ],
+ "intro": "OpenAI heeft nieuwe resultaten gepubliceerd over openstaande wiskundeproblemen. Die komen uit een intern model dat het bedrijf frontier model noemt. De bewijsuitwerkingen in Lean staan op GitHub, samen met onderzoeksdetails. Daarmee legt OpenAI de nadruk op wiskunde als testgebied voor ai.",
+ "takeaways": [
+  "OpenAI publiceert resultaten op open problemen in de wiskunde.",
+  "Het werk komt uit een intern frontier model van OpenAI.",
+  "De Lean-formalisaties en onderzoeksdetails staan op GitHub.",
+  "Wiskunde dient als meetlat voor de voortgang van ai."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies naar buiten brengt",
+   "body": "Volgens OpenAI gaat het om nieuwe resultaten op open problemen in de wiskunde. Die resultaten komen niet uit een speciaal wiskundeprogramma. Ze komen uit een intern model dat het bedrijf een frontier model noemt.\n\nOpenAI deelt daarbij de bewijsuitwerkingen in Lean. Lean is een programma waarin je een wiskundig bewijs stap voor stap opschrijft. De computer controleert daarna of elke stap klopt. Zo'n formalisatie laat weinig ruimte voor twijfel.\n\nDe formalisaties en de onderzoeksdetails staan op GitHub. Iedereen kan ze daar bekijken en zelf nalopen. OpenAI geeft geen volledige lijst van alle betrokken problemen in de samenvatting."
+  },
+  {
+   "heading": "Waarom Lean-bewijzen er toe doen",
+   "body": "Een bewijs in gewone taal kan fouten bevatten. Een controleprogramma merkt die fouten wel. Daarom kiezen onderzoekers steeds vaker voor Lean als tussenstap.\n\nVoor ai is dat handig. Een model dat een bewijs vindt, moet het ook opschrijven in een vorm die de computer accepteert. Dat maakt de uitkomst meetbaar. Je kunt niet wegkomen met een vaag verhaal.\n\nOpenAI noemt wiskunde vaker als proeftuin. De resultaten zeggen iets over hoe het model redeneert. Ze zeggen niets over de vraag of het model ook buiten de wiskunde betrouwbaar is."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "OpenAI laat in de samenvatting niet zien om welke problemen het precies gaat. Ook is niet duidelijk hoeveel resultaten nieuw zijn voor wiskundigen. De publicatie op GitHub moet daar meer over laten zien.\n\nHet is nog onbekend of het werk door vakgenoten is beoordeeld. OpenAI schrijft dat het onderzoeksdetails deelt, zonder een tijdlijn voor beoordeling te noemen. Of het model publiek beschikbaar komt, staat er niet bij."
+  },
+  {
+   "heading": "Wiskunde als meetlat voor ai",
+   "body": "Wiskunde is aantrekkelijk als test. Je kunt een bewijs namelijk controleren zonder mening. Dat maakt het een harde maatstaf voor de voortgang van een model.\n\nTegelijk blijft de vraag wat zo'n resultaat waard is. Een computerbewijs kan kloppen en toch weinig inzicht geven. Wiskundigen kijken daarom ook naar de methode achter een bewijs."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse onderzoekers en studenten is het werk direct na te lopen. De Lean-bestanden staan op GitHub en zijn gratis te gebruiken. Wie in Nederland met Lean werkt, kan de formalisaties vergelijken met eigen aanpakken. Voor bedrijven die ai inzetten bij technisch rekenwerk zegt dit nog weinig over de praktijk. De resultaten gaan over wiskundige bewijzen, niet over toepassingen in de bouw, logistiek of financiën. Universiteiten kunnen het wel gebruiken als lesmateriaal over geautomatiseerd redeneren.",
+ "faq": [
+  {
+   "q": "Wat heeft OpenAI precies gepubliceerd?",
+   "a": "Nieuwe resultaten op open wiskundeproblemen uit een intern frontier model. De Lean-bewijzen en onderzoeksdetails staan op GitHub."
+  },
+  {
+   "q": "Wat is Lean?",
+   "a": "Lean is software waarin je een wiskundig bewijs stap voor stap opschrijft. De computer controleert daarna of het bewijs klopt."
+  },
+  {
+   "q": "Kan ik dit zelf bekijken?",
+   "a": "Ja, de formalisaties staan op GitHub. Volgens OpenAI zijn ze daar openbaar te lezen en te controleren."
+  }
+ ],
+ "slug": "openai-deelt-ai-resultaten-voor-open-wiskundeproblemen",
+ "kind": "news",
+ "date": "2026-10-07",
+ "published": "2026-10-07T12:25",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Sharing AI progress in mathematics",
+   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
+  }
+ ],
+ "path": "/nieuws/openai-deelt-ai-resultaten-voor-open-wiskundeproblemen/",
+ "og": "/img/og/openai-deelt-ai-resultaten-voor-open-wiskundeproblemen.png",
+ "take": "Mooi dat OpenAI de Lean-bewijzen op GitHub zet, want dan kan een wiskundige in Nederland het zelf natrekken in plaats van het persbericht te geloven. Maar een intern model dat een paar open problemen oplost, is voor mij nog geen product. Ik laat AI het rekenwerk en de analyses doen, terwijl de knoppen waar geld aan hangt bij een mens blijven."
+}

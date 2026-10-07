@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: onderhandelen over je telefoonabonnement",
+ "situation": "Je abonnement loopt binnenkort af en je wilt een scherpere prijs of meer data zonder uren in de wacht te hangen.",
+ "prompt": "Je bent een onderhandelaar voor telecomabonnementen in Nederland. Ik bel [PROVIDER] om mijn contract te verlengen. Mijn huidige abonnement: [DATA] GB, [MINUTEN] belminuten, ik betaal nu [PRIJS] euro per maand, contract loopt af op [DATUM]. Vergelijkbare aanbieders bieden nu [ALTERNATIEF] voor ongeveer [PRIJS_ALTERNATIEF] euro. Geef mij een belscript van maximaal 150 woorden. Begin met een vriendelijke opening, noem daarna mijn vertrekpunt (huidige prijs), mijn alternatief en mijn concrete verzoek. Geef drie tegenwerpingen die de klantenservice kan gebruiken, met per tegenwerping een kort antwoord. Sluit af met de vraag welk aanbod zij kunnen doen. Houd de toon rustig en vriendelijk, geen dreigementen.",
+ "tip": "Vul echte prijzen van concurrenten in, dan is je onderhandeling sterker.",
+ "tags": [
+  "thuis",
+  "geld",
+  "telecom",
+  "bellen"
+ ],
+ "date": "2026-10-07",
+ "slug": "prompt-onderhandelen-over-je-telefoonabonnement",
+ "path": "/prompts/2026-10-07-prompt-onderhandelen-over-je-telefoonabonnement/"
+}

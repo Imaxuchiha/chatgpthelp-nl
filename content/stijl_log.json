@@ -337,5 +337,83 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-07T12:23:32",
+  "slug": "",
+  "title": "Apple TV 4K krijgt betere integratie met Siri AI en HomePod",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-07T12:23:39",
+  "slug": "",
+  "title": "Claude werkt nu in Google Docs, Sheets en Slides",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-07T12:23:47",
+  "slug": "",
+  "title": "ChatGPT for Teens krijgt harde kritiek van Common Sense Media",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-07T12:23:54",
+  "slug": "",
+  "title": "ChatGPT in quant research: hoe Jump Trading AI-workflows schaalt",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-07T12:24:02",
+  "slug": "",
+  "title": "OpenAI deelt ai-resultaten voor open wiskundeproblemen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-07T12:24:27",
+  "slug": "",
+  "title": "De EU AI Act in gewone taal: wat verandert er voor jou",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S11",
+   "S5",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

@@ -1259,6 +1259,26 @@
   "fe89f2d659": {
    "at": "2026-10-06T22:57:08.354858",
    "why": "ok"
+  },
+  "f2c1ba530c": {
+   "at": "2026-10-07T12:23:19.095969",
+   "why": "ok"
+  },
+  "f9f267e996": {
+   "at": "2026-10-07T12:24:19.095969",
+   "why": "poort"
+  },
+  "f81ac359aa": {
+   "at": "2026-10-07T12:24:19.095969",
+   "why": "poort"
+  },
+  "342677ae7e": {
+   "at": "2026-10-07T12:24:19.095969",
+   "why": "ok"
+  },
+  "47b9255d8f": {
+   "at": "2026-10-07T12:25:19.095969",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1462,6 +1482,9 @@
   "Claude Team gratis: Anthropic geeft startups een jaar cadeau",
   "OpenAI en Ironclad testen AI-agents op contractwerk",
   "AI contentmoderatie krijgt licht model PolicyLM-1.7B",
-  "AI-agent websites weren bots, nieuwe standaard moet helpen"
+  "AI-agent websites weren bots, nieuwe standaard moet helpen",
+  "Apple TV 4K krijgt betere integratie met Siri AI en HomePod",
+  "ChatGPT in quant research: hoe Jump Trading AI-workflows schaalt",
+  "OpenAI deelt ai-resultaten voor open wiskundeproblemen"
  ]
 }

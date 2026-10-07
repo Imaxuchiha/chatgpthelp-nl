@@ -1,0 +1,70 @@
+{
+ "keyword": "ai act",
+ "seo_title": "AI Act: wat verandert er voor gebruikers en bedrijven",
+ "title": "De EU AI Act in gewone taal: wat verandert er voor jou",
+ "meta": "De AI Act in gewone taal: wat de Europese regels betekenen voor gebruikers en bedrijven in Nederland, met concrete stappen en een voorbeeldprompt.",
+ "category": "uitleg",
+ "tags": [
+  "ai act",
+  "eu ai",
+  "wetgeving",
+  "ai",
+  "ondernemers"
+ ],
+ "intro": "De AI Act is de Europese wet die regels stelt aan AI-systemen. De regels gelden gefaseerd en raken ook Nederlandse ondernemers die AI gebruiken of verkopen. Hier lees je wat er verandert en wat je moet doen.",
+ "takeaways": [
+  "De AI Act verdeelt AI-systemen in risiconiveaus, van minimaal tot onacceptabel.",
+  "Verboden toepassingen gelden direct; andere verplichtingen komen in fases.",
+  "Transparantieplicht: gebruikers moeten weten dat ze met AI te maken hebben.",
+  "Als aanbieder of gebruiker krijg je plichten zoals registratie en documentatie."
+ ],
+ "sections": [
+  {
+   "heading": "Wat is de AI Act precies",
+   "body": "De AI Act is een Europese verordening. Die geldt direct in alle EU-landen, dus ook in Nederland. De wet kijkt niet naar de techniek zelf, maar naar het risico van de toepassing.\n\nEr zijn vier niveaus. Minimaal risico, beperkt risico, hoog risico en onacceptabel risico. Hoe hoger het niveau, hoe meer eisen er gelden.\n\nEen chatbot voor klantvragen valt vaak onder beperkt risico. Software die cv's sorteert of kredieten beoordeelt, kan hoog risico zijn. Sociale scoring door de overheid is verboden."
+  },
+  {
+   "heading": "Wat verandert er voor gebruikers",
+   "body": "Gebruik je AI als consument of medewerker, dan krijg je meer rechten. Je moet kunnen weten dat je met een AI-systeem praat. Bij AI die beslissingen over je neemt, heb je recht op uitleg.\n\nDenk aan een afwijzing van een lening of een sollicitatie. Het bedrijf moet dan kunnen vertellen hoe dat besluit tot stand kwam. Soms heb je recht op een menselijke blik.\n\nVoor gewone toepassingen zoals ChatGPT verandert er weinig in het dagelijks gebruik. De plichten liggen vooral bij de partij die het systeem aanbiedt."
+  },
+  {
+   "heading": "Wat verandert er voor bedrijven",
+   "body": "Als ondernemer krijg je te maken met de rol die je hebt. Ben je aanbieder, gebruiker of importeur? Elke rol heeft eigen plichten.\n\nHoog-risico AI vraagt om een risicobeheerplan, documentatie en menselijk toezicht. Je moet kunnen aantonen dat het systeem veilig en eerlijk werkt. Bij sommige systemen hoort registratie in een EU-databank.\n\nGebruik je AI alleen voor marketing of interne notities, dan blijft het meestal bij lichte plichten. Denk aan transparantie en het informeren van betrokkenen."
+  },
+  {
+   "heading": "Concrete stappen voor jouw bedrijf",
+   "body": "Begin met een inventarisatie. Welke AI-tools gebruiken jullie nu? Noteer per tool wat die doet en welke data erin gaat.\n\nBepaal daarna het risiconiveau. Kijk naar de bijlage van de AI Act of vraag juridisch advies. Stel vast welke rol je hebt en welke plichten daarbij horen.\n\nLeg afspraken vast met leveranciers. Vraag om documentatie en testresultaten. Zorg dat iemand in je team verantwoordelijk is voor AI-gebruik.\n\nEen voorbeeldprompt die je hierbij kunt gebruiken: \"Maak een tabel met onze AI-tools, het doel, de gebruikte data en het risiconiveau volgens de EU AI Act. Geef per tool aan welke vervolgstap nodig is.\""
+  },
+  {
+   "heading": "Handhaving en boetes",
+   "body": "Toezicht verschilt per land. In Nederland houden meerdere autoriteiten een oogje in het zeil, afhankelijk van de sector. De Autoriteit Persoonsgegevens speelt een rol bij AI en privacy.\n\nBoetes kunnen hoog oplopen bij overtredingen. Voor verboden toepassingen liggen de maximumboetes het hoogst. De exacte bedragen staan in de wet en zijn gekoppeld aan wereldwijde omzet.\n\nKleine bedrijven krijgen in de wet ruimte voor lichtere regels. Toch geldt: weet wat je gebruikt en leg het vast."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ondernemers betekent de AI Act vooral: administratie en bewustwording. Je hoeft geen techneut te zijn, maar je moet wel weten welke AI je inzet. Grote opdrachtgevers vragen steeds vaker om aantoonbare naleving. Wie nu een simpele AI-inventarisatie maakt, voorkomt later haastwerk.",
+ "faq": [
+  {
+   "q": "Wat is het verschil tussen de AI Act en de AVG?",
+   "a": "De AVG gaat over persoonsgegevens. De AI Act gaat over de risico's van AI-systemen zelf. Ze kunnen naast elkaar gelden."
+  },
+  {
+   "q": "Geldt de AI Act ook voor kleine bedrijven?",
+   "a": "Ja, de wet geldt voor alle partijen die AI aanbieden of gebruiken in de EU. Voor kleine bedrijven zijn sommige regels lichter."
+  },
+  {
+   "q": "Moet ik mijn ChatGPT-gebruik melden?",
+   "a": "Nee, voor gewoon gebruik van ChatGPT als hulpmiddel geldt geen meldplicht. Wel moet je opletten bij klantcontact en beslissingen over mensen."
+  },
+  {
+   "q": "Wanneer moet ik klaar zijn met de AI Act?",
+   "a": "De regels gelden gefaseerd. Verboden toepassingen gelden het eerst, andere verplichtingen volgen later. Check de actuele planning van de EU."
+  }
+ ],
+ "slug": "de-eu-ai-act-in-gewone-taal-wat-verandert-er-voor-jou",
+ "kind": "evergreen",
+ "date": "2026-10-07",
+ "published": "2026-10-07T12:23",
+ "sources": [],
+ "path": "/uitleg/de-eu-ai-act-in-gewone-taal-wat-verandert-er-voor-jou/",
+ "og": "/img/og/de-eu-ai-act-in-gewone-taal-wat-verandert-er-voor-jou.png",
+ "seed": "De EU AI Act in gewone taal: wat verandert er voor gebruikers en bedrijven"
+}

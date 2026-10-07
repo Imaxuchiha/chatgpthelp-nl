@@ -1,0 +1,67 @@
+{
+ "keyword": "chatgpt quant research",
+ "seo_title": "ChatGPT quant research: Jump Trading schaalt AI",
+ "title": "ChatGPT in quant research: hoe Jump Trading AI-workflows schaalt",
+ "meta": "OpenAI beschrijft hoe handelsbedrijf Jump Trading ChatGPT inzet voor quant research. Wat betekent dat voor Nederlandse bedrijven en onderzoekers?",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "openai",
+  "quant research",
+  "jump trading",
+  "ai workflows"
+ ],
+ "intro": "Handelsbedrijf Jump Trading gebruikt ChatGPT van OpenAI om zijn quantitative research uit te breiden. Dat meldt OpenAI in een eigen publicatie. Langere AI-workflows combineren meerdere databronnen, met menselijke controle op het resultaat.",
+ "takeaways": [
+  "Jump Trading zet ChatGPT in voor quantitative research, volgens OpenAI",
+  "De workflows draaien langer en combineren meerdere databronnen",
+  "Mensen beoordelen de uitkomsten voordat die worden gebruikt",
+  "OpenAI noemt het een voorbeeld van AI in professioneel onderzoek"
+ ],
+ "sections": [
+  {
+   "heading": "Wat Jump Trading met ChatGPT doet",
+   "body": "Jump Trading is een handelsbedrijf dat veel met data en modellen werkt. Volgens OpenAI gebruikt het bedrijf ChatGPT voor quantitative research. Dat is het zoeken naar patronen en signalen in grote hoeveelheden cijfers.\n\nDe nadruk ligt op workflows die langer draaien. Een enkele vraag is niet genoeg. De AI combineert meerdere databronnen en werkt stappen achter elkaar af.\n\nMensen kijken daarna naar de uitkomsten. Zij beoordelen of de resultaten kloppen voordat er iets mee gebeurt."
+  },
+  {
+   "heading": "Langere workflows en menselijke controle",
+   "body": "OpenAI beschrijft dat de AI-workflows meerdere databronnen samenbrengen. Denk aan marktdata, interne bestanden en eerdere analyses. De AI haalt die door elkaar en komt met een voorstel of samenvatting.\n\nDe rol van de onderzoeker blijft groot. Die controleert de uitkomsten en stuurt bij waar nodig. Volgens OpenAI is die combinatie van AI en menselijke review het punt.\n\nHoeveel tijd het bedrijf precies bespaart, maakt OpenAI niet bekend. Ook zijn er geen cijfers over kosten of foutenmarges."
+  },
+  {
+   "heading": "Waarom dit nieuws is",
+   "body": "Quant research vraagt veel rekenwerk en veel lezen. AI kan een deel van dat werk overnemen. OpenAI laat met dit voorbeeld zien waar het zijn tools voor positioneert: niet als chatbot voor losse vragen, maar als hulpmiddel in onderzoeksprocessen.\n\nVoor de financiële sector is dat relevant. Daar ligt veel nadruk op controleerbaarheid. Een model dat zelfstandig handelt, is iets anders dan een model dat onderzoekers helpt.\n\nOpenAI geeft geen details over welke modellen Jump Trading gebruikt. Ook is niet duidelijk of het om een publieke versie gaat of om een aangepaste omgeving."
+  },
+  {
+   "heading": "Wat Nederlandse bedrijven hiervan kunnen leren",
+   "body": "Het voorbeeld laat zien dat AI nuttig wordt zodra je meerdere stappen achter elkaar zet. Eén vraag stellen aan ChatGPT is simpel. Een keten van stappen met eigen data is lastiger.\n\nNederlandse bedrijven die dit willen nabootsen, hebben twee dingen nodig. Ten eerste schone en goed ontsloten data. Ten tweede een duidelijke controle stap door een medewerker.\n\nZonder die controle is het risico groot. Een model dat fouten maakt in cijfers, valt in de financiële wereld niet te verantwoorden."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven in finance, consultancy en onderzoek is dit een concreet voorbeeld. ChatGPT wordt hier ingezet als onderdeel van een groter proces, met een mens als eindcontrole. Wie in Nederland met AI aan de slag wil, kan het beste eerst één afgebakende taak kiezen en daar een vaste controle stap aan koppelen. Let daarbij op de Europese regels rond AI en data: persoonsgegevens mogen niet zomaar in een model verdwijnen. OpenAI noemt geen prijzen in euro's of beschikbaarheid in Nederland, dus daar is nog niets over bekend.",
+ "faq": [
+  {
+   "q": "Wat is quant research precies?",
+   "a": "Quant research is onderzoek met wiskunde en data om patronen in markten te vinden. Handelsbedrijven gebruiken die uitkomsten voor hun strategie."
+  },
+  {
+   "q": "Gebruikt Jump Trading ChatGPT voor automatische handel?",
+   "a": "Dat blijkt niet uit de informatie van OpenAI. Het bedrijf noemt onderzoek en menselijke controle, niet zelfstandige handel."
+  },
+  {
+   "q": "Kan ik dit als Nederlands bedrijf ook doen?",
+   "a": "Ja, mits je data op orde zijn en een medewerker de uitkomsten controleert. OpenAI geeft geen kant-en-klare handleiding voor deze aanpak."
+  }
+ ],
+ "slug": "chatgpt-in-quant-research-hoe-jump-trading-ai-workflows-schaalt",
+ "kind": "news",
+ "date": "2026-10-07",
+ "published": "2026-10-07T12:24",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How Jump Trading is scaling quant research with ChatGPT",
+   "url": "https://openai.com/index/jump-trading"
+  }
+ ],
+ "path": "/nieuws/chatgpt-in-quant-research-hoe-jump-trading-ai-workflows-schaalt/",
+ "og": "/img/og/chatgpt-in-quant-research-hoe-jump-trading-ai-workflows-schaalt.png"
+}
