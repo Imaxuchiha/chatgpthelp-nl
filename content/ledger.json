@@ -1279,6 +1279,18 @@
   "47b9255d8f": {
    "at": "2026-10-07T12:25:19.095969",
    "why": "ok"
+  },
+  "ad4e14640e": {
+   "at": "2026-10-07T19:57:06.691728",
+   "why": "ok"
+  },
+  "04e9dc3828": {
+   "at": "2026-10-07T19:58:06.691728",
+   "why": "ok"
+  },
+  "9a9b6b3121": {
+   "at": "2026-10-07T19:59:06.691728",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1485,6 +1497,9 @@
   "AI-agent websites weren bots, nieuwe standaard moet helpen",
   "Apple TV 4K krijgt betere integratie met Siri AI en HomePod",
   "ChatGPT in quant research: hoe Jump Trading AI-workflows schaalt",
-  "OpenAI deelt ai-resultaten voor open wiskundeproblemen"
+  "OpenAI deelt ai-resultaten voor open wiskundeproblemen",
+  "ChatGPT voor tieners krijgt collegeplanner en flashcards",
+  "ChatGPT hotel boeken: Radisson en Accenture testen het",
+  "Games maken met AI: Google test Playground via prompts"
  ]
 }

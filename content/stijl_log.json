@@ -415,5 +415,42 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-07T19:57:19",
+  "slug": "",
+  "title": "ChatGPT voor tieners krijgt collegeplanner en flashcards",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-07T19:57:26",
+  "slug": "",
+  "title": "ChatGPT hotel boeken: Radisson en Accenture testen het",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-07T19:57:32",
+  "slug": "",
+  "title": "Games maken met AI: Google test Playground via prompts",
+  "kind": "news",
+  "rood": [],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

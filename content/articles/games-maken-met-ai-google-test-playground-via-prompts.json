@@ -1,0 +1,67 @@
+{
+ "keyword": "games maken met ai",
+ "seo_title": "Games maken met AI: Google Playground test prompts",
+ "title": "Games maken met AI: Google test Playground via prompts",
+ "meta": "Met Google Playground maak je simpele webgames via prompts, zonder technische kennis. Lees wat dit betekent voor makers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "google",
+  "ai-tools",
+  "gamedevelopment",
+  "playground",
+  "prompts"
+ ],
+ "intro": "Google heeft een experimentele tool gepresenteerd waarmee je simpele webgames maakt met alleen tekstprompts. Het gaat om Playground, dat volgens Bright geen technische kennis vereist. De tool staat nog in de testfase.",
+ "takeaways": [
+  "Met Google Playground maak je simpele webgames via prompts, zonder programmeerervaring.",
+  "De tool is experimenteel en nog niet breed uitgerold.",
+  "Het is onduidelijk of en wanneer Playground in Nederland beschikbaar komt.",
+  "Er zijn nog geen prijzen of releasedata bekendgemaakt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Google Playground doet",
+   "body": "Playground is een experimentele tool van Google. Je typt een beschrijving van een game en de tool bouwt een speelbare webgame. Denk aan simpele spellen die in de browser werken.\n\nVolgens Bright is er geen enkele technische kennis nodig. Je hoeft dus niet te programmeren of een game-engine te kennen. Dat maakt de drempel laag voor beginners.\n\nHet blijft voorlopig een experiment. Google heeft nog niet gezegd wanneer of waar de tool breed beschikbaar komt."
+  },
+  {
+   "heading": "Hoe je zo'n game maakt",
+   "body": "Je begint met een prompt. Daarin beschrijf je wat voor spel je wilt, bijvoorbeeld een simpel platformspel of een puzzel. De AI zet die beschrijving om in werkende code voor de browser.\n\nDaarna kun je waarschijnlijk aanpassingen vragen. Denk aan een andere moeilijkheidsgraad of een nieuw level. Hoeveel controle je precies hebt, is nog niet duidelijk.\n\nDe tool is bedoeld voor webgames. Grote 3D-games voor pc of console vallen buiten dit experiment."
+  },
+  {
+   "heading": "Wat dit betekent voor game-ontwikkelaars",
+   "body": "Voor professionele ontwikkelaars verandert er weinig op korte termijn. Playground richt zich op simpele spellen, niet op grote producties. De tool vervangt geen complete game-studio.\n\nWel kan het interessant zijn voor hobbyisten en docenten. Een simpel spel maken voor een les of demo wordt een stuk toegankelijker. Ook marketeers kunnen er snel een klein browserspel mee bouwen.\n\nToch blijft de vraag wie eigenaar is van de gemaakte game. Google heeft daar nog niets over gezegd."
+  },
+  {
+   "heading": "Nog veel onbekend",
+   "body": "Google noemt Playground experimenteel. Dat betekent meestal dat functies kunnen veranderen of verdwijnen. Reken dus niet op een stabiel product.\n\nEr is nog geen prijs bekend. Ook is niet duidelijk of de tool in de Europese Unie komt en onder welke voorwaarden. Voor Nederlandse gebruikers is dat laatste belangrijk vanwege privacyregels.\n\nZodra Google meer details deelt, wordt duidelijk of Playground echt bruikbaar is."
+  }
+ ],
+ "nl_angle": "Voor mensen in Nederland is Playground nog niet beschikbaar. Google heeft geen datum genoemd voor een Europese uitrol. Als de tool hier komt, kan hij interessant zijn voor scholen, hobbyisten en kleine bedrijven die snel een browserspel willen maken. Let wel op de voorwaarden: Google zegt nog niets over eigendom van de gemaakte games of over opslag van je prompts. Tot die duidelijkheid er is, blijft het een experiment om in de gaten te houden.",
+ "faq": [
+  {
+   "q": "Heb ik programmeerkennis nodig voor Google Playground?",
+   "a": "Nee, volgens Bright maak je simpele webgames met alleen tekstprompts. Technische kennis is niet nodig."
+  },
+  {
+   "q": "Is Google Playground beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. Google heeft geen uitroldatum of landenlijst gedeeld."
+  },
+  {
+   "q": "Wat kost Google Playground?",
+   "a": "Er is nog geen prijs bekendgemaakt. De tool is voorlopig experimenteel."
+  }
+ ],
+ "slug": "games-maken-met-ai-google-test-playground-via-prompts",
+ "kind": "news",
+ "date": "2026-10-07",
+ "published": "2026-10-07T19:59",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Met nieuwe AI-tool van Google maak je complete games via prompts",
+   "url": "https://www.bright.nl/nieuws/2144116/met-nieuwe-ai-tool-van-google-maak-je-complete-games-via-prompts.html"
+  }
+ ],
+ "path": "/nieuws/games-maken-met-ai-google-test-playground-via-prompts/",
+ "og": "/img/og/games-maken-met-ai-google-test-playground-via-prompts.png"
+}

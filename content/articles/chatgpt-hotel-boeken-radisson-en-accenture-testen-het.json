@@ -1,0 +1,64 @@
+{
+ "keyword": "chatgpt hotel boeken",
+ "seo_title": "ChatGPT hotel boeken: Radisson test het uit",
+ "title": "ChatGPT hotel boeken: Radisson en Accenture testen het",
+ "meta": "Radisson Hotel Group laat reizigers hotels zoeken, vergelijken en boeken in ChatGPT. Wat betekent dat voor Nederland en je volgende trip?",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "radisson",
+  "hotels",
+  "reizen",
+  "openai"
+ ],
+ "intro": "Radisson Hotel Group heeft samen met Accenture een plugin voor ChatGPT gebouwd. Reizigers kunnen daarin hotels zoeken, vergelijken en boeken tijdens het plannen van hun reis. OpenAI meldt dit op zijn eigen site. De stap laat zien hoe reisbedrijven ChatGPT steeds vaker als boekingskanaal gebruiken.",
+ "takeaways": [
+  "Radisson bouwde de plugin samen met Accenture, op technologie van OpenAI.",
+  "De plugin helpt bij zoeken, vergelijken en boeken van hotels tijdens het plannen.",
+  "OpenAI noemt de samenwerking een voorbeeld van hotelontdekking in ChatGPT.",
+  "Of en wanneer de plugin in Nederland werkt, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de plugin doet",
+   "body": "Volgens OpenAI kunnen reizigers met de plugin hotels vinden terwijl ze hun reis plannen. Ze vergelijken opties en boeken daarna, zonder het gesprek met ChatGPT te verlaten. Radisson bouwde het ding samen met Accenture. OpenAI levert de technologie eronder.\n\nHet gaat om een zogeheten plugin. Dat is een uitbreiding die ChatGPT extra taken laat uitvoeren. In dit geval haalt de plugin hotelinformatie op en regelt hij een boeking. De reiziger hoeft dus niet naar een aparte website.\n\nOpenAI noemt de samenwerking een voorbeeld van hotelontdekking in ChatGPT. Meer details over het aantal hotels of de beschikbare landen geeft het bericht niet."
+  },
+  {
+   "heading": "Waarom reisbedrijven dit doen",
+   "body": "Steeds meer mensen plannen een reis met een chatbot. Ze vragen om tips, routes en overnachtingsplekken. Een boekingsknop in dat gesprek scheelt stappen. Voor hotelketens is dat interessant, want ze staan precies op het moment dat iemand kiest.\n\nRadisson is niet de eerste partij die dit probeert. OpenAI bouwt vaker aan dit soort koppelingen met bedrijven. De technologie achter de plugin komt van OpenAI zelf. Accenture zorgde voor de bouw en de koppeling met de systemen van Radisson.\n\nVoor de reiziger verandert er weinig aan het zoeken zelf. Het gesprek wordt wel het startpunt van de boeking. Dat is nieuw."
+  },
+  {
+   "heading": "Wat OpenAI wel en niet zegt",
+   "body": "Het bericht van OpenAI is kort. Er staat dat de plugin helpt bij vinden, vergelijken en boeken. Er staat niet bij welke landen meedoen. Ook is niet duidelijk of de plugin in het Nederlands werkt.\n\nOver de prijs zegt OpenAI niets. Of klanten in euro's afrekenen, is dus nog niet bekend. De plugin is onderdeel van een bredere beweging waarin ChatGPT taken uitvoert voor gebruikers.\n\nWie in Nederland een hotel wil boeken, kan dat voorlopig het beste via de bekende kanalen doen. Of de plugin hier beschikbaar komt, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders verandert er voorlopig weinig. De plugin is aangekondigd, maar het is niet duidelijk of hij in Nederland werkt. Reizigers die via ChatGPT een hotel in Amsterdam of Rotterdam willen boeken, moeten dus nog geduld hebben. Voor hotelketens in Nederland is het wel een signaal: een boekingskanaal in een chatbot kan klanten opleveren. Radisson heeft ook vestigingen in Nederland, waaronder in Amsterdam. Of die via de plugin te boeken zijn, vermeldt OpenAI niet. Let dus op de officiële kanalen van Radisson voordat je via ChatGPT boekt.",
+ "faq": [
+  {
+   "q": "Kan ik via ChatGPT een hotel boeken?",
+   "a": "Radisson heeft een plugin gebouwd waarmee dat kan, volgens OpenAI. Of die plugin in Nederland werkt, is nog niet bekend."
+  },
+  {
+   "q": "Wat is een ChatGPT-plugin?",
+   "a": "Een plugin is een uitbreiding die ChatGPT extra taken laat doen, zoals hotelinformatie ophalen en een boeking regelen."
+  },
+  {
+   "q": "Werkt de Radisson-plugin in Nederland?",
+   "a": "Dat is niet duidelijk. OpenAI noemt geen landen of talen in het bericht over de samenwerking."
+  }
+ ],
+ "slug": "chatgpt-hotel-boeken-radisson-en-accenture-testen-het",
+ "kind": "news",
+ "date": "2026-10-07",
+ "published": "2026-10-07T19:58",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+   "url": "https://openai.com/index/radisson"
+  }
+ ],
+ "path": "/nieuws/chatgpt-hotel-boeken-radisson-en-accenture-testen-het/",
+ "og": "/img/og/chatgpt-hotel-boeken-radisson-en-accenture-testen-het.png",
+ "take": "Boeken in ChatGPT klinkt leuk, maar ik wil eerst zien of die data klopt voordat ik er budget op zet. Bij een klant met een webshop liep de koppeling met Google vaker mis dan goed, en daar ging het geld pas echt lekker de verkeerde kant op. Eerst meten, dan pas boeken."
+}
