@@ -452,5 +452,55 @@
   "rood": [],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-07T23:13:41",
+  "slug": "",
+  "title": "SynthID Detector: Google AI-check nu gratis voor iedereen",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-07T23:13:46",
+  "slug": "",
+  "title": "Nous Research haalt 90 miljoen op en lanceert AI-agents voor bedrijven",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-07T23:13:51",
+  "slug": "",
+  "title": "Microsoft brengt Surface Laptop Ultra uit met Nvidia-chip",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-07T23:13:58",
+  "slug": "",
+  "title": "ChatGPT Intelligent UI toont grafieken, formulieren en knoppen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

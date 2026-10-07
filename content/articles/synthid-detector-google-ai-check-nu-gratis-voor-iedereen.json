@@ -1,0 +1,68 @@
+{
+ "keyword": "synthid detector",
+ "seo_title": "SynthID Detector: Google AI-check nu gratis",
+ "title": "SynthID Detector: Google AI-check nu gratis voor iedereen",
+ "meta": "Google maakt de SynthID Detector wereldwijd gratis. Zo check je of een foto, video of audio met AI is gemaakt. Lees hoe het werkt en wat het mist.",
+ "category": "nieuws",
+ "tags": [
+  "synthid",
+  "google",
+  "ai-detectie",
+  "deepfake",
+  "watermerk"
+ ],
+ "intro": "Google stelt zijn SynthID Detector vanaf vandaag wereldwijd gratis beschikbaar. Iedereen kan nu zelf controleren of een foto, video of audiobestand met AI is gemaakt. Dat meldt Bright. De tool werkt alleen bij bestanden waarin Google een watermerk heeft verstopt.",
+ "takeaways": [
+  "De SynthID Detector is gratis en wereldwijd beschikbaar, meldt Bright.",
+  "De tool herkent AI-beeld, video en audio via een onzichtbaar watermerk van Google.",
+  "Bestanden zonder dat watermerk geven geen uitsluitsel over echtheid.",
+  "Je hebt geen account of abonnement nodig om de check te gebruiken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de SynthID Detector doet",
+   "body": "De detector kijkt naar een onzichtbaar watermerk dat Google in AI-beelden stopt. Dat watermerk heet SynthID. Het zit in de pixels of in het audiospoor verwerkt. Je ziet er niets van, maar de detector leest het uit.\n\nJe sleept een bestand naar de tool en krijgt een uitslag. Bij een herkend watermerk zegt de tool dat het beeld waarschijnlijk met AI is gemaakt. Zonder watermerk blijft het antwoord onzeker. Een gewone foto kan namelijk ook geen watermerk hebben."
+  },
+  {
+   "heading": "Wat de check niet kan",
+   "body": "De detector bewijst geen echtheid. Een ontbrekend watermerk betekent niet dat een bestand echt is. Veel AI-modellen van andere makers zetten helemaal geen SynthID-watermerk in hun output. Een foto die met een concurrerende tool is gemaakt, glipt er dus zo doorheen.\n\nOok kan iemand het watermerk proberen te verwijderen. Bijvoorbeeld door een afbeelding opnieuw op te slaan of flink te bewerken. Google zegt dat het watermerk tegen veel bewerkingen bestand is, maar geeft geen garantie. Volgens Bright is de tool vooral een hulpmiddel, geen rechter."
+  },
+  {
+   "heading": "Hoe je het zelf gebruikt",
+   "body": "De detector staat open voor iedereen. Je hoeft geen account aan te maken en betaalt niets. Dat is opvallend, want veel AI-detectietools vragen geld of een abonnement.\n\nGoogle bouwt SynthID al langer in bij zijn eigen AI-producten. Denk aan beeldgenerator Imagen en muziektool Lyria. Bestanden uit die tools dragen het watermerk standaard. De detector maakt die informatie nu voor het eerst breed leesbaar."
+  },
+  {
+   "heading": "Waarom dit nu speelt",
+   "body": "Nepfoto's en nepaudio duiken steeds vaker op in nieuws en op sociale media. Kiezers, journalisten en gewone gebruikers willen snel kunnen checken wat echt is. Een gratis check verlaagt de drempel.\n\nToch kleeft er een risico aan. Wie een negatieve uitslag krijgt, kan denken dat een bestand echt is. Dat is niet zo. De tool meet alleen of Google zijn eigen merkje terugvindt."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders is de detector direct bruikbaar, zonder account en zonder kosten. Handig als je een verdachte foto in een WhatsApp-groep krijgt of een video op sociale media ziet. Let op: de tool herkent alleen AI-materiaal met een Google-watermerk. Bij bestanden van andere makers krijg je geen duidelijkheid. De Europese AI-verordening vraagt transparantie over AI-content, maar een verplicht watermerk voor alle AI-output is nog niet geregeld. Reken er dus niet op dat elke nepfoto in Nederland straks op te sporen is.",
+ "faq": [
+  {
+   "q": "Is de SynthID Detector gratis?",
+   "a": "Ja. Google maakt de tool wereldwijd gratis beschikbaar, meldt Bright. Je hebt geen account of abonnement nodig."
+  },
+  {
+   "q": "Werkt de detector op elke AI-foto?",
+   "a": "Nee. De tool herkent alleen bestanden met een SynthID-watermerk van Google. AI-materiaal van andere makers wordt vaak niet gevonden."
+  },
+  {
+   "q": "Bewijst een negatieve uitslag dat een bestand echt is?",
+   "a": "Nee. Een ontbrekend watermerk betekent niet dat een foto of video echt is. De tool geeft dan geen uitsluitsel."
+  }
+ ],
+ "slug": "synthid-detector-google-ai-check-nu-gratis-voor-iedereen",
+ "kind": "news",
+ "date": "2026-10-07",
+ "published": "2026-10-07T23:13",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Google brengt eigen AI-check uit en is gratis te gebruiken",
+   "url": "https://www.bright.nl/nieuws/2144217/google-lanceert-gratis-ai-check-voor-foto-s-video-en-audio.html"
+  }
+ ],
+ "path": "/nieuws/synthid-detector-google-ai-check-nu-gratis-voor-iedereen/",
+ "og": "/img/og/synthid-detector-google-ai-check-nu-gratis-voor-iedereen.png",
+ "take": "Gratis is prima, maar een detector die alleen werkt op bestanden waar Google zelf een watermerk in stopte, is voor mij een halve oplossing. Ik bouw mijn tooling liever zelf met Claude Code, dan ben ik niet afhankelijk van welke partij dan ook die zijn eigen waarheid keurt. Eerst zien dat dit in de praktijk iets vindt, dan geloof ik het."
+}

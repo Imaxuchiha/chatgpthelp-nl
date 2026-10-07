@@ -1,0 +1,67 @@
+{
+ "keyword": "chatgpt intelligent ui",
+ "seo_title": "ChatGPT Intelligent UI: antwoorden met grafieken en knoppen",
+ "title": "ChatGPT Intelligent UI toont grafieken, formulieren en knoppen",
+ "meta": "ChatGPT krijgt een Intelligent UI met grafieken, formulieren en knoppen. Lees wat de update doet, wanneer hij komt en wat het betekent in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "openai",
+  "gpt-6",
+  "intelligent ui",
+  "ai-tools"
+ ],
+ "intro": "OpenAI brengt een nieuwe functie uit in ChatGPT: Intelligent UI. Daarmee kan het model antwoorden combineren met diagrammen, grafieken, formulieren en aantikbare knoppen. De update rolt uit voor alle gebruikers, samen met GPT-6. Dat meldt The Verge op basis van een blogpost van OpenAI.",
+ "takeaways": [
+  "ChatGPT kan voortaan tekst combineren met diagrammen, grafieken, formulieren en knoppen.",
+  "De functie heet Intelligent UI en komt samen met GPT-6.",
+  "De uitrol geldt voor alle gebruikers, aldus OpenAI via The Verge.",
+  "Interactieve visuals moeten het stellen van vragen en het verwerken van antwoorden makkelijker maken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Intelligent UI doet",
+   "body": "ChatGPT geeft nu niet alleen tekst terug. Het model kan een antwoord opbouwen met beeldmateriaal erbij. Denk aan een diagram dat een proces uitlegt, een grafiek met cijfers of een formulier dat je direct invult.\n\nOok tappbare knoppen horen erbij. Je kunt daarmee doorvragen of een vervolgstap kiezen zonder zelf een nieuwe zin te typen. Volgens OpenAI moet dat het gesprek soepeler maken.\n\nDe functie zit in ChatGPT zelf. Je hoeft geen aparte app te installeren. The Verge schrijft dat de update samen met GPT-6 wordt uitgerold naar alle gebruikers."
+  },
+  {
+   "heading": "Samen met GPT-6",
+   "body": "Intelligent UI komt niet los. OpenAI koppelt de functie aan GPT-6, het nieuwste model. Dat betekent dat de visuals en de tekst uit dezelfde generatie komen.\n\nDetails over snelheid of limieten noemt OpenAI nog niet. Ook is niet bekend of alle onderdelen meteen beschikbaar zijn in elk land. De uitrol start volgens The Verge breed, maar gefaseerd.\n\nVoor ontwikkelaars kan dit uitmaken. Als ChatGPT formulieren en knoppen kan tonen, verschuift een deel van de interactie van tekst naar interface. Dat raakt ook bedrijven die ChatGPT in hun eigen diensten gebruiken."
+  },
+  {
+   "heading": "Wat je straks merkt in de chat",
+   "body": "Een vraag over een begroting kan een tabel opleveren. Een vraag over een route kan een kaartje tonen. Een vraag over een keuze kan twee knoppen geven.\n\nDat klinkt handig, maar het zegt niets over de betrouwbaarheid van de cijfers. Een grafiek kan er netjes uitzien en toch fout zijn. Controleer bronnen blijft nodig, zeker bij zakelijk gebruik.\n\nOok de vorm kan wennen zijn. Antwoorden worden visueler en nemen meer ruimte in. Op een telefoon kan dat prettig zijn, op een klein scherm soms druk."
+  },
+  {
+   "heading": "Wat OpenAI nog niet zegt",
+   "body": "OpenAI heeft nog geen precieze datum per land gegeven. Ook is niet duidelijk of de functie in de gratis versie hetzelfde werkt als in betaalde abonnementen.\n\nThe Verge noemt geen prijzen of extra kosten. Of Nederlandse gebruikers de update op dezelfde dag krijgen als Amerikaanse, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders verandert er vooral iets aan het gebruik van ChatGPT zelf. De functie komt via de bestaande app en website, dus je hoeft niets nieuws te kopen. Let wel op twee dingen. Ten eerste: de uitrol is nog niet per land bevestigd, dus het kan even duren voor je het ziet. Ten tweede: bij werk met gevoelige gegevens blijft de regel gelden dat je geen vertrouwelijke informatie in een chat stopt zonder afspraken. Bedrijven die ChatGPT gebruiken voor klantvragen kunnen straks formulieren en knoppen inzetten. Dat kan schelen in handmatig werk, maar vraagt wel om controle op wat het model toont.",
+ "faq": [
+  {
+   "q": "Wat is ChatGPT Intelligent UI?",
+   "a": "Een nieuwe functie waarbij ChatGPT antwoorden toont met diagrammen, grafieken, formulieren en knoppen. De update komt samen met GPT-6, meldt The Verge."
+  },
+  {
+   "q": "Wanneer komt Intelligent UI naar Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI zegt dat de uitrol voor alle gebruikers start, maar noemt geen datum per land."
+  },
+  {
+   "q": "Kost Intelligent UI extra?",
+   "a": "Daar zegt OpenAI nog niets over. The Verge noemt geen prijzen of extra kosten voor de functie."
+  }
+ ],
+ "slug": "chatgpt-intelligent-ui-toont-grafieken-formulieren-en-knoppen",
+ "kind": "news",
+ "date": "2026-10-07",
+ "published": "2026-10-07T23:15",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
+  }
+ ],
+ "path": "/nieuws/chatgpt-intelligent-ui-toont-grafieken-formulieren-en-knoppen/",
+ "og": "/img/og/chatgpt-intelligent-ui-toont-grafieken-formulieren-en-knoppen.png"
+}

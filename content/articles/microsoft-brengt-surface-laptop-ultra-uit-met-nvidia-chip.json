@@ -1,0 +1,67 @@
+{
+ "keyword": "surface laptop ultra",
+ "seo_title": "Surface Laptop Ultra: AI-pc met Nvidia-chip en Windows 11",
+ "title": "Microsoft brengt Surface Laptop Ultra uit met Nvidia-chip",
+ "meta": "Microsoft onthult de Surface Laptop Ultra: een AI-pc met Nvidia-chip en vernieuwd Windows 11. Lees wat er bekend is en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "microsoft",
+  "nvidia",
+  "surface",
+  "windows 11",
+  "ai-pc"
+ ],
+ "intro": "Microsoft heeft de specificaties en de prijs bekendgemaakt van de Surface Laptop Ultra. Dit is een AI-pc die op Nvidia-chips draait en bedoeld is om AI-modellen en agents lokaal te draaien. De laptop komt samen met een vernieuwde versie van Windows 11.",
+ "takeaways": [
+  "Microsoft noemt de Surface Laptop Ultra een AI-pc met Nvidia-chips.",
+  "De laptop is gemaakt om AI-modellen en agents te draaien.",
+  "Er komt een vernieuwde versie van Windows 11 mee.",
+  "Prijs en specificaties zijn nu officieel bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Microsoft aankondigde",
+   "body": "Microsoft heeft de specs en de prijs onthuld van de Surface Laptop Ultra. Volgens TechCrunch gaat het om een AI-pc die op Nvidia-chips draait. Die chips zijn ontworpen om AI-modellen en agents te draaien.\n\nDe laptop valt onder een nieuwe groep AI-pc's van Microsoft. Het bedrijf combineert de hardware met een vernieuwde versie van Windows 11. Wat er precies is veranderd in dat besturingssysteem, maakt de bron niet duidelijk."
+  },
+  {
+   "heading": "Waarom Nvidia-chips in een laptop",
+   "body": "Nvidia is vooral bekend van videokaarten voor games en servers. De chips in deze laptop zijn gericht op AI-taken. Denk aan het lokaal draaien van taalmodellen of software die zelfstandig opdrachten uitvoert, ook wel agents genoemd.\n\nDat lokaal draaien kan voordelen hebben. Je gegevens blijven dan op het apparaat staan. Toch is nog niet bekend hoe snel deze laptop is in de praktijk. TechCrunch noemt geen benchmarkcijfers."
+  },
+  {
+   "heading": "Prijs en beschikbaarheid",
+   "body": "TechCrunch meldt dat Microsoft de prijs heeft vrijgegeven. Een bedrag in euro's noemt de bron niet. Of de Surface Laptop Ultra in Nederland en de rest van de Europese Unie uitkomt, is nog niet bekend.\n\nOok een releasedatum voor Europa staat niet in de bron. Wie in Nederland wil wachten op deze laptop, heeft dus nog geen duidelijkheid. Houd de Nederlandse Microsoft-site in de gaten voor meer informatie."
+  },
+  {
+   "heading": "Wat dit betekent voor Windows 11",
+   "body": "De vernieuwde Windows 11-versie hoort bij deze nieuwe hardware. Microsoft lijkt AI-functies steviger in het systeem te verankeren. Wat dat betekent voor bestaande laptops met Windows 11, is nog niet bekend.\n\nDe vraag is of oudere computers deze functies ook krijgen. De bron zegt daar niets over. Voor veel Nederlandse gebruikers blijft dat voorlopig onduidelijk."
+  }
+ ],
+ "nl_angle": "Voor Nederland is vooral de beschikbaarheid en de prijs in euro's nog onbekend. TechCrunch noemt geen Europees bedrag of releasedatum. Als de Surface Laptop Ultra hier later uitkomt, kan dat interessant zijn voor bedrijven die AI lokaal willen draaien. Tot die tijd verandert er voor de meeste Nederlandse Windows-gebruikers niets.",
+ "faq": [
+  {
+   "q": "Wat is de Surface Laptop Ultra?",
+   "a": "Dat is een nieuwe AI-pc van Microsoft met Nvidia-chips, bedoeld om AI-modellen en agents te draaien. De laptop komt met een vernieuwde versie van Windows 11."
+  },
+  {
+   "q": "Wat kost de Surface Laptop Ultra?",
+   "a": "Microsoft heeft de prijs bekendgemaakt, maar TechCrunch noemt geen bedrag in euro's. Een Nederlandse prijs is nog niet bekend."
+  },
+  {
+   "q": "Komt de Surface Laptop Ultra uit in Nederland?",
+   "a": "Dat is nog niet duidelijk. De bron noemt geen releasedatum of beschikbaarheid voor Nederland of de Europese Unie."
+  }
+ ],
+ "slug": "microsoft-brengt-surface-laptop-ultra-uit-met-nvidia-chip",
+ "kind": "news",
+ "date": "2026-10-07",
+ "published": "2026-10-07T23:14",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+   "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+  }
+ ],
+ "path": "/nieuws/microsoft-brengt-surface-laptop-ultra-uit-met-nvidia-chip/",
+ "og": "/img/og/microsoft-brengt-surface-laptop-ultra-uit-met-nvidia-chip.png"
+}

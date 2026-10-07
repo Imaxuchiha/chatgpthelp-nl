@@ -1291,6 +1291,22 @@
   "9a9b6b3121": {
    "at": "2026-10-07T19:59:06.691728",
    "why": "ok"
+  },
+  "71b47db922": {
+   "at": "2026-10-07T23:13:28.375390",
+   "why": "ok"
+  },
+  "92be971aec": {
+   "at": "2026-10-07T23:14:28.375390",
+   "why": "poort"
+  },
+  "54da693e6c": {
+   "at": "2026-10-07T23:14:28.375390",
+   "why": "ok"
+  },
+  "876648c335": {
+   "at": "2026-10-07T23:15:28.375390",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1500,6 +1516,9 @@
   "OpenAI deelt ai-resultaten voor open wiskundeproblemen",
   "ChatGPT voor tieners krijgt collegeplanner en flashcards",
   "ChatGPT hotel boeken: Radisson en Accenture testen het",
-  "Games maken met AI: Google test Playground via prompts"
+  "Games maken met AI: Google test Playground via prompts",
+  "SynthID Detector: Google AI-check nu gratis voor iedereen",
+  "Microsoft brengt Surface Laptop Ultra uit met Nvidia-chip",
+  "ChatGPT Intelligent UI toont grafieken, formulieren en knoppen"
  ]
 }
