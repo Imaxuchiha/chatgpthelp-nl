@@ -1323,6 +1323,18 @@
   "610b12eb50": {
    "at": "2026-10-08T12:45:21.854928",
    "why": "ok"
+  },
+  "112b5f0087": {
+   "at": "2026-10-08T19:58:28.377916",
+   "why": "ok"
+  },
+  "ca1ec6c6a1": {
+   "at": "2026-10-08T19:59:28.377916",
+   "why": "ok"
+  },
+  "a938124985": {
+   "at": "2026-10-08T20:00:28.377916",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1538,6 +1550,9 @@
   "ChatGPT Intelligent UI toont grafieken, formulieren en knoppen",
   "Ontwikkelaar maakt met AI gratis alternatieven voor 7 Adobe-apps",
   "OpenAI ai veiligheid: ex-medewerkers waarschuwen bestuur",
-  "ChatGPT for Teens houdt tieners aan het praten tijdens crisis"
+  "ChatGPT for Teens houdt tieners aan het praten tijdens crisis",
+  "Oracle gebruikt ChatGPT en Codex voor sneller werk",
+  "Pollo AI maakt campagnes met GPT-5.6 en GPT-6 Astra",
+  "Claude Opus 5.5 review: AI werkt uren zelfstandig door"
  ]
 }

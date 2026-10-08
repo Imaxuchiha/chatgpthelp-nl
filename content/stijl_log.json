@@ -559,5 +559,45 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-08T19:58:41",
+  "slug": "",
+  "title": "Oracle gebruikt ChatGPT en Codex voor sneller werk",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-08T19:58:48",
+  "slug": "",
+  "title": "Pollo AI maakt campagnes met GPT-5.6 en GPT-6 Astra",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-08T19:58:56",
+  "slug": "",
+  "title": "Claude Opus 5.5 review: AI werkt uren zelfstandig door",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

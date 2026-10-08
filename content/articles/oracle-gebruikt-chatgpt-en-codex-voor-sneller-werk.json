@@ -1,0 +1,68 @@
+{
+ "keyword": "chatgpt codex oracle",
+ "seo_title": "ChatGPT en Codex bij Oracle: dagen werk naar minuten",
+ "title": "Oracle gebruikt ChatGPT en Codex voor sneller werk",
+ "meta": "Oracle zet ChatGPT Work en Codex in voor recruitment, techniek en operaties. Lees wat dat betekent voor bedrijven in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "oracle",
+  "chatgpt",
+  "codex",
+  "automatisering"
+ ],
+ "intro": "Oracle gebruikt ChatGPT Work en Codex om specialistische kennis om te zetten in snelle, herhaalbare werkprocessen. Dat meldt OpenAI in een nieuwe publicatie. Het gaat om recruitment, engineering en operaties. Voor Nederlandse bedrijven is dit een concreet voorbeeld van hoe AI werk versnelt.",
+ "takeaways": [
+  "Oracle zet ChatGPT Work en Codex in bij recruitment, engineering en operaties.",
+  "Specialistische kennis wordt volgens OpenAI omgezet in herhaalbare workflows.",
+  "Werk dat eerder dagen kostte, gebeurt nu in minuten.",
+  "OpenAI noemt geen prijzen of Nederlandse klanten in de publicatie."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Oracle doet met ChatGPT en Codex",
+   "body": "OpenAI beschrijft hoe Oracle ChatGPT Work en Codex gebruikt op drie gebieden: recruitment, engineering en operaties. Medewerkers met specialistische kennis leggen hun aanpak vast in workflows. Die workflows zijn daarna herhaalbaar voor collega's.\n\nHet idee is simpel. Eén expert doet het werk één keer goed. Daarna kan de rest dezelfde stappen volgen, met ChatGPT en Codex als hulpmiddel. OpenAI zegt dat dit dagen werk terugbrengt naar minuten.\n\nOpenAI geeft geen details over welke teams precies meedoen of hoeveel mensen het gebruiken. Ook is niet duidelijk welke taken volledig automatisch gaan."
+  },
+  {
+   "heading": "Van dagen naar minuten",
+   "body": "De kern van de publicatie is snelheid. Werk dat voorheen dagen kostte, kan nu binnen minuten klaar zijn. Dat komt doordat Codex code en technische taken kan overnemen, terwijl ChatGPT Work helpt bij tekst en processtappen.\n\nVoor recruitment betekent dat bijvoorbeeld sneller vacatures opstellen of kandidaten beoordelen. Bij engineering gaat het om code schrijven, testen of reviewen. Operaties draait om terugkerende processen die nu sneller lopen.\n\nOpenAI noemt geen exacte cijfers per taak. De vergelijking van dagen naar minuten is de enige concrete tijdsindicatie in de bron."
+  },
+  {
+   "heading": "Wat dit zegt over AI op het werk",
+   "body": "Oracle is een groot technologiebedrijf met veel eigen specialisten. Dat maakt het voorbeeld interessant voor andere organisaties. De aanpak draait om kennis vastleggen, niet om tools alleen.\n\nWie een expert vervangt door een model zonder context, verliest kwaliteit. Oracle lijkt daarom eerst het proces te beschrijven en daarna pas te automatiseren. Dat is een patroon dat vaker terugkomt bij grote AI-projecten.\n\nOpenAI publiceert vaker dit soort klantverhalen. Het zijn geen onafhankelijke onderzoeken, maar ze laten wel zien hoe bedrijven ChatGPT en Codex in de praktijk gebruiken."
+  },
+  {
+   "heading": "Nog veel onduidelijk",
+   "body": "De publicatie blijft vaag op belangrijke punten. Er staat niet hoeveel tijd Oracle precies bespaart. Er staat ook niet welke functies verdwijnen of veranderen.\n\nVoor bedrijven die dit willen nadoen, is dat lastig. Je weet niet welke licentie nodig is, wat het kost of hoe lang de invoering duurt. OpenAI noemt geen prijzen en geen Europese klanten in deze publicatie.\n\nWie serieus wil kijken naar ChatGPT Work of Codex, kan beter eerst een eigen test doen met één team. Begin klein en meet zelf wat het oplevert."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven is dit vooral een voorbeeld, geen blauwdruk. ChatGPT Work en Codex zijn via OpenAI beschikbaar in Nederland, maar OpenAI noemt in deze publicatie geen europrijzen of Nederlandse klanten. Grote organisaties met veel eigen specialisten kunnen de aanpak volgen: leg eerst het proces vast, automatiseer daarna. Let wel op de Europese regels rond gegevensbescherming en de AI-verordening. Zet geen persoonsgegevens van kandidaten in een model zonder duidelijke afspraken met je leverancier.",
+ "faq": [
+  {
+   "q": "Wat is Codex precies?",
+   "a": "Codex is een OpenAI-model dat code kan schrijven, aanpassen en uitleggen. Oracle gebruikt het volgens OpenAI bij technische en engineeringtaken."
+  },
+  {
+   "q": "Kan ik ChatGPT Work en Codex in Nederland gebruiken?",
+   "a": "Ja, OpenAI biedt deze producten ook in Nederland aan. OpenAI noemt in deze publicatie geen specifieke prijzen in euro's."
+  },
+  {
+   "q": "Hoeveel tijd bespaart Oracle echt?",
+   "a": "OpenAI zegt dat werk dat dagen kostte nu in minuten klaar is. Er staan geen exacte cijfers per taak of team in de bron."
+  }
+ ],
+ "slug": "oracle-gebruikt-chatgpt-en-codex-voor-sneller-werk",
+ "kind": "news",
+ "date": "2026-10-08",
+ "published": "2026-10-08T19:58",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+   "url": "https://openai.com/index/oracle"
+  }
+ ],
+ "path": "/nieuws/oracle-gebruikt-chatgpt-en-codex-voor-sneller-werk/",
+ "og": "/img/og/oracle-gebruikt-chatgpt-en-codex-voor-sneller-werk.png",
+ "take": "Oracle zet ChatGPT Work en Codex in voor recruitment, engineering en operaties, en dat lees ik als een persbericht met een belofte. Ik heb dat spul zelf niet in productie gezien, dus ik wacht op echte resultaten. Laat eerst maar eens zien dat het werkt op echte data."
+}

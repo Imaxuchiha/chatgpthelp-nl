@@ -1,0 +1,68 @@
+{
+ "keyword": "claude opus 5.5 review",
+ "seo_title": "Claude Opus 5.5 review: AI werkt zelfstandig",
+ "title": "Claude Opus 5.5 review: AI werkt uren zelfstandig door",
+ "meta": "In deze Claude Opus 5.5 review lees je hoe de chatbot zelfstandig muziekvideo's maakte en waarom de redacteur hem moest afremmen.",
+ "category": "nieuws",
+ "tags": [
+  "claude",
+  "ai-agents",
+  "review",
+  "anthropic",
+  "muziekvideo"
+ ],
+ "intro": "Een redacteur van Bright sprak zijn artikel in tegen Claude Opus 5.5, terwijl hij onderweg was naar de sportschool. De chatbot had op dat moment al meer dan tien uur zelfstandig gewerkt aan drie muziekvideo's. Dat roept de vraag op hoe ver AI-agents inmiddels zijn.",
+ "takeaways": [
+  "Claude Opus 5.5 werkte volgens Bright ruim tien uur zelfstandig aan drie muziekvideo's.",
+  "De gebruiker gaf één opdracht: haal alles uit de kast.",
+  "De redacteur moest de AI daarna zelf afremmen.",
+  "De video's zijn in het artikel te bekijken en te beluisteren."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Claude Opus 5.5 zelf deed",
+   "body": "De test vond plaats op woensdagavond om 22.36 uur. De redacteur zat in de auto en sprak zijn tekst in plaats van te typen. Tegen welk model hij praatte, staat in de bron: Claude Opus 5.5.\n\nVolgens Bright had de chatbot in de week daarvoor meer dan tien uur zelfstandig doorgewerkt. Het resultaat bestaat uit drie muziekvideo's. Die zijn in het artikel te bekijken en te beluisteren.\n\nDe opdracht was kort. De redacteur zei tegen de AI: haal alles uit de kast. Daarna moest hij het model tegenhouden, zo beschrijft hij zelf."
+  },
+  {
+   "heading": "Een agent die doorwerkt zonder toezicht",
+   "body": "Dit soort software heet een agent. Je geeft een doel, het model bedenkt zelf stappen en voert ze uit. Dat kan uren duren, zonder dat iemand meekijkt.\n\nBij muziekvideo's betekent dat onder meer: beelden kiezen, muziek combineren en het geheel afmaken. Bright noemt geen details over de tools die het model gebruikte. Ook is niet bekend hoeveel het werk precies kostte.\n\nDe vraag of dit al AGI is, beantwoordt de auteur zelf met nee. Toch voelt het volgens hem soms zo. Dat verschil tussen gevoel en werkelijkheid is het hart van de review."
+  },
+  {
+   "heading": "Waarom afremmen nodig was",
+   "body": "De redacteur moest het model stoppen. Dat is opvallend bij een agent die zelfstandig werkt. Zonder grens blijft zo'n systeem namelijk doorgaan met taken.\n\nVoor gebruikers betekent dit dat je vooraf moet nadenken over kaders. Hoe lang mag de agent werken? Wat mag hij uitgeven? Welke bestanden mag hij aanraken? De bron geeft daar geen standaardantwoord op.\n\nBright plaatst de review in een reeks eerdere tests. Het patroon is steeds hetzelfde: het model verrast, en de gebruiker moet bijsturen."
+  },
+  {
+   "heading": "Wat dit zegt over de huidige AI-modellen",
+   "body": "Claude Opus 5.5 is een model van Anthropic. Het is via een chatomgeving te gebruiken, net als ChatGPT van OpenAI en Gemini van Google.\n\nHet verschil zit in de duur van de taken. Een gewone chatbot antwoordt binnen seconden. Een agent werkt door terwijl jij iets anders doet.\n\nBright trekt geen harde conclusie over de kwaliteit van de video's zelf. De auteur laat zien wat er gebeurde en nodigt lezers uit om zelf te kijken en te luisteren."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers en bedrijven betekent dit dat AI-agents langer zelfstandig kunnen doorwerken dan een gewone chatbot. Wie zo'n agent inzet, moet vooraf grenzen stellen aan tijd, kosten en toegang tot bestanden. Let ook op de Europese AI-regels: zodra een systeem zelfstandig beslissingen neemt, krijg je als gebruiker meer verantwoordelijkheid voor de uitkomsten. Anthropic heeft geen Nederlandse prijzen of releasedata voor dit model gemeld.",
+ "faq": [
+  {
+   "q": "Wat is Claude Opus 5.5?",
+   "a": "Claude Opus 5.5 is een AI-model van Anthropic. In de test van Bright werkte het model zelfstandig aan muziekvideo's."
+  },
+  {
+   "q": "Is Claude Opus 5.5 beschikbaar in Nederland?",
+   "a": "Daar zegt de bron niets over. Bright noemt geen prijzen, releasedata of beschikbaarheid per land."
+  },
+  {
+   "q": "Wat is een AI-agent?",
+   "a": "Een AI-agent krijgt een doel en voert zelf de stappen uit om dat doel te bereiken. Dat kan uren duren, zonder dat iemand meekijkt."
+  }
+ ],
+ "slug": "claude-opus-5-5-review-ai-werkt-uren-zelfstandig-door",
+ "kind": "news",
+ "date": "2026-10-08",
+ "published": "2026-10-08T20:00",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Ik zei \"haal alles uit de kast\" tegen een AI en moest hem daarna tegenhouden",
+   "url": "https://www.bright.nl/nieuws/2144453/claude-opus-5-5-review-is-dit-al-agi-nee-toch-voelt-het-soms-zo.html"
+  }
+ ],
+ "path": "/nieuws/claude-opus-5-5-review-ai-werkt-uren-zelfstandig-door/",
+ "og": "/img/og/claude-opus-5-5-review-ai-werkt-uren-zelfstandig-door.png",
+ "take": "Tien uur zelfstandig doorwerken aan drie muziekvideo's, dan heb ik liever dat de redacteur hem afremt dan dat ik zelf zo'n abonnement erbij neem. Ik bouw mijn eigen agents met Claude Code en DeepSeek, want een tool die zelf blijft doorrammen zonder dat ik de knoppen vasthoud levert mij niks op. Werkt het echt, dan zie ik het wel op een echte rekening terug."
+}

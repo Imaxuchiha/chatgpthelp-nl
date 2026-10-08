@@ -1,0 +1,64 @@
+{
+ "keyword": "pollo ai campagne maken",
+ "seo_title": "Pollo AI maakt campagnes met GPT-5.6 en GPT-6 Astra",
+ "title": "Pollo AI maakt campagnes met GPT-5.6 en GPT-6 Astra",
+ "meta": "Pollo AI gebruikt GPT-5.6, GPT-6 Astra en GPT-Image-2.5 voor beeld en videoadvertenties. Lees wat dit betekent voor makers en bedrijven in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "pollo ai",
+  "openai",
+  "gpt-5.6",
+  "gpt-6 astra",
+  "beeldgeneratie",
+  "reclame"
+ ],
+ "intro": "Pollo AI zet vanaf nu meerdere OpenAI-modellen in om creatieve ideeën om te zetten in campagnebeeld en video. Het bedrijf gebruikt daar GPT-5.6, GPT-6 Astra en GPT-Image-2.5 voor. Volgens OpenAI moeten makers zo sneller van een ruw idee naar een afgeronde advertentie komen.",
+ "takeaways": [
+  "Pollo AI combineert drie OpenAI-modellen in één productiewerkwijze.",
+  "GPT-5.6 en GPT-6 Astra schrijven en structureren de campagne, GPT-Image-2.5 maakt het beeld.",
+  "Het resultaat bestaat uit gedetailleerde afbeeldingen en filmische videoadvertenties.",
+  "OpenAI noemt de samenwerking in een eigen bericht op zijn site."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Pollo AI precies doet",
+   "body": "Pollo AI richt zich op makers die snel campagnemateriaal nodig hebben. Zij beginnen met een idee in tekst. De modellen werken dat idee uit tot een volledige advertentie.\n\nDaarbij gaat het niet om één losse afbeelding. Volgens OpenAI levert de combinatie gedetailleerde beelden op, plus video's met een filmische uitstraling. De drie modellen hebben elk een eigen rol in dat proces.\n\nGPT-5.6 en GPT-6 Astra nemen het schrijfwerk en de opbouw van de campagne op zich. GPT-Image-2.5 verzorgt het beeld zelf. OpenAI noemt de aanpak in een bericht van 8 oktober 2026."
+  },
+  {
+   "heading": "Drie modellen, drie rollen",
+   "body": "De taakverdeling is het opvallendste deel van de aankondiging. Waar veel tools één model gebruiken voor alles, kiest Pollo AI voor een keten van modellen.\n\nHet taalmodel levert de tekst en de structuur van een campagne. Het beeldmodel maakt daar visueel materiaal bij. Voor videoadvertenties komt daar nog een stap bij, omdat bewegend beeld meer vraagt dan een stilstaand ontwerp.\n\nOpenAI geeft in het bericht geen details over prijzen of limieten. Ook is niet duidelijk welke modellen precies welke stap uitvoeren. Dat maakt het lastig om de kwaliteit vooraf in te schatten."
+  },
+  {
+   "heading": "Wat dit zegt over de markt",
+   "body": "De samenwerking past in een bredere beweging. AI-bedrijven richten zich steeds vaker op één specifieke groep gebruikers, zoals reclame- en marketingteams.\n\nVoor zulke teams telt vooral snelheid. Een campagne die eerst dagen werk kostte, kan met dit soort tools in een middag klaar zijn. Of dat in de praktijk ook lukt, hangt af van de kwaliteit van de output.\n\nOpvallend is dat OpenAI zelf het voorbeeld van Pollo AI uitlicht. Het bedrijf laat daarmee zien dat zijn modellen via andere partijen bij eindgebruikers terechtkomen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse makers, bureaus en marketingteams betekent dit vooral een extra optie naast bestaande tools. De modellen zijn via Pollo AI beschikbaar, dus je hebt geen eigen OpenAI-account nodig voor deze werkwijze. Let wel op twee dingen. Ten eerste is niet bekend wat het gebruik kost en of er een europrijs komt. Ten tweede blijft de vraag hoe het zit met auteursrechten op gegenereerd beeld en video, want daarover zegt OpenAI in dit bericht niets. Wie campagnemateriaal voor klanten maakt, doet er goed aan de voorwaarden van Pollo AI zelf te lezen voordat het werk de deur uit gaat.",
+ "faq": [
+  {
+   "q": "Welke modellen gebruikt Pollo AI?",
+   "a": "Pollo AI gebruikt GPT-5.6, GPT-6 Astra en GPT-Image-2.5 van OpenAI. De taalmodellen leveren tekst en structuur, het beeldmodel maakt de afbeeldingen."
+  },
+  {
+   "q": "Wat kun je met Pollo AI maken?",
+   "a": "Volgens OpenAI maak je er gedetailleerde afbeeldingen en filmische videoadvertenties mee. Je start met een creatief idee en werkt dat uit tot campagnemateriaal."
+  },
+  {
+   "q": "Is Pollo AI beschikbaar in Nederland?",
+   "a": "OpenAI zegt niets over beschikbaarheid per land. Of en wanneer Nederlandse gebruikers toegang krijgen, is nog niet bekend."
+  }
+ ],
+ "slug": "pollo-ai-maakt-campagnes-met-gpt-5-6-en-gpt-6-astra",
+ "kind": "news",
+ "date": "2026-10-08",
+ "published": "2026-10-08T19:59",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+   "url": "https://openai.com/index/pollo-ai"
+  }
+ ],
+ "path": "/nieuws/pollo-ai-maakt-campagnes-met-gpt-5-6-en-gpt-6-astra/",
+ "og": "/img/og/pollo-ai-maakt-campagnes-met-gpt-5-6-en-gpt-6-astra.png"
+}
