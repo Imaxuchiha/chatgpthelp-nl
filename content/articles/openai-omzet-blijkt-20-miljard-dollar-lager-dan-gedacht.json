@@ -1,0 +1,64 @@
+{
+ "keyword": "openai omzet",
+ "seo_title": "OpenAI omzet 20 miljard lager dan verwacht",
+ "title": "OpenAI omzet blijkt 20 miljard dollar lager dan gedacht",
+ "meta": "OpenAI zou 70 miljard dollar omzet draaien, maar volgens een nieuw rapport is dat 20 miljard minder. Wat betekent dat voor ChatGPT en Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "omzet",
+  "chatgpt",
+  "financiering",
+  "ai-markt"
+ ],
+ "intro": "De jaarlijkse omzet van OpenAI valt miljarden dollars lager uit dan eerder gemeld. TechCrunch schrijft dat het bedrijf naar verluidt 20 miljard dollar minder binnenhaalt dan eerder was geprojecteerd. Dat telt, want OpenAI bepaalt voor een groot deel het tempo en de prijzen in de AI-markt.",
+ "takeaways": [
+  "Eerder werd gemeld dat OpenAI zo'n 70 miljard dollar per jaar omzet draait.",
+  "Een nieuw rapport stelt dat dit bedrag 20 miljard dollar lager ligt.",
+  "TechCrunch noemt de precieze cijfers nog niet bevestigd door OpenAI.",
+  "De omzet bepaalt hoeveel ruimte OpenAI heeft voor rekenkracht en nieuwe modellen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies op tafel ligt",
+   "body": "TechCrunch meldt dat de jaaromzet van OpenAI 20 miljard dollar lager is dan eerder geprojecteerd. Over welke periode die projectie ging, maakt het medium niet duidelijk. Eerder verscheen het cijfer van ongeveer 70 miljard dollar op jaarbasis. Dat bedrag komt nu een stuk lager uit.\n\nHet gaat om een rapport, niet om een officiële opgave van OpenAI. TechCrunch schrijft erbij dat het bedrijf zelf nog niet heeft gereageerd. Zulke cijfers zeggen ook weinig over winst. Rekenkracht, personeel en datacenters kosten OpenAI veel geld.\n\nDe omzet op jaarbasis is een optelling van de laatste maanden. Een daling betekent niet meteen dat klanten weglopen. Het kan ook gaan om minder groei dan verwacht, of om een eerdere schatting die te hoog was."
+  },
+  {
+   "heading": "Waarom dit uitmaakt voor de AI-markt",
+   "body": "OpenAI is een van de grootste partijen in de AI-sector. Investeerders kijken naar de omzet om te bepalen hoeveel geld er nog bij moet. Zakt die omzet, dan wordt het lastiger om nieuwe financiering op te halen.\n\nMinder geld betekent minder ruimte voor dure rekenkracht. Modellen trainen kost miljarden. Ook het draaien van ChatGPT voor honderden miljoenen gebruikers per dag is kostbaar. Concurrenten zoals Anthropic met Claude en Google met Gemini kijken mee.\n\nDe cijfers zeggen niets over de kwaliteit van de modellen. Wel geven ze aan hoe houdbaar het huidige groeitempo is. De AI-sector leunt op de verwachting dat omzet blijft stijgen."
+  },
+  {
+   "heading": "Wat OpenAI zelf zegt",
+   "body": "OpenAI heeft nog niet publiek gereageerd op het rapport. Het bedrijf geeft normaal geen gedetailleerde omzetcijfers vrij. Wat er precies klopt, is dus nog niet bekend.\n\nTechCrunch baseert zich op een rapport dat het zelf heeft ingezien. De precieze herkomst en methode blijven onduidelijk. Tot OpenAI met eigen cijfers komt, blijft het bij schattingen van buitenaf."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers verandert er op korte termijn weinig aan ChatGPT zelf. De prijzen van abonnementen in euro's blijven voorlopig gelijk. Wel kan een lagere omzet gevolgen hebben voor de snelheid waarmee nieuwe functies naar Nederland komen. OpenAI investeert veel in Europa, onder meer in datacenters en samenwerkingen. Minder omzet betekent minder ruimte voor zulke plannen. Nederlandse bedrijven die op OpenAI bouwen, doen er goed aan om te kijken naar alternatieven zoals Claude of Gemini. Dat spreidt het risico als de koers van OpenAI verandert.",
+ "faq": [
+  {
+   "q": "Hoeveel omzet draait OpenAI echt?",
+   "a": "Eerder werd gemeld dat het om ongeveer 70 miljard dollar per jaar ging. Volgens een nieuw rapport ligt dat bedrag 20 miljard dollar lager. OpenAI heeft dit zelf niet bevestigd."
+  },
+  {
+   "q": "Verandert er iets aan mijn ChatGPT-abonnement?",
+   "a": "Daar is niets over bekend. De abonnementsprijzen in euro's blijven voorlopig hetzelfde. OpenAI heeft geen wijzigingen aangekondigd."
+  },
+  {
+   "q": "Wat betekent dit voor AI-bedrijven in Nederland?",
+   "a": "Nederlandse bedrijven die op OpenAI bouwen, kunnen het beste ook naar andere aanbieders kijken. Zo voorkomen ze dat ze afhankelijk blijven van één partij."
+  }
+ ],
+ "slug": "openai-omzet-blijkt-20-miljard-dollar-lager-dan-gedacht",
+ "kind": "news",
+ "date": "2026-10-08",
+ "published": "2026-10-08T23:17",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+   "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+  }
+ ],
+ "path": "/nieuws/openai-omzet-blijkt-20-miljard-dollar-lager-dan-gedacht/",
+ "og": "/img/og/openai-omzet-blijkt-20-miljard-dollar-lager-dan-gedacht.png",
+ "take": "Twintig miljard minder omzet dan gedacht, dat is geen afrondingsfoutje. OpenAI zet de prijzen in de markt, dus als daar druk op komt, gaan abonnementen en API-tarieven eerder omlaag dan omhoog. Ik koop liever niets tot ik het terugverdien, en een goedkope API die mijn scripts gewoon laten draaien wint het bij mij van een duur merk."
+}

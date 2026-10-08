@@ -599,5 +599,59 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-08T23:15:24",
+  "slug": "",
+  "title": "OpenAI ontslaat veiligheidsonderzoekers: zij spreken zich uit",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-08T23:15:31",
+  "slug": "",
+  "title": "Ben Affleck verrast internet met AI-kennis",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S4",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-08T23:15:37",
+  "slug": "",
+  "title": "AI leaderboard Arena bijna dubbel zo veel waard: 3,1 miljard dollar",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S5",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-08T23:15:45",
+  "slug": "",
+  "title": "OpenAI omzet blijkt 20 miljard dollar lager dan gedacht",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

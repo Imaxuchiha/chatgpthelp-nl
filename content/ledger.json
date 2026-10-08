@@ -1335,6 +1335,22 @@
   "a938124985": {
    "at": "2026-10-08T20:00:28.377916",
    "why": "ok"
+  },
+  "301544ff1a": {
+   "at": "2026-10-08T23:15:14.381263",
+   "why": "poort"
+  },
+  "70543e9cd2": {
+   "at": "2026-10-08T23:15:14.381263",
+   "why": "ok"
+  },
+  "ee0909605c": {
+   "at": "2026-10-08T23:16:14.381263",
+   "why": "ok"
+  },
+  "3bf143dd45": {
+   "at": "2026-10-08T23:17:14.381263",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1553,6 +1569,9 @@
   "ChatGPT for Teens houdt tieners aan het praten tijdens crisis",
   "Oracle gebruikt ChatGPT en Codex voor sneller werk",
   "Pollo AI maakt campagnes met GPT-5.6 en GPT-6 Astra",
-  "Claude Opus 5.5 review: AI werkt uren zelfstandig door"
+  "Claude Opus 5.5 review: AI werkt uren zelfstandig door",
+  "Ben Affleck verrast internet met AI-kennis",
+  "AI leaderboard Arena bijna dubbel zo veel waard: 3,1 miljard dollar",
+  "OpenAI omzet blijkt 20 miljard dollar lager dan gedacht"
  ]
 }
