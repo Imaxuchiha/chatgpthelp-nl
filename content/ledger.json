@@ -1307,6 +1307,22 @@
   "876648c335": {
    "at": "2026-10-07T23:15:28.375390",
    "why": "ok"
+  },
+  "dcd80d0d2d": {
+   "at": "2026-10-08T12:43:21.854928",
+   "why": "ok"
+  },
+  "4bfb4d12fc": {
+   "at": "2026-10-08T12:44:21.854928",
+   "why": "poort"
+  },
+  "dc7d33c6b8": {
+   "at": "2026-10-08T12:44:21.854928",
+   "why": "ok"
+  },
+  "610b12eb50": {
+   "at": "2026-10-08T12:45:21.854928",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1519,6 +1535,9 @@
   "Games maken met AI: Google test Playground via prompts",
   "SynthID Detector: Google AI-check nu gratis voor iedereen",
   "Microsoft brengt Surface Laptop Ultra uit met Nvidia-chip",
-  "ChatGPT Intelligent UI toont grafieken, formulieren en knoppen"
+  "ChatGPT Intelligent UI toont grafieken, formulieren en knoppen",
+  "Ontwikkelaar maakt met AI gratis alternatieven voor 7 Adobe-apps",
+  "OpenAI ai veiligheid: ex-medewerkers waarschuwen bestuur",
+  "ChatGPT for Teens houdt tieners aan het praten tijdens crisis"
  ]
 }

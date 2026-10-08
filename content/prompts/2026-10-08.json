@@ -1,0 +1,14 @@
+{
+ "title": "Prompt: verzekeringspolis vergelijken voor je gezin",
+ "situation": "Je hebt meerdere polissen lopen en wilt weten waar je dubbel verzekerd bent of geld laat liggen. Gebruik deze prompt voor je jaarlijkse check.",
+ "prompt": "Je bent een Nederlandse verzekeringsadviseur met kennis van de markt. Ik stuur je hieronder de gegevens van mijn [AANTAL] polissen: [PLAK HIER PER POLIS: soort verzekering, verzekeraar, premie per maand, eigen risico en belangrijkste dekkingsvoorwaarden]. Mijn gezinssituatie: [BESCHRIJF: aantal personen, woning huur of koop, auto ja of nee, huisdieren]. Mijn budget per maand is [BEDRAG] euro. Vergelijk de polissen op overlap en op gaten in dekking. Geef per punt aan wat het kost of oplevert in euro per jaar. Sluit af met drie concrete acties, gesorteerd op meeste besparing. Noem bij elke actie de reden en het risico. Gebruik een tabel voor de vergelijking en houd de toelichting kort.",
+ "tip": "Vraag daarna om een verkorte versie van 100 woorden die je aan je partner kunt voorlezen.",
+ "tags": [
+  "thuis",
+  "geld",
+  "verzekeringen"
+ ],
+ "date": "2026-10-08",
+ "slug": "prompt-verzekeringspolis-vergelijken-voor-je-gezin",
+ "path": "/prompts/2026-10-08-prompt-verzekeringspolis-vergelijken-voor-je-gezin/"
+}

@@ -1,0 +1,64 @@
+{
+ "keyword": "gratis adobe alternatief ai",
+ "seo_title": "Gratis Adobe-alternatief gemaakt met AI: 7 apps",
+ "title": "Ontwikkelaar maakt met AI gratis alternatieven voor 7 Adobe-apps",
+ "meta": "Een Amerikaanse ontwikkelaar bouwt met Claude Opus 5.5 gratis opensource-versies van Photoshop en Premiere. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "adobe",
+  "photoshop",
+  "opensource",
+  "claude",
+  "ai-tools"
+ ],
+ "intro": "Een Amerikaanse ontwikkelaar heeft met behulp van AI gratis opensource-versies gebouwd van zeven Adobe-programma's, waaronder Photoshop en Premiere. Dat meldt Bright. De apps verschenen afgelopen weekend en zijn volgens de maker nog volop in ontwikkeling.",
+ "takeaways": [
+  "Brandon Thomas van ArtCraft bouwde zeven gratis alternatieven voor Adobe-apps.",
+  "Hij gebruikte daarvoor Claude Opus 5.5 van Anthropic.",
+  "De software is opensource en verscheen afgelopen weekend.",
+  "Volgens Thomas gaat het nog om een super vroege alfaversie."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies is gebouwd",
+   "body": "Brandon Thomas werkt bij het bedrijf ArtCraft. Hij zegt dat hij met Claude Opus 5.5 van Anthropic zeven programma's heeft gemaakt die lijken op bekende Adobe-apps. Photoshop en Premiere zijn daar twee van. De andere vijf noemt de bron niet bij naam.\n\nDe tools zijn gratis en de broncode is openbaar. Dat betekent dat iedereen ze mag gebruiken en aanpassen. Adobe vraagt voor zijn software een maandelijks bedrag. Deze alternatieven kosten niets.\n\nHet is nog onduidelijk hoe goed de apps echt werken. Thomas noemt ze zelf een super vroege alfaversie. Dat zegt hij tegen Bright."
+  },
+  {
+   "heading": "Waarom dit opvalt",
+   "body": "Adobe is al jaren de standaard voor foto- en videobewerking. Veel bedrijven en freelancers betalen maandelijks voor een abonnement. Een gratis alternatief met dezelfde functies raakt die positie direct.\n\nDe rol van AI valt op. Thomas schreef naar eigen zeggen niet alles zelf. Hij stuurde opdrachten naar Claude Opus 5.5 en liet het model code maken. Dat laat zien hoe snel zulke software nu tot stand komt.\n\nToch blijft het opletten. Een alfaversie mist vaak functies en kan fouten bevatten. Of de apps bestanden van Adobe netjes openen, is niet bekend."
+  },
+  {
+   "heading": "Wat OpenAI en Anthropic hiermee te maken hebben",
+   "body": "Het model achter dit project komt van Anthropic, het bedrijf achter Claude. OpenAI heeft hier geen rol in. Dat is relevant, want beide partijen leveren modellen die code kunnen schrijven.\n\nVoor ontwikkelaars wordt het daardoor makkelijker om zelf tools te maken. Je hebt geen groot team nodig. Eén persoon met een AI-model kan in korte tijd veel werk verzetten.\n\nDe vraag is of dat juridisch altijd goed gaat. Adobe heeft zijn eigen licenties en merken. De bron zegt niets over eventuele bezwaren van Adobe."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders die nu een Adobe-abonnement betalen, klinkt gratis software aantrekkelijk. Reken er alleen nog niet op. De apps zijn een alfaversie en dus niet klaar voor dagelijks werk. Grote kantoren en mediabedrijven in Nederland werken vaak met vaste Adobe-licenties en opleidingen. Overstappen kost tijd en geld. Wil je het toch proberen, dan is het verstandig om eerst met kopieën van je bestanden te testen. Let ook op de voorwaarden: opensource zegt iets over de code, niet over de rechten op merknamen of lettertypen.",
+ "faq": [
+  {
+   "q": "Zijn deze gratis Adobe-alternatieven al te gebruiken?",
+   "a": "De maker noemt ze een super vroege alfaversie. Je kunt ze proberen, maar verwacht nog fouten en missende functies."
+  },
+  {
+   "q": "Welke AI is gebruikt voor deze apps?",
+   "a": "Brandon Thomas van ArtCraft zegt dat hij Claude Opus 5.5 van Anthropic gebruikte. OpenAI was hier niet bij betrokken."
+  },
+  {
+   "q": "Kost het echt niets?",
+   "a": "De apps zijn gratis en opensource volgens de bron. Adobe vraagt wel geld voor zijn eigen software."
+  }
+ ],
+ "slug": "ontwikkelaar-maakt-met-ai-gratis-alternatieven-voor-7-adobe-apps",
+ "kind": "news",
+ "date": "2026-10-08",
+ "published": "2026-10-08T12:43",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Ontwikkelaar bouwt met AI gratis klonen van Photoshop, Premiere en 5 andere Adobe-apps",
+   "url": "https://www.bright.nl/nieuws/2144366/ontwikkelaar-bouwt-met-ai-gratis-klonen-van-photoshop-en-6-andere-adobe-apps.html"
+  }
+ ],
+ "path": "/nieuws/ontwikkelaar-maakt-met-ai-gratis-alternatieven-voor-7-adobe-apps/",
+ "og": "/img/og/ontwikkelaar-maakt-met-ai-gratis-alternatieven-voor-7-adobe-apps.png",
+ "take": "Een ontwikkelaar die in een weekend zeven Adobe-alternatieven uit AI rolt, dat is een leuke demo en verder niks. Ik geloof pas in zulk gereedschap als het een jaar later nog werkt en niet bij de eerste update uit elkaar valt. Zulke aankondigingen wil ik eerst in het echt zien draaien voordat ik er ook maar een euro op inzet."
+}

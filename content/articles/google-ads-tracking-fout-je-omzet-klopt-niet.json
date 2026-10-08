@@ -1,0 +1,65 @@
+{
+ "keyword": "google ads tracking fout",
+ "seo_title": "Google Ads tracking fout: bijna dubbele omzet gemeten",
+ "title": "Google Ads tracking fout: je omzet klopt niet",
+ "meta": "Google Ads tracking fout: bij een webshop stond een externe app als primaire aankoop. De echte ROAS was 129-204%, niet 298%. Check je meting.",
+ "category": "mening",
+ "tags": [
+  "google ads",
+  "tracking",
+  "roas",
+  "conversiemeting",
+  "performance marketing"
+ ],
+ "intro": "Je dashboard zegt dat je een top-ROAS draait. Maar is dat geld ook echt binnengekomen? Bij een webshop zag ik het misgaan: Google Ads rapporteerde bijna het dubbele van de werkelijke omzet. Een externe tracking-app stond als primaire aankoop ingesteld. De eerlijke ROAS lag tussen 129% en 204%, niet op de 298% uit het dashboard. Dat scheelt nogal wat als je op basis daarvan budgetten verdeelt.",
+ "takeaways": [
+  "Controleer altijd welke conversie als primair staat in Google Ads.",
+  "Vergelijk je Google Ads-omzet met je echte winkelmandje of backend.",
+  "Een mooie ROAS op papier is waardeloos als de meting niet klopt."
+ ],
+ "sections": [
+  {
+   "heading": "Het dashboard loog, maar niet expres",
+   "body": "Een webshopklant belde me op. Hij zag in Google Ads een ROAS van 298% en dacht dat we goud in handen hadden. Ik vertrouwde het niet. Het voelde te mooi. Ik ging kijken naar de conversies. Daar stond een externe tracking-app als primaire aankoop ingesteld. Die app telde ook dingen mee die geen echte aankopen waren.\n\nToen ik de cijfers naast de echte omzet uit de backend legde, bleek het verschil groot. De werkelijke ROAS lag tussen 129% en 204%. Nog steeds prima, maar geen 298%. Het probleem: op basis van dat verkeerde getal zouden we veel meer budget in campagnes hebben gestopt die in werkelijkheid minder opleverden.\n\nDit is geen zeldzaam geval. Ik zie het vaker: een extra script, een app, een verkeerde instelling. Zelfs Shopify-koppelingen met Google breken vaker dan je denkt. En dan stuurt Smart Bidding vol overtuiging de verkeerde kant op."
+  },
+  {
+   "heading": "Meten vóór optimaliseren",
+   "body": "Mijn regel is simpel: meten vóór optimaliseren. De meeste 'problemen' in advertentieaccounts zijn meetfouten, geen echte dalingen. Als je ROAS ineens keldert, kijk dan eerst of je meting nog klopt. Check welke conversie als primair staat. Check of je niet dubbel telt. Check of je winkelmandje nog goed vuurt.\n\nBij die webshop heb ik de primaire conversie teruggezet naar de echte aankoop uit de backend. Daarna werd het dashboard eerlijk. De ROAS zakte, maar dat was de waarheid. En met de waarheid kun je betere beslissingen nemen.\n\nAls je op 30 dagen data oordeelt, stuur je op ruis. Ik kijk altijd naar 12 tot 18 maanden en jaar-op-jaar. Maar die lange termijn heeft alleen zin als de data klopt. Anders optimaliseer je op fictie."
+  },
+  {
+   "heading": "Wat dit met AI te maken heeft",
+   "body": "AI maakt dit alleen maar belangrijker. Google Ads gebruikt Smart Bidding en Performance Max. Die systemen leren van de conversies die jij doorgeeft. Als die conversies verkeerd zijn, leert de AI verkeerd. Dan krijg je meer van het verkeerde soort klanten. En dat kost geld.\n\nIk bouw zelf tools met Claude Code en DeepSeek. Die gebruik ik om rapportages te maken en Google Ads-analyses te draaien. Maar ik laat de AI nooit zomaar budgetten aanpassen. De geld-knoppen blijven bij mij. Want als de meting niet klopt, kan de beste AI er niks van maken.\n\nEen demo is geen product. En een dashboard is geen waarheid. Check altijd de bron."
+  },
+  {
+   "heading": "Zo check je het zelf",
+   "body": "Ga naar Google Ads, naar conversies. Kijk welke conversie als primair staat. Is dat een app of script dat je niet herkent? Zet dan je eigen aankoopconversie als primair. Kijk daarna in je backend wat de echte omzet is. Vergelijk dat met wat Google Ads rapporteert.\n\nVerschil groter dan 10%? Dan is er iets mis. Los dat eerst op. Pas daarna ga je optimaliseren. Want optimaliseren op verkeerde data is geld weggooien.\n\nBij die webshop hebben we het opgelost. De ROAS zakte naar een eerlijk niveau. En weet je? Daarna konden we pas echt gaan schalen. Want nu wisten we wat een campagne echt opleverde."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse webshops en adverteerders: controleer vandaag nog je conversiemeting in Google Ads. Zet je eigen aankoopconversie als primair, niet een externe app. Vergelijk je omzet met je backend. Een eerlijke ROAS van 150% is meer waard dan een fictieve van 300%. Want op fictie kun je geen bedrijf bouwen.",
+ "faq": [
+  {
+   "q": "Hoe weet ik of mijn Google Ads tracking fout is?",
+   "a": "Vergelijk je Google Ads-omzet met je echte omzet uit de backend of winkelmandje. Een verschil van meer dan 10% wijst op een meetfout."
+  },
+  {
+   "q": "Wat is een primaire conversie in Google Ads?",
+   "a": "De conversie die Google Ads gebruikt om te optimaliseren. Als een externe app als primair staat, kan die app ook niet-aankopen meetellen en je ROAS opblazen."
+  },
+  {
+   "q": "Kan AI helpen bij het oplossen van trackingfouten?",
+   "a": "AI kan helpen bij analyses en rapportages, maar de controle op conversies en het aanpassen van budgetten blijft mensenwerk. Vertrouw niet blind op AI als de data niet klopt."
+  }
+ ],
+ "lessons_used": [
+  "Les tracking-app-verdubbelt-omzet"
+ ],
+ "slug": "google-ads-tracking-fout-je-omzet-klopt-niet",
+ "kind": "practice",
+ "date": "2026-10-08",
+ "published": "2026-10-08T12:43",
+ "sources": [],
+ "path": "/mening/google-ads-tracking-fout-je-omzet-klopt-niet/",
+ "og": "/img/og/google-ads-tracking-fout-je-omzet-klopt-niet.png",
+ "lesson": "tracking-app-verdubbelt-omzet",
+ "author": "Maxim"
+}

@@ -1,0 +1,63 @@
+{
+ "keyword": "openai ai veiligheid",
+ "seo_title": "OpenAI ai veiligheid: ex-medewerkers waarschuwen bestuur",
+ "title": "OpenAI ai veiligheid: ex-medewerkers waarschuwen bestuur",
+ "meta": "Drie ex-medewerkers van OpenAI waarschuwen het bestuur over zelflerende AI. Lees wat RSI is en wat dit betekent voor ai veiligheid in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai veiligheid",
+  "rsi",
+  "kunstmatige intelligentie",
+  "nederland"
+ ],
+ "intro": "Drie voormalige medewerkers van OpenAI hebben een brief gestuurd aan het bestuur van het bedrijf. Ze waarschuwen voor een toekomst waarin AI zichzelf kan verbeteren, ook wel RSI genoemd. Volgens Bright vinden zij dat mensen moeten blijven zien hoe AI tot beslissingen komt.",
+ "takeaways": [
+  "Drie ex-medewerkers van OpenAI stuurden een brief aan het bestuur over de risico's van zelfverbeterende AI.",
+  "Het gaat om RSI: een systeem dat zichzelf steeds verder kan verbeteren zonder menselijke tussenkomst.",
+  "Volgens de brief verliezen we de grip op de denkstappen van AI zodra RSI werkelijkheid wordt.",
+  "De waarschuwing draait om controle: we moeten kunnen blijven volgen hoe AI tot een antwoord komt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de ex-medewerkers precies zeggen",
+   "body": "De drie oud-medewerkers richtten zich in hun brief direct tot het bestuur van OpenAI. Hun zorg gaat over RSI, oftewel recursive self-improvement. Dat is het idee dat een AI-systeem zichzelf steeds beter maakt, zonder dat een mens daar nog aan te pas komt.\n\nVolgens Bright waarschuwt het trio dat OpenAI juist die kant op werkt. Zodra RSI een feit is, wordt het lastig om nog te zien welke stappen de AI zet om tot een uitkomst te komen. De brief stelt dat we dat inzicht altijd moeten beschermen.\n\nDe oud-medewerkers zeggen niet dat het al zover is. Hun punt is dat het bedrijf nu keuzes maakt die bepalen of die controle later nog mogelijk is."
+  },
+  {
+   "heading": "Waarom RSI lastig te controleren is",
+   "body": "Bij een gewone chatbot kun je vaak nog terugvinden hoe een antwoord tot stand kwam. Bij RSI wordt dat een stuk ingewikkelder. Het systeem past zichzelf aan, vaak op manieren die de makers zelf niet precies vooraf hebben bedacht.\n\nDat betekent niet automatisch dat zo'n systeem gevaarlijk is. Het betekent wel dat uitleg achteraf moeilijker wordt. Als niemand kan reconstrueren waarom de AI iets doet, is bijsturen bijna onmogelijk.\n\nDe brief van de ex-medewerkers sluit aan bij een breder debat over openheid van AI-bedrijven. OpenAI heeft zelf vaker gezegd dat veiligheid en inzichtelijkheid belangrijk zijn. Wat het bedrijf concreet met deze brief doet, is nog niet bekend."
+  },
+  {
+   "heading": "Wat OpenAI zelf zegt",
+   "body": "OpenAI heeft nog niet publiek gereageerd op de brief. Volgens Bright is het niet duidelijk of het bestuur van plan is om de zorgen over te nemen in het beleid.\n\nHet bedrijf werkt al langer aan systemen die steeds meer taken zelfstandig uitvoeren. Denk aan AI die zelf code schrijft of onderzoeksvragen uitwerkt. Precies daar zit volgens de oud-medewerkers het risico: hoe meer het systeem zelf doet, hoe minder mensen meekrijgen van het waarom.\n\nDe brief is geen formeel verbod of eis. Het is een dringend advies aan het bestuur om controle op de denkstappen voorop te blijven stellen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die AI inzetten, raakt deze kwestie aan iets praktisch: kun je achteraf uitleggen waarom een systeem een bepaalde keuze maakte? Bij simpele chatbots lukt dat vaak nog. Bij zelflerende systemen wordt dat een stuk lastiger. Als RSI werkelijkheid wordt, kunnen organisaties minder makkelijk verantwoording afleggen aan klanten, toezichthouders of de Autoriteit Persoonsgegevens. Het is nog niet bekend of OpenAI deze zorgen omzet in nieuw beleid. Nederlandse gebruikers merken daar nu dus nog weinig van, maar de discussie bepaalt wel hoe AI-systemen de komende jaren worden gebouwd en gecontroleerd.",
+ "faq": [
+  {
+   "q": "Wat is RSI in AI?",
+   "a": "RSI staat voor recursive self-improvement. Het betekent dat een AI-systeem zichzelf steeds verder verbetert, zonder dat een mens daar nog tussen zit."
+  },
+  {
+   "q": "Wie waarschuwen voor de gevaren van zelfverbeterende AI?",
+   "a": "Drie voormalige medewerkers van OpenAI hebben een brief aan het bestuur gestuurd. Zij zeggen dat we moeten blijven inzien hoe AI denkt."
+  },
+  {
+   "q": "Heeft OpenAI al gereageerd op de brief?",
+   "a": "Nee, OpenAI heeft nog niet publiek gereageerd. Volgens Bright is niet duidelijk wat het bestuur met de zorgen doet."
+  }
+ ],
+ "slug": "openai-ai-veiligheid-ex-medewerkers-waarschuwen-bestuur",
+ "kind": "news",
+ "date": "2026-10-08",
+ "published": "2026-10-08T12:44",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Ex-medewerkers OpenAI waarschuwen: ‘zorg dat we blijven inzien hoe AI denkt’",
+   "url": "https://www.bright.nl/nieuws/2144320/ex-medewerkers-openai-waarschuwen-zorg-dat-we-blijven-inzien-hoe-ai-denkt.html"
+  }
+ ],
+ "path": "/nieuws/openai-ai-veiligheid-ex-medewerkers-waarschuwen-bestuur/",
+ "og": "/img/og/openai-ai-veiligheid-ex-medewerkers-waarschuwen-bestuur.png"
+}

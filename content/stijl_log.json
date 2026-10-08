@@ -502,5 +502,62 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-08T12:43:32",
+  "slug": "",
+  "title": "Ontwikkelaar maakt met AI gratis alternatieven voor 7 Adobe-apps",
+  "kind": "news",
+  "rood": [
+   "S10"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-08T12:43:38",
+  "slug": "",
+  "title": "Samsung ai-chips winst: kwartaalwinst bijna vertienvoudigd",
+  "kind": "news",
+  "rood": [],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-08T12:43:45",
+  "slug": "",
+  "title": "OpenAI ai veiligheid: ex-medewerkers waarschuwen bestuur",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-08T12:43:52",
+  "slug": "",
+  "title": "ChatGPT for Teens houdt tieners aan het praten tijdens crisis",
+  "kind": "news",
+  "rood": [
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-08T12:44:34",
+  "slug": "",
+  "title": "Google Ads tracking fout: je omzet klopt niet",
+  "kind": "column",
+  "rood": [
+   "S10"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
