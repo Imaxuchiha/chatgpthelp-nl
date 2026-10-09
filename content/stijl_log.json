@@ -732,5 +732,45 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-09T19:32:15",
+  "slug": "",
+  "title": "Datacenter NDA's: Amazon stopt, wat betekent dit?",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-09T19:32:24",
+  "slug": "",
+  "title": "AI-man op Instagram: wat doet hij op je For You page?",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-09T19:32:33",
+  "slug": "",
+  "title": "AI menselijke gevoelens: waarom we AI behandelen als een mens",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

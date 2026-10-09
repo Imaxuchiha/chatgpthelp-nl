@@ -1,0 +1,69 @@
+{
+ "keyword": "datacenter nda ai",
+ "seo_title": "Datacenter NDA's: Amazon stopt, wat betekent dit?",
+ "title": "Datacenter NDA's: Amazon stopt, wat betekent dit?",
+ "meta": "Amazon en Microsoft stoppen met geheimhoudingsverklaringen bij datacenterdeals. Lees wat dit betekent voor AI-infrastructuur en jouw regio.",
+ "category": "nieuws",
+ "tags": [
+  "datacenter",
+  "amazon",
+  "microsoft",
+  "ai",
+  "privacy"
+ ],
+ "intro": "Amazon stopt met het gebruik van geheimhoudingsverklaringen (NDA's) bij onderhandelingen over datacenters met lokale overheden. Microsoft deed eerder dit jaar hetzelfde. De geheimhouding leidde tot weerstand in gemeenschappen, met honderden voorstellen en wetten die nieuwe datacenters tijdelijk verbieden.",
+ "takeaways": [
+  "Amazon en Microsoft stoppen met NDA's bij datacenterdeals met lokale overheden.",
+  "Geheimhouding leidde tot honderden moratoriumvoorstellen in de VS.",
+  "Startups richten zich op AI-agenten die toegang krijgen tot betaalgegevens.",
+  "De stap moet vertrouwen herstellen bij lokale gemeenschappen."
+ ],
+ "sections": [
+  {
+   "heading": "Amazon en Microsoft stoppen met geheimhouding",
+   "body": "Amazon maakte bekend geen NDA's meer te gebruiken bij onderhandelingen over datacenters met lokale overheden. Microsoft deed dat eerder dit jaar al. TechCrunch meldt dat deze beslissing volgt op groeiende weerstand tegen AI-infrastructuur. In de VS leidde geheimhouding tot honderden voorgestelde en aangenomen moratoriums, van New York tot San Francisco. Die verbieden nieuwe datacenters tijdelijk.\n\nLokale bewoners maken zich zorgen over energieverbruik, watergebruik en lawaai. Ze willen weten wat er in hun regio gebeurt. Door NDA's te laten vallen, hopen de bedrijven dat vertrouwen terug te winnen. Of dat genoeg is, blijft de vraag."
+  },
+  {
+   "heading": "AI-agenten willen toegang tot je creditcard",
+   "body": "Naast datacenterdeals is er een nieuwe trend: startups geloven dat consumenten AI-agenten toegang geven tot hun creditcardgegevens. TechCrunch schrijft dat een golf van bedrijven hierop inzet. Deze agenten kunnen namens jou betalingen doen. Dat roept vragen op over veiligheid enfraude. De ontwikkeling past bij de bredere beweging naar autonome AI die taken overneemt."
+  },
+  {
+   "heading": "Wat betekent dit voor Nederland?",
+   "body": "In Nederland en de EU zijn datacenters ook een gevoelig onderwerp. Provincies en gemeenten worstelen met ruimte en stroomnet. Geheimhouding bij deals komt hier minder voor, omdat bestuurlijke besluiten vaak openbaar zijn. Toch kan de Amerikaanse aanpak navolging krijgen. Als grote techbedrijven transparanter worden, kan dat de druk op Nederlandse overheden verhogen om ook open te zijn.\n\nVoor AI-agenten met betaaltoegang geldt de Europese betaaldienstenrichtlijn (PSD2). Die eist sterke klantauthenticatie. Startups moeten zich aan die regels houden. Of zij dat doen, is nog niet duidelijk."
+  }
+ ],
+ "nl_angle": "Nederlandse gemeenten en provincies krijgen mogelijk meer openheid van techbedrijven over datacenterplannen. Dat kan de discussie over stroomnet en ruimte beïnvloeden. Voor consumenten betekent de opkomst van AI-agenten met betaalgegevens dat je extra moet opletten welke machtigingen je geeft. De Europese regels bieden bescherming, maar de handhaving is aan toezichthouders.",
+ "faq": [
+  {
+   "q": "Wat is een NDA bij datacenterdeals?",
+   "a": "Een NDA is een geheimhoudingsverklaring. Bij datacenterdeals belooft een partij niets naar buiten te brengen over de onderhandelingen."
+  },
+  {
+   "q": "Waarom stoppen Amazon en Microsoft met NDA's?",
+   "a": "Door aanhoudende weerstand in lokale gemeenschappen tegen AI-infrastructuur. Ze hopen zo vertrouwen te herstellen."
+  },
+  {
+   "q": "Zijn AI-agenten met creditcardtoegang veilig?",
+   "a": "Dat is nog niet bekend. In de EU gelden regels voor betaaldiensten, maar of alle startups die naleven is onduidelijk."
+  }
+ ],
+ "slug": "datacenter-nda-s-amazon-stopt-wat-betekent-dit",
+ "kind": "news",
+ "date": "2026-10-09",
+ "published": "2026-10-09T19:32",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+   "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
+  },
+  {
+   "name": "TechCrunch",
+   "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+   "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
+  }
+ ],
+ "path": "/nieuws/datacenter-nda-s-amazon-stopt-wat-betekent-dit/",
+ "og": "/img/og/datacenter-nda-s-amazon-stopt-wat-betekent-dit.png",
+ "take": "Mooi dat Amazon en Microsoft hun NDA's bij datacenterdeals laten vallen, maar reken er niet op dat dit uit goede wil komt. Die gemeenschappen kwamen in verzet en er liggen honderden voorstellen om nieuwe datacenters tijdelijk te blokkeren, dus dit is schadebeperking. Bij mijn eigen tools en advertentieaccounts geldt hetzelfde: de cijfers vertellen het echte verhaal, en wie die achterhoudt verliest op termijn."
+}
