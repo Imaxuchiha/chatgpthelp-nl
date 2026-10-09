@@ -1383,6 +1383,18 @@
   "ec93bee08b": {
    "at": "2026-10-09T19:34:03.774278",
    "why": "ok"
+  },
+  "90995f7dbc": {
+   "at": "2026-10-09T22:47:43.997284",
+   "why": "ok"
+  },
+  "2a1c784f84": {
+   "at": "2026-10-09T22:48:43.997284",
+   "why": "ok"
+  },
+  "d07dddd55d": {
+   "at": "2026-10-09T22:49:43.997284",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1610,6 +1622,9 @@
   "OpenAI houdt vast aan ontslag van drie AI-veiligheidsonderzoekers",
   "Datacenter NDA's: Amazon stopt, wat betekent dit?",
   "AI-man op Instagram: wat doet hij op je For You page?",
-  "AI menselijke gevoelens: waarom we AI behandelen als een mens"
+  "AI menselijke gevoelens: waarom we AI behandelen als een mens",
+  "Asana maakt browseragent 76x goedkoper met GPT-6.1 Sol",
+  "AI valse melding politie: Anthropic model tipte Philadelphia",
+  "OpenAI wiskunde resultaten: wiskundigen hebben jaren nodig"
  ]
 }

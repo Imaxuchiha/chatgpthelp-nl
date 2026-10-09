@@ -1,0 +1,63 @@
+{
+ "keyword": "openai wiskunde resultaten",
+ "seo_title": "OpenAI wiskunde resultaten: chaos bij wiskundigen",
+ "title": "OpenAI wiskunde resultaten: wiskundigen hebben jaren nodig",
+ "meta": "OpenAI publiceerde deze week een stortvloed aan wiskundige resultaten. Wiskundigen noemen het overweldigend en hebben jaren nodig voor controle.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "wiskunde",
+  "ai-onderzoek",
+  "wetenschap",
+  "verificatie"
+ ],
+ "intro": "OpenAI heeft deze week in één keer een grote hoeveelheid wiskundige resultaten gepubliceerd. Meer dan drie dozijn wiskundigen reageerden tegenover The Verge met woorden als overweldigend en surrealistisch. Het is nog onduidelijk of alle resultaten kloppen.",
+ "takeaways": [
+  "OpenAI publiceerde deze week een stortvloed aan wiskundige resultaten in één keer.",
+  "Meer dan drie dozijn wiskundigen noemen de omvang overweldigend en surrealistisch.",
+  "Wiskundigen verwachten jaren nodig te hebben om alles te controleren.",
+  "Of de resultaten correct zijn, is nog niet bevestigd."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies publiceerde",
+   "body": "OpenAI zette deze week een grote verzameling wiskundige resultaten online. Het gaat om een stortvloed in één keer, meldt The Verge. De publicatie kwam voor wiskundigen zonder duidelijke aankondiging vooraf.\n\nMeer dan drie dozijn wiskundigen spraken met The Verge over wat ze aantroffen. Hun beschrijvingen liepen uiteen van overweldigend tot pure waanzin. Sommigen noemden het surrealistisch.\n\nHoeveel resultaten het precies betreft, maakt de bron niet duidelijk. Ook is niet bekend welke deelgebieden van de wiskunde allemaal aan bod komen."
+  },
+  {
+   "heading": "Reacties uit het vakgebied",
+   "body": "De reacties mengen ontzag met onzekerheid. Wiskundigen weten nog niet goed wat ze met de hoeveelheid aan moeten. De schaal alleen al zorgt voor hoofdbrekens.\n\nEen van de geïnterviewden noemde het ronduit waanzin. Dat zegt iets over de verhouding tussen wat is aangeleverd en wat het vak gewend is. Controle van wiskundig werk kost normaal al veel tijd.\n\nBij een berg van deze omvang loopt die controle in de jaren. The Verge spreekt van jaren werk voordat het veld er wijs uit is."
+  },
+  {
+   "heading": "Waarom verificatie zo langzaam gaat",
+   "body": "Wiskunde kent geen snelkeuring. Elk bewijs moet stap voor stap kloppen. Een computer kan een uitkomst geven die er goed uitziet, terwijl er toch een fout in zit.\n\nDaarom kijken vakgenoten naar de logica achter elke stap. Bij duizenden of meer resultaten is dat mensenwerk van lange adem. Voorlopig is er geen oordeel over de kwaliteit.\n\nOf OpenAI zelf een controle heeft gedaan, vermeldt de bron niet. Dat blijft dus een open vraag."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse wiskundigen, promovendi en onderzoeksgroepen betekent dit vooral werk. Wie het veld volgt, kan de resultaten niet negeren, maar ook niet snel vertrouwen. Bij universiteiten zoals Nijmegen, Utrecht en Amsterdam kost het doorploegen van dit materiaal onderzoeksuren die ergens anders wegvallen. Bedrijven die AI inzetten voor berekeningen, doen er verstandig aan de uitkomsten zelf te blijven controleren. De Europese AI-regels vragen om transparantie over dit soort systemen, maar zeggen niets over de wiskundige correctheid van wat eruit komt.",
+ "faq": [
+  {
+   "q": "Zijn de wiskundige resultaten van OpenAI gecontroleerd?",
+   "a": "Nee, voor zover bekend is er nog geen volledige controle geweest. Wiskundigen verwachten daar jaren voor nodig te hebben."
+  },
+  {
+   "q": "Waarom noemen wiskundigen dit overweldigend?",
+   "a": "De hoeveelheid resultaten die in één keer werd gepubliceerd, is veel groter dan het vak gewend is. The Verge sprak met meer dan drie dozijn wiskundigen die dat beamen."
+  },
+  {
+   "q": "Wat betekent dit voor AI in Nederland?",
+   "a": "Nederlandse onderzoekers en bedrijven kunnen de resultaten gebruiken, maar moeten uitkomsten zelf blijven narekenen. De Europese AI-regels eisen transparantie, geen garantie op juiste wiskunde."
+  }
+ ],
+ "slug": "openai-wiskunde-resultaten-wiskundigen-hebben-jaren-nodig",
+ "kind": "news",
+ "date": "2026-10-09",
+ "published": "2026-10-09T22:49",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
+  }
+ ],
+ "path": "/nieuws/openai-wiskunde-resultaten-wiskundigen-hebben-jaren-nodig/",
+ "og": "/img/og/openai-wiskunde-resultaten-wiskundigen-hebben-jaren-nodig.png"
+}

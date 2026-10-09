@@ -1,0 +1,68 @@
+{
+ "keyword": "asana browser agent",
+ "seo_title": "Asana browser agent 76x goedkoper met GPT-6.1 Sol",
+ "title": "Asana maakt browseragent 76x goedkoper met GPT-6.1 Sol",
+ "meta": "Asana verlaagde de kosten van zijn browseragent 76x en maakte hem 5x sneller met GPT-6.1 Sol in Codex. Lees wat dit betekent voor Nederlandse bedrijven.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "asana",
+  "browseragent",
+  "gpt-6.1",
+  "codex"
+ ],
+ "intro": "Asana heeft zijn browseragent in tests 76 keer goedkoper en 5 keer sneller gemaakt. Dat gebeurde met GPT-6 Astra in Codex, meldt OpenAI. De aanpak laat zien hoe bedrijven AI-agents betaalbaar kunnen inzetten.",
+ "takeaways": [
+  "Asana verlaagde de modelkosten van zijn browseragent met een factor 76 in browsertests.",
+  "De agent werd in diezelfde tests 5 keer sneller.",
+  "De verbetering kwam door GPT-6 Astra in Codex, volgens OpenAI.",
+  "Het doel is klanten krachtigere modellen te bieden zonder hoge kosten."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Asana precies deed",
+   "body": "Asana gebruikt een browseragent die zelfstandig taken in een browser uitvoert. Denk aan het invullen van formulieren of het verzamelen van gegevens van websites. Zulke agents verbruiken veel rekentijd en dat kost geld.\n\nDoor GPT-6 Astra in Codex te gebruiken, wist Asana de kosten per taak flink te drukken. Volgens OpenAI ging het om een verlaging van 76 keer in browsertests. De agent werd tegelijk 5 keer sneller.\n\nDat is relevant omdat snelheid en prijs bepalen of zulke agents levensvatbaar zijn. Een agent die te duur is, kun je niet aan klanten aanbieden."
+  },
+  {
+   "heading": "Waarom GPT-6 Astra in Codex helpt",
+   "body": "Codex is de omgeving waarin ontwikkelaars modellen aansturen voor code en taken. GPT-6 Astra is een model dat OpenAI inzet voor dit soort agenttaken. De combinatie zorgt voor minder overbodige stappen.\n\nMinder stappen betekent minder tokens en dus lagere kosten. De agent hoeft niet telkens opnieuw hetzelfde werk te doen. Dat verklaart de grote besparing die Asana in tests boekte.\n\nOpenAI noemt de resultaten een voorbeeld van hoe klanten krachtigere modellen kunnen aanbieden. De cijfers komen uit browsertests, niet uit productie bij klanten."
+  },
+  {
+   "heading": "Wat dit betekent voor agentprijzen",
+   "body": "Browseragents worden steeds vaker gebruikt voor routinetaken. Voorbeelden zijn het controleren van voorraad of het bijwerken van klantgegevens. De kosten per actie zijn dan bepalend.\n\nEen verlaging van 76 keer kan het verschil maken tussen verlies en winst. Toch zegt dat nog weinig over de prijs die jij als klant betaalt. Aanbieders bepalen zelf hun tarieven.\n\nHet is nog niet bekend of Asana deze efficiëntie doorgeeft aan klanten. OpenAI meldt alleen de testresultaten."
+  },
+  {
+   "heading": "Nederlandse bedrijven en browseragents",
+   "body": "Ook in Nederland groeit de belangstelling voor AI-agents die zelfstandig werk doen. Denk aan administratiekantoren, webshops en klantenservices. Zij kijken naar kosten per taak.\n\nEen goedkopere agent maakt experimenteren laagdrempeliger. Je kunt dan vaker testen zonder groot budget. Let wel op de Europese regels rond gegevensverwerking en AI.\n\nDe cijfers van Asana komen uit tests. Of jouw processen dezelfde besparing opleveren, hangt af van je eigen werkwijze."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven laat deze casus zien dat de kosten van AI-agents sterk kunnen dalen door een ander model en een andere aanpak. Wie nu experimenteert met browseragents, kan de kosten per taak flink verlagen. Let daarbij op de AVG en de AI-verordening, want die gelden ook voor geautomatiseerde browsertaken. De precieze besparing hangt af van je eigen processen en is niet één op één over te nemen.",
+ "faq": [
+  {
+   "q": "Wat is een browseragent?",
+   "a": "Een browseragent is software die zelfstandig taken in een webbrowser uitvoert, zoals klikken, typen en gegevens verzamelen. Je hoeft die stappen niet zelf te doen."
+  },
+  {
+   "q": "Hoeveel goedkoper werd de Asana-agent?",
+   "a": "Volgens OpenAI werd de browseragent van Asana in browsertests 76 keer goedkoper en 5 keer sneller. Dat gebeurde met GPT-6 Astra in Codex."
+  },
+  {
+   "q": "Kunnen Nederlandse bedrijven dit ook gebruiken?",
+   "a": "De techniek is beschikbaar, maar de resultaten komen uit tests bij Asana. Of jij dezelfde besparing haalt, hangt af van je processen en de regels rond gegevens en AI."
+  }
+ ],
+ "slug": "asana-maakt-browseragent-76x-goedkoper-met-gpt-6-1-sol",
+ "kind": "news",
+ "date": "2026-10-09",
+ "published": "2026-10-09T22:47",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "url": "https://openai.com/index/asana-browser-agent"
+  }
+ ],
+ "path": "/nieuws/asana-maakt-browseragent-76x-goedkoper-met-gpt-6-1-sol/",
+ "og": "/img/og/asana-maakt-browseragent-76x-goedkoper-met-gpt-6-1-sol.png",
+ "take": "76x goedkoper klinkt mooi, maar dat cijfer zegt me pas iets als ik die agent op een echte rekening zie draaien. Bij mijn eigen bureau begin ik altijd bij gratis of open source, want een abonnement verdient zich alleen terug als ik het direct kan aanwijzen. Tot die tijd is het een demo."
+}

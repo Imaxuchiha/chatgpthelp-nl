@@ -772,5 +772,46 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-09T22:47:57",
+  "slug": "",
+  "title": "Asana maakt browseragent 76x goedkoper met GPT-6.1 Sol",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-09T22:48:05",
+  "slug": "",
+  "title": "AI valse melding politie: Anthropic model tipte Philadelphia",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-09T22:48:12",
+  "slug": "",
+  "title": "OpenAI wiskunde resultaten: wiskundigen hebben jaren nodig",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
