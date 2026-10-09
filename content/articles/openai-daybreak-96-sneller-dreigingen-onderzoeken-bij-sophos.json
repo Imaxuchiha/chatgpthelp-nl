@@ -1,0 +1,68 @@
+{
+ "keyword": "openai daybreak beveiliging",
+ "seo_title": "OpenAI Daybreak: 96% sneller dreigingen onderzoeken",
+ "title": "OpenAI Daybreak: 96% sneller dreigingen onderzoeken bij Sophos",
+ "meta": "Sophos onderzoekt cyberdreigingen 96% sneller met OpenAI Daybreak. Lees wat dit betekent voor beveiligingsteams en bedrijven in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "daybreak",
+  "beveiliging",
+  "cybersecurity",
+  "sophos"
+ ],
+ "intro": "Beveiligingsbedrijf Sophos onderzoekt cyberdreigingen 96 procent sneller sinds het OpenAI Daybreak gebruikt. Ook automatiseert het 52 procent van zijn MDR-zaken, terwijl mensen de controle houden. Dat meldt OpenAI in een klantverhaal.",
+ "takeaways": [
+  "Sophos verlaagt de tijd voor dreigingsonderzoek met 96 procent met OpenAI Daybreak.",
+  "52 procent van de MDR-zaken wordt geautomatiseerd, met menselijk toezicht.",
+  "Daybreak is een OpenAI-product voor beveiligingsteams dat dreigingsinformatie verwerkt.",
+  "Het is nog niet bekend of Daybreak in Nederland en de EU beschikbaar komt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Sophos precies doet met Daybreak",
+   "body": "Sophos is een cybersecuritybedrijf dat bedrijven beschermt tegen aanvallen. Het bedrijf gebruikt OpenAI Daybreak om dreigingen te onderzoeken. Volgens OpenAI gaat dat 96 procent sneller dan voorheen.\n\nDaybreak helpt bij het doorzoeken en samenvatten van grote hoeveelheden beveiligingsdata. Analisten krijgen zo sneller een beeld van wat er speelt. De tool neemt niet alles over, maar versnelt het handwerk."
+  },
+  {
+   "heading": "Menselijk toezicht blijft staan",
+   "body": "Sophos automatiseert 52 procent van zijn MDR-zaken met Daybreak. MDR staat voor managed detection and response: een dienst waarbij een extern team aanvallen opspoort en afhandelt.\n\nHet bedrijf laat mensen de beslissingen nemen. Volgens OpenAI blijft menselijke controle belangrijk bij het beoordelen van dreigingen. Automatisering pakt het repetitieve werk aan, analisten richten zich op de lastige gevallen."
+  },
+  {
+   "heading": "Wat Daybreak is",
+   "body": "OpenAI Daybreak is een product voor beveiligingsteams. Het verwerkt dreigingsinformatie en helpt bij onderzoek. Het is geen losse chatbot, maar een systeem dat past bij bestaande beveiligingsprocessen.\n\nOpenAI noemt Sophos als voorbeeld van een klant die het in de praktijk gebruikt. Concrete prijzen of een releasedatum voor Daybreak staan niet in de bron. Ook is niet duidelijk welke modellen er precies onder de motorkap zitten."
+  },
+  {
+   "heading": "Beveiligingstekorten in Nederland",
+   "body": "Nederlandse organisaties kampen al langer met een tekort aan beveiligingsspecialisten. Automatisering kan dat gat deels dichten. Een tool die onderzoek versnelt, betekent minder handmatig speurwerk per incident.\n\nToch blijft de vraag of Daybreak hier te gebruiken is. OpenAI heeft nog niet gemeld of het product in de Europese Unie beschikbaar komt. Voor Nederlandse bedrijven is dat een belangrijk punt, zeker met de strengere Europese regels rond AI en data."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse beveiligingsteams is de belofte van 96 procent sneller onderzoek interessant, want het tekort aan securityspecialisten is hier groot. Of Daybreak in Nederland te gebruiken is, staat nog niet vast. OpenAI meldt niets over beschikbaarheid in de EU of over de prijs. Bedrijven die willen automatiseren, doen er goed aan eerst te kijken naar de Europese regels rond AI en gegevensverwerking. Zolang daar geen duidelijkheid over is, blijft het een buitenlands voorbeeld.",
+ "faq": [
+  {
+   "q": "Wat is OpenAI Daybreak?",
+   "a": "Daybreak is een OpenAI-product voor beveiligingsteams. Het verwerkt dreigingsinformatie en helpt bij het onderzoeken van aanvallen."
+  },
+  {
+   "q": "Hoeveel sneller werkt Sophos met Daybreak?",
+   "a": "Volgens OpenAI gaat het onderzoek naar cyberdreigingen 96 procent sneller. Daarnaast automatiseert Sophos 52 procent van zijn MDR-zaken."
+  },
+  {
+   "q": "Is Daybreak beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI meldt niets over beschikbaarheid in Nederland of de Europese Unie."
+  }
+ ],
+ "slug": "openai-daybreak-96-sneller-dreigingen-onderzoeken-bij-sophos",
+ "kind": "news",
+ "date": "2026-10-09",
+ "published": "2026-10-09T12:42",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+   "url": "https://openai.com/index/sophos"
+  }
+ ],
+ "path": "/nieuws/openai-daybreak-96-sneller-dreigingen-onderzoeken-bij-sophos/",
+ "og": "/img/og/openai-daybreak-96-sneller-dreigingen-onderzoeken-bij-sophos.png",
+ "take": "Ik lees 96 procent sneller en 52 procent geautomatiseerd, en dan wil ik eerst weten hoe ze dat meten. In advertentieaccounts blijkt het gros van de 'problemen' een meetfout, geen echte daling, dus ik vertrouw een percentage pas als de onderliggende data klopt. Mensen houden de controle, staat erbij, en dat is precies waar het hoort: AI doet het zoekwerk, de knop blijft van een mens."
+}

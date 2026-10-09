@@ -1,0 +1,74 @@
+{
+ "keyword": "ai afbeelding maken",
+ "seo_title": "AI afbeelding maken: zo begin je met ChatGPT, Midjourney",
+ "title": "AI afbeelding maken: zo begin je met ChatGPT, Midjourney of Gemini",
+ "meta": "AI afbeelding maken? Leer stap voor stap werken met ChatGPT, Midjourney en Gemini. Voor beginners, met voorbeeldprompts en praktische tips.",
+ "category": "uitleg",
+ "tags": [
+  "ai afbeelding",
+  "chatgpt",
+  "midjourney",
+  "gemini",
+  "beginners"
+ ],
+ "intro": "AI afbeelding maken is toegankelijker dan ooit. Met tools als ChatGPT, Midjourney en Gemini maak je in enkele seconden een beeld op basis van een tekstbeschrijving. Hier lees je hoe je begint, welke stappen je zet en waar je op moet letten.",
+ "takeaways": [
+  "Je hebt geen technische kennis nodig om een AI-afbeelding te maken.",
+  "Elke tool heeft een eigen aanpak: ChatGPT en Gemini werken via chat, Midjourney via een opdracht.",
+  "Een goede prompt beschrijft onderwerp, stijl, kleur en sfeer.",
+  "Let op auteursrechten en privacy voordat je een afbeelding gebruikt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat is AI-afbeelding maken precies?",
+   "body": "Bij AI-afbeelding maken gebruik je een programma dat op basis van een tekstbeschrijving een nieuw beeld maakt. Dat beeld bestaat niet echt; het wordt door een model samengesteld uit patronen die het heeft geleerd. Je typt bijvoorbeeld 'een rode fiets voor een grachtenpand in Amsterdam' en de tool maakt een passende afbeelding.\n\nDe bekendste tools zijn ChatGPT (met beeldgeneratie), Midjourney en Gemini. ChatGPT en Gemini werken via een chatvenster. Midjourney werkt via een opdrachtregel of een webinterface. Alle drie de tools zijn in Nederland te gebruiken, al verschilt de manier van aanmelden en betalen.\n\nJe hoeft geen kunstenaar te zijn. Wel is het handig om duidelijk te zijn in wat je wilt. Hoe specifieker je beschrijving, hoe groter de kans dat het resultaat klopt."
+  },
+  {
+   "heading": "Beginnen met ChatGPT: chatten naar een beeld",
+   "body": "ChatGPT gebruik je via een chatgesprek. Je vraagt in gewone taal om een afbeelding. Bijvoorbeeld: 'Maak een afbeelding van een kat die een boek leest op een bank.' ChatGPT geeft dan een beeld terug. Soms moet je een paar keer bijsturen.\n\nHet voordeel is dat je direct kunt vragen om aanpassingen. 'Doe er een rode deken bij' of 'maak de achtergrond donkerder'. Je hoeft geen aparte commando's te leren. ChatGPT onthoudt ook de context van het gesprek, dus je kunt voortbouwen op eerdere beelden.\n\nLet op: niet alle ChatGPT-versies kunnen afbeeldingen maken. Op het moment van schrijven kan de gratis versie dit beperkt of niet. Controleer welke functionaliteit jouw account heeft."
+  },
+  {
+   "heading": "Midjourney: krachtig maar even wennen",
+   "body": "Midjourney staat bekend om zijn artistieke resultaten. Je gebruikt het via een webinterface of via Discord. Je typt een opdracht met /imagine en een beschrijving. Midjourney maakt dan vier varianten. Je kiest de beste en kunt die verder verfijnen.\n\nEen nadeel voor beginners: de opdrachten zijn Engelstalig en je moet wennen aan de parameters. Denk aan --ar 16:9 voor een breed beeld. Dat is even oefenen, maar al snel heb je het door.\n\nMidjourney is een betaalde dienst. Op het moment van schrijven is er geen gratis proefperiode. Wil je eerst gratis oefenen, dan zijn ChatGPT of Gemini een betere start."
+  },
+  {
+   "heading": "Gemini: AI-beelden van Google",
+   "body": "Gemini is de AI-assistent van Google. Je kunt er ook afbeeldingen mee maken. Dat werkt via een chatvenster, vergelijkbaar met ChatGPT. Je typt een beschrijving en krijgt een beeld terug.\n\nGemini is beschikbaar in Nederland, zowel gratis als in betaalde varianten. De gratis versie heeft beperkingen in het aantal afbeeldingen per dag. Voor af en toe een plaatje is dat vaak genoeg.\n\nEen pluspunt: Gemini werkt samen met andere Google-diensten. Je kunt een gemaakte afbeelding bijvoorbeeld bewaren in Google Drive. Dat maakt het handig voor wie al in het Google-ecosysteem zit."
+  },
+  {
+   "heading": "Een goede prompt: zo beschrijf je wat je wilt",
+   "body": "De kwaliteit van je afbeelding hangt sterk af van je prompt. Een goede prompt bevat meestal vier elementen: onderwerp, stijl, kleur en sfeer. Zeg niet alleen 'een hond', maar 'een golden retriever in een zonnig park, olieverfstijl, warme kleuren, rustige sfeer'.\n\nJe kunt ook een voorbeeldprompt gebruiken. Hier is er een die je direct kunt proberen:\n\n\"Een Nederlandse molen aan een rivier bij zonsondergang, realistische stijl, warme oranje en paarse lucht, weerspiegeling in het water, rustige sfeer.\"\n\nExperimenteer met details. Voeg een camera-standpunt toe, zoals 'van dichtbij' of 'van bovenaf'. Of noem een kunststroming, zoals 'impressionistisch' of 'minimalistisch'. Hoe meer richting je geeft, hoe beter het resultaat meestal wordt."
+  },
+  {
+   "heading": "Veelgemaakte fouten en hoe je ze voorkomt",
+   "body": "Een veelgemaakte fout is te vaag blijven. 'Mooie afbeelding' levert niets bruikbaars op. Wees concreet. Een andere fout is vergeten na te denken over het gebruik. Wil je het beeld commercieel inzetten, check dan de licentievoorwaarden van de tool.\n\nOok auteursrechten spelen een rol. AI-beelden kunnen lijken op bestaand werk. Gebruik ze niet zomaar voor publicatie zonder controle. Voor privégebruik is het vaak geen probleem, voor zakelijk gebruik ligt dat anders.\n\nTot slot: wees geduldig. Het eerste resultaat is zelden perfect. Varieer in je prompts en probeer opnieuw. Dat hoort bij het leerproces."
+  }
+ ],
+ "nl_angle": "In Nederland zijn ChatGPT, Midjourney en Gemini allemaal te gebruiken. ChatGPT en Gemini hebben gratis opties; Midjourney is betaald. Voor bedrijven die AI-beelden willen inzetten, is het verstandig de licentie en privacyregels te checken. De Autoriteit Persoonsgegevens houdt toezicht op privacy, dus deel geen gevoelige informatie in prompts.",
+ "faq": [
+  {
+   "q": "Kan ik met ChatGPT een afbeelding maken?",
+   "a": "Ja, sommige versies van ChatGPT kunnen afbeeldingen maken. Je vraagt er in de chat om. Of het kan, hangt af van je account en de versie."
+  },
+  {
+   "q": "Is Midjourney gratis?",
+   "a": "Nee, Midjourney is een betaalde dienst. Op het moment van schrijven is er geen gratis proefperiode. Je betaalt per maand."
+  },
+  {
+   "q": "Heb ik technische kennis nodig?",
+   "a": "Nee, je hebt geen technische kennis nodig. Wel is het handig om duidelijk te beschrijven wat je wilt. Oefening helpt."
+  },
+  {
+   "q": "Mag ik AI-afbeeldingen commercieel gebruiken?",
+   "a": "Dat verschilt per tool. Check de licentievoorwaarden van de dienst die je gebruikt. Voor commerciële doeleinden zijn er vaak extra regels."
+  }
+ ],
+ "slug": "ai-afbeelding-maken-zo-begin-je-met-chatgpt-midjourney-of-gemini",
+ "kind": "evergreen",
+ "date": "2026-10-09",
+ "published": "2026-10-09T12:42",
+ "sources": [],
+ "path": "/uitleg/ai-afbeelding-maken-zo-begin-je-met-chatgpt-midjourney-of-gemini/",
+ "og": "/img/og/ai-afbeelding-maken-zo-begin-je-met-chatgpt-midjourney-of-gemini.png",
+ "seed": "Afbeeldingen maken met AI: zo begin je met ChatGPT, Midjourney of Gemini"
+}

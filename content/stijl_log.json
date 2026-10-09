@@ -653,5 +653,84 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-09T12:42:34",
+  "slug": "",
+  "title": "OpenAI Daybreak: 96% sneller dreigingen onderzoeken bij Sophos",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-09T12:42:41",
+  "slug": "",
+  "title": "Burry voorspelt crash van AI-aandelen zoals in 2008",
+  "kind": "news",
+  "rood": [
+   "S11"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-09T12:42:47",
+  "slug": "",
+  "title": "Claude pesten verboden: nieuwe regels voor gebruik",
+  "kind": "news",
+  "rood": [
+   "S10"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-09T12:42:55",
+  "slug": "",
+  "title": "OpenAI houdt vast aan ontslag van drie AI-veiligheidsonderzoekers",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-09T12:43:24",
+  "slug": "",
+  "title": "AI afbeelding maken: zo begin je met ChatGPT, Midjourney of Gemini",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-09T12:43:30",
+  "slug": "",
+  "title": "AI afbeelding maken: zo begin je met ChatGPT, Midjourney of Gemini",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

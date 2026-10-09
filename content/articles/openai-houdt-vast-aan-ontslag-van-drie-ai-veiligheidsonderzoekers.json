@@ -1,0 +1,64 @@
+{
+ "keyword": "openai ontslagen onderzoekers",
+ "seo_title": "OpenAI ontslaat drie AI-veiligheidsonderzoekers",
+ "title": "OpenAI houdt vast aan ontslag van drie AI-veiligheidsonderzoekers",
+ "meta": "OpenAI verdedigt het ontslag van drie veiligheidsonderzoekers. Lees wat er speelt, wat het bedrijf zegt en wat dit betekent voor AI-werk in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-veiligheid",
+  "ontslag",
+  "onderzoek",
+  "beleid"
+ ],
+ "intro": "OpenAI heeft drie onderzoekers op het gebied van AI-veiligheid ontslagen. Het bedrijf zegt dat zij vertrouwelijke informatie verkeerd hebben behandeld. De drie medewerkers waren betrokken bij onderzoek naar veiligheidsrisico's van AI-modellen.",
+ "takeaways": [
+  "OpenAI ontsloeg Jasmine Wang, Tomek Korbak en Mikita Balesni.",
+  "Volgens OpenAI is er sprake van een ernstige schending van vertrouwen.",
+  "Het bedrijf noemt de overtreding van beleid rond gevoelige informatie duidelijk.",
+  "OpenAI blijft achter de beslissing staan na een intern onderzoek."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI zegt over het ontslag",
+   "body": "OpenAI heeft vrijdag gereageerd op het ontslag van drie veiligheidsonderzoekers. Volgens het bedrijf hebben Jasmine Wang, Tomek Korbak en Mikita Balesni duidelijke regels overtreden. Het gaat om het omgaan met gevoelige informatie.\n\nIn een bericht op X noemt OpenAI de overtreding een ernstige schending van vertrouwen. Het bedrijf zegt dat een intern onderzoek dit heeft uitgewezen. De drie medewerkers zijn daarop ontslagen.\n\nOpenAI benadrukt dat de beslissing niet lichtvaardig is genomen. Het bedrijf houdt vast aan zijn standpunt, ook na vragen van buitenaf. The Verge meldt dat OpenAI de gang van zaken uitgebreid verdedigt."
+  },
+  {
+   "heading": "Wie zijn de betrokken onderzoekers",
+   "body": "Jasmine Wang, Tomek Korbak en Mikita Balesni werkten aan veiligheidsvraagstukken binnen OpenAI. Dat blijkt uit de berichtgeving van The Verge. Hun precieze rollen zijn niet volledig openbaar gemaakt.\n\nVeiligheidsonderzoek binnen AI-bedrijven draait om het opsporen van risico's. Denk aan misbruik van modellen of ongewenst gedrag van systemen. Onderzoekers op dit terrein hebben vaak toegang tot gevoelige interne informatie.\n\nHet ontslag raakt daarmee een gevoelig punt. OpenAI staat bekend om zijn veiligheidsambities, maar krijgt ook kritiek op hoe het met interne kritiek omgaat."
+  },
+  {
+   "heading": "Waarom dit nieuws is",
+   "body": "Het ontslag van drie veiligheidsonderzoekers valt op. OpenAI positioneert zich al jaren als voorloper op het gebied van veilige AI. Ontslagen binnen dat team trekken dan extra aandacht.\n\nDe zaak roept vragen op over de balans tussen geheimhouding en openheid. Medewerkers die risico's onderzoeken, hebben soms toegang tot gevoelige data. Tegelijk willen buitenstaanders weten hoe een bedrijf met die spanning omgaat.\n\nOf de drie onderzoekers zelf willen reageren, is nog niet bekend. OpenAI heeft geen details gegeven over welke informatie precies is gelekt of misbruikt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse AI-onderzoekers en bedrijven is dit een les over vertrouwelijkheid. Wie bij een groot AI-bedrijf werkt, tekent vaak strikte regels over gevoelige informatie. In Nederland vallen zulke afspraken onder het arbeidsrecht en geheimhoudingsclausules. Een schending kan tot ontslag leiden, ook zonder tussenkomst van de rechter. Bedrijven die met OpenAI samenwerken, merken mogelijk meer terughoudendheid bij het delen van interne veiligheidsdata. Voor de Nederlandse AI-sector blijft het zaak om eigen onderzoeksresultaten zorgvuldig te beheren.",
+ "faq": [
+  {
+   "q": "Waarom zijn de drie onderzoekers ontslagen?",
+   "a": "Volgens OpenAI hebben zij het beleid voor het omgaan met gevoelige informatie overtreden. Het bedrijf noemt het een ernstige schending van vertrouwen."
+  },
+  {
+   "q": "Wie zijn Jasmine Wang, Tomek Korbak en Mikita Balesni?",
+   "a": "Het zijn drie onderzoekers die bij OpenAI aan AI-veiligheid werkten. Hun precieze functies zijn niet openbaar gemaakt."
+  },
+  {
+   "q": "Wat betekent dit voor AI-veiligheid in Nederland?",
+   "a": "Het onderstreept dat geheimhouding en veiligheidsonderzoek lastig te combineren zijn. Nederlandse bedrijven en onderzoekers letten mogelijk scherper op hun eigen afspraken."
+  }
+ ],
+ "slug": "openai-houdt-vast-aan-ontslag-van-drie-ai-veiligheidsonderzoekers",
+ "kind": "news",
+ "date": "2026-10-09",
+ "published": "2026-10-09T12:44",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+  }
+ ],
+ "path": "/nieuws/openai-houdt-vast-aan-ontslag-van-drie-ai-veiligheidsonderzoekers/",
+ "og": "/img/og/openai-houdt-vast-aan-ontslag-van-drie-ai-veiligheidsonderzoekers.png",
+ "take": "Ontslag van drie mensen die naar risico's keken, daar word ik niet warm van. OpenAI zegt dat ze vertrouwelijke informatie verkeerd behandelden, en dat zal best, maar de mensen die het hardst op de rem trappen zijn meestal de eersten die eruit vliegen. Ik regel liever zelf wat er met mijn data gebeurt dan dat ik op een ander zijn belofte vertrouw."
+}

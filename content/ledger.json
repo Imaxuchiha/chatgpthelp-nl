@@ -1351,6 +1351,22 @@
   "3bf143dd45": {
    "at": "2026-10-08T23:17:14.381263",
    "why": "ok"
+  },
+  "edd58468d5": {
+   "at": "2026-10-09T12:42:22.062927",
+   "why": "ok"
+  },
+  "6cb6ac5333": {
+   "at": "2026-10-09T12:43:22.062927",
+   "why": "poort"
+  },
+  "0c0d6762c1": {
+   "at": "2026-10-09T12:43:22.062927",
+   "why": "ok"
+  },
+  "15717a6b7c": {
+   "at": "2026-10-09T12:44:22.062927",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1572,6 +1588,9 @@
   "Claude Opus 5.5 review: AI werkt uren zelfstandig door",
   "Ben Affleck verrast internet met AI-kennis",
   "AI leaderboard Arena bijna dubbel zo veel waard: 3,1 miljard dollar",
-  "OpenAI omzet blijkt 20 miljard dollar lager dan gedacht"
+  "OpenAI omzet blijkt 20 miljard dollar lager dan gedacht",
+  "OpenAI Daybreak: 96% sneller dreigingen onderzoeken bij Sophos",
+  "Claude pesten verboden: nieuwe regels voor gebruik",
+  "OpenAI houdt vast aan ontslag van drie AI-veiligheidsonderzoekers"
  ]
 }

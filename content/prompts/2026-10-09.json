@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: pechhulp of zelf doorrijden bij autopech",
+ "situation": "Je staat met pech langs de weg of twijfelt of je door kunt rijden naar de garage. Deze prompt helpt je een snelle afweging te maken voordat je belt.",
+ "prompt": "Je bent een ervaren wegenwachter en autotechnicus. Ik sta met pech of een storing en wil weten of ik veilig door kan rijden of direct hulp moet inschakelen.\n\nMijn situatie:\n- Auto: [MERK, MODEL, BOUWJAAR]\n- Waar ik sta: [LOCATIE, SNELWEG OF BINNENWEG]\n- Symptoom: [GELUID, LAMPJE, ROOK, VERLIES VAN VERMOGEN]\n- Kan ik nog rijden: [JA/NEE, MET WELKE SNELHEID]\n- Weer en verkeer: [OMSTANDIGHEDEN]\n- Ik heb: [PECHHULP ABONNEMENT JA/NEE, WACHTTIJD]\n\nGeef mij:\n1. Een inschatting: doorrijden naar garage of direct stoppen en bellen.\n2. De drie belangrijkste risico's als ik toch doorrijd.\n3. Wat ik nu veilig kan doen langs de weg.\n4. Wat ik tegen de wegenwacht zeg bij het bellen.\n\nWees kort en concreet, geen technische uitleg die ik niet nodig heb.",
+ "tip": "Vermeld het exacte lampje of geluid op het dashboard, dan wordt de inschatting scherper.",
+ "tags": [
+  "auto",
+  "pech",
+  "wegenwacht",
+  "thuis"
+ ],
+ "date": "2026-10-09",
+ "slug": "prompt-pechhulp-of-zelf-doorrijden-bij-autopech",
+ "path": "/prompts/2026-10-09-prompt-pechhulp-of-zelf-doorrijden-bij-autopech/"
+}
