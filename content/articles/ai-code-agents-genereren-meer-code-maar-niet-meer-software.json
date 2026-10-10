@@ -1,0 +1,68 @@
+{
+ "keyword": "ai code agents review",
+ "seo_title": "AI code agents maken meer code, niet meer software",
+ "title": "AI code agents genereren meer code, maar niet meer software",
+ "meta": "Onderzoek van Ars Technica: AI code agents leveren meer regels code op, maar menselijke review remt de echte softwareproductie af.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "programmeren",
+  "ontwikkelaars",
+  "onderzoek",
+  "review"
+ ],
+ "intro": "AI code agents schrijven steeds meer regels code, maar dat vertaalt zich niet automatisch in meer werkende software. Uit onderzoek dat Ars Technica bespreekt blijkt dat de winst wordt opgeslokt door menselijke controle. Voor Nederlandse ontwikkelaars en teams die met tools als Copilot of Claude werken, raakt dat de kern van hun workflow.",
+ "takeaways": [
+  "AI code agents produceren meer code dan voorheen, maar de softwareproductie groeit niet mee.",
+  "De menselijke review vormt een bottleneck die de efficiëntiewinst absorbeert.",
+  "Nederlandse teams die AI inzetten, merken dat vooral in de controlefase, niet in het schrijven zelf.",
+  "Meer code betekent niet automatisch meer waarde of snellere oplevering."
+ ],
+ "sections": [
+  {
+   "heading": "Meer regels, dezelfde software",
+   "body": "AI code agents zijn goed geworden in het genereren van code. Ze tikken functies, tests en hele modules uit in seconden. Toch leidt dat volgens Ars Technica niet tot meer software. De extra regels verdwijnen in een proces dat daarna nog steeds door mensen moet worden gecontroleerd.\n\nDat is geen klein detail. Software bestaat niet uit losse regels, maar uit samenhangend gedrag dat klopt en blijft kloppen. Een agent kan veel produceren, terwijl een reviewer al die output moet lezen, begrijpen en goedkeuren. De productie verschuift daarmee van schrijven naar beoordelen."
+  },
+  {
+   "heading": "De review als bottleneck",
+   "body": "Het onderzoek beschrijft hoe de efficiëntiewinst wordt geabsorbeerd door menselijke review. Dat woord is belangrijk. De agent levert sneller, maar de volgende stap in de keten kan niet even snel mee. Een reviewer heeft tijd nodig om te zien of code veilig is, of hij past bij de rest van het project en of er geen fouten in sluipen.\n\nIn de praktijk betekent dit dat een team met AI meer code te verwerken krijgt, zonder dat de oplevering sneller gaat. De wachttijd verschuift naar de controle. Wie alleen naar het aantal gegenereerde regels kijkt, ziet groei. Wie naar werkende software kijkt, ziet dat niet terug."
+  },
+  {
+   "heading": "Wat dit betekent voor ontwikkelaars",
+   "body": "Voor ontwikkelaars verandert het werk zelf. Minder tijd gaat naar het typen van code, meer tijd naar lezen, testen en beoordelen. Dat vraagt andere vaardigheden. Je moet snel kunnen inschatten of gegenereerde code klopt, en of hij past bij de architectuur van het project.\n\nTeams die dit negeren, krijgen een groeiende stapel code die niemand volledig heeft doorgelopen. Dat is een risico voor onderhoud en veiligheid. De winst van AI zit dus niet in meer output, maar in het verstandig inzetten van de tijd die vrijkomt."
+  },
+  {
+   "heading": "Nederlandse teams en AI-tools",
+   "body": "Nederlandse bedrijven gebruiken AI-codeertools volop. Van startups in Amsterdam tot IT-afdelingen bij banken en overheden. De belofte is altijd sneller en goedkoper bouwen. Dit onderzoek laat zien dat die belofte niet vanzelf uitkomt.\n\nDe kosten verschuiven naar review en kwaliteitscontrole. Wie daar geen tijd voor inruimt, betaalt dat later terug bij bugs en onderhoud. Voor teams in Nederland is de les vooral praktisch: reken de reviewtijd mee in je planning."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse organisaties betekent dit dat AI-codeertools geen gratis versnelling opleveren. De codeproductie stijgt, maar de doorlooptijd van idee naar werkende software blijft vaak gelijk. Bedrijven die AI invoeren, doen er goed aan om reviewcapaciteit en testtijd mee te begroten. Zonder die ruimte ontstaat een groeiende stapel onbeoordeelde code. Dat raakt niet alleen ontwikkelaars, maar ook beheerders en securityteams die later de gevolgen opvangen.",
+ "faq": [
+  {
+   "q": "Wat zegt het onderzoek over AI code agents?",
+   "a": "Volgens Ars Technica genereren AI code agents meer code, maar leidt dat niet tot meer software. De efficiëntiewinst wordt opgeslokt door menselijke review."
+  },
+  {
+   "q": "Waarom is review een bottleneck bij AI-code?",
+   "a": "Een reviewer moet alle gegenereerde code lezen, testen en goedkeuren. Die stap kan niet even snel mee met de agent, waardoor de winst verdwijnt."
+  },
+  {
+   "q": "Wat kunnen Nederlandse teams hiermee?",
+   "a": "Reken reviewtijd en testtijd mee in de planning. Zet AI in voor het schrijven, maar houd genoeg mensen en tijd vrij voor controle en kwaliteit."
+  }
+ ],
+ "slug": "ai-code-agents-genereren-meer-code-maar-niet-meer-software",
+ "kind": "news",
+ "date": "2026-10-10",
+ "published": "2026-10-10T22:02",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "AI coding agents generate more code, but not more software",
+   "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+  }
+ ],
+ "path": "/nieuws/ai-code-agents-genereren-meer-code-maar-niet-meer-software/",
+ "og": "/img/og/ai-code-agents-genereren-meer-code-maar-niet-meer-software.png",
+ "take": "Meer regels code uit een agent betekent voor mij nog geen werkende software. De winst verdampt zodra een mens alles moet nalezen, en dat kost gewoon uren die je nergens terugziet. Ik betaal liever voor gereedschap dat aantoonbaar tijd terugverdient, want een agent die bergen code dumpt waar niemand doorheen komt is duur speelgoed."
+}

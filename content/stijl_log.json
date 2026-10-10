@@ -918,5 +918,61 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-10T22:00:23",
+  "slug": "",
+  "title": "Anthropic sluit AI-agents af van internet tijdens tests",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-10T22:00:30",
+  "slug": "",
+  "title": "AI-agents in je sms: wat kun je nu al gebruiken",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-10T22:00:38",
+  "slug": "",
+  "title": "Consumer AI markt groeit vooral buiten abonnementen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-10T22:00:46",
+  "slug": "",
+  "title": "AI code agents genereren meer code, maar niet meer software",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S4",
+   "S5",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

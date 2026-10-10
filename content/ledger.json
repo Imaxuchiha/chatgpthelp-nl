@@ -1435,6 +1435,26 @@
   "d587fa318b": {
    "at": "2026-10-10T18:24:01.736653",
    "why": "ok"
+  },
+  "edf3fd3dbd": {
+   "at": "2026-10-10T22:00:07.020125",
+   "why": "poort"
+  },
+  "92e4233ce3": {
+   "at": "2026-10-10T22:00:07.020125",
+   "why": "ok"
+  },
+  "c600ade0c9": {
+   "at": "2026-10-10T22:01:07.020125",
+   "why": "ok"
+  },
+  "e0e3889317": {
+   "at": "2026-10-10T22:02:07.020125",
+   "why": "high-risk"
+  },
+  "048fcb30e5": {
+   "at": "2026-10-10T22:02:07.020125",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1671,6 +1691,9 @@
   "Jev: niet-tekst AI-model miljarden waard kort na lancering",
   "AI agent privacy: wat OpenAI DevDay belooft en wat nog onduidelijk is",
   "Nikon diskwalificeert winnaar microscopieprijs om AI-gebruik",
-  "Oekraïense drones raken AI-datacenter van Yandex"
+  "Oekraïense drones raken AI-datacenter van Yandex",
+  "AI-agents in je sms: wat kun je nu al gebruiken",
+  "Consumer AI markt groeit vooral buiten abonnementen",
+  "AI code agents genereren meer code, maar niet meer software"
  ]
 }
