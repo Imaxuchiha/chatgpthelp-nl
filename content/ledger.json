@@ -1395,6 +1395,22 @@
   "d07dddd55d": {
    "at": "2026-10-09T22:49:43.997284",
    "why": "ok"
+  },
+  "61957503b8": {
+   "at": "2026-10-10T11:58:10.458788",
+   "why": "high-risk"
+  },
+  "5ec4c5f2e1": {
+   "at": "2026-10-10T11:58:10.458788",
+   "why": "ok"
+  },
+  "e14d25f546": {
+   "at": "2026-10-10T11:59:10.458788",
+   "why": "ok"
+  },
+  "b0e83be735": {
+   "at": "2026-10-10T12:00:10.458788",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1625,6 +1641,9 @@
   "AI menselijke gevoelens: waarom we AI behandelen als een mens",
   "Asana maakt browseragent 76x goedkoper met GPT-6.1 Sol",
   "AI valse melding politie: Anthropic model tipte Philadelphia",
-  "OpenAI wiskunde resultaten: wiskundigen hebben jaren nodig"
+  "OpenAI wiskunde resultaten: wiskundigen hebben jaren nodig",
+  "Grok Bot van xAI krijgt eigen e-mailadres voor taken",
+  "IMF waarschuwt voor mix van AI-investeringen, energie en schuld",
+  "Jev: niet-tekst AI-model miljarden waard kort na lancering"
  ]
 }

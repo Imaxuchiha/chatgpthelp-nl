@@ -813,5 +813,73 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-10T11:58:22",
+  "slug": "",
+  "title": "Grok Bot van xAI krijgt eigen e-mailadres voor taken",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-10T11:58:28",
+  "slug": "",
+  "title": "IMF waarschuwt voor mix van AI-investeringen, energie en schuld",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S4",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-10T11:58:42",
+  "slug": "",
+  "title": "Jev: niet-tekst AI-model miljarden waard kort na lancering",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-10T11:59:18",
+  "slug": "",
+  "title": "Voicebox open source review: gratis en goed genoeg",
+  "kind": "column",
+  "rood": [
+   "S5",
+   "S6"
+  ],
+  "andere_fouten": 2,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-10T11:59:51",
+  "slug": "",
+  "title": "CapCut Pro: snelste weg van AI-beelden naar video",
+  "kind": "column",
+  "rood": [
+   "S5",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

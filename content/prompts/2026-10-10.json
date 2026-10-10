@@ -1,0 +1,15 @@
+{
+ "title": "Belastingaangifte: aftrekposten checken",
+ "situation": "Je vult je jaarlijkse belastingaangifte in en wilt zeker weten dat je geen aftrekposten mist waar je recht op hebt, zoals giften, zorgkosten of studie.",
+ "prompt": "Je bent een Nederlandse fiscalist gespecialiseerd in de inkomstenbelasting voor particulieren. Ik ga mijn aangifte over [JAAR] invullen bij de Belastingdienst. Mijn situatie: [BESCHRIJF KORT JE SITUATIE, BIJVOORBEELD: loondienst, koopwoning, twee kinderen, partner met eigen inkomen]. Mijn geschatte bruto jaarinkomen is [BEDRAG] euro. Hier is een lijst van mijn mogelijke aftrekposten en uitgaven: [PLAK JE LIJST, BIJVOORBEELD: giften aan goede doelen, ziektekosten niet vergoed, reiskosten, studiekosten]. Loop per post na of deze in mijn geval aftrekbaar is, welke drempel of voorwaarden gelden en welk bedrag ik realistisch kan opvoeren. Geef een overzichtelijke tabel met post, aftrekbaar ja of nee, reden en geschat voordeel in euro's. Sluit af met de drie posten waar ik waarschijnlijk het meest aan heb en welke bewijsstukken ik moet bewaren. Verzin geen bedragen als ik iets niet heb aangeleverd.",
+ "tip": "Vul je werkelijke bedragen in plaats van schattingen; dan rekent ChatGPT meteen met je eigen cijfers.",
+ "tags": [
+  "geld",
+  "belasting",
+  "thuis",
+  "uitleg"
+ ],
+ "date": "2026-10-10",
+ "slug": "belastingaangifte-aftrekposten-checken",
+ "path": "/prompts/2026-10-10-belastingaangifte-aftrekposten-checken/"
+}
