@@ -1,0 +1,68 @@
+{
+ "keyword": "ai agent privacy",
+ "seo_title": "AI agent privacy: wat OpenAI en Meta beloven",
+ "title": "AI agent privacy: wat OpenAI DevDay belooft en wat nog onduidelijk is",
+ "meta": "OpenAI belooft bij DevDay een nieuwe privacystandaard voor zijn AI-agent Dots. Wat betekent dat voor gebruikers in Nederland en de EU?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "privacy",
+  "ai-agent",
+  "meta",
+  "devday"
+ ],
+ "intro": "Tijdens OpenAI DevDay heeft CEO Sam Altman de nieuwe AI-agent Dots gepresenteerd. Daarbij beloofde hij dat het bedrijf een nieuwe standaard voor privacy in frontier-AI wil zetten. Volgens The Verge haalde OpenAI die dag ook uit naar concurrent Meta en zijn agent Muse, omdat die gebruikersdata minder goed zou beschermen.",
+ "takeaways": [
+  "OpenAI presenteerde op DevDay de AI-agent Dots en belooft strengere privacyregels.",
+  "Het bedrijf uitte kritiek op Meta's agent Muse en de omgang met gebruikersdata.",
+  "The Verge meldt dat OpenAI de dag gebruikte om zich tegenover Meta te profileren.",
+  "Hoe de belofte juridisch en technisch wordt ingevuld, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI aankondigde op DevDay",
+   "body": "Op het eigen evenement DevDay heeft OpenAI de AI-agent Dots gepresenteerd. CEO Sam Altman zei daarbij dat het bedrijf een nieuwe standaard voor privacy in frontier-AI wil neerzetten. Volgens The Verge gebruikte OpenAI de dag ook om indirect kritiek te leveren op Meta.\n\nDie kritiek richtte zich op Meta's agent Muse. OpenAI stelt dat Meta er niet in slaagt om gebruikersdata veilig te houden. De aankondiging past in een bredere wedstrijd tussen AI-bedrijven om het vertrouwen van gebruikers."
+  },
+  {
+   "heading": "Waarom privacy bij AI-agenten lastig is",
+   "body": "Een AI-agent voert taken uit namens de gebruiker. Denk aan het ordenen van e-mail, het boeken van een reis of het beheren van agenda's. Daarvoor krijgt de agent toegang tot persoonlijke gegevens, soms meer dan een gewone chatbot.\n\nDie toegang maakt privacy tot een gevoelig punt. Gebruikers moeten kunnen zien welke data een agent gebruikt en waarvoor. Of OpenAI dat met Dots echt anders regelt, is nog niet duidelijk. De bronnen geven geen details over de technische of juridische invulling."
+  },
+  {
+   "heading": "De concurrentiestrijd met Meta",
+   "body": "OpenAI en Meta zitten beide in de race om AI-agenten. Meta bracht eerder zijn agent Muse uit. Volgens The Verge waren de opmerkingen van OpenAI tijdens DevDay deels bedoeld om zich van Meta te onderscheiden.\n\nDat is opvallend, want privacy is voor beide bedrijven een gevoelig onderwerp. OpenAI noemt zichzelf koploper op dit gebied. Of gebruikers dat geloven, hangt af van wat er in de praktijk gebeurt."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "De bronnen noemen geen releasedatum voor Dots in Europa. Er is ook geen informatie over prijzen, datalocaties of toezicht door Europese autoriteiten. Zulke details zijn belangrijk voor gebruikers in Nederland.\n\nZolang die duidelijkheid ontbreekt, blijft de belofte van OpenAI een voornemen. The Verge meldt alleen wat er op het podium is gezegd. Onafhankelijke controle van die belofte is er nog niet."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders en Nederlandse bedrijven betekent dit vooral een afwachtende houding. AI-agenten die toegang krijgen tot e-mail, agenda of klantgegevens vallen onder de Europese privacyregels, de AVG. Een aanbieder moet kunnen uitleggen welke data wordt verwerkt en waar die staat. OpenAI zegt strengere privacy na te streven, maar het is nog niet bekend of Dots in de EU beschikbaar komt en onder welke voorwaarden. Bedrijven die nu al agenten inzetten, doen er goed aan zelf te checken welke toegang ze weggeven.",
+ "faq": [
+  {
+   "q": "Wat is de AI-agent Dots van OpenAI?",
+   "a": "Dots is een nieuwe AI-agent die OpenAI op DevDay presenteerde. Het is nog niet bekend wanneer en waar de agent beschikbaar komt."
+  },
+  {
+   "q": "Wat belooft OpenAI op het gebied van privacy?",
+   "a": "CEO Sam Altman zegt dat OpenAI een nieuwe standaard voor privacy in frontier-AI wil zetten. Details over de uitvoering ontbreken nog."
+  },
+  {
+   "q": "Is Dots al beschikbaar in Nederland?",
+   "a": "Daar is nog niets over bekend. De bronnen noemen geen Europese releasedatum of prijs."
+  }
+ ],
+ "slug": "ai-agent-privacy-wat-openai-devday-belooft-en-wat-nog-onduidelijk-is",
+ "kind": "news",
+ "date": "2026-10-10",
+ "published": "2026-10-10T18:22",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "AI agent makers are promising privacy — will they deliver?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+  }
+ ],
+ "path": "/nieuws/ai-agent-privacy-wat-openai-devday-belooft-en-wat-nog-onduidelijk-is/",
+ "og": "/img/og/ai-agent-privacy-wat-openai-devday-belooft-en-wat-nog-onduidelijk-is.png",
+ "take": "Mooi dat OpenAI een privacystandaal wil neerzetten bij DevDay, maar een belofte op het podium is nog geen product dat ik kan testen. Ik hoor liever eerst hoe Dots omgaat met data van gewone gebruikers voordat ik er vertrouwen in steek. Zolang dat onduidelijk blijft, kijk ik liever naar wat een tool echt doet dan naar wat er wordt beloofd."
+}

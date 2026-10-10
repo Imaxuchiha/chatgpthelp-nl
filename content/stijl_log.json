@@ -881,5 +881,42 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-10T18:22:21",
+  "slug": "",
+  "title": "AI agent privacy: wat OpenAI DevDay belooft en wat nog onduidelijk is",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-10T18:22:28",
+  "slug": "",
+  "title": "Nikon diskwalificeert winnaar microscopieprijs om AI-gebruik",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-10T18:22:36",
+  "slug": "",
+  "title": "Oekraïense drones raken AI-datacenter van Yandex",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

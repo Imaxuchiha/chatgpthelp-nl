@@ -1,0 +1,68 @@
+{
+ "keyword": "yandex datacenter drone",
+ "seo_title": "Yandex datacenter geraakt door Oekraïense drones",
+ "title": "Oekraïense drones raken AI-datacenter van Yandex",
+ "meta": "Oekraïense drones hebben een datacenter van Yandex geraakt. Wat betekent dat voor de AI-modellen van het Russische bedrijf en voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "yandex",
+  "oekraïne",
+  "drones",
+  "datacenter",
+  "ai"
+ ],
+ "intro": "Oekraïense drones hebben een datacenter van Yandex beschadigd. In dat gebouw staan supercomputers die worden gebruikt om AI-modellen van het Russische bedrijf te trainen. Yandex wordt vaak het Russische antwoord op Google genoemd. Het is nog niet duidelijk hoe groot de schade precies is.",
+ "takeaways": [
+  "Oekraïense drones troffen een datacenter van Yandex, het bedrijf dat bekendstaat als het Russische antwoord op Google.",
+  "In het getroffen datacenter staan supercomputers voor het trainen van AI-modellen.",
+  "Yandex heeft nog niet gereageerd op de aanval.",
+  "Het is onbekend of en wanneer de getroffen systemen weer werken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er gebeurd is",
+   "body": "Oekraïense drones hebben een datacenter van Yandex beschadigd. Dat meldt Ars Technica. Het gebouw huisvest supercomputers. Die worden gebruikt om AI-modellen van Yandex te trainen.\n\nYandex is het grootste technologiebedrijf van Rusland. Buiten Rusland is het vooral bekend van de zoekmachine. Het bedrijf bouwt al jaren aan eigen AI-modellen. Die moeten concurreren met systemen van OpenAI, Google en Anthropic.\n\nDe aanval past in een reeks Oekraïense drone-aanvallen op Russische doelen. De laatste maanden richten die aanvallen zich vaker op energie en technologie. Datacenters zijn een logisch doel. Ze verbruiken veel stroom en zijn lastig snel te vervangen."
+  },
+  {
+   "heading": "Waarom dit datacenter belangrijk is",
+   "body": "AI-modellen trainen vraagt enorme rekenkracht. Daarvoor zijn duizenden gespecialiseerde chips nodig. Die staan in speciale datacenters met snelle verbindingen en veel koeling.\n\nEen beschadigd datacenter betekent niet automatisch dat een model stopt. Bedrijven verdelen het werk vaak over meerdere locaties. Toch kan één gemiste locatie trainingen vertragen. Ook kunnen klanten van Yandex tijdelijk minder capaciteit krijgen.\n\nYandex heeft nog niet gezegd hoe erg de schade is. Het bedrijf heeft ook niet laten weten of diensten uitvallen. Ars Technica schrijft alleen dat het datacenter beschadigd is."
+  },
+  {
+   "heading": "Oorlog en AI-infrastructuur",
+   "body": "Dit is niet de eerste keer dat AI-infrastructuur in een conflict terechtkomt. Datacenters zijn fysieke gebouwen met stroom en koeling. Ze zijn kwetsbaar voor aanvallen van buitenaf.\n\nVoor Rusland is dat lastig. Het land heeft minder toegang tot westerse chips. Nieuwe hardware aanschaffen gaat via omwegen en duurt lang. Elk beschadigd datacenter is daardoor extra pijnlijk.\n\nOekraïne laat met dit soort aanvallen zien dat het ook ver van het front doelen kan raken. Dat verandert de rekensom voor bedrijven die hun AI in Rusland onderbrengen."
+  },
+  {
+   "heading": "Wat we nog niet weten",
+   "body": "Het is onduidelijk welke systemen precies zijn geraakt. Ook is niet bekend of er mensen gewond zijn geraakt. Yandex heeft geen publieke reactie gegeven.\n\nOf de training van nieuwe AI-modellen vertraging oploopt, is nog niet te zeggen. Dat hangt af van hoeveel capaciteit op andere locaties beschikbaar is. Daarover heeft Yandex niets naar buiten gebracht."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral een signaal. AI draait op fysieke computers in gebouwen die je kunt raken. Europese bedrijven die AI van buiten de EU gebruiken, lopen daardoor meer risico dan ze denken. Yandex-diensten zijn in Nederland beperkt beschikbaar, maar de vraag naar Europese rekenkracht groeit. Dit voorval maakt duidelijk waarom overheden en bedrijven hier vaker naar eigen of Europese datacenters kijken.",
+ "faq": [
+  {
+   "q": "Wat is Yandex precies?",
+   "a": "Yandex is een Russisch technologiebedrijf dat onder meer een zoekmachine en AI-modellen maakt. Buiten Rusland staat het bekend als het Russische antwoord op Google."
+  },
+  {
+   "q": "Werkt Yandex nog na de aanval?",
+   "a": "Dat is niet bekend. Yandex heeft nog niet gereageerd op de beschadiging van het datacenter."
+  },
+  {
+   "q": "Heb ik in Nederland last van deze aanval?",
+   "a": "Yandex-diensten zijn in Nederland beperkt beschikbaar. Het bredere punt is dat AI afhankelijk is van fysieke datacenters, en die kun je niet zomaar verplaatsen."
+  }
+ ],
+ "slug": "oekraiense-drones-raken-ai-datacenter-van-yandex",
+ "kind": "news",
+ "date": "2026-10-10",
+ "published": "2026-10-10T18:24",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+   "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
+  }
+ ],
+ "path": "/nieuws/oekraiense-drones-raken-ai-datacenter-van-yandex/",
+ "og": "/img/og/oekraiense-drones-raken-ai-datacenter-van-yandex.png",
+ "take": "Een datacenter dat trainingscapaciteit kwijtraakt, daar ligt de echte schade van dit nieuws. Ik geloof pas in de impact als er cijfers liggen over hoe lang die supercomputers uit staan, want een gemiste trainingsweek vertraagt je model gewoon. Voor Nederland verandert er weinig, behalve dat dit laat zien hoe kwetsbaar AI-infrastructuur fysiek is."
+}

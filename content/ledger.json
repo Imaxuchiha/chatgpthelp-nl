@@ -1411,6 +1411,30 @@
   "b0e83be735": {
    "at": "2026-10-10T12:00:10.458788",
    "why": "ok"
+  },
+  "0decde66c5": {
+   "at": "2026-10-10T18:22:01.736653",
+   "why": "high-risk"
+  },
+  "6cd6f5cc67": {
+   "at": "2026-10-10T18:22:01.736653",
+   "why": "high-risk"
+  },
+  "0ea9d786e4": {
+   "at": "2026-10-10T18:22:01.736653",
+   "why": "ok"
+  },
+  "0ad44f3ce5": {
+   "at": "2026-10-10T18:23:01.736653",
+   "why": "high-risk"
+  },
+  "f11f2c288c": {
+   "at": "2026-10-10T18:23:01.736653",
+   "why": "ok"
+  },
+  "d587fa318b": {
+   "at": "2026-10-10T18:24:01.736653",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1644,6 +1668,9 @@
   "OpenAI wiskunde resultaten: wiskundigen hebben jaren nodig",
   "Grok Bot van xAI krijgt eigen e-mailadres voor taken",
   "IMF waarschuwt voor mix van AI-investeringen, energie en schuld",
-  "Jev: niet-tekst AI-model miljarden waard kort na lancering"
+  "Jev: niet-tekst AI-model miljarden waard kort na lancering",
+  "AI agent privacy: wat OpenAI DevDay belooft en wat nog onduidelijk is",
+  "Nikon diskwalificeert winnaar microscopieprijs om AI-gebruik",
+  "Oekraïense drones raken AI-datacenter van Yandex"
  ]
 }
