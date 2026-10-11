@@ -1085,5 +1085,65 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-11T22:11:39",
+  "slug": "",
+  "title": "Nikon diskwalificeert winnaar fotowedstrijd om generatieve AI",
+  "kind": "news",
+  "rood": [],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-11T22:11:48",
+  "slug": "",
+  "title": "Datacenter AI verzet: schrappen NDA's als oplossing",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-11T22:11:56",
+  "slug": "",
+  "title": "Nikon Small World in Motion heeft nieuwe winnaar na AI-diskwalificatie",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-11T22:12:03",
+  "slug": "",
+  "title": "AP zet stap in toezicht op AI met nieuwe directie TCA",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-11T22:12:21",
+  "slug": "",
+  "title": "AI-week 41: toezicht, datacenters en lokale modellen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

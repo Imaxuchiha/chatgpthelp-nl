@@ -1491,6 +1491,26 @@
   "ea95eacbd8": {
    "at": "2026-10-11T18:46:51.859620",
    "why": "ok"
+  },
+  "ba9faca6a1": {
+   "at": "2026-10-11T22:11:26.169480",
+   "why": "poort"
+  },
+  "7ec8afeed3": {
+   "at": "2026-10-11T22:11:26.169480",
+   "why": "high-risk"
+  },
+  "df97c62cc7": {
+   "at": "2026-10-11T22:11:26.169480",
+   "why": "ok"
+  },
+  "266dbefb97": {
+   "at": "2026-10-11T22:12:26.169480",
+   "why": "ok"
+  },
+  "9d8fa2c66b": {
+   "at": "2026-10-11T22:13:26.169480",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1736,6 +1756,9 @@
   "AI noodrem: Nadella wil een rem voor AI-modellen",
   "AI tekst detectie: checkers beoordelen of tekst van mensen komt",
   "Voice AI in Nederland bereikt ChatGPT-moment nog niet",
-  "Lokale AI draaien: modellen op je eigen computer"
+  "Lokale AI draaien: modellen op je eigen computer",
+  "Datacenter AI verzet: schrappen NDA's als oplossing",
+  "Nikon Small World in Motion heeft nieuwe winnaar na AI-diskwalificatie",
+  "AP zet stap in toezicht op AI met nieuwe directie TCA"
  ]
 }
