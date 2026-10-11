@@ -1021,5 +1021,69 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-11T18:45:04",
+  "slug": "",
+  "title": "AI tekst detectie: checkers beoordelen of tekst van mensen komt",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-11T18:45:13",
+  "slug": "",
+  "title": "Noodrem voor AI-modellen: Microsoft-topman Nadella pleit",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S6"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-11T18:45:23",
+  "slug": "",
+  "title": "Voice AI in Nederland bereikt ChatGPT-moment nog niet",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-11T18:45:31",
+  "slug": "",
+  "title": "Lokale AI draaien: modellen op je eigen computer",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-11T18:45:52",
+  "slug": "",
+  "title": "AI-week 41: banken op de rem, Nadella op de noodrem",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

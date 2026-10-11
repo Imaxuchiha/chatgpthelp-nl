@@ -1,0 +1,68 @@
+{
+ "keyword": "lokale ai draaien",
+ "seo_title": "Lokale AI draaien: zo werkt het op je eigen computer",
+ "title": "Lokale AI draaien: modellen op je eigen computer",
+ "meta": "Lokale AI draaien kan steeds beter. Lees hoe het werkt, wat je nodig hebt en waarom het in Nederland extra interessant is.",
+ "category": "uitleg",
+ "tags": [
+  "lokale ai",
+  "privacy",
+  "mac studio",
+  "qwen",
+  "hermes"
+ ],
+ "intro": "Krachtige AI-modellen draaien steeds vaker op je eigen computer in plaats van in de cloud. Dat meldt The Verge naar aanleiding van een test met lokale modellen. Voor mensen die hun persoonlijke data liever niet aan clouddiensten geven, verandert dat de afweging.",
+ "takeaways": [
+  "The Verge testte lokale AI-modellen zoals Hermes en Qwen op een Mac Studio.",
+  "Lokale modellen verwerken je gegevens op je eigen apparaat, zonder clouddienst.",
+  "De ervaring is volgens de auteur tegelijk boeiend, overweldigend en frustrerend.",
+  "Krachtige hardware is nodig om grotere modellen soepel te laten werken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat lokale AI precies is",
+   "body": "Bij lokale AI staat het taalmodel op je eigen apparaat. Je vragen en documenten gaan niet naar een server van een bedrijf. The Verge beschrijft een test waarin de auteur modellen als Hermes en Qwen op een Mac Studio draait.\n\nDat is een ander uitgangspunt dan bij ChatGPT, Claude of Gemini. Die draaien in datacenters en sturen hun antwoorden via internet naar je toe. Een lokaal model werkt ook zonder verbinding, zolang het eenmaal op je schijf staat."
+  },
+  {
+   "heading": "Waarom mensen dit willen proberen",
+   "body": "Privacy is voor veel mensen de belangrijkste reden. Wie gevoelige gegevens in een clouddienst stopt, moet vertrouwen op de afspraken van dat bedrijf. Een lokaal model houdt die gegevens binnen je eigen computer.\n\nDaar komt bij dat de kwaliteit van open modellen flink is gegroeid. The Verge noemt de techniek inmiddels bruikbaar voor serieuze taken. De keerzijde: je bent zelf verantwoordelijk voor installatie, updates en het beheer van je gegevens."
+  },
+  {
+   "heading": "De praktijk is weerbarstig",
+   "body": "De auteur van het stuk noemt de ervaring boeiend, overweldigend en frustrerend tegelijk. Modellen installeren vraagt technische stappen. Soms werkt iets niet meteen, en dan moet je zelf uitzoeken waar het misgaat.\n\nOok de hardware speelt een grote rol. Een Mac Studio met veel werkgeheugen kan grotere modellen aan. Op een gewone laptop loopt het al snel vast of wordt het traag. The Verge noemt de Mac Studio in dit verband expliciet."
+  },
+  {
+   "heading": "Wat je nodig hebt om te starten",
+   "body": "Reken op een computer met voldoende werkgeheugen en een snelle processor. Een stevige grafische kaart helpt, maar is niet altijd verplicht. Kleinere modellen werken soms al op een standaard laptop.\n\nVerder heb je software nodig die het model kan laden. Vaak is dat gratis en open source. Reken op een paar uur uitzoekwerk voordat alles naar wens loopt."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders betekent dit vooral een keuze over privacy. De Autoriteit Persoonsgegevens houdt streng toezicht op het verwerken van persoonsgegevens, en de AVG geldt ook voor AI-diensten. Wie klantgegevens of medische informatie verwerkt, kan een lokaal model overwegen om data binnen de eigen organisatie te houden. Let wel op de kosten: een geschikte computer kost al snel honderden tot enkele duizenden euro's, terwijl een cloudabonnement vaak een tientje per maand kost.",
+ "faq": [
+  {
+   "q": "Wat is lokale AI precies?",
+   "a": "Een AI-model dat op je eigen computer draait, zonder clouddienst. Je gegevens blijven op je apparaat staan."
+  },
+  {
+   "q": "Heb ik dure hardware nodig?",
+   "a": "Voor kleine modellen vaak niet. Grotere modellen vragen veel werkgeheugen en een snelle processor, zoals een Mac Studio."
+  },
+  {
+   "q": "Is lokale AI beter dan ChatGPT?",
+   "a": "Dat hangt af van je doel. Lokale modellen geven meer privacy, clouddiensten zijn meestal krachtiger en eenvoudiger in gebruik."
+  }
+ ],
+ "slug": "lokale-ai-draaien-modellen-op-je-eigen-computer",
+ "kind": "news",
+ "date": "2026-10-11",
+ "published": "2026-10-11T18:46",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
+  }
+ ],
+ "path": "/uitleg/lokale-ai-draaien-modellen-op-je-eigen-computer/",
+ "og": "/img/og/lokale-ai-draaien-modellen-op-je-eigen-computer.png",
+ "take": "Lokale modellen op je eigen machine, dat is precies de kant die ik op wil. Ik heb geen zin in een nieuw abonnement voor elke truc die ik één keer per maand nodig heb, dus ik zet liever zelf iets neer dat blijft draaien. Alleen: eerst zien dat het op mijn eigen data echt werk doet, dan praten we verder."
+}

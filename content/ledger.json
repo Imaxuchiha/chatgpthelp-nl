@@ -1467,6 +1467,30 @@
   "2c9728d331": {
    "at": "2026-10-11T12:09:51.131833",
    "why": "ok"
+  },
+  "e274efc39a": {
+   "at": "2026-10-11T18:44:51.859620",
+   "why": "ok"
+  },
+  "34e55d330c": {
+   "at": "2026-10-11T18:45:51.859620",
+   "why": "high-risk"
+  },
+  "c355e98a22": {
+   "at": "2026-10-11T18:45:51.859620",
+   "why": "poort"
+  },
+  "0ab8a347f2": {
+   "at": "2026-10-11T18:45:51.859620",
+   "why": "high-risk"
+  },
+  "778ab122b6": {
+   "at": "2026-10-11T18:45:51.859620",
+   "why": "ok"
+  },
+  "ea95eacbd8": {
+   "at": "2026-10-11T18:46:51.859620",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1709,6 +1733,9 @@
   "AI code agents genereren meer code, maar niet meer software",
   "AI bij Nederlandse banken: regels remmen gebruik",
   "Nadella: ga ervan uit dat alle AI-modellen compromised zijn",
-  "AI noodrem: Nadella wil een rem voor AI-modellen"
+  "AI noodrem: Nadella wil een rem voor AI-modellen",
+  "AI tekst detectie: checkers beoordelen of tekst van mensen komt",
+  "Voice AI in Nederland bereikt ChatGPT-moment nog niet",
+  "Lokale AI draaien: modellen op je eigen computer"
  ]
 }

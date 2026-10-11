@@ -1,0 +1,68 @@
+{
+ "keyword": "ai tekst detectie",
+ "seo_title": "AI tekst detectie: checkers beoordelen menselijkheid",
+ "title": "AI tekst detectie: checkers beoordelen of tekst van mensen komt",
+ "meta": "AI tekst detectie tools checken of een tekst door mensen of AI is gemaakt. Lees hoe ze werken, wat deskundigen adviseren en wat dit betekent in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ai-detectie",
+  "chatgpt",
+  "onderwijs",
+  "privacy",
+  "wetgeving"
+ ],
+ "intro": "Detectietools kunnen steeds beter zien of een tekst door een mens of door AI is geschreven. Dat geldt voor tweets van premier Rob Jetten en voor schoolopdrachten. Deskundigen zeggen wel dat je niet te snel conclusies moet trekken.",
+ "takeaways": [
+  "AI-checkers beoordelen teksten op kenmerken die typisch menselijk zijn.",
+  "Ze werken vaak goed, maar deskundigen adviseren voorzichtigheid.",
+  "De tools worden gebruikt bij politiek, onderwijs en journalistiek.",
+  "In Nederland is nog geen wet die AI-detectie verplicht stelt."
+ ],
+ "sections": [
+  {
+   "heading": "Hoe AI-checkers werken",
+   "body": "AI-checkers kijken naar patronen in een tekst. Ze letten op woordkeuze, zinslengte en hoe voorspelbaar een zin is. Een taalmodel als ChatGPT produceert vaak voorspelbare zinnen. Mensen schrijven rommeliger, met meer variatie.\n\nDe tools geven meestal een score. Soms zeggen ze hoeveel procent van de tekst waarschijnlijk door AI is gemaakt. Volgens NU.nl Tech werken ze vaak goed. Toch blijft het een inschatting, geen bewijs."
+  },
+  {
+   "heading": "Waar de tools worden gebruikt",
+   "body": "Scholen gebruiken detectietools om te checken of leerlingen hun werk zelf hebben geschreven. Ook bij sollicitaties en online platforms komen ze voor. Zelfs tweets van politici worden er weleens mee bekeken. Premier Rob Jetten kreeg daar dit jaar mee te maken.\n\nJournalisten gebruiken de checkers om te controleren of een persbericht misschien door AI is gemaakt. Bedrijven zetten ze in bij het beoordelen van binnenkomende teksten. De vraag is dan: vertrouw je de uitkomst?"
+  },
+  {
+   "heading": "Beperkingen en risico's",
+   "body": "Geen enkele checker is foutloos. Een mens kan een tekst schrijven die als AI wordt bestempeld. Andersom kan AI een tekst maken die menselijk overkomt. Deskundigen zeggen daarom: gebruik de uitslag als signaal, niet als vonnis.\n\nEr zit ook een privacykant aan. Je tekst wordt vaak naar een externe server gestuurd. Bij vertrouwelijke stukken is dat een risico. In Nederland geldt de AVG. Verwerk je persoonsgegevens, dan moet je een grondslag hebben."
+  },
+  {
+   "heading": "Wat betekent dit voor Nederland",
+   "body": "In Nederland is er nog geen wet die AI-detectie verplicht stelt. Scholen en werkgevers mogen zelf bepalen of ze zulke tools gebruiken. Wel moeten ze rekening houden met de AVG en met de rechten van betrokkenen.\n\nVoor het onderwijs is het extra gevoelig. Een leerling kan onterecht worden beschuldigd van fraude. Scholen doen er goed aan om eerst in gesprek te gaan. De tool is een hulpmiddel, geen rechter."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders betekent dit dat AI-detectie op meer plekken opduikt: op school, bij sollicitaties en op sociale media. Er is nog geen Nederlandse wet die het gebruik regelt. Wel geldt de AVG als er persoonsgegevens worden verwerkt. Scholen en bedrijven moeten dus zelf nadenken over hoe ze de uitslag wegen. Deskundigen adviseren om een check nooit als enige bewijs te zien. Een gesprek met de betrokkene blijft nodig.",
+ "faq": [
+  {
+   "q": "Hoe weet ik of een tekst door ChatGPT is geschreven?",
+   "a": "Dat kun je nooit met zekerheid zeggen. AI-checkers geven een inschatting op basis van patronen. Gebruik de uitslag als signaal en niet als hard bewijs."
+  },
+  {
+   "q": "Zijn AI-detectietools toegestaan in Nederland?",
+   "a": "Ja, ze zijn toegestaan. Er is nog geen specifieke wet voor. Wel moet je je aan de AVG houden als je persoonsgegevens verwerkt."
+  },
+  {
+   "q": "Wat als mijn school mijn tekst als AI aanmerkt?",
+   "a": "Vraag om uitleg en om een gesprek. Een checker kan fouten maken. Scholen horen de uitslag niet als enige bewijs te gebruiken."
+  }
+ ],
+ "slug": "ai-tekst-detectie-checkers-beoordelen-of-tekst-van-mensen-komt",
+ "kind": "news",
+ "date": "2026-10-11",
+ "published": "2026-10-11T18:44",
+ "sources": [
+  {
+   "name": "NU.nl Tech",
+   "title": "AI-checkers beoordelen teksten op menselijkheid: 'Goed voor de discussie'",
+   "url": "https://www.nu.nl/tech/6412542/ai-checkers-beoordelen-teksten-op-menselijkheid-goed-voor-de-discussie.html"
+  }
+ ],
+ "path": "/nieuws/ai-tekst-detectie-checkers-beoordelen-of-tekst-van-mensen-komt/",
+ "og": "/img/og/ai-tekst-detectie-checkers-beoordelen-of-tekst-van-mensen-komt.png",
+ "take": "Een detector die zegt dat jouw tekst door AI is geschreven, bewijst niks over de kwaliteit ervan. Ik lees AI-tekst meteen aan de vaagheid: mooie woorden, geen concreet detail, en nooit toegeven wat mislukte. Menselijk klinken is gewoon eerlijk zijn over wat wel en niet werkte, en daar prikt geen enkele checker doorheen."
+}
