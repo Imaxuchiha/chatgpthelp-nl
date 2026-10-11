@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: verborgen kosten in je streamingabonnementen",
+ "situation": "Je betaalt maandelijks voor meerdere streamingdiensten en weet niet meer wat je echt gebruikt. Deze prompt zet alles op een rij en rekent uit waar je op kunt besparen.",
+ "prompt": "Je bent een abonnementencoach voor Nederlandse huishoudens. Ik geef je een lijst van mijn streamingdiensten met maandprijs en hoe vaak ik ze per maand gebruik. Analyseer per dienst of de prijs past bij mijn gebruik. Reken uit wat ik per jaar kwijt ben. Geef drie concrete bespaartips, bijvoorbeeld overstappen naar een jaarabonnement, delen met huisgenoten of tijdelijk pauzeren. Zet alles in een tabel: dienst, maandprijs, gebruik per maand, advies. Sluit af met één regel: wat ik deze maand kan opzeggen. Mijn lijst: [DIENST 1] kost [BEDRAG] per maand, ik gebruik het [AANTAL] keer per maand. [DIENST 2] kost [BEDRAG] per maand, ik gebruik het [AANTAL] keer per maand.",
+ "tip": "Vul ook in of je een abonnement deelt met iemand anders, dan wordt het advies preciezer.",
+ "tags": [
+  "thuis",
+  "geld",
+  "abonnementen",
+  "besparen"
+ ],
+ "date": "2026-10-11",
+ "slug": "prompt-verborgen-kosten-in-je-streamingabonnementen",
+ "path": "/prompts/2026-10-11-prompt-verborgen-kosten-in-je-streamingabonnementen/"
+}

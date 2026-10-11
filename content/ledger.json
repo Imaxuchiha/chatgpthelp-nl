@@ -1455,6 +1455,18 @@
   "048fcb30e5": {
    "at": "2026-10-10T22:02:07.020125",
    "why": "ok"
+  },
+  "a964f486b4": {
+   "at": "2026-10-11T12:07:51.131833",
+   "why": "ok"
+  },
+  "35dc91695d": {
+   "at": "2026-10-11T12:08:51.131833",
+   "why": "ok"
+  },
+  "2c9728d331": {
+   "at": "2026-10-11T12:09:51.131833",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1694,6 +1706,9 @@
   "Oekraïense drones raken AI-datacenter van Yandex",
   "AI-agents in je sms: wat kun je nu al gebruiken",
   "Consumer AI markt groeit vooral buiten abonnementen",
-  "AI code agents genereren meer code, maar niet meer software"
+  "AI code agents genereren meer code, maar niet meer software",
+  "AI bij Nederlandse banken: regels remmen gebruik",
+  "Nadella: ga ervan uit dat alle AI-modellen compromised zijn",
+  "AI noodrem: Nadella wil een rem voor AI-modellen"
  ]
 }

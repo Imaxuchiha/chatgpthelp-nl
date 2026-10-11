@@ -1,0 +1,64 @@
+{
+ "keyword": "ai modellen compromised",
+ "seo_title": "AI modellen compromised: Nadella waarschuwt",
+ "title": "Nadella: ga ervan uit dat alle AI-modellen compromised zijn",
+ "meta": "Microsoft-ceo Satya Nadella zegt dat je moet aannemen dat AI-modellen compromised zijn. Wat betekent dat voor gebruikers en bedrijven in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "satya nadella",
+  "microsoft",
+  "ai-veiligheid",
+  "ai-modellen",
+  "beleid"
+ ],
+ "intro": "Microsoft-ceo Satya Nadella vindt dat je moet aannemen dat elk AI-model compromised is. Hij schreef dat in een lang bericht op X. Volgens The Verge wil hij af van het idee dat AI een verzameling zwarte dozen is waarvan je advies klakkeloos accepteert.",
+ "takeaways": [
+  "Nadella zegt dat alle AI-modellen als compromised moeten worden beschouwd.",
+  "Hij verzet zich tegen AI als een set geneste zwarte dozen.",
+  "Het bericht verscheen op X en is opgepikt door The Verge.",
+  "Hoe dit in de praktijk wordt afgedwongen, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Nadella precies zegt",
+   "body": "Nadella noemt AI-modellen geen neutrale hulpmiddelen. Volgens The Verge stelt hij dat we moeten aannemen dat ze compromised zijn. Daarmee bedoelt hij dat je niet blind kunt vertrouwen op wat een model zegt of doet.\n\nHij richt zich op zeer geavanceerde AI-modellen. Die brengen risico's mee die je volgens hem niet langer kunt negeren. Het idee dat AI bestaat uit geneste zwarte dozen, waarvan je de uitkomsten simpelweg accepteert of afwijst, noemt hij onhoudbaar."
+  },
+  {
+   "heading": "Zwarte dozen en verantwoordelijkheid",
+   "body": "Een zwarte doos is systeem waarvan je de invoer en uitvoer ziet, maar niet het binnenwerk. Bij AI-modellen weet je vaak niet precies hoe een antwoord tot stand komt. Nadella wil dat bedrijven en gebruikers zich dat realiseren.\n\nWie een model inzet, blijft volgens hem verantwoordelijk voor de gevolgen. Dat geldt voor adviezen, beslissingen en acties die het model voorstelt. Vertrouwen zonder controle is geen optie."
+  },
+  {
+   "heading": "Wat dit betekent voor AI-gebruik",
+   "body": "Voor organisaties betekent het meer nadruk op controle. Je wilt weten welke data een model gebruikt en hoe het tot een advies komt. Ook fouten en misbruik moeten sneller zichtbaar worden.\n\nNadella geeft in zijn bericht geen concreet stappenplan. The Verge meldt dat hij vooral zijn zorgen deelt en richting wil geven aan het debat. Duidelijk is dat hij AI niet als vanzelfsprekend veilig beschouwt."
+  }
+ ],
+ "nl_angle": "In Nederland gebruiken steeds meer bedrijven en overheidsinstanties AI-modellen voor tekst, code en klantcontact. De waarschuwing van Nadella sluit aan bij de Europese AI-verordening, die eisen stelt aan transparantie en risicobeheer. Voor Nederlandse organisaties betekent dit dat je niet zonder meer op een model kunt vertrouwen. Leg vast wie verantwoordelijk is, test uitkomsten en houd menselijke controle. De Autoriteit Persoonsgegevens kan bij klachten om uitleg vragen over hoe een model tot een besluit kwam.",
+ "faq": [
+  {
+   "q": "Wat bedoelt Satya Nadella met compromised AI-modellen?",
+   "a": "Hij bedoelt dat je moet aannemen dat een model niet volledig betrouwbaar is. Je kunt de uitkomsten niet blind vertrouwen en moet zelf blijven controleren."
+  },
+  {
+   "q": "Geldt dit ook voor AI-gebruik in Nederland?",
+   "a": "De uitspraak is algemeen, maar raakt ook Nederlandse gebruikers. De Europese AI-verordening vraagt al om transparantie en risicobeheer bij AI-toepassingen."
+  },
+  {
+   "q": "Moet ik nu stoppen met ChatGPT of Copilot?",
+   "a": "Nadella zegt niet dat je moet stoppen. Hij pleit voor meer controle en verantwoordelijkheid bij het gebruik van AI-modellen."
+  }
+ ],
+ "slug": "nadella-ga-ervan-uit-dat-alle-ai-modellen-compromised-zijn",
+ "kind": "news",
+ "date": "2026-10-11",
+ "published": "2026-10-11T12:08",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+  }
+ ],
+ "path": "/nieuws/nadella-ga-ervan-uit-dat-alle-ai-modellen-compromised-zijn/",
+ "og": "/img/og/nadella-ga-ervan-uit-dat-alle-ai-modellen-compromised-zijn.png",
+ "take": "Elk model als compromised behandelen is gewoon gezond verstand, en dat had niemand van Microsoft hoeven horen. Ik vertrouw geen enkele output blind, of het nu om een analyse of een stuk tekst gaat, want de rekening betaalt de klant en niet het model. Gratis tools als DeepSeek en mijn eigen scripts met Claude Code kosten me bijna niks, dus waarom zou ik een dure zwarte doos geloven die ik niet kan natrekken."
+}
