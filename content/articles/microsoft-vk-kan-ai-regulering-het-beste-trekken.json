@@ -1,0 +1,68 @@
+{
+ "keyword": "ai regulering verenigd koninkrijk",
+ "seo_title": "AI-regulering: VK krijgt sleutelrol volgens Microsoft",
+ "title": "Microsoft: VK kan AI-regulering het beste trekken",
+ "meta": "Microsoft-president Brad Smith wil dringend AI-regels en ziet het VK voorop. Wat betekent dat voor Nederland en de Europese AI-wet?",
+ "category": "beleid",
+ "tags": [
+  "ai-regulering",
+  "microsoft",
+  "verenigd koninkrijk",
+  "eu-ai-wet",
+  "toezicht"
+ ],
+ "intro": "Microsoft-president Brad Smith vindt dat het Verenigd Koninkrijk de beste positie heeft om AI-regels te trekken. Hij zegt dat een pak melk en een wasmachine nu meer controle krijgen dan AI-bedrijven. Het debat over toezicht op AI krijgt daarmee een nieuwe impuls.",
+ "takeaways": [
+  "Microsoft-president Brad Smith roept op tot dringende AI-regulering.",
+  "Volgens Smith hebben melk en wasmachines meer toezicht dan AI-bedrijven.",
+  "Het Verenigd Koninkrijk zou volgens hem de beste plek zijn om die regels te leiden.",
+  "Het is nog niet bekend of het VK die rol daadwerkelijk oppakt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Smith precies zegt",
+   "body": "Brad Smith, president van Microsoft, vraagt om dringende regels voor AI. Hij vergelijkt de situatie met gewone producten. Een pak melk en een wasmachine vallen onder strenger toezicht dan AI-bedrijven, stelt hij.\n\nDie vergelijking maakt duidelijk waar zijn zorg zit. AI raakt steeds meer delen van het dagelijks leven. Toch is er nog geen duidelijk kader dat makers van AI-systemen aan banden legt.\n\nSmith zegt er niet bij welke regels hij precies wil. Ook geeft hij geen termijn. Wat wel vaststaat: Microsoft wil dat overheden sneller schakelen."
+  },
+  {
+   "heading": "Waarom het Verenigd Koninkrijk",
+   "body": "Volgens Smith is het Verenigd Koninkrijk het best gepositioneerd om AI-regulering te leiden. Het land combineert volgens hem technische kennis met een sterke positie in de techsector.\n\nHet VK zit sinds het vertrek uit de Europese Unie niet meer vast aan Brusselse regels. Dat geeft het land ruimte om een eigen koers te varen. Tegelijk ligt er in de EU al wetgeving: de AI-verordening, die AI-systemen indeelt naar risiconiveau.\n\nOf het VK die leidende rol echt oppakt, is nog niet bekend. De Britse overheid heeft nog geen officiële reactie op de uitspraak gegeven."
+  },
+  {
+   "heading": "De Europese AI-verordening als voorbeeld",
+   "body": "De Europese Unie heeft met de AI-verordening al een kader dat AI-systemen in risicoklassen plaatst. Hoog-risico toepassingen krijgen strengere eisen. Denk aan verplichte documentatie en menselijk toezicht.\n\nVoor bedrijven die in de EU actief zijn, geldt die wet al gefaseerd. Een Britse route zou naast die Europese aanpak komen te staan. Dat kan het speelveld voor bedrijven die in beide markten werken ingewikkelder maken.\n\nSmith noemt de EU-wet niet in zijn oproep. Zijn boodschap is breder: er moet ergens een voorbeeld komen dat anderen kunnen volgen."
+  },
+  {
+   "heading": "Wat er nog onduidelijk is",
+   "body": "Het is niet bekend welke concrete maatregelen Smith voor ogen heeft. Ook is niet duidelijk of Microsoft met een eigen voorstel komt.\n\nDe oproep past bij eerdere signalen uit de techsector. Meerdere partijen vragen om duidelijkheid, omdat ze willen weten waar ze aan toe zijn. Tegelijk willen ze geen regels die innovatie in de weg zitten.\n\nWanneer er een besluit valt over een leidende rol voor het VK, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die AI gebruiken of bouwen, blijft de Europese AI-verordening het belangrijkste kader. Een Britse kopgroep kan op termijn extra regels opleveren voor wie ook in het VK zaken doet. Nederlandse ontwikkelaars en gebruikers krijgen dus mogelijk te maken met twee stelsels naast elkaar. Wat dat concreet kost of oplevert, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat wil Microsoft met AI-regulering?",
+   "a": "Microsoft-president Brad Smith vraagt om dringende regels voor AI-bedrijven. Hij vindt dat AI nu minder toezicht krijgt dan producten als melk en wasmachines."
+  },
+  {
+   "q": "Waarom zou het Verenigd Koninkrijk AI-regels moeten trekken?",
+   "a": "Volgens Smith heeft het VK de beste positie om die regels te leiden. Het land heeft technische kennis en zit niet vast aan Brusselse regels."
+  },
+  {
+   "q": "Wat betekent dit voor Nederland?",
+   "a": "In Nederland en de EU geldt de AI-verordening al. Een Britse aanpak kan daar op termijn naast komen te staan voor bedrijven die in beide markten actief zijn."
+  }
+ ],
+ "slug": "microsoft-vk-kan-ai-regulering-het-beste-trekken",
+ "kind": "news",
+ "date": "2026-10-13",
+ "published": "2026-10-13T00:53",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Microsoft president says UK is best placed to drive AI regulation",
+   "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+  }
+ ],
+ "path": "/beleid/microsoft-vk-kan-ai-regulering-het-beste-trekken/",
+ "og": "/img/og/microsoft-vk-kan-ai-regulering-het-beste-trekken.png",
+ "take": "Regels voor AI zijn prima, maar laat Nederland niet wachten tot het VK het voortouw neemt. Ik bouw mijn eigen tools liever zelf dan dat ik een abonnement neem op de zoveelste regeltjes-tool, en zo werkt het hier ook: eerst kijken wat werkt, dan pas vastleggen. Brad Smith vergelijkt AI met een pak melk, maar een melkpak heeft geen API die je zelf kunt aansturen, en dat verschil mag van mij best benoemd worden."
+}

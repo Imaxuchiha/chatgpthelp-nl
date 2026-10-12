@@ -1,0 +1,68 @@
+{
+ "keyword": "ai bouwtekeningen maken",
+ "seo_title": "AI bouwtekeningen maken: vergunningklaar in minuten",
+ "title": "AI maakt vergunningklare bouwtekeningen in minuten",
+ "meta": "Blueprints AI maakt van een foto of schets een vergunningklare bouwtekening. Wat betekent dat voor bouwbedrijven en verbouwers in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "bouw",
+  "vergunningen",
+  "blueprints ai",
+  "startups"
+ ],
+ "intro": "Het bedrijf Blueprints AI uit Santa Monica zegt dat zijn software binnen enkele minuten bouwtekeningen maakt die aan bouwvoorschriften voldoen. Je stopt er een foto, pdf of schets in en er komt een tekening uit die je kunt indienen voor een vergunning. TechCrunch meldt dat het bedrijf zonder externe investeerders is opgebouwd.",
+ "takeaways": [
+  "Blueprints AI maakt volgens eigen zeggen vergunningklare bouwtekeningen uit een foto, pdf of schets.",
+  "Het bedrijf zit in Santa Monica en groeide zonder durfkapitaal.",
+  "Of de software in Nederland werkt, is nog niet duidelijk.",
+  "Nederlandse vergunningen lopen via het Omgevingsloket en gemeenten, met eigen eisen per project."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de software doet",
+   "body": "Je levert een foto van een bestaand gebouw, een pdf of een simpele schets aan. De software zet dat om in een bouwtekening die voldoet aan de geldende bouwvoorschriften. Volgens TechCrunch gaat dat in minuten, waar een tekenaar of architect normaal dagen of weken nodig heeft.\n\nHet bedrijf noemt de tekeningen permit-ready. Dat betekent dat je ze in theorie direct kunt indienen bij de instantie die de vergunning verleent. Of dat in de praktijk ook lukt, hangt af van het land en de gemeente."
+  },
+  {
+   "heading": "Een startup zonder investeerders",
+   "body": "Blueprints AI is gevestigd in Santa Monica, in de Amerikaanse staat Californië. Het bedrijf is bootstrapped: de oprichters groeiden het zonder geld van durfinvesteerders. Dat is opvallend in de AI-sector, waar jonge bedrijven vaak miljoenen ophalen voordat ze een product hebben.\n\nTechCrunch schrijft niet hoeveel klanten het bedrijf heeft of wat de software kost. Ook is niet bekend of er al gemeenten of aannemers met de tool werken."
+  },
+  {
+   "heading": "Wat vergunningklaar betekent in de VS",
+   "body": "In de Verenigde Staten verschilt het per staat en per stad welke eisen gelden voor een bouwvergunning. Een tekening die in de ene stad door de controle komt, kan in een andere stad worden afgekeurd. De term permit-ready zegt dus niet dat elke gemeente de tekening zonder meer accepteert.\n\nAmerikaanse bouwvoorschriften staan in de zogeheten building codes. Die regels gaan over veiligheid, brandwerendheid en constructie. Software die die regels automatisch toepast, moet per regio goed zijn ingesteld."
+  },
+  {
+   "heading": "Nederlandse regels zijn anders",
+   "body": "In Nederland vraag je een omgevingsvergunning aan via het Omgevingsloket. De gemeente beoordeelt of je plan past binnen het omgevingsplan en of het bouwwerk veilig is. Voor veel verbouwingen heb je een vergunning nodig, voor sommige niet.\n\nEen tekening moet voldoen aan het Besluit bouwwerken leefomgeving. Daarin staan eisen aan onder meer constructie, isolatie en vluchtroutes. Of software als Blueprints AI die Nederlandse eisen kent, is niet bekend. Het bedrijf richt zich volgens de berichtgeving op de Amerikaanse markt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse aannemers, architecten en verbouwers is dit vooral interessant als signaal. Het tekenwerk voor een vergunningaanvraag kan sneller en goedkoper worden. Toch blijft de gemeente beoordelen of je plan mag. Een tool die Amerikaanse regels volgt, levert nog geen geldige Nederlandse aanvraag op. Wie hier wil bouwen, heeft nog steeds een tekenaar of architect nodig die het omgevingsplan en het Besluit bouwwerken leefomgeving kent. Het is niet bekend of Blueprints AI plannen heeft voor Europa of Nederland.",
+ "faq": [
+  {
+   "q": "Kan ik met AI een bouwtekening maken voor een Nederlandse vergunning?",
+   "a": "Er zijn tools die tekeningen genereren, maar of die aan Nederlandse eisen voldoen is niet zeker. Voor een omgevingsvergunning beoordeelt je gemeente het plan via het Omgevingsloket."
+  },
+  {
+   "q": "Wat kost Blueprints AI?",
+   "a": "Dat is niet bekend. TechCrunch noemt geen prijzen en het bedrijf heeft daar zelf niets over gezegd in het artikel."
+  },
+  {
+   "q": "Is Blueprints AI beschikbaar in Nederland?",
+   "a": "Daar is niets over gemeld. Het bedrijf zit in Santa Monica en richt zich volgens de berichtgeving op de Amerikaanse markt."
+  }
+ ],
+ "slug": "ai-maakt-vergunningklare-bouwtekeningen-in-minuten",
+ "kind": "news",
+ "date": "2026-10-13",
+ "published": "2026-10-13T00:54",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+   "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
+  }
+ ],
+ "path": "/nieuws/ai-maakt-vergunningklare-bouwtekeningen-in-minuten/",
+ "og": "/img/og/ai-maakt-vergunningklare-bouwtekeningen-in-minuten.png",
+ "take": "Een software die binnen enkele minuten een vergunningklare tekening uit een foto perst, daar wil ik eerst de onderliggende maatvoering van zien. Bij bouwtekeningen bepaalt de meetdata of je iets kunt indienen, en een model dat tekent zonder de bron te kennen levert vooral mooie plaatjes. Eerst zien werken op een echte aanvraag, dan geloof ik het."
+}

@@ -1,0 +1,14 @@
+{
+ "title": "Reiskostenvergoeding checken na verhuizing",
+ "situation": "Je bent verhuisd en vraagt je af of je nog recht hebt op reiskostenvergoeding of een andere tegemoetkoming van je werkgever.",
+ "prompt": "Je bent een HR-adviseur met kennis van de Nederlandse arbeidsvoorwaarden. Ik ben [FUNCTIE] en werk bij [WERKGEVER]. Ik woon nu op [AFSTAND] kilometer van mijn werk in plaats van [OUDE AFSTAND] kilometer. Mijn werkgever vergoedt [BEDRAG] per kilometer, met een maximum van [MAXIMUM] per maand. Ik reis [AANTAL DAGEN] dagen per week naar kantoor. Bereken of ik nog recht heb op reiskostenvergoeding en of er een vorm van thuiswerkvergoeding of reiskostenbudget is waar ik aanspraak op kan maken. Geef een overzicht van de bedragen per maand en per jaar, en noem drie vragen die ik aan mijn werkgever kan stellen om dit te regelen.",
+ "tip": "Vul ook je cao of arbeidsvoorwaardenregeling in als je die hebt, dan wordt het advies specifieker.",
+ "tags": [
+  "werk",
+  "reiskosten",
+  "verhuizing"
+ ],
+ "date": "2026-10-13",
+ "slug": "reiskostenvergoeding-checken-na-verhuizing",
+ "path": "/prompts/2026-10-13-reiskostenvergoeding-checken-na-verhuizing/"
+}

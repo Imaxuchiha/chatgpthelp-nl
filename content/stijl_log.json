@@ -1236,5 +1236,69 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T00:53:34",
+  "slug": "",
+  "title": "Microsoft: VK kan AI-regulering het beste trekken",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T00:53:44",
+  "slug": "",
+  "title": "AI maakt vergunningklare bouwtekeningen in minuten",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T00:53:53",
+  "slug": "",
+  "title": "Epic Games kiest volgens Ars Technica voor AI bij games",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T00:54:23",
+  "slug": "",
+  "title": "Epic Games zet alles op AI: de rekening komt bij spelers",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S11"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T00:54:34",
+  "slug": "",
+  "title": "Epic Games zet alles op AI: de rekening komt bij spelers",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S11"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

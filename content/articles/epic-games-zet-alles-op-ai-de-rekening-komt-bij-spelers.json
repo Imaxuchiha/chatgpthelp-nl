@@ -1,0 +1,86 @@
+{
+ "keyword": "ai game ontwikkeling",
+ "seo_title": "AI game ontwikkeling: Epic Games zet alles op AI",
+ "title": "Epic Games zet alles op AI: de rekening komt bij spelers",
+ "meta": "Epic Games kiest voor een AI-first aanpak bij game-ontwikkeling. Maxim legt uit waarom dat vooral een kostenbesparing is en wat spelers merken.",
+ "category": "mening",
+ "tags": [
+  "Epic Games",
+  "AI game ontwikkeling",
+  "AI-first",
+  "game industrie",
+  "Unreal Engine"
+ ],
+ "intro": "Epic Games gooit het roer om en zet volledig in op AI bij het maken van games. Handgeschreven code en door mensen gemaakte kunst verdwijnen. Dat klinkt als vooruitgang, maar ik ruik vooral een kostenbesparing. En de rekening daarvan komt bij de spelers terecht.",
+ "takeaways": [
+  "AI-first is vooral een manier om ontwikkelkosten te drukken, niet om betere games te maken.",
+  "De kwaliteit van AI-gegenereerde content is nog niet op het niveau dat spelers verwachten.",
+  "Nederlandse game-ontwikkelaars doen er verstandig aan om AI te omarmen, maar kritisch te blijven."
+ ],
+ "sections": [
+  {
+   "heading": "AI-first is een kostenbesparing, geen kwaliteitssprong",
+   "body": "Epic Games werkt aan een uitgestelde shooter met Disney-thema's. Marvel en Star Wars dus. Volgens Ars Technica verdwijnen handgeschreven code en niet-AI-gemaakte kunst. Voor mij is dat een duidelijk signaal: dit gaat over geld. Mensen zijn duur, AI is goedkoop.\n\nAI-tools zijn handig voor rapportages en analyses. Teksten schrijven kan ook prima. Maar een AI-gegenereerd levelontwerp is niet automatisch beter dan wat een ervaren designer maakt. Het is sneller en goedkoper. Soms is dat prima. Soms is het middelmatig.\n\nBij games draait het om beleving. Als een AI de kunst maakt, krijg je misschien meer content, maar ook meer van hetzelfde. AI-beelden voor advertenties zijn prima, maar je moet flink schaven om iets te krijgen dat echt opvalt."
+  },
+  {
+   "heading": "Wat spelers gaan merken",
+   "body": "Spelers willen geen game die aanvoelt als een goedkope AI-generator. Ze willen werelden die kloppen, personages met diepgang. Als Epic Games alles door AI laat maken, krijg je mogelijk een zee aan content. Maar die zee is waarschijnlijk ondiep.\n\nAI kan prima een bos genereren. Maar een menu, een UI, een subtiele hint in de omgeving? Daar gaat het nog vaak mis. Tekst en schermen in beeld gaan consequent fout bij AI-video's. Alles met interface-elementen bouw je beter in code. Dat klopt pixel voor pixel.\n\nDe shooter van Epic Games is al uitgesteld. Dat zegt genoeg. AI-first klinkt stoer, maar in de praktijk worstelen ze er zelf ook mee."
+  },
+  {
+   "heading": "Wat dit betekent voor Nederlandse ontwikkelaars",
+   "body": "Nederlandse gamestudio's kijken hier ongetwijfeld naar. Moet je nu ook alles op AI gooien? Nee. AI is een tool, geen vervanging van vakmanschap. Gebruik het waar het tijd bespaart. Maar onderschat niet wat mensen toevoegen.\n\nVeel taken zijn te automatiseren met AI. Rapportages, analyses, scripts. Maar de geldknoppen blijven bij mensen. Budgetten aanpassen doe je zelf. AI mag voorstellen doen, maar de eindbeslissing is van een mens. Zo moet je ook naar game-ontwikkeling kijken. AI kan helpen, maar de creatieve kern blijft mensenwerk.\n\nAls Epic Games echt alles door AI laat doen, wordt die shooter een testcase. Werkt het, dan volgen er meer. Werkt het niet, dan is het een dure les. Ik gok op het laatste."
+  },
+  {
+   "heading": "De rekening komt bij de spelers",
+   "body": "Stel dat AI-games goedkoper te maken zijn. Worden ze dan ook goedkoper voor de consument? Nee. De prijs blijft gelijk of gaat omhoog. De marge gaat naar de uitgever. Spelers krijgen er niets voor terug.\n\nBovendien: als AI de kunst maakt, verdwijnen er banen. Concept artists, level designers, programmeurs. Dat is niet iets om te vieren. Het is een verschraling van de industrie. En uiteindelijk merkt de speler dat. Minder originele ideeën, meer formulewerk.\n\nIk hoop dat Nederlandse studio's dit zien als waarschuwing. Omarm AI, maar blijf investeren in mensen. Dat is de enige manier om games te maken die er echt toe doen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse game-ontwikkelaars is dit een wake-upcall. Gebruik AI om tijd te besparen, maar blijf investeren in vakmanschap. Spelers prikken door goedkope AI-content heen. En voor de portemonnee: een game die aanvoelt als een AI-generator verkoopt uiteindelijk minder.",
+ "faq": [
+  {
+   "q": "Wat betekent AI-first bij Epic Games?",
+   "a": "Het betekent dat Epic Games bij de ontwikkeling van games volledig inzet op AI. Handgeschreven code en door mensen gemaakte kunst worden vervangen door AI-gegenereerde content."
+  },
+  {
+   "q": "Worden games beter door AI?",
+   "a": "Niet automatisch. AI kan meer content sneller genereren, maar de kwaliteit en originaliteit blijven een punt van zorg. Vooral bij interfaces en tekst in beeld gaat het vaak mis."
+  }
+ ],
+ "lessons_used": [
+  "les sora-tekst-in-beeld"
+ ],
+ "slug": "epic-games-zet-alles-op-ai-de-rekening-komt-bij-spelers",
+ "kind": "column",
+ "date": "2026-10-13",
+ "published": "2026-10-13T00:53",
+ "sources": [
+  {
+   "name": "ChatGPT Help",
+   "title": "Epic Games kiest volgens Ars Technica voor AI bij games",
+   "url": "https://chatgpthelp.nl/nieuws/epic-games-kiest-volgens-ars-technica-voor-ai-bij-games/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "AI maakt vergunningklare bouwtekeningen in minuten",
+   "url": "https://chatgpthelp.nl/nieuws/ai-maakt-vergunningklare-bouwtekeningen-in-minuten/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Microsoft: VK kan AI-regulering het beste trekken",
+   "url": "https://chatgpthelp.nl/beleid/microsoft-vk-kan-ai-regulering-het-beste-trekken/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Honeyjar biedt AI voor pr en communicatie aan elk bedrijf",
+   "url": "https://chatgpthelp.nl/nieuws/honeyjar-biedt-ai-voor-pr-en-communicatie-aan-elk-bedrijf/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "AI concentratie onderzoek: 10 minuten al minder volhardend",
+   "url": "https://chatgpthelp.nl/nieuws/ai-concentratie-onderzoek-10-minuten-al-minder-volhardend/"
+  }
+ ],
+ "path": "/mening/epic-games-zet-alles-op-ai-de-rekening-komt-bij-spelers/",
+ "og": "/img/og/epic-games-zet-alles-op-ai-de-rekening-komt-bij-spelers.png",
+ "author": "Maxim"
+}
