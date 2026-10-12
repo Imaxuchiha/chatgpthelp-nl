@@ -1182,5 +1182,59 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-12T22:24:51",
+  "slug": "",
+  "title": "VisionQuest review: AI's zoeken hun menselijkheid",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-12T22:25:01",
+  "slug": "",
+  "title": "AI concentratie onderzoek: 10 minuten al minder volhardend",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-12T22:25:09",
+  "slug": "",
+  "title": "Meta lanceert Muse Wonder en Muse Wonder Full",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-12T22:25:20",
+  "slug": "",
+  "title": "Honeyjar biedt AI voor pr en communicatie aan elk bedrijf",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

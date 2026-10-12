@@ -1515,6 +1515,22 @@
   "7da8d43d2e": {
    "at": "2026-10-12T13:02:31.938425",
    "why": "ok"
+  },
+  "690cf5cccd": {
+   "at": "2026-10-12T22:24:37.583760",
+   "why": "ok"
+  },
+  "57e7577d4b": {
+   "at": "2026-10-12T22:25:37.583760",
+   "why": "ok"
+  },
+  "5b0bbc20b5": {
+   "at": "2026-10-12T22:26:37.583760",
+   "why": "poort"
+  },
+  "bdf59882f2": {
+   "at": "2026-10-12T22:26:37.583760",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1764,6 +1780,9 @@
   "Datacenter AI verzet: schrappen NDA's als oplossing",
   "Nikon Small World in Motion heeft nieuwe winnaar na AI-diskwalificatie",
   "AP zet stap in toezicht op AI met nieuwe directie TCA",
-  "AI tekst detectie: check zit er zelden naast, maar bewijs ontbreekt"
+  "AI tekst detectie: check zit er zelden naast, maar bewijs ontbreekt",
+  "VisionQuest review: AI's zoeken hun menselijkheid",
+  "AI concentratie onderzoek: 10 minuten al minder volhardend",
+  "Honeyjar biedt AI voor pr en communicatie aan elk bedrijf"
  ]
 }
