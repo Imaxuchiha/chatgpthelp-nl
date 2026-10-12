@@ -1,0 +1,70 @@
+{
+ "keyword": "chatgpt persbericht",
+ "seo_title": "ChatGPT persbericht: zo schrijf je er een die klopt",
+ "title": "ChatGPT persbericht: zo maak je er een die klopt",
+ "meta": "Met ChatGPT een persbericht schrijven dat journalisten serieus nemen. Stappen, voorbeeldprompt en de valkuilen in het Nederlands.",
+ "category": "uitleg",
+ "tags": [
+  "chatgpt",
+  "persbericht",
+  "pr",
+  "schrijven",
+  "communicatie"
+ ],
+ "intro": "Steeds meer Nederlandse organisaties gebruiken ChatGPT om een persbericht op te stellen. Dat gaat snel, maar een tekst die alleen door AI is gemaakt valt op. Met de juiste aanpak houd je zelf de regie over de inhoud.",
+ "takeaways": [
+  "ChatGPT levert een bruikbaar concept, geen kant-en-klaar persbericht.",
+  "Feiten, cijfers en citaten vul je zelf aan; de tool verzint ze anders.",
+  "Een vaste opbouw met kop, kern en contactgegevens blijft de norm.",
+  "Controleer altijd op Nederlands taalgebruik en nieuws waarde."
+ ],
+ "sections": [
+  {
+   "heading": "Wat een persbericht moet doen",
+   "body": "Een persbericht heeft één taak: een journalist snel laten zien waarom dit nieuws is. De eerste alinea bevat de kern. Wie doet wat, waarom is het nieuw en sinds wanneer.\n\nDaarna volgt achtergrond, dan een citaat van een betrokkene, dan praktische informatie. Houd het bij één onderwerp. Twee nieuwtjes in één bericht verzwakken elkaar.\n\nChatGPT kent die opbouw goed. De tool weet alleen niet wat jouw nieuws is. Die feiten komen van jou."
+  },
+  {
+   "heading": "Zo zet je ChatGPT in",
+   "body": "Begin met een briefing in plaats van een opdracht. Schrijf op wie de afzender is, wat er precies is gebeurd, wie het aangaat en welke cijfers kloppen. Voeg eventueel een eerder persbericht toe als voorbeeld van de toon.\n\nVraag daarna om een eerste opzet. Laat ChatGPT drie varianten van de kop maken. Kies er één en werk die samen uit.\n\nGebruik de tool ook om te schrappen. Vraag om een versie van maximaal één A4. Journalisten lezen liever een korte tekst dan een lang verhaal."
+  },
+  {
+   "heading": "Voorbeeldprompt",
+   "body": "Een prompt die meestal goed werkt:\n\n\"Je schrijft een Nederlands persbericht voor [organisatie]. Het nieuws: [beschrijf in twee zinnen]. Doelgroep: [bijvoorbeeld regionale media]. Kerncijfers: [noem ze exact]. Schrijf een kop van maximaal tien woorden, een eerste alinea met de kern, twee alinea's achtergrond en een citaat van [naam, functie]. Gebruik korte zinnen. Verzin geen feiten en geen cijfers. Sluit af met een blok met contactgegevens en plaatsaanduiding.\"\n\nVul de haken zelf in. Hoe concreter de invoer, hoe minder de tool erbij haalt."
+  },
+  {
+   "heading": "Wat je zelf moet doen",
+   "body": "Lees het concept hardop. Zinnen die niet lopen, herschrijf je. Streep woorden als vernieuwend en uniek door. Een journalist prikt daar meteen doorheen.\n\nControleer elke naam, functie en elk cijfer. AI vult graag gaten op met iets dat logisch klinkt. Dat is precies de fout die je niet wilt.\n\nZet er altijd een datum, plaats en contactpersoon in. Zonder die gegevens belandt het bericht onderaan de stapel."
+  },
+  {
+   "heading": "Valkuilen bij AI-teksten",
+   "body": "Herkenbare AI-teksten hebben lange zinnen, veel bijvoeglijke naamwoorden en een vage slotzin. Redacteuren zien dat patroon steeds vaker. Schrijf dus zelf de eerste en de laatste alinea.\n\nLet ook op herhaling. ChatGPT hergebruikt graag dezelfde woorden. Lees na of elke alinea iets nieuws toevoegt.\n\nVerstuur nooit een bericht dat je niet volledig hebt nagelopen. Jij bent verantwoordelijk voor wat er staat, niet de tool."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse pr-medewerkers en kleine bedrijven scheelt ChatGPT veel tijd bij het maken van een eerste versie. Let op de AVG als je persoonsgegevens van klanten of medewerkers in een prompt zet. Verwerk die gegevens alleen als daar een grondslag voor is, en liever helemaal niet.",
+ "faq": [
+  {
+   "q": "Mag je een persbericht laten schrijven door ChatGPT?",
+   "a": "Ja, dat mag. Je blijft zelf verantwoordelijk voor de inhoud. Controleer alle feiten en pas de tekst aan je eigen situatie aan."
+  },
+  {
+   "q": "Herkent een journalist een AI-persbericht?",
+   "a": "Vaak wel. Vooral aan lange zinnen, vage superlatieven en een ontbrekend concreet nieuwsfeit. Door zelf te herschrijven voorkom je dat."
+  },
+  {
+   "q": "Verzint ChatGPT cijfers in een persbericht?",
+   "a": "Soms wel. Geef daarom zelf de exacte cijfers mee en controleer achteraf of ze kloppen."
+  },
+  {
+   "q": "Hoe lang moet een persbericht zijn?",
+   "a": "Houd het bij één A4. De kern staat in de eerste alinea, de rest is achtergrond en contactinformatie."
+  }
+ ],
+ "slug": "chatgpt-persbericht-zo-maak-je-er-een-die-klopt",
+ "kind": "evergreen",
+ "date": "2026-10-12",
+ "published": "2026-10-12T13:02",
+ "sources": [],
+ "path": "/uitleg/chatgpt-persbericht-zo-maak-je-er-een-die-klopt/",
+ "og": "/img/og/chatgpt-persbericht-zo-maak-je-er-een-die-klopt.png",
+ "seed": "ChatGPT persbericht"
+}

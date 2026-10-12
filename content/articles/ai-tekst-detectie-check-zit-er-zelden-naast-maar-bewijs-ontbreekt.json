@@ -1,0 +1,67 @@
+{
+ "keyword": "ai tekst detectie",
+ "seo_title": "AI tekst detectie: check zit er zelden naast",
+ "title": "AI tekst detectie: check zit er zelden naast, maar bewijs ontbreekt",
+ "meta": "AI tekst detectie werkt vaak goed, meldt NU.nl. Toch waarschuwen deskundigen voor conclusies in rechtszaken en op school. Lees wat dit betekent.",
+ "category": "nieuws",
+ "tags": [
+  "ai detectie",
+  "tekstbeoordeling",
+  "rechtszaken",
+  "onderwijs",
+  "privacy"
+ ],
+ "intro": "Detectietools die bepalen of een tekst door een mens of door AI is geschreven, zitten er zelden naast. Dat meldt NU.nl Tech. Deskundigen adviseren wel om niet te snel conclusies te trekken, zeker niet in rechtszaken.",
+ "takeaways": [
+  "Detectietools herkennen AI-teksten vaak correct, blijkt uit onderzoek waar NU.nl over schrijft.",
+  "In rechtszaken is er nog geen bewijs dat zulke tools betrouwbaar genoeg zijn als bewijsmiddel.",
+  "Deskundigen adviseren om uitkomsten altijd door een mens te laten beoordelen.",
+  "De tools worden gebruikt bij tweets van politici en bij schoolopdrachten."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de detectietools wel en niet kunnen",
+   "body": "Of het om een tweet van premier Rob Jetten gaat of om een schoolopdracht: detectietools kunnen vaak achterhalen of een tekst mensenwerk is of door AI is gemaakt. Ze werken in de praktijk goed, schrijft NU.nl Tech. Toch kleeft er een groot voorbehoud aan die uitkomsten.\n\nDeskundigen zeggen dat je niet te snel conclusies moet verbinden aan wat zo'n tool aangeeft. Een tool geeft een inschatting, geen hard bewijs. In rechtszaken is er volgens de bron nog geen bewijs dat de techniek betrouwbaar genoeg is om iemand op te veroordelen."
+  },
+  {
+   "heading": "Rechtszaken en de bewijsvraag",
+   "body": "Rechters krijgen steeds vaker te maken met vragen over AI-teksten. De detectietools zouden daarbij kunnen helpen, maar de bron meldt dat er geen bewijs is dat ze in de rechtszaal standhouden. Dat betekent niet dat de tools nutteloos zijn. Ze kunnen een signaal geven dat verder onderzoek nodig maakt.\n\nVoor een veroordeling of sanctie is meer nodig dan een tooluitslag. Denk aan aanvullend bewijs, zoals metadata of getuigenverklaringen. Zonder dat blijft het bij een vermoeden."
+  },
+  {
+   "heading": "Onderwijs en sociale media",
+   "body": "Scholen gebruiken de tools om te controleren of leerlingen hun werk zelf hebben geschreven. Ook bij berichten op sociale media, zoals tweets van politici, worden ze ingezet. De uitkomst kan verstrekkende gevolgen hebben voor iemands reputatie.\n\nDat maakt zorgvuldigheid belangrijk. Een onterechte beschuldiging is lastig terug te draaien. Deskundigen pleiten daarom voor een menselijke blik naast de tool."
+  },
+  {
+   "heading": "Hoe betrouwbaar is de techniek echt",
+   "body": "De tools zijn de afgelopen jaren beter geworden. Ze herkennen patronen in woordgebruik, zinsbouw en ritme. Toch blijft er ruimte voor fouten, vooral bij korte teksten of teksten die zijn bewerkt.\n\nEen AI-tekst kan door een mens worden herschreven, waardoor de tool minder zeker is. Andersom kan een menselijke tekst op AI lijken. De bron geeft geen exacte foutmarge, dus hoe vaak het precies misgaat, is niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders betekent dit dat een AI-check op school of op het werk niet automatisch de waarheid is. Scholen en werkgevers mogen een tooluitslag gebruiken als signaal, maar moeten een mens laten meekijken voordat er consequenties aan worden gehangen. In rechtszaken in Nederland geldt dat een tool alleen niet genoeg is. Wie beschuldigd wordt, kan vragen om aanvullend bewijs. Het advies blijft: gebruik de techniek als hulpmiddel, niet als rechter.",
+ "faq": [
+  {
+   "q": "Kunnen AI-detectietools met zekerheid zeggen of een tekst door AI is geschreven?",
+   "a": "Nee. Ze geven een inschatting en zitten er vaak dichtbij, maar er is geen garantie. Deskundigen adviseren om altijd een mens te laten meekijken."
+  },
+  {
+   "q": "Zijn AI-detectietools bruikbaar als bewijs in een rechtszaak?",
+   "a": "Volgens NU.nl is daar nog geen bewijs voor. Een tooluitslag alleen is niet genoeg voor een veroordeling of sanctie."
+  },
+  {
+   "q": "Wat kun je doen als je onterecht wordt beschuldigd van AI-gebruik?",
+   "a": "Vraag om aanvullend bewijs en om een menselijke beoordeling. Bewaar je tussenversies en metadata, zodat je kunt laten zien hoe je tekst tot stand kwam."
+  }
+ ],
+ "slug": "ai-tekst-detectie-check-zit-er-zelden-naast-maar-bewijs-ontbreekt",
+ "kind": "news",
+ "date": "2026-10-12",
+ "published": "2026-10-12T13:02",
+ "sources": [
+  {
+   "name": "NU.nl Tech",
+   "title": "AI-check zit er zelden naast bij tekstbeoordeling: 'Geen bewijs in rechtszaken'",
+   "url": "https://www.nu.nl/tech/6412542/ai-check-zit-er-zelden-naast-bij-tekstbeoordeling-geen-bewijs-in-rechtszaken.html"
+  }
+ ],
+ "path": "/nieuws/ai-tekst-detectie-check-zit-er-zelden-naast-maar-bewijs-ontbreekt/",
+ "og": "/img/og/ai-tekst-detectie-check-zit-er-zelden-naast-maar-bewijs-ontbreekt.png"
+}

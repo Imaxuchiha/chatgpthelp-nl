@@ -1511,6 +1511,10 @@
   "9d8fa2c66b": {
    "at": "2026-10-11T22:13:26.169480",
    "why": "ok"
+  },
+  "7da8d43d2e": {
+   "at": "2026-10-12T13:02:31.938425",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1759,6 +1763,7 @@
   "Lokale AI draaien: modellen op je eigen computer",
   "Datacenter AI verzet: schrappen NDA's als oplossing",
   "Nikon Small World in Motion heeft nieuwe winnaar na AI-diskwalificatie",
-  "AP zet stap in toezicht op AI met nieuwe directie TCA"
+  "AP zet stap in toezicht op AI met nieuwe directie TCA",
+  "AI tekst detectie: check zit er zelden naast, maar bewijs ontbreekt"
  ]
 }

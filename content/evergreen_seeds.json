@@ -1,5 +1,11 @@
 [
  {
+  "topic": "ChatGPT persbericht",
+  "intent": "zoekterm uit Search Console: beantwoord precies deze zoekvraag",
+  "audience": "Nederlandse zoekers",
+  "from_gsc": true
+ },
+ {
   "topic": "ChatGPT in het Nederlands gebruiken: tips voor betere antwoorden",
   "intent": "hoe doe ik",
   "audience": "beginners",

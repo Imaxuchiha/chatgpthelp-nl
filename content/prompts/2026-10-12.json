@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: abonnementen opzeggen na prijsverhoging",
+ "situation": "Je krijgt bericht dat een abonnement duurder wordt. Met deze prompt zet je snel op een rij wat je wilt opzeggen en hoe je dat netjes doet.",
+ "prompt": "Je bent een consumentenadviseur in Nederland. Ik heb een overzicht van mijn abonnementen. Hier is de lijst: [LIJST MET ABONNEMENTEN, PRIJZEN EN EINDDATUM VAN HET CONTRACT]. Mijn belangrijkste eisen zijn: [EISEN, BIJV. MAXIMAAL 40 EURO PER MAAND, GEEN AUTOMATISCHE VERLENGING]. Ik wil graag een prijsverhoging van [BEDRAG OF PERCENTAGE] doorspelen. Bekijk per abonnement of opzeggen slim is, gezien wat ik ervoor gebruik: [GEBRUIK PER ABONNEMENT]. Geef een tabel met: abonnement, maandprijs, opzegtermijn, uiterste opzegdatum en advies (houden, opzeggen of onderhandelen). Voeg daarna een korte opzegbrief per abonnement toe, in het Nederlands, met mijn naam [NAAM] en klantnummer [KLANTNUMMER]. Noem bij twijfel wat ik nog moet checken in mijn contract.",
+ "tip": "Vul ook in hoelang je het abonnement al hebt; bij een oude verzekering of telefooncontract kan een overstap meer opleveren dan opzeggen.",
+ "tags": [
+  "abonnementen",
+  "geld besparen",
+  "opzeggen",
+  "consument"
+ ],
+ "date": "2026-10-12",
+ "slug": "prompt-abonnementen-opzeggen-na-prijsverhoging",
+ "path": "/prompts/2026-10-12-prompt-abonnementen-opzeggen-na-prijsverhoging/"
+}

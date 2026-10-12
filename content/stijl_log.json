@@ -1145,5 +1145,42 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-12T13:02:48",
+  "slug": "",
+  "title": "AI tekst detectie: check zit er zelden naast, maar bewijs ontbreekt",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-12T13:03:10",
+  "slug": "",
+  "title": "ChatGPT persbericht: zo maak je er een die klopt",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S4",
+   "S6"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-12T13:03:15",
+  "slug": "",
+  "title": "ChatGPT persbericht: zo maak je er een die klopt",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
