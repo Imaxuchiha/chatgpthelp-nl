@@ -1563,6 +1563,26 @@
   "f35a073890": {
    "at": "2026-10-13T12:47:33.201889",
    "why": "ok"
+  },
+  "316153953a": {
+   "at": "2026-10-13T20:28:51.900858",
+   "why": "poort"
+  },
+  "66cb1e6884": {
+   "at": "2026-10-13T20:28:51.900858",
+   "why": "poort"
+  },
+  "d59d959ca7": {
+   "at": "2026-10-13T20:28:51.900858",
+   "why": "ok"
+  },
+  "30b75e6351": {
+   "at": "2026-10-13T20:29:51.900858",
+   "why": "ok"
+  },
+  "c9abe9b08c": {
+   "at": "2026-10-13T20:30:51.900858",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1821,6 +1841,9 @@
   "Epic Games kiest volgens Ars Technica voor AI bij games",
   "AI-foto's op Funda maken huizen onherkenbaar bij bezichtiging",
   "Epic Games maakt games voortaan AI-first",
-  "Microsoft Maia 300 moet AI-cloud goedkoper maken"
+  "Microsoft Maia 300 moet AI-cloud goedkoper maken",
+  "AI beveiliging bedrijven: Pluto Security haalt 42 miljoen dollar op",
+  "Character AI verkoopt zichzelf onder toezicht van de rechter",
+  "Facebook laat je algoritme aanpassen met AI-functie"
  ]
 }

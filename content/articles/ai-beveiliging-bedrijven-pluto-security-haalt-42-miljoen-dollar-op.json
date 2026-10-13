@@ -1,0 +1,68 @@
+{
+ "keyword": "ai beveiliging bedrijven",
+ "seo_title": "AI beveiliging bedrijven: Pluto Security haalt 42 miljoen op",
+ "title": "AI beveiliging bedrijven: Pluto Security haalt 42 miljoen dollar op",
+ "meta": "Pluto Security haalt 42 miljoen dollar op. AI-tools op het werk zorgen voor nieuwe lekken. Wat betekent dit voor Nederlandse bedrijven en hun data?",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "beveiliging",
+  "cybersecurity",
+  "bedrijven",
+  "openai"
+ ],
+ "intro": "Medewerkers gebruiken AI-tools vaker dan de IT-afdeling weet. Dat levert volgens TechCrunch nieuwe gaten op in bedrijfssystemen. Het Israëlische bedrijf Pluto Security haalt 42 miljoen dollar op om die gaten te dichten.",
+ "takeaways": [
+  "Pluto Security haalt 42 miljoen dollar op voor AI-beveiliging.",
+  "Het risico komt vooral door onverwacht gebruik van AI-tools door medewerkers.",
+  "Beveiligingsteams weten vaak niet welke AI-tools op het werk worden gebruikt.",
+  "Het is nog niet bekend of Pluto Security ook in Nederland actief wordt."
+ ],
+ "sections": [
+  {
+   "heading": "Geld voor een groeiend probleem",
+   "body": "Pluto Security heeft 42 miljoen dollar opgehaald. Dat meldt TechCrunch. Het bedrijf richt zich op beveiliging van bedrijfssystemen nu AI-tools daar vaker binnenkomen.\n\nDe kern van het probleem is simpel. Geef iedereen in een bedrijf toegang tot AI en mensen gaan die tools anders gebruiken dan de bedoeling is. TechCrunch schrijft dat dit zorgen oplevert over nieuwe gaten in systemen.\n\nHoe groot die gaten precies zijn, maakt de bron niet duidelijk. Er zijn nog geen cijfers over het aantal incidenten."
+  },
+  {
+   "heading": "Waarom dit lastig is voor beveiligingsteams",
+   "body": "Beveiligingsteams keken vroeger naar bekende programma's op bekende computers. AI verandert dat beeld. Medewerkers plakken werkteksten in een chatbot, laten een assistent e-mails opstellen of koppelen een tool aan interne data.\n\nZulke acties zijn vaak niet kwaad bedoeld. Toch kan gevoelige informatie zo buiten het bedrijf terechtkomen. De bron noemt dit een groeiende zorg, zonder specifieke voorbeelden te geven.\n\nEen deel van de angst gaat over wat nog moet komen. TechCrunch schrijft dat bedrijven vrezen voor gaten die er nu al zijn of er snel zullen zijn."
+  },
+  {
+   "heading": "Wat Pluto Security doet",
+   "body": "Pluto Security is een beveiligingsbedrijf. Het richt zich op de risico's die AI-gebruik binnen organisaties met zich meebrengt. Met het opgehaalde geld kan het bedrijf zijn product verder ontwikkelen.\n\nTechCrunch geeft geen details over de technologie of over klanten. Ook is niet bekend wie het geld heeft gegeven. Het bedrag van 42 miljoen dollar is het enige harde cijfer in het bericht."
+  },
+  {
+   "heading": "AI op het werk in Nederland",
+   "body": "Nederlandse bedrijven gebruiken AI steeds vaker. Denk aan chatbots voor klantvragen, tools die teksten samenvatten of assistenten die code schrijven. Vaak gebeurt dat zonder dat de IT-afdeling het weet.\n\nDat heet schaduw-AI. Een medewerker opent gewoon een website en plakt er werkbestanden in. De organisatie heeft daar geen zicht op.\n\nVoor bedrijven met klantdata of persoonsgegevens is dat extra gevoelig. Onder de AVG moet je kunnen uitleggen waar data naartoe gaat. Gebeurt dat via een AI-tool die niemand kent, dan wordt dat lastig."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse organisaties betekent dit dat een AI-beleid alleen op papier niet genoeg is. Je moet weten welke tools medewerkers daadwerkelijk gebruiken. De Autoriteit Persoonsgegevens kan bij een datalek vragen stellen over hoe persoonsgegevens zijn verwerkt. Of Pluto Security in Nederland klanten krijgt, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is schaduw-AI?",
+   "a": "Schaduw-AI is het gebruik van AI-tools door medewerkers zonder medeweten van de IT-afdeling. Daardoor heeft het bedrijf geen zicht op welke data naar buiten gaat."
+  },
+  {
+   "q": "Hoeveel geld haalt Pluto Security op?",
+   "a": "Pluto Security haalt 42 miljoen dollar op, meldt TechCrunch. Het bedrijf richt zich op beveiliging rond AI-gebruik in bedrijven."
+  },
+  {
+   "q": "Moet ik me als Nederlandse werkgever zorgen maken?",
+   "a": "Als medewerkers AI-tools gebruiken met vertrouwelijke of persoonsgegevens, loop je risico. Zorg voor duidelijke afspraken en controleer welke tools in gebruik zijn."
+  }
+ ],
+ "slug": "ai-beveiliging-bedrijven-pluto-security-haalt-42-miljoen-dollar-op",
+ "kind": "news",
+ "date": "2026-10-13",
+ "published": "2026-10-13T20:28",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+   "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+  }
+ ],
+ "path": "/nieuws/ai-beveiliging-bedrijven-pluto-security-haalt-42-miljoen-dollar-op/",
+ "og": "/img/og/ai-beveiliging-bedrijven-pluto-security-haalt-42-miljoen-dollar-op.png",
+ "take": "Medewerkers die zelf AI-tools aanzetten, dat is een deur die je als bedrijf zelf openzet. Ik laat AI het werk doen, terwijl de knoppen waar geld en data aan hangen bij een mens blijven. Bij een klant met zo'n 5.000 sessies per maand duurt het ongeveer 32 maanden om 10% verbetering in conversieratio statistisch te bewijzen, dus dicht eerst de grote lekken."
+}

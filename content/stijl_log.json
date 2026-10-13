@@ -1354,5 +1354,59 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T20:29:05",
+  "slug": "",
+  "title": "Gemini 4 Argon: Google lanceert nieuw AI-model voor lastige problemen",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T20:29:14",
+  "slug": "",
+  "title": "AI beveiliging bedrijven: Pluto Security haalt 42 miljoen dollar op",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T20:29:24",
+  "slug": "",
+  "title": "Character AI verkoopt zichzelf onder toezicht van de rechter",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S4",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T20:29:33",
+  "slug": "",
+  "title": "Facebook laat je algoritme aanpassen met AI-functie",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
