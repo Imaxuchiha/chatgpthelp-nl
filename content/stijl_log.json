@@ -1300,5 +1300,59 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T12:45:46",
+  "slug": "",
+  "title": "AI-foto's op Funda maken huizen onherkenbaar bij bezichtiging",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T12:45:53",
+  "slug": "",
+  "title": "Meta Muse Wonder: nieuw AI-model moet opboksen tegen OpenAI en Google",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T12:46:01",
+  "slug": "",
+  "title": "Epic Games maakt games voortaan AI-first",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T12:46:08",
+  "slug": "",
+  "title": "Microsoft Maia 300 moet AI-cloud goedkoper maken",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

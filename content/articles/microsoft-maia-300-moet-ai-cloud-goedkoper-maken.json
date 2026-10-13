@@ -1,0 +1,63 @@
+{
+ "keyword": "microsoft maia 300",
+ "seo_title": "Microsoft Maia 300: minder afhankelijk van Nvidia",
+ "title": "Microsoft Maia 300 moet AI-cloud goedkoper maken",
+ "meta": "Microsoft kondigt Maia 300 aan, zijn derde AI-chip. De chip moet AI-werk in de cloud efficiënter maken en de afhankelijkheid van Nvidia verkleinen.",
+ "category": "nieuws",
+ "tags": [
+  "microsoft",
+  "maia 300",
+  "ai-chips",
+  "nvidia",
+  "cloud"
+ ],
+ "intro": "Microsoft heeft zijn derde generatie eigen AI-chip aangekondigd: Maia 300. De chip moet het belangrijkste systeem worden voor AI-inference binnen Microsofts producten en diensten. Dat meldt The Verge. Microsoft wil zo minder afhankelijk worden van de GPU's van Nvidia.",
+ "takeaways": [
+  "Maia 300 is de derde generatie AI-chip van Microsoft.",
+  "De chip moet het primaire AI-inference systeem van Microsoft worden.",
+  "Maia 300 gaat beter om met redeneermodellen en agent-taken.",
+  "Microsoft wil met eigen chips de kosten van AI in de cloud drukken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Microsoft met Maia 300 wil",
+   "body": "Microsoft presenteert Maia 300 als het primaire systeem voor AI-inference. Inference is het draaien van een getraind AI-model, bijvoorbeeld wanneer je ChatGPT iets vraagt. De chip is volgens The Verge bedoeld voor Microsofts eigen producten en diensten.\n\nNaast betere kosten en efficiëntie moet Maia 300 ook de nieuwste redeneermodellen aankunnen. Dat zijn modellen die stap voor stap nadenken voordat ze antwoorden. Ook agent-taken, waarbij AI zelfstandig meerdere stappen uitvoert, moeten soepeler verlopen."
+  },
+  {
+   "heading": "Minder afhankelijk van Nvidia",
+   "body": "Microsoft koopt al jaren grote hoeveelheden GPU's van Nvidia voor zijn datacenters. Met eigen chips wordt die afhankelijkheid kleiner. The Verge schrijft dat Maia 300 Microsoft minder reliant maakt op Nvidia's GPU's.\n\nDat is geen luxe. De vraag naar AI-rekenkracht blijft groot en de prijzen van GPU's zijn hoog. Een eigen chip geeft Microsoft meer controle over kosten en levering. Of Maia 300 echt goedkoper uitpakt, maakt Microsoft nog niet bekend."
+  },
+  {
+   "heading": "Wat er nog onduidelijk is",
+   "body": "The Verge noemt geen prijs, geen specificaties en geen exacte lanceerdatum voor Maia 300. Ook is niet duidelijk welke Microsoft-diensten als eerste overstappen. De aankondiging gaat vooral over de rol die de chip moet krijgen.\n\nVoor ontwikkelaars verandert er voorlopig weinig zichtbaars. Zij werken met Azure en Microsofts AI-diensten, niet direct met de onderliggende chip. De winst zit vooral in de kosten en snelheid achter de schermen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die Azure of Microsoft 365 gebruiken, kan Maia 300 op termijn de prijs van AI-functies drukken. Microsoft rekent in euro's en Nederlandse klanten betalen mee aan de cloudcapaciteit achter Copilot en andere diensten. Goedkopere inference betekent ruimte voor lagere tarieven of meer AI-gebruik binnen hetzelfde budget. Zeker voor het mkb, dat vaak op prijs let, kan dat uitmaken. Een concreet prijsverschil of een datum voor Nederland is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is Maia 300?",
+   "a": "Maia 300 is de derde generatie AI-chip van Microsoft. De chip is bedoeld als het belangrijkste systeem voor AI-inference in Microsofts producten en diensten."
+  },
+  {
+   "q": "Waarom maakt Microsoft eigen AI-chips?",
+   "a": "Met eigen chips wordt Microsoft minder afhankelijk van Nvidia's GPU's. Ook hoopt het bedrijf de kosten en efficiëntie van AI in de cloud te verbeteren."
+  },
+  {
+   "q": "Merken Nederlandse gebruikers hier iets van?",
+   "a": "Op termijn kan het de prijs van AI-functies in Azure en Microsoft 365 beïnvloeden. Concrete prijzen of een datum voor Nederland zijn nog niet bekend."
+  }
+ ],
+ "slug": "microsoft-maia-300-moet-ai-cloud-goedkoper-maken",
+ "kind": "news",
+ "date": "2026-10-13",
+ "published": "2026-10-13T12:47",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+   "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
+  }
+ ],
+ "path": "/nieuws/microsoft-maia-300-moet-ai-cloud-goedkoper-maken/",
+ "og": "/img/og/microsoft-maia-300-moet-ai-cloud-goedkoper-maken.png"
+}

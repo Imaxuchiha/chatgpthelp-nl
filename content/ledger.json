@@ -1543,6 +1543,26 @@
   "1950a6eafc": {
    "at": "2026-10-13T00:55:20.093976",
    "why": "ok"
+  },
+  "cf5f03bab4": {
+   "at": "2026-10-13T12:45:33.201889",
+   "why": "ok"
+  },
+  "72b7120c21": {
+   "at": "2026-10-13T12:46:33.201889",
+   "why": "poort"
+  },
+  "f640466195": {
+   "at": "2026-10-13T12:46:33.201889",
+   "why": "ok"
+  },
+  "17822a6c90": {
+   "at": "2026-10-13T12:47:33.201889",
+   "why": "high-risk"
+  },
+  "f35a073890": {
+   "at": "2026-10-13T12:47:33.201889",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1798,6 +1818,9 @@
   "Honeyjar biedt AI voor pr en communicatie aan elk bedrijf",
   "Microsoft: VK kan AI-regulering het beste trekken",
   "AI maakt vergunningklare bouwtekeningen in minuten",
-  "Epic Games kiest volgens Ars Technica voor AI bij games"
+  "Epic Games kiest volgens Ars Technica voor AI bij games",
+  "AI-foto's op Funda maken huizen onherkenbaar bij bezichtiging",
+  "Epic Games maakt games voortaan AI-first",
+  "Microsoft Maia 300 moet AI-cloud goedkoper maken"
  ]
 }
