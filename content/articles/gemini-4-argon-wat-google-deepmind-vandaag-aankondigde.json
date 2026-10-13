@@ -1,0 +1,73 @@
+{
+ "keyword": "gemini 4 argon",
+ "seo_title": "Gemini 4 Argon: Google DeepMind onthult nieuw model",
+ "title": "Gemini 4 Argon: wat Google DeepMind vandaag aankondigde",
+ "meta": "Google DeepMind publiceert vandaag twee blogs over Gemini 4 Argon: veilig ontwikkelen en inzet voor robots. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "gemini",
+  "google deepmind",
+  "ai",
+  "robots",
+  "veiligheid"
+ ],
+ "intro": "Google DeepMind heeft vandaag twee blogposts gepubliceerd over Gemini 4 Argon. De ene gaat over verantwoord en veilig ontwikkelen, de andere over inzet voor robots. Veel details staan nog niet in de bronnen.",
+ "takeaways": [
+  "Google DeepMind noemt het model Gemini 4 Argon.",
+  "Er zijn twee aparte blogs: veilig ontwikkelen en robotics.",
+  "De bronnen geven geen releasedatum of prijs.",
+  "Nederlandse gebruikers merken voorlopig weinig concreets."
+ ],
+ "sections": [
+  {
+   "heading": "Twee aankondigingen op één dag",
+   "body": "Google DeepMind plaatste vandaag twee berichten over Gemini 4 Argon. Het eerste bericht heet Developing Gemini 4 Argon responsibly and safely. Het tweede bericht heet Gemini 4 Argon for Robotics.\n\nUit de titels blijkt dat het bedrijf zowel aan veiligheid als aan robotica werkt. De bronnen bevatten geen samenvatting, dus meer inhoud is nog niet bekend. Wat het model precies kan, staat er niet in."
+  },
+  {
+   "heading": "Veilig ontwikkelen als apart onderwerp",
+   "body": "Het eerste blogbericht koppelt de naam Argon aan verantwoord en veilig bouwen. Google DeepMind besteedt dus aandacht aan veiligheid tijdens de ontwikkeling. Dat past bij eerdere berichten van het bedrijf over AI-veiligheid.\n\nHoe die veiligheid eruitziet, is niet te lezen in de bron. Denk aan tests voor het uitrollen, regels voor gebruik en onderzoek naar risico's. Concrete maatregelen noemt de bron niet."
+  },
+  {
+   "heading": "Gemini 4 Argon voor robots",
+   "body": "Het tweede bericht richt zich op robotics. Dat suggereert dat het model taken van robots kan aansturen of ondersteunen. De bron geeft geen voorbeelden van machines of taken.\n\nRobotica is een groeigebied voor AI-bedrijven. Modellen die taal en beelden combineren, kunnen robots helpen om instructies te begrijpen. Of Gemini 4 Argon dat doet, blijkt niet uit de aangeleverde tekst."
+  },
+  {
+   "heading": "Wat ontbreekt in de bronnen",
+   "body": "De twee blogs noemen geen releasedatum, prijs of beschikbaarheid. Er staat ook niet of het model in de Europese Unie te gebruiken is. Voor Nederland is nog geen concreet gevolg aan te wijzen.\n\nWie meer wil weten, moet wachten op aanvullende publicaties van Google DeepMind. De redactie kan geen cijfers of citaten toevoegen die niet in de bron staan."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en gebruikers verandert er vandaag weinig. Gemini 4 Argon is aangekondigd in twee blogs, zonder prijs in euro's of Europese lanceerdatum. Zodra Google DeepMind meer deelt, is de vraag of het model in de EU beschikbaar komt en onder welke AI-regels het valt. Tot die tijd blijft het bij een aankondiging.",
+ "faq": [
+  {
+   "q": "Wat is Gemini 4 Argon?",
+   "a": "Gemini 4 Argon is een model van Google DeepMind. Het bedrijf wijdde vandaag twee blogs aan veilig ontwikkelen en aan robotica."
+  },
+  {
+   "q": "Wanneer komt Gemini 4 Argon uit?",
+   "a": "Dat is niet bekend. De bronnen noemen geen releasedatum of prijs."
+  },
+  {
+   "q": "Is Gemini 4 Argon in Nederland te gebruiken?",
+   "a": "Daar zegt de aankondiging niets over. Beschikbaarheid in Nederland of de EU is nog niet gemeld."
+  }
+ ],
+ "slug": "gemini-4-argon-wat-google-deepmind-vandaag-aankondigde",
+ "kind": "news",
+ "date": "2026-10-13",
+ "published": "2026-10-13T23:10",
+ "sources": [
+  {
+   "name": "Google DeepMind",
+   "title": "Developing Gemini 4 Argon responsibly and safely",
+   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
+  },
+  {
+   "name": "Google DeepMind",
+   "title": "Gemini 4 Argon for Robotics",
+   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+  }
+ ],
+ "path": "/nieuws/gemini-4-argon-wat-google-deepmind-vandaag-aankondigde/",
+ "og": "/img/og/gemini-4-argon-wat-google-deepmind-vandaag-aankondigde.png",
+ "take": "Twee blogs over veiligheid en robots, en verder vooral veel beloftes. Ik geloof pas in Gemini 4 Argon als ik hem op echt werk zie draaien, want een demo is nog geen product. Tot die tijd blijven mijn analyses gewoon op Claude Code lopen."
+}

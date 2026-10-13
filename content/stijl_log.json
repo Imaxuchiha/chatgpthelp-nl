@@ -1408,5 +1408,66 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T23:10:59",
+  "slug": "",
+  "title": "Gemini 4 Argon: wat Google DeepMind vandaag aankondigde",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T23:11:07",
+  "slug": "",
+  "title": "AI-foto's op Funda maken huizen onherkenbaar bij bezichtiging",
+  "kind": "news",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T23:11:14",
+  "slug": "",
+  "title": "Higgsfield maakt AI-video's van meer dan 10 minuten",
+  "kind": "news",
+  "rood": [],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T23:11:26",
+  "slug": "",
+  "title": "OpenAI apple rechtszaak: rechter beveelt vrijgave van sollicitatiegegevens",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-13T23:11:35",
+  "slug": "",
+  "title": "Shopify opent catalogus voor meer AI-agents die zelf kopen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

@@ -1583,6 +1583,34 @@
   "c9abe9b08c": {
    "at": "2026-10-13T20:30:51.900858",
    "why": "ok"
+  },
+  "25432b6b09": {
+   "at": "2026-10-13T23:10:47.278584",
+   "why": "ok"
+  },
+  "8b0463614a": {
+   "at": "2026-10-13T23:10:47.278584",
+   "why": "ok"
+  },
+  "2157f18b38": {
+   "at": "2026-10-13T23:11:47.278584",
+   "why": "poort"
+  },
+  "ffc748cb8d": {
+   "at": "2026-10-13T23:11:47.278584",
+   "why": "poort"
+  },
+  "082a179fcd": {
+   "at": "2026-10-13T23:11:47.278584",
+   "why": "high-risk"
+  },
+  "70093601d1": {
+   "at": "2026-10-13T23:11:47.278584",
+   "why": "ok"
+  },
+  "c839b9474f": {
+   "at": "2026-10-13T23:12:47.278584",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1844,6 +1872,9 @@
   "Microsoft Maia 300 moet AI-cloud goedkoper maken",
   "AI beveiliging bedrijven: Pluto Security haalt 42 miljoen dollar op",
   "Character AI verkoopt zichzelf onder toezicht van de rechter",
-  "Facebook laat je algoritme aanpassen met AI-functie"
+  "Facebook laat je algoritme aanpassen met AI-functie",
+  "Gemini 4 Argon: wat Google DeepMind vandaag aankondigde",
+  "OpenAI apple rechtszaak: rechter beveelt vrijgave van sollicitatiegegevens",
+  "Shopify opent catalogus voor meer AI-agents die zelf kopen"
  ]
 }

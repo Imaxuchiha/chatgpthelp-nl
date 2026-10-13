@@ -1,0 +1,67 @@
+{
+ "keyword": "shopify ai agent",
+ "seo_title": "Shopify ai agent: meer agents mogen kopen",
+ "title": "Shopify opent catalogus voor meer AI-agents die zelf kopen",
+ "meta": "Shopify geeft meer AI-agents toegang tot ruim een miljard producten. Wat betekent dat voor kopers en webshops in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "shopify",
+  "ai-agents",
+  "e-commerce",
+  "agentic commerce",
+  "openai"
+ ],
+ "intro": "Shopify laat shoppers hun AI-agent instellen om producten namens hen te kopen. Meer agents krijgen toegang tot de catalogus van ruim een miljard listings. Het bedrijf meldde dit dinsdag, volgens The Verge. Daarmee zet Shopify een volgende stap in wat het zelf agentic commerce noemt.",
+ "takeaways": [
+  "Shopify geeft meer AI-agents toegang tot zijn catalogus van meer dan een miljard listings.",
+  "Shoppers kunnen hun agent instellen om aankopen namens hen te doen.",
+  "Het gaat om een uitbreiding van eerdere plannen rond agentic commerce.",
+  "Welke agents precies meedoen en wanneer is nog niet volledig bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Shopify precies aankondigde",
+   "body": "Shopify maakte dinsdag bekend dat shoppers hun AI-agent kunnen instellen om producten voor hen te kopen. Meer agents krijgen daardoor toegang tot de listings in de catalogus. Dat meldt The Verge.\n\nDe catalogus bevat volgens de bron meer dan een miljard listings. Het nieuws betekent een uitbreiding van de agentic commerce-ambities van het bedrijf. Eerder kregen al sommige agents toegang tot Shopify-gegevens.\n\nHet bedrijf noemt het zelf een volgende stap. Details over welke agents precies aansluiten, houdt Shopify nog grotendeels voor zich. De aankondiging komt op dinsdag, zonder volledige lijst van partners."
+  },
+  {
+   "heading": "Hoe agentic commerce werkt",
+   "body": "Bij agentic commerce zoekt een AI-agent producten voor je uit en rekent ze af. Je stelt vooraf regels in, bijvoorbeeld een maximumbedrag of een voorkeur voor een merk. De agent handelt daarna binnen die grenzen.\n\nVoor shoppers lijkt het op een persoonlijke assistent die zelf de winkel in gaat. De agent bekijkt listings, vergelijkt opties en plaatst een bestelling. Betalen en verzenden lopen via de bestaande kanalen van de webshop.\n\nShopify is niet het enige bedrijf dat deze kant op beweegt. Grote platforms en AI-bedrijven testen vergelijkbare manieren van kopen. De vraag is vooral hoe ver de controle van de shopper reikt."
+  },
+  {
+   "heading": "Wat dit betekent voor webshops",
+   "body": "Voor webshops op Shopify verandert de vindbaarheid. Hun producten kunnen vaker opduiken in een agent die namens een klant zoekt. Dat kan extra verkopen opleveren, maar ook meer concurrentie tussen vergelijkbare aanbieders.\n\nProductgegevens worden belangrijker. Een agent leest titels, specificaties en voorraad anders dan een mens. Onduidelijke of onvolledige informatie kan ertoe leiden dat een agent het product overslaat.\n\nOok de rol van de winkelier verschuift. De klant ziet mogelijk minder van de winkel zelf en meer van wat de agent terugkoppelt. Dat raakt merken die vooral op hun eigen uitstraling leunen."
+  },
+  {
+   "heading": "Beperkingen en open vragen",
+   "body": "Hoeveel agents precies toegang krijgen, is nog niet duidelijk. The Verge noemt geen volledige lijst. Ook is niet bekend welke productcategorieën als eerste meedoen.\n\nBeveiliging blijft een aandachtspunt. Een agent die namens jou koopt, moet goed omgaan met betaalgegevens en met fouten. Wie draait op voor een verkeerde bestelling, is nog geen uitgemaakte zaak.\n\nShopify heeft geen Europese lanceerdatum genoemd. Voor shoppers in Nederland is het daarom nog afwachten wanneer en in welke vorm dit hier werkt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse webshops die op Shopify draaien, kan dit op termijn meer verkeer via AI-agents betekenen. Je productdata moeten dan kloppen, want een agent leest die gegevens automatisch. Of Shopify dit in Nederland en de rest van de EU uitrolt, is nog niet bekend. Europese regels rond consumentenbescherming en betalingen kunnen de invoering hier vertragen. Tot die tijd blijft het vooral een ontwikkeling om te volgen, niet iets waar je vandaag al op kunt bouwen.",
+ "faq": [
+  {
+   "q": "Wat is een AI-agent die voor je koopt?",
+   "a": "Dat is een AI-assistent die producten zoekt en bestelt binnen regels die jij instelt, zoals een maximumbedrag. Je hoeft dan zelf niet elke winkel langs."
+  },
+  {
+   "q": "Werkt dit al in Nederland?",
+   "a": "Shopify heeft geen Europese lanceerdatum genoemd. Het is dus nog niet duidelijk of en wanneer dit in Nederland beschikbaar komt."
+  },
+  {
+   "q": "Wat betekent het voor mijn Shopify-webshop?",
+   "a": "Je producten kunnen vaker door AI-agents worden gevonden en gekocht. Zorg daarom voor volledige en duidelijke productinformatie, want een agent leest die automatisch."
+  }
+ ],
+ "slug": "shopify-opent-catalogus-voor-meer-ai-agents-die-zelf-kopen",
+ "kind": "news",
+ "date": "2026-10-13",
+ "published": "2026-10-13T23:12",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Shopify opens its catalog up to more AI agents",
+   "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
+  }
+ ],
+ "path": "/nieuws/shopify-opent-catalogus-voor-meer-ai-agents-die-zelf-kopen/",
+ "og": "/img/og/shopify-opent-catalogus-voor-meer-ai-agents-die-zelf-kopen.png"
+}
