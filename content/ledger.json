@@ -1611,6 +1611,22 @@
   "c839b9474f": {
    "at": "2026-10-13T23:12:47.278584",
    "why": "ok"
+  },
+  "0096ad75f7": {
+   "at": "2026-10-14T10:50:22.503017",
+   "why": "high-risk"
+  },
+  "e8aaa3e933": {
+   "at": "2026-10-14T10:50:22.503017",
+   "why": "ok"
+  },
+  "14cee17a15": {
+   "at": "2026-10-14T10:51:22.503017",
+   "why": "ok"
+  },
+  "f2fb2747c1": {
+   "at": "2026-10-14T10:52:22.503017",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1875,6 +1891,9 @@
   "Facebook laat je algoritme aanpassen met AI-functie",
   "Gemini 4 Argon: wat Google DeepMind vandaag aankondigde",
   "OpenAI apple rechtszaak: rechter beveelt vrijgave van sollicitatiegegevens",
-  "Shopify opent catalogus voor meer AI-agents die zelf kopen"
+  "Shopify opent catalogus voor meer AI-agents die zelf kopen",
+  "Facebook Your Algorithm: zo train je je eigen feed",
+  "Cerebras ziet persoonlijke AI-assistent in elk huis",
+  "Cerebras-ceo noemt ai-waarschuwingen schadelijk"
  ]
 }

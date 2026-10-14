@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: studiekosten aftrekken bij je belastingaangifte",
+ "situation": "Je volgt een cursus, opleiding of training en wilt weten wat je in Nederland van de belasting mag aftrekken. Gebruik deze prompt voordat je aangifte doet.",
+ "prompt": "Je bent een Nederlandse fiscalist gespecialiseerd in aftrekbare studiekosten voor particulieren. Ik volg [NAAM OPLEIDING] bij [INSTELLING] en betaal [BEDRAG] euro. Mijn situatie: [WERK JE, LEER JE VOOR EEN NIEUW BEROEP, OF HOUDT HET VERBAND MET JE HUIDIGE WERK]. Ik wil weten: 1) of deze kosten aftrekbaar zijn als scholingsuitgaven of als beroepskosten, 2) welke drempels en regels in mijn geval gelden, 3) welke bewijsstukken ik moet bewaren, 4) hoe ik dit invul in mijn aangifte. Geef een overzichtelijk stappenplan met bedragen in euro's en noem expliciet wat je niet zeker weet. Sluit af met drie vragen die ik mijn opleider moet stellen voor de juiste factuur.",
+ "tip": "Vraag ChatGPT ook of je de kosten in één jaar of gespreid mag opvoeren.",
+ "tags": [
+  "belasting",
+  "studie",
+  "aftrekposten",
+  "geld"
+ ],
+ "date": "2026-10-14",
+ "slug": "prompt-studiekosten-aftrekken-bij-je-belastingaangifte",
+ "path": "/prompts/2026-10-14-prompt-studiekosten-aftrekken-bij-je-belastingaangifte/"
+}

@@ -1,0 +1,69 @@
+{
+ "keyword": "ai assistent thuis",
+ "seo_title": "AI assistent thuis: wat Cerebras voorspelt",
+ "title": "Cerebras ziet persoonlijke AI-assistent in elk huis",
+ "meta": "Cerebras-CEO Andrew Feldman verwacht dat iedereen een persoonlijke AI-assistent krijgt, deels op het apparaat zelf. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "cerebras",
+  "ai-assistent",
+  "andrew feldman",
+  "cloud",
+  "hardware"
+ ],
+ "intro": "De Amerikaanse chipmaker Cerebras verwacht dat persoonlijke AI-assistenten net zo gewoon worden als huishoudelijke apparaten. Dat zei topman Andrew Feldman tijdens een interview met TechCrunch. Een deel van de rekenkracht komt lokaal te liggen, een deel blijft in de cloud.",
+ "takeaways": [
+  "Cerebras-CEO Andrew Feldman voorspelt een persoonlijke AI-assistent voor ieder huishouden.",
+  "De assistent draait deels op het apparaat zelf en deels in de cloud.",
+  "Cerebras bouwt chips die grote AI-modellen sneller moeten laten rekenen.",
+  "Een datum of prijs voor zulke thuisassistenten noemt Feldman niet."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Cerebras precies zegt",
+   "body": "Feldman vergelijkt de komst van de persoonlijke assistent met die van gewone huishoudapparaten. Iedereen krijgt er op den duur een, is zijn verwachting. Het systeem werkt niet volledig online en niet volledig offline.\n\nEen deel van het rekenwerk gebeurt op het apparaat in huis. De zwaardere taken gaan naar servers in de cloud. Die combinatie moet zorgen voor snelheid en privacy.\n\nCerebras maakt zelf geen consumentenapparaten. Het bedrijf levert hardware voor het trainen en draaien van AI-modellen. Feldman praat dus vooral over de techniek erachter."
+  },
+  {
+   "heading": "Waarom lokaal rekenen populair wordt",
+   "body": "AI-modellen draaien nu meestal op servers van grote techbedrijven. Dat kost veel energie en dataverkeer. Lokale chips kunnen een deel van dat werk overnemen.\n\nFabrikanten van laptops en telefoons stoppen steeds vaker AI-versnellers in hun apparaten. Denk aan Apple, Qualcomm en Intel. Daardoor kan een model zonder internet toch antwoorden geven.\n\nHet voordeel is snelheid. Je hoeft niet te wachten op een server ergens ver weg. Gevoelige gegevens blijven bovendien op je eigen apparaat staan."
+  },
+  {
+   "heading": "Wat er nog onduidelijk is",
+   "body": "Feldman noemt geen jaartal waarop zijn voorspelling uitkomt. Ook zegt hij niets over de prijs van zo'n assistent. Of het een los kastje wordt, een app of iets in je laptop, blijft open.\n\nCerebras is vooral bekend van grote chips voor datacenters. Of het bedrijf zelf met software voor thuis komt, is niet gemeld. De uitspraak gaat over de richting van de markt."
+  },
+  {
+   "heading": "Nederlandse gebruikers",
+   "body": "Voor Nederlandse huishoudens verandert er voorlopig weinig. Assistenten als ChatGPT, Gemini en Copilot werken nu via internet. Een deel van de functies kan al op je telefoon zelf draaien.\n\nGrote taalmodellen hebben veel geheugen en stroom nodig. Een echt slimme assistent in huis vraagt dus nog om betere hardware. Zulke apparaten zijn in Nederland nog niet te koop."
+  }
+ ],
+ "nl_angle": "In Nederland hangt veel af van Europese regels rond data en AI. Een assistent die deels lokaal draait, kan gevoelige gegevens binnen huis houden. Dat scheelt zorgen over privacy en cloudopslag. Voor bedrijven betekent het mogelijk minder kosten voor serverruimte. Toch is er nog geen concreet product voor de Nederlandse markt. Wie nu een assistent wil, blijft aangewezen op bestaande diensten via internet.",
+ "faq": [
+  {
+   "q": "Krijg ik binnenkort een persoonlijke AI-assistent in huis?",
+   "a": "Cerebras-CEO Andrew Feldman verwacht dat zulke assistenten net zo gewoon worden als huishoudapparaten. Een datum of prijs noemt hij niet."
+  },
+  {
+   "q": "Draait zo'n assistent op mijn eigen apparaat?",
+   "a": "Deels wel. Volgens Feldman werkt het systeem deels lokaal en deels via de cloud."
+  },
+  {
+   "q": "Wat betekent dit voor Nederland?",
+   "a": "Er is nog geen product voor de Nederlandse markt. Bestaande assistenten zoals ChatGPT en Gemini werken via internet."
+  }
+ ],
+ "sections_note": "",
+ "slug": "cerebras-ziet-persoonlijke-ai-assistent-in-elk-huis",
+ "kind": "news",
+ "date": "2026-10-14",
+ "published": "2026-10-14T10:51",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+   "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+  }
+ ],
+ "path": "/nieuws/cerebras-ziet-persoonlijke-ai-assistent-in-elk-huis/",
+ "og": "/img/og/cerebras-ziet-persoonlijke-ai-assistent-in-elk-huis.png",
+ "take": "Die assistent in elk huis komt er pas als de rekening klopt, en dat duurt nog jaren. Ik meet liever eerst wat zo'n ding op mijn eigen data doet voordat ik er tijd in stop. Een chipfabrikant die zijn eigen markt voorspelt, daar neem ik graag een korrel zout bij."
+}

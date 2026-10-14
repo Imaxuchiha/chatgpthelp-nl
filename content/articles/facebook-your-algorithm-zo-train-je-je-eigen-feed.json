@@ -1,0 +1,68 @@
+{
+ "keyword": "facebook your algorithm",
+ "seo_title": "Facebook Your Algorithm: zo train je je eigen feed",
+ "title": "Facebook Your Algorithm: zo train je je eigen feed",
+ "meta": "Facebook geeft gebruikers met Your Algorithm controle over hun feed. Zo werkt het, wat AI doet en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "facebook",
+  "algoritme",
+  "ai",
+  "sociale media",
+  "privacy"
+ ],
+ "intro": "Facebook laat gebruikers voortaan zelf bepalen wat ze in hun feed zien. De functie Your Algorithm moet een einde maken aan jaren van ondoorzichtige aanbevelingen. Volgens Bright krijgen gebruikers de controle terug, met hulp van AI.",
+ "takeaways": [
+  "Facebook introduceert Your Algorithm, waarmee je zelf je feed samenstelt.",
+  "Het bedrijf keek jaren naar likes, comments en scrollgedrag om interesses te voorspellen.",
+  "AI helpt bij het verwerken van jouw keuzes in de feed.",
+  "Onbekend is wanneer de functie in Nederland beschikbaar komt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Facebook met Your Algorithm verandert",
+   "body": "Facebook bepaalde jarenlang welke berichten bovenaan je tijdlijn staan. Het bedrijf keek daarvoor naar likes, reacties en hoe lang je naar een bericht keek. Die aanpak leverde veel discussie op, omdat gebruikers niet konden zien waarom ze bepaalde posts zagen.\n\nYour Algorithm draait dat om. Jij stelt zelf samen wat je wilt zien, aldus Bright. AI verwerkt die keuzes en past de feed daarop aan. Het is de eerste keer dat Facebook de regie zo expliciet bij de gebruiker legt."
+  },
+  {
+   "heading": "Hoe het trainen van je feed werkt",
+   "body": "Je geeft aan welke onderwerpen, pagina's of personen je wilt volgen. Facebook gebruikt die signalen om je tijdlijn te vullen. Het bedrijf noemt het zelf trainen van het algoritme, meldt Bright.\n\nWat dat precies betekent voor bestaande instellingen is nog niet duidelijk. Facebook heeft niet uitgelegd of je oude voorkeuren blijven staan. Ook is niet bekend of je de keuzes later kunt aanpassen."
+  },
+  {
+   "heading": "Waarom AI hier een grote rol speelt",
+   "body": "AI moet de keuzes van miljoenen gebruikers tegelijk verwerken. Zonder AI is dat niet te doen. Het systeem leert van wat jij aanklikt en laat weg wat je niet wilt.\n\nToch blijft het de vraag hoe transparant dat proces is. Facebook zegt niets over de precieze werking van het model. Gebruikers kunnen dus niet controleren waarom een bericht wel of niet verschijnt."
+  },
+  {
+   "heading": "Wat er nog onbekend is",
+   "body": "Een releasedatum voor Nederland ontbreekt. Bright noemt geen landen waar Your Algorithm al werkt. Ook is niet duidelijk of de functie gratis blijft.\n\nFacebook heeft in het verleden vaker functies aangekondigd die later werden uitgesteld. Het is dus afwachten wanneer Nederlandse gebruikers ermee aan de slag kunnen."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders die Facebook dagelijks gebruiken, betekent Your Algorithm meer invloed op hun tijdlijn. Je kunt zelf bepalen welke onderwerpen je ziet, in plaats van te vertrouwen op wat Facebook kiest. Dat scheelt tijd en maakt je feed voorspelbaarder. Wel moet je er actief mee aan de slag. Wie niets instelt, houdt mogelijk de oude feed. Bedrijven die adverteren op Facebook merken mogelijk minder bereik als gebruikers nieuws en advertenties wegfilteren. De Autoriteit Persoonsgegevens kijkt streng naar algoritmes die persoonsgegevens verwerken. Of Your Algorithm onder de Europese regels door de beugel kan, is nog niet beoordeeld.",
+ "faq": [
+  {
+   "q": "Wat is Facebook Your Algorithm?",
+   "a": "Een functie waarmee je zelf bepaalt welke onderwerpen en pagina's in je feed verschijnen. AI verwerkt jouw keuzes."
+  },
+  {
+   "q": "Is Your Algorithm al beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. Bright noemt geen releasedatum of landen waar de functie al werkt."
+  },
+  {
+   "q": "Verandert mijn feed automatisch?",
+   "a": "Waarschijnlijk niet. Je moet zelf aangeven wat je wilt zien. Wat er met bestaande voorkeuren gebeurt, is onduidelijk."
+  }
+ ],
+ "slug": "facebook-your-algorithm-zo-train-je-je-eigen-feed",
+ "kind": "news",
+ "date": "2026-10-14",
+ "published": "2026-10-14T10:50",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Facebook wil dat je zijn nieuwe algoritme omarmt en traint",
+   "url": "https://www.bright.nl/nieuws/2146584/facebook-wil-dat-je-zijn-nieuwe-algoritme-omarmt-en-traint.html"
+  }
+ ],
+ "path": "/nieuws/facebook-your-algorithm-zo-train-je-je-eigen-feed/",
+ "og": "/img/og/facebook-your-algorithm-zo-train-je-je-eigen-feed.png",
+ "take": "Facebook belooft me controle over mijn feed, en dat klinkt precies als de demo waar ik wantrouwig van word. Ik zie het pas als ik zelf kan instellen wat er wegblijft, zonder dat er stiekem alsnog van alles tussendoor glipt. Tot die tijd is het een knop met een verhaal eromheen."
+}

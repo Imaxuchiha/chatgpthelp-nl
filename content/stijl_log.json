@@ -1469,5 +1469,57 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-14T10:50:37",
+  "slug": "",
+  "title": "Facebook Your Algorithm: zo train je je eigen feed",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-14T10:50:46",
+  "slug": "",
+  "title": "Cerebras ziet persoonlijke AI-assistent in elk huis",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-14T10:50:58",
+  "slug": "",
+  "title": "Cerebras-ceo noemt ai-waarschuwingen schadelijk",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-14T10:51:24",
+  "slug": "",
+  "title": "De beste AI-tools op een rij: gratis en betaald, per taak gekozen",
+  "kind": "evergreen",
+  "rood": [
+   "S4",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
