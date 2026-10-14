@@ -1521,5 +1521,41 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-14T17:57:10",
+  "slug": "",
+  "title": "OpenAI: 10.000 agents draaien 36 uur op GPT-6",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-14T17:57:19",
+  "slug": "",
+  "title": "Agentic AI in Europa: OpenAI ziet groei bij bedrijven",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-14T17:57:29",
+  "slug": "",
+  "title": "AI wormen verspreiden zich via slimme apparaten, waarschuwt Anthropic",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

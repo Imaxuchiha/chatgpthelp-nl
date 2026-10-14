@@ -1,0 +1,68 @@
+{
+ "keyword": "agentic ai europa",
+ "seo_title": "Agentic AI in Europa groeit volgens OpenAI",
+ "title": "Agentic AI in Europa: OpenAI ziet groei bij bedrijven",
+ "meta": "OpenAI meldt groei van agentic AI bij Europese bedrijven en kleine ondernemingen. Lees wat dit betekent voor Nederland en waar meer waarde zit.",
+ "category": "nieuws",
+ "tags": [
+  "agentic ai",
+  "openai",
+  "europa",
+  "nederland",
+  "bedrijven"
+ ],
+ "intro": "OpenAI publiceerde op 13 oktober 2026 een analyse over de opmars van agentic AI in Europa. Uit die analyse blijkt dat steeds meer Europese bedrijven en kleine ondernemingen deze vorm van AI gebruiken. Diepere inzet kan volgens OpenAI meer waarde opleveren.",
+ "takeaways": [
+  "OpenAI ziet groei van agentic AI bij Europese bedrijven en kleine ondernemingen.",
+  "Dieper gebruik van agentic AI kan volgens OpenAI meer waarde opleveren.",
+  "De analyse gaat over de Europese Unie, niet specifiek over Nederland.",
+  "OpenAI noemt geen concrete cijfers of bedragen in de samenvatting."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI meldt over agentic AI in de EU",
+   "body": "OpenAI schrijft dat agentic AI steeds vaker opduikt bij Europese bedrijven. Ook kleine ondernemingen in de EU stappen erop over. Dat staat in een nieuwe analyse van het bedrijf.\n\nAgentic AI betekent dat software zelfstandig stappen zet. Denk aan een assistent die e-mails leest, gegevens opzoekt en daarna een taak afrondt. De gebruiker geeft het doel, de software regelt de uitvoering.\n\nOpenAI zegt dat diepere inzet van deze technologie meer waarde kan vrijmaken. Het bedrijf noemt in de samenvatting geen bedragen of percentages. Concrete cijfers ontbreken dus nog."
+  },
+  {
+   "heading": "Van proefproject naar dagelijks werk",
+   "body": "Veel Europese organisaties beginnen met losse proeven. Een team test een assistent voor één taak. Daarna volgt vaak de vraag hoe je zoiets breder inzet.\n\nVolgens OpenAI zit daar de volgende stap. Bedrijven die agentic AI dieper in hun processen verwerken, halen er meer uit. Dat vraagt wel om duidelijke afspraken over wat de software mag doen.\n\nKleine ondernemingen hebben daar minder mensen voor. Zij kiezen vaker voor kant-en-klare hulpmiddelen. De analyse noemt die groep apart."
+  },
+  {
+   "heading": "Waarom de EU dit apart bekijkt",
+   "body": "De Europese Unie heeft regels voor AI vastgelegd in de AI-verordening. Die wet verdeelt AI-toepassingen in risicoklassen. Hoe meer een systeem zelf beslist, hoe strenger de eisen kunnen zijn.\n\nAgentic AI raakt die discussie direct. Een assistent die zelf handelt, valt onder andere afspraken dan een chatbot die alleen tekst geeft. Europese bedrijven moeten dus weten welke regels gelden.\n\nOpenAI zegt niet welke regels precies knellen. Het bedrijf noemt in de samenvatting alleen de groei en de kans op meer waarde."
+  },
+  {
+   "heading": "Wat nog onduidelijk blijft",
+   "body": "De analyse geeft geen landenoverzicht. Nederland wordt niet apart genoemd. Of Nederlandse bedrijven voorlopen of achterlopen, is dus niet bekend.\n\nOok ontbreken cijfers over kosten en opbrengsten. OpenAI zegt alleen dat dieper gebruik meer waarde kan opleveren. Hoeveel dat is, blijft open.\n\nMeer duidelijkheid komt mogelijk in een vollediger rapport. Dat is nog niet aangekondigd."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven betekent dit vooral een keuze: eerst een proef met één taak, of meteen agentic AI in bestaande systemen bouwen. Grote organisaties hebben daar vaak mensen voor. Het midden- en kleinbedrijf heeft die ruimte minder en let eerder op prijs en gemak. Let daarbij op de AI-verordening: zodra software zelf beslissingen neemt, kunnen extra eisen gelden. Reken dus vooraf uit wat een agent mag doen en wie controleert wat hij doet.",
+ "faq": [
+  {
+   "q": "Wat is agentic AI precies?",
+   "a": "Agentic AI is software die zelfstandig stappen zet om een doel te bereiken. Je geeft een opdracht, de software zoekt gegevens, neemt beslissingen en rondt de taak af."
+  },
+  {
+   "q": "Geldt dit ook voor Nederlandse bedrijven?",
+   "a": "De analyse gaat over de Europese Unie als geheel. Nederland wordt er niet apart in genoemd. Nederlandse bedrijven vallen wel onder dezelfde EU-regels."
+  },
+  {
+   "q": "Zijn er al cijfers over de opbrengst?",
+   "a": "Nee. OpenAI zegt alleen dat dieper gebruik meer waarde kan opleveren. Concrete bedragen of percentages staan niet in de samenvatting."
+  }
+ ],
+ "slug": "agentic-ai-in-europa-openai-ziet-groei-bij-bedrijven",
+ "kind": "news",
+ "date": "2026-10-14",
+ "published": "2026-10-14T17:57",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "The EU’s next chapter in AI is agentic",
+   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+  }
+ ],
+ "path": "/nieuws/agentic-ai-in-europa-openai-ziet-groei-bij-bedrijven/",
+ "og": "/img/og/agentic-ai-in-europa-openai-ziet-groei-bij-bedrijven.png",
+ "take": "OpenAI roept groei in agentic AI, en de groei zit hem in het rapport dat ze er zelf over schrijven. Ik geloof best dat Europese bedrijven het vaker proberen, maar proberen is geen waarde toevoegen. Laat eerst maar eens zien wat zo'n agent op echte klantdata doet als er iets vastloopt, dan praten we over groei."
+}

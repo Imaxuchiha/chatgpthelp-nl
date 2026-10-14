@@ -1627,6 +1627,22 @@
   "f2fb2747c1": {
    "at": "2026-10-14T10:52:22.503017",
    "why": "ok"
+  },
+  "e181547094": {
+   "at": "2026-10-14T17:56:58.081340",
+   "why": "ok"
+  },
+  "2f3282e483": {
+   "at": "2026-10-14T17:57:58.081340",
+   "why": "ok"
+  },
+  "7eaa23c311": {
+   "at": "2026-10-14T17:58:58.081340",
+   "why": "high-risk"
+  },
+  "7627a3f490": {
+   "at": "2026-10-14T17:58:58.081340",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1894,6 +1910,9 @@
   "Shopify opent catalogus voor meer AI-agents die zelf kopen",
   "Facebook Your Algorithm: zo train je je eigen feed",
   "Cerebras ziet persoonlijke AI-assistent in elk huis",
-  "Cerebras-ceo noemt ai-waarschuwingen schadelijk"
+  "Cerebras-ceo noemt ai-waarschuwingen schadelijk",
+  "OpenAI: 10.000 agents draaien 36 uur op GPT-6",
+  "Agentic AI in Europa: OpenAI ziet groei bij bedrijven",
+  "AI wormen verspreiden zich via slimme apparaten, waarschuwt Anthropic"
  ]
 }

@@ -1,0 +1,68 @@
+{
+ "keyword": "openai agent gpt-6",
+ "seo_title": "OpenAI agent gpt-6: 10.000 agents draaien 36 uur",
+ "title": "OpenAI: 10.000 agents draaien 36 uur op GPT-6",
+ "meta": "OpenAI laat zien hoe Third Moment Research 10.000 agents meer dan 36 uur laat werken met GPT-6 Astra, GPT-6.1 Sol en Codex. Wat betekent dat in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "gpt-6",
+  "ai-agents",
+  "codex",
+  "cybersecurity"
+ ],
+ "intro": "OpenAI beschrijft hoe het lab Third Moment Research duizenden AI-agents tegelijk laat werken. De agents blijven dagenlang gefocust op één taak. Dat laat zien waar GPT-6 en Codex nu toe in staat zijn.",
+ "takeaways": [
+  "Third Moment Research laat 10.000 agents tegelijk draaien",
+  "Die agents werken meer dan 36 uur door aan één opdracht",
+  "Het lab gebruikt GPT-6 Astra, GPT-6.1 Sol en Codex",
+  "Daybreak zet dezelfde techniek in voor cybersecurity"
+ ],
+ "sections": [
+  {
+   "heading": "Wat Third Moment Research precies doet",
+   "body": "Het onderzoekslab Third Moment Research bouwt agents die dagen achter elkaar doorwerken. Volgens OpenAI gaat het om 10.000 agents die tegelijk actief zijn. Ze houden hun aandacht langer vast dan eerdere systemen.\n\nDat lukt met de modellen GPT-6 Astra en GPT-6.1 Sol. Codex helpt bij het schrijven en aanpassen van code. De agents worden volgens OpenAI beter naarmate ze vaker worden gebruikt."
+  },
+  {
+   "heading": "Van losse vraag naar langdurig werk",
+   "body": "De meeste AI-chatbots geven antwoord op één vraag. Daarna stopt het gesprek. Deze agents werken anders: ze krijgen een doel en blijven daar uren mee bezig.\n\nOpenAI noemt dat langdurige focus. Een agent kan tussentijds controleren of het werk klopt. Daarna past hij zijn aanpak aan zonder dat een mens ingrijpt."
+  },
+  {
+   "heading": "Daybreak en cybersecurity",
+   "body": "Naast Codex noemt OpenAI het product Daybreak. Dat richt zich op cybersecurity. Denk aan het opsporen van zwakke plekken in systemen en het testen van verdedigingen.\n\nBeveiligingsteams kunnen zo sneller werken. Wel blijft menselijke controle nodig, want een agent die zelfstandig systemen aanvalt vraagt om duidelijke afspraken."
+  },
+  {
+   "heading": "Wat er nog onduidelijk is",
+   "body": "OpenAI geeft geen prijs per agent of per uur. Ook is niet bekend welke klanten het lab al gebruikt. De precieze kosten van 36 uur rekenkracht zijn dus nog niet te noemen.\n\nOf Nederlandse bedrijven dit direct kunnen inzetten, is evenmin duidelijk. De modellen en Codex zijn beschikbaar via OpenAI, maar de opzet van Third Moment Research is maatwerk."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven betekent dit dat langdurige AI-agents dichterbij komen. Denk aan softwareteams die dagen aan één bug werken of beveiligingsteams die continu systemen testen. Let wel op de kosten: urenlang rekenwerk op GPT-6 tikt aan, en OpenAI noemt nog geen tarief. Ook speelt regelgeving mee. Onder de Europese AI-verordening blijven zelfstandig handelende agents een aandachtspunt, zeker bij beveiligingstaken.",
+ "faq": [
+  {
+   "q": "Wat is Third Moment Research?",
+   "a": "Een onderzoekslab dat volgens OpenAI 10.000 AI-agents tegelijk laat werken. Die agents blijven meer dan 36 uur gefocust op één taak."
+  },
+  {
+   "q": "Welke modellen gebruikt het lab?",
+   "a": "GPT-6 Astra en GPT-6.1 Sol, aangevuld met Codex voor code en Daybreak voor cybersecurity."
+  },
+  {
+   "q": "Kan ik dit als Nederlands bedrijf gebruiken?",
+   "a": "De modellen zijn beschikbaar via OpenAI, maar de opzet van dit lab is maatwerk. Prijzen en beschikbaarheid in Nederland zijn nog niet bekend."
+  }
+ ],
+ "slug": "openai-10-000-agents-draaien-36-uur-op-gpt-6",
+ "kind": "news",
+ "date": "2026-10-14",
+ "published": "2026-10-14T17:56",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+   "url": "https://openai.com/index/third-moment-research"
+  }
+ ],
+ "path": "/nieuws/openai-10-000-agents-draaien-36-uur-op-gpt-6/",
+ "og": "/img/og/openai-10-000-agents-draaien-36-uur-op-gpt-6.png",
+ "take": "Tien agents die 36 uur doorwerken op GPT-6 en Codex, dat is een demo op andermans servers. Ik wil eerst zien of dat op mijn eigen klantdata overeind blijft als er een API stilvalt of een taak vastloopt, want dat is waar zulke dingen in de praktijk op stuklopen. Tot ik dat zelf kan natrekken is het een filmpje, geen gereedschap waar ik geld op inzet."
+}
