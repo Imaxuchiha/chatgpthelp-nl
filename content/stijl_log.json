@@ -1557,5 +1557,66 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-14T22:09:36",
+  "slug": "",
+  "title": "OpenAI ai agents: Amp zet agents breder in dan code",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-14T22:09:42",
+  "slug": "",
+  "title": "SentinelOne snijdt malware-analyse terug met OpenAI Daybreak",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-14T22:09:50",
+  "slug": "",
+  "title": "AI hallucinaties gevaar: 5 momenten dat het misging",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-14T22:09:58",
+  "slug": "",
+  "title": "Samsung Galaxy AI werkt nu in het Nederlands",
+  "kind": "news",
+  "rood": [
+   "S10"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-14T22:10:06",
+  "slug": "",
+  "title": "AI-race laait op: OpenAI, Anthropic en Google weer in gevecht",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

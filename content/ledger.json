@@ -1643,6 +1643,26 @@
   "7627a3f490": {
    "at": "2026-10-14T17:58:58.081340",
    "why": "ok"
+  },
+  "a0e0fec2c2": {
+   "at": "2026-10-14T22:09:22.538457",
+   "why": "ok"
+  },
+  "24cc989c02": {
+   "at": "2026-10-14T22:10:22.538457",
+   "why": "poort"
+  },
+  "ae96e99680": {
+   "at": "2026-10-14T22:10:22.538457",
+   "why": "poort"
+  },
+  "e2d497a39d": {
+   "at": "2026-10-14T22:10:22.538457",
+   "why": "ok"
+  },
+  "2fac9b6004": {
+   "at": "2026-10-14T22:11:22.538457",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1913,6 +1933,9 @@
   "Cerebras-ceo noemt ai-waarschuwingen schadelijk",
   "OpenAI: 10.000 agents draaien 36 uur op GPT-6",
   "Agentic AI in Europa: OpenAI ziet groei bij bedrijven",
-  "AI wormen verspreiden zich via slimme apparaten, waarschuwt Anthropic"
+  "AI wormen verspreiden zich via slimme apparaten, waarschuwt Anthropic",
+  "OpenAI ai agents: Amp zet agents breder in dan code",
+  "Samsung Galaxy AI werkt nu in het Nederlands",
+  "AI-race laait op: OpenAI, Anthropic en Google weer in gevecht"
  ]
 }

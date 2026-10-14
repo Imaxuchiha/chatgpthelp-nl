@@ -1,0 +1,67 @@
+{
+ "keyword": "openai ai agents",
+ "seo_title": "OpenAI ai agents: Amp laat agents meer dan code doen",
+ "title": "OpenAI ai agents: Amp zet agents breder in dan code",
+ "meta": "OpenAI en Amp laten ai agents meer dan code doen, met GPT-6 Astra en Sign in with ChatGPT. Lees wat dit betekent voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-agents",
+  "amp",
+  "gpt-6",
+  "chatgpt"
+ ],
+ "intro": "OpenAI en Amp werken samen om ai agents buiten de code te laten werken. Volgens OpenAI gebruikt Amp modellen als GPT-6 Astra, Ultrafast en GPT-Live-1. Ook is er ondersteuning voor Sign in with ChatGPT. Daarmee groeit de rol van agents in gewoon werk.",
+ "takeaways": [
+  "Amp zet ai agents in voor taken buiten programmeren, meldt OpenAI.",
+  "Amp gebruikt GPT-6 Astra, Ultrafast en GPT-Live-1 als modellen.",
+  "Sign in with ChatGPT regelt het inloggen bij Amp.",
+  "OpenAI noemt dit een stap verder dan code alleen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Amp met de modellen doet",
+   "body": "Amp is bekend als hulpmiddel voor programmeurs. Volgens OpenAI gaat het bedrijf nu verder dan code. De agents pakken ook andere taken op. Daarvoor gebruikt Amp meerdere modellen van OpenAI.\n\nGPT-6 Astra is het sterkste model in het rijtje. Ultrafast is bedoeld voor snel werk. GPT-Live-1 lijkt te draaien op live interactie. OpenAI noemt de combinatie een stap vooruit voor agents.\n\nHoe de verdeling precies werkt, is nog niet duidelijk. OpenAI geeft geen details over prijzen of limieten. Ook staat er niet bij welke taken Amp precies aankan."
+  },
+  {
+   "heading": "Inloggen met ChatGPT",
+   "body": "Amp ondersteunt Sign in with ChatGPT. Gebruikers loggen daarmee in met hun ChatGPT-account. Dat scheelt een apart account bij Amp. OpenAI noemt dit onderdeel van de samenwerking.\n\nOf dit in Nederland meteen werkt, is niet zeker. OpenAI zegt niets over landen of regio's. De dienst kan later beschikbaar komen in de Europese Unie. Wie wil testen, heeft een ChatGPT-account nodig.\n\nSign in with ChatGPT is geen los product. Het is een inlogmethode die aan ChatGPT hangt. OpenAI gebruikt die vaker bij partners."
+  },
+  {
+   "heading": "Agents buiten code",
+   "body": "Agents zijn programma's die zelfstandig stappen zetten. Ze lezen, plannen en voeren taken uit. Tot nu toe zaten zulke agents vaak vast aan code. Amp wil dat patroon doorbreken.\n\nVolgens OpenAI kan een agent nu ook andere soorten werk doen. Denk aan teksten, analyses of het opvolgen van taken. De agent werkt dan met de modellen van OpenAI.\n\nHoeveel vrijheid de agent krijgt, blijft onduidelijk. OpenAI noemt geen voorbeelden van klanten. Er zijn ook geen cijfers over gebruik of prestaties."
+  },
+  {
+   "heading": "Wat OpenAI wel en niet zegt",
+   "body": "OpenAI publiceert weinig harde cijfers. Er is geen releasedatum voor Nederland. Prijzen in euro's staan er niet bij. Ook is niet bekend of Amp in de EU beschikbaar komt.\n\nDe aankondiging past bij een bredere trend. AI-bedrijven willen agents inzetten voor dagelijks werk. OpenAI noemt Amp een voorbeeld van die richting.\n\nMeer informatie komt mogelijk later. Tot die tijd blijft het bij de namen van de modellen en de inlogmethode."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven is dit vooral een signaal. Agents worden breder inzetbaar dan alleen software. Wie al met ChatGPT werkt, kan straks misschien met hetzelfde account bij Amp terecht. Of dat in Nederland en de EU lukt, is nog niet bekend. Let dus op berichten over beschikbaarheid en prijzen in euro's. Zolang OpenAI niets zegt over de EU, blijft het afwachten.",
+ "faq": [
+  {
+   "q": "Wat is Amp van OpenAI?",
+   "a": "Amp is een tool die ai agents inzet, volgens OpenAI ook buiten code. Het gebruikt modellen als GPT-6 Astra en GPT-Live-1."
+  },
+  {
+   "q": "Werkt Sign in with ChatGPT in Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI noemt geen landen of regio's voor deze inlogmethode."
+  },
+  {
+   "q": "Wat kost Amp in euro's?",
+   "a": "Er zijn geen prijzen bekend. OpenAI noemt geen bedragen of abonnementen voor Amp."
+  }
+ ],
+ "slug": "openai-ai-agents-amp-zet-agents-breder-in-dan-code",
+ "kind": "news",
+ "date": "2026-10-14",
+ "published": "2026-10-14T22:09",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Amp puts AI agents to work beyond code with OpenAI models",
+   "url": "https://openai.com/index/amp-beyond-coding"
+  }
+ ],
+ "path": "/nieuws/openai-ai-agents-amp-zet-agents-breder-in-dan-code/",
+ "og": "/img/og/openai-ai-agents-amp-zet-agents-breder-in-dan-code.png"
+}
