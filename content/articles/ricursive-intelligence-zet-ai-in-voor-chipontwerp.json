@@ -1,0 +1,68 @@
+{
+ "keyword": "ai chipontwerp",
+ "seo_title": "AI chipontwerp: Ricursive wil rekenkrachtcrisis oplossen",
+ "title": "Ricursive Intelligence zet AI in voor chipontwerp",
+ "meta": "Ricursive Intelligence ontwikkelt AI die chips ontwerpt en zichzelf verbetert. Lees wat dit betekent voor de rekenkrachtcrisis en Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "chips",
+  "ricursive intelligence",
+  "rekenkracht",
+  "startup"
+ ],
+ "intro": "Het Amerikaanse startup Ricursive Intelligence werkt aan AI die computerchips kan ontwerpen. De oprichters zeggen dat het systeem leert van elke ontwerpronde en het volgende ontwerp beter maakt. TechCrunch meldt dat het bedrijf zo de groeiende vraag naar rekenkracht wil aanpakken.",
+ "takeaways": [
+  "Ricursive Intelligence bouwt AI die chips ontwerpt en zichzelf per ronde verbetert.",
+  "Het doel is het chipontwerpproces sneller en meer geautomatiseerd te maken.",
+  "TechCrunch noemt dit een poging om de rekenkrachtcrisis te helpen oplossen.",
+  "Er zijn nog geen details over klanten, prijzen of beschikbaarheid in Europa."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Ricursive Intelligence doet",
+   "body": "De startup ontwikkelt AI-software voor het ontwerpen van chips. Volgens de oprichters leert het systeem van elke ontwerpiteratie. Daardoor worden latere ontwerpen stap voor stap beter.\n\nHet bedrijf wil het hele traject automatiseren en versnellen. Chipontwerp kost normaal veel tijd en dure specialisten. AI kan een deel van dat werk overnemen.\n\nTechCrunch sprak met de oprichters over hun aanpak. Zij zien hun technologie als antwoord op de groeiende vraag naar rekenkracht."
+  },
+  {
+   "heading": "Waarom chipontwerp zo belangrijk is",
+   "body": "AI-modellen zoals ChatGPT vragen enorme hoeveelheden rekenkracht. Dat komt vooral door de chips in datacenters. Betere chips betekenen meer berekeningen per seconde en vaak ook minder energie per berekening.\n\nHet ontwerpen van een nieuwe chip duurt normaal jaren. Fouten zijn duur, want productie kost miljarden. AI die fouten eerder vindt, kan tijd en geld schelen.\n\nRicursive richt zich op dat knelpunt. Het bedrijf zegt dat zijn AI leert van eerdere ontwerpen en zo de volgende generatie sneller oplevert."
+  },
+  {
+   "heading": "Wat dit betekent voor de rekenkrachtcrisis",
+   "body": "De vraag naar rekenkracht groeit harder dan fabrieken kunnen bijbenen. Grote techbedrijven kopen nu al jaren vooruit in. AI die chips ontwerpt, kan de ontwerpfase inkorten.\n\nDat lost niet direct het tekort aan productiecapaciteit op. Fabrieken van chipmakers als TSMC blijven de beperkende factor. Toch kan sneller ontwerpen helpen om nieuwe, zuiniger chips eerder klaar te hebben.\n\nTechCrunch noemt de aanpak een gok. Of AI-ontworpen chips echt beter presteren, moet nog blijken uit tests en productie."
+  },
+  {
+   "heading": "Onzekerheid rond cijfers en planning",
+   "body": "Ricursive Intelligence heeft nog geen publieke cijfers gedeeld over prestaties. Ook is niet bekend welke chipfabrikanten met het bedrijf samenwerken. TechCrunch noemt geen investeringsbedragen of klantnamen.\n\nDe oprichters zeggen alleen dat hun AI per iteratie leert. Hoeveel sneller het ontwerpproces wordt, is nog niet bekend. Dat maakt het lastig om de belofte nu te wegen.\n\nVoor Europese chipbedrijven is het nog afwachten of deze technologie beschikbaar komt. De startup richt zich voorlopig op de Amerikaanse markt, blijkt uit de bron."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral relevant via de chipindustrie. ASML in Veldhoven levert machines die chips maken, en NXP ontwerpt chips in Eindhoven. AI die het ontwerpproces versnelt, kan op termijn de vraag naar geavanceerde machines beïnvloeden. Of Ricursive Intelligence in Europa actief wordt, is niet bekend. Nederlandse bedrijven en kennisinstellingen zullen de ontwikkeling daarom voorlopig volgen zonder concrete samenwerking.",
+ "faq": [
+  {
+   "q": "Wat doet Ricursive Intelligence precies?",
+   "a": "Het bedrijf bouwt AI die computerchips ontwerpt. Het systeem leert van elke ontwerpronde en verbetert daarna het volgende ontwerp."
+  },
+  {
+   "q": "Lost AI-ontworpen chips het tekort aan rekenkracht op?",
+   "a": "Dat is nog niet zeker. AI kan het ontwerpen versnellen, maar de productiecapaciteit bij chipfabrieken blijft de grootste beperking."
+  },
+  {
+   "q": "Is Ricursive Intelligence al beschikbaar in Nederland?",
+   "a": "Nee, daar is niets over bekend. De startup richt zich volgens TechCrunch voorlopig op de Amerikaanse markt."
+  }
+ ],
+ "slug": "ricursive-intelligence-zet-ai-in-voor-chipontwerp",
+ "kind": "news",
+ "date": "2026-10-15",
+ "published": "2026-10-15T10:26",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+   "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+  }
+ ],
+ "path": "/nieuws/ricursive-intelligence-zet-ai-in-voor-chipontwerp/",
+ "og": "/img/og/ricursive-intelligence-zet-ai-in-voor-chipontwerp.png",
+ "take": "Elke startup die roept dat zijn AI chips kan ontwerpen en zichzelf verbetert, moet eerst maar eens een werkend ontwerp laten zien. Ik heb een klant gehad bij wie de koppeling tussen Shopify en Google stilletjes was gebroken, en daar optimaliseerde de AI maandenlang vrolijk de verkeerde kant op. Zulke bedrijven mogen van mij bestaan, maar ik geloof pas iets als het op een echte rekening staat en niet alleen in een persbericht."
+}

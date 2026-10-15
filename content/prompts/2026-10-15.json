@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: pensioencheck na baanwissel",
+ "situation": "Je bent net van baan gewisseld of denkt daarover na. Je wilt weten wat er met je opgebouwde pensioen gebeurt en of je iets moet regelen.",
+ "prompt": "Je bent een Nederlandse pensioenadviseur. Ik ben [LEEFTIJD] jaar en wissel van werkgever. Mijn oude pensioenregeling zit bij [NAAM OUDE PENSIOENUITVOERDER] en mijn nieuwe bij [NAAM NIEUWE UITVOERDER]. Mijn bruto jaarsalaris is [BEDRAG] euro. Ik heb [AANTAL] jaar pensioen opgebouwd bij mijn oude werkgever. Leg in gewone taal uit: 1) wat er met mijn opgebouwde pensioen gebeurt als ik niets doe, 2) of waardeoverdracht naar mijn nieuwe regeling verstandig kan zijn en welke afwegingen spelen, 3) welke stappen ik binnen welke termijn moet zetten. Sluit af met drie vragen die ik aan mijn nieuwe werkgever of pensioenuitvoerder kan stellen. Gebruik geen jargon zonder uitleg.",
+ "tip": "Vraag ChatGPT daarna om dezelfde uitleg in een e-mail aan je pensioenuitvoerder te zetten, zodat je gericht kunt navragen.",
+ "tags": [
+  "pensioen",
+  "werk",
+  "geldzaken",
+  "uitleg"
+ ],
+ "date": "2026-10-15",
+ "slug": "prompt-pensioencheck-na-baanwissel",
+ "path": "/prompts/2026-10-15-prompt-pensioencheck-na-baanwissel/"
+}

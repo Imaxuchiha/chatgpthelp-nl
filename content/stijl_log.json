@@ -1618,5 +1618,55 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-15T10:25:35",
+  "slug": "",
+  "title": "Gemini voor Home update: stop sneller begrepen",
+  "kind": "news",
+  "rood": [
+   "S10"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-15T10:25:45",
+  "slug": "",
+  "title": "Ricursive Intelligence zet AI in voor chipontwerp",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-15T10:25:56",
+  "slug": "",
+  "title": "Gudea voorspelt social media crisis met AI",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-15T10:26:43",
+  "slug": "",
+  "title": "Nep conversiewaarde: 10.000 euro aan lucht in je Google Ads",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S4"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

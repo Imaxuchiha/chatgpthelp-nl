@@ -1663,6 +1663,22 @@
   "2fac9b6004": {
    "at": "2026-10-14T22:11:22.538457",
    "why": "ok"
+  },
+  "ee9f018e4a": {
+   "at": "2026-10-15T10:25:21.062482",
+   "why": "high-risk"
+  },
+  "595ed5c514": {
+   "at": "2026-10-15T10:25:21.062482",
+   "why": "ok"
+  },
+  "f0fe7c9aa7": {
+   "at": "2026-10-15T10:26:21.062482",
+   "why": "ok"
+  },
+  "d3bb9ef55a": {
+   "at": "2026-10-15T10:27:21.062482",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1936,6 +1952,9 @@
   "AI wormen verspreiden zich via slimme apparaten, waarschuwt Anthropic",
   "OpenAI ai agents: Amp zet agents breder in dan code",
   "Samsung Galaxy AI werkt nu in het Nederlands",
-  "AI-race laait op: OpenAI, Anthropic en Google weer in gevecht"
+  "AI-race laait op: OpenAI, Anthropic en Google weer in gevecht",
+  "Gemini voor Home update: stop sneller begrepen",
+  "Ricursive Intelligence zet AI in voor chipontwerp",
+  "Gudea voorspelt social media crisis met AI"
  ]
 }
