@@ -1691,6 +1691,18 @@
   "2c9392a52f": {
    "at": "2026-10-15T17:44:56.544657",
    "why": "ok"
+  },
+  "e925c3137a": {
+   "at": "2026-10-15T21:50:04.255314",
+   "why": "ok"
+  },
+  "35f04bc99b": {
+   "at": "2026-10-15T21:51:04.255314",
+   "why": "ok"
+  },
+  "c7cea461bd": {
+   "at": "2026-10-15T21:52:04.255314",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1970,6 +1982,9 @@
   "Gudea voorspelt social media crisis met AI",
   "Study mode van ChatGPT helpt leerlingen stap voor stap denken",
   "AI-tool brengt dodo terug: welke genen zijn nodig",
-  "AI-agents komen naar de auto's van Rivian"
+  "AI-agents komen naar de auto's van Rivian",
+  "Anthropic geeft METR toegang op medewerkersniveau",
+  "Bluesky laat gebruikers met Attie websites en games maken",
+  "Meta Muse AI model draait op Mac met Apple M5 Ultra"
  ]
 }

@@ -1,0 +1,63 @@
+{
+ "keyword": "bluesky attie apps maken",
+ "seo_title": "Bluesky Attie: zelf websites en games maken",
+ "title": "Bluesky laat gebruikers met Attie websites en games maken",
+ "meta": "Bluesky breidt Attie uit: iedereen kan games, quizzen en websites bouwen die putten uit het sociale netwerk. Dit betekent het voor makers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "bluesky",
+  "attie",
+  "ai-tools",
+  "social vibe coding",
+  "no-code"
+ ],
+ "intro": "Bluesky breidt zijn experimentele Attie-platform uit. Gebruikers kunnen er nu games, quizzen en websites mee bouwen die direct kunnen putten uit het publiek van het sociale netwerk. TechCrunch meldt dat Bluesky dit \"social vibe coding\" noemt. De stap past bij de bredere trend waarbij AI het bouwen van apps voor gewone mensen bereikbaar maakt.",
+ "takeaways": [
+  "Attie is een experimenteel AI-platform van Bluesky.",
+  "Gebruikers maken games, quizzen en websites zonder traditioneel programmeerwerk.",
+  "De gemaakte ervaringen kunnen het publiek van het sociale netwerk aanspreken.",
+  "Bluesky noemt de aanpak \"social vibe coding\"."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Attie precies doet",
+   "body": "Attie is een experimentele app van Bluesky. Je beschrijft in gewone taal wat je wilt maken, en de AI zet dat om in een werkend resultaat. Denk aan een quiz, een klein spel of een simpele website.\n\nHet bijzondere zit in de koppeling met het sociale netwerk. Wat je bouwt, kan gebruikmaken van het publiek dat Bluesky al heeft. Je hoeft dus niet eerst een eigen publiek op te bouwen voordat mensen je creatie zien.\n\nBluesky noemt dit \"social vibe coding\". De term verwijst naar het idee dat je al pratend en beschrijvend iets in elkaar zet, zonder code te typen."
+  },
+  {
+   "heading": "Bouwen zonder programmeerkennis",
+   "body": "Tot nu toe was het maken van een interactieve website of game meestal werk voor ontwikkelaars. Platforms als Attie proberen die drempel weg te halen. Je typt een idee en de AI doet de technische uitvoering.\n\nDat betekent niet dat alles perfect werkt. Wat de AI oplevert, blijft afhankelijk van hoe duidelijk je je wens beschrijft. Voor kleine projecten kan het toch tijd schelen.\n\nTechCrunch schrijft dat de uitbreiding bedoeld is om meer mensen zelfstandig dingen te laten maken. Het platform is nog experimenteel, dus verwacht nog wijzigingen."
+  },
+  {
+   "heading": "Waarom dit nieuws telt",
+   "body": "Bluesky positioneert zich met Attie in dezelfde hoek als tools die AI inzetten om software te bouwen. Het sociale netwerk wordt zo niet alleen een plek om te lezen en te posten, maar ook een plek om te maken.\n\nVoor Bluesky is dat een manier om zich te onderscheiden. Het netwerk groeit, maar moet gebruikers ook iets blijvends bieden. Zelfgemaakte quizzen en spelletjes kunnen daar een rol in spelen.\n\nOf dit een blijvend succes wordt, is nog niet bekend. Het platform is experimenteel en de definitieve functies kunnen veranderen."
+  }
+ ],
+ "nl_angle": "Voor makers in Nederland biedt Attie een laagdrempelige manier om iets interactiefs te bouwen zonder programmeur te zijn. Denk aan een quiz voor je publiek of een klein spelletje bij een campagne. Let wel op: het gaat om een experimentele functie van een Amerikaans platform, dus beschikbaarheid en voorwaarden kunnen per moment verschillen. Werk je met persoonsgegevens of betaalde content, dan blijf je als Nederlandse gebruiker gebonden aan de Europese privacyregels (AVG).",
+ "faq": [
+  {
+   "q": "Wat is Attie van Bluesky?",
+   "a": "Attie is een experimentele app van Bluesky waarmee je met AI games, quizzen en websites kunt maken. Je beschrijft je idee in gewone taal en het platform bouwt het uit."
+  },
+  {
+   "q": "Heb ik programmeerkennis nodig voor Attie?",
+   "a": "Nee, het idee is juist dat je zonder code iets in elkaar zet. Je typt een beschrijving en de AI doet de technische uitvoering."
+  },
+  {
+   "q": "Is Attie beschikbaar in Nederland?",
+   "a": "Bluesky is in Nederland te gebruiken, maar Attie is nog experimenteel. Of en wanneer alle functies hier volledig beschikbaar komen, is nog niet bekend."
+  }
+ ],
+ "slug": "bluesky-laat-gebruikers-met-attie-websites-en-games-maken",
+ "kind": "news",
+ "date": "2026-10-15",
+ "published": "2026-10-15T21:51",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+   "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
+  }
+ ],
+ "path": "/nieuws/bluesky-laat-gebruikers-met-attie-websites-en-games-maken/",
+ "og": "/img/og/bluesky-laat-gebruikers-met-attie-websites-en-games-maken.png"
+}

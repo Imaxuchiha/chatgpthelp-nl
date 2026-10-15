@@ -1712,5 +1712,44 @@
   "rood": [],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-15T21:50:17",
+  "slug": "",
+  "title": "Anthropic geeft METR toegang op medewerkersniveau",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-15T21:50:27",
+  "slug": "",
+  "title": "Bluesky laat gebruikers met Attie websites en games maken",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-15T21:50:34",
+  "slug": "",
+  "title": "Meta Muse AI model draait op Mac met Apple M5 Ultra",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

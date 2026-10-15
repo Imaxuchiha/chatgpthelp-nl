@@ -1,0 +1,64 @@
+{
+ "keyword": "meta muse ai model",
+ "seo_title": "Meta Muse AI model draait op Apple Macs",
+ "title": "Meta Muse AI model draait op Mac met Apple M5 Ultra",
+ "meta": "Meta lanceert Muse Spark, een open AI-model dat op twee Mac Studios met Apple M5 Ultra draait. Lees wat dit betekent voor gebruikers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "meta",
+  "apple",
+  "ai-modellen",
+  "open source",
+  "mac"
+ ],
+ "intro": "Meta heeft het Muse Spark Open AI-model aangekondigd. Volgens het bedrijf is dit het krachtigste open-weight model uit de Verenigde Staten tot nu toe. Het model kan lokaal draaien op twee Apple M5 Ultra Mac Studios met het MLX-framework. The Verge meldt dat Meta en Apple hiervoor samenwerken.",
+ "takeaways": [
+  "Meta noemt Muse Spark het meest capabele open-weight model uit de VS tot nu toe",
+  "Het model draait op twee Apple M5 Ultra Mac Studios via het MLX-framework",
+  "Meta en Apple werken samen om het model op Macs te laten werken",
+  "Het is het eerste model in zijn klasse dat op een desktop kan draaien volgens Meta"
+ ],
+ "sections": [
+  {
+   "heading": "Wat Meta aankondigde",
+   "body": "Meta bracht vandaag het Muse Spark Open AI-model naar buiten. Het bedrijf noemt het zelf het meest capabele open-weight model uit de Verenigde Staten tot nu toe. Open-weight betekent dat de modelgewichten publiek beschikbaar zijn. Iedereen kan het model dan zelf downloaden en aanpassen.\n\nVolgens Meta is Muse Spark het eerste model in zijn klasse dat op een desktop kan draaien. Dat gebeurt met twee Apple M5 Ultra Mac Studios. Het MLX-framework van Apple speelt daarbij een rol. The Verge meldt dat beide bedrijven hiervoor samenwerken."
+  },
+  {
+   "heading": "Waarom Apple meedoet",
+   "body": "Apple levert met de M5 Ultra Mac Studio krachtige hardware voor lokaal AI-werk. Het MLX-framework is gemaakt om AI-modellen soepel op Apple-chips te laten lopen. Door samen te werken met Meta laat Apple zien dat zijn machines geschikt zijn voor zwaar AI-gebruik.\n\nVoor Meta is de samenwerking een manier om zijn open model breder te verspreiden. Het bedrijf positioneert Muse Spark als alternatief voor gesloten modellen van andere Amerikaanse aanbieders. De exacte prestaties zijn nog niet onafhankelijk getest."
+  },
+  {
+   "heading": "Wat open-weight modellen betekenen",
+   "body": "Een open-weight model mag je zelf draaien, aanpassen en in eigen software stoppen. Dat scheelt kosten voor bedrijven die geen dure API willen gebruiken. Je hebt wel stevige hardware nodig. Twee Mac Studios met M5 Ultra zijn geen goedkope opstelling.\n\nVoor ontwikkelaars biedt een open model meer controle over data. Gegevens blijven dan op eigen machines staan. Dat kan uitmaken voor organisaties met strenge eisen rond privacy."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en ontwikkelaars betekent dit dat een Amerikaans open model lokaal op Mac-hardware kan draaien. Je hebt dan geen cloud-API nodig en houdt data in eigen huis. De keerzijde is de prijs: twee Mac Studios met M5 Ultra kosten al snel enkele duizenden euro's per stuk. Of Muse Spark in de Europese Unie zonder extra voorwaarden te gebruiken is, is nog niet duidelijk. Meta heeft daar nog niets over gezegd.",
+ "faq": [
+  {
+   "q": "Wat is het Muse Spark Open AI-model?",
+   "a": "Muse Spark is een open-weight AI-model van Meta. Volgens het bedrijf is het het meest capabele open-weight model uit de VS tot nu toe."
+  },
+  {
+   "q": "Op welke hardware draait Muse Spark?",
+   "a": "Het model kan lokaal draaien op twee Apple M5 Ultra Mac Studios met het MLX-framework, meldt The Verge."
+  },
+  {
+   "q": "Heb ik een Mac nodig voor Muse Spark?",
+   "a": "Meta noemt de combinatie met twee Mac Studios als manier om het model op een desktop te draaien. Of andere hardware werkt, is nog niet bekend."
+  }
+ ],
+ "slug": "meta-muse-ai-model-draait-op-mac-met-apple-m5-ultra",
+ "kind": "news",
+ "date": "2026-10-15",
+ "published": "2026-10-15T21:52",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+   "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
+  }
+ ],
+ "path": "/nieuws/meta-muse-ai-model-draait-op-mac-met-apple-m5-ultra/",
+ "og": "/img/og/meta-muse-ai-model-draait-op-mac-met-apple-m5-ultra.png",
+ "take": "Twee Mac Studios met een M5 Ultra om Muse Spark te draaien, dat is een leuke demo voor het podium. Ik heb zelf geen Mac Studio en ga er ook geen twee kopen om een model te testen dat ik nog nergens op echte accounts heb zien werken. Mijn bureau-automatisering draait op Claude Code, en dat verandert pas als ik zie dat zo'n lokaal model het op echt werk beter doet."
+}
