@@ -1,0 +1,68 @@
+{
+ "keyword": "study mode chatgpt",
+ "seo_title": "Study mode ChatGPT: leren met vragen van AI",
+ "title": "Study mode van ChatGPT helpt leerlingen stap voor stap denken",
+ "meta": "OpenAI zet Study mode in voor docenten. Zo werkt de leerstand van ChatGPT en dit betekent het voor scholen in Nederland.",
+ "category": "chatgpt",
+ "tags": [
+  "chatgpt",
+  "study mode",
+  "onderwijs",
+  "openai",
+  "leren"
+ ],
+ "intro": "OpenAI besteedt op Teachers' Day aandacht aan Study mode, een leerstand in ChatGPT. De tool moet docenten helpen leerlingen actief en stap voor stap te laten leren. Dat meldt OpenAI in een eigen bericht.",
+ "takeaways": [
+  "OpenAI noemt Study mode een hulpmiddel voor actief leren via vragen.",
+  "De aankondiging valt samen met Teachers' Day en materiaal in Braziliaans Portugees.",
+  "Docenten kunnen de leerstand inzetten naast hun eigen uitleg in de klas.",
+  "OpenAI geeft geen prijs, releasedatum of beschikbaarheid per land."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Study mode doet",
+   "body": "Study mode is een stand in ChatGPT waarbij de nadruk ligt op vragen stellen. De leerling krijgt geen kant-en-klaar antwoord, maar wordt door de stof geleid. Volgens OpenAI gebeurt dat stap voor stap.\n\nHet idee is dat je zelf blijft nadenken. De chatbot stelt tussenvragen en bouwt de uitleg rustig op. Zo oefen je met redeneren in plaats van overschrijven.\n\nOpenAI koppelt de leerstand aan docenten. Zij kunnen het gereedschap gebruiken om leerlingen actief mee te laten doen in de les."
+  },
+  {
+   "heading": "Teachers' Day en Portugees materiaal",
+   "body": "De aankondiging valt op Teachers' Day. OpenAI brengt daarbij materiaal uit in Braziliaans Portugees. Dat is een keuze voor een grote markt buiten de Verenigde Staten.\n\nHet bericht noemt geen prijs, geen releasedatum en geen lijst met landen. Of Study mode in Nederland en de Europese Unie beschikbaar is, blijkt niet uit de bron.\n\nScholen die het willen proberen, moeten dus zelf checken wat hun account ondersteunt."
+  },
+  {
+   "heading": "Leren met vragen in plaats van antwoorden",
+   "body": "Veel leerlingen gebruiken ChatGPT om snel een uitwerking te krijgen. Study mode draait die aanpak om. De tool vraagt door en laat de leerling zelf een stap zetten.\n\nVoor docenten is dat interessant bij vakken waar je een redenering moet opbouwen. Denk aan wiskunde, geschiedenis of taal. De chatbot kan dan als oefenpartner werken.\n\nOf dat in de praktijk goed gaat, hangt af van hoe de school het inzet. Een tool vervangt geen uitleg van een leraar."
+  },
+  {
+   "heading": "Wat OpenAI niet zegt",
+   "body": "OpenAI noemt geen cijfers over gebruik of resultaten. Er is ook geen onderzoek genoemd waaruit blijkt dat leerlingen beter leren.\n\nDe aankondiging blijft daarmee vooral een beschrijving van de functie. Wie meer wil weten over de werking per land, moet bij OpenAI zelf kijken.\n\nVoor Nederlandse scholen is dat een nuchter uitgangspunt. Eerst testen, dan pas breder invoeren."
+  }
+ ],
+ "nl_angle": "Voor docenten en schoolbesturen in Nederland is Study mode interessant als oefenvorm naast de les. Let wel op de regels rond leerlinggegevens en de Europese AI-wet. OpenAI noemt geen beschikbaarheid per land, dus check eerst of jouw schoolaccount de leerstand heeft. Wil je het uitproberen, begin dan klein, met één klas en één vak.",
+ "faq": [
+  {
+   "q": "Wat is Study mode in ChatGPT?",
+   "a": "Study mode is een leerstand waarin ChatGPT je met vragen door de stof leidt. Je krijgt geen direct antwoord, maar stappen en tussenvragen."
+  },
+  {
+   "q": "Is Study mode beschikbaar in Nederland?",
+   "a": "Dat is niet bekend. OpenAI noemt in het bericht geen landen, prijs of releasedatum."
+  },
+  {
+   "q": "Kunnen docenten Study mode gebruiken in de klas?",
+   "a": "OpenAI presenteert de leerstand als hulpmiddel voor docenten. Of het op jouw school werkt, hangt af van je account en de afspraken binnen de school."
+  }
+ ],
+ "slug": "study-mode-van-chatgpt-helpt-leerlingen-stap-voor-stap-denken",
+ "kind": "news",
+ "date": "2026-10-15",
+ "published": "2026-10-15T17:42",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Teaching students to think and learn through questions",
+   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+  }
+ ],
+ "path": "/chatgpt/study-mode-van-chatgpt-helpt-leerlingen-stap-voor-stap-denken/",
+ "og": "/img/og/study-mode-van-chatgpt-helpt-leerlingen-stap-voor-stap-denken.png",
+ "take": "OpenAI gooit er een leerstand in en noemt het Study mode, prima, maar een chatvenster dat stap voor stap uitlegt is nog geen leraar. Ik bouw zo'n tutor liever zelf met een API en mijn eigen prompt eromheen, dan zit ik niet vast aan een abonnement dat elk jaar duurder wordt. Scholen moeten eerst op een echte klas testen of leerlingen er echt van leren, want een demo is geen product."
+}

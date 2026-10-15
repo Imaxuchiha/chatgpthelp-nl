@@ -1668,5 +1668,49 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-15T17:43:10",
+  "slug": "",
+  "title": "Study mode van ChatGPT helpt leerlingen stap voor stap denken",
+  "kind": "news",
+  "rood": [
+   "S5",
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-15T17:43:20",
+  "slug": "",
+  "title": "AI-tool brengt dodo terug: welke genen zijn nodig",
+  "kind": "news",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-15T17:43:30",
+  "slug": "",
+  "title": "AI-agents komen naar de auto's van Rivian",
+  "kind": "news",
+  "rood": [
+   "S10"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-15T17:44:01",
+  "slug": "",
+  "title": "170 spookaankopen: zo verpest slechte data je PMax",
+  "kind": "column",
+  "rood": [],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

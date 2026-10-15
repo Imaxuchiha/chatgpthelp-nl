@@ -1,0 +1,66 @@
+{
+ "keyword": "shopify spookaankopen google kanaal",
+ "seo_title": "Shopify spookaankopen via Google kanaal: wat je moet weten",
+ "title": "170 spookaankopen: zo verpest slechte data je PMax",
+ "meta": "Shopify spookaankopen via het Google kanaal: 170 aankopen die niet bestonden, GA4 zag er 1. PMax leert van die data. Zo voorkom je het.",
+ "category": "mening",
+ "tags": [
+  "Shopify",
+  "Google Ads",
+  "Performance Max",
+  "conversiemeting",
+  "datahygiëne"
+ ],
+ "intro": "Laatst zag ik iets waar ik even stil van werd. Het Google-kanaal van Shopify vuurde 170 aankopen die niet bestonden. GA4 zag er precies 1. Performance Max leerde vrolijk van die spookaankopen. De AI deed precies wat hij moest doen, met verkeerde data. En dat is precies het probleem.",
+ "takeaways": [
+  "Controleer je conversiedata voordat je PMax laat optimaliseren.",
+  "Een hersynchronisatie tussen Shopify en Merchant Center kan stilletjes je productlabels wissen.",
+  "Meetfouten zijn vaak de echte oorzaak van 'slechte' campagneresultaten."
+ ],
+ "sections": [
+  {
+   "heading": "Het begon met een onschuldige melding",
+   "body": "Een klant belde: de omzet in Google Ads klopte niet met Shopify. In Google Ads stonden 170 aankopen, in GA4 maar 1. Ik dacht eerst aan een simpele trackingfout. Maar nee, het was erger.\n\nShopify's Google-kanaal stuurde aankopen door die nooit hadden plaatsgevonden. Waarschijnlijk een bug of een verkeerde configuratie. Het maakt niet uit hoe het kwam. Waar het om gaat: Performance Max kreeg die data binnen.\n\nPMax is een leermachine. Hij optimaliseert op wat je hem voert. Voer je hem 170 spookaankopen, dan zoekt hij meer van dat soort 'kopers'. Die bestaan niet. Resultaat: geld verbranden aan verkeerde klikken."
+  },
+  {
+   "heading": "AI is zo goed als je data",
+   "body": "Ik zeg het vaak: Smart Bidding en Performance Max zijn zo goed als de data die je ze voert. Met slechte meting optimaliseert de AI vol overtuiging de verkeerde kant op. Dit was daar het perfecte voorbeeld van.\n\nDe AI deed niets fout. Hij kreeg 170 conversies en dacht: top, dit werkt. Meer van dit. Maar de conversies waren nep. De AI kan dat niet ruiken. Hij vertrouwt op jouw meting.\n\nDaarom ben ik zo fel op meetcontroles. Voordat je ook maar één euro aan PMax uitgeeft, moet je zeker weten dat je conversies kloppen. Anders gooi je geld weg."
+  },
+  {
+   "heading": "Het stille gevaar van hersynchronisatie",
+   "body": "En er is nog iets. Na een hersynchronisatie tussen Shopify en Merchant Center stonden de labels op duizenden producten ineens leeg. De campagne die alleen de bestsellers mocht tonen, adverteerde daardoor met alles. Niemand kreeg een melding.\n\nDat is het verraderlijke. Geen foutmelding, geen e-mail, niets. Gewoon stilletjes je hele strategie om zeep. Alleen omdat iemand op 'synchroniseren' klikte.\n\nIk check dat soort dingen nu standaard na elke sync. Het kost vijf minuten. Het scheelt je een hoop ellende."
+  },
+  {
+   "heading": "Wat je morgen moet doen",
+   "body": "Begin met een simpele check. Vergelijk het aantal aankopen in Shopify met wat Google Ads rapporteert. Zit er een groot gat? Dan is er iets mis. Kijk ook naar GA4. Als die er 1 ziet en Google Ads 170, weet je genoeg.\n\nControleer daarna je productlabels in Merchant Center. Vooral na een synchronisatie. Kijk of de labels nog kloppen met je campagnestructuur. Zo niet, fix het direct.\n\nEn onthoud: PMax is geen wondermiddel. Het is een tool die leert van jouw data. Slechte data in, slechte resultaten uit. Punt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse webshops met Shopify en Google Ads is dit een serieus risico. Controleer maandelijks of je conversiedata klopt tussen Shopify, GA4 en Google Ads. Zet een herinnering in je agenda. Na elke synchronisatie met Merchant Center check je de productlabels. Het kost je een kwartier, maar bespaart je mogelijk duizenden euro's aan verspilde advertentie-uitgaven.",
+ "faq": [
+  {
+   "q": "Hoe herken ik spookaankopen in Shopify?",
+   "a": "Vergelijk het aantal aankopen in Shopify met de conversies in Google Ads. Een groot verschil, zoals 170 tegenover 1, wijst op spookaankopen."
+  },
+  {
+   "q": "Waarom zijn spookaankopen gevaarlijk voor Performance Max?",
+   "a": "PMax optimaliseert op conversiedata. Nepaankopen leren de AI om verkeerde gebruikers te targeten, waardoor je budget wordt verspild."
+  },
+  {
+   "q": "Wat moet ik controleren na een hersynchronisatie?",
+   "a": "Controleer of productlabels in Merchant Center nog kloppen. Bij een hersynchronisatie kunnen labels leeg raken, waardoor campagnes met verkeerde producten adverteren."
+  }
+ ],
+ "lessons_used": [
+  "Les shopify-spookaankopen",
+  "Les hersync-wist-labels"
+ ],
+ "slug": "170-spookaankopen-zo-verpest-slechte-data-je-pmax",
+ "kind": "practice",
+ "date": "2026-10-15",
+ "published": "2026-10-15T17:42",
+ "sources": [],
+ "path": "/mening/170-spookaankopen-zo-verpest-slechte-data-je-pmax/",
+ "og": "/img/og/170-spookaankopen-zo-verpest-slechte-data-je-pmax.png",
+ "lesson": "shopify-spookaankopen",
+ "author": "Maxim"
+}
