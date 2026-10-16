@@ -1,0 +1,67 @@
+{
+ "keyword": "elorian glimpse ai",
+ "seo_title": "Elorian Glimpse: eerste AI-model met beeldredenatie",
+ "title": "Elorian Glimpse: eerste AI-model dat met beelden redeneert",
+ "meta": "Elorian lanceert Glimpse, een AI-model dat met beelden redeneert. Volgens eigen tests verslaat het GPT-6 Astra bij grafieken en korte video's.",
+ "category": "nieuws",
+ "tags": [
+  "elorian",
+  "glimpse",
+  "ai-modellen",
+  "beeldredenatie",
+  "openai"
+ ],
+ "intro": "Elorian heeft zijn eerste AI-model uitgebracht: Glimpse. Het model redeneert met beelden in plaats van alleen over beelden te praten. Volgens eigen evaluaties verslaat het OpenAI's GPT-6 Astra op het lezen van wetenschappelijke grafieken en het beschrijven van korte video's.",
+ "takeaways": [
+  "Elorian Glimpse is het eerste model van het bedrijf en richt zich op beeldredenatie.",
+  "Volgens Elorian presteert Glimpse beter dan GPT-6 Astra bij grafieken en korte video's.",
+  "Op andere visuele taken zijn de resultaten vergelijkbaar met bestaande modellen.",
+  "OpenAI heeft nog niet publiek gereageerd op de vergelijking."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Glimpse anders doet",
+   "body": "De meeste AI-modellen kijken naar een afbeelding en beschrijven wat ze zien. Glimpse probeert daarnaast stap voor stap te redeneren over wat er in het beeld staat. Dat blijkt uit de evaluaties die Elorian zelf publiceert.\n\nHet model is volgens TechCrunch gericht op taken waarbij je moet nadenken over verbanden in beeld. Denk aan een grafiek met meerdere lijnen waarin je moet aflezen welke trend het sterkst is. Of aan een korte video waarin je moet uitleggen wat er gebeurt.\n\nElorian noemt Glimpse zijn eerste model. Het bedrijf zegt dat het beter presteert dan GPT-6 Astra van OpenAI op wetenschappelijke grafieken en korte videobeschrijvingen. Op andere visuele redeneertaken zijn de scores vergelijkbaar."
+  },
+  {
+   "heading": "Hoe betrouwbaar zijn die cijfers",
+   "body": "De resultaten komen uit tests van Elorian zelf. Onafhankelijke partijen hebben de cijfers nog niet nagerekend. Dat maakt vergelijkingen met GPT-6 Astra lastig te controleren.\n\nTechCrunch meldt de uitkomsten zonder daar een oordeel aan te hangen. OpenAI heeft nog niet gereageerd op de claim dat Glimpse beter scoort op grafieken en korte video's.\n\nVoor gebruikers betekent dit vooral dat er een nieuwe speler bij komt. Of Glimpse in de praktijk echt beter werkt, blijkt pas als meer mensen het model testen op eigen beeldmateriaal."
+  },
+  {
+   "heading": "Waarom beeldredenatie lastig is",
+   "body": "Beelden bevatten vaak meer informatie dan een model in één keer kan verwerken. Een grafiek met kleine labels vraagt om nauwkeurig lezen. Een video vraagt om het volgen van beweging en tijd.\n\nModellen die alleen beschrijven wat ze zien, missen soms het verband tussen onderdelen. Redeneren met beelden betekent dat een model tussenstappen maakt. Het leest bijvoorbeeld eerst de assen, dan de waarden en trekt daarna een conclusie.\n\nElorian richt zich met Glimpse op dat type taak. Het bedrijf positioneert het model niet als algemene chatbot. De focus ligt op visuele analyse."
+  },
+  {
+   "heading": "Wat er nog onduidelijk is",
+   "body": "Elorian heeft geen prijs, releasedatum of beschikbaarheid voor Europa genoemd. Het is nog niet bekend of Glimpse via een API te gebruiken is. Ook is niet duidelijk of het model in het Nederlands werkt.\n\nTechCrunch schrijft alleen over de evaluaties en de positionering van het model. Details over training, kosten of toegang staan niet in het artikel. Voor Nederlandse gebruikers is er dus nog geen concreet aanbod."
+  }
+ ],
+ "nl_angle": "Voor Nederland is er nog geen directe impact. Glimpse is niet beschikbaar in de EU volgens de gepubliceerde informatie. Bedrijven die AI gebruiken voor beeldanalyse, bijvoorbeeld in de zorg of logistiek, kunnen het model in de gaten houden. Zolang er geen Europese toegang is, blijft GPT-6 Astra van OpenAI voor hen de bekende optie. Ook de vraag of Glimpse aan de Europese AI-regels voldoet, is nog niet beantwoord.",
+ "faq": [
+  {
+   "q": "Wat is Elorian Glimpse?",
+   "a": "Glimpse is het eerste AI-model van Elorian. Het richt zich op redeneren met beelden, zoals grafieken en korte video's."
+  },
+  {
+   "q": "Is Glimpse beter dan GPT-6 Astra?",
+   "a": "Volgens Elorian wel, op wetenschappelijke grafieken en korte videobeschrijvingen. Die cijfers komen uit eigen tests en zijn nog niet onafhankelijk gecontroleerd."
+  },
+  {
+   "q": "Is Glimpse beschikbaar in Nederland?",
+   "a": "Daar is nog niets over bekend. Elorian heeft geen prijs, datum of Europese beschikbaarheid gemeld."
+  }
+ ],
+ "slug": "elorian-glimpse-eerste-ai-model-dat-met-beelden-redeneert",
+ "kind": "news",
+ "date": "2026-10-16",
+ "published": "2026-10-16T21:32",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Elorian’s first AI model wants to reason with images, not just about them",
+   "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
+  }
+ ],
+ "path": "/nieuws/elorian-glimpse-eerste-ai-model-dat-met-beelden-redeneert/",
+ "og": "/img/og/elorian-glimpse-eerste-ai-model-dat-met-beelden-redeneert.png"
+}

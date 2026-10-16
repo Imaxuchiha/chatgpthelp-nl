@@ -1,0 +1,64 @@
+{
+ "keyword": "jev ai model",
+ "seo_title": "Jev ai model: snelst groeiende model bij Vercel",
+ "title": "Jev is het snelst groeiende AI-model bij Vercel ooit",
+ "meta": "Jev is volgens Vercel het snelst overgenomen AI-model ooit. Lees wat dat betekent voor ontwikkelaars en bedrijven in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "jev",
+  "vercel",
+  "ai-modellen",
+  "ontwikkelaars",
+  "api"
+ ],
+ "intro": "Het AI-model Jev is het snelst overgenomen model dat Vercel ooit zag. Dat meldt TechCrunch op basis van cijfers uit de AI-gateway van Vercel. Voor Nederlandse ontwikkelaars zegt dat iets over welke modellen nu in trek zijn.",
+ "takeaways": [
+  "Jev groeide sneller in gebruik dan elk eerder AI-model bij Vercel.",
+  "De cijfers komen uit Vercel's AI-gateway, een dienst vergelijkbaar met OpenRouter.",
+  "Een gateway laat je meerdere modellen via één API aanspreken.",
+  "TechCrunch noemt Jev het snelst overgenomen model tot nu toe."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Vercel precies meet",
+   "body": "Vercel beheert een AI-gateway. Dat is een dienst die één API biedt voor meerdere AI-modellen. Je kiest een model, stuurt je verzoek en de gateway regelt de rest. TechCrunch vergelijkt die opzet met OpenRouter.\n\nDe cijfers over Jev komen uit die gateway. Het gaat dus om het aantal keren dat ontwikkelaars via Vercel voor Jev kiezen. TechCrunch noemt Jev het snelst overgenomen AI-model dat Vercel tot nu toe zag.\n\nHoeveel verzoeken er precies lopen, maakt TechCrunch niet bekend. Ook een exacte periode noemt de bron niet."
+  },
+  {
+   "heading": "Waarom een gateway populair is",
+   "body": "Ontwikkelaars willen niet voor elk model aparte code schrijven. Een gateway vangt dat op. Je wisselt van model zonder je hele applicatie om te bouwen.\n\nDat maakt zo'n dienst een goede graadmeter. Als veel teams via dezelfde route een nieuw model kiezen, zie je dat snel terug in de cijfers. Jev profiteert blijkbaar van die route.\n\nVoor Vercel zelf is het ook commercieel interessant. Elk verzoek via de gateway loopt door hun infrastructuur."
+  },
+  {
+   "heading": "Wat we nog niet weten",
+   "body": "TechCrunch geeft geen absolute aantallen. We weten dus niet hoeveel verzoeken Jev per dag verwerkt. Ook is niet duidelijk wie Jev heeft gebouwd.\n\nDe vergelijking met eerdere modellen komt van Vercel zelf. Onafhankelijke cijfers ontbreken in de bron. Zulke cijfers zeggen bovendien iets over gebruik via één platform, niet over de hele markt.\n\nOf Jev ook buiten Vercel zo hard groeit, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en bureaus is een gateway handig: je test een nieuw model zonder je stack te verbouwen. Let wel op waar je data naartoe gaat. Veel Europese teams kiezen daarom een aanbieder die verwerking binnen de EU regelt. Kijk bij Jev dus eerst waar de servers staan en welke voorwaarden gelden. De cijfers van Vercel zeggen niets over de prijs of beschikbaarheid in euro's. Die gegevens ontbreken in de bron.",
+ "faq": [
+  {
+   "q": "Wat is Jev?",
+   "a": "Jev is een AI-model dat via de AI-gateway van Vercel te gebruiken is. TechCrunch noemt het het snelst overgenomen model dat Vercel tot nu toe zag."
+  },
+  {
+   "q": "Wat is een AI-gateway?",
+   "a": "Dat is een dienst met één API waarmee je meerdere AI-modellen kunt aanroepen. Vercel biedt zo'n gateway, net als OpenRouter."
+  },
+  {
+   "q": "Is Jev beschikbaar in Nederland?",
+   "a": "Daar zegt de bron niets over. Beschikbaarheid en prijzen in euro's zijn nog niet bekend."
+  }
+ ],
+ "slug": "jev-is-het-snelst-groeiende-ai-model-bij-vercel-ooit",
+ "kind": "news",
+ "date": "2026-10-16",
+ "published": "2026-10-16T21:33",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Jev is Vercel’s fastest-adopted AI model ever",
+   "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
+  }
+ ],
+ "path": "/nieuws/jev-is-het-snelst-groeiende-ai-model-bij-vercel-ooit/",
+ "og": "/img/og/jev-is-het-snelst-groeiende-ai-model-bij-vercel-ooit.png",
+ "take": "Een model dat snel wordt overgenomen zegt nog niks over of het goed werk levert. Ik kijk naar wat het oplevert op echte klantdata, niet naar de teller van een gateway. De geldknoppen blijven bij mij, welk model er ook bovenaan staat."
+}

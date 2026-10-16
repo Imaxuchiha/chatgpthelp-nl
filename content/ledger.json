@@ -1735,6 +1735,26 @@
   "de3d82224b": {
    "at": "2026-10-16T17:31:45.572924",
    "why": "ok"
+  },
+  "84c2c565c3": {
+   "at": "2026-10-16T21:31:09.705526",
+   "why": "ok"
+  },
+  "1db14d8077": {
+   "at": "2026-10-16T21:31:09.705526",
+   "why": "ok"
+  },
+  "c74e5a79a0": {
+   "at": "2026-10-16T21:32:09.705526",
+   "why": "poort"
+  },
+  "1aa8b1ac1c": {
+   "at": "2026-10-16T21:32:09.705526",
+   "why": "ok"
+  },
+  "3514787761": {
+   "at": "2026-10-16T21:33:09.705526",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2023,6 +2043,9 @@
   "Google plaatst linkjes prominenter in AI-zoekresultaten",
   "ChatGPT-extensie voor Chrome leest nu al je tabbladen mee",
   "Mistral en CERN bouwen samen AI-model voor deeltjesfysica",
-  "AI in film: Mark Wahlberg ziet kansen en grenzen"
+  "AI in film: Mark Wahlberg ziet kansen en grenzen",
+  "Robotica zit in Lego-fase: nog geen ChatGPT-moment",
+  "Elorian Glimpse: eerste AI-model dat met beelden redeneert",
+  "Jev is het snelst groeiende AI-model bij Vercel ooit"
  ]
 }
