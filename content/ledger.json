@@ -1715,6 +1715,26 @@
   "711b32cc58": {
    "at": "2026-10-16T10:20:00.523062",
    "why": "ok"
+  },
+  "27e0e87759": {
+   "at": "2026-10-16T17:29:45.572924",
+   "why": "poort"
+  },
+  "96f52f3a7d": {
+   "at": "2026-10-16T17:29:45.572924",
+   "why": "ok"
+  },
+  "0336025538": {
+   "at": "2026-10-16T17:30:45.572924",
+   "why": "ok"
+  },
+  "7fce2d750b": {
+   "at": "2026-10-16T17:31:45.572924",
+   "why": "poort"
+  },
+  "de3d82224b": {
+   "at": "2026-10-16T17:31:45.572924",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2000,6 +2020,9 @@
   "Meta Muse AI model draait op Mac met Apple M5 Ultra",
   "FTC dagvaardt OpenAI en Anthropic na veiligheidsincidenten",
   "OpenAI geeft academische labs toegang tot GPT-Rosalind",
-  "Google plaatst linkjes prominenter in AI-zoekresultaten"
+  "Google plaatst linkjes prominenter in AI-zoekresultaten",
+  "ChatGPT-extensie voor Chrome leest nu al je tabbladen mee",
+  "Mistral en CERN bouwen samen AI-model voor deeltjesfysica",
+  "AI in film: Mark Wahlberg ziet kansen en grenzen"
  ]
 }

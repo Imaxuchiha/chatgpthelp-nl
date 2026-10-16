@@ -1,0 +1,68 @@
+{
+ "keyword": "chatgpt chrome tabbladen",
+ "seo_title": "ChatGPT Chrome tabbladen: extensie leest alles mee",
+ "title": "ChatGPT-extensie voor Chrome leest nu al je tabbladen mee",
+ "meta": "De ChatGPT-extensie voor Chrome kan al je open tabbladen lezen en taken overnemen. Wat betekent dat voor je privacy en werk in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "chrome",
+  "privacy",
+  "openai",
+  "extensie"
+ ],
+ "intro": "De ChatGPT-extensie voor Google Chrome kan sinds deze week in al je open tabbladen kijken. De assistent kan zelfs de controle overnemen, meldt Bright. Dat maakt browsertaken sneller, maar roept ook vragen op over privacy en toestemming.",
+ "takeaways": [
+  "De Chrome-extensie van ChatGPT leest alle open tabbladen, niet alleen de actieve pagina.",
+  "De assistent kan handelingen in de browser overnemen, zoals klikken en formulieren invullen.",
+  "Je geeft als gebruiker toestemming per taak, volgens OpenAI.",
+  "Voor bedrijven in Nederland kan dit handig zijn, maar het vraagt om duidelijke afspraken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de extensie precies doet",
+   "body": "De ChatGPT-extensie voor Chrome kijkt naar alle tabbladen die je open hebt staan. Eerder werkte de assistent alleen met de pagina die je op dat moment bekeek. Nu kan hij ook informatie uit andere tabbladen combineren.\n\nVolgens OpenAI kan de extensie ook de controle overnemen. Denk aan het invullen van een formulier of het doorklikken naar een volgende pagina. De gebruiker houdt de regie en moet per actie toestemming geven.\n\nBright meldt dat de functie beschikbaar is in de nieuwste versie van de extensie. Of alle gebruikers in Nederland hem direct zien, is nog niet duidelijk."
+  },
+  {
+   "heading": "Handig voor werk, riskant voor privacy",
+   "body": "Voor veel kantoorbanen is dit een uitkomst. Je laat ChatGPT bijvoorbeeld gegevens uit een spreadsheet halen en die in een e-mail zetten. De assistent schakelt dan zelf tussen tabbladen.\n\nTegelijk leest de extensie mee met alles wat openstaat. Dat kan gaan om een persoonlijke mail, een medisch dossier of een klantgegevens. Je moet dus goed nadenken over welke tabbladen je open laat staan tijdens zo'n taak.\n\nOpenAI zegt dat gegevens alleen worden gebruikt voor de taak die je opdracht geeft. Toch blijft het verstandig om gevoelige pagina's te sluiten voordat je de assistent inschakelt."
+  },
+  {
+   "heading": "Wat betekent dit voor Nederland",
+   "body": "In Nederland werken veel mensen met Chrome, zowel thuis als op kantoor. De extensie is gratis te gebruiken, maar je hebt een ChatGPT-account nodig. Voor zakelijk gebruik geldt dat werkgevers moeten checken of dit past binnen hun privacybeleid.\n\nDe Autoriteit Persoonsgegevens heeft nog geen uitspraak gedaan over deze functie. Bedrijven die met persoonsgegevens werken, doen er goed aan om eerst een interne richtlijn op te stellen. Wie de extensie gebruikt, blijft zelf verantwoordelijk voor wat er met die gegevens gebeurt.\n\nVoor freelancers en zzp'ers kan de functie tijd schelen. Je moet alleen zelf de afweging maken of je ChatGPT toegang geeft tot al je tabbladen."
+  },
+  {
+   "heading": "Concurrentie en volgende stappen",
+   "body": "Google werkt zelf aan vergelijkbare functies in Gemini voor Chrome. Microsoft heeft Copilot in Edge al langer tabbladen laten lezen. De strijd om de browser als werkplek wordt daarmee feller.\n\nHet is nog niet bekend of OpenAI de functie ook naar andere browsers brengt. Voorlopig blijft het bij Chrome. Wie de extensie al heeft, kan de nieuwe optie vinden in de instellingen."
+  }
+ ],
+ "nl_angle": "Nederlandse bedrijven die met klantgegevens werken, moeten oppassen. De extensie leest alle open tabbladen, dus ook interne systemen. Zet een duidelijk beleid op voordat medewerkers dit gebruiken. Voor thuisgebruikers is het vooral een kwestie van gevoelige pagina's sluiten. De functie is gratis, maar je gegevens gaan wel naar OpenAI. Wie in de EU werkt, valt onder de AVG. OpenAI moet zich daaraan houden, maar de verantwoordelijkheid voor wat je deelt ligt bij jezelf.",
+ "faq": [
+  {
+   "q": "Kan ChatGPT al mijn Chrome-tabbladen lezen?",
+   "a": "Ja, de extensie kan alle open tabbladen bekijken. Je moet per taak toestemming geven voordat de assistent iets doet."
+  },
+  {
+   "q": "Is de ChatGPT-extensie gratis in Nederland?",
+   "a": "De extensie zelf is gratis. Je hebt wel een ChatGPT-account nodig, en sommige functies vragen een betaald abonnement."
+  },
+  {
+   "q": "Mag mijn werkgever deze extensie verplichten?",
+   "a": "Dat mag alleen als het past binnen het privacybeleid en de AVG. Werkgevers moeten eerst checken of gevoelige gegevens veilig blijven."
+  }
+ ],
+ "slug": "chatgpt-extensie-voor-chrome-leest-nu-al-je-tabbladen-mee",
+ "kind": "news",
+ "date": "2026-10-16",
+ "published": "2026-10-16T17:29",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "ChatGPT kan nu in al je Chrome-tabbladen spieken",
+   "url": "https://www.bright.nl/nieuws/2147496/chatgpt-kan-nu-in-al-je-chrome-tabbladen-spieken.html"
+  }
+ ],
+ "path": "/nieuws/chatgpt-extensie-voor-chrome-leest-nu-al-je-tabbladen-mee/",
+ "og": "/img/og/chatgpt-extensie-voor-chrome-leest-nu-al-je-tabbladen-mee.png",
+ "take": "Een assistent die al mijn tabbladen meeleest, dat is precies waarom ik zelf scripts en agents bouw in plaats van een abonnement te nemen op elke nieuwe truc. Ik bepaal graag zelf welke data een tool ziet en waar die naartoe gaat, en dat lukt alleen als ik de code in eigen hand heb. Gratis of goedkoop eerst, en betalen pas als het zich direct terugverdient."
+}

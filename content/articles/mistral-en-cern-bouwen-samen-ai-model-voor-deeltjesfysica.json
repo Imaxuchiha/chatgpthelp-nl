@@ -1,0 +1,64 @@
+{
+ "keyword": "mistral cern ai",
+ "seo_title": "Mistral en CERN bouwen AI-model voor deeltjesfysica",
+ "title": "Mistral en CERN bouwen samen AI-model voor deeltjesfysica",
+ "meta": "Mistral en CERN ontwikkelen een basismodel dat leert uit deeltjesbotsingen. Wat betekent dit voor onderzoek en AI in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "mistral",
+  "cern",
+  "ai",
+  "deeltjesfysica",
+  "onderzoek"
+ ],
+ "intro": "Het Franse AI-bedrijf Mistral gaat samenwerken met CERN, de Europese organisatie voor onderzoek naar elementaire deeltjes. Ze bouwen een groot AI-model dat leert van botsingen tussen deeltjes. Dat meldt Bright. Het moet het eerste basismodel voor deeltjesfysica worden.",
+ "takeaways": [
+  "Mistral en CERN ontwikkelen samen een groot AI-model voor deeltjesfysica.",
+  "Het model leert uit botsingen tussen deeltjes.",
+  "Het wordt het eerste basismodel op dit vakgebied.",
+  "CERN doet fundamenteel onderzoek naar elementaire deeltjes."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Mistral en CERN precies gaan doen",
+   "body": "CERN is de Europese organisatie die fundamenteel onderzoek doet naar elementaire deeltjes. Denk aan het bestuderen van wat er gebeurt als deeltjes met hoge snelheid op elkaar botsen. Mistral is een Frans AI-bedrijf dat grote taalmodellen maakt.\n\nDe twee partijen ontwikkelen samen een groot AI-model. Dat model leert van de gegevens die bij die botsingen vrijkomen. Het moet het eerste zogenoemde basismodel voor deeltjesfysica worden. Een basismodel is een groot, algemeen AI-model dat je daarna voor specifieke taken kunt gebruiken.\n\nDetails over de planning, kosten of doorlooptijd zijn nog niet bekend. De aankondiging komt van Bright."
+  },
+  {
+   "heading": "Waarom een AI-model helpt bij deeltjesonderzoek",
+   "body": "Bij botsingen in deeltjesversnellers komt enorm veel data vrij. Onderzoekers moeten daarin patronen vinden die op nieuwe natuurkunde kunnen wijzen. Dat handmatig doen is onbegonnen werk.\n\nEen AI-model kan helpen om die patronen sneller te herkennen. Het leert van eerdere metingen en kan daarna voorspellingen doen of afwijkingen signaleren. Zo'n model vervangt de onderzoeker niet. Het filtert ruis weg, zodat wetenschappers zich op de interessante gevallen richten.\n\nOf het model ook buiten CERN bruikbaar wordt, is nog niet duidelijk."
+  },
+  {
+   "heading": "Europese AI in de wetenschap",
+   "body": "Mistral is een van de bekendere Europese AI-bedrijven. De samenwerking met CERN past bij de wens om Europese AI ook in wetenschappelijk onderzoek te gebruiken. CERN zit in Zwitserland en werkt met onderzoekers uit veel Europese landen.\n\nVoor deeltjesfysica is dit de eerste keer dat een basismodel wordt gebouwd. Andere vakgebieden, zoals biologie en klimaatonderzoek, kennen al zulke modellen. De vraag is of dit voor deeltjesfysica net zo werkt.\n\nMeer informatie over de resultaten en publicaties is nog niet beschikbaar."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral interessant omdat Nederlandse onderzoekers en instellingen bij CERN betrokken zijn. Denk aan Nikhef, het nationaal instituut voor subatomaire fysica, dat meewerkt aan CERN-experimenten. Als dit AI-model werkt, kunnen Nederlandse wetenschappers het gebruiken voor hun eigen analyses. Ook laat de samenwerking zien dat Europese AI niet alleen uit de Verenigde Staten komt. Voor bedrijven en onderzoekers in Nederland betekent het een extra Europees alternatief op het gebied van grote AI-modellen.",
+ "faq": [
+  {
+   "q": "Wat gaat Mistral voor CERN doen?",
+   "a": "Mistral ontwikkelt samen met CERN een groot AI-model dat leert van botsingen tussen deeltjes. Het moet het eerste basismodel voor deeltjesfysica worden."
+  },
+  {
+   "q": "Wat is een basismodel in de AI?",
+   "a": "Een basismodel is een groot, algemeen AI-model dat je daarna voor specifieke taken kunt inzetten. Je traint het eerst op veel data en past het later aan."
+  },
+  {
+   "q": "Wat merkt Nederland van deze samenwerking?",
+   "a": "Nederlandse onderzoekers die bij CERN betrokken zijn, kunnen het model gebruiken voor hun analyses. Het laat ook zien dat Europese AI-modellen in opkomst zijn."
+  }
+ ],
+ "slug": "mistral-en-cern-bouwen-samen-ai-model-voor-deeltjesfysica",
+ "kind": "news",
+ "date": "2026-10-16",
+ "published": "2026-10-16T17:30",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Europees AI-bedrijf Mistral gaat CERN helpen om geheimen van het universum te ontrafelen",
+   "url": "https://www.bright.nl/nieuws/2147596/mistral-gaat-cern-helpen-om-geheimen-van-het-universum-te-ontrafelen.html"
+  }
+ ],
+ "path": "/nieuws/mistral-en-cern-bouwen-samen-ai-model-voor-deeltjesfysica/",
+ "og": "/img/og/mistral-en-cern-bouwen-samen-ai-model-voor-deeltjesfysica.png",
+ "take": "Mistral en CERN die samen een model voor deeltjesfysica bouwen, dat is pas interessant als het na de aankondiging ook echt data laat zien. Ik geloof best dat hier iets moois uit komt, maar een persbericht is nog geen werkend model, en dat geldt voor elke AI-samenwerking die ik voorbij zie komen. Mijn eigen tools beginnen allemaal klein en goedkoop, en pas als iets op echte data werkt ga ik er tijd in steken."
+}
