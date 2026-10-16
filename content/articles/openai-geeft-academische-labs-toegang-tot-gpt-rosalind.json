@@ -1,0 +1,64 @@
+{
+ "keyword": "gpt-rosalind academische labs",
+ "seo_title": "GPT-Rosalind voor academische labs: gratis toegang",
+ "title": "OpenAI geeft academische labs toegang tot GPT-Rosalind",
+ "meta": "OpenAI start het Rosalind Academic Plan. Geschikte academische labs krijgen gesponsorde toegang tot GPT-Rosalind voor levenswetenschappen. Zo werkt het.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "gpt-rosalind",
+  "onderzoek",
+  "levenswetenschappen",
+  "academische labs"
+ ],
+ "intro": "OpenAI heeft het Rosalind Academic Plan aangekondigd. Het plan geeft geschikte academische labs gesponsorde toegang tot GPT-Rosalind en bijbehorende tools. Die moeten onderzoek in de levenswetenschappen vooruit helpen. Volgens OpenAI is het bedoeld voor labs die zelf niet zomaar een groot AI-budget hebben.",
+ "takeaways": [
+  "OpenAI biedt academische labs gesponsorde toegang tot GPT-Rosalind.",
+  "Het plan heet het Rosalind Academic Plan.",
+  "De toegang is bedoeld voor onderzoek in de levenswetenschappen.",
+  "Niet elk lab komt in aanmerking; OpenAI noemt de voorwaarden voor geschiktheid."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies aanbiedt",
+   "body": "OpenAI meldt dat het Rosalind Academic Plan gesponsorde toegang geeft tot GPT-Rosalind. Daar horen tools bij die het bedrijf zelf noemt in de aankondiging. Het gaat om labs die zich bezighouden met levenswetenschappen.\n\nGesponsord betekent dat OpenAI de rekening draagt. Welke bedragen daaraan hangen, maakt het bedrijf niet bekend. Ook is niet duidelijk hoe lang een lab toegang houdt. OpenAI zegt alleen dat het om geschikte labs gaat.\n\nDe aankondiging komt van OpenAI zelf. Onafhankelijke details over het aantal plekken of de looptijd ontbreken in de bron."
+  },
+  {
+   "heading": "Waarom juist levenswetenschappen",
+   "body": "GPT-Rosalind is gericht op onderzoek in de levenswetenschappen. Dat vakgebied werkt met grote hoeveelheden data, van genomen tot labresultaten. AI kan daarbij helpen met het doorzoeken en ordenen van die gegevens.\n\nAcademische labs hebben vaak minder geld dan commerciële partijen. Gesponsorde toegang verlaagt die drempel. OpenAI noemt dat zelf als reden voor het plan.\n\nWat een lab precies met de tools mag doen, staat niet in de aankondiging. Ook over publicatierechten zegt OpenAI niets."
+  },
+  {
+   "heading": "Hoe een lab mee kan doen",
+   "body": "OpenAI spreekt van geschikte academische labs. Welke eisen daarbij horen, is nog niet volledig bekend. Geïnteresseerde labs moeten zich volgens de aankondiging aanmelden via OpenAI.\n\nEr is nog geen duidelijkheid over een deadline. Evenmin is bekend hoeveel labs dit jaar mee kunnen doen. Wie wil weten of zijn lab in aanmerking komt, kan het beste de aankondiging van OpenAI zelf volgen.\n\nDe toegang is gesponsord, dus niet automatisch gratis voor iedereen. OpenAI beoordeelt per lab of het past bij het plan."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse onderzoeksgroepen is dit interessant. Universiteiten en umc's doen veel levenswetenschappelijk onderzoek, van kankeronderzoek tot plantenveredeling. Als zij toegang krijgen, scheelt dat kosten voor dure AI-rekenkracht. Toch is nog onbekend of Nederlandse labs meetellen en of er een limiet per land is. Wie in Nederland onderzoek doet, kan zich oriënteren op de voorwaarden en zich aanmelden zodra OpenAI die deelt. Let ook op de Europese privacyregels: onderzoeksdata mogen niet zomaar naar buitenlandse servers. OpenAI zegt hier in de aankondiging niets over.",
+ "faq": [
+  {
+   "q": "Wat is het Rosalind Academic Plan?",
+   "a": "Dat is een plan van OpenAI waarbij geschikte academische labs gesponsorde toegang krijgen tot GPT-Rosalind en bijbehorende tools voor levenswetenschappelijk onderzoek."
+  },
+  {
+   "q": "Is GPT-Rosalind gratis voor academici?",
+   "a": "OpenAI noemt de toegang gesponsord. Dat betekent dat het bedrijf de kosten draagt voor labs die het geschikt acht. De precieze voorwaarden zijn nog niet bekend."
+  },
+  {
+   "q": "Kunnen Nederlandse labs meedoen?",
+   "a": "Dat is nog niet duidelijk. OpenAI zegt alleen dat geschikte academische labs in aanmerking komen. Of er een beperking per land geldt, vermeldt de aankondiging niet."
+  }
+ ],
+ "slug": "openai-geeft-academische-labs-toegang-tot-gpt-rosalind",
+ "kind": "news",
+ "date": "2026-10-16",
+ "published": "2026-10-16T10:19",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+  }
+ ],
+ "path": "/nieuws/openai-geeft-academische-labs-toegang-tot-gpt-rosalind/",
+ "og": "/img/og/openai-geeft-academische-labs-toegang-tot-gpt-rosalind.png",
+ "take": "Gesponsorde toegang voor labs zonder groot AI-budget is prima marketing van OpenAI, want wie eenmaal op GPT-Rosalind werkt stapt niet snel over. Zulke labs doen het onderzoekswerk, terwijl de keuzes over geld en toegang bij OpenAI liggen. Ik geef AI graag het rekenwerk, maar de knoppen waar budget en data aan hangen blijven bij een mens."
+}

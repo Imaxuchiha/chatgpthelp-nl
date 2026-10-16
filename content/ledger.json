@@ -1703,6 +1703,18 @@
   "c7cea461bd": {
    "at": "2026-10-15T21:52:04.255314",
    "why": "ok"
+  },
+  "ea98cb752b": {
+   "at": "2026-10-16T10:18:00.523062",
+   "why": "ok"
+  },
+  "a72d1e4da6": {
+   "at": "2026-10-16T10:19:00.523062",
+   "why": "ok"
+  },
+  "711b32cc58": {
+   "at": "2026-10-16T10:20:00.523062",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -1985,6 +1997,9 @@
   "AI-agents komen naar de auto's van Rivian",
   "Anthropic geeft METR toegang op medewerkersniveau",
   "Bluesky laat gebruikers met Attie websites en games maken",
-  "Meta Muse AI model draait op Mac met Apple M5 Ultra"
+  "Meta Muse AI model draait op Mac met Apple M5 Ultra",
+  "FTC dagvaardt OpenAI en Anthropic na veiligheidsincidenten",
+  "OpenAI geeft academische labs toegang tot GPT-Rosalind",
+  "Google plaatst linkjes prominenter in AI-zoekresultaten"
  ]
 }

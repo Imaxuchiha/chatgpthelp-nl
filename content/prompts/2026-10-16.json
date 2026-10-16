@@ -1,0 +1,14 @@
+{
+ "title": "Prompt: onderhandelen over een hoger salaris",
+ "situation": "Je hebt een aanbod of je wilt opslag vragen, maar weet niet hoe je het gesprek inhoudelijk voorbereidt. Deze prompt zet je argumenten en cijfers op een rij.",
+ "prompt": "Je bent een onderhandelaar met ervaring in Nederlandse arbeidsvoorwaarden. Ik werk als [FUNCTIE] bij [BEDRIJF/SECTOR] en verdien nu [HUIDIG BRUTO MAANDSALARIS] euro per maand. Ik wil [GEWENST SALARIS] euro vragen omdat [REDEN: meer taken, goede beoordeling, marktconform]. Mijn werkzaamheden zijn: [BESCHRIJF 3 TAKEN]. Mijn sterke punten dit jaar: [NOEM 2 RESULTATEN MET CIJFERS]. Geef mij: 1) een openingszin voor het gesprek, 2) drie argumenten op volgorde van kracht, 3) een reactie op 'daar is nu geen budget voor', 4) twee vragen die ik mijn leidinggevende kan stellen. Houd het zakelijk en zonder dreigementen.",
+ "tip": "Vul bij je resultaten echte cijfers in, want concrete voorbeelden wegen zwaarder dan algemene complimenten.",
+ "tags": [
+  "werk",
+  "salaris",
+  "onderhandelen"
+ ],
+ "date": "2026-10-16",
+ "slug": "prompt-onderhandelen-over-een-hoger-salaris",
+ "path": "/prompts/2026-10-16-prompt-onderhandelen-over-een-hoger-salaris/"
+}

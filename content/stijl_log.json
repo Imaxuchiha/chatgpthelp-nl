@@ -1751,5 +1751,56 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-16T10:18:16",
+  "slug": "",
+  "title": "FTC dagvaardt OpenAI en Anthropic na veiligheidsincidenten",
+  "kind": "news",
+  "rood": [
+   "S10"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-16T10:18:25",
+  "slug": "",
+  "title": "OpenAI geeft academische labs toegang tot GPT-Rosalind",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-16T10:18:36",
+  "slug": "",
+  "title": "Google plaatst linkjes prominenter in AI-zoekresultaten",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-16T10:19:11",
+  "slug": "",
+  "title": "Claude vs ChatGPT: welke AI-assistent past bij jou?",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S11",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
