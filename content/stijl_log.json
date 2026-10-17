@@ -1997,5 +1997,43 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-17T16:23:14",
+  "slug": "",
+  "title": "Websites blokkeren AI-agents van AI-bedrijven",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-17T16:23:22",
+  "slug": "",
+  "title": "Anthropic wil Amerikaans ai-beleid met ban bij risico op 50 doden",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-17T16:23:31",
+  "slug": "",
+  "title": "AI-agents websites: almaar meer sites sluiten de deur",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

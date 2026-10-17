@@ -1775,6 +1775,18 @@
   "4a2f3ca18e": {
    "at": "2026-10-17T09:56:11.017949",
    "why": "ok"
+  },
+  "e6b3a0ed77": {
+   "at": "2026-10-17T16:23:02.156521",
+   "why": "ok"
+  },
+  "3507f92ee7": {
+   "at": "2026-10-17T16:24:02.156521",
+   "why": "ok"
+  },
+  "7961974325": {
+   "at": "2026-10-17T16:25:02.156521",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2069,6 +2081,9 @@
   "Jev is het snelst groeiende AI-model bij Vercel ooit",
   "Itaú bouwt generatieve ai voor klanten met ia.i en IARA",
   "Replit stopt samenwerking met Anthropic, zegt CEO",
-  "Codex OpenAI helpt Benefit Street Partners sneller antwoorden"
+  "Codex OpenAI helpt Benefit Street Partners sneller antwoorden",
+  "Websites blokkeren AI-agents van AI-bedrijven",
+  "Anthropic wil Amerikaans ai-beleid met ban bij risico op 50 doden",
+  "AI-agents websites: almaar meer sites sluiten de deur"
  ]
 }

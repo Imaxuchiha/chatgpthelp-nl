@@ -1,0 +1,68 @@
+{
+ "keyword": "ai-agents websites",
+ "seo_title": "AI-agents websites: steeds meer sites blokkeren ze",
+ "title": "AI-agents websites: almaar meer sites sluiten de deur",
+ "meta": "Websites weren AI-agents die namens jou het web op gaan. Wat dat betekent voor ChatGPT-gebruikers en bedrijven in Nederland, lees je hier.",
+ "category": "nieuws",
+ "tags": [
+  "ai-agents",
+  "openai",
+  "web",
+  "privacy",
+  "chatgpt"
+ ],
+ "intro": "Autonome AI-agents moeten voor jou reserveringen maken, je inbox opruimen en schoenen kopen. OpenAI, Meta en Google beloven dat die agents het hele web kunnen doorzoeken. Websites beginnen daar nu een stokje voor te steken, meldt The Verge.",
+ "takeaways": [
+  "Meerdere websites blokkeren inmiddels verkeer van autonome AI-agents.",
+  "OpenAI, Meta, Google en Instinct beloven agents die zelfstandig taken op het web uitvoeren.",
+  "De blokkades raken vooral diensten waar een agent namens een gebruiker acties uitvoert.",
+  "Hoe wijdverbreid de blokkades zijn, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat een AI-agent precies doet",
+   "body": "Een AI-agent is software die zelfstandig stappen zet op internet. Je geeft een opdracht en de agent klikt, typt en boekt verder zonder dat je meekijkt. OpenAI, Meta, Google en het bedrijf Instinct beloven zulke agents aan hun gebruikers.\n\nDat klinkt handig. De praktijk is weerbarstiger. Een agent die zelf een tafel reserveert of je inbox leegmaakt, moet op sites komen die daar niet altijd op zijn gebouwd. Sommige sites zien zo'n agent liever niet komen."
+  },
+  {
+   "heading": "Sites zetten de deur dicht",
+   "body": "In de afgelopen weken hebben verschillende websites maatregelen genomen tegen AI-agents, schrijft The Verge. Ze weren het verkeer of beperken wat een agent er kan doen. Welke sites dat precies zijn en hoe streng ze optreden, maakt de bron niet volledig duidelijk.\n\nVoor site-eigenaren speelt meer mee dan techniek. Een agent die namens iemand anders bestelt, kost capaciteit en levert geen bezoeker op die advertenties ziet. Ook vragen eigenaren zich af wie aansprakelijk is als een agent iets verkeerd invult of bestelt."
+  },
+  {
+   "heading": "Waarom dit nu opspeelt",
+   "body": "De belofte van agents is groot, de uitvoering pril. Aanbieders presenteren hun agents als de volgende stap na de chatbot. Gebruikers verwachten dat zo'n agent overal binnenkomt waar zij zelf ook komen.\n\nDie verwachting botst met de werkelijkheid van het open web. Sites bepalen zelf wie er binnenkomt. Zonder afspraken tussen aanbieders en websites blijft een agent regelmatig voor een dichte deur staan. The Verge noemt geen oplossing die al werkt."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Hoeveel websites inmiddels blokkeren, is onduidelijk. Ook is niet bekend of OpenAI en andere aanbieders hierover in gesprek zijn met grote sites. De bron noemt geen namen van geblokkeerde partijen en geen aantallen.\n\nDuidelijk is wel dat de belofte van de alles-kunnende agent voorlopig niet overal opgaat. Gebruikers merken dat vooral bij taken waarbij een agent echt iets moet afronden, zoals boeken of kopen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers van ChatGPT of vergelijkbare diensten betekent dit dat een agent niet overal komt waar jij zelf kunt inloggen of boeken. Reken erop dat sommige reserveringen of aankopen gewoon handmatig blijven. Bedrijven in Nederland die een agent willen inzetten voor klantcontact of inkoop, doen er goed aan eerst te checken of hun leveranciers en partners dat verkeer accepteren. Er is nog geen Europese regel die websites verplicht AI-agents toe te laten.",
+ "faq": [
+  {
+   "q": "Wat is een AI-agent?",
+   "a": "Software die zelfstandig opdrachten uitvoert op internet, zoals een tafel reserveren of je inbox opruimen. Je hoeft niet zelf elke stap te klikken."
+  },
+  {
+   "q": "Waarom blokkeren websites AI-agents?",
+   "a": "Eigenaren willen controle houden over wie hun site gebruikt. Een agent levert geen gewone bezoeker op en kan fouten maken bij het bestellen of invullen van gegevens."
+  },
+  {
+   "q": "Werkt een AI-agent in Nederland gewoon?",
+   "a": "Soms wel, soms niet. Het hangt per website af of die het verkeer van een agent toelaat. Er is nog geen regel die sites daartoe verplicht."
+  }
+ ],
+ "slug": "ai-agents-websites-almaar-meer-sites-sluiten-de-deur",
+ "kind": "news",
+ "date": "2026-10-17",
+ "published": "2026-10-17T16:25",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Websites are closing their doors to AI agents",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+  }
+ ],
+ "path": "/nieuws/ai-agents-websites-almaar-meer-sites-sluiten-de-deur/",
+ "og": "/img/og/ai-agents-websites-almaar-meer-sites-sluiten-de-deur.png",
+ "take": "Sites die AI-agents weren, kiezen voor controle boven volume, en dat mag. Ik geef mijn eigen agents ook geen vrijbrief: ze mogen analyseren, rapporteren en campagnes in pauze klaarzetten, maar budgetten en aan-uit blijven achter een harde poort met een bevestigingszin. Zo houd ik de geldknop bij een mens en verdient een agent zijn plek pas als ik kan aanwijzen wat hij oplevert."
+}
