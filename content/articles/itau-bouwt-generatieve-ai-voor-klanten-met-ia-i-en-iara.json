@@ -1,0 +1,64 @@
+{
+ "keyword": "itaú generatieve ai",
+ "seo_title": "Itaú generatieve ai: ia.i en IARA van OpenAI",
+ "title": "Itaú bouwt generatieve ai voor klanten met ia.i en IARA",
+ "meta": "Braziliaanse bank Itaú zet generatieve ai in voor klanten en medewerkers met ia.i en het IARA-platform. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "itaú",
+  "generatieve ai",
+  "banken",
+  "governance"
+ ],
+ "intro": "De Braziliaanse bank Itaú gebruikt generatieve ai voor zijn hele klantenbestand. Dat gebeurt via ia.i, een gespreksinterface, en het IARA-platform voor governance. OpenAI meldt de aanpak in een klantverhaal. Itaú werkt in een van de zwaarst gereguleerde sectoren van Brazilië.",
+ "takeaways": [
+  "Itaú zet generatieve ai in voor klanten én medewerkers, volgens OpenAI.",
+  "ia.i is de gespreksinterface waarmee klanten met ai werken.",
+  "IARA regelt de governance van de ai-toepassingen bij de bank.",
+  "De bank volgt een AI First-strategie in een sterk gereguleerde markt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Itaú precies bouwt",
+   "body": "Itaú heeft twee onderdelen staan: ia.i en IARA. ia.i is een gespreksinterface. Klanten praten daarmee in gewone taal met de systemen van de bank. IARA is een platform dat de governance regelt. Daaronder vallen regels, controle en toezicht op wat de ai doet.\n\nVolgens OpenAI past de bank hiermee haar AI First-strategie toe. Dat geldt voor klanten en voor medewerkers. De bank noemt de eigen aanpak breed: ai zit in de dienstverlening en in het interne werk.\n\nOpenAI geeft in het verhaal geen cijfers over het aantal gebruikers. Ook bedragen of tijdlijnen ontbreken. Wat de ai precies mag doen zonder menselijke tussenkomst, blijft onduidelijk."
+  },
+  {
+   "heading": "Waarom governance hier zwaar weegt",
+   "body": "Bankieren is in Brazilië streng gereguleerd. Een gespreksinterface die klanten te woord staat, raakt direct aan die regels. IARA lijkt daarom minstens zo belangrijk als ia.i zelf. Het platform moet ervoor zorgen dat ai-toepassingen binnen de kaders blijven.\n\nOpenAI schetst de combinatie als een voorbeeld voor de sector. Een bank die ai breed inzet, moet kunnen uitleggen hoe beslissingen tot stand komen. Toezichthouders willen dat kunnen volgen.\n\nHoe IARA precies werkt, maakt OpenAI niet duidelijk. Of het gaat om audits, logging of goedkeuring vooraf, blijft open."
+  },
+  {
+   "heading": "Wat OpenAI hiermee laat zien",
+   "body": "OpenAI gebruikt Itaú als voorbeeld van ai in een gereguleerde markt. De nadruk ligt op de combinatie van een klantgerichte interface en een controlelaag. Dat past bij de vraag van grote organisaties naar ai die valt uit te leggen aan toezichthouders.\n\nHet verhaal noemt geen prijzen of licentievormen. Ook is niet bekend welke modellen Itaú gebruikt. OpenAI vermeldt alleen dat de bank generatieve ai inzet, zonder technische details.\n\nVoor OpenAI is de bank een referentie in Latijns-Amerika. Het bedrijf bouwt vaker aan dit soort klantverhalen om zakelijke kopers over de streep te trekken."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse banken en verzekeraars is dit een herkenbaar patroon. Ook hier stellen toezichthouders zoals De Nederlandsche Bank eisen aan ai in de dienstverlening. Een gespreksinterface voor klanten betekent dat antwoorden controleerbaar moeten zijn. Het Braziliaanse voorbeeld laat zien dat een aparte governance-laag geen overbodige luxe is. Nederlandse instellingen die zoiets bouwen, krijgen te maken met de Europese ai-wet en met bestaande regels voor financieel toezicht. Concrete prijzen of beschikbaarheid in Nederland noemt OpenAI niet.",
+ "faq": [
+  {
+   "q": "Wat is ia.i van Itaú?",
+   "a": "ia.i is de gespreksinterface waarmee klanten van Itaú in gewone taal met de systemen van de bank praten. OpenAI noemt het een conversatie-interface voor de hele klantenbasis."
+  },
+  {
+   "q": "Wat doet IARA?",
+   "a": "IARA is het platform dat de governance van de ai-toepassingen bij Itaú regelt. Het moet ervoor zorgen dat ai binnen de regels van de zwaar gereguleerde banksector blijft."
+  },
+  {
+   "q": "Kunnen Nederlandse banken dit ook gebruiken?",
+   "a": "OpenAI meldt niets over beschikbaarheid in Nederland of Europa. Nederlandse instellingen hebben daarnaast te maken met Europese ai-regels en met eigen eisen van toezichthouders."
+  }
+ ],
+ "slug": "itau-bouwt-generatieve-ai-voor-klanten-met-ia-i-en-iara",
+ "kind": "news",
+ "date": "2026-10-17",
+ "published": "2026-10-17T09:54",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How Itaú is building generative AI for its entire customer base",
+   "url": "https://openai.com/index/itau-generative-ai"
+  }
+ ],
+ "path": "/nieuws/itau-bouwt-generatieve-ai-voor-klanten-met-ia-i-en-iara/",
+ "og": "/img/og/itau-bouwt-generatieve-ai-voor-klanten-met-ia-i-en-iara.png",
+ "take": "Een bank die generatieve ai over het hele klantenbestand uitrolt, daar kijk ik met gemengde gevoelens naar. Ia.i en IARA laten zien dat governance het echte werk is, want een gespreksinterface is zo gebouwd en de controle eromheen kost maanden. Mijn eigen regel blijft: niet snoeien op gevoel, en dat geldt net zo goed voor een model dat je op klantdata loslaat voordat je hebt gemeten wat het doet."
+}

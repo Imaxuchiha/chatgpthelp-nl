@@ -1,0 +1,69 @@
+{
+ "keyword": "remotion video code",
+ "seo_title": "Remotion video code: mijn ervaring als marketeer",
+ "title": "Remotion video code: waarom ik schermen in code bouw",
+ "meta": "Remotion video code gebruik ik voor productpromo's. Schermen en tekst kloppen pixel voor pixel, iets wat AI-video zoals Sora niet kan.",
+ "category": "mening",
+ "tags": [
+  "Remotion",
+  "AI-video",
+  "productpromo",
+  "videoproductie",
+  "Claude Code"
+ ],
+ "intro": "Voor video's met schermen en tekst in beeld is Remotion gewoon de beste optie die ik ken. AI-video zoals Sora maakt mooie sfeerbeelden, maar verprutst consequent letters en interfaces. Daarom bouw ik dat soort shots in code. Via Claude Code gaat dat verrassend snel.",
+ "takeaways": [
+  "Remotion geeft je pixel-perfecte controle over schermen en tekst in video.",
+  "AI-video zoals Sora is onbruikbaar voor UI of tekst in beeld.",
+  "Met Claude Code bouw je een Remotion-video sneller dan je denkt."
+ ],
+ "sections": [
+  {
+   "heading": "Waarvoor ik Remotion gebruik",
+   "body": "Ik gebruik Remotion voor productpromo's. Vooral als er een app-interface, dashboard of typografie in beeld moet. Denk aan een demo van een SaaS-tool of een explainer voor een webshopfunctie.\n\nAlles wat een scherm of tekst bevat, bouw ik in code. Sfeerbeelden en abstracte shots laat ik aan AI-video over. Die combi werkt top.\n\nVia Claude Code schrijf ik de componenten. Claude kent de Remotion API goed en genereert werkende code. Daarna render ik lokaal of in de cloud."
+  },
+  {
+   "heading": "Wat goed is",
+   "body": "Het grote voordeel: alles klopt tot op de pixel. Letters zijn scherp, kleuren kloppen, en een interface ziet eruit als een echte interface. Geen wazige tekst of hallucinerende knoppen.\n\nOmdat het code is, kan ik versies beheren, herbruikbare componenten maken en snel variaties renderen. Een andere buttontekst of kleur is een kwestie van een parameter aanpassen.\n\nEn het is gratis. Remotion is open source. Je betaalt alleen voor rendertijd als je hun cloud gebruikt. Lokaal renderen kost alleen je eigen rekentijd."
+  },
+  {
+   "heading": "Wat tegenvalt",
+   "body": "De leercurve is steil als je niet kunt programmeren. Zonder Claude Code was ik er waarschijnlijk niet aan begonnen. Nu typ ik een prompt en Claude doet het zware werk.\n\nSoms moet je de code zelf debuggen. Claude maakt fouten, vooral bij complexe animaties of tijdlijnen. Dan ben je even aan het prutsen.\n\nEn het is geen tool voor snelle, losse video's. Voor een simpele talking head of een vlog gebruik ik CapCut. Remotion is voor projecten waar precisie telt."
+  },
+  {
+   "heading": "Voor wie wel en niet",
+   "body": "Remotion is voor developers, of voor mensen zoals ik die AI-assistenten zoals Claude Code gebruiken. Je moet geen angst hebben voor code. Dan is het een krachtig alternatief voor dure videotools.\n\nVoor pure sfeerbeelden blijf ik bij AI-video. Sora maakt prachtige shots, maar zodra er tekst of een interface in beeld komt, gaat het mis. Die combi gebruik ik dus: Sora voor de sfeer, Remotion voor de feiten.\n\nVoor een marketeer zonder technische achtergrond is dit waarschijnlijk te veel gedoe. Dan kun je beter een editor inhuren of een tool als Canva gebruiken voor simpele animaties."
+  },
+  {
+   "heading": "Eindoordeel",
+   "body": "Remotion is voor mij een blijvertje. Het lost een concreet probleem op: AI-video kan geen tekst en schermen renderen. Remotion wel, en het resultaat is productieklaar.\n\nDe combinatie met Claude Code maakt het toegankelijk. Zonder die assistent was de drempel te hoog. Nu bouw ik een productpromo in een middag.\n\nAls je video's maakt waarin interfaces of typografie belangrijk zijn, probeer het eens. Het is gratis, dus je riskeert alleen wat tijd."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ondernemers met een SaaS-product of app is dit een serieuze optie. Je kunt een strakke demo of explainer maken zonder dure videoproductie. Combineer Remotion met AI-video voor sfeerbeelden en je hebt een complete commercial. Zorg wel dat je iemand met code-ervaring in huis hebt, of gebruik Claude Code zoals ik doe.",
+ "faq": [
+  {
+   "q": "Is Remotion gratis?",
+   "a": "Ja, Remotion is open source en gratis te gebruiken. Je betaalt alleen als je hun cloud rendering gebruikt."
+  },
+  {
+   "q": "Heb ik programmeerkennis nodig voor Remotion?",
+   "a": "Ja, Remotion werkt met React en TypeScript. Zonder code-ervaring is het lastig, maar met een AI-assistent zoals Claude Code kun je veel zelf doen."
+  },
+  {
+   "q": "Kan Remotion AI-video zoals Sora vervangen?",
+   "a": "Nee, voor sfeerbeelden blijft AI-video sterker. Remotion is juist goed voor schermen en tekst, waar AI-video faalt."
+  }
+ ],
+ "lessons_used": [
+  "sora-tekst-in-beeld"
+ ],
+ "slug": "remotion-video-code-waarom-ik-schermen-in-code-bouw",
+ "kind": "review",
+ "date": "2026-10-17",
+ "published": "2026-10-17T09:54",
+ "sources": [],
+ "path": "/mening/remotion-video-code-waarom-ik-schermen-in-code-bouw/",
+ "og": "/img/og/remotion-video-code-waarom-ik-schermen-in-code-bouw.png",
+ "tool": "Remotion",
+ "author": "Maxim"
+}

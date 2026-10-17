@@ -1755,6 +1755,26 @@
   "3514787761": {
    "at": "2026-10-16T21:33:09.705526",
    "why": "ok"
+  },
+  "65442e7082": {
+   "at": "2026-10-17T09:54:11.017949",
+   "why": "ok"
+  },
+  "4660d74411": {
+   "at": "2026-10-17T09:55:11.017949",
+   "why": "poort"
+  },
+  "18f9fd0105": {
+   "at": "2026-10-17T09:55:11.017949",
+   "why": "ok"
+  },
+  "9db4940a53": {
+   "at": "2026-10-17T09:56:11.017949",
+   "why": "poort"
+  },
+  "4a2f3ca18e": {
+   "at": "2026-10-17T09:56:11.017949",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2046,6 +2066,9 @@
   "AI in film: Mark Wahlberg ziet kansen en grenzen",
   "Robotica zit in Lego-fase: nog geen ChatGPT-moment",
   "Elorian Glimpse: eerste AI-model dat met beelden redeneert",
-  "Jev is het snelst groeiende AI-model bij Vercel ooit"
+  "Jev is het snelst groeiende AI-model bij Vercel ooit",
+  "Itaú bouwt generatieve ai voor klanten met ia.i en IARA",
+  "Replit stopt samenwerking met Anthropic, zegt CEO",
+  "Codex OpenAI helpt Benefit Street Partners sneller antwoorden"
  ]
 }

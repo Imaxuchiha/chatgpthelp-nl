@@ -1,0 +1,68 @@
+{
+ "keyword": "codex openai",
+ "seo_title": "Codex OpenAI: Benefit Street Partners werkt sneller",
+ "title": "Codex OpenAI helpt Benefit Street Partners sneller antwoorden",
+ "meta": "Codex OpenAI gebruik bij Benefit Street Partners: leningen vergelijken, kredietovereenkomsten analyseren en sneller code reviewen. Wat betekent dat voor…",
+ "category": "nieuws",
+ "tags": [
+  "codex",
+  "openai",
+  "financiele sector",
+  "code review",
+  "ai op het werk"
+ ],
+ "intro": "Bij Benefit Street Partners bouwt Anant Kumar hulpmiddelen om leningen te vergelijken en kredietovereenkomsten te analyseren. Hij gebruikt Codex van OpenAI voor code review en om sneller opvolging te geven. OpenAI meldt dat in een klantverhaal van 15 oktober 2026. Voor Nederlandse teams laat het zien hoe AI-codeertools buiten de softwarewereld terechtkomen.",
+ "takeaways": [
+  "Anant Kumar gebruikt Codex voor code review en snellere follow-ups.",
+  "Hij bouwt tools om loan valuations te vergelijken en credit agreements te analyseren.",
+  "Het voorbeeld komt van Benefit Street Partners, een partij in de financieringswereld.",
+  "OpenAI noemt geen prijzen, licenties of beschikbaarheid voor Nederland."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Anant Kumar met Codex doet",
+   "body": "Anant Kumar ontwikkelt hulpmiddelen voor het vergelijken van loan valuations. Dat zijn waarderingen van leningen. Daarnaast analyseert hij credit agreements, de contracten waarin kredietafspraken staan. Volgens OpenAI zet hij Codex in voor code review en om sneller follow-ups te doen.\n\nCode review betekent dat iemand controleert of nieuwe code klopt en veilig is. Dat gebeurt vaak handmatig en kost tijd. Kumar laat Codex dat werk ondersteunen, zodat hij eerder door kan met de volgende stap.\n\nOpenAI noemt geen aantallen. Er staat niet in de bron hoeveel tijd het scheelt of hoeveel mensen de tools gebruiken. Ook blijft onduidelijk welke modellen precies zijn ingezet."
+  },
+  {
+   "heading": "Waarom dit opvalt buiten de techsector",
+   "body": "Codeertools werden lang vooral gebruikt door softwarebedrijven. Dit voorbeeld komt uit de financieringswereld, waar documenten en cijfers centraal staan. Kumar bouwt zelf hulpmiddelen voor dat werk en gebruikt Codex bij het onderhoud ervan.\n\nDat patroon zie je vaker: iemand met kennis van het vak maakt kleine tools en laat AI helpen bij het controleren van de code. De waarde zit dan in het sneller kunnen doorwerken aan contracten en waarderingen.\n\nHet voorbeeld blijft wel beperkt. OpenAI beschrijft één medewerker en zijn werkwijze. Het is geen onderzoek naar resultaten voor de hele organisatie."
+  },
+  {
+   "heading": "Wat OpenAI wel en niet zegt",
+   "body": "De publicatie van OpenAI is een klantverhaal. Zulke verhalen laten zien hoe een klant het product gebruikt. Ze bevatten meestal geen onafhankelijke meting van tijdwinst of fouten.\n\nOver de kosten staat niets in de bron. Ook ontbreekt informatie over een Europese of Nederlandse uitrol. Wie wil weten of Codex hier beschikbaar is en wat het kost, moet dat bij OpenAI of een leverancier navragen.\n\nVoor bedrijven die met gevoelige kredietdocumenten werken, blijven vragen over opslag en toegang belangrijk. De bron gaat daar niet op in."
+  },
+  {
+   "heading": "Code review als vast onderdeel",
+   "body": "Code review is het moment waarop iemand anders naar de code kijkt voordat die in gebruik gaat. AI kan daar een rol bij spelen door fouten of onduidelijkheden aan te wijzen. Een mens blijft nodig om te beoordelen of de uitkomst klopt.\n\nKumar gebruikt Codex volgens OpenAI voor precies dat soort controle. Daarna kan hij sneller reageren op vragen die uit het werk komen. Dat past bij een omgeving waar documenten en cijfers vaak veranderen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven, ook buiten de technologiesector, is dit een voorbeeld van AI inzetten bij intern gereedschap. Denk aan teams die zelf spreadsheets of kleine applicaties bouwen voor het vergelijken van contracten. De bron noemt geen prijs in euro's en geen beschikbaarheid in Nederland of de EU. Wil je Codex hiervoor gebruiken, check dan eerst de voorwaarden en waar de gegevens worden verwerkt. Bij kredietdocumenten speelt mee dat gegevens mogelijk vertrouwelijk zijn.",
+ "faq": [
+  {
+   "q": "Wat is Codex van OpenAI?",
+   "a": "Codex is een OpenAI-product dat helpt bij programmeerwerk, zoals het schrijven en controleren van code. In dit voorbeeld gebruikt een medewerker het voor code review en snellere follow-ups."
+  },
+  {
+   "q": "Wat doet Benefit Street Partners met Codex?",
+   "a": "Anant Kumar bouwt tools om loan valuations te vergelijken en credit agreements te analyseren. Volgens OpenAI gebruikt hij Codex voor code review en om sneller op te volgen."
+  },
+  {
+   "q": "Is Codex beschikbaar in Nederland?",
+   "a": "De bron zegt niets over beschikbaarheid in Nederland of de EU. Vraag dat na bij OpenAI of een leverancier voordat je het inzet voor vertrouwelijke documenten."
+  }
+ ],
+ "slug": "codex-openai-helpt-benefit-street-partners-sneller-antwoorden",
+ "kind": "news",
+ "date": "2026-10-17",
+ "published": "2026-10-17T09:56",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Benefit Street Partners answers questions faster with Codex",
+   "url": "https://openai.com/index/benefit-street-partners"
+  }
+ ],
+ "path": "/nieuws/codex-openai-helpt-benefit-street-partners-sneller-antwoorden/",
+ "og": "/img/og/codex-openai-helpt-benefit-street-partners-sneller-antwoorden.png",
+ "take": "Mooi dat een kredietanalist met Codex sneller overeenkomsten doorneemt, maar dat zegt nog niks over het resultaat. Ik wil eerst weten wat zo'n tool doet met data die niet netjes is opgeruimd, want daar gaat het in de praktijk mis. Sneller werken is pas winst als de uitkomst klopt."
+}

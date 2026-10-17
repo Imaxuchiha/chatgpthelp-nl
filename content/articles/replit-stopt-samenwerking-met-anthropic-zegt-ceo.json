@@ -1,0 +1,68 @@
+{
+ "keyword": "replit anthropic stopt",
+ "seo_title": "Replit stopt met Anthropic: wat betekent dat?",
+ "title": "Replit stopt samenwerking met Anthropic, zegt CEO",
+ "meta": "Replit werkt niet meer met Anthropic, meldt CEO Amjad Masad. Lees waarom kosten meespelen en wat dit betekent voor Nederlandse gebruikers.",
+ "category": "nieuws",
+ "tags": [
+  "replit",
+  "anthropic",
+  "openai",
+  "ai-tools",
+  "claude"
+ ],
+ "intro": "Replit is gestopt met het gebruik van Anthropic als leverancier van AI-modellen. Dat zegt topman Amjad Masad tegen TechCrunch. Het bedrijf kondigde in augustus al een samenwerking met OpenAI aan. Waarom de band met Anthropic nu is doorgesneden, is pas sinds deze week duidelijk.",
+ "takeaways": [
+  "Replit werkt niet meer samen met Anthropic, bevestigt CEO Amjad Masad",
+  "Kosten zijn een van de redenen voor het besluit",
+  "In augustus sloot Replit al een partnerschap met OpenAI",
+  "Replit maakte eerder niet bekend dat de samenwerking met Anthropic was beëindigd"
+ ],
+ "sections": [
+  {
+   "heading": "Wat Replit precies zegt",
+   "body": "Masad noemde meerdere redenen voor het einde van de samenwerking. Kosten spelen daarbij een rol, zegt hij tegen TechCrunch. Welke andere redenen meewegen, maakt hij niet concreet.\n\nOpvallend is de timing. Replit kondigde in augustus een partnerschap met OpenAI aan. Dat Replit daarmee ook afscheid had genomen van Anthropic, werd toen niet gemeld. Volgens TechCrunch was er tot deze week geen enkel signaal dat de band was doorgesneden."
+  },
+  {
+   "heading": "Replit als werkplek voor programmeurs",
+   "body": "Replit is een online omgeving waarin je code schrijft en direct uitvoert. De laatste jaren zet het bedrijf sterk in op AI die zelf code schrijft en projecten opzet. Daarvoor leunt het op modellen van externe partijen, zoals Claude van Anthropic en modellen van OpenAI.\n\nWelke modellen Replit nu precies gebruikt, is niet volledig duidelijk. Het bedrijf heeft het zelf niet uitgebreid toegelicht. Duidelijk is wel dat OpenAI een grotere rol krijgt."
+  },
+  {
+   "heading": "Waarom kosten zo zwaar wegen",
+   "body": "AI-modellen draaien op dure rekenkracht. Elke keer dat een gebruiker een opdracht geeft, kost dat geld bij de leverancier. Bij een platform met veel gebruikers loopt dat bedrag snel op.\n\nEen goedkoper model of een gunstiger contract kan dan het verschil maken. Masad noemt kosten expliciet als reden. Concrete bedragen of kortingen noemt hij niet."
+  },
+  {
+   "heading": "Wat dit zegt over de markt",
+   "body": "AI-bedrijven zijn voor veel softwareplatforms een leverancier geworden, net als clouddiensten eerder. Wie te veel afhankelijk is van één partij, kan bij prijsstijgingen weinig kanten op. Replit laat zien dat zo'n afhankelijkheid niet vast hoeft te liggen.\n\nDe stap past bij een breder patroon: platforms kiezen per taak welk model het beste of goedkoopst past. Dat maakt de markt voor AI-modellen beweeglijk."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en bedrijven die Replit gebruiken, verandert er praktisch weinig aan de interface. Wel kan de kwaliteit van de AI-hulp per taak verschillen, omdat er andere modellen achter zitten. Wie Replit inzet voor serieus werk, doet er goed aan eigen code en projecten te blijven controleren. Bedrijven die zelf een AI-leverancier kiezen, kunnen hieruit meenemen dat een tweede aanbieder achter de hand houden verstandig is. Concrete prijzen in euro's voor Replit-abonnementen zijn niet bekendgemaakt bij dit besluit.",
+ "faq": [
+  {
+   "q": "Werkt Replit nog met Claude van Anthropic?",
+   "a": "Nee, volgens CEO Amjad Masad werkt Replit niet meer met Anthropic. In augustus sloot het bedrijf al een partnerschap met OpenAI."
+  },
+  {
+   "q": "Waarom stopt Replit met Anthropic?",
+   "a": "Masad noemt meerdere redenen, waaronder kosten. Welke andere redenen precies meespelen, heeft hij niet toegelicht."
+  },
+  {
+   "q": "Verandert er iets voor Nederlandse gebruikers van Replit?",
+   "a": "De omgeving blijft werken, maar de AI-hulp kan anders aanvoelen omdat er andere modellen worden gebruikt. Controleer je code zoals altijd zelf."
+  }
+ ],
+ "slug": "replit-stopt-samenwerking-met-anthropic-zegt-ceo",
+ "kind": "news",
+ "date": "2026-10-17",
+ "published": "2026-10-17T09:55",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Replit is no longer working with Anthropic, CEO says",
+   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+  }
+ ],
+ "path": "/nieuws/replit-stopt-samenwerking-met-anthropic-zegt-ceo/",
+ "og": "/img/og/replit-stopt-samenwerking-met-anthropic-zegt-ceo.png",
+ "take": "Replit stapt over op OpenAI en laat Anthropic vallen, en dat is een leverancierskeuze die je als gebruiker niets kost zolang je model niet vastzit aan één partij. Ik regel mijn modellen liever zelf via een API, dan bepaalt een CEO niet ineens waar mijn werk op draait. Wie zijn hele stapel op één aanbieder bouwt, zit straks met de rekening van andermans inkoopdeal."
+}

@@ -1917,5 +1917,85 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-17T09:54:24",
+  "slug": "",
+  "title": "Itaú bouwt generatieve ai voor klanten met ia.i en IARA",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-17T09:54:33",
+  "slug": "",
+  "title": "G7-landen oefenen met AI-hackers om financiële sector te testen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-17T09:54:41",
+  "slug": "",
+  "title": "Replit stopt samenwerking met Anthropic, zegt CEO",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-17T09:54:49",
+  "slug": "",
+  "title": "ChatGPT plugin stuwt Stack Overflow for Agents naar 10x groei",
+  "kind": "news",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 2,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-17T09:54:58",
+  "slug": "",
+  "title": "Codex OpenAI helpt Benefit Street Partners sneller antwoorden",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-17T09:55:33",
+  "slug": "",
+  "title": "Remotion video code: waarom ik schermen in code bouw",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S11",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

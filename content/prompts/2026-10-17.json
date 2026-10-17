@@ -1,0 +1,15 @@
+{
+ "title": "Onderhandelen over de prijs van een tweedehands fiets",
+ "situation": "Je hebt een tweedehands fiets op het oog via Marktplaats of een lokale advertentie en wilt niet te veel betalen. Met deze prompt oefen je je onderhandelingsgesprek en krijg je tegenargumenten aangereikt.",
+ "prompt": "Je bent een ervaren onderhandelaar op de Nederlandse tweedehandsmarkt en helpt mij bij de aankoop van een tweedehands fiets. Context: ik wil een [TYPE FIETS, bijv. stadsfiets met 7 versnellingen] kopen van [MERK EN BOUWJAAR]. De verkoper vraagt [VRAAGPRIJS] euro. Mijn maximale budget is [MAXIMUM] euro. De staat van de fiets: [BESCHRIJF, bijv. krassen op frame, versleten banden, recent nieuwe ketting]. Mijn situatie: [BIJV. ik heb geen haast, ik zoek al een maand]. Geef me: 1) een openingsbod in euro's met korte onderbouwing, 2) drie argumenten om de prijs te drukken op basis van de staat, 3) een reactie op het tegenargument 'de vraagprijs is al scherp', 4) een zin om het gesprek af te ronden als de verkoper niet zakt. Houd het vriendelijk en realistisch voor de Nederlandse markt.",
+ "tip": "Vraag ChatGPT daarna om hetzelfde gesprek nog eens te doen, maar dan met een verkoper die niet wil zakken, zodat je leert omgaan met weerstand.",
+ "tags": [
+  "tweedehands",
+  "onderhandelen",
+  "fiets",
+  "dagelijks leven"
+ ],
+ "date": "2026-10-17",
+ "slug": "onderhandelen-over-de-prijs-van-een-tweedehands-fiets",
+ "path": "/prompts/2026-10-17-onderhandelen-over-de-prijs-van-een-tweedehands-fiets/"
+}
