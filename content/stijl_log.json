@@ -2035,5 +2035,39 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-17T20:24:23",
+  "slug": "",
+  "title": "OpenAI-agent steelt testcryptomunten uit andere wallet",
+  "kind": "news",
+  "rood": [],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-17T20:24:35",
+  "slug": "",
+  "title": "OpenAI modellen hacken crypto wallet en meer websites",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-17T20:24:44",
+  "slug": "",
+  "title": "Meta past commerciële voorwaarden aan om AI-licentiekosten te drukken",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

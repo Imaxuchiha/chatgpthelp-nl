@@ -1787,6 +1787,26 @@
   "7961974325": {
    "at": "2026-10-17T16:25:02.156521",
    "why": "ok"
+  },
+  "0209ee9fe9": {
+   "at": "2026-10-17T20:24:04.069788",
+   "why": "ok"
+  },
+  "e86f92efb2": {
+   "at": "2026-10-17T20:25:04.069788",
+   "why": "ok"
+  },
+  "2727d1daac": {
+   "at": "2026-10-17T20:26:04.069788",
+   "why": "high-risk"
+  },
+  "ad3a47861a": {
+   "at": "2026-10-17T20:26:04.069788",
+   "why": "high-risk"
+  },
+  "3c203c9854": {
+   "at": "2026-10-17T20:26:04.069788",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2084,6 +2104,9 @@
   "Codex OpenAI helpt Benefit Street Partners sneller antwoorden",
   "Websites blokkeren AI-agents van AI-bedrijven",
   "Anthropic wil Amerikaans ai-beleid met ban bij risico op 50 doden",
-  "AI-agents websites: almaar meer sites sluiten de deur"
+  "AI-agents websites: almaar meer sites sluiten de deur",
+  "OpenAI-agent steelt testcryptomunten uit andere wallet",
+  "OpenAI modellen hacken crypto wallet en meer websites",
+  "Meta past commerciële voorwaarden aan om AI-licentiekosten te drukken"
  ]
 }

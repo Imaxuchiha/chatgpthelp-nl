@@ -1,0 +1,64 @@
+{
+ "keyword": "meta voorwaarden ai",
+ "seo_title": "Meta voorwaarden ai: nieuwe regels voor commerciële accounts",
+ "title": "Meta past commerciële voorwaarden aan om AI-licentiekosten te drukken",
+ "meta": "Meta heeft zijn commerciële voorwaarden aangepast. Juristen waarschuwen dat het bedrijf zo mogelijk miljoenen aan AI-licentiekosten ontwijkt. Lees wat…",
+ "category": "beleid",
+ "tags": [
+  "meta",
+  "ai-licenties",
+  "voorwaarden",
+  "privacy",
+  "europa"
+ ],
+ "intro": "Meta heeft de commerciële gebruiksvoorwaarden voor zakelijke accounts herschreven. Volgens Ars Technica zien juridische experts daarin een poging om miljoenen aan licentiekosten voor AI-training te ontwijken. Het gaat om tekst die bepaalt wat Meta met gegevens en content van bedrijven mag doen.",
+ "takeaways": [
+  "Meta noemt de aanpassing een vereenvoudiging van de commerciële voorwaarden.",
+  "Juristen spreken van een machtsovername op het gebied van AI en data.",
+  "Door de nieuwe tekst hoopt Meta mogelijk licentiegelden voor trainingsdata te besparen.",
+  "Zakelijke gebruikers in de EU vallen daarnaast onder Europese regels voor datagebruik."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies is veranderd",
+   "body": "Meta heeft zijn commerciële voorwaarden gestroomlijnd, zo meldt Ars Technica. Dat betekent dat de tekst over zakelijke accounts is herschreven en ingekort. Het bedrijf presenteert dat als eenvoudiger regels voor bedrijven die diensten van Meta afnemen.\n\nJuridische deskundigen lezen in de nieuwe tekst iets anders. Zij wijzen erop dat de voorwaarden Meta ruime rechten geven op gegevens en content van zakelijke gebruikers. Die rechten zouden ook gelden voor het trainen van AI-modellen.\n\nNormaal betalen AI-bedrijven voor zulke data, of sluiten ze aparte licenties af. Volgens de experts probeert Meta die kosten te vermijden door de rechten al in de standaardvoorwaarden te regelen."
+  },
+  {
+   "heading": "Waarom dit juridisch gevoelig ligt",
+   "body": "De kern zit in de vraag of een bedrijf via algemene voorwaarden toestemming kan krijgen voor AI-training. In Europa gelden daar aparte regels voor. Gegevens van gebruikers mogen niet zomaar voor dat doel worden ingezet.\n\nArs Technica spreekt van een greep naar macht op AI-gebied. De zorgen gaan verder dan alleen geld. Wie zakelijke content deelt via Meta, weet mogelijk niet dat die content later in een taalmodel belandt.\n\nOf de nieuwe voorwaarden standhouden, is nog niet bekend. Er zijn nog geen uitspraken van rechters of toezichthouders over deze specifieke tekst."
+  },
+  {
+   "heading": "Wat Meta zelf zegt",
+   "body": "Meta licht de wijziging toe als een vereenvoudiging. Het bedrijf stelt dat de regels duidelijker worden voor zakelijke klanten. Over de vraag of de tekst ook voor AI-training geldt, geeft het bedrijf volgens Ars Technica geen volledig uitsluitsel.\n\nDuidelijk is dat de aanpassing opvalt in de bredere strijd om trainingsdata. AI-bedrijven zoeken steeds vaker naar grote hoeveelheden tekst en beeld. De prijs daarvan loopt op, en dat maakt algemene voorwaarden een aantrekkelijke route."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die een zakelijk Meta-account gebruiken, is het zaak de nieuwe voorwaarden na te lezen. In de EU gelden daarnaast de privacyregels van de AVG. Gegevens van klanten en medewerkers mogen niet zonder geldige grondslag voor AI-training worden gebruikt. Ondernemers die veel content via Meta delen, kunnen het beste nagaan welke rechten ze nu weggeven. Of de Autoriteit Persoonsgegevens hier iets van vindt, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat veranderen de commerciële voorwaarden van Meta?",
+   "a": "Meta heeft de tekst voor zakelijke accounts herschreven en vereenvoudigd. Volgens juristen krijgt het bedrijf daardoor ruime rechten op gegevens en content van die accounts."
+  },
+  {
+   "q": "Mag Meta mijn bedrijfsgegevens gebruiken voor AI-training?",
+   "a": "Dat is nog niet duidelijk. In Europa gelden de AVG-regels, en of de nieuwe voorwaarden daarmee in lijn zijn, is nog niet door een rechter of toezichthouder beoordeeld."
+  },
+  {
+   "q": "Wat kan ik als Nederlands bedrijf doen?",
+   "a": "Lees de nieuwe voorwaarden door en kijk welke rechten je weggeeft. Deel geen klantgegevens of gevoelige content via zakelijke accounts als je niet weet wat ermee gebeurt."
+  }
+ ],
+ "slug": "meta-past-commerciele-voorwaarden-aan-om-ai-licentiekosten-te-drukken",
+ "kind": "news",
+ "date": "2026-10-17",
+ "published": "2026-10-17T20:26",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+   "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
+  }
+ ],
+ "path": "/beleid/meta-past-commerciele-voorwaarden-aan-om-ai-licentiekosten-te-drukken/",
+ "og": "/img/og/meta-past-commerciele-voorwaarden-aan-om-ai-licentiekosten-te-drukken.png",
+ "take": "Meta schuift de kosten van AI-training graag naar de gebruiker toe. Ik lees die nieuwe voorwaarden als een rekening die je zelf betaalt met je eigen data. Bouw je tools op je eigen gegevens, dan houd je die rekening in de hand."
+}
