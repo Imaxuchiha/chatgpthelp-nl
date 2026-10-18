@@ -2186,5 +2186,54 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-18T20:34:58",
+  "slug": "",
+  "title": "Anthropic denkt dat sommige AI-modellen bewustzijn hebben",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-18T20:35:06",
+  "slug": "",
+  "title": "Character.AI failliet: Disney neemt meeste personeel over",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-18T20:35:15",
+  "slug": "",
+  "title": "Anthropic geeft externe ai-waakhond toegang als medewerker",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-18T20:35:40",
+  "slug": "",
+  "title": "AI nieuws week 42: Meta scherpt voorwaarden aan, Anthropic opent deuren",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]
