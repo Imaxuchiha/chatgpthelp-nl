@@ -1819,6 +1819,22 @@
   "6435f67122": {
    "at": "2026-10-18T10:10:34.622993",
    "why": "ok"
+  },
+  "9319713d62": {
+   "at": "2026-10-18T16:46:22.079190",
+   "why": "poort"
+  },
+  "266bcb03a7": {
+   "at": "2026-10-18T16:46:22.079190",
+   "why": "ok"
+  },
+  "8069354151": {
+   "at": "2026-10-18T16:47:22.079190",
+   "why": "ok"
+  },
+  "924ca13842": {
+   "at": "2026-10-18T16:48:22.079190",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2122,6 +2138,9 @@
   "Meta past commerciële voorwaarden aan om AI-licentiekosten te drukken",
   "Meta haalt zinsnede over scrapen en ai-training uit voorwaarden",
   "Anthropic krijgt minder junioren en zit vaker in vergaderingen",
-  "Replit kiest OpenAI als standaardmodel, Claude blijft beschikbaar"
+  "Replit kiest OpenAI als standaardmodel, Claude blijft beschikbaar",
+  "Meta past voorwaarden aan: zakelijke accounts en AI-training",
+  "AI ontwerpt virussen: Stanford-onderzoeker maakt genetische blauwdrukken",
+  "ChatGPT kan nu je open Chrome-tabbladen bekijken"
  ]
 }

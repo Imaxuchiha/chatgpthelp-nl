@@ -1,0 +1,68 @@
+{
+ "keyword": "ai ontwerpt virussen",
+ "seo_title": "AI ontwerpt virussen: wat Stanford-onderzoek laat zien",
+ "title": "AI ontwerpt virussen: Stanford-onderzoeker maakt genetische blauwdrukken",
+ "meta": "Een promovendus van Stanford gebruikte een generatief AI-model om genetische blauwdrukken voor virussen te maken. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "biotechnologie",
+  "virussen",
+  "stanford",
+  "onderzoek"
+ ],
+ "intro": "Een promovendus aan Stanford University heeft met een generatief AI-model genetische blauwdrukken voor microscopisch kleine virussen voorgesteld. Dat gebeurde in 2025, meldt MIT Technology Review. Van echt door AI gemaakt leven is nog geen sprake, maar dat kan de volgende stap zijn.",
+ "takeaways": [
+  "Samuel King, promovendus aan Stanford, gebruikte een generatief AI-model voor genetische blauwdrukken van virussen.",
+  "Het resultaat is volgens MIT Technology Review nog geen voorbeeld van door AI gegenereerd leven.",
+  "De onderzoeker bespreekt het werk in een rondetafelsessie van MIT Technology Review.",
+  "Of en wanneer AI zelf levensvormen kan ontwerpen, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat King precies deed",
+   "body": "King zat in 2025 in een promotietraject aan Stanford University. Hij liet een generatief AI-model voorstellen doen voor genetische blauwdrukken van microscopisch kleine virussen. Die blauwdrukken beschrijven hoe zo'n virus in elkaar zit.\n\nBelangrijk om te weten: het ging om voorstellen op papier, niet om virussen die daadwerkelijk zijn gemaakt en getest. MIT Technology Review noemt het werk daarom een voorlopig antwoord op de vraag of AI nieuw leven kan ontwerpen. Een definitief ja is het niet."
+  },
+  {
+   "heading": "Nog geen AI-leven",
+   "body": "De stap van een genetische blauwdruk naar een werkend organisme is groot. De bron zegt expliciet dat dit nog geen voorbeeld is van door AI gegenereerd leven. Of dat ooit lukt, blijft voorlopig open.\n\nWel laat het zien waar generatieve modellen in de biologie terechtkomen. Ze kunnen patronen in erfelijk materiaal herkennen en varianten voorstellen. Onderzoekers gebruiken zulke modellen al bij het zoeken naar eiwitten en medicijnen."
+  },
+  {
+   "heading": "Gesprek bij MIT Technology Review",
+   "body": "MIT Technology Review wijdde op 16 oktober 2026 een rondetafelsessie aan het werk van King. De sessie is terug te kijken of te beluisteren via de site van het medium. Daarin gaat de maker van de AI-ontworpen virussen in gesprek over zijn aanpak.\n\nDe vragen die daar aan bod komen, raken een breder debat. Hoe ver mag AI gaan in de biologie? Wie controleert zulk onderzoek? En welke veiligheidsregels gelden er dan?"
+  },
+  {
+   "heading": "Veiligheid en toezicht",
+   "body": "Onderzoek naar virussen raakt direct aan biologische veiligheid. In Nederland valt dit soort werk onder strenge regels. Laboratoria die met virussen werken, hebben een vergunning nodig en moeten voldoen aan veiligheidseisen.\n\nDe bron gaat niet in op de veiligheidsmaatregelen rond het werk van King. Ook is niet duidelijk of het onderzoek is gepubliceerd of beoordeeld door andere wetenschappers. Die informatie ontbreekt in het aangeleverde materiaal."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral een signaal over waar AI-onderzoek in de biologie naartoe gaat. Universiteiten en laboratoria hier werken al met generatieve modellen, bijvoorbeeld bij het ontwerpen van eiwitten. Komt AI dichter bij het ontwerpen van virussen, dan wordt het gesprek over vergunningen en toezicht urgenter. Bedrijven en instellingen die met erfelijk materiaal werken, krijgen mogelijk te maken met strengere eisen. Concrete Nederlandse regels die specifiek op AI-ontworpen virussen ingaan, zijn nog niet bekend.",
+ "faq": [
+  {
+   "q": "heeft AI echt een virus gemaakt?",
+   "a": "Nee. Een AI-model stelde genetische blauwdrukken voor virussen voor. Of die virussen ook zijn gemaakt en getest, staat niet in de bron."
+  },
+  {
+   "q": "wat is een genetische blauwdruk?",
+   "a": "Dat is een beschrijving van de erfelijke informatie waaruit een organisme is opgebouwd. Bij een virus gaat het om de code die bepaalt hoe het virus in elkaar zit."
+  },
+  {
+   "q": "is dit gevaarlijk?",
+   "a": "De bron gaat niet in op veiligheidsrisico's of maatregelen rond dit onderzoek. Duidelijk is wel dat werk met virussen in Nederland onder strenge regels valt."
+  }
+ ],
+ "slug": "ai-ontwerpt-virussen-stanford-onderzoeker-maakt-genetische-blauwdrukke",
+ "kind": "news",
+ "date": "2026-10-18",
+ "published": "2026-10-18T16:47",
+ "sources": [
+  {
+   "name": "MIT Technology Review",
+   "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+   "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+  }
+ ],
+ "path": "/nieuws/ai-ontwerpt-virussen-stanford-onderzoeker-maakt-genetische-blauwdrukke/",
+ "og": "/img/og/ai-ontwerpt-virussen-stanford-onderzoeker-maakt-genetische-blauwdrukke.png",
+ "take": "Een promovendus die met AI een blauwdruk voor een virus laat uitrekenen, dat is onderzoek en geen product. Ik laat AI graag het rekenwerk doen, maar de knoppen waar het echt gevaarlijk wordt horen bij een mens te blijven. Eerst een werkend labresultaat zien, dan praten we verder."
+}

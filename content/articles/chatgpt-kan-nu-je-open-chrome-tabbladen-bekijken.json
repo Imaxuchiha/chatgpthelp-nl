@@ -1,0 +1,64 @@
+{
+ "keyword": "chatgpt chrome tabs",
+ "seo_title": "ChatGPT Chrome tabs: ChatGPT leest je open tabbladen",
+ "title": "ChatGPT kan nu je open Chrome-tabbladen bekijken",
+ "meta": "ChatGPT ziet met de Chrome-extensie je open tabbladen. Zo werkt het, wat OpenAI zegt en waar je in Nederland op moet letten.",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "openai",
+  "chrome",
+  "privacy",
+  "browser"
+ ],
+ "intro": "ChatGPT krijgt toegang tot de tabbladen die je al open hebt staan in Google Chrome. OpenAI heeft de Chrome-extensie van ChatGPT uitgebreid, meldt The Verge. Je moet Chrome wel expliciet noemen in de app voordat ChatGPT meekijkt.",
+ "takeaways": [
+  "Met de extensie geïnstalleerd kan ChatGPT je open Chrome-tabbladen zien.",
+  "Je moet Chrome taggen in de web- of desktopapp van ChatGPT.",
+  "De aparte browser ChatGPT Atlas bestaat niet meer.",
+  "OpenAI toont de functie in een demo-video."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de extensie nu doet",
+   "body": "De Chrome-extensie van ChatGPT kan vanaf nu de tabbladen gebruiken die je al open hebt staan. OpenAI laat dat zien in een demo-video, volgens The Verge. Je roept de functie aan door Chrome te taggen in de webapp of de desktopapp van ChatGPT.\n\nDat taggen is geen formaliteit. Zonder die stap kijkt ChatGPT niet mee met je venster. De besturing blijft dus in jouw handen, al is het de vraag hoe duidelijk dat in de praktijk voelt.\n\nDe functie bouwt voort op de extensie die OpenAI eerder uitbracht. Chrome is in Nederland en de rest van Europa veruit de meest gebruikte browser, dus veel mensen krijgen ermee te maken."
+  },
+  {
+   "heading": "Atlas is weg, de extensie blijft",
+   "body": "OpenAI had een eigen browser, ChatGPT Atlas. Die is inmiddels verdwenen. De aandacht gaat nu naar de Chrome-extensie, die hetzelfde idee op een lichtere manier moet brengen.\n\nVoor gebruikers scheelt dat een extra programma. Je houdt je gewone browser en zet daar een hulpje naast. Of dat genoeg is, moet blijken uit de reacties van gebruikers.\n\nThe Verge noemt geen releasedatum voor Nederland. Ook is niet bekend of de functie in alle landen tegelijk komt."
+  },
+  {
+   "heading": "Wat OpenAI er zelf over zegt",
+   "body": "Volgens OpenAI kan ChatGPT de tabbladen bekijken zodra je Chrome tagt. Het bedrijf geeft geen details over welke gegevens worden bewaard of hoe lang.\n\nOok over de Europese regels zegt OpenAI in de bron niets. Dat is opvallend, want toegang tot je browser raakt direct je privacy.\n\nMeer informatie over instellingen en beperkingen is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders betekent dit vooral een keuze: wil je dat ChatGPT meeleest met wat je open hebt staan? Denk aan je werkmail, een patiëntendossier of je bankieren. Zet de extensie alleen aan als je weet wat je deelt. Bedrijven met strengere regels doen er goed aan dit eerst met hun ICT-afdeling te bespreken, zeker als er persoonsgegevens in het spel zijn.",
+ "faq": [
+  {
+   "q": "Hoe laat ik ChatGPT mijn Chrome-tabbladen zien?",
+   "a": "Installeer de Chrome-extensie van ChatGPT en noem Chrome in de web- of desktopapp. Volgens OpenAI kan ChatGPT dan je open tabbladen bekijken."
+  },
+  {
+   "q": "Bestaat de ChatGPT-browser Atlas nog?",
+   "a": "Nee, ChatGPT Atlas is weg. OpenAI richt zich nu op de Chrome-extensie."
+  },
+  {
+   "q": "Is deze functie al in Nederland beschikbaar?",
+   "a": "Dat is nog niet bekend. De bronnen noemen geen datum of landenlijst voor de uitrol."
+  }
+ ],
+ "slug": "chatgpt-kan-nu-je-open-chrome-tabbladen-bekijken",
+ "kind": "news",
+ "date": "2026-10-18",
+ "published": "2026-10-18T16:48",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "ChatGPT can peek at your Chrome tabs now",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+  }
+ ],
+ "path": "/nieuws/chatgpt-kan-nu-je-open-chrome-tabbladen-bekijken/",
+ "og": "/img/og/chatgpt-kan-nu-je-open-chrome-tabbladen-bekijken.png",
+ "take": "ChatGPT die je open tabbladen leest, daar word ik niet warm van. Zo'n model ziet alleen wat er op je scherm staat, en dat is vaak een meting die toch al niet klopt. Bij advertentieaccounts begin ik altijd bij de meting voordat ik iets optimaliseer, want een AI die op verkeerde cijfers stuurt doet dat met veel overtuiging de verkeerde kant op."
+}

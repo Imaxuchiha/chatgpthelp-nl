@@ -2122,5 +2122,69 @@
   ],
   "andere_fouten": 2,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-18T16:46:32",
+  "slug": "",
+  "title": "OpenAI werkt aan mensachtige robot, software blijkt de grootste hobbel",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 2,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-18T16:46:40",
+  "slug": "",
+  "title": "Meta past voorwaarden aan: zakelijke accounts en AI-training",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-18T16:46:48",
+  "slug": "",
+  "title": "AI ontwerpt virussen: Stanford-onderzoeker maakt genetische blauwdrukken",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-18T16:47:03",
+  "slug": "",
+  "title": "ChatGPT kan nu je open Chrome-tabbladen bekijken",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-18T16:47:29",
+  "slug": "",
+  "title": "AI-week 42: ChatGPT leest je tabbladen en Meta schrapt voorwaarden",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]
