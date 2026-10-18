@@ -1,0 +1,68 @@
+{
+ "keyword": "replit openai standaard",
+ "seo_title": "Replit openai standaard: Claude blijft beschikbaar",
+ "title": "Replit kiest OpenAI als standaardmodel, Claude blijft beschikbaar",
+ "meta": "Replit maakt OpenAI het standaardmodel en zet Anthropic opzij. Wat dat betekent voor Nederlandse ontwikkelaars en hun kosten.",
+ "category": "nieuws",
+ "tags": [
+  "replit",
+  "openai",
+  "anthropic",
+  "claude",
+  "ontwikkelaars"
+ ],
+ "intro": "Replit heeft OpenAI aangewezen als standaardaanbieder van modellen op het platform. Anthropic is die plek kwijt, maar Claude blijft wel te kiezen voor klanten. Topman Amjad Masad bevestigde dat afgelopen weekend, meldt TechCrunch.",
+ "takeaways": [
+  "OpenAI wordt het standaardmodel op Replit, Anthropic verliest die rol.",
+  "Klanten kunnen Claude op het platform nog steeds gebruiken.",
+  "Masad gaf de toelichting in het weekend van 17 oktober 2026.",
+  "Replit bouwt tools waarmee je met tekst code maakt en apps draait."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies verandert op Replit",
+   "body": "Replit is een online omgeving waar je code schrijft, test en direct draait in de browser. Het platform biedt modellen van verschillende makers aan, zodat gebruikers kunnen kiezen wie het rekenwerk doet.\n\nDie standaardkeuze lag tot nu toe bij Anthropic. Vanaf nu staat OpenAI vooraan, aldus Masad tegen TechCrunch. Wie niets aanpast, krijgt dus voortaan een OpenAI-model voorgeschoteld.\n\nBelangrijk detail: Claude verdwijnt niet. Het blijft beschikbaar als optie, alleen niet meer als eerste keuze."
+  },
+  {
+   "heading": "Waarom dit opvalt in de AI-markt",
+   "body": "Aanbieders van codeertools zijn een belangrijke afzetmarkt voor modelbouwers. Wie daar de standaard is, krijgt veel gebruik en dus veel inkomsten.\n\nReplit koos eerder voor Anthropic en stapt nu over. Dat laat zien dat de voorkeur van platforms kan verschuiven, ook als beide modellen blijven bestaan. TechCrunch noemt geen bedragen of contracten; daarover is niets bekend.\n\nOok zegt Masad niet publiekelijk wat de reden is. Of prijs, snelheid of kwaliteit de doorslag gaf, is dus niet duidelijk."
+  },
+  {
+   "heading": "Wat het zegt over de verhoudingen",
+   "body": "OpenAI en Anthropic concurreren al langer om dezelfde klanten. Bij code horen daar tools bij die zelf code schrijven, zoals Replit dat doet.\n\nEen standaardpositie levert meer dan een plek in een keuzemenu. Het bepaalt welke naam gebruikers het eerst zien en waar nieuwe functies als eerste landen. Voor Anthropic betekent het verlies van die plek een kleinere rol in het dagelijkse werk van Replit-gebruikers.\n\nClaude blijft wel bereikbaar, dus wie bewust kiest, merkt weinig verschil."
+  },
+  {
+   "heading": "Wat je zelf moet regelen",
+   "body": "Werk je met Replit en wil je bij Claude blijven, dan zul je dat waarschijnlijk handmatig moeten instellen. Controleer je projectinstellingen voordat je verder bouwt.\n\nLet ook op je verbruik. Modellen rekenen per verwerkte tekst en code, en tarieven verschillen per aanbieder. Een andere standaard kan daardoor je maandkosten veranderen.\n\nReplit heeft nog geen details gegeven over prijzen of een ingangsdatum per regio."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars, studenten en zzp'ers die op Replit bouwen, verandert er iets kleins maar merkbaars: je project draait standaard op een OpenAI-model. Wie Claude wil houden, moet dat zelf aangeven. Reken je kosten opnieuw door als je veel code laat genereren, want tarieven lopen per model uiteen. Replit werkt in euro's via internationale betaalmethoden; specifieke Europese prijzen of datums zijn niet bekendgemaakt.",
+ "faq": [
+  {
+   "q": "Werkt Replit nog met Claude?",
+   "a": "Ja. Claude blijft beschikbaar op het platform, maar is niet langer de standaardkeuze."
+  },
+  {
+   "q": "Wat is het standaardmodel van Replit nu?",
+   "a": "Volgens topman Amjad Masad is dat een model van OpenAI. Welk model precies, is niet bekendgemaakt."
+  },
+  {
+   "q": "Merken Nederlandse gebruikers hier iets van?",
+   "a": "Je project kan standaard op een ander model draaien. Stel je voorkeur handmatig in als je Claude wilt blijven gebruiken."
+  }
+ ],
+ "slug": "replit-kiest-openai-als-standaardmodel-claude-blijft-beschikbaar",
+ "kind": "news",
+ "date": "2026-10-18",
+ "published": "2026-10-18T10:10",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+  }
+ ],
+ "path": "/nieuws/replit-kiest-openai-als-standaardmodel-claude-blijft-beschikbaar/",
+ "og": "/img/og/replit-kiest-openai-als-standaardmodel-claude-blijft-beschikbaar.png",
+ "take": "Replit zet OpenAI vooraan en schuift Anthropic naar de reservebank. Prima, zolang je zelf kunt kiezen welk model je rekening betaalt. Mijn ochtendanalyse van klantaccounts draait gewoon via Claude Code op mijn bestaande abonnement, en DeepSeek staat klaar als goedkope terugval."
+}

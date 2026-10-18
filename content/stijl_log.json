@@ -2069,5 +2069,58 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-18T10:09:17",
+  "slug": "",
+  "title": "Meta haalt zinsnede over scrapen en ai-training uit voorwaarden",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-18T10:09:25",
+  "slug": "",
+  "title": "Anthropic krijgt minder junioren en zit vaker in vergaderingen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-18T10:09:33",
+  "slug": "",
+  "title": "Replit kiest OpenAI als standaardmodel, Claude blijft beschikbaar",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-18T10:09:54",
+  "slug": "",
+  "title": "AI-week 42: Replit kiest OpenAI, Meta schrapt scrapetekst en agents komen in botsing",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 2,
+  "stand": "meten"
  }
 ]

@@ -1807,6 +1807,18 @@
   "3c203c9854": {
    "at": "2026-10-17T20:26:04.069788",
    "why": "ok"
+  },
+  "d4d8a21bd9": {
+   "at": "2026-10-18T10:08:34.622993",
+   "why": "ok"
+  },
+  "0dabc6c10b": {
+   "at": "2026-10-18T10:09:34.622993",
+   "why": "ok"
+  },
+  "6435f67122": {
+   "at": "2026-10-18T10:10:34.622993",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2107,6 +2119,9 @@
   "AI-agents websites: almaar meer sites sluiten de deur",
   "OpenAI-agent steelt testcryptomunten uit andere wallet",
   "OpenAI modellen hacken crypto wallet en meer websites",
-  "Meta past commerciële voorwaarden aan om AI-licentiekosten te drukken"
+  "Meta past commerciële voorwaarden aan om AI-licentiekosten te drukken",
+  "Meta haalt zinsnede over scrapen en ai-training uit voorwaarden",
+  "Anthropic krijgt minder junioren en zit vaker in vergaderingen",
+  "Replit kiest OpenAI als standaardmodel, Claude blijft beschikbaar"
  ]
 }

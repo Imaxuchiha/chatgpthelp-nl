@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: cv laten herschrijven voor een carrièreswitch",
+ "situation": "Je wilt overstappen naar een ander vakgebied en je cv voelt als een opsomming van je oude baan. Deze prompt vertaalt je ervaring naar de taal van je nieuwe richting.",
+ "prompt": "Je bent een Nederlandse recruiter die veel cv's ziet van mensen die van carrière wisselen. Ik solliciteer op de functie [FUNCTIENAAM] bij [SOORT BEDRIJF]. Mijn huidige werk is [HUIDIGE FUNCTIE] en ik heb [AANTAL] jaar ervaring. Hieronder staat mijn cv in het kort: [PLAK JE CV OF BESCHRIJF JE BELANGRIJKSTE TAKEN]. Herschrijf mijn cv voor deze nieuwe functie. Benoem per eerdere baan welke taken relevant zijn en welke je kunt weglaten. Gebruik woorden die in de vacature voorkomen, maar verzin geen ervaring die ik niet heb. Geef een profielschets van maximaal vier zinnen en drie concrete verbeterpunten. Sluit af met een voorbeeld van hoe één bulletpoint er nu uitziet en hoe die er na jouw herschrijving uitziet.",
+ "tip": "Plak de echte vacaturetekst erbij, dan sluit de prompt beter aan op de woorden die de werkgever gebruikt.",
+ "tags": [
+  "cv",
+  "sollicitatie",
+  "carrière",
+  "werk"
+ ],
+ "date": "2026-10-18",
+ "slug": "prompt-cv-laten-herschrijven-voor-een-carriereswitch",
+ "path": "/prompts/2026-10-18-prompt-cv-laten-herschrijven-voor-een-carriereswitch/"
+}

@@ -1,0 +1,68 @@
+{
+ "keyword": "meta scrapen ai-training",
+ "seo_title": "Meta scrapen ai-training: voorwaarden aangepast",
+ "title": "Meta haalt zinsnede over scrapen en ai-training uit voorwaarden",
+ "meta": "Meta schrapte tekst over webscraping en ai-training uit zijn voorwaarden. Wat dat betekent voor Nederlandse sites en AI-gebruik.",
+ "category": "beleid",
+ "tags": [
+  "meta",
+  "scraping",
+  "ai-training",
+  "voorwaarden",
+  "privacy"
+ ],
+ "intro": "Meta heeft een passage uit zijn voorwaarden gehaald die vragen opriep over het verzamelen van webdata voor AI-training. Volgens een woordvoerder verandert er niets aan hoe het bedrijf websites crawlt. De aanpassing raakt iedereen met een website of openbare posts.",
+ "takeaways": [
+  "Meta verwijderde tekst die zorgen gaf over scraping en AI-training.",
+  "Een Meta-woordvoerder zegt dat de manier van crawlen niet is veranderd.",
+  "TechCrunch meldde de wijziging op 17 oktober 2026.",
+  "Duidelijk is nog niet welke zinsnede precies is geschrapt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Meta precies aanpaste",
+   "body": "Meta heeft taal uit zijn voorwaarden gehaald die vragen opriep over het verzamelen van data van websites. TechCrunch meldde de wijziging op 17 oktober 2026. Een woordvoerder van Meta zei tegen TechCrunch dat de aanpassing geen verandering betekent in de manier waarop het bedrijf het web crawlt.\n\nWelke zinsnede precies is geschrapt, is niet duidelijk uit de berichtgeving. Ook is niet bekend of de oude tekst alleen onduidelijk was of echt ruimte gaf voor meer dataverzameling. Meta geeft daar zelf geen toelichting op."
+  },
+  {
+   "heading": "Waarom scraping gevoelig ligt",
+   "body": "Scraping betekent dat een partij automatisch webpagina's uitleest en de inhoud opslaat. Dat gebeurt vaak om AI-modellen te trainen. Site-eigenaren hebben daar soms weinig zicht op.\n\nMeta is niet het enige bedrijf dat hiermee worstelt. Grote AI-bedrijven verzamelen al langer teksten van het open web. Voorwaarden bepalen mede of dat mag en hoe transparant het gebeurt.\n\nEen kleine wijziging in zulke teksten kan veel vragen oproepen. Zeker als het gaat om data die ook voor AI-training gebruikt kan worden."
+  },
+  {
+   "heading": "Wat je als site-eigenaar kunt doen",
+   "body": "Wil je niet dat jouw content zomaar wordt meegenomen, dan kun je dat technisch aangeven. Veel crawlers kijken naar een bestand op je site, robots.txt geheten. Daarin kun je per crawler aangeven wat wel en niet mag.\n\nDaarnaast bestaan er afspraken en standaarden om AI-crawlers te herkennen. Die werken alleen als partijen zich eraan houden. Controleer dus regelmatig je serverlogs om te zien wie je pagina's ophaalt.\n\nVoor gewone gebruikers is er weinig direct te merken. Openbare posts op sociale media kunnen wel onderdeel zijn van zulke datastromen."
+  },
+  {
+   "heading": "Nog geen duidelijkheid over de gevolgen",
+   "body": "Of de geschrapte tekst praktische gevolgen heeft, is nog niet bekend. Meta zegt van niet, maar onderbouwt dat niet met details. TechCrunch noemt alleen de verklaring van de woordvoerder.\n\nHet is dus afwachten of er meer uitleg komt. Tot die tijd geldt: de voorwaarden zijn aangepast, de crawlpraktijk zou gelijk zijn gebleven."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse site-eigenaren, bloggers en mediabedrijven maakt deze wijziging het lastiger om in te schatten wat Meta met hun content doet. De Autoriteit Persoonsgegevens houdt toezicht op verwerking van persoonsgegevens, maar scraping van openbare webteksten valt daar niet altijd onder. Wil je grip houden, kijk dan je robots.txt na en houd je serverlogs in de gaten. Bedrijven die veel eigen content publiceren, kunnen het beste zelf bijhouden welke crawlers langskomen.",
+ "faq": [
+  {
+   "q": "Wat betekent scraping voor mijn website?",
+   "a": "Bij scraping leest een partij automatisch je pagina's uit en slaat de inhoud op, vaak voor AI-training. Je kunt via robots.txt aangeven wat crawlers wel en niet mogen."
+  },
+  {
+   "q": "Verandert Meta nu hoe het websites crawlt?",
+   "a": "Volgens een Meta-woordvoerder niet. Het bedrijf zegt dat alleen de tekst in de voorwaarden is aangepast."
+  },
+  {
+   "q": "Kan ik bezwaar maken tegen AI-training met mijn content?",
+   "a": "Dat kan deels via technische instellingen zoals robots.txt. Of dat juridisch afdwingbaar is, hangt af van de situatie en is nog niet duidelijk."
+  }
+ ],
+ "slug": "meta-haalt-zinsnede-over-scrapen-en-ai-training-uit-voorwaarden",
+ "kind": "news",
+ "date": "2026-10-18",
+ "published": "2026-10-18T10:08",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Meta removes language that raised scraping and AI training concerns",
+   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+  }
+ ],
+ "path": "/beleid/meta-haalt-zinsnede-over-scrapen-en-ai-training-uit-voorwaarden/",
+ "og": "/img/og/meta-haalt-zinsnede-over-scrapen-en-ai-training-uit-voorwaarden.png",
+ "take": "Meta haalt een zinnetje uit de voorwaarden en zegt dat er niets verandert aan crawlen. Dat is precies het soort aankondiging waar ik op wacht: eerst de tekst zien, dan geloven. Ik heb zelf geen sites waar Meta overheen gaat, dus ik oordeel pas als er iets concreets op tafel ligt."
+}
