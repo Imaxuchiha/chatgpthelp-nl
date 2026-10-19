@@ -1,0 +1,70 @@
+{
+ "keyword": "merk in chatgpt",
+ "seo_title": "Merk in ChatGPT: zo werkt het en dit kun je ermee",
+ "title": "Merk in ChatGPT: zo werkt het en dit kun je ermee",
+ "meta": "Leer hoe je een merk in ChatGPT gebruikt. Concrete stappen, voorbeeldprompt en antwoorden op veelgestelde vragen over merkinstructies en kennis.",
+ "category": "uitleg",
+ "tags": [
+  "chatgpt",
+  "merk",
+  "prompt",
+  "merkinstructies",
+  "ai"
+ ],
+ "intro": "ChatGPT onthoudt standaard niets van je merk tussen gesprekken. Met een paar instellingen en een vaste Prompt zorg je dat de assistent je merknaam, toon en regels kent. Dat scheelt tijd en voorkomt fouten in teksten.",
+ "takeaways": [
+  "ChatGPT heeft geen ingebouwde merkmodule; je moet zelf context en regels meegeven.",
+  "Een vaste systeemprompt of aangepaste instructies houden je merk consistent.",
+  "Plak nooit vertrouwelijke merkstrategie in ChatGPT zonder te checken hoe je data wordt gebruikt.",
+  "Test je merkprompt met een paar voorbeeldtaken voordat je hem dagelijks inzet."
+ ],
+ "sections": [
+  {
+   "heading": "Wat bedoelen mensen met merk in ChatGPT",
+   "body": "ChatGPT is een taalassistent die per gesprek werkt. Er zit geen aparte knop waarmee je een merk vastlegt. Je merk in ChatGPT bestaat uit de context die je zelf toevoegt: naam, doelgroep, toon, vaste termen en dingen die je juist niet wilt.\n\nDie context kun je op twee plekken kwijt. In de chat zelf, als begin van je gesprek. Of in de instellingen voor aangepaste instructies, die voor elk nieuw gesprek gelden. Beide werken, maar ze hebben een verschillend doel. Aangepaste instructies zijn handig voor je eigen stijl. Een merkprompt in de chat is beter voor een specifieke klant of campagne.\n\nLet op: ChatGPT is geen merkdatabase. Het model kent je merk niet automatisch en verzint niets bij als je niets meegeeft. Alles wat het over je merk zegt, komt uit wat jij in het gesprek stopt of uit algemene kennis."
+  },
+  {
+   "heading": "Stap voor stap je merk instellen",
+   "body": "Begin met een kort merkdocument van maximaal één A4. Zet daarin je merknaam, wat je doet, voor wie, je toon en drie tot vijf vaste regels. Denk aan: geen uitroeptekens, wel jij-vorm, geen Engelse termen als daar een Nederlands woord voor is.\n\nOpen daarna ChatGPT en ga naar de instellingen voor aangepaste instructies. Plak daar een korte versie van je merkdocument. Houd het bondig: hoe meer ruis, hoe minder het model oppikt. Test met een simpele opdracht of de toon klopt.\n\nVoor een specifiek project open je een nieuw gesprek en plak je de uitgebreidere merkprompt als eerste bericht. Noem daarin ook het doel en het formaat. Zo weet ChatGPT of je een mail, een producttekst of een socialpost wilt."
+  },
+  {
+   "heading": "Voorbeeldprompt die je zo kunt gebruiken",
+   "body": "Gebruik deze prompt als startpunt en pas hem aan je eigen merk aan. Zet hem letterlijk tussen aanhalingstekens in je eerste bericht.\n\n\"Je bent tekstschrijver voor [merknaam]. We verkopen [product] aan [doelgroep] in Nederland. Schrijf in helder Nederlands, jij-vorm, korte zinnen. Vermijd uitroeptekens en Engelse termen waar een Nederlands woord bestaat. Gebruik geen clichés. Ik wil een [soort tekst] van ongeveer [aantal] woorden over [onderwerp]. Vraag eerst om ontbrekende informatie voordat je begint.\"\n\nDie laatste zin is belangrijk. Zo voorkom je dat ChatGPT zelf feiten invult. Je kunt de prompt uitbreiden met vaste voorbeelden van goede teksten. Plak er één of twee korte voorbeelden bij, dan heeft het model een concreet stijlvoorbeeld."
+  },
+  {
+   "heading": "Wat je beter niet in ChatGPT zet",
+   "body": "Een merkprompt is geen plek voor geheimen. Zet geen klantnamen, prijsafspraken of interne strategie in ChatGPT als je niet zeker weet hoe die data wordt verwerkt. Kijk in de instellingen of je gesprekken kunt uitsluiten van training. Voor zakelijk gebruik zijn er vaak aparte afspraken nodig.\n\nOok belangrijk: ChatGPT kan dingen verzinnen die plausibel klinken. Laat het model nooit zelf verklaren wat je merk precies doet als jij dat niet hebt aangeleverd. Controleer elke tekst op feiten, zeker bij productclaims en juridische teksten."
+  },
+  {
+   "heading": "Je merkprompt onderhouden",
+   "body": "Een merkprompt is geen eenmalig klusje. Als je positionering verandert, pas je de prompt aan. Bewaar hem op één plek, bijvoorbeeld in een gedeeld document, zodat collega's dezelfde versie gebruiken.\n\nTest regelmatig met dezelfde opdracht of de output nog klopt. Kleine wijzigingen in de prompt kunnen het resultaat merkbaar beïnvloeden. Houd daarom bij welke versie je gebruikt voor welk doel."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse merken en bureaus is een vaste merkprompt vooral een tijdsbesparing. Je hoeft niet elk gesprek opnieuw je toon en regels uit te leggen. Let wel op de Europese privacyregels: persoonsgegevens van klanten horen niet zomaar in een chatbot. Gebruik bij voorkeur een zakelijke omgeving met duidelijke afspraken over data.",
+ "faq": [
+  {
+   "q": "Kan ChatGPT mijn merk automatisch leren?",
+   "a": "Nee. ChatGPT kent je merk niet uit zichzelf. Je moet zelf een merkprompt of aangepaste instructies meegeven."
+  },
+  {
+   "q": "Waar stel ik mijn merk in bij ChatGPT?",
+   "a": "Dat kan via de aangepaste instructies in de instellingen, of door een merkprompt als eerste bericht in een nieuw gesprek te plakken."
+  },
+  {
+   "q": "Is mijn merkprompt veilig in ChatGPT?",
+   "a": "Zet geen vertrouwelijke informatie in ChatGPT zonder te checken hoe je data wordt gebruikt. Gebruik voor zakelijke gegevens een omgeving met passende afspraken."
+  },
+  {
+   "q": "Werkt een merkprompt ook voor andere AI-tools?",
+   "a": "Ja, het idee werkt bij vrijwel elke tekst-AI. De precieze plek waar je instructies invoert verschilt per tool."
+  }
+ ],
+ "slug": "merk-in-chatgpt-zo-werkt-het-en-dit-kun-je-ermee",
+ "kind": "evergreen",
+ "date": "2026-10-19",
+ "published": "2026-10-19T11:03",
+ "sources": [],
+ "path": "/uitleg/merk-in-chatgpt-zo-werkt-het-en-dit-kun-je-ermee/",
+ "og": "/img/og/merk-in-chatgpt-zo-werkt-het-en-dit-kun-je-ermee.png",
+ "seed": "Merk in ChatGPT"
+}

@@ -1,0 +1,68 @@
+{
+ "keyword": "deepseek nieuw model",
+ "seo_title": "DeepSeek nieuw model: sneller en beter bij programmeren",
+ "title": "DeepSeek brengt sneller AI-model uit voor programmeren en redeneren",
+ "meta": "DeepSeek heeft een snellere versie van zijn AI-model uitgebracht. Lees wat er beter is, wat het betekent voor Nederland en of je het hier kunt gebruiken.",
+ "category": "nieuws",
+ "tags": [
+  "deepseek",
+  "ai-modellen",
+  "china",
+  "programmeren",
+  "openai"
+ ],
+ "intro": "DeepSeek heeft een verbeterde versie van zijn AI-model uitgebracht. Dat model werkt sneller en presteert beter bij programmeren en redeneren. De Chinese ontwikkelaar zet daarmee de strijd met partijen als OpenAI en Anthropic voort.",
+ "takeaways": [
+  "DeepSeek heeft een snellere versie van zijn AI-model gelanceerd.",
+  "Het model doet het beter bij programmeren en redeneren.",
+  "Het is nog niet bekend wat het model in Nederland kost of wanneer het hier beschikbaar komt.",
+  "De lancering valt samen met een felle concurrentiestrijd tussen AI-ontwikkelaars."
+ ],
+ "sections": [
+  {
+   "heading": "Wat DeepSeek heeft uitgebracht",
+   "body": "DeepSeek heeft een verbeterde versie van zijn AI-model uitgebracht. Volgens Bright werkt die versie sneller dan de vorige. Ook presteert het model beter op taken zoals programmeren en redeneren.\n\nOver de precieze cijfers achter die verbetering is nog weinig bekend. Bright noemt geen benchmarks of vergelijkingen met andere modellen. Dat maakt het lastig om de prestaties zelf te wegen."
+  },
+  {
+   "heading": "Waarom dit uitmaakt in de AI-markt",
+   "body": "DeepSeek is een Chinese ontwikkelaar die zich mengt in de strijd tussen OpenAI, Anthropic en Google. Elke snellere of goedkopere release zet druk op de prijzen en op de snelheid waarmee anderen vernieuwen.\n\nVoor gebruikers betekent dat meestal meer keuze. Modellen worden sneller en kunnen meer taken aan. Of dat ook in Nederland meteen merkbaar is, hangt af van beschikbaarheid en prijs."
+  },
+  {
+   "heading": "Wat nog niet bekend is",
+   "body": "Er zijn geen details over de prijs van het nieuwe model. Ook is niet duidelijk of en wanneer het in Nederland of de Europese Unie beschikbaar komt.\n\nDeepSeek heeft in het verleden modellen aangeboden via een eigen omgeving en via programmeerkoppelingen. Of dat bij deze versie ook zo gaat, meldt Bright niet."
+  },
+  {
+   "heading": "Sneller programmeren en redeneren",
+   "body": "De nadruk op programmeren en redeneren is geen toeval. Dat zijn taken waar veel bedrijven en ontwikkelaars AI voor inzetten. Een model dat daar beter in is, kan werk uit handen nemen bij code schrijven of logica doordenken.\n\nSneller betekent in de praktijk korter wachten op een antwoord. Bij lange taken kan dat het verschil maken tussen wel en niet gebruiken."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en bedrijven is het vooral interessant of het model hier te gebruiken is en wat het kost. Die informatie ontbreekt nog. Let ook op de regels rond AI uit China: binnen de EU gelden eisen voor gegevensbescherming, en sommige organisaties zijn terughoudend met Chinese modellen. Wil je het uitproberen, check dan eerst waar je data terechtkomt en of je werkgever of klant dat goedkeurt.",
+ "faq": [
+  {
+   "q": "Is het nieuwe DeepSeek-model beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. Bright meldt niets over beschikbaarheid in Nederland of de EU."
+  },
+  {
+   "q": "Wat kost het nieuwe model van DeepSeek?",
+   "a": "Er zijn nog geen prijzen genoemd. DeepSeek heeft daarover bij deze release niets naar buiten gebracht."
+  },
+  {
+   "q": "Wat is DeepSeek?",
+   "a": "DeepSeek is een Chinese ontwikkelaar van AI-modellen. Het bedrijf brengt modellen uit die onder meer kunnen programmeren en redeneren."
+  }
+ ],
+ "slug": "deepseek-brengt-sneller-ai-model-uit-voor-programmeren-en-redeneren",
+ "kind": "news",
+ "date": "2026-10-19",
+ "published": "2026-10-19T11:03",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "De concurrentiestrijd dendert voort: DeepSeek heeft een sneller AI-model uitgebracht",
+   "url": "https://www.bright.nl/nieuws/2148220/de-concurrentiestrijd-dendert-voort-deepseek-lanceert-een-sneller-ai-model.html"
+  }
+ ],
+ "path": "/nieuws/deepseek-brengt-sneller-ai-model-uit-voor-programmeren-en-redeneren/",
+ "og": "/img/og/deepseek-brengt-sneller-ai-model-uit-voor-programmeren-en-redeneren.png",
+ "take": "DeepSeek brengt een sneller model uit voor programmeren en redeneren, en dat past bij hoe ik het gebruik: als goedkoop werkpaard in mijn eigen scripts. Mijn oordeel over zo'n model hangt af van wat het op echt werk doet over twaalf tot achttien maanden, niet van een paar snelle tests in de week van de release. Eerst kijken of het over langere tijd betrouwbaar blijft, dan pas schuif ik er meer werk naartoe."
+}

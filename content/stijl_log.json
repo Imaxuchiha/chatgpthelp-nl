@@ -2235,5 +2235,47 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-19T11:03:24",
+  "slug": "",
+  "title": "DeepSeek brengt sneller AI-model uit voor programmeren en redeneren",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-19T11:03:31",
+  "slug": "",
+  "title": "Anthropic geeft 5 procent van aandelen aan publiek fonds",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-19T11:03:56",
+  "slug": "",
+  "title": "Merk in ChatGPT: zo werkt het en dit kun je ermee",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S11",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

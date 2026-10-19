@@ -1,0 +1,15 @@
+{
+ "title": "Declaratie afkeuren: bezwaar opstellen tegen je werkgever",
+ "situation": "Je werkgever heeft een zakelijke declaratie afgewezen en je wilt netjes en met argumenten bezwaar maken, zonder de toon te verliezen.",
+ "prompt": "Je bent een ervaren HR-adviseur en declaratiespecialist in Nederland. Ik heb een declaratie ingediend die mijn werkgever heeft afgewezen. Help me een zakelijke bezwaarmail opstellen. Context: mijn functie is [FUNCTIE], de declaratie ging over [SOORT KOSTEN, bijv. reiskosten, cursus, thuiskantoor], bedrag in euro's: [BEDRAG]. De afwijzing luidt: [CITATEER DE REDEN]. Mijn argumenten: [ARGUMENTEN]. Het relevante beleid of de afspraak uit mijn arbeidsvoorwaarden of reisregeling: [BELEID]. Gewenste output: een e-mail van maximaal 250 woorden, met een feitelijke toon, een korte samenvatting van de feiten, mijn argumenten per punt, een concreet verzoek om heroverweging en een redelijke termijn. Sluit af met een voorstel om het mondeling toe te lichten. Geef daarna twee varianten van de eerste zin: één neutraal en één iets stelliger. Verzin geen bedragen of beleidsregels die ik niet noem.",
+ "tip": "Plak de exacte afwijzingsmail erbij, dan kan ChatGPT de tegenargumenten precies laten aansluiten op de gebruikte woorden.",
+ "tags": [
+  "declaratie",
+  "werkgever",
+  "bezwaar",
+  "arbeidsvoorwaarden"
+ ],
+ "date": "2026-10-19",
+ "slug": "declaratie-afkeuren-bezwaar-opstellen-tegen-je-werkgever",
+ "path": "/prompts/2026-10-19-declaratie-afkeuren-bezwaar-opstellen-tegen-je-werkgever/"
+}

@@ -1847,6 +1847,14 @@
   "56b1c8aea7": {
    "at": "2026-10-18T20:36:45.703226",
    "why": "ok"
+  },
+  "8b71d0bedb": {
+   "at": "2026-10-19T11:03:12.836118",
+   "why": "ok"
+  },
+  "efeb3746fd": {
+   "at": "2026-10-19T11:04:12.836118",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2156,6 +2164,8 @@
   "ChatGPT kan nu je open Chrome-tabbladen bekijken",
   "Anthropic denkt dat sommige AI-modellen bewustzijn hebben",
   "Character.AI failliet: Disney neemt meeste personeel over",
-  "Anthropic geeft externe ai-waakhond toegang als medewerker"
+  "Anthropic geeft externe ai-waakhond toegang als medewerker",
+  "DeepSeek brengt sneller AI-model uit voor programmeren en redeneren",
+  "Anthropic geeft 5 procent van aandelen aan publiek fonds"
  ]
 }
