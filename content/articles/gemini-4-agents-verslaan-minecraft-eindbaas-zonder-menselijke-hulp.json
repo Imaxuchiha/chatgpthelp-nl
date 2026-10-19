@@ -1,0 +1,68 @@
+{
+ "keyword": "gemini 4 minecraft",
+ "seo_title": "Gemini 4 speelt Minecraft uit zonder menselijke hulp",
+ "title": "Gemini 4-agents verslaan Minecraft-eindbaas zonder menselijke hulp",
+ "meta": "Vier Gemini 4-agents van Google DeepMind hebben samen Minecraft uitgespeeld. Wat dat betekent voor AI-agents en voor gebruikers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "gemini 4",
+  "google deepmind",
+  "minecraft",
+  "ai-agents",
+  "kunstmatige intelligentie"
+ ],
+ "intro": "Google DeepMind heeft vier Gemini 4-agents samen Minecraft laten uitspelen. Het viertal versloeg de Ender Dragon, de eindbaas van het spel, zonder hulp van mensen. Dat meldt Bright. De proef laat zien hoe meerdere AI-modellen kunnen samenwerken aan een taak met veel tussenstappen.",
+ "takeaways": [
+  "Vier Gemini 4-agents speelden samen Minecraft uit en versloegen de Ender Dragon.",
+  "Mensen hielpen niet mee tijdens de sessie, meldt Google DeepMind via Bright.",
+  "De opzet test samenwerking tussen meerdere AI-modellen in één spelomgeving.",
+  "Google geeft geen details over de duur van de sessie of het aantal pogingen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de agents precies deden",
+   "body": "Minecraft draait om overleven en bouwen. Om de Ender Dragon te bereiken moet je grondstoffen verzamelen, gereedschap maken en portals bouwen. Dat zijn tientallen stappen die op elkaar voortbouwen.\n\nVolgens Bright zette Google DeepMind vier Gemini 4-agents op die taak. Elk model kreeg een eigen rol en ze moesten onderling afstemmen wie wat doet. De eindbaas ging neer zonder dat een mens bijstuurde.\n\nHoe lang de sessie duurde en hoeveel pogingen nodig waren, is niet bekendgemaakt. Ook over de kosten of de rekenkracht achter de proef zegt Google DeepMind niets."
+  },
+  {
+   "heading": "Waarom samenwerken lastig is",
+   "body": "Een spel als Minecraft vraagt om plannen over lange termijn. Een agent moet onthouden wat hij al heeft en wat nog ontbreekt. Gaat er iets mis, dan moet hij dat herstellen.\n\nMet vier agents komt daar een laag bij. Ze moeten taken verdelen en voorkomen dat ze hetzelfde doen. Eén agent die alleen een diamant zoekt, helpt weinig als een ander staat te wachten op hout.\n\nDe proef past bij een bredere beweging in de AI-sector. Modelmakers testen steeds vaker hoe modellen samenwerken in plaats van losse opdrachten uitvoeren. Spellen zijn daarvoor een handige testomgeving, omdat de regels vastliggen en resultaten meetbaar zijn."
+  },
+  {
+   "heading": "Wat het wel en niet bewijst",
+   "body": "Een uitgespeeld potje Minecraft is een duidelijk resultaat. Toch zegt het beperkt iets over taken buiten een spel. In een spel zijn de regels bekend en verandert de omgeving voorspelbaar.\n\nKantoorwerk, klantcontact of administratie werkt anders. Daar zijn regels vaak vaag en ontbreken duidelijke einddoelen. Een agent die daar fouten maakt, merkt dat niet altijd meteen.\n\nGoogle DeepMind noemt geen vervolgstappen. Het is dus nog niet bekend of deze aanpak breder wordt getest of in producten terugkomt."
+  },
+  {
+   "heading": "Agents in de praktijk",
+   "body": "AI-agents zijn programma's die zelf stappen zetten om een doel te halen. Ze kiezen welke actie ze nemen en voeren die uit, binnen de grenzen die de maker instelt. Bij ChatGPT en Gemini zie je dat al in kleinere vorm, bijvoorbeeld bij het uitvoeren van meerdere opdrachten achter elkaar.\n\nVoor bedrijven is de vraag vooral hoeveel controle je houdt. Wie een agent toegang geeft tot systemen, wil kunnen terugzien wat hij heeft gedaan. Bij een spel is een fout vervelend. Bij een factuur of klantdossier ligt dat anders."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers verandert er vandaag weinig. Gemini 4 is via Google beschikbaar, maar de agent-opstelling uit deze proef is een onderzoeksopzet en geen product dat je zelf kunt draaien. Bedrijven die met AI-agents willen werken, doen er goed aan klein te beginnen en logboeken bij te houden van wat een agent doet. Ook speelt mee dat AI-modellen in de EU onder de AI-verordening vallen. Bij inzet op de werkvloer blijft een mens verantwoordelijk voor de uitkomst.",
+ "faq": [
+  {
+   "q": "Heeft Google DeepMind Minecraft echt uitgespeeld met AI?",
+   "a": "Volgens Bright heeft Google DeepMind vier Gemini 4-agents de Ender Dragon laten verslaan zonder menselijke hulp. Details over het verloop zijn niet gepubliceerd."
+  },
+  {
+   "q": "Kan ik deze Gemini 4-agents zelf gebruiken?",
+   "a": "Nee. Het gaat om een onderzoeksopzet van Google DeepMind. Google heeft niet gezegd of en wanneer deze aanpak beschikbaar komt."
+  },
+  {
+   "q": "Wat is een AI-agent?",
+   "a": "Een AI-agent is een programma dat zelf stappen zet om een doel te bereiken. Het kiest acties en voert die uit binnen de grenzen die de maker heeft ingesteld."
+  }
+ ],
+ "slug": "gemini-4-agents-verslaan-minecraft-eindbaas-zonder-menselijke-hulp",
+ "kind": "news",
+ "date": "2026-10-19",
+ "published": "2026-10-19T19:46",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Gemini 4-agents verslaan eindbaas van Minecraft zonder menselijke hulp",
+   "url": "https://www.bright.nl/nieuws/2148632/gemini-4-agents-verslaan-eindbaas-van-minecraft-zonder-menselijke-hulp.html"
+  }
+ ],
+ "path": "/nieuws/gemini-4-agents-verslaan-minecraft-eindbaas-zonder-menselijke-hulp/",
+ "og": "/img/og/gemini-4-agents-verslaan-minecraft-eindbaas-zonder-menselijke-hulp.png",
+ "take": "Vier agents die samen Minecraft uitspelen bewijzen dat samenwerken werkt, niet dat ze zelfstandig geld mogen uitgeven in je advertentieaccount. In mijn eigen setup mogen agents bestanden en scripts aansturen en campagnes klaarzetten, maar de knop om budget te verhogen of iets aan te zetten blijft bij mij, met een bevestigingszin als poort. Laat een agent eerst maar bewijzen dat hij een taak van begin tot eind afmaakt, de geldknoppen houd ik zelf vast."
+}

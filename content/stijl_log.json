@@ -2277,5 +2277,56 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-19T19:44:17",
+  "slug": "",
+  "title": "Anthropic stopt 48 miljard in maatschappelijk fonds",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-19T19:44:26",
+  "slug": "",
+  "title": "Experts waarschuwen: geef niet zomaar een foto aan AI",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-19T19:44:32",
+  "slug": "",
+  "title": "Aantal cybersecuritybedrijven verviervoudigd in vijf jaar",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 2,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-19T19:44:41",
+  "slug": "",
+  "title": "Gemini 4-agents verslaan Minecraft-eindbaas zonder menselijke hulp",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

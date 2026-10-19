@@ -1855,6 +1855,22 @@
   "efeb3746fd": {
    "at": "2026-10-19T11:04:12.836118",
    "why": "ok"
+  },
+  "786c0d3511": {
+   "at": "2026-10-19T19:44:06.415515",
+   "why": "ok"
+  },
+  "12d5e6ab7f": {
+   "at": "2026-10-19T19:45:06.415515",
+   "why": "ok"
+  },
+  "31f191b8a4": {
+   "at": "2026-10-19T19:46:06.415515",
+   "why": "poort"
+  },
+  "b314c5fcb3": {
+   "at": "2026-10-19T19:46:06.415515",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2166,6 +2182,9 @@
   "Character.AI failliet: Disney neemt meeste personeel over",
   "Anthropic geeft externe ai-waakhond toegang als medewerker",
   "DeepSeek brengt sneller AI-model uit voor programmeren en redeneren",
-  "Anthropic geeft 5 procent van aandelen aan publiek fonds"
+  "Anthropic geeft 5 procent van aandelen aan publiek fonds",
+  "Anthropic stopt 48 miljard in maatschappelijk fonds",
+  "Experts waarschuwen: geef niet zomaar een foto aan AI",
+  "Gemini 4-agents verslaan Minecraft-eindbaas zonder menselijke hulp"
  ]
 }
