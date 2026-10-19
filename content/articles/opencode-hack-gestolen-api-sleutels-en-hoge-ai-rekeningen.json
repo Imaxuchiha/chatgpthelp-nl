@@ -1,0 +1,64 @@
+{
+ "keyword": "opencode hack",
+ "seo_title": "OpenCode hack: api-sleutels gestolen, rekeningen hoog",
+ "title": "OpenCode hack: gestolen api-sleutels en hoge ai-rekeningen",
+ "meta": "Hackers stalen api-sleutels van OpenCode-gebruikers en draaiden kosten op. Wat dit betekent voor Nederlandse ontwikkelaars en hun ai-abonnementen.",
+ "category": "nieuws",
+ "tags": [
+  "opencode",
+  "hack",
+  "api-sleutels",
+  "ai-tools",
+  "beveiliging"
+ ],
+ "intro": "Hackers zijn binnengedrongen in een deel van het online platform van OpenCode, een populaire opensource-ai-codeeragent. Daarbij zijn api-sleutels van gebruikers gestolen en zijn er kosten op hun ai-accounts afgeschreven. Opvallend: de ai-tools die het team om hulp vroeg, weigerden naar de kwaadaardige code te kijken.",
+ "takeaways": [
+  "Hackers stalen api-sleutels van gebruikers van OpenCode via een deel van het online platform.",
+  "Met die sleutels liepen de ai-rekeningen van getroffen gebruikers op.",
+  "OpenCode is een opensource-alternatief voor Claude Code en Cursor.",
+  "Ai-tools die om hulp werden gevraagd, weigerden de schadelijke code te onderzoeken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies is gebeurd",
+   "body": "OpenCode is een opensource-ai-codeeragent en groeide uit tot een populair alternatief voor Claude Code en Cursor. Het gereedschap helpt ontwikkelaars met code schrijven en aanpassen. Een deel van het online platform bleek toegankelijk voor buitenstaanders.\n\nDie indringers wisten api-sleutels van gebruikers buit te maken. Een api-sleutel is een soort wachtwoord waarmee software namens jou betaalde ai-diensten aanroept. Met zo'n sleutel kun je op kosten van de eigenaar vragen stellen aan een ai-model.\n\nVolgens TechCrunch liepen de ai-accounts van sommige gebruikers daardoor flink op. Hoeveel mensen zijn getroffen en hoe hoog de schade is, is nog niet bekend."
+  },
+  {
+   "heading": "De ai-tools weigerden te helpen",
+   "body": "Het team zocht hulp bij ai-tools om de kwaadaardige code te analyseren. Die weigerden dat. De modellen zagen de code kennelijk als schadelijk en wilden er niet naar kijken.\n\nDat maakt het lastiger om een aanval te onderzoeken en te stoppen. Beveiligingsonderzoekers lopen vaker tegen deze grens aan: modellen zijn afgesteld om schadelijke code te weigeren, ook als een verdediger die code juist wil begrijpen.\n\nHoe OpenCode dit heeft opgelost, maakt de bron niet duidelijk."
+  },
+  {
+   "heading": "Wat je zelf kunt doen",
+   "body": "Gebruik je een ai-codeeragent met een eigen api-sleutel, behandel die sleutel dan als een wachtwoord. Deel hem niet en zet hem niet in openbare code. Een gestolen sleutel geeft iemand anders toegang op jouw rekening.\n\nControleer je verbruik en je facturen regelmatig. Zie je onverklaarbare kosten, trek de sleutel dan in en maak een nieuwe aan. Stel waar mogelijk een bestedingslimiet in bij je ai-aanbieder.\n\nDraai je OpenCode of een vergelijkbaar gereedschap, kijk dan of er een update is. De bron zegt niets over een oplossing of patch, dus houd de berichtgeving van het project in de gaten."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en kleine softwarebedrijven die met ai-codeeragents werken, is dit een directe waarschuwing. Veel van hen gebruiken een eigen api-sleutel bij OpenAI, Anthropic of Google, en betalen per gebruik. Een gestolen sleutel kan binnen enkele dagen een onverwachte rekening opleveren, in euro's net zo goed als in dollars. Zet daarom bestedingslimieten aan en trek sleutels in die je niet meer gebruikt. Speel je met opensource-tools als OpenCode, let dan op de beveiliging van je eigen account en op updates van het project.",
+ "faq": [
+  {
+   "q": "Wat is OpenCode?",
+   "a": "OpenCode is een opensource-ai-codeeragent die code kan schrijven en aanpassen. Het geldt als alternatief voor Claude Code en Cursor."
+  },
+  {
+   "q": "Zijn mijn api-sleutels veilig?",
+   "a": "Dat is niet met zekerheid te zeggen. Ben je gebruiker van het online platform van OpenCode, trek je sleutel dan in en maak een nieuwe aan. Controleer ook je facturen."
+  },
+  {
+   "q": "Kan ik mijn geld terugkrijgen?",
+   "a": "De bron zegt hier niets over. Neem contact op met je ai-aanbieder en met OpenCode zodra je onverklaarbare kosten ziet."
+  }
+ ],
+ "slug": "opencode-hack-gestolen-api-sleutels-en-hoge-ai-rekeningen",
+ "kind": "news",
+ "date": "2026-10-19",
+ "published": "2026-10-19T23:00",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+   "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+  }
+ ],
+ "path": "/nieuws/opencode-hack-gestolen-api-sleutels-en-hoge-ai-rekeningen/",
+ "og": "/img/og/opencode-hack-gestolen-api-sleutels-en-hoge-ai-rekeningen.png",
+ "take": "Een ai-tool die weigert naar kwaadaardige code te kijken, daar heb je in de praktijk weinig aan. Als ontwikkelaar moet je zelf je sleutels en kosten in de gaten houden, want een agent die je blind vertrouwt draait door op jouw rekening. Ik regel dat liever met een vast abonnement in plaats van een open api die ik niet in de hand heb, en mijn ochtendanalyse draait gewoon op wat ik al betaal, met DeepSeek als goedkope terugval."
+}

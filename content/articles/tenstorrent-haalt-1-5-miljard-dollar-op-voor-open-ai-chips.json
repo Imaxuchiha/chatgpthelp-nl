@@ -1,0 +1,67 @@
+{
+ "keyword": "tenstorrent ai-chips",
+ "seo_title": "Tenstorrent ai-chips: 1,5 miljard dollar opgehaald",
+ "title": "Tenstorrent haalt 1,5 miljard dollar op voor open ai-chips",
+ "meta": "Tenstorrent haalt 1,5 miljard dollar op en is nu 6,2 miljard dollar waard. Wat betekent dat voor open ai-chips en de concurrentie met Nvidia?",
+ "category": "nieuws",
+ "tags": [
+  "tenstorrent",
+  "ai-chips",
+  "nvidia",
+  "open source",
+  "investeringen"
+ ],
+ "intro": "Tenstorrent heeft 1,5 miljard dollar opgehaald bij investeerders. Het bedrijf is nu 6,2 miljard dollar waard en wil onafhankelijk blijven. Het maakt ai-chips met open gewichten, een alternatief voor Nvidia.",
+ "takeaways": [
+  "Tenstorrent haalt 1,5 miljard dollar op en bereikt een waardering van 6,2 miljard dollar.",
+  "Het bedrijf wil met het geld zijn open-weight ai-chips opschalen en onafhankelijk blijven.",
+  "Eerder dit jaar was er overnamebelangstelling, maar Tenstorrent koos voor een eigen koers.",
+  "De stap versterkt de concurrentie met Nvidia op de markt voor ai-hardware."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Tenstorrent doet",
+   "body": "Tenstorrent maakt chips voor kunstmatige intelligentie. Het bedrijf positioneert zich als uitdager van Nvidia, de grootste speler op dat gebied. Volgens TechCrunch richt Tenstorrent zich op zogeheten open-weight ai-chips.\n\nOpen-weight betekent dat de software en specificaties van het model of de chip vrij toegankelijk zijn. Afnemers kunnen daardoor zelf aanpassingen doen. Dat is anders dan bij gesloten systemen, waar de fabrikant de controle houdt.\n\nDe technologie is bedoeld voor bedrijven die ai taken lokaal of in eigen beheer willen draaien. Denk aan het trainen en gebruiken van taalmodellen zonder afhankelijk te zijn van één leverancier."
+  },
+  {
+   "heading": "Waarom 1,5 miljard dollar",
+   "body": "Het opgehaalde bedrag is fors. Met 1,5 miljard dollar kan Tenstorrent zijn productie en ontwikkeling opschalen. De waardering van 6,2 miljard dollar laat zien dat investeerders vertrouwen hebben in de aanpak.\n\nEerder dit jaar was er belangstelling om het bedrijf over te nemen. Tenstorrent heeft daar niet op ingegaan. Het geld moet juist helpen om zelfstandig te blijven.\n\nDat is opvallend in een markt waar grote techbedrijven kleine chipmakers vaak inslikken. Tenstorrent kiest voor een eigen weg met open specificaties."
+  },
+  {
+   "heading": "De concurrentie met Nvidia",
+   "body": "Nvidia domineert de markt voor ai-chips. Veel bedrijven gebruiken de hardware van Nvidia voor het trainen van grote modellen. Een alternatief met open gewichten kan interessant zijn voor partijen die minder afhankelijk willen zijn.\n\nToch is het niet zeker dat Tenstorrent snel marktaandeel pakt. De software van Nvidia is wijdverspreid en veel ai-ontwikkelaars zijn eraan gewend. Overstappen kost tijd en geld.\n\nTechCrunch noemt Tenstorrent een uitdager van Nvidia. Of de nieuwe financiering genoeg is om echt voet aan de grond te krijgen, moet blijken."
+  },
+  {
+   "heading": "Wat open-weight chips betekenen",
+   "body": "Bij open-weight ai-chips kunnen gebruikers de onderliggende specificaties inzien en aanpassen. Dat geeft meer controle over hoe een model of chip presteert. Voor sommige bedrijven is dat aantrekkelijk, bijvoorbeeld als ze gevoelige data verwerken.\n\nHet betekent niet dat alles gratis is. De hardware moet nog steeds worden gekocht en onderhouden. Open-weight slaat vooral op de toegang tot de technische details.\n\nVoor de markt kan het zorgen voor meer variatie. Naast Nvidia komen er meer opties, al is de vraag hoe snel die volwassen worden."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die ai willen gebruiken, kan meer aanbod van ai-chips goed nieuws zijn. Meer concurrentie kan op termijn de prijzen beïnvloeden. Of Tenstorrent-chips in Nederland en de EU breed beschikbaar komen, is nog niet bekend. De waardering in dollars zegt weinig over de europrijs van toekomstige hardware. Bedrijven die nu afhankelijk zijn van Nvidia doen er goed aan om alternatieven te volgen, maar hoeven niet direct te wisselen.",
+ "faq": [
+  {
+   "q": "Wat is Tenstorrent?",
+   "a": "Tenstorrent is een chipmaker die ai-hardware maakt met open gewichten. Het bedrijf wordt gezien als een uitdager van Nvidia."
+  },
+  {
+   "q": "Hoeveel geld heeft Tenstorrent opgehaald?",
+   "a": "Volgens TechCrunch heeft het bedrijf 1,5 miljard dollar opgehaald. Daarmee komt de waardering op 6,2 miljard dollar."
+  },
+  {
+   "q": "Zijn Tenstorrent-chips in Nederland te koop?",
+   "a": "Dat is nog niet bekend. De bronnen noemen geen details over beschikbaarheid in Nederland of de EU."
+  }
+ ],
+ "slug": "tenstorrent-haalt-1-5-miljard-dollar-op-voor-open-ai-chips",
+ "kind": "news",
+ "date": "2026-10-19",
+ "published": "2026-10-19T23:01",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+  }
+ ],
+ "path": "/nieuws/tenstorrent-haalt-1-5-miljard-dollar-op-voor-open-ai-chips/",
+ "og": "/img/og/tenstorrent-haalt-1-5-miljard-dollar-op-voor-open-ai-chips.png"
+}

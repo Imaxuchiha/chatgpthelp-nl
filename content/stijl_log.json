@@ -2328,5 +2328,70 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-19T22:59:48",
+  "slug": "",
+  "title": "Microsoft waarschuwt: frontier AI-modellen zijn niet te vertrouwen",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-19T22:59:56",
+  "slug": "",
+  "title": "OpenCode hack: gestolen api-sleutels en hoge ai-rekeningen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-19T23:00:02",
+  "slug": "",
+  "title": "Tolan AI app haalt 30 miljoen dollar op na 250.000 gebruikers",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-19T23:00:09",
+  "slug": "",
+  "title": "Wabi ai-assistent is gratis en komt van de Replika-oprichter",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-19T23:00:18",
+  "slug": "",
+  "title": "Tenstorrent haalt 1,5 miljard dollar op voor open ai-chips",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

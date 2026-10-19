@@ -1871,6 +1871,26 @@
   "b314c5fcb3": {
    "at": "2026-10-19T19:46:06.415515",
    "why": "ok"
+  },
+  "7d73c446b7": {
+   "at": "2026-10-19T22:59:36.829007",
+   "why": "ok"
+  },
+  "141841bfba": {
+   "at": "2026-10-19T23:00:36.829007",
+   "why": "ok"
+  },
+  "1ef5dd457f": {
+   "at": "2026-10-19T23:01:36.829007",
+   "why": "poort"
+  },
+  "a8d6030b44": {
+   "at": "2026-10-19T23:01:36.829007",
+   "why": "poort"
+  },
+  "25c38f880d": {
+   "at": "2026-10-19T23:01:36.829007",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2185,6 +2205,9 @@
   "Anthropic geeft 5 procent van aandelen aan publiek fonds",
   "Anthropic stopt 48 miljard in maatschappelijk fonds",
   "Experts waarschuwen: geef niet zomaar een foto aan AI",
-  "Gemini 4-agents verslaan Minecraft-eindbaas zonder menselijke hulp"
+  "Gemini 4-agents verslaan Minecraft-eindbaas zonder menselijke hulp",
+  "Microsoft waarschuwt: frontier AI-modellen zijn niet te vertrouwen",
+  "OpenCode hack: gestolen api-sleutels en hoge ai-rekeningen",
+  "Tenstorrent haalt 1,5 miljard dollar op voor open ai-chips"
  ]
 }
