@@ -2525,5 +2525,54 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-20T21:58:09",
+  "slug": "",
+  "title": "ChatGPT voor bedrijven: franchisehouder int cash 94% sneller",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-20T21:58:17",
+  "slug": "",
+  "title": "Google volgt Amazon: nieuwe tool moet PyTorch-apps van Nvidia-gpu's halen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-20T21:58:26",
+  "slug": "",
+  "title": "ChatGPT laat je nu chats vergrendelen op je toestel",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-20T21:58:46",
+  "slug": "",
+  "title": "DeepSeek verwijderen bij overheid is paniekvoetbal",
+  "kind": "column",
+  "rood": [
+   "S6"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

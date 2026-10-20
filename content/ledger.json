@@ -1915,6 +1915,18 @@
   "3309b6ce15": {
    "at": "2026-10-20T17:51:08.540635",
    "why": "ok"
+  },
+  "b3fcb2e42d": {
+   "at": "2026-10-20T21:57:57.217125",
+   "why": "ok"
+  },
+  "2e553dc455": {
+   "at": "2026-10-20T21:58:57.217125",
+   "why": "ok"
+  },
+  "b799bf523c": {
+   "at": "2026-10-20T21:59:57.217125",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2238,6 +2250,9 @@
   "AI regulering New York: Mamdani roept inwoners op tot verzet",
   "Spotify haalt 50 miljoen AI-nummers uit aanbevelingen",
   "Lightroom kan nu dichte ogen openen met één tik",
-  "VS beveelt overheidsdiensten DeepSeek te verwijderen"
+  "VS beveelt overheidsdiensten DeepSeek te verwijderen",
+  "ChatGPT voor bedrijven: franchisehouder int cash 94% sneller",
+  "Google volgt Amazon: nieuwe tool moet PyTorch-apps van Nvidia-gpu's halen",
+  "ChatGPT laat je nu chats vergrendelen op je toestel"
  ]
 }

@@ -1,0 +1,69 @@
+{
+ "keyword": "google pytorch nvidia",
+ "seo_title": "Google pytorch nvidia: tool moet apps van Nvidia-gpu's halen",
+ "title": "Google volgt Amazon: nieuwe tool moet PyTorch-apps van Nvidia-gpu's halen",
+ "meta": "Google komt met een tool die PyTorch-apps makkelijk van Nvidia-gpu's laat overstappen. Wat dat betekent voor ontwikkelaars en rekenkracht in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "google",
+  "nvidia",
+  "pytorch",
+  "amazon",
+  "gpu",
+  "ai-hardware"
+ ],
+ "intro": "Google heeft een ontwikkelaarstool uitgebracht waarmee gebruikers van PyTorch hun apps eenvoudig van Nvidia-gpu's kunnen verplaatsen. Daarmee doet het bedrijf hetzelfde als Amazon eerder deed. De stap raakt de positie van Nvidia, dat de markt voor AI-rekenkracht stevig in handen heeft.",
+ "takeaways": [
+  "Google brengt een tool uit die PyTorch-apps makkelijker buiten Nvidia-gpu's laat draaien.",
+  "Amazon bracht eerder al een vergelijkbare tool uit.",
+  "PyTorch is een veelgebruikt raamwerk om AI-modellen te bouwen en te trainen.",
+  "De tools richten zich op ontwikkelaars die minder afhankelijk willen zijn van één gpu-leverancier."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de tool doet",
+   "body": "De tool van Google maakt het voor ontwikkelaars die met PyTorch werken makkelijker om hun apps naar andere hardware te verplaatsen. PyTorch is een veelgebruikt raamwerk om AI-modellen te bouwen en te trainen. Wie zulke apps draait, zit vaak vast aan gpu's van Nvidia.\n\nVolgens TechCrunch richt de tool zich op precies die overstap. Het gaat dus om het gereedschap waarmee ontwikkelaars hun code aanpassen, niet om nieuwe hardware van Google zelf. Details over ondersteunde chips en prestaties noemt de bron niet."
+  },
+  {
+   "heading": "Amazon deed het eerder",
+   "body": "Google is niet de eerste. Amazon bracht al eerder een vergelijkbare tool uit voor PyTorch-gebruikers. Beide bedrijven bouwen daarmee aan een alternatief voor de rol die Nvidia speelt in AI-toepassingen.\n\nNvidia levert een groot deel van de gpu's waarop AI-modellen worden getraind en gedraaid. Ontwikkelaars die hun apps makkelijk kunnen verplaatsen, hebben minder last van prijzen en beschikbaarheid bij één leverancier. TechCrunch noemt de stap van Google en Amazon een aanval op die sterke positie."
+  },
+  {
+   "heading": "Waarom dit telt voor AI-bedrijven",
+   "body": "Rekenkracht is een van de grootste kostenposten voor bedrijven die AI-toepassingen bouwen. Wie afhankelijk is van één soort chip, merkt dat direct in de portemonnee en in de planning. Een tool die overstappen makkelijker maakt, geeft ontwikkelaars meer keuze.\n\nOf dat in de praktijk snel gebeurt, is nog niet bekend. De bron geeft geen cijfers over hoeveel bedrijven hun apps al hebben verplaatst. Ook is niet duidelijk welke alternatieve hardware precies wordt ondersteund."
+  },
+  {
+   "heading": "Wat het betekent voor de markt",
+   "body": "De aankondiging past bij een bredere beweging onder grote techbedrijven. Ze willen minder afhankelijk worden van Nvidia en bouwen eigen chips of gereedschap om bestaande apps elders te draaien. Amazon en Google zetten die lijn nu allebei door richting PyTorch-gebruikers.\n\nVoor Nvidia betekent het druk op een positie die jarenlang vanzelfsprekend leek. Het bedrijf levert nog altijd veel van de hardware waar AI op draait. De vraag is hoe snel ontwikkelaars echt overstappen. Daar zegt de bron niets over."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die AI-toepassingen bouwen, kan meer keuze in hardware op termijn schelen in kosten en leveringszekerheid. Wie met PyTorch werkt, krijgt via deze tools een makkelijker route naar andere chips. Let wel: de bron noemt geen prijzen, geen beschikbaarheid in Nederland en geen Europese regelgeving. Of en wanneer de tool hier breed wordt gebruikt, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is PyTorch?",
+   "a": "PyTorch is een veelgebruikt raamwerk om AI-modellen te bouwen en te trainen. Veel ontwikkelaars draaien zulke modellen op gpu's van Nvidia."
+  },
+  {
+   "q": "Waarom wil Google apps van Nvidia-gpu's halen?",
+   "a": "Ontwikkelaars die makkelijk kunnen overstappen, zijn minder afhankelijk van één leverancier. Dat kan helpen bij kosten en beschikbaarheid van rekenkracht."
+  },
+  {
+   "q": "Is deze tool al in Nederland te gebruiken?",
+   "a": "De bron zegt niets over beschikbaarheid in Nederland of Europa. Details over ondersteunde hardware en uitrol zijn nog niet bekend."
+  }
+ ],
+ "slug": "google-volgt-amazon-nieuwe-tool-moet-pytorch-apps-van-nvidia-gpu-s-hal",
+ "kind": "news",
+ "date": "2026-10-20",
+ "published": "2026-10-20T21:58",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
+  }
+ ],
+ "path": "/nieuws/google-volgt-amazon-nieuwe-tool-moet-pytorch-apps-van-nvidia-gpu-s-hal/",
+ "og": "/img/og/google-volgt-amazon-nieuwe-tool-moet-pytorch-apps-van-nvidia-gpu-s-hal.png",
+ "take": "Google bouwt een ontsnappingsroute van Nvidia en Amazon deed dat eerder. Prima voor ontwikkelaars die niet vast willen zitten aan één leverancier. Maar de rekening komt pas als je zelf gaat meten wat zo'n overstap oplevert, en daar gaat het meestal mis."
+}

@@ -1,0 +1,68 @@
+{
+ "keyword": "chatgpt chats vergrendelen",
+ "seo_title": "ChatGPT chats vergrendelen: zo houd je gesprekken privé",
+ "title": "ChatGPT laat je nu chats vergrendelen op je toestel",
+ "meta": "ChatGPT krijgt een functie om chats te vergrendelen. Lees hoe het werkt, voor wie het bedoeld is en wat het betekent voor gebruikers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "privacy",
+  "openai",
+  "vergrendelen",
+  "veiligheid"
+ ],
+ "intro": "OpenAI heeft een functie toegevoegd waarmee je afzonderlijke ChatGPT-gesprekken kunt vergrendelen. Dat meldt TechCrunch. De optie is bedoeld voor momenten waarop je je telefoon of laptop even uit handen geeft en niet wilt dat iemand anders meeleest.",
+ "takeaways": [
+  "Je kunt losse ChatGPT-chats vergrendelen, niet je hele account in één keer.",
+  "OpenAI noemt als voorbeeld een persoonlijk gesprek of het plannen van een verrassing.",
+  "De functie is gemaakt voor situaties waarin je je toestel aan iemand anders geeft.",
+  "TechCrunch meldt het nieuws op 20 oktober 2026; details over uitrol in Nederland zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de vergrendeling doet",
+   "body": "Met de nieuwe optie zet je een slot op één gesprek. De chat blijft in je lijst staan, maar de inhoud is afgeschermd tot je hem weer openzet. Volgens OpenAI is het idee simpel: je laat iemand iets zien in de ene chat, terwijl een andere chat buiten beeld blijft.\n\nDat is een ander soort beveiliging dan een wachtwoord op je hele account. Je vergrendelt per gesprek, dus niet alles in één keer. TechCrunch schrijft dat OpenAI de functie presenteert als een praktische oplossing voor alledaagse situaties."
+  },
+  {
+   "heading": "Waarom OpenAI dit toevoegt",
+   "body": "Mensen gebruiken ChatGPT steeds vaker voor persoonlijke dingen. Denk aan een gesprek over gezondheid, geldzaken of een relatie. Ook het plannen van een verrassing voor iemand anders komt voorbij. In zulke gevallen wil je niet dat een vriend of familielid per ongeluk meeleest.\n\nOpenAI noemt precies die voorbeelden in zijn uitleg aan TechCrunch. Het bedrijf richt zich dus op het moment waarop je je toestel uitleent. Je toont iets in chat A en wilt niet dat de ander doorklikt naar chat B."
+  },
+  {
+   "heading": "Wat het niet oplost",
+   "body": "Een vergrendelde chat is geen kluis voor je hele account. Wie toegang heeft tot je inloggegevens, kan mogelijk alsnog bij je gesprekken komen. Over de technische werking, zoals of de chat versleuteld wordt opgeslagen, zegt OpenAI vooralsnog weinig.\n\nOok is nog niet duidelijk of de functie op alle platforms komt. TechCrunch noemt geen termijn en geen lijst van landen. Voor gebruikers in Nederland is het dus afwachten wanneer de optie in hun app verschijnt."
+  },
+  {
+   "heading": "Wat je zelf kunt doen",
+   "body": "Tot die tijd blijven de bekende maatregelen gelden. Gebruik een sterk wachtwoord en zet tweestapsverificatie aan. Log uit op een gedeelde computer en wis gesprekken die je niet wilt bewaren.\n\nGeef je je telefoon weg, open dan zelf het gesprek dat je wilt tonen. Zo voorkom je dat iemand terugklikt naar een ander gesprek. Dat is omslachtig, maar het werkt zonder nieuwe functie."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers verandert er op korte termijn weinig tot de functie hier wordt uitgerold. OpenAI heeft geen datum genoemd voor Nederland of de Europese Unie. Zodra de optie beschikbaar is, geldt hij binnen de bestaande ChatGPT-app. Let wel op: de Europese privacyregels (AVG) bepalen hoe OpenAI met je gesprekken mag omgaan, maar die regels zeggen niets over een slotje in de app zelf. Bedrijven die ChatGPT op het werk gebruiken, kunnen de functie niet zien als een volledige beveiliging van gevoelige informatie.",
+ "faq": [
+  {
+   "q": "Hoe vergrendel ik een chat in ChatGPT?",
+   "a": "OpenAI heeft de functie aangekondigd, maar de precieze stappen zijn nog niet gepubliceerd. TechCrunch beschrijft alleen het doel: één gesprek afschermen terwijl je je toestel uitleent."
+  },
+  {
+   "q": "Is een vergrendelde ChatGPT-chat echt privé?",
+   "a": "Dat is nog niet bekend. OpenAI heeft niets gezegd over versleuteling of opslag. Een slot op één chat vervangt geen sterk wachtwoord en tweestapsverificatie."
+  },
+  {
+   "q": "Wanneer komt de functie naar Nederland?",
+   "a": "Daar is nog geen datum voor. OpenAI noemt geen landen of termijnen, en TechCrunch meldt alleen dat de functie bestaat."
+  }
+ ],
+ "slug": "chatgpt-laat-je-nu-chats-vergrendelen-op-je-toestel",
+ "kind": "news",
+ "date": "2026-10-20",
+ "published": "2026-10-20T21:59",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "ChatGPT now lets you lock your chats",
+   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
+  }
+ ],
+ "path": "/nieuws/chatgpt-laat-je-nu-chats-vergrendelen-op-je-toestel/",
+ "og": "/img/og/chatgpt-laat-je-nu-chats-vergrendelen-op-je-toestel.png",
+ "take": "Een chatslot is leuk voor wie zijn telefoon vaak uit handen geeft, maar het levert geen tijd of geld op dat ik kan aanwijzen. Ik zet zulke functies pas aan als ze een echt probleem oplossen, en tot die tijd blijven mijn geldknoppen en gevoelige gesprekken gewoon achter een wachtwoord op mijn eigen toestel."
+}
