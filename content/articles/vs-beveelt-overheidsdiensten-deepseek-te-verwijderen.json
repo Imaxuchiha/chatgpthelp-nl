@@ -1,0 +1,68 @@
+{
+ "keyword": "deepseek verbod vs",
+ "seo_title": "DeepSeek verbod VS: Amerikaanse overheidsdiensten moeten",
+ "title": "VS beveelt overheidsdiensten DeepSeek te verwijderen",
+ "meta": "Amerikaanse overheidsdiensten moeten DeepSeek-producten verwijderen vanwege veiligheidszorgen. Wat betekent dat voor gebruik in Nederland en de EU?",
+ "category": "nieuws",
+ "tags": [
+  "deepseek",
+  "verenigde staten",
+  "ai-beleid",
+  "nationale veiligheid",
+  "overheid"
+ ],
+ "intro": "De Amerikaanse overheid heeft civiele federale diensten opdracht gegeven om producten van het Chinese DeepSeek te verwijderen. Dat geldt ook voor diensten van derden die op DeepSeek-technologie zijn gebouwd. Als reden noemt Washington zorgen over de nationale veiligheid.",
+ "takeaways": [
+  "Amerikaanse federale burgerdiensten moeten DeepSeek-producten uit hun systemen halen.",
+  "De maatregel raakt ook externe diensten die op DeepSeek-technologie draaien.",
+  "De VS noemt nationale veiligheid als reden voor de opdracht.",
+  "Voor Europese en Nederlandse overheidsgebruikers is nog geen vergelijkbaar besluit bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de opdracht precies inhoudt",
+   "body": "De order komt van de Amerikaanse federale overheid en geldt voor civiele diensten. Ambtenaren mogen DeepSeek-producten niet meer gebruiken. Ook hulpmiddelen van andere leveranciers die op DeepSeek-technologie zijn gebouwd, moeten verdwijnen.\n\nDat tweede punt valt op. Veel bedrijven bouwen eigen toepassingen bovenop bestaande AI-modellen. Een verbod op alleen de app van DeepSeek is dan niet genoeg. De Amerikaanse overheid kijkt daarom naar de techniek eronder.\n\nTechCrunch meldt dat nationale veiligheid de reden is. Verdere details over de uitvoering, zoals een deadline, staan niet in de bron."
+  },
+  {
+   "heading": "Waarom Washington dit doet",
+   "body": "De VS kijkt al langer met argusogen naar Chinese AI-bedrijven. DeepSeek kreeg begin 2025 veel aandacht door een model dat volgens het bedrijf weinig rekenkracht kost. Dat leidde in Amerika tot discussie over afhankelijkheid van Chinese software.\n\nIn deze order gaat het om overheidsgebruik. De zorgen gaan over data die via zulke systemen zou kunnen wegvloeien. De bron noemt geen concrete incidenten of technische onderbouwing."
+  },
+  {
+   "heading": "Wat dit betekent voor DeepSeek als bedrijf",
+   "body": "De Amerikaanse overheidsmarkt is voor DeepSeek nu grotendeels gesloten. Dat raakt ook Amerikaanse leveranciers die DeepSeek in hun producten verwerken. Zij moeten hun aanbod aanpassen of overheidsklanten laten vallen.\n\nVoor consumenten in de VS verandert er niets direct. De order gaat over federale diensten, niet over particuliere apps. Of er bredere regels komen, is nog niet bekend."
+  },
+  {
+   "heading": "Europa en Nederland blijven voorlopig buiten schot",
+   "body": "Een vergelijkbaar verbod voor Nederlandse of Europese overheidsdiensten is niet gemeld. De Europese Unie werkt wel aan regels voor AI onder de AI-verordening. Daarin staan eisen aan transparantie en risicobeheer.\n\nOf DeepSeek daaronder extra aandacht krijgt, is nog niet duidelijk. Nederlandse organisaties die DeepSeek gebruiken, doen er goed aan hun leveranciers te vragen waar data terechtkomt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse overheidsinstellingen en bedrijven verandert er vandaag niets aan de regels. Toch is dit een signaal om kritisch te kijken naar AI-tools met een Chinese oorsprong. Vraag je leverancier welk model er onder de motorkap zit en waar de invoer wordt verwerkt. Zeker bij gevoelige gegevens, zoals persoonsgegevens van klanten of burgers, telt dat zwaar. Een eigen verbod is er nog niet, maar de discussie in Brussel kan sneller gaan lopen door dit Amerikaanse besluit.",
+ "faq": [
+  {
+   "q": "Mag ik DeepSeek nog gebruiken in Nederland?",
+   "a": "Ja, er is geen Nederlands verbod bekend. De Amerikaanse order geldt alleen voor federale burgerdiensten in de VS."
+  },
+  {
+   "q": "Wat is DeepSeek precies?",
+   "a": "DeepSeek is een Chinees bedrijf dat AI-modellen en chatbots maakt. Het kreeg veel aandacht door een model dat naar verluidt weinig rekenkracht kost."
+  },
+  {
+   "q": "Raakt dit verbod ook bedrijven die DeepSeek in hun app gebruiken?",
+   "a": "In de VS wel, als ze aan federale diensten leveren. De order noemt ook diensten van derden die op DeepSeek-technologie zijn gebouwd."
+  }
+ ],
+ "slug": "vs-beveelt-overheidsdiensten-deepseek-te-verwijderen",
+ "kind": "news",
+ "date": "2026-10-20",
+ "published": "2026-10-20T17:51",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+   "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
+  }
+ ],
+ "path": "/nieuws/vs-beveelt-overheidsdiensten-deepseek-te-verwijderen/",
+ "og": "/img/og/vs-beveelt-overheidsdiensten-deepseek-te-verwijderen.png",
+ "take": "Washington stuurt DeepSeek weg bij zijn eigen diensten en dat is hun keuze. Voor Nederlandse gebruikers verandert er niets tot Brussel met een echt besluit komt, en tot die tijd bepaalt de data die je erin stopt wat je risico is. Mijn regel blijft: eerst meten wat een tool doet op je eigen werk, dan pas oordelen of hij blijft."
+}

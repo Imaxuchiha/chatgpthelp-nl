@@ -1903,6 +1903,18 @@
   "e9f6e03adc": {
    "at": "2026-10-20T10:42:37.698419",
    "why": "ok"
+  },
+  "e85a4c5da2": {
+   "at": "2026-10-20T17:49:08.540635",
+   "why": "ok"
+  },
+  "af3e08fe45": {
+   "at": "2026-10-20T17:50:08.540635",
+   "why": "ok"
+  },
+  "3309b6ce15": {
+   "at": "2026-10-20T17:51:08.540635",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2223,6 +2235,9 @@
   "Tenstorrent haalt 1,5 miljard dollar op voor open ai-chips",
   "AI-agent MIT-onderzoek: wat Eko doet als niemand kijkt",
   "Smart-tv advertenties uitzetten: ontwikkelaars zetten AI in",
-  "AI regulering New York: Mamdani roept inwoners op tot verzet"
+  "AI regulering New York: Mamdani roept inwoners op tot verzet",
+  "Spotify haalt 50 miljoen AI-nummers uit aanbevelingen",
+  "Lightroom kan nu dichte ogen openen met één tik",
+  "VS beveelt overheidsdiensten DeepSeek te verwijderen"
  ]
 }

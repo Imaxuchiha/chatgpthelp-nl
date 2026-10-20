@@ -2458,5 +2458,72 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-20T17:49:22",
+  "slug": "",
+  "title": "Spotify haalt 50 miljoen AI-nummers uit aanbevelingen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-20T17:49:29",
+  "slug": "",
+  "title": "Lightroom kan nu dichte ogen openen met één tik",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-20T17:49:37",
+  "slug": "",
+  "title": "VS beveelt overheidsdiensten DeepSeek te verwijderen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-20T17:50:06",
+  "slug": "",
+  "title": "DeepSeek verbod VS: Europese bedrijven letten op",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S5",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-20T17:50:17",
+  "slug": "",
+  "title": "DeepSeek verbod VS: Europese bedrijven letten op",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S5",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

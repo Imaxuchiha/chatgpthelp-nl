@@ -1,0 +1,68 @@
+{
+ "keyword": "lightroom ogen openen",
+ "seo_title": "Lightroom ogen openen: AI-functie nu op je telefoon",
+ "title": "Lightroom kan nu dichte ogen openen met één tik",
+ "meta": "Adobe Lightroom op iOS en Android opent dichte ogen in foto's met generatieve AI. Zo werkt de functie en dit betekent het voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "adobe",
+  "lightroom",
+  "generatieve ai",
+  "fotobewerking",
+  "mobiel"
+ ],
+ "intro": "Adobe heeft de mobiele versie van Lightroom een functie gegeven die dichte ogen in foto's opent. Eén tik volstaat, meldt The Verge. De app herkent zelf wanneer iemand op de foto met gesloten ogen staat.",
+ "takeaways": [
+  "Lightroom op iOS, iPadOS en Android opent dichte ogen met generatieve AI na één tik.",
+  "De app herkent automatisch wanneer een persoon of groep met dichte ogen op de foto staat.",
+  "De functie zit in de mobiele app van Lightroom, niet in de desktopversie volgens deze aankondiging.",
+  "Adobe maakte de functie een dag voor het nieuws naar buiten kwam bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de functie doet",
+   "body": "Lightroom herkent op een foto wanneer iemand met gesloten ogen staat. Dat geldt voor één persoon, maar ook voor een groep. Zodra de app dat ziet, krijgt de gebruiker een voorstel om de ogen te openen.\n\nDat gebeurt met generatieve AI, dus de app maakt zelf een passend beeld van de ogen. Volgens The Verge is er niet meer nodig dan één tik. Je hoeft dus geen penseel te pakken of handmatig te gaan sleutelen."
+  },
+  {
+   "heading": "Waar je het vindt",
+   "body": "De functie zit in de mobiele versie van Lightroom. Die is beschikbaar voor iOS, iPadOS en Android. Of de desktopversie hetzelfde kan, maakt de aankondiging niet duidelijk.\n\nAdobe bracht het nieuws een dag voor publicatie naar buiten. Meer details over de techniek achter de functie geeft het bedrijf niet in de bron."
+  },
+  {
+   "heading": "Knipperende ogen op familiefoto's",
+   "body": "Iedereen kent de foto waar net één iemand knippert. Voorheen was dat vaak een reden om de foto weg te gooien of opnieuw te maken. Deze functie pakt dat probleem direct in de app aan.\n\nHet past bij een bredere beweging: fotobewerking schuift steeds vaker naar de telefoon. Wat eerder uren werk in een programma op de computer kostte, gebeurt nu met een tik."
+  },
+  {
+   "heading": "Wat het betekent voor je foto's",
+   "body": "De AI vult zelf in hoe de ogen eruitzien. Dat betekent dat het resultaat niet altijd precies is zoals op het moment van de foto. Bij een portret valt een afwijkende blik eerder op dan bij een groepsfoto.\n\nBewaar daarom altijd het origineel. Lightroom werkt met niet-destructieve bewerkingen, dus je kunt terug. Controleer het resultaat wel even goed voordat je de foto deelt."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders met een abonnement op Lightroom is de functie direct relevant zodra de update in de app store staat. Adobe verkoopt Lightroom hier via een maandabonnement, met de mobiele app inbegrepen. Let op: foto's waarin je met AI ogen aanpast, kunnen bij sommige platforms of bij professioneel gebruik om een toelichting vragen. Voor vakfotografen die werk aanleveren bij opdrachtgevers is het verstandig om zulke aanpassingen te melden.",
+ "faq": [
+  {
+   "q": "Kan Lightroom dichte ogen openen op mijn telefoon?",
+   "a": "Ja, in de mobiele versie voor iOS, iPadOS en Android. De app herkent dichte ogen en stelt voor om ze met generatieve AI te openen."
+  },
+  {
+   "q": "Werkt dit ook in Lightroom op de computer?",
+   "a": "Dat maakt Adobe in deze aankondiging niet duidelijk. De functie wordt genoemd voor de mobiele app."
+  },
+  {
+   "q": "Moet ik mijn originele foto bewaren?",
+   "a": "Ja, dat is verstandig. Zo kun je terug naar de foto zonder AI-aanpassing als het resultaat tegenvalt."
+  }
+ ],
+ "slug": "lightroom-kan-nu-dichte-ogen-openen-met-een-tik",
+ "kind": "news",
+ "date": "2026-10-20",
+ "published": "2026-10-20T17:50",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+   "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"
+  }
+ ],
+ "path": "/nieuws/lightroom-kan-nu-dichte-ogen-openen-met-een-tik/",
+ "og": "/img/og/lightroom-kan-nu-dichte-ogen-openen-met-een-tik.png",
+ "take": "Eén tik en de ogen gaan open, leuk voor vakantiekiekjes waar iemand net knippert. Mijn vraag bij elke nieuwe AI-functie is wat hij over een jaar nog waard is, en daar heb ik bij foto's nooit haast mee. Ik heb Lightroom zelf niet gebruikt, maar een foto die achteraf wordt gerepareerd vertelt me pas iets als ik hem naast het origineel leg en eerlijk kijk wat er klopt."
+}
