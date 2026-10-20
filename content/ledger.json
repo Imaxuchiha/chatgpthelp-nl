@@ -1891,6 +1891,18 @@
   "25c38f880d": {
    "at": "2026-10-19T23:01:36.829007",
    "why": "ok"
+  },
+  "5e5dd3f120": {
+   "at": "2026-10-20T10:40:37.698419",
+   "why": "ok"
+  },
+  "d94d443334": {
+   "at": "2026-10-20T10:41:37.698419",
+   "why": "ok"
+  },
+  "e9f6e03adc": {
+   "at": "2026-10-20T10:42:37.698419",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2208,6 +2220,9 @@
   "Gemini 4-agents verslaan Minecraft-eindbaas zonder menselijke hulp",
   "Microsoft waarschuwt: frontier AI-modellen zijn niet te vertrouwen",
   "OpenCode hack: gestolen api-sleutels en hoge ai-rekeningen",
-  "Tenstorrent haalt 1,5 miljard dollar op voor open ai-chips"
+  "Tenstorrent haalt 1,5 miljard dollar op voor open ai-chips",
+  "AI-agent MIT-onderzoek: wat Eko doet als niemand kijkt",
+  "Smart-tv advertenties uitzetten: ontwikkelaars zetten AI in",
+  "AI regulering New York: Mamdani roept inwoners op tot verzet"
  ]
 }

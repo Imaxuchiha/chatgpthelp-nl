@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: bezwaar maken tegen afwijzing huurtoeslag",
+ "situation": "Je kreeg van de Belastingdienst een afwijzing of terugvordering van huurtoeslag en wilt zelf een bezwaarschrift opstellen dat feitelijk klopt.",
+ "prompt": "Je bent een Nederlandse toeslagenadviseur met ervaring in bezwaarzaken bij de Belastingdienst. Ik heb een beslissing over huurtoeslag ontvangen die volgens mij niet klopt. Schrijf een zakelijk bezwaarschrift van maximaal één A4.\n\nMijn gegevens: [NAAM], [ADRES], [POSTCODE EN WOONPLAATS], BSN [BSN], toeslagnummer [TOESLAGNUMMER].\nDatum beslissing: [DATUM]. Kenmerk: [KENMERK].\nDe beslissing houdt in: [BESCHRIJF WAT ER IS BESLOTEN, BIJV. AFWIJZING OF TERUGVORDERING].\nMijn situatie: [HUUR PER MAAND, INGANGSDATUM HUURCONTRACT, WOONACHTIGEN, INKOMEN].\nWaarom ik het oneens ben: [BESCHRIJF CONCREET, BIJV. JUISTE HUIURPRIJS OF INKOMEN].\n\nStructuur: aanhef, feiten op een rij, juridische grond waarom de beslissing onjuist is, concreet verzoek tot herziening, slotalinea met verzoek om ontvangstbevestiging. Verwijs naar bijlagen die ik meestal kan toevoegen. Geen verzonnen wetsartikelen; noem alleen wat je zeker weet en markeer onzekerheden met [CONTROLEREN].",
+ "tip": "Voeg het exacte bedrag en de ingangsdatum uit je huurcontract toe, dan kan de Belastingdienst je bezwaar sneller beoordelen.",
+ "tags": [
+  "huurtoeslag",
+  "bezwaarschrift",
+  "belastingdienst",
+  "wonen"
+ ],
+ "date": "2026-10-20",
+ "slug": "prompt-bezwaar-maken-tegen-afwijzing-huurtoeslag",
+ "path": "/prompts/2026-10-20-prompt-bezwaar-maken-tegen-afwijzing-huurtoeslag/"
+}

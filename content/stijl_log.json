@@ -2393,5 +2393,70 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-20T10:40:51",
+  "slug": "",
+  "title": "AI-agent MIT-onderzoek: wat Eko doet als niemand kijkt",
+  "kind": "news",
+  "rood": [
+   "S5",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-20T10:41:00",
+  "slug": "",
+  "title": "Smart-tv advertenties uitzetten: ontwikkelaars zetten AI in",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-20T10:41:20",
+  "slug": "",
+  "title": "AI regulering New York: Mamdani roept inwoners op tot verzet",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-20T10:42:02",
+  "slug": "",
+  "title": "AI-agents vertrouwen: waarom ik ze nooit loslaat",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S5",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-20T10:42:18",
+  "slug": "",
+  "title": "AI-agents vertrouwen: waarom ik ze nooit loslaat",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S5",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
