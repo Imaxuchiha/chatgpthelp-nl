@@ -1,0 +1,64 @@
+{
+ "keyword": "netflix documentaire openai",
+ "seo_title": "Netflix documentaire OpenAI klopt niet, zegt Hugging Face",
+ "title": "Netflix-documentaire over OpenAI-hack klopt niet, zegt Hugging Face",
+ "meta": "De Netflix-documentaire AI Gone Rogue over een OpenAI-hack is volgens Hugging Face-topman Clem Delangue niet accuraat. Wat klopt er wel en niet?",
+ "category": "nieuws",
+ "tags": [
+  "netflix",
+  "openai",
+  "hugging face",
+  "documentaire",
+  "ai-hack"
+ ],
+ "intro": "De nieuwe Netflix-documentaire AI Gone Rogue schetst een alarmerend beeld van een hack bij OpenAI. Clem Delangue, mede-oprichter van Hugging Face en zelf te zien in de film, zegt dat het resultaat niet klopt. Hij noemt de toon regelrecht doemdenken, meldt TechCrunch.",
+ "takeaways": [
+  "Clem Delangue van Hugging Face staat in de Netflix-documentaire AI Gone Rogue en noemt de weergave onjuist.",
+  "Volgens hem schakelt de film volledig over op doemdenken.",
+  "TechCrunch meldt dat de documentaire draait om een vermeende hack bij OpenAI.",
+  "Delangue roept kijkers op de film niet zomaar te delen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de documentaire beweert",
+   "body": "AI Gone Rogue draait volgens TechCrunch om een hack bij OpenAI. De film schetst hoe die inbraak zou verlopen en wat de gevolgen zijn. Netflix positioneert het als een waargebeurd verhaal over de risico's van kunstmatige intelligentie.\n\nDelangue komt zelf in beeld. Hij is mede-oprichter van Hugging Face, een platform waar ontwikkelaars open modellen delen. Zijn deelname geeft de film een vleugje autoriteit. Juist daarom vindt hij het nodig om afstand te nemen van de boodschap."
+  },
+  {
+   "heading": "Kritiek van Hugging Face",
+   "body": "Volgens Delangue slaat de film door naar paniek. Hij zegt dat AI Gone Rogue volledig in doemdenken vervalt en dat de weergave niet accuraat is. Wat precies onjuist is, maakt TechCrunch niet duidelijk. Concrete voorbeelden van fouten noemt de topman in het artikel niet.\n\nZijn waarschuwing komt vlak na de release. Kijkers delen clips en conclusies op sociale media. Delangue vraagt hen eerst na te denken voordat ze die verspreiden."
+  },
+  {
+   "heading": "Waarom dit uitmaakt",
+   "body": "Documentaires over AI trekken veel kijkers. Ze bepalen mee hoe het publiek aankijkt tegen bedrijven als OpenAI. Als een hoofdpersoon zegt dat de film niet klopt, wankelt dat beeld.\n\nHugging Face verdient aan open modellen. Een verhaal dat AI vooral als gevaar neerzet, raakt dat belang. Dat maakt de kritiek ook een discussie over belangen, niet alleen over feiten.\n\nNetflix heeft nog niet publiek gereageerd op de uitspraken. Of de film wordt aangepast, is niet bekend."
+  }
+ ],
+ "nl_angle": "In Nederland is de film gewoon te streamen via Netflix. Kijkers hier krijgen hetzelfde alarmerende beeld voorgeschoteld. Bedrijven die AI gebruiken, doen er goed aan niet blind te varen op één documentaire. Kijk naar wat een leverancier zelf meldt over beveiliging en datalekken. Voor organisaties die met OpenAI werken, blijft het verstandig eigen afspraken te maken over toegang en logging, los van wat een film beweert.",
+ "faq": [
+  {
+   "q": "Klopt de Netflix-documentaire over OpenAI?",
+   "a": "Volgens Clem Delangue van Hugging Face niet. Hij zegt dat AI Gone Rogue in doemdenken vervalt en de gebeurtenissen onjuist weergeeft."
+  },
+  {
+   "q": "Waar gaat AI Gone Rogue over?",
+   "a": "De documentaire draait om een vermeende hack bij OpenAI en de risico's daarvan. TechCrunch beschrijft de film als een waarschuwing over AI."
+  },
+  {
+   "q": "Is de film in Nederland te zien?",
+   "a": "Ja, AI Gone Rogue staat op Netflix en is daarmee ook in Nederland te streamen. Een releasedatum of aanpassing na de kritiek is niet gemeld."
+  }
+ ],
+ "slug": "netflix-documentaire-over-openai-hack-klopt-niet-zegt-hugging-face",
+ "kind": "news",
+ "date": "2026-10-21",
+ "published": "2026-10-21T10:43",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+   "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
+  }
+ ],
+ "path": "/nieuws/netflix-documentaire-over-openai-hack-klopt-niet-zegt-hugging-face/",
+ "og": "/img/og/netflix-documentaire-over-openai-hack-klopt-niet-zegt-hugging-face.png",
+ "take": "Een documentaire die een hack als doemscenario neerzet en dan zelf in de film zit, daar wil ik eerst de onderbouwing van zien. Delangue zegt dat het beeld niet klopt, en dat geloof ik sneller dan een montage die lekker klinkt. Ik verkoop liever een saai verhaal dat klopt dan een spannend verhaal dat je moet nabouwen."
+}

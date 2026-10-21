@@ -2574,5 +2574,84 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-21T10:42:04",
+  "slug": "",
+  "title": "OpenAI neemt Orchestra Bio over voor AI in geneesmiddelenonderzoek",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-21T10:42:15",
+  "slug": "",
+  "title": "GPT-6.1 beoordeelt beleggingen: Terminal X haalt 88,6% van senior oordeel",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-21T10:42:24",
+  "slug": "",
+  "title": "Netflix-documentaire over OpenAI-hack klopt niet, zegt Hugging Face",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-21T10:42:58",
+  "slug": "",
+  "title": "ChatGPT nieuws: waar vind je betrouwbare updates?",
+  "kind": "evergreen",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-21T10:43:27",
+  "slug": "",
+  "title": "DeepSeek verbod VS: paniek of gewoon politiek?",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-21T10:43:44",
+  "slug": "",
+  "title": "DeepSeek verbod VS: paniek of gewoon politiek?",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S4",
+   "S5"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

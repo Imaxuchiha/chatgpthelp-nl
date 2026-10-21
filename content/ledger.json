@@ -1927,6 +1927,26 @@
   "b799bf523c": {
    "at": "2026-10-20T21:59:57.217125",
    "why": "ok"
+  },
+  "aeaa448f66": {
+   "at": "2026-10-21T10:41:51.987758",
+   "why": "ok"
+  },
+  "dbaa902542": {
+   "at": "2026-10-21T10:41:51.987758",
+   "why": "ok"
+  },
+  "b6629abae5": {
+   "at": "2026-10-21T10:42:51.987758",
+   "why": "high-risk"
+  },
+  "a84b6a7bee": {
+   "at": "2026-10-21T10:42:51.987758",
+   "why": "ok"
+  },
+  "342f3b31d4": {
+   "at": "2026-10-21T10:43:51.987758",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2253,6 +2273,9 @@
   "VS beveelt overheidsdiensten DeepSeek te verwijderen",
   "ChatGPT voor bedrijven: franchisehouder int cash 94% sneller",
   "Google volgt Amazon: nieuwe tool moet PyTorch-apps van Nvidia-gpu's halen",
-  "ChatGPT laat je nu chats vergrendelen op je toestel"
+  "ChatGPT laat je nu chats vergrendelen op je toestel",
+  "OpenAI neemt Orchestra Bio over voor AI in geneesmiddelenonderzoek",
+  "GPT-6.1 beoordeelt beleggingen: Terminal X haalt 88,6% van senior oordeel",
+  "Netflix-documentaire over OpenAI-hack klopt niet, zegt Hugging Face"
  ]
 }

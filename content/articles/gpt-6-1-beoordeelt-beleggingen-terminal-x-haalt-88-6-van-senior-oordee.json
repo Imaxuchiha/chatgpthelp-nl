@@ -1,0 +1,67 @@
+{
+ "keyword": "gpt-6.1 beleggingsfonds",
+ "seo_title": "GPT-6.1 beoordeelt beleggingen: Terminal X test 88,6%",
+ "title": "GPT-6.1 beoordeelt beleggingen: Terminal X haalt 88,6% van senior oordeel",
+ "meta": "OpenAI meldt dat Terminal X met GPT-6.1 beleggingsoutput beoordeelt. Wat betekent dat voor Nederlandse fondsen en compliance-teams?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "gpt-6.1",
+  "beleggen",
+  "compliance",
+  "terminal x"
+ ],
+ "intro": "OpenAI meldt dat het beoordelingssysteem van Terminal X met GPT-6.1 in 88,6 procent van de gevallen het oordeel van een senior belegger volgt. Het systeem controleert uitkomsten op 54 criteria en vangt 25 procent meer afwijkingen van het mandaat van een fonds. Dat raakt ook Nederlandse vermogensbeheerders en compliance-teams.",
+ "takeaways": [
+  "Terminal X beoordeelt uitkomsten met een rubric van 54 criteria.",
+  "Met GPT-6.1 komt de beoordeling in 88,6 procent van de gevallen overeen met een senior belegger.",
+  "Het systeem vangt 25 procent meer afwijkingen van het fondsmandaat.",
+  "OpenAI noemt de cijfers zelf; onafhankelijke toetsing is nog niet gemeld."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Terminal X precies doet",
+   "body": "Terminal X heeft een Eval Agent. Dat is een beoordelingssysteem dat output van een beleggingsproces langs een vaste meetlat legt. Die meetlat telt 54 criteria, aldus OpenAI.\n\nDe agent kijkt dus niet alleen of een getal klopt. Hij toetst ook of een voorstel past bij de regels die een fonds zichzelf heeft opgelegd. Het mandaat is het document waarin staat waarin een fonds wel en niet mag beleggen.\n\nMet GPT-6.1 Sol, de variant die OpenAI in de aankondiging noemt, vangt de agent 25 procent meer afwijkingen van dat mandaat. Dat is het cijfer dat OpenAI zelf naar buiten brengt."
+  },
+  {
+   "heading": "Hoe dicht zit het bij een mens",
+   "body": "De vergelijking met een senior belegger is de opvallendste claim. In 88,6 procent van de gevallen komt het oordeel van de agent overeen met dat van een ervaren beoordelaar. OpenAI publiceert dat percentage zonder de onderliggende testset te beschrijven.\n\nEen deel van de gevallen wijkt dus af. Wat daar gebeurt, is niet bekend. Gaat het om grensgevallen, om fouten van het systeem of om situaties waarin de mens ernaast zat? OpenAI geeft daar in de aankondiging geen antwoord op.\n\nOnafhankelijke toetsing door een derde partij is niet gemeld. Tot die er is, blijft het een leverancierscijfer."
+  },
+  {
+   "heading": "Waarom een rubric van 54 punten uitmaakt",
+   "body": "Beleggingsbeslissingen zijn lastig automatisch te controleren. Veel regels zijn tekstueel: een fonds mag bijvoorbeeld niet te veel in één sector zitten, of moet uitleggen waarom een positie afwijkt van de strategie.\n\nEen rubric met 54 criteria maakt zulke regels meetbaar. Dat is handig voor teams die elke dag veel voorstellen moeten nalopen. Het nadeel: wie de rubric opstelt, bepaalt wat telt.\n\nStaat een criterium er niet in, dan ziet de agent die afwijking waarschijnlijk niet. De kwaliteit van de controle hangt dus net zo sterk aan het beoordelingskader als aan het taalmodel."
+  },
+  {
+   "heading": "Wat OpenAI wel en niet zegt",
+   "body": "De aankondiging noemt geen prijs, geen releasedatum en geen beschikbaarheid per land. Ook is niet duidelijk of Terminal X een bestaand product is of een voorbeeld dat OpenAI zelf heeft opgezet.\n\nWie het wil gebruiken, moet dus nog wachten op duidelijkheid. OpenAI verwijst voor meer informatie naar zijn eigen site, zonder verdere details over toegang."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse vermogensbeheerders, pensioenuitvoerders en compliance-afdelingen is dit een signaal dat AI-toezicht op beleggingsvoorstellen dichterbij komt. De Autoriteit Financiële Markten kijkt naar hoe besluiten tot stand komen en of die uitlegbaar zijn. Een systeem dat afwijkingen van een mandaat eerder ziet, kan helpen bij die verantwoording. De verantwoordelijkheid blijft wel bij mensen liggen. Zolang er geen onafhankelijke test is en geen prijs of beschikbaarheid in euro's bekend is, is het verstandig om dit als verkenning te zien en niet als vervanging van een senior beoordelaar.",
+ "faq": [
+  {
+   "q": "wat is terminal x van openai",
+   "a": "Terminal X is volgens OpenAI een systeem met een Eval Agent die beleggingsoutput beoordeelt langs 54 criteria. De agent gebruikt daarvoor GPT-6.1 Sol."
+  },
+  {
+   "q": "hoe betrouwbaar is gpt-6.1 bij beleggingsbeoordeling",
+   "a": "OpenAI meldt 88,6 procent overeenkomst met een senior belegger. Een onafhankelijke test is niet gepubliceerd, dus het blijft voorlopig een cijfer van de maker zelf."
+  },
+  {
+   "q": "is terminal x beschikbaar in nederland",
+   "a": "Dat is niet bekend. OpenAI noemt geen prijs, releasedatum of beschikbaarheid per land."
+  }
+ ],
+ "slug": "gpt-6-1-beoordeelt-beleggingen-terminal-x-haalt-88-6-van-senior-oordee",
+ "kind": "news",
+ "date": "2026-10-21",
+ "published": "2026-10-21T10:42",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+   "url": "https://openai.com/index/terminal-x"
+  }
+ ],
+ "path": "/nieuws/gpt-6-1-beoordeelt-beleggingen-terminal-x-haalt-88-6-van-senior-oordee/",
+ "og": "/img/og/gpt-6-1-beoordeelt-beleggingen-terminal-x-haalt-88-6-van-senior-oordee.png"
+}

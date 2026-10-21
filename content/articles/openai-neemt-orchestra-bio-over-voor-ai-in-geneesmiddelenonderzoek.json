@@ -1,0 +1,69 @@
+{
+ "keyword": "openai orchestra bio",
+ "seo_title": "OpenAI Orchestra Bio: AI voor geneesmiddelenonderzoek",
+ "title": "OpenAI neemt Orchestra Bio over voor AI in geneesmiddelenonderzoek",
+ "meta": "OpenAI koopt Orchestra Bio en zet het team in op Rosalind, het AI-model voor levenswetenschappen. Wat betekent dat voor onderzoek en farma in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "orchestra bio",
+  "rosalind",
+  "biotech",
+  "farma"
+ ],
+ "intro": "OpenAI neemt het biotechbedrijf Orchestra Bio over. Het team en de technologie gaan werken aan Rosalind, het AI-model van OpenAI voor onderzoek in de levenswetenschappen. Volgens OpenAI moet dat farmabedrijven helpen geneesmiddelen sneller te ontwikkelen.",
+ "takeaways": [
+  "OpenAI kondigde de overname van Orchestra Bio aan op 19 oktober 2026.",
+  "Het team van Orchestra Bio gaat aan de slag met Rosalind en de Rosalind Workbench.",
+  "Rosalind Workbench is bedoeld om onderzoekers te helpen experimenten te plannen en resultaten te analyseren.",
+  "OpenAI wil met de overname AI-gedreven werkzaamheden naar onderzoek en ontwikkeling in de levenswetenschappen brengen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies koopt",
+   "body": "Orchestra Bio is een startup die zich richt op de levenswetenschappen. OpenAI neemt het bedrijf over en voegt het team en de technologie toe aan zijn eigen biotechactiviteiten. Dat meldt TechCrunch op 20 oktober 2026.\n\nDe overname is een dag eerder aangekondigd door OpenAI zelf. Het bedrijf schrijft dat het Orchestra Bio inlijft om AI-gedreven werkzaamheden naar onderzoek en ontwikkeling in de levenswetenschappen te brengen. Hoeveel geld er met de deal gemoeid is, maakt OpenAI niet bekend."
+  },
+  {
+   "heading": "Rosalind als kern van de overname",
+   "body": "Het werk van het Orchestra-team komt terecht bij Rosalind. Dat is het AI-model dat OpenAI heeft gebouwd voor onderzoek in de levenswetenschappen. Volgens TechCrunch gaat het team ook aan de slag met de Rosalind Workbench.\n\nDie Workbench is een hulpmiddel dat onderzoekers moet helpen bij het plannen van experimenten en het analyseren van resultaten. OpenAI noemt de overname zelf een stap om biotechbedrijven te helpen bij het sneller ontwikkelen van geneesmiddelen en het vinden van nieuwe behandelingen."
+  },
+  {
+   "heading": "Waarom OpenAI de biotechkant opzoekt",
+   "body": "OpenAI is vooral bekend van ChatGPT, maar richt zich breder op AI voor wetenschappelijk werk. De overname past bij die beweging: het bedrijf wil zijn modellen inzetten waar veel data en lange onderzoektrajecten samenkomen.\n\nFarmaceutische bedrijven doen vaak jaren over het ontwikkelen en testen van een nieuw middel. AI kan een deel van het voorwerk overnemen, zoals het doorzoeken van onderzoeksliteratuur en het opzetten van proeven. Of Rosalind dat in de praktijk ook sneller maakt, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse farmabedrijven, universiteiten en onderzoeksinstellingen betekent dit vooral dat er een extra AI-partij bijkomt voor werk in de levenswetenschappen. Of Rosalind en de Workbench hier ook beschikbaar komen, is nog niet duidelijk. OpenAI heeft niets gezegd over prijzen, een Europese uitrol of een Nederlandse versie. Onderzoekers die nu al met AI werken, merken voorlopig weinig van de overname zelf.",
+ "faq": [
+  {
+   "q": "Wat is Orchestra Bio?",
+   "a": "Orchestra Bio is een startup in de levenswetenschappen die OpenAI overneemt. Het team en de technologie gaan werken aan Rosalind, het AI-model van OpenAI voor biotechonderzoek."
+  },
+  {
+   "q": "Wat is Rosalind van OpenAI?",
+   "a": "Rosalind is het AI-model van OpenAI voor onderzoek in de levenswetenschappen. De Rosalind Workbench is een hulpmiddel om experimenten te plannen en resultaten te analyseren."
+  },
+  {
+   "q": "Wat kost de overname van Orchestra Bio?",
+   "a": "OpenAI heeft geen bedrag genoemd. Ook over de precieze voorwaarden is niets naar buiten gebracht."
+  }
+ ],
+ "slug": "openai-neemt-orchestra-bio-over-voor-ai-in-geneesmiddelenonderzoek",
+ "kind": "news",
+ "date": "2026-10-21",
+ "published": "2026-10-21T10:41",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
+  },
+  {
+   "name": "OpenAI",
+   "title": "OpenAI acquires Orchestra Bio",
+   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+  }
+ ],
+ "path": "/nieuws/openai-neemt-orchestra-bio-over-voor-ai-in-geneesmiddelenonderzoek/",
+ "og": "/img/og/openai-neemt-orchestra-bio-over-voor-ai-in-geneesmiddelenonderzoek.png",
+ "take": "OpenAI koopt een biotechteam en zet dat op geneesmiddelenonderzoek. Mooi, maar een overname is nog geen bewezen resultaat. Ik laat de geldknoppen liever bij een mens: wat een model voorstelt, controleer ik eerst voordat er iets mee gebeurt."
+}

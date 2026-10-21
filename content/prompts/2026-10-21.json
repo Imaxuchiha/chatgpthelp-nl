@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: brief opstellen voor geschil met je buren",
+ "situation": "Je hebt overlast of een conflict met de buren en wilt een nette brief sturen voordat je verdere stappen neemt.",
+ "prompt": "Je bent een ervaren buurtbemiddelaar in Nederland. Ik heb een conflict met mijn buren en wil een vriendelijke maar duidelijke brief sturen. Situatie: [BESCHRIJF HET CONFLICT, BIJVOORBEELD GELUID, TUIN, SCHUTTING]. Wat ik wil bereiken: [BESCHRIJF JE DOEL, BIJVOORBEELD MINDER GELUID NA 22 UUR]. Wat ik al heb geprobeerd: [BESCHRIJF EERDERE GESPREKKEN]. Schrijf een brief van maximaal 250 woorden in nuchter Nederlands. Structuur: korte inleiding, feitelijke beschrijving van de overlast met data, concreet voorstel, uitnodiging voor een gesprek. Geen verwijten, geen dreigementen. Sluit af met een redelijke termijn om te reageren. Geef daarna drie tips om het gesprek in persoon soepel te laten verlopen.",
+ "tip": "Noem concrete data en tijden uit je eigen notities, dan wordt de brief veel sterker.",
+ "tags": [
+  "buren",
+  "brief",
+  "conflict",
+  "thuis"
+ ],
+ "date": "2026-10-21",
+ "slug": "prompt-brief-opstellen-voor-geschil-met-je-buren",
+ "path": "/prompts/2026-10-21-prompt-brief-opstellen-voor-geschil-met-je-buren/"
+}
