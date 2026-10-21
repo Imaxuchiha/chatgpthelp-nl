@@ -1947,6 +1947,18 @@
   "342f3b31d4": {
    "at": "2026-10-21T10:43:51.987758",
    "why": "ok"
+  },
+  "5aea186bec": {
+   "at": "2026-10-21T18:05:10.405087",
+   "why": "ok"
+  },
+  "74fcf21eca": {
+   "at": "2026-10-21T18:06:10.405087",
+   "why": "ok"
+  },
+  "61f4d0141f": {
+   "at": "2026-10-21T18:07:10.405087",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2276,6 +2288,9 @@
   "ChatGPT laat je nu chats vergrendelen op je toestel",
   "OpenAI neemt Orchestra Bio over voor AI in geneesmiddelenonderzoek",
   "GPT-6.1 beoordeelt beleggingen: Terminal X haalt 88,6% van senior oordeel",
-  "Netflix-documentaire over OpenAI-hack klopt niet, zegt Hugging Face"
+  "Netflix-documentaire over OpenAI-hack klopt niet, zegt Hugging Face",
+  "AI-teksten duiken op in Kamerdebatten: zorg om geloofwaardigheid",
+  "ChatGPT advertenties breiden uit naar 26 nieuwe landen",
+  "OpenAI-modellen en Codex voortaan ook via Google Cloud"
  ]
 }

@@ -1,0 +1,64 @@
+{
+ "keyword": "openai modellen google cloud",
+ "seo_title": "OpenAI modellen komen naar Google Cloud: wat het betekent",
+ "title": "OpenAI-modellen en Codex voortaan ook via Google Cloud",
+ "meta": "OpenAI brengt zijn modellen en Codex-workflows naar Gemini's Model Garden op Google Cloud. Wat dat betekent voor bedrijven en ontwikkelaars in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "google cloud",
+  "codex",
+  "gemini",
+  "model garden"
+ ],
+ "intro": "OpenAI-modellen zijn vanaf nu ook te gebruiken via Google Cloud. Het bedrijf meldt dat frontier-modellen en Codex-workflows beschikbaar komen in Gemini's Model Garden, met afname via Google Cloud Marketplace. Voor bedrijven die al op Google Cloud werken, wordt OpenAI daarmee een optie naast Google's eigen modellen.",
+ "takeaways": [
+  "OpenAI-modellen en Codex-workflows komen in Gemini's Model Garden op Google Cloud.",
+  "Afnemen gaat via Google Cloud Marketplace.",
+  "Het gaat om frontier-modellen, dus OpenAI's sterkste beschikbare modellen.",
+  "Bedrijven met een Google Cloud-omgeving kunnen OpenAI zo binnen hun bestaande contract afnemen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies beschikbaar komt",
+   "body": "Volgens OpenAI gaat het om frontier-modellen en om Codex-workflows. Frontier-modellen zijn de krachtigste modellen die een aanbieder op dat moment heeft. Codex is de naam die OpenAI gebruikt voor zijn programmeerhulpmiddelen, waarmee ontwikkelaars code laten schrijven of aanpassen.\n\nDe modellen komen in Gemini's Model Garden. Dat is de plek in Google Cloud waar bedrijven modellen van Google en andere aanbieders kunnen kiezen en aansturen. OpenAI wordt daar dus een optie tussen andere modellen.\n\nAfnemen loopt via Google Cloud Marketplace. Dat is de online winkel van Google Cloud, waar bedrijven software en diensten afnemen op dezelfde factuur als hun cloudgebruik."
+  },
+  {
+   "heading": "Waarom dit opvalt",
+   "body": "OpenAI en Google zijn concurrenten. Toch kiest OpenAI ervoor om zijn modellen via de cloudomgeving van Google aan te bieden. Voor klanten betekent dat minder gedoe: ze hoeven geen apart contract of aparte facturatie te regelen.\n\nVoor Google is het een manier om zijn cloud aantrekkelijker te maken. Een bedrijf dat OpenAI wil gebruiken, kan dan binnen Google Cloud blijven. Google verdient zo mee aan vraag naar modellen van een concurrent.\n\nOpenAI noemt in zijn aankondiging geen prijzen. Ook is niet bekend vanaf welke datum precies alles live staat. Wat de modellen in euro's gaan kosten, is dus nog niet duidelijk."
+  },
+  {
+   "heading": "Wat het betekent voor ontwikkelaars",
+   "body": "Wie al met Codex werkt, kan de workflows straks mogelijk binnen Google Cloud draaien. Dat scheelt werk bij het inrichten van toegang en facturatie. Of alle functies meteen beschikbaar zijn, meldt OpenAI niet.\n\nOok de precieze modellen die in Model Garden komen, noemt het bedrijf niet bij naam. Het blijft bij de algemene aanduiding frontier-modellen. Meer details zijn nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die al op Google Cloud werken, wordt het eenvoudiger om OpenAI-modellen te proberen zonder een tweede leverancier en factuur te regelen. Dat kan schelen bij inkoop en administratie, vooral bij organisaties die hun cloudkosten centraal willen houden. Let wel op de prijs: die is nog niet bekend, en de afrekening loopt in dollars via Google Cloud. Houd daarnaast rekening met de Europese regels rond gegevensverwerking en met je eigen cloudafspraken voordat je OpenAI-modellen in productie neemt.",
+ "faq": [
+  {
+   "q": "Komen OpenAI-modellen naar Google Cloud?",
+   "a": "Ja, volgens OpenAI komen frontier-modellen en Codex-workflows beschikbaar in Gemini's Model Garden op Google Cloud, met afname via Google Cloud Marketplace."
+  },
+  {
+   "q": "Wat kost het om OpenAI via Google Cloud te gebruiken?",
+   "a": "OpenAI noemt geen prijzen. Wat de modellen gaan kosten, is nog niet bekend."
+  },
+  {
+   "q": "Wat is Gemini's Model Garden?",
+   "a": "Dat is de plek in Google Cloud waar bedrijven modellen van verschillende aanbieders kunnen kiezen en gebruiken, waaronder nu dus ook modellen van OpenAI."
+  }
+ ],
+ "slug": "openai-modellen-en-codex-voortaan-ook-via-google-cloud",
+ "kind": "news",
+ "date": "2026-10-21",
+ "published": "2026-10-21T18:07",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud"
+  }
+ ],
+ "path": "/nieuws/openai-modellen-en-codex-voortaan-ook-via-google-cloud/",
+ "og": "/img/og/openai-modellen-en-codex-voortaan-ook-via-google-cloud.png",
+ "take": "OpenAI dat zijn spullen via Google Cloud aanbiedt, is gewoon een extra afslag voor bedrijven die daar al zitten. Voor mij verandert er niks, want mijn analyses draaien via Claude Code op een abonnement dat ik al betaal, en DeepSeek is mijn goedkope werkpaard voor volume. Eerst zien of die afname via de Marketplace echt iets oplevert, dan pas praten over een nieuw kanaal."
+}

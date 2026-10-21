@@ -2653,5 +2653,42 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-21T18:05:23",
+  "slug": "",
+  "title": "AI-teksten duiken op in Kamerdebatten: zorg om geloofwaardigheid",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-21T18:05:31",
+  "slug": "",
+  "title": "ChatGPT advertenties breiden uit naar 26 nieuwe landen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-21T18:05:38",
+  "slug": "",
+  "title": "OpenAI-modellen en Codex voortaan ook via Google Cloud",
+  "kind": "news",
+  "rood": [
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
