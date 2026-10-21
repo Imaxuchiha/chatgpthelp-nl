@@ -1959,6 +1959,18 @@
   "61f4d0141f": {
    "at": "2026-10-21T18:07:10.405087",
    "why": "ok"
+  },
+  "4ab93569e2": {
+   "at": "2026-10-21T22:03:51.771370",
+   "why": "ok"
+  },
+  "d3f519557f": {
+   "at": "2026-10-21T22:04:51.771370",
+   "why": "ok"
+  },
+  "edef63b51a": {
+   "at": "2026-10-21T22:05:51.771370",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2291,6 +2303,9 @@
   "Netflix-documentaire over OpenAI-hack klopt niet, zegt Hugging Face",
   "AI-teksten duiken op in Kamerdebatten: zorg om geloofwaardigheid",
   "ChatGPT advertenties breiden uit naar 26 nieuwe landen",
-  "OpenAI-modellen en Codex voortaan ook via Google Cloud"
+  "OpenAI-modellen en Codex voortaan ook via Google Cloud",
+  "OpenAI juridische ai: AT&T hervormt eigen juridische afdeling",
+  "OpenAI Patch the Planet: AI-agents vinden lekken in open source",
+  "ChatGPT advertenties: OpenAI bouwt apart advertentiesysteem"
  ]
 }

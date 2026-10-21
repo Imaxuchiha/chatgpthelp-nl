@@ -1,0 +1,64 @@
+{
+ "keyword": "chatgpt advertenties",
+ "seo_title": "ChatGPT advertenties: zo bouwt OpenAI de ad-stack",
+ "title": "ChatGPT advertenties: OpenAI bouwt apart advertentiesysteem",
+ "meta": "OpenAI legt uit hoe ChatGPT advertenties krijgt zonder dat ze antwoorden vervuilen. Lees hoe de ad-stack werkt en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "chatgpt",
+  "advertenties",
+  "ai",
+  "privacy"
+ ],
+ "intro": "OpenAI heeft dinsdag uitgelegd hoe het advertenties in ChatGPT mogelijk maakt. Het bedrijf bouwde een apart systeem dat advertenties loshoudt van de antwoorden die je van de chatbot krijgt. Dat moet gebruikersvertrouwen houden en adverteerders relevante plekken geven.",
+ "takeaways": [
+  "OpenAI bouwde een advertentiesysteem dat losstaat van de antwoorden van ChatGPT.",
+  "Het systeem gebruikt een taalmodel om de bedoeling achter een gesprek te begrijpen.",
+  "Advertenties moeten relevant zijn en duidelijk gescheiden blijven van de chatbot-antwoorden.",
+  "OpenAI noemt vertrouwen van gebruikers als belangrijkste reden voor de aparte opzet."
+ ],
+ "sections": [
+  {
+   "heading": "Advertenties los van het antwoord",
+   "body": "OpenAI wil dat advertenties in ChatGPT nooit door de antwoorden heen lopen. Het bedrijf bouwde daarom een aparte laag voor advertenties. Die laag staat naast het model dat de antwoorden maakt.\n\nVolgens OpenAI blijven advertenties zo gescheiden van de inhoud die je van de chatbot krijgt. Een advertentie mag het antwoord niet veranderen. Dat moet duidelijk maken wat een betaalde boodschap is en wat een antwoord van ChatGPT is.\n\nDe scheiding is ook bedoeld voor adverteerders. Zij krijgen een eigen plek en hoeven niet te leunen op het taalmodel dat de gesprekken voert."
+  },
+  {
+   "heading": "Taalmodel leest de bedoeling van een gesprek",
+   "body": "Het advertentiesysteem gebruikt een taalmodel om te begrijpen waar een gesprek over gaat. OpenAI noemt dat conversationele intentie: wat iemand met een vraag bedoelt, niet alleen welke woorden er staan.\n\nOp basis daarvan kan het systeem een advertentie kiezen die bij het gesprek past. OpenAI zegt dat dit op grote schaal moet werken. Het bedrijf geeft geen cijfers over het aantal advertenties of over de opbrengst.\n\nOok is niet bekend welke adverteerders meedoen. OpenAI noemt geen prijzen en geen lanceerdatum voor Nederland."
+  },
+  {
+   "heading": "Vertrouwen als ontwerpkeuze",
+   "body": "OpenAI noemt het vertrouwen van gebruikers als reden voor de aparte opzet. Advertenties moeten relevant zijn en herkenbaar blijven. Dat sluit aan bij de wens om ChatGPT bruikbaar te houden voor mensen die het als hulpmiddel gebruiken.\n\nHet bedrijf zegt niets over hoe vaak je een advertentie ziet. Ook blijft onduidelijk of je advertenties kunt uitzetten. OpenAI heeft daar in de uitleg geen antwoord op gegeven.\n\nDe aankondiging gaat over de techniek achter het systeem. Over de commerciële kant is nog weinig bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders die ChatGPT gebruiken, betekent dit vooral dat advertenties in de chatbot kunnen opduiken. OpenAI zegt dat ze losstaan van de antwoorden, maar of dat in de praktijk zo voelt, moet blijken. Bedrijven in Nederland die willen adverteren, weten nog niet wanneer dat kan en wat het kost. Er is geen informatie over een Nederlandse of Europese start. Let dus op of advertenties duidelijk herkenbaar zijn en of je ze kunt uitzetten.",
+ "faq": [
+  {
+   "q": "Krijgt ChatGPT advertenties in Nederland?",
+   "a": "OpenAI heeft nog niet gezegd wanneer advertenties in Nederland beschikbaar komen. De uitleg gaat over de techniek, niet over een lanceerdatum per land."
+  },
+  {
+   "q": "Veranderen advertenties de antwoorden van ChatGPT?",
+   "a": "Volgens OpenAI staan advertenties los van de antwoorden. Het advertentiesysteem is een aparte laag en mag het antwoord niet aanpassen."
+  },
+  {
+   "q": "Hoe weet ChatGPT welke advertentie past?",
+   "a": "Het systeem gebruikt een taalmodel om de bedoeling achter een gesprek te begrijpen. Op basis daarvan kiest het een advertentie die bij het gesprek past."
+  }
+ ],
+ "slug": "chatgpt-advertenties-openai-bouwt-apart-advertentiesysteem",
+ "kind": "news",
+ "date": "2026-10-21",
+ "published": "2026-10-21T22:05",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+   "url": "https://openai.com/index/building-chatgpt-ad-stack"
+  }
+ ],
+ "path": "/nieuws/chatgpt-advertenties-openai-bouwt-apart-advertentiesysteem/",
+ "og": "/img/og/chatgpt-advertenties-openai-bouwt-apart-advertentiesysteem.png",
+ "take": "Advertenties loshouden van de antwoorden is de juiste keuze, want zodra een chatbot zijn mening laat betalen, vertrouw ik de output niet meer. Maar de knop om advertenties aan te zetten hoort bij een mens, niet bij het model. OpenAI mag de stack bouwen, ik bepaal wanneer hij aan gaat."
+}

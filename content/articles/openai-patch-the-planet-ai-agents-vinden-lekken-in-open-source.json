@@ -1,0 +1,68 @@
+{
+ "keyword": "openai patch the planet",
+ "seo_title": "OpenAI Patch the Planet: agents vinden lekken in open source",
+ "title": "OpenAI Patch the Planet: AI-agents vinden lekken in open source",
+ "meta": "OpenAI start Patch the Planet: een programma waarbij AI-agents kritieke lekken in open source opsporen en onderzoekers samenwerken aan oplossingen.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "open source",
+  "beveiliging",
+  "ai-agents",
+  "kwetsbaarheden"
+ ],
+ "intro": "OpenAI heeft een programma aangekondigd dat securityonderzoekers, beheerders van open source-projecten en incident responders bij elkaar brengt. Patch the Planet moet helpen om kritieke kwetsbaarheden in open source-software sneller te vinden en te dichten. Volgens OpenAI zijn het juist AI-agents die zulke lekken nu op grote schaal weten op te sporen.",
+ "takeaways": [
+  "Patch the Planet verbindt securityonderzoekers, maintainers en incident responders rond kritieke lekken in open source.",
+  "AI-agents van OpenAI spelen een rol bij het opsporen van die kwetsbaarheden.",
+  "Open source-software zit in veel Nederlandse systemen, van websites tot overheidsdiensten.",
+  "Hoe het programma precies werkt en wie kan meedoen, is nog niet volledig bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI met Patch the Planet wil bereiken",
+   "body": "Open source-software vormt de basis van een groot deel van het internet. Denk aan webservers, programmeerbibliotheken en besturingssystemen. Gaat daar iets mis, dan raakt dat vaak veel partijen tegelijk.\n\nPatch the Planet brengt drie groepen samen: mensen die lekken onderzoeken, mensen die open source-projecten onderhouden en mensen die na een incident snel moeten ingrijpen. OpenAI noemt dat een gecoördineerde aanpak van ernstige kwetsbaarheden.\n\nHet doel is dat een gevonden lek niet blijft liggen. Onderzoekers, beheerders en responders kunnen elkaar via het programma vinden en afspraken maken over het melden en oplossen van het probleem."
+  },
+  {
+   "heading": "AI-agents als speurders naar lekken",
+   "body": "Volgens OpenAI komen de kritieke kwetsbaarheden boven water door inzet van AI-agents. Dat zijn programma's die zelfstandig taken uitvoeren, zoals code doorzoeken op fouten. Ze werken sneller en op grotere schaal dan een mens alleen.\n\nOpenAI geeft geen details over hoeveel lekken er al zijn gevonden. Ook blijft onduidelijk welke projecten precies meedoen en hoe het meldproces technisch verloopt. De aankondiging schetst het kader, de uitvoering moet nog blijken.\n\nDuidelijk is wel dat OpenAI de samenwerking tussen partijen centraal zet. Een gevonden lek is pas iets waard als de beheerder het kan dichten en gebruikers het kunnen bijwerken."
+  },
+  {
+   "heading": "Waarom gecoördineerde meldingen tellen",
+   "body": "Bij een ernstig lek telt tijd. Gaat een melding naar de verkeerde partij of blijft hij te lang geheim, dan kunnen kwaadwillenden het gat misbruiken. Gecoördineerde bekendmaking, in het Engels coordinated disclosure, probeert dat te voorkomen.\n\nDaarbij krijgt de beheerder eerst de kans om te repareren. Pas daarna komt het lek naar buiten, vaak samen met een update. Patch the Planet lijkt op dat principe voort te bouwen, met OpenAI als verbindende partij.\n\nVoor gebruikers betekent dit vooral één ding: houd je software bij. Een dicht lek helpt alleen als de nieuwe versie ook echt wordt geïnstalleerd."
+  },
+  {
+   "heading": "Nog veel onbekend",
+   "body": "OpenAI zegt niet welke organisaties al aanhaken en of het programma wereldwijd openstaat. Ook is er geen tijdpad genoemd voor de eerste resultaten. Wie zelf een open source-project onderhoudt, kan uit de aankondiging nog niet opmaken hoe aanmelding werkt.\n\nDat maakt het lastig om het bereik nu al te beoordelen. De opzet klinkt logisch, de vraag is of genoeg beheerders aansluiten. Zonder hen blijft een gevonden lek immers een open einde."
+  }
+ ],
+ "nl_angle": "Nederlandse organisaties leunen zwaar op open source, van gemeentelijke websites tot boekhoudpakketten en ziekenhuissystemen. Een kritiek lek in zo'n bouwsteen raakt hier dus direct bedrijven en overheidsdiensten. Patch the Planet kan helpen om zulke gaten sneller te melden, maar de verantwoordelijkheid blijft lokaal: wie software draait, moet updates plaatsen. Voor Nederlandse developers en beheerders van open source-projecten is het vooral zaak om de meldkanalen van OpenAI in de gaten te houden. Concrete deelname vanuit Nederland is nog niet bekend.",
+ "faq": [
+  {
+   "q": "wat is patch the planet van openai",
+   "a": "Het is een programma dat securityonderzoekers, beheerders van open source-projecten en incident responders samenbrengt om kritieke kwetsbaarheden op te lossen. OpenAI kondigde het aan op 21 oktober 2026."
+  },
+  {
+   "q": "wat doen ai-agents bij het vinden van lekken",
+   "a": "Ze doorzoeken code zelfstandig en op grote schaal, sneller dan een mens dat kan. Volgens OpenAI brengen zij de kritieke kwetsbaarheden in open source aan het licht."
+  },
+  {
+   "q": "moet ik als nederlands bedrijf iets doen",
+   "a": "Houd je open source-software bijgewerkt en volg de meldingen van leveranciers. Concrete stappen om mee te doen aan Patch the Planet zijn nog niet bekendgemaakt."
+  }
+ ],
+ "slug": "openai-patch-the-planet-ai-agents-vinden-lekken-in-open-source",
+ "kind": "news",
+ "date": "2026-10-21",
+ "published": "2026-10-21T22:04",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+  }
+ ],
+ "path": "/nieuws/openai-patch-the-planet-ai-agents-vinden-lekken-in-open-source/",
+ "og": "/img/og/openai-patch-the-planet-ai-agents-vinden-lekken-in-open-source.png",
+ "take": "AI-agents die lekken in open source opsporen, dat klinkt als gratis werk voor iedereen die op andermans code bouwt. Ik geloof er pas in als die agents ook echt meldingen opleveren die iemand nakijkt, want een scanner die zonder context roept dat er iets mis is, kost vooral tijd. Bij mijn eigen automatisering bepaal ik zelf wie ergens aan komt, en zo'n programma mag van mij bestaan zolang een mens de laatste check doet."
+}

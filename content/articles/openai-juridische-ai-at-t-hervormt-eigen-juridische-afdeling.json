@@ -1,0 +1,68 @@
+{
+ "keyword": "openai juridische ai",
+ "seo_title": "OpenAI juridische ai: hoe AT&T legal werk anders aanpakt",
+ "title": "OpenAI juridische ai: AT&T hervormt eigen juridische afdeling",
+ "meta": "AT&T gebruikt OpenAI om juridische kennis beter toegankelijk te maken. Lees hoe het LegalEdge-team intake en juridisch oordeel anders aanpakt.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "att",
+  "juridisch",
+  "legaltech",
+  "ai op het werk"
+ ],
+ "intro": "AT&T werkt samen met OpenAI om juridische kennis makkelijker beschikbaar te maken binnen het bedrijf. Het interne LegalEdge-team kijkt opnieuw naar hoe verzoeken binnenkomen en hoe juridische beoordeling breder kan worden ingezet. OpenAI meldt dit in een eigen publicatie. Concrete cijfers over het resultaat ontbreken nog.",
+ "takeaways": [
+  "AT&T zet OpenAI in om juridische kennis toegankelijker te maken voor het eigen LegalEdge-team.",
+  "Het bedrijf herziet hoe juridische verzoeken binnenkomen en hoe juristen hun oordeel delen.",
+  "OpenAI noemt het een voorbeeld van juridisch werk dat anders wordt ingericht.",
+  "Resultaten in tijdswinst of kosten zijn nog niet bekendgemaakt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat AT&T precies verandert",
+   "body": "Bij veel grote bedrijven komt een juridische vraag binnen via een mailtje of een los formulier. Daarna zoekt een jurist uit wie het oppakt en welke kennis er al ligt. AT&T wil dat proces met OpenAI anders inrichten.\n\nHet LegalEdge-team kijkt volgens OpenAI naar de intake: hoe een verzoek binnenkomt en hoe snel duidelijk is wat er nodig is. Ook wordt juridische kennis beter ontsloten, zodat meer mensen binnen het bedrijf hetzelfde antwoord kunnen vinden.\n\nHet gaat dus om toegang tot kennis en om het delen van juridisch oordeel. OpenAI noemt dat laatste expliciet: het opschalen van juridische beoordeling. Hoe dat technisch werkt, maakt de publicatie niet duidelijk."
+  },
+  {
+   "heading": "Waarom juridisch werk lastig te automatiseren is",
+   "body": "Juridisch werk leunt op context. Een standaardantwoord klopt vaak net niet, en een verkeerde verwijzing kan geld kosten. Bedrijven zijn daarom voorzichtig met AI in deze afdeling.\n\nToch is er veel herhaalwerk: vragen over contracten, interne regels en lopende zaken. Juist daar kan een taalmodel helpen, mits de bronnen kloppen en iemand het antwoord controleert.\n\nAT&T lijkt die route te kiezen. Eerst de vraag goed binnenkrijgen, dan kennis delen, en het oordeel bij de jurist laten. OpenAI noemt geen aantallen medewerkers of besparingen."
+  },
+  {
+   "heading": "Wat OpenAI zelf naar buiten brengt",
+   "body": "De publicatie op de site van OpenAI is kort en beschrijvend. Er staat geen klantcase met cijfers in, geen quote van een AT&T-bestuurder en geen tijdpad.\n\nDat maakt het lastig om te zeggen hoe ver het project is. Is dit een proef, een uitgerolde tool of een interne werkwijze met AI eronder? De bron laat dat open.\n\nDuidelijk is wel dat OpenAI juridische afdelingen als doelgroep ziet. Eerder verschenen vergelijkbare verhalen over andere grote organisaties. AT&T is een van de grootste telecombedrijven van de Verenigde Staten, dus de keuze valt op."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Over de kosten, de gebruikte modellen en de contractvorm zegt OpenAI niets. Ook is niet bekend of AT&T medewerkers zelf met een chatbot laten werken of alleen het legalteam.\n\nDat soort details bepaalt of zo'n project slaagt. Een tool die juristen ontlast, werkt anders dan een loket waar duizend medewerkers vragen stellen.\n\nVoorlopig blijft het bij een beschrijving van de aanpak. Wie wil weten wat het oplevert, moet wachten op meer informatie van AT&T of OpenAI."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven met een eigen juridische afdeling is dit vooral een signaal over de inrichting van het werk. Grote organisaties kijken naar de intake van juridische vragen en naar het delen van kennis. In Nederland spelen daarbij de AVG en de AI-verordening mee zodra persoonsgegevens of hoog-risico-toepassingen in beeld komen. AT&T geeft geen details over de techniek, dus of dit onder de Europese regels zomaar kan, is nog niet te zeggen. Een jurist blijft in vrijwel elk model eindverantwoordelijk voor het oordeel.",
+ "faq": [
+  {
+   "q": "Wat doet AT&T met OpenAI?",
+   "a": "AT&T gebruikt OpenAI om juridische kennis binnen het bedrijf beter toegankelijk te maken. Het interne LegalEdge-team herziet de intake van verzoeken en het delen van juridisch oordeel."
+  },
+  {
+   "q": "Is hier al een resultaat van bekend?",
+   "a": "Nee. OpenAI noemt geen cijfers over tijdswinst, kosten of het aantal gebruikers. Ook een tijdpad ontbreekt."
+  },
+  {
+   "q": "Kan mijn bedrijf in Nederland dit ook doen?",
+   "a": "Dat kan, maar let op de AVG en de Europese AI-verordening. Zet juridische beoordeling bij een jurist en zorg dat bronnen kloppen."
+  }
+ ],
+ "slug": "openai-juridische-ai-at-t-hervormt-eigen-juridische-afdeling",
+ "kind": "news",
+ "date": "2026-10-21",
+ "published": "2026-10-21T22:03",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How AT&T is rethinking in-house legal work with OpenAI",
+   "url": "https://openai.com/index/att-legal"
+  }
+ ],
+ "path": "/nieuws/openai-juridische-ai-at-t-hervormt-eigen-juridische-afdeling/",
+ "og": "/img/og/openai-juridische-ai-at-t-hervormt-eigen-juridische-afdeling.png",
+ "take": "AT&T laat OpenAI het interne juridische werk stroomlijnen, maar er staat nog geen enkel cijfer bij. Mijn regel bij dit soort aankondigingen: een demo is geen product, en een pilot is geen resultaat. Ik oordeel pas als zo'n team twaalf tot achttien maanden jaar-op-jaar laat zien wat er echt veranderd is."
+}
