@@ -1,0 +1,68 @@
+{
+ "keyword": "openai decisions api",
+ "seo_title": "OpenAI Decisions API: snelle beslissingen in apps",
+ "title": "OpenAI lanceert Decisions API voor snelle beslissingen in apps",
+ "meta": "OpenAI brengt de Decisions API uit: snelle, gerichte en goedkope beslissingen voor apps. Lees wat het is en wat het voor ontwikkelaars in Nederland…",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "api",
+  "ontwikkelaars",
+  "apps",
+  "beslissingen"
+ ],
+ "intro": "OpenAI heeft de Decisions API aangekondigd. Volgens OpenAI geeft de interface snelle, gerichte en goedkope beslissingen voor elke toepassing. Voor ontwikkelaars telt dit: een losse bouwsteen voor keuzes in software, naast de bestaande modellen.",
+ "takeaways": [
+  "OpenAI noemt de Decisions API snel, gericht en goedkoop.",
+  "De API is bedoeld voor beslissingen binnen elke toepassing.",
+  "OpenAI geeft nog geen prijzen per verzoek of releasedatum.",
+  "Nederlandse ontwikkelaars kunnen de API straks in eigen apps gebruiken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de Decisions API volgens OpenAI doet",
+   "body": "De Decisions API richt zich op één taak: het nemen van beslissingen binnen een applicatie. OpenAI omschrijft de interface als snel, gericht en goedkoop. Dat wijst op een kleine, afgebakende stap in plaats van een gesprek met een taalmodel.\n\nOpenAI geeft in de aankondiging geen details over de werking. Hoe de API precies tot een beslissing komt, is nog niet bekend. Ook voorbeelden van toepassingen ontbreken in de bron.\n\nDuidelijk is wel de insteek: een bouwsteen voor software die vaak en snel een keuze moet maken. Denk aan een app die per verzoek bepaalt welke route of welke actie volgt."
+  },
+  {
+   "heading": "Snel en goedkoop als ontwerpkeuze",
+   "body": "OpenAI legt de nadruk op snelheid en lage kosten. Beide punten zijn praktisch van belang bij beslissingen die een app vaak achter elkaar neemt. Bij veel verzoeken telt elke milliseconde en elke cent.\n\nDe aankondiging noemt geen tarieven. Wat een beslissing kost, is dus nog niet bekend. Hetzelfde geldt voor limieten en de snelheid in de praktijk.\n\nOntwikkelaars die nu plannen maken, kunnen de API nog niet doorrekenen. Zij zullen moeten wachten op de prijslijst en de documentatie van OpenAI."
+  },
+  {
+   "heading": "Waar het naast de bestaande modellen past",
+   "body": "OpenAI biedt al modellen voor tekst, beeld en code. De Decisions API lijkt daar een aparte laag bij te zetten, gericht op keuzes in plaats van op het maken van inhoud.\n\nDat kan het eenvoudiger maken om een applicatie op te bouwen. Een ontwikkelaar hoeft dan niet zelf een groot model aan te sturen voor een kleine beslissing.\n\nOf dat in de praktijk klopt, moet blijken. OpenAI heeft nog geen technische uitleg of voorbeeldcode gepubliceerd."
+  },
+  {
+   "heading": "Wat nog ontbreekt in de aankondiging",
+   "body": "De aankondiging is kort. Er is geen releasedatum, geen prijs en geen beschrijving van de invoer en uitvoer. Ook is niet duidelijk of de API in de Europese Unie beschikbaar komt.\n\nVoor bedrijven die met persoonsgegevens werken, is dat een punt. Zonder duidelijkheid over waar gegevens worden verwerkt, valt compliance nog niet te beoordelen.\n\nWie de API wil inzetten, doet er goed aan de officiële documentatie af te wachten. OpenAI heeft aangegeven de API te bouwen; de details volgen later."
+  }
+ ],
+ "nl_angle": "Voor ontwikkelaars en softwarebedrijven in Nederland is de Decisions API interessant zodra de prijs en beschikbaarheid bekend zijn. Een goedkope bouwsteen voor beslissingen kan de kosten van een app drukken, zeker bij veel verkeer. Let wel op twee dingen: of de API in de EU te gebruiken is en hoe OpenAI met gegevens omgaat. Zonder die duidelijkheid is de API voor Nederlandse organisaties met strenge eisen nog geen optie.",
+ "faq": [
+  {
+   "q": "wat is de openai decisions api?",
+   "a": "Het is een interface van OpenAI voor snelle, gerichte en goedkope beslissingen binnen een applicatie. OpenAI noemt de API in een korte aankondiging."
+  },
+  {
+   "q": "wat kost de decisions api?",
+   "a": "Dat is nog niet bekend. OpenAI noemt geen tarieven in de aankondiging."
+  },
+  {
+   "q": "is de decisions api beschikbaar in nederland?",
+   "a": "OpenAI heeft nog niet gezegd of en wanneer de API in Nederland en de EU beschikbaar komt."
+  }
+ ],
+ "slug": "openai-lanceert-decisions-api-voor-snelle-beslissingen-in-apps",
+ "kind": "news",
+ "date": "2026-10-22",
+ "published": "2026-10-22T21:59",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Build more responsive apps with the Decisions API",
+   "url": "https://openai.com/index/decisions-api"
+  }
+ ],
+ "path": "/nieuws/openai-lanceert-decisions-api-voor-snelle-beslissingen-in-apps/",
+ "og": "/img/og/openai-lanceert-decisions-api-voor-snelle-beslissingen-in-apps.png",
+ "take": "OpenAI verkoopt nu losse beslissingen als bouwsteen, en dat is precies het soort abonnement waar ik liever omheen bouw. Zo'n call doet één ding en vraagt weer een koppeling, een sleutel en een rekening die doorloopt. Ik zet dat soort logica zelf in een script met een goedkoop model eronder, dan weet ik waar het geld naartoe gaat en wat het oplevert."
+}

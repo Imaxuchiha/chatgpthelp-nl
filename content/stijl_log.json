@@ -2861,5 +2861,56 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-22T21:58:50",
+  "slug": "",
+  "title": "Uber zet 30.000 medewerkers op ChatGPT Work",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-22T21:58:58",
+  "slug": "",
+  "title": "PHP-crisis laat zien hoe AI het internet verandert",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-22T21:59:07",
+  "slug": "",
+  "title": "OpenAI lanceert Decisions API voor snelle beslissingen in apps",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-22T21:59:18",
+  "slug": "",
+  "title": "1Password laat ai-agents inloggen zonder jouw wachtwoord",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

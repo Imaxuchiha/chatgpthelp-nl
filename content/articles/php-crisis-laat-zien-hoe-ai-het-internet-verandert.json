@@ -1,0 +1,68 @@
+{
+ "keyword": "php crisis ai internet",
+ "seo_title": "PHP-crisis en AI: wat het betekent voor het internet",
+ "title": "PHP-crisis laat zien hoe AI het internet verandert",
+ "meta": "De PHP-crisis maakt duidelijk hoe AI het internet verandert. Lees wat er speelt, wat het voor Nederlandse sites betekent en wat nog onbekend is.",
+ "category": "nieuws",
+ "tags": [
+  "php",
+  "ai",
+  "internet",
+  "websites",
+  "open source"
+ ],
+ "intro": "Een crisis rond PHP legt bloot hoe sterk AI het internet al heeft veranderd. Volgens NU.nl Tech laat de situatie zien dat veel websites afhankelijk zijn van een klein aantal oude technieken. Voor Nederlandse sitebouwers en hostingpartijen is dat een concreet aandachtspunt.",
+ "takeaways": [
+  "NU.nl Tech besteedt een explainer aan de PHP-crisis en de rol van AI op het internet.",
+  "Veel websites draaien op PHP, een programmeertaal die al decennia meegaat.",
+  "AI verandert hoe sites worden gebouwd, onderhouden en aangevallen.",
+  "Details over de oorzaak en omvang van de crisis zijn nog niet volledig bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er aan de hand is",
+   "body": "NU.nl Tech publiceert een explainer over een crisis rond PHP. De precieze oorzaak en omvang komen in de aangeleverde bron niet naar voren. Duidelijk is wel dat de kwestie raakt aan de basis van veel websites.\n\nPHP is een programmeertaal die op servers draait. Een groot deel van het web, ook in Nederland, leunt op die taal. Gaat daar iets mis, dan merken bezoekers dat vaak direct."
+  },
+  {
+   "heading": "Waarom AI hier een rol speelt",
+   "body": "De explainer koppelt de PHP-kwestie aan de opkomst van AI. AI-tools schrijven steeds vaker code en onderhouden websites. Dat verandert de manier waarop fouten en kwetsbaarheden aan het licht komen.\n\nOok aanvallers gebruiken AI. Zij kunnen sneller zwakke plekken in oudere software vinden. Beheerders van Nederlandse sites krijgen daardoor meer werk aan updates en controle."
+  },
+  {
+   "heading": "Wat dit betekent voor sitebouwers",
+   "body": "Wie een website beheert, doet er goed aan te weten op welke software die draait. Vraag je hostingpartij welke versie van PHP je gebruikt en of die nog updates krijgt. Oude versies blijven vaak jaren hangen.\n\nAI kan helpen bij het opsporen van verouderde code. De verantwoordelijkheid blijft bij de beheerder liggen. Een tool vervangt geen controle."
+  },
+  {
+   "heading": "Wat nog onbekend is",
+   "body": "Hoe groot de crisis precies is, meldt de bron niet. Ook is niet duidelijk welke partijen zijn getroffen of welke oplossing in beeld is. Zodra daar meer over bekend wordt, is dat relevant voor iedereen met een eigen site."
+  }
+ ],
+ "nl_angle": "In Nederland draaien veel verenigingen, webshops en gemeentesites op PHP. Een crisis raakt hen via hosting, leveranciers en eigen beheerders. Controleer of je software nog updates krijgt en vraag je host naar de gebruikte versie. Voor bedrijven met een eigen IT-afdeling loont het om te kijken of AI-tools al worden ingezet bij codeonderhoud.",
+ "faq": [
+  {
+   "q": "Wat is de PHP-crisis?",
+   "a": "Dat is een kwestie rond de programmeertaal PHP waarop veel websites draaien. De precieze oorzaak en omvang zijn nog niet volledig bekend."
+  },
+  {
+   "q": "Wat heeft AI met PHP te maken?",
+   "a": "AI-tools schrijven en controleren code, ook PHP. Daardoor verandert zowel het onderhoud als de kans dat zwakke plekken worden gevonden."
+  },
+  {
+   "q": "Moet ik als website-eigenaar iets doen?",
+   "a": "Vraag je hostingpartij welke PHP-versie je site gebruikt en of die nog updates krijgt. Zo weet je of je iets moet laten aanpassen."
+  }
+ ],
+ "slug": "php-crisis-laat-zien-hoe-ai-het-internet-verandert",
+ "kind": "news",
+ "date": "2026-10-22",
+ "published": "2026-10-22T21:58",
+ "sources": [
+  {
+   "name": "NU.nl Tech",
+   "title": "Explainer | PHP-crisis laat zien hoe AI het internet verandert",
+   "url": "https://www.nu.nl/331545/video/php-crisis-laat-zien-hoe-ai-het-internet-verandert.html"
+  }
+ ],
+ "path": "/nieuws/php-crisis-laat-zien-hoe-ai-het-internet-verandert/",
+ "og": "/img/og/php-crisis-laat-zien-hoe-ai-het-internet-verandert.png",
+ "take": "Een crisis rond PHP laat zien dat het hele internet op een handvol oude technieken leunt, en dat is precies waar het bij de meeste bedrijven misgaat. Ze bouwen van alles aan de voorkant en vergeten de fundering eronder, tot er iets omvalt. Mijn regel blijft: een techniek of tool is pas iets waard als hij tijd of geld oplevert die je kunt aanwijzen, en dat geldt net zo goed voor je hosting als voor je AI-agent."
+}

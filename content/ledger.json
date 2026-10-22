@@ -2007,6 +2007,26 @@
   "12d0b1a865": {
    "at": "2026-10-22T18:02:22.631378",
    "why": "ok"
+  },
+  "2e9a4426b9": {
+   "at": "2026-10-22T21:58:37.023194",
+   "why": "poort"
+  },
+  "ba6fa07d67": {
+   "at": "2026-10-22T21:58:37.023194",
+   "why": "poort"
+  },
+  "6504053944": {
+   "at": "2026-10-22T21:58:37.023194",
+   "why": "ok"
+  },
+  "27825e3003": {
+   "at": "2026-10-22T21:59:37.023194",
+   "why": "ok"
+  },
+  "fe52d49759": {
+   "at": "2026-10-22T22:00:37.023194",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2348,6 +2368,9 @@
   "Meta geeft nieuwe aandelen uit om AI-investeringen te betalen",
   "Forward deployed engineering: wat OpenAI ermee bedoelt",
   "AI wordt 725 keer goedkoper: prijzen dalen 13 keer per jaar",
-  "Spotify zet in op AI-agents die zelf een muziekdienst kiezen"
+  "Spotify zet in op AI-agents die zelf een muziekdienst kiezen",
+  "PHP-crisis laat zien hoe AI het internet verandert",
+  "OpenAI lanceert Decisions API voor snelle beslissingen in apps",
+  "1Password laat ai-agents inloggen zonder jouw wachtwoord"
  ]
 }
