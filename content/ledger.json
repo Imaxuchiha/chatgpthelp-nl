@@ -1991,6 +1991,22 @@
   "86bbef590f": {
    "at": "2026-10-22T10:45:59.594108",
    "why": "ok"
+  },
+  "63c31ca523": {
+   "at": "2026-10-22T18:00:22.631378",
+   "why": "ok"
+  },
+  "0b8e1ffd95": {
+   "at": "2026-10-22T18:01:22.631378",
+   "why": "ok"
+  },
+  "540e896edf": {
+   "at": "2026-10-22T18:02:22.631378",
+   "why": "poort"
+  },
+  "12d0b1a865": {
+   "at": "2026-10-22T18:02:22.631378",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2329,6 +2345,9 @@
   "ChatGPT advertenties: OpenAI bouwt apart advertentiesysteem",
   "OpenAI scherpt gebruiksbeleid aan via distributeurs",
   "Datacenters kunnen luchtvervuiling in Texas terugbrengen",
-  "Meta geeft nieuwe aandelen uit om AI-investeringen te betalen"
+  "Meta geeft nieuwe aandelen uit om AI-investeringen te betalen",
+  "Forward deployed engineering: wat OpenAI ermee bedoelt",
+  "AI wordt 725 keer goedkoper: prijzen dalen 13 keer per jaar",
+  "Spotify zet in op AI-agents die zelf een muziekdienst kiezen"
  ]
 }

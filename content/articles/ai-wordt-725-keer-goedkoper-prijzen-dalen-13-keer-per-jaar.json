@@ -1,0 +1,63 @@
+{
+ "keyword": "ai prijzen dalen",
+ "seo_title": "AI-prijzen dalen 13 keer per jaar: 725 keer goedkoper",
+ "title": "AI wordt 725 keer goedkoper: prijzen dalen 13 keer per jaar",
+ "meta": "Onderzoekers van Epoch AI berekenden dat AI-prijzen elk jaar ongeveer 13 keer dalen. Wat dat betekent voor je rekening en voor bedrijven in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "prijzen",
+  "epoch ai",
+  "kosten",
+  "onderzoek"
+ ],
+ "intro": "Voor hetzelfde AI-niveau betaal je nu een fractie van wat het drie jaar geleden kostte. Onderzoekers van Epoch AI berekenden dat de prijs elk jaar ongeveer 13 keer daalt. Geen enkele grote technologie werd in de geschiedenis zo snel zo goedkoop.",
+ "takeaways": [
+  "De prijs om hetzelfde AI-niveau te halen daalt sinds 2023 met ongeveer een factor 13 per jaar.",
+  "In totaal komt dat neer op ongeveer 725 keer goedkoper in drie jaar tijd.",
+  "Volgens Epoch AI ging geen enkele grote technologie eerder zo snel omlaag in prijs."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Epoch AI precies berekende",
+   "body": "Epoch AI is een onderzoeksgroep die de ontwikkeling van AI bijhoudt. De onderzoekers keken naar de kosten om een vast prestatieniveau te halen. Dat is dus niet de prijs van het duurste model van dit moment, maar wat je betaalt voor wat een model drie jaar geleden al kon.\n\nDie vergelijking maakt de daling zichtbaar. Wat in 2023 nog veel geld kostte, is nu voor een fractie te doen. De daling gaat met ongeveer een factor 13 per jaar. Over drie jaar komt dat uit op ruwweg 725 keer goedkoper, meldt Bright.\n\nDe onderzoekers stellen dat geen enkele grote technologie in de geschiedenis zo snel in prijs zakte. Dat maakt de AI-sector bijzonder, ook al zegt dat nog niets over hoe lang dit doorgaat."
+  },
+  {
+   "heading": "Waarom AI zo snel goedkoper wordt",
+   "body": "De prijs van rekenkracht voor AI daalt al jaren. Nieuwe chips doen meer werk voor hetzelfde geld. Tegelijk zijn de modellen zelf zuiniger geworden: ze halen hetzelfde resultaat met minder rekenwerk.\n\nDaar komt concurrentie bij. Aanbieders van AI-modellen vechten om dezelfde klanten en verlagen hun tarieven. Voor gebruikers betekent dat je voor een taak die eerst duur was, nu weinig betaalt.\n\nLet wel op wat de berekening wel en niet zegt. Het gaat om het niveau van drie jaar geleden. De nieuwste modellen zijn veel duurder per vraag, omdat ze meer kunnen. Wie het beste model wil, betaalt dus nog steeds meer dan wie genoegen neemt met een ouder niveau."
+  },
+  {
+   "heading": "Wat dit betekent voor je eigen gebruik",
+   "body": "Voor een abonnement op ChatGPT, Claude of Gemini merk je de daling maar beperkt. Die prijzen zijn maandelijks vast en veranderen weinig. De grootste winst zit bij gebruik per vraag, via een programmeerkoppeling of een zakelijke rekening.\n\nBedrijven die veel AI-verzoeken versturen, merken de daling het duidelijkst. Een taak die vorig jaar nog te duur was om automatisch te doen, kan nu uit. Denk aan het sorteren van e-mails of het samenvatten van lange documenten.\n\nOok voor ontwikkelaars in Nederland verandert er iets. Een klein project met veel AI-verkeer hoeft niet meteen veel geld te kosten. Reken wel zelf na, want tarieven per aanbieder lopen flink uiteen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en ontwikkelaars betekent dit dat AI vaker betaalbaar wordt voor taken die eerst te duur waren. De tarieven staan in dollars en zijn dus afhankelijk van de wisselkoers. Let op: de Europese regelgeving rond AI verandert niets aan de prijs, maar wel aan wat je met bepaalde toepassingen mag doen. Wie AI inzet voor klanten, moet zich houden aan de regels voor transparantie en gegevensbescherming.",
+ "faq": [
+  {
+   "q": "Hoeveel goedkoper is AI geworden?",
+   "a": "Ongeveer 725 keer in drie jaar tijd, volgens berekeningen van Epoch AI. De prijs voor hetzelfde prestatieniveau daalt met ongeveer een factor 13 per jaar."
+  },
+  {
+   "q": "Geldt dit ook voor mijn ChatGPT-abonnement?",
+   "a": "Nee, de maandprijs van een abonnement daalt niet automatisch mee. De daling zit vooral in gebruik per vraag via een koppeling of zakelijke rekening."
+  },
+  {
+   "q": "Blijft AI zo snel goedkoper worden?",
+   "a": "Dat is nog niet bekend. De cijfers gaan over de periode sinds 2023 en zeggen niets over hoe lang deze daling doorzet."
+  }
+ ],
+ "slug": "ai-wordt-725-keer-goedkoper-prijzen-dalen-13-keer-per-jaar",
+ "kind": "news",
+ "date": "2026-10-22",
+ "published": "2026-10-22T18:01",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "725 keer (!) goedkoper: nooit werd nieuwe technologie zo snel zo goedkoop",
+   "url": "https://www.bright.nl/plusplus/2150035/725-keer-goedkoper-nooit-werd-nieuwe-technologie-zo-snel-zo-goedkoop.html"
+  }
+ ],
+ "path": "/nieuws/ai-wordt-725-keer-goedkoper-prijzen-dalen-13-keer-per-jaar/",
+ "og": "/img/og/ai-wordt-725-keer-goedkoper-prijzen-dalen-13-keer-per-jaar.png",
+ "take": "Elke keer dat een model goedkoper wordt, zie ik mensen meteen hun hele stack omgooien. Ik doe dat zelf ook, met DeepSeek als werkpaard in mijn scripts, want de rekening telt. Maar goedkopere tokens lossen geen slechte meting op, en wie op kosten jaagt snijdt vaak net de verkeerde zoekwoorden weg."
+}

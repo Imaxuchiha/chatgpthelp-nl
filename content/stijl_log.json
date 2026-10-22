@@ -2811,5 +2811,55 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-22T18:00:36",
+  "slug": "",
+  "title": "Forward deployed engineering: wat OpenAI ermee bedoelt",
+  "kind": "news",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-22T18:00:45",
+  "slug": "",
+  "title": "AI wordt 725 keer goedkoper: prijzen dalen 13 keer per jaar",
+  "kind": "news",
+  "rood": [
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-22T18:00:54",
+  "slug": "",
+  "title": "AI-lobby in Washington op record: OpenAI, Anthropic en Nvidia geven meer uit",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 2,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-22T18:01:02",
+  "slug": "",
+  "title": "Spotify zet in op AI-agents die zelf een muziekdienst kiezen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

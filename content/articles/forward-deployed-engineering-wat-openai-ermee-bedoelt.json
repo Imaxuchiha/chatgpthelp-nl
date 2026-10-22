@@ -1,0 +1,69 @@
+{
+ "keyword": "forward deployed engineering",
+ "seo_title": "forward deployed engineering: wat OpenAI ermee bedoelt",
+ "title": "Forward deployed engineering: wat OpenAI ermee bedoelt",
+ "meta": "OpenAI legt uit wat forward deployed engineering is. Lees wat deze engineers doen, waarom klanten ze willen en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "forward deployed engineering",
+  "ai bij bedrijven",
+  "consultancy",
+  "banen"
+ ],
+ "intro": "OpenAI heeft in een eigen publicatie uitgelegd wat forward deployed engineering bij het bedrijf betekent. Het gaat om engineers die bij klanten aan de slag gaan om AI-toepassingen werkend te krijgen. Voor bedrijven die met OpenAI bouwen, wordt zo'n meewerkende engineer een vast aanspreekpunt.",
+ "takeaways": [
+  "OpenAI beschrijft forward deployed engineering als engineers die samen met klanten aan implementaties werken.",
+  "De rol draait om het vertalen van een klantvraag naar een werkende AI-oplossing.",
+  "OpenAI publiceerde de uitleg op 22 oktober 2026 op zijn eigen site.",
+  "Hoeveel mensen deze rol hebben en wat het kost, maakt OpenAI niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de rol inhoudt",
+   "body": "Forward deployed engineering betekent bij OpenAI dat een engineer tijdelijk meewerkt in de omgeving van een klant. Die persoon zit dicht op het werkproces en ziet waar een model vastloopt. Vanuit die positie wordt de toepassing gebouwd en bijgesteld.\n\nHet werk lijkt daarmee op wat adviesbureaus doen: mensen detacheren bij een klant om een project van de grond te trekken. Het verschil zit in de techniek. De engineer werkt met de modellen en hulpmiddelen van OpenAI zelf.\n\nOpenAI noemt de aanpak in de publicatie bij naam. Veel meer details over teams, regio's of doorlooptijden staan er niet in."
+  },
+  {
+   "heading": "Waarom bedrijven hierom vragen",
+   "body": "Een taalmodel aansluiten op eigen systemen kost meer dan een sleutel invullen. Je moet data klaarzetten, rechten regelen en uitzoeken welke prompts betrouwbaar werken. Veel organisaties hebben die kennis niet in huis.\n\nEen engineer die bij het team komt zitten, kan sneller schakelen dan een externe partij die op afstand blijft. Fouten in het proces komen eerder boven tafel. Dat scheelt tijd bij het testen.\n\nOpenAI positioneert de rol daarmee als brug tussen onderzoek en praktijk. De publicatie op de eigen site leest als uitleg aan klanten en sollicitanten."
+  },
+  {
+   "heading": "Wat OpenAI niet zegt",
+   "body": "Er staat geen aantal engineers in de publicatie. Ook blijft onduidelijk of de dienst apart wordt gefactureerd en of Nederlandse klanten ervoor in aanmerking komen.\n\nDie vragen zijn wel relevant voor bedrijven die een offerte willen aanvragen. Zonder prijs of beschikbaarheid per land is lastig te bepalen of dit iets voor je is. OpenAI heeft die gegevens nog niet gedeeld."
+  },
+  {
+   "heading": "Verschil met gewone consultancy",
+   "body": "Bij klassieke consultancy huur je advies in en bouwt je eigen team verder. Hier komt iemand met directe toegang tot de bron van het model. Dat kan sneller gaan bij vragen die het model zelf raken.\n\nDe keerzijde is afhankelijkheid. Wie zo'n engineer in huis haalt, leunt op de kennis en het platform van één leverancier. Voor bedrijven met meerdere AI-leveranciers is dat een afweging."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die met OpenAI werken, kan deze rol interessant zijn zodra de dienst hier beschikbaar komt. Grote organisaties met eigen IT-teams hebben er het meest aan. Het is nog niet bekend of OpenAI deze engineers ook in Nederland inzet en wat het kost. Wie nu al wil bouwen, moet het voorlopig met eigen mensen en de bestaande documentatie doen. Houd er rekening mee dat zo'n traject vaak maanden duurt en dat je interne data en rechten op orde moeten zijn.",
+ "faq": [
+  {
+   "q": "Wat is forward deployed engineering?",
+   "a": "Een engineer van OpenAI werkt tijdelijk mee bij een klant om een AI-toepassing te bouwen en te testen. De rol zit dicht op het werkproces van het bedrijf."
+  },
+  {
+   "q": "Is dit beschikbaar in Nederland?",
+   "a": "Dat is niet bekend. OpenAI noemt in de publicatie geen landen of regio's waar de dienst wordt aangeboden."
+  },
+  {
+   "q": "Wat kost het?",
+   "a": "Over de prijs zegt OpenAI niets. Ook is niet duidelijk of dit apart wordt gefactureerd of bij een bestaand contract hoort."
+  }
+ ],
+ "sections_note": "",
+ "slug": "forward-deployed-engineering-wat-openai-ermee-bedoelt",
+ "kind": "news",
+ "date": "2026-10-22",
+ "published": "2026-10-22T18:00",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "What FDE means at OpenAI",
+   "url": "https://openai.com/index/forward-deployed-engineering-means"
+  }
+ ],
+ "path": "/nieuws/forward-deployed-engineering-wat-openai-ermee-bedoelt/",
+ "og": "/img/og/forward-deployed-engineering-wat-openai-ermee-bedoelt.png",
+ "take": "OpenAI verkoopt een engineer die bij je aan tafel komt zitten, en dat klinkt duur. Ik beoordeel zo'n dienst pas op wat hij na twaalf tot achttien maanden aan tijd of geld oplevert, niet op een mooie pilot van een maand. Eerst zien wat er blijft staan als die engineer weer weg is, dan pas praten we over de rekening."
+}
