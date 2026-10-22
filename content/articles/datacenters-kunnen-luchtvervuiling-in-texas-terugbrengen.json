@@ -1,0 +1,64 @@
+{
+ "keyword": "datacenters luchtvervuiling",
+ "seo_title": "Datacenters luchtvervuiling: Texas waarschuwt",
+ "title": "Datacenters kunnen luchtvervuiling in Texas terugbrengen",
+ "meta": "Nieuwe datacenters voor AI vragen veel stroom. In Texas kan luchtvervuiling terugkomen op niveaus van de jaren 2000. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "datacenters",
+  "luchtvervuiling",
+  "ai",
+  "energie",
+  "texas"
+ ],
+ "intro": "Een golf nieuwe datacenters kan de luchtkwaliteit in Texas terugbrengen naar het niveau van de jaren 2000. Dat meldt The Verge op basis van een nieuw rapport. De datacenters voor generatieve AI vragen veel elektriciteit, en hoe die wordt opgewekt bepaalt hoeveel extra uitstoot er bij komt.",
+ "takeaways": [
+  "Texas is volgens The Verge het brandpunt van de fysieke infrastructuur achter generatieve AI.",
+  "Nieuwe en geplande datacenters vragen een enorme hoeveelheid elektriciteit.",
+  "Of de luchtvervuiling echt terugkomt, hangt af van hoe ontwikkelaars en nutsbedrijven in die vraag voorzien.",
+  "Een deel van de oplossing kan gas zijn, maar de bronnen noemen geen definitieve energiemix."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er in Texas gebeurt",
+   "body": "Texas heeft zich ontwikkeld tot een van de drukste plekken voor de hardware achter generatieve AI. Dat schrijft The Verge. Er komen nieuwe datacenters bij en er liggen nog meer plannen op tafel.\n\nDie gebouwen vragen veel stroom, meer dan het bestaande net makkelijk aankan. Hoe ontwikkelaars en nutsbedrijven die vraag invullen, bepaalt hoeveel extra vervuiling er in de lucht komt. Gaat dat met gas, dan stijgt de uitstoot flink.\n\nHet rapport waarschuwt dat de luchtkwaliteit daardoor kan terugvallen naar waarden die Texas sinds de jaren 2000 niet meer haalde. Dat zou tientallen jaren aan schonere lucht tenietdoen."
+  },
+  {
+   "heading": "Waarom stroomvraag zo zwaar weegt",
+   "body": "Een datacenter verbruikt stroom elke dag, ook als er weinig wordt gerekend. De vraag piekt bovendien op momenten dat het net al onder druk staat. Nutsbedrijven moeten dan bijbouwen of bestaande centrales harder laten draaien.\n\nIn Texas is gas een voor de hand liggende keuze, omdat die centrales snel aan en uit kunnen. De keerzijde is uitstoot van stoffen die longklachten en smog verergeren. De precieze cijfers per project noemt The Verge niet.\n\nOok de timing van nieuwe aansluitingen speelt mee. Komt er veel vraag tegelijk, dan kan een regio in korte tijd veel extra vervuiling krijgen."
+  },
+  {
+   "heading": "Wat nog niet bekend is",
+   "body": "Het is nog niet duidelijk welke energiemix de komende jaren precies wordt gekozen. De bronnen noemen gas als mogelijkheid, zonder een volledige verdeling te geven. Ook is niet bekend hoeveel van de geplande datacenters daadwerkelijk worden gebouwd.\n\nDe cijfers over gezondheidseffecten in Texas ontbreken in de aangeleverde bron. The Verge noemt alleen het terugkeren naar het niveau van de jaren 2000."
+  }
+ ],
+ "nl_angle": "Nederland telt zelf meerdere grote datacenterclusters, onder meer in de regio Amsterdam en in Groningen. De discussie over stroom, netcapaciteit en ruimte speelt hier al jaren. Wat in Texas gebeurt, is een voorbeeld van een patroon dat ook hier kan opspelen: meer rekenkracht vraagt meer stroom, en de vraag is waar die vandaan komt. Voor omwonenden van datacenters en voor bedrijven die op het stroomnet wachten, maakt het uit of extra capaciteit met gas of met schonere bronnen wordt ingevuld. De bronnen geven geen cijfers over Nederland, dus hoe groot dat effect hier is, blijft voorlopig open.",
+ "faq": [
+  {
+   "q": "Waarom zorgen datacenters voor meer luchtvervuiling?",
+   "a": "Ze vragen veel elektriciteit. Wordt die stroom met gas opgewekt, dan komt er extra uitstoot bij in de regio."
+  },
+  {
+   "q": "Gaat het om alle datacenters of alleen die voor AI?",
+   "a": "The Verge richt zich op de datacenters achter generatieve AI. Die vragen bijzonder veel rekenkracht en dus stroom."
+  },
+  {
+   "q": "Geldt dit ook voor Nederland?",
+   "a": "De bronnen noemen geen Nederlandse cijfers. Het patroon van meer stroomvraag speelt hier wel, onder meer bij de netcapaciteit."
+  }
+ ],
+ "slug": "datacenters-kunnen-luchtvervuiling-in-texas-terugbrengen",
+ "kind": "news",
+ "date": "2026-10-22",
+ "published": "2026-10-22T10:44",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Data centers could erase decades of air quality gains",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report"
+  }
+ ],
+ "path": "/nieuws/datacenters-kunnen-luchtvervuiling-in-texas-terugbrengen/",
+ "og": "/img/og/datacenters-kunnen-luchtvervuiling-in-texas-terugbrengen.png",
+ "take": "Rekeningen voor rekenkracht worden elders betaald, en de lucht in Texas mag het opruimen. Voor Nederland betekent dat vooral één vraag: waar komt die stroom vandaan. Mijn insteek blijft eerst gratis of goedkoop rekenen met eigen scripts en DeepSeek, en betalen pas als het zich direct terugverdient."
+}

@@ -13,7 +13,8 @@
   "les sora-tekst-in-beeld",
   "nep-conversiewaarde",
   "shopify-spookaankopen",
-  "les deepseek-denken-uit"
+  "les deepseek-denken-uit",
+  "hersync-wist-labels"
  ],
  "tools": [
   "Claude Code (Anthropic)",
@@ -35,6 +36,7 @@
   "google-ads-tracking-fout-je-omzet-klopt-niet",
   "epic-games-zet-alles-op-ai-de-rekening-komt-bij-spelers",
   "170-spookaankopen-zo-verpest-slechte-data-je-pmax",
-  "deepseek-verbod-vs-paniek-of-gewoon-politiek"
+  "deepseek-verbod-vs-paniek-of-gewoon-politiek",
+  "shopify-merchant-center-sync-waarom-je-labels-verdwijnen"
  ]
 }

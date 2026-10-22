@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: schoolrooster van je kind omzetten naar gezinsplanning",
+ "situation": "Handig in de weken dat het rooster van je kind weer verandert en je werk, oppas en sportclub op één lijn wilt krijgen.",
+ "prompt": "Je bent een planner voor een druk gezin in Nederland. Ik geef je het schoolrooster en de vaste afspraken van mijn kind. Zet alles om in een weekoverzicht per dag, met per dag de tijden en wie er brengt of haalt. Signaleer knelpunten waarbij twee afspraken overlappen of waarbij niemand beschikbaar is. Bedenk per knelpunt twee praktische oplossingen, zoals ruilen met een andere ouder, oppas of naschoolse opvang. Geef de uitkomst als tabel met de dagen als rijen en de kolommen: tijd, activiteit, locatie, wie brengt/haalt, opmerking. Sluit af met een korte lijst vragen die ik aan school of de oppas moet stellen. Rooster kind: [ROOSTER]. Vaste afspraken: [AFSPRAKEN]. Mijn werkuren: [WERKTIJDEN]. Beschikbare oppas: [OPPAS].",
+ "tip": "Vul ook de reistijd tussen school, werk en sport in, dan worden de knelpunten realistischer.",
+ "tags": [
+  "gezin",
+  "planning",
+  "school",
+  "werk"
+ ],
+ "date": "2026-10-22",
+ "slug": "prompt-schoolrooster-van-je-kind-omzetten-naar-gezinsplanning",
+ "path": "/prompts/2026-10-22-prompt-schoolrooster-van-je-kind-omzetten-naar-gezinsplanning/"
+}

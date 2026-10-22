@@ -1971,6 +1971,26 @@
   "edef63b51a": {
    "at": "2026-10-21T22:05:51.771370",
    "why": "ok"
+  },
+  "2ed22a61b2": {
+   "at": "2026-10-22T10:43:59.594108",
+   "why": "ok"
+  },
+  "3acc865d1f": {
+   "at": "2026-10-22T10:44:59.594108",
+   "why": "poort"
+  },
+  "eaa3fbf800": {
+   "at": "2026-10-22T10:44:59.594108",
+   "why": "ok"
+  },
+  "4d133c0da1": {
+   "at": "2026-10-22T10:45:59.594108",
+   "why": "poort"
+  },
+  "86bbef590f": {
+   "at": "2026-10-22T10:45:59.594108",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2306,6 +2326,9 @@
   "OpenAI-modellen en Codex voortaan ook via Google Cloud",
   "OpenAI juridische ai: AT&T hervormt eigen juridische afdeling",
   "OpenAI Patch the Planet: AI-agents vinden lekken in open source",
-  "ChatGPT advertenties: OpenAI bouwt apart advertentiesysteem"
+  "ChatGPT advertenties: OpenAI bouwt apart advertentiesysteem",
+  "OpenAI scherpt gebruiksbeleid aan via distributeurs",
+  "Datacenters kunnen luchtvervuiling in Texas terugbrengen",
+  "Meta geeft nieuwe aandelen uit om AI-investeringen te betalen"
  ]
 }

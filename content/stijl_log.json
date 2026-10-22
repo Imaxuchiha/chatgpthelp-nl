@@ -2731,5 +2731,85 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-22T10:44:13",
+  "slug": "",
+  "title": "OpenAI scherpt gebruiksbeleid aan via distributeurs",
+  "kind": "news",
+  "rood": [
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-22T10:44:21",
+  "slug": "",
+  "title": "Blackstone: zorgen over AI-schulden zijn overdreven",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-22T10:44:31",
+  "slug": "",
+  "title": "Datacenters kunnen luchtvervuiling in Texas terugbrengen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-22T10:44:39",
+  "slug": "",
+  "title": "Google AI-zoekfunctie kost websites bezoekers: wat dat betekent",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-22T10:44:48",
+  "slug": "",
+  "title": "Meta geeft nieuwe aandelen uit om AI-investeringen te betalen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-22T10:45:31",
+  "slug": "",
+  "title": "Shopify Merchant Center sync: waarom je labels verdwijnen",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

@@ -1,0 +1,61 @@
+{
+ "keyword": "shopify merchant center sync",
+ "seo_title": "Shopify Merchant Center sync: waarom labels verdwijnen",
+ "title": "Shopify Merchant Center sync: waarom je labels verdwijnen",
+ "meta": "Na een hersynchronisatie tussen Shopify en Merchant Center stonden productlabels ineens leeg. Zo voorkom je dat je campagnes op hol slaan.",
+ "category": "mening",
+ "tags": [
+  "Shopify",
+  "Merchant Center",
+  "Google Shopping",
+  "productlabels",
+  "feedbeheer"
+ ],
+ "intro": "Een hersynchronisatie tussen Shopify en Merchant Center kan je productlabels wissen. Zonder melding. Ik zag het gebeuren bij een klant. De campagne die alleen bestsellers mocht tonen, adverteerde ineens met alles. Dat kost geld en vertrouwen in je data.",
+ "takeaways": [
+  "Controleer na elke sync of productlabels nog kloppen.",
+  "Stel een waarschuwing in voor lege labels in je feed.",
+  "Test campagnes op een klein budget na een sync."
+ ],
+ "sections": [
+  {
+   "heading": "De hersynchronisatie die alles sloopte",
+   "body": "Bij een klant draaide Shopify al jaren prima. Productlabels werden netjes meegestuurd naar Merchant Center. Daar filterden we campagnes op: alleen producten met label 'bestseller' mochten in de dure campagne. Op een dag moest de koppeling opnieuw gesynchroniseerd worden. Iemand klikte op 'hersynchroniseren' in Shopify. Klinkt onschuldig.\n\nDe volgende ochtend stonden alle labels leeg. Duizenden producten. Geen enkel label meer. De campagne die alleen bestsellers mocht tonen, kreeg ineens het hele assortiment. Niemand kreeg een melding. Niet van Shopify, niet van Merchant Center. Wij zagen het pas toen de kosten omhoogschoten en de conversies daalden.\n\nDat is het gevaar van automatisering. Alles lijkt te werken, totdat het stilletjes misgaat. AI kan dit niet oplossen. Je moet het zelf zien."
+  },
+  {
+   "heading": "Waarom dit bijna niet te vinden is",
+   "body": "Het venijn zit in de details. Shopify en Merchant Center praten met elkaar via een feed. Bij een hersynchronisatie kan Shopify besluiten om alleen de basisvelden te sturen. Labels zijn extra velden. Die raak je kwijt als de sync niet goed is ingesteld. En omdat er geen foutmelding komt, denk je dat alles klopt.\n\nIk controleer nu na elke sync handmatig een steekproef. Duurt vijf minuten. Voorkomt een week aan schade. Ook zet ik in Merchant Center een melding aan voor producten zonder label. Die melding bestaat gewoon. Gebruik hem.\n\nVeel ondernemers denken dat een sync iets eenmaligs is. Maar elke wijziging in Shopify kan de feed beïnvloeden. Een app die je installeert, een thema dat je verandert. Blijf controleren."
+  },
+  {
+   "heading": "Wat de lezer morgen moet doen",
+   "body": "Check eerst of je labels nog kloppen. Ga naar Merchant Center, open je producten en filter op lege labels. Als je er veel ziet, is er iets mis. Kijk dan in Shopify welke app of instelling de sync doet. Vaak is het de Google-kanaal app. Daar kun je instellen welke velden meegestuurd worden. Zet labels aan.\n\nDaarna stel je een waarschuwing in. In Merchant Center kun je een regel maken die je mailt als een product geen label heeft. Doe dat. Dan ben je er op tijd bij.\n\nTot slot: test campagnes op een klein budget na een sync. Zet de campagne op pauze of verlaag het budget tijdelijk. Kijk een dag of twee of alles klopt. Pas daarna schaal je weer op. Het kost je een paar tientjes, maar bespaart je honderden euro's aan verkeerde clicks."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse webshops die Shopify en Google Shopping gebruiken is dit een direct risico. Veel ondernemers beheren hun feed zelf en hebben geen tijd om elke dag te controleren. Juist daarom moet je dit inbouwen. Plan een wekelijkse check van vijf minuten. Stel meldingen in. En zorg dat iemand in je team weet hoe een hersynchronisatie werkt. Zo voorkom je dat een simpele klik je hele campagne om zeep helpt.",
+ "faq": [
+  {
+   "q": "Hoe weet ik of mijn productlabels leeg zijn?",
+   "a": "Ga naar Merchant Center, open je producten en filter op lege labels. Of stel een melding in die je waarschuwt bij producten zonder label."
+  },
+  {
+   "q": "Kan ik een hersynchronisatie ongedaan maken?",
+   "a": "Nee, maar je kunt de labels opnieuw toevoegen via de feed of handmatig in Merchant Center. Controleer daarna of je campagnes weer goed filteren."
+  },
+  {
+   "q": "Moet ik mijn campagne pauzeren na een sync?",
+   "a": "Niet per se, maar verlaag tijdelijk het budget en controleer de labels. Zo beperk je de schade als er iets misgaat."
+  }
+ ],
+ "lessons_used": [
+  "les_hersync-wist-labels"
+ ],
+ "slug": "shopify-merchant-center-sync-waarom-je-labels-verdwijnen",
+ "kind": "practice",
+ "date": "2026-10-22",
+ "published": "2026-10-22T10:43",
+ "sources": [],
+ "path": "/mening/shopify-merchant-center-sync-waarom-je-labels-verdwijnen/",
+ "og": "/img/og/shopify-merchant-center-sync-waarom-je-labels-verdwijnen.png",
+ "lesson": "hersync-wist-labels",
+ "author": "Maxim"
+}
