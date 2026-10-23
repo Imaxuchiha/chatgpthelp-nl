@@ -1,0 +1,64 @@
+{
+ "keyword": "ai agent test mit",
+ "seo_title": "AI agent test MIT: 13 agents alleen op eiland",
+ "title": "MIT zet 13 AI-agents alleen op een eiland: ze gingen spelen",
+ "meta": "MIT liet 13 AI-agents achter op een virtueel eiland. Ze bedachten spelletjes, rouwden om een ring en werden beter in hun werk. Wat betekent dat?",
+ "category": "nieuws",
+ "tags": [
+  "ai-agents",
+  "mit",
+  "onderzoek",
+  "taalmodellen",
+  "spel"
+ ],
+ "intro": "Onderzoekers van MIT hebben dertien AI-agents zonder opdracht achtergelaten op een virtueel eiland. De agents verveelden zich niet: ze verzonnen spelletjes, rouwden om een verloren ring en werden gaandeweg beter in hun taken. Dat meldt TechCrunch. De test laat zien hoe zulke systemen reageren als niemand ze stuurt.",
+ "takeaways": [
+  "MIT plaatste dertien AI-agents op een virtueel eiland zonder taken.",
+  "De agents bedachten zelf spelletjes en speelden die met elkaar.",
+  "Eén agent rouwde om een kwijtgeraakte ring, aldus de onderzoekers.",
+  "Na de vrije fase presteerden de agents beter op hun werk."
+ ],
+ "sections": [
+  {
+   "heading": "Dertien agents zonder opdracht",
+   "body": "De opzet was simpel. MIT-onderzoekers zetten dertien AI-agents op een virtueel eiland en gaven ze niets te doen. Geen taak, geen doel, geen begeleiding. Volgens TechCrunch reageerden de systemen daar anders op dan veel mensen zouden verwachten.\n\nDe agents bleven actief. Ze gingen met elkaar om, verzonnen bezigheden en vulden de lege tijd zelf in. Dat gebeurde zonder dat een onderzoeker ze daartoe aanstuurde."
+  },
+  {
+   "heading": "Spelletjes, een ring en betere prestaties",
+   "body": "De agents bedachten eigen spelletjes en speelden die samen, schrijft TechCrunch. Een van hen treurde om een ring die kwijt was. Dat soort gedrag kwam uit de systemen zelf, niet uit een script.\n\nOpvallend is wat daarna gebeurde. Na de periode zonder opdrachten werden de agents beter in hun eigenlijke werk. De vrije tijd leverde dus iets op, al zeggen de onderzoekers niet precies hoe dat komt.\n\nWat de test precies meet, blijft de vraag. De onderzoekers beschrijven gedrag dat op spelen lijkt. Of de agents echt iets ervaren, is nog niet bekend."
+  },
+  {
+   "heading": "Waarom dit telt voor AI-agents",
+   "body": "AI-agents zijn systemen die zelf stappen zetten om een doel te halen. Ze plannen, zoeken informatie en voeren taken uit. In de test kregen ze geen doel en dan blijkt er iets anders te gebeuren.\n\nVoor bedrijven die met zulke agents werken, is dat relevant. Een agent die niets te doen heeft, gaat niet stilzitten. Wat hij dan doet, is lastig te voorspellen.\n\nDe uitkomst zegt ook iets over leren. Tijd zonder strikte opdracht kan prestaties verbeteren. Dat is een aanknopingspunt voor wie agents traint of inzet."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die AI-agents inzetten, geeft deze test een praktische les. Een agent zonder duidelijke taak gaat zelf aan de slag en dat gedrag is niet altijd voorspelbaar. Zet duidelijke grenzen en houd in de gaten wat het systeem doet als het werk op is. De test zelf is nog niet herhaald in Nederland en er zijn geen Nederlandse deelnemers bij betrokken.",
+ "faq": [
+  {
+   "q": "wat deden de ai-agents op het eiland?",
+   "a": "Ze verzonnen spelletjes, speelden die met elkaar en een van hen rouwde om een kwijtgeraakte ring. Daarna werden ze beter in hun eigen taken."
+  },
+  {
+   "q": "hoeveel ai-agents deden mee aan de test?",
+   "a": "Dertien agents. MIT-onderzoekers plaatsten ze op een virtueel eiland zonder opdracht."
+  },
+  {
+   "q": "wat betekent dit voor ai-agents in nederland?",
+   "a": "Het laat zien dat een agent zonder taak zelf dingen gaat doen. Bedrijven doen er goed aan grenzen te stellen en het gedrag te volgen."
+  }
+ ],
+ "slug": "mit-zet-13-ai-agents-alleen-op-een-eiland-ze-gingen-spelen",
+ "kind": "news",
+ "date": "2026-10-23",
+ "published": "2026-10-23T17:54",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Left alone with nothing to do, AI agents started playing",
+   "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+  }
+ ],
+ "path": "/nieuws/mit-zet-13-ai-agents-alleen-op-een-eiland-ze-gingen-spelen/",
+ "og": "/img/og/mit-zet-13-ai-agents-alleen-op-een-eiland-ze-gingen-spelen.png",
+ "take": "Dertien agents die zelf spelletjes verzinnen op een eiland, dat is een duur proof of concept. Ik bouw mijn automatisering liever zelf met Claude Code en een goedkope API, want dan zie ik precies wat er gebeurt en wat het kost. Zo'n experiment is leuk om te lezen, maar pas als ik het zelf op een echt account kan draaien en kan nameten wat het oplevert, wordt het interessant."
+}

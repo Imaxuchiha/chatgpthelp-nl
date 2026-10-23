@@ -2959,5 +2959,66 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-23T17:53:48",
+  "slug": "",
+  "title": "AI-drone van TU Delft verslaat oud-wereldkampioenen met één camera",
+  "kind": "news",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 2,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-23T17:53:58",
+  "slug": "",
+  "title": "AI retro games: oude klassiekers duiken overal op",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-23T17:54:08",
+  "slug": "",
+  "title": "MIT zet 13 AI-agents alleen op een eiland: ze gingen spelen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-23T17:54:20",
+  "slug": "",
+  "title": "OpenAI beursgang dichterbij: 30 miljard ophalen bij 1.250 miljard",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-23T17:54:27",
+  "slug": "",
+  "title": "Canva lanceert eigen AI-model Canva Craft voor ontwerpen",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

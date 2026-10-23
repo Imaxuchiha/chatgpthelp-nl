@@ -2039,6 +2039,30 @@
   "3602c8887b": {
    "at": "2026-10-23T10:41:34.633328",
    "why": "ok"
+  },
+  "d34a3f37bd": {
+   "at": "2026-10-23T17:53:35.939563",
+   "why": "high-risk"
+  },
+  "d55638b277": {
+   "at": "2026-10-23T17:53:35.939563",
+   "why": "poort"
+  },
+  "fa80f1a6b4": {
+   "at": "2026-10-23T17:53:35.939563",
+   "why": "ok"
+  },
+  "8937fd9c82": {
+   "at": "2026-10-23T17:54:35.939563",
+   "why": "ok"
+  },
+  "6372ebaa66": {
+   "at": "2026-10-23T17:55:35.939563",
+   "why": "poort"
+  },
+  "1437b0ebe8": {
+   "at": "2026-10-23T17:55:35.939563",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2386,6 +2410,9 @@
   "1Password laat ai-agents inloggen zonder jouw wachtwoord",
   "OpenAI en NASK werken samen aan ai-veiligheid in Polen",
   "1Password geeft AI-agents toegang tot wachtwoorden zonder inzage",
-  "Robotaxi Kazachstan: inDrive test in 2027 met Pony.ai en Nvidia"
+  "Robotaxi Kazachstan: inDrive test in 2027 met Pony.ai en Nvidia",
+  "AI retro games: oude klassiekers duiken overal op",
+  "MIT zet 13 AI-agents alleen op een eiland: ze gingen spelen",
+  "Canva lanceert eigen AI-model Canva Craft voor ontwerpen"
  ]
 }

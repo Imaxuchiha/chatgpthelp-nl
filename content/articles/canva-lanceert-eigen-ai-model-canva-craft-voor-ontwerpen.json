@@ -1,0 +1,64 @@
+{
+ "keyword": "canva craft ai-model",
+ "seo_title": "Canva Craft: eerste eigen AI-model voor ontwerpen",
+ "title": "Canva lanceert eigen AI-model Canva Craft voor ontwerpen",
+ "meta": "Canva komt met Canva Craft, een eigen AI-model dat eerst een ontwerp plant en dan pas een afbeelding maakt. Dit betekent het voor gebruikers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "canva",
+  "canva craft",
+  "ai-modellen",
+  "ontwerpen",
+  "ai-tools"
+ ],
+ "intro": "Canva heeft zijn eerste eigen AI-model voor beeldgeneratie aangekondigd: Canva Craft. Het model concurreert met de beeldmodellen van OpenAI, Microsoft en Google. Craft werkt in twee stappen en bedenkt eerst een ontwerp voordat het een afbeelding maakt. Dat moet meer precisie, consistentie en controle opleveren, meldt The Verge.",
+ "takeaways": [
+  "Canva Craft is het eerste eigen beeldmodel van Canva en gaat de concurrentie aan met OpenAI, Microsoft en Google.",
+  "Het model plant eerst een ontwerp en genereert daarna pas de afbeelding, in twee fasen.",
+  "Volgens Canva levert die aanpak meer precisie, consistentie en controle op.",
+  "Canva noemt nog geen prijs of releasedatum voor Nederland."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Canva Craft anders doet",
+   "body": "De meeste beeldmodellen maken in één keer een afbeelding op basis van een tekstprompt. Canva Craft splitst dat op in twee fasen. Eerst bepaalt het model hoe het ontwerp eruit moet zien. Daarna volgt de daadwerkelijke beeldgeneratie.\n\nDie tweetrapsaanpak moet zorgen voor meer precisie, consistentie en controle. Canva positioneert Craft daarmee nadrukkelijk als concurrent van de beeldmodellen van OpenAI, Microsoft en Google. Het bedrijf stapt met dit model verder in de AI-markt dan alleen het toevoegen van functies aan zijn ontwerptool."
+  },
+  {
+   "heading": "Concurrentie met OpenAI, Microsoft en Google",
+   "body": "Canva bouwt met Craft een eigen model, waar het eerder vooral samenwerkte met externe AI-partijen. Dat is een opvallende stap voor een bedrijf dat groot werd met een online ontwerptool voor niet-ontwerpers.\n\nDe vergelijking met OpenAI, Microsoft en Google ligt voor de hand. Die partijen hebben al beeldmodellen die breed worden gebruikt. Canva mikt met Craft op gebruikers die binnen de eigen omgeving willen ontwerpen en genereren."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Canva heeft nog geen releasedatum genoemd. Ook is niet duidelijk wat Canva Craft gaat kosten en of het model in de Europese Unie direct beschikbaar komt.\n\nOf Craft in het gratis abonnement zit of alleen in betaalde plannen, is eveneens onbekend. The Verge noemt die details niet in het bericht over de aankondiging."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse Canva-gebruikers, van studenten tot marketingteams, kan Craft interessant zijn als het model in het Nederlands goed werkt en in de EU beschikbaar komt. Canva heeft daar nog niets over gezegd. Let bij een eventuele uitrol op de prijs in euro's en op de voorwaarden voor dataverwerking, want die verschillen per abonnement. Bedrijven die al met Canva werken, kunnen Craft straks mogelijk gebruiken zonder over te stappen naar een ander AI-platform.",
+ "faq": [
+  {
+   "q": "Wat is Canva Craft?",
+   "a": "Canva Craft is het eerste eigen AI-model van Canva voor het maken van afbeeldingen. Het bedenkt eerst een ontwerp en genereert daarna pas de afbeelding."
+  },
+  {
+   "q": "Is Canva Craft al beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. Canva heeft geen releasedatum of beschikbaarheid per land genoemd."
+  },
+  {
+   "q": "Wat kost Canva Craft?",
+   "a": "De prijs is nog niet bekendgemaakt. Ook is niet duidelijk of Craft in het gratis abonnement zit."
+  }
+ ],
+ "slug": "canva-lanceert-eigen-ai-model-canva-craft-voor-ontwerpen",
+ "kind": "news",
+ "date": "2026-10-23",
+ "published": "2026-10-23T17:55",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Canva’s first AI image model plans designs before generating them",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
+  }
+ ],
+ "path": "/nieuws/canva-lanceert-eigen-ai-model-canva-craft-voor-ontwerpen/",
+ "og": "/img/og/canva-lanceert-eigen-ai-model-canva-craft-voor-ontwerpen.png",
+ "take": "Canva Craft plant eerst een ontwerp en maakt dan pas beeld, dat is precies de volgorde die werkt. Ik zie liever dat zo'n model nadenkt over opbouw dan dat het meteen wat plaatjes uitspuugt. Maar zodra het over budgetten en campagnes aan of uit gaat, blijft bij mij een mens aan de knoppen."
+}

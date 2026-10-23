@@ -1,0 +1,68 @@
+{
+ "keyword": "ai retro games",
+ "seo_title": "AI retro games: oude klassiekers duiken overal op",
+ "title": "AI retro games: oude klassiekers duiken overal op",
+ "meta": "Nieuwe AI-tools maken het makkelijk om oude games als Halo en Wind Waker op vreemde plekken te draaien. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "retro games",
+  "nintendo",
+  "openai",
+  " auteursrecht"
+ ],
+ "intro": "Oude games duiken de laatste maand op plekken waar ze officieel niet horen. Halo draait in een browser, Wind Waker op de iPhone en Super Smash Bros. in mixed reality. Nieuwe AI-tools maken zulke projecten een stuk sneller, meldt The Verge.",
+ "takeaways": [
+  "Projecten met oude games als Halo en Wind Waker gaan viral nu AI-tools het werk versnellen.",
+  "Het gaat om decompilatie en hercompilatie: code van een spel opnieuw opbouwen voor andere hardware.",
+  "De projecten verschijnen buiten de officiële kanalen van uitgevers als Nintendo en Microsoft.",
+  "Of dit juridisch mag, is per project verschillend en nog niet uitgezocht."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er gebeurt met oude games",
+   "body": "De afgelopen maand gingen meerdere van dit soort projecten viraal. Een browser-versie van Halo, een iPhone-versie van Wind Waker en een mixed reality-versie van Super Smash Bros. Het zijn stuk voor stuk games die je normaal niet op die apparaten speelt.\n\nVolgens The Verge komt die golf door nieuwe AI-tools. Die helpen bij het ontleden en opnieuw opbouwen van de code van een spel. Werk dat eerder maanden kostte, gaat nu een stuk sneller."
+  },
+  {
+   "heading": "Decompilatie en hercompilatie uitgelegd",
+   "body": "Bij decompilatie pak je de bestaande code van een spel uit en zet je die om naar leesbare broncode. Bij hercompilatie bouw je die code opnieuw op, zodat het spel op andere hardware werkt. Denk aan een browser of een telefoon.\n\nDat is precisiewerk. Eén fout en het spel start niet meer op. AI helpt vooral bij het herkennen van patronen in grote hoeveelheden code. Het neemt niet het hele werk over."
+  },
+  {
+   "heading": "Waarom uitgevers dit liever niet zien",
+   "body": "De projecten verschijnen buiten de officiële kanalen om. Uitgevers als Nintendo en Microsoft hebben zelf niets aangekondigd over deze versies. Zij bepalen normaal waar en hoe hun games te spelen zijn.\n\nOf zo'n project mag, hangt af van het spel en de aanpak. Soms is er geen originele code gebruikt, soms wel. The Verge noemt geen rechtszaken rond deze specifieke projecten."
+  },
+  {
+   "heading": "Wat het betekent voor spelers",
+   "body": "Voor spelers is het vooral leuk om te zien. Je kunt een klassieker uitproberen op een apparaat dat je al hebt. Toch blijft het oppassen: zulke versies komen niet van de maker en krijgen geen updates.\n\nEr is nog geen duidelijkheid over de juridische kant. Wie zo'n versie downloadt, doet dat op eigen risico. De officiële winkels bieden deze games niet aan."
+  }
+ ],
+ "nl_angle": "In Nederland zijn deze projecten gewoon te vinden via het web, net als elders. Er is geen Nederlandse wet die hier apart iets over regelt; het valt onder het Europese auteursrecht. Wil je een oude game legaal spelen, dan blijft de officiële versie via een winkel of abonnement de veilige route. Voor ontwikkelaars in Nederland bieden dezelfde AI-tools een snelle manier om oude code te doorgronden, bijvoorbeeld bij het onderhouden van eigen software.",
+ "faq": [
+  {
+   "q": "Mag je een oude game zomaar in je browser spelen?",
+   "a": "Dat verschilt per project. Zonder toestemming van de maker is het auteursrechtelijk meestal niet toegestaan, ook in Nederland."
+  },
+  {
+   "q": "Wat is decompilatie van een game?",
+   "a": "Daarbij zet je de bestaande code van een spel om naar leesbare broncode. Hercompilatie bouwt die code daarna opnieuw op voor andere hardware."
+  },
+  {
+   "q": "Zijn deze AI-tools in Nederland te gebruiken?",
+   "a": "Ja, ze zijn via het web beschikbaar. Er is nog geen Nederlandse regelgeving die specifiek voor deze tools geldt."
+  }
+ ],
+ "type": "json_object",
+ "slug": "ai-retro-games-oude-klassiekers-duiken-overal-op",
+ "kind": "news",
+ "date": "2026-10-23",
+ "published": "2026-10-23T17:53",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Retro gaming is being overrun with AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
+  }
+ ],
+ "path": "/nieuws/ai-retro-games-oude-klassiekers-duiken-overal-op/",
+ "og": "/img/og/ai-retro-games-oude-klassiekers-duiken-overal-op.png"
+}
