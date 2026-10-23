@@ -2063,6 +2063,18 @@
   "1437b0ebe8": {
    "at": "2026-10-23T17:55:35.939563",
    "why": "ok"
+  },
+  "298c8de07d": {
+   "at": "2026-10-23T21:55:20.535795",
+   "why": "ok"
+  },
+  "48e2274fdf": {
+   "at": "2026-10-23T21:56:20.535795",
+   "why": "ok"
+  },
+  "f490e9c8ed": {
+   "at": "2026-10-23T21:57:20.535795",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2413,6 +2425,9 @@
   "Robotaxi Kazachstan: inDrive test in 2027 met Pony.ai en Nvidia",
   "AI retro games: oude klassiekers duiken overal op",
   "MIT zet 13 AI-agents alleen op een eiland: ze gingen spelen",
-  "Canva lanceert eigen AI-model Canva Craft voor ontwerpen"
+  "Canva lanceert eigen AI-model Canva Craft voor ontwerpen",
+  "OpenAI schaalt opslag voor ChatGPT naar 1 miljard gebruikers",
+  "OpenAI scherpt beveiliging aan rond training van frontier-modellen",
+  "Block lanceert Dessa: een AI-model dat praat als een nieuwe vriend"
  ]
 }

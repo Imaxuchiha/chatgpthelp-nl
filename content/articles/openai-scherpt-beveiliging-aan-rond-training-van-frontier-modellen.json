@@ -1,0 +1,68 @@
+{
+ "keyword": "openai modeltraining beveiliging",
+ "seo_title": "OpenAI beveiligt training van frontier-modellen strenger",
+ "title": "OpenAI scherpt beveiliging aan rond training van frontier-modellen",
+ "meta": "OpenAI legt uit hoe het de trainingsomgeving van frontier-modellen beter afschermt, met offline omgevingen en intensieve red-teaming. Wat betekent dat…",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-veiligheid",
+  "frontier-modellen",
+  "red-teaming",
+  "beleid"
+ ],
+ "intro": "OpenAI heeft uitgelegd hoe het de omgeving waarin het zijn krachtigste AI-modellen traint en test beter afschermt. Daarbij gaat het onder meer om offline omgevingen en zware red-teaming met veel rekenkracht. De uitleg komt op een moment dat overheden en bedrijven meer grip willen op hoe zulke modellen worden gebouwd.",
+ "takeaways": [
+  "OpenAI beschrijft strengere containment voor training en evaluatie van frontier-modellen.",
+  "Een deel van de maatregelen draait om offline omgevingen, los van het open internet.",
+  "OpenAI zet naar eigen zeggen ook veel rekenkracht in voor red-teaming.",
+  "Het bedrijf geeft geen details over kosten, planning of toezicht door derden."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies aanscherpt",
+   "body": "OpenAI noemt in zijn uitleg twee pijlers: containment en red-teaming. Containment betekent dat een model tijdens training en tests wordt afgeschermd, zodat het niet zomaar met de buitenwereld kan communiceren. Volgens OpenAI gebeurt een deel van dat werk in offline omgevingen.\n\nRed-teaming is het systematisch zoeken naar manieren waarop een model ongewenst gedrag kan vertonen. OpenAI zegt daarvoor veel rekenkracht in te zetten. Het bedrijf spreekt van high-compute red-teaming: testen die zelf flink wat computerkracht kosten.\n\nWat de maatregelen concreet inhouden, blijft deels onduidelijk. OpenAI geeft geen cijfers over het aantal tests of over de kosten van de aanpak."
+  },
+  {
+   "heading": "Waarom afscherming telt bij frontier-modellen",
+   "body": "Frontier-modellen zijn de zwaarste modellen die een lab bouwt. Ze kosten veel rekenkracht en worden vaak eerst intern getest voordat ze naar buiten komen. Een lek in die fase kan gevoelige informatie blootleggen of het model blootstellen aan invloeden van buitenaf.\n\nOffline werken beperkt dat risico. Een model dat geen verbinding heeft met het internet, kan tijdens het trainen lastiger data naar buiten sturen of van buitenaf worden gestuurd. Dat is de logica achter de aanpak die OpenAI beschrijft.\n\nTegelijk is containment geen garantie. Het is een laag in een breder pakket aan maatregelen, waaronder testen en interne procedures."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "OpenAI geeft geen tijdpad voor de maatregelen. Ook is niet duidelijk of externe partijen meekijken bij de tests. Onafhankelijk toezicht is juist een punt waarover in Europa wordt gediscussieerd.\n\nHet bedrijf noemt verder geen bedragen of besparingen. Of de strengere aanpak de ontwikkeling van nieuwe modellen vertraagt, blijft daarmee open. OpenAI zegt daar niets over in de gepubliceerde uitleg."
+  },
+  {
+   "heading": "Red-teaming met veel rekenkracht",
+   "body": "Red-teaming is in de AI-sector een gangbare praktijk. Onderzoekers proberen een model bewust fouten te laten maken of ongewenste antwoorden te ontlokken. Zo hopen ze zwakke plekken te vinden voordat gebruikers die tegenkomen.\n\nHet kostbare deel zit in de schaal. Veel tests betekenen veel rekenuren, en die zijn duur. OpenAI noemt de inzet van veel rekenkracht expliciet, zonder een bedrag te noemen.\n\nVoor gebruikers verandert er vandaag niets zichtbaars. De maatregelen raken vooral de fase waarin modellen worden gebouwd en getest."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die met AI werken, is dit vooral een signaal over verwachtingen rond veiligheid. Grote labs schermen hun ontwikkeling af en documenteren dat steeds vaker. Wie zelf AI inzet of laat bouwen, kan bij leveranciers vragen naar hoe modellen worden getest en afgeschermd. In de Europese Unie gelden daarnaast regels uit de AI-verordening, die voor zwaardere modellen extra eisen stelt. Concrete cijfers over kosten of toezicht geeft OpenAI niet, dus daar valt nog weinig over te zeggen.",
+ "faq": [
+  {
+   "q": "Wat is een frontier-model?",
+   "a": "Dat is een zeer groot en krachtig AI-model dat een lab als OpenAI ontwikkelt. Zulke modellen vragen veel rekenkracht en worden eerst uitgebreid getest."
+  },
+  {
+   "q": "Wat betekent red-teaming?",
+   "a": "Het is het bewust testen van een model op fouten en ongewenst gedrag. Onderzoekers proberen het model uit de tent te lokken om zwakke plekken te vinden."
+  },
+  {
+   "q": "Merken gebruikers hier iets van?",
+   "a": "Voorlopig niet direct. De maatregelen raken de fase waarin modellen worden getraind en getest, niet de dagelijkse werking van ChatGPT."
+  }
+ ],
+ "slug": "openai-scherpt-beveiliging-aan-rond-training-van-frontier-modellen",
+ "kind": "news",
+ "date": "2026-10-23",
+ "published": "2026-10-23T21:56",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Securing our frontier model training environment",
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+  }
+ ],
+ "path": "/nieuws/openai-scherpt-beveiliging-aan-rond-training-van-frontier-modellen/",
+ "og": "/img/og/openai-scherpt-beveiliging-aan-rond-training-van-frontier-modellen.png",
+ "take": "OpenAI schetst hier een plaatje van offline trainingsomgevingen en zware red-teaming. Dat lees ik als een verhaal over hoe het hoort te werken, niet als bewijs dat het zo werkt. Ik geloof pas dat een omgeving echt dicht zit als iemand van buiten het tegendeel probeert en daarover publiceert, en die proef zie ik hier nog niet."
+}

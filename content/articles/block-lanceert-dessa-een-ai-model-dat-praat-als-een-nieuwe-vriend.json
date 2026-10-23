@@ -1,0 +1,63 @@
+{
+ "keyword": "dessa ai model",
+ "seo_title": "Dessa AI-model van Block: praten als een nieuwe vriend",
+ "title": "Block lanceert Dessa: een AI-model dat praat als een nieuwe vriend",
+ "meta": "Block van Jack Dorsey heeft Dessa onthuld, een AI-model getraind op menselijke gesprekken. Zo klinkt het en dit betekent het voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "dessa",
+  "block",
+  "jack dorsey",
+  "ai-modellen",
+  "spraak"
+ ],
+ "intro": "Block, het bedrijf van Jack Dorsey, heeft een eigen AI-model aangekondigd: Dessa. Het model is volgens Block vanaf nul getraind op menselijke gesprekken. Om het te demonstreren deelde Block gesprekken die soms wat ongemakkelijk en vreemd overkomen.",
+ "takeaways": [
+  "Block heeft een AI-model genaamd Dessa aangekondigd.",
+  "Dessa is volgens Block vanaf nul getraind op menselijke conversatie.",
+  "Block deelde voorbeelden van gesprekken die soms wat ongemakkelijk zijn.",
+  "Ragavan Thurairatnam is de leider van het Dessa-team."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Dessa volgens Block anders maakt",
+   "body": "Block zegt dat Dessa vanaf nul is getraind op niets anders dan menselijke gesprekken. Dat is een andere aanpak dan bij veel bestaande modellen, die vooral leren van grote hoeveelheden tekst van het web.\n\nHet bedrijf wil het model laten praten zoals mensen dat doen. In de voorbeelden die Block deelde, klinkt dat soms als een gesprek met een nieuwe kennis. Het gaat af en toe stroef, met reacties die net niet helemaal passen.\n\nRagavan Thurairatnam, die het Dessa-team leidt, deelde een van die gesprekken. The Verge meldt dat zo'n gesprek soms wat ongemakkelijk en uncanny kan zijn. Uncanny betekent hier: net menselijk genoeg om je een beetje onbehaaglijk te voelen."
+  },
+  {
+   "heading": "Waarom een eigen model voor Block",
+   "body": "Block is vooral bekend van betaaldiensten en van de app Cash App. Een eigen taalmodel past bij de wens om meer controle te hebben over de technologie achter zulke producten.\n\nMet een eigen model bepaalt Block zelf hoe het wordt getraind en waar het op reageert. Dat kan voordelen geven bij klantcontact of bij spraakassistenten. Concrete producten waarin Dessa wordt gebruikt, noemt Block in de bron niet.\n\nOok is niet bekend hoeveel het model heeft gekost en hoe groot het is. The Verge geeft daar geen cijfers over. Wie wil weten of Dessa openbaar beschikbaar komt, moet wachten op meer informatie van Block."
+  },
+  {
+   "heading": "Een gesprek dat net niet soepel loopt",
+   "body": "De demonstratie laat zien waar het model nog worstelt. Een gesprek met een AI hoort soepel te voelen, maar Dessa antwoordt soms op een manier die je bij een mens niet verwacht.\n\nDat is deels het gevolg van de trainingsaanpak. Wie een model alleen op gesprekken traint, leert het de vorm van een gesprek. Feitenkennis en betrouwbaarheid komen daar niet automatisch mee.\n\nBlock presenteert die eigenaardigheid als kenmerk van het model. Of gebruikers dat prettig vinden, is nog niet te zeggen. Daarvoor is meer nodig dan een paar gedeelde gesprekken."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders verandert er op korte termijn weinig. Dessa is nog geen product dat je hier kunt gebruiken, en Block noemt geen prijs of releasedatum. Wel laat de aankondiging zien dat meer bedrijven hun eigen model bouwen. Dat kan op termijn invloed hebben op de keuze aan AI-assistenten in Nederland en op de Europese regels rond AI, die ook voor zulke modellen gelden. Concrete plannen voor de Nederlandse markt zijn niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is Dessa van Block?",
+   "a": "Dessa is een AI-model van Block, het bedrijf van Jack Dorsey. Het is volgens Block vanaf nul getraind op menselijke gesprekken."
+  },
+  {
+   "q": "Kan ik Dessa in Nederland gebruiken?",
+   "a": "Daar is nog niets over bekend. Block heeft geen releasedatum of prijs genoemd voor Nederland of de EU."
+  },
+  {
+   "q": "Waarom klinken de gesprekken met Dessa ongemakkelijk?",
+   "a": "Het model is alleen op menselijke conversatie getraind. Daardoor klinkt het soms als een nieuwe kennis die nog moet wennen, meldt The Verge."
+  }
+ ],
+ "slug": "block-lanceert-dessa-een-ai-model-dat-praat-als-een-nieuwe-vriend",
+ "kind": "news",
+ "date": "2026-10-23",
+ "published": "2026-10-23T21:57",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+  }
+ ],
+ "path": "/nieuws/block-lanceert-dessa-een-ai-model-dat-praat-als-een-nieuwe-vriend/",
+ "og": "/img/og/block-lanceert-dessa-een-ai-model-dat-praat-als-een-nieuwe-vriend.png"
+}

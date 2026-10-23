@@ -1,0 +1,64 @@
+{
+ "keyword": "chatgpt opslag schaalbaar",
+ "seo_title": "ChatGPT opslag: OpenAI schaalt naar 1 miljard gebruikers",
+ "title": "OpenAI schaalt opslag voor ChatGPT naar 1 miljard gebruikers",
+ "meta": "OpenAI legt uit hoe het de opslag achter ChatGPT opschaalde naar meer dan 1 miljard gebruikers, met 12x snellere leesacties dankzij Azure Cosmos DB.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "chatgpt",
+  "opslag",
+  "azure",
+  "cosmos db"
+ ],
+ "intro": "OpenAI heeft in een technische uitleg laten zien hoe het de opslaglaag achter ChatGPT heeft opgeschaald naar meer dan 1 miljard gebruikers. Het bedrijf bouwde daarvoor zijn systeem Habitat om, met betere ondersteuning voor meerdere klanten tegelijk, wereldwijde caching en Azure Cosmos DB. Volgens OpenAI levert dat 12 keer snellere leesacties op.",
+ "takeaways": [
+  "OpenAI schaalde de opslag achter ChatGPT op naar meer dan 1 miljard gebruikers.",
+  "Habitat kreeg betere ondersteuning voor meerdere klanten tegelijk en wereldwijde caching.",
+  "Azure Cosmos DB speelt een rol in de nieuwe opzet.",
+  "Leesacties werden volgens OpenAI 12 keer sneller."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies heeft aangepast",
+   "body": "De opslaglaag van ChatGPT heet Habitat. OpenAI beschrijft in het tweede deel van zijn uitleg hoe dat systeem geschikt werd gemaakt voor meer dan 1 miljard gebruikers. Daarbij draait het om drie technische keuzes: betrouwbaar meerdere klanten op dezelfde infrastructuur laten werken, caching over de hele wereld en het gebruik van Azure Cosmos DB.\n\nDie combinatie moet ervoor zorgen dat ChatGPT snel blijft reageren, ook als er veel mensen tegelijk actief zijn. Volgens OpenAI levert de nieuwe opzet 12 keer snellere leesacties op. Het bedrijf noemt de aanpak zelf betrouwbaar en gericht op schaal."
+  },
+  {
+   "heading": "Waarom opslag zo bepalend is",
+   "body": "ChatGPT bewaart veel meer dan alleen je laatste vraag. Gesprekken, instellingen en andere gegevens moeten telkens snel terug te vinden zijn. Groeit het aantal gebruikers, dan groeit ook de druk op die opslag.\n\nOpenAI laat met deze uitleg zien dat de techniek achter ChatGPT minstens zo belangrijk is als het taalmodel zelf. Een trage opslag merkt een gebruiker direct aan een langzaam antwoord. Snellere leesacties betekenen in de praktijk dus minder wachten."
+  },
+  {
+   "heading": "Wereldwijd cachen en meerdere klanten",
+   "body": "Met wereldwijde caching houdt OpenAI veelgevraagde gegevens dicht bij de plek waar ze nodig zijn. Dat scheelt tijd bij het ophalen. Meerdere klanten tegelijk op dezelfde infrastructuur laten werken vraagt om een opzet waarin de ene gebruiker geen last heeft van de andere.\n\nAzure Cosmos DB is de database die OpenAI in dit verhaal noemt. Het bedrijf geeft geen details over de kosten of over de precieze regio's waar de gegevens staan. Ook is niet bekend of Nederlandse gebruikers hier iets van merken in de snelheid van hun gesprekken."
+  }
+ ],
+ "nl_angle": "Voor gebruikers in Nederland verandert er aan de buitenkant weinig: ChatGPT blijft gewoon werken. De winst zit in de betrouwbaarheid bij drukte. Bedrijven die ChatGPT via de API in eigen software gebruiken, kunnen baat hebben bij snellere leesacties. Waar de gegevens precies worden opgeslagen, maakt OpenAI niet bekend. Dat is relevant voor organisaties die willen weten of hun data binnen de Europese Unie blijft. Wie daar zekerheid over wil, moet dat rechtstreeks bij OpenAI navragen.",
+ "faq": [
+  {
+   "q": "Hoeveel gebruikers heeft ChatGPT nu?",
+   "a": "Volgens OpenAI gaat het om meer dan 1 miljard gebruikers. Het bedrijf geeft geen preciezer aantal."
+  },
+  {
+   "q": "Wat is Azure Cosmos DB?",
+   "a": "Dat is een database van Microsoft Azure. OpenAI gebruikt die in de opslaglaag achter ChatGPT."
+  },
+  {
+   "q": "Wordt ChatGPT sneller voor Nederlandse gebruikers?",
+   "a": "OpenAI meldt 12 keer snellere leesacties, maar zegt niet of dat per land verschilt. Concrete cijfers voor Nederland zijn niet bekend."
+  }
+ ],
+ "slug": "openai-schaalt-opslag-voor-chatgpt-naar-1-miljard-gebruikers",
+ "kind": "news",
+ "date": "2026-10-23",
+ "published": "2026-10-23T21:55",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+  }
+ ],
+ "path": "/nieuws/openai-schaalt-opslag-voor-chatgpt-naar-1-miljard-gebruikers/",
+ "og": "/img/og/openai-schaalt-opslag-voor-chatgpt-naar-1-miljard-gebruikers.png",
+ "take": "OpenAI gooit met Azure Cosmos DB even 12 keer snellere leesacties uit de hoge hoed, en dan moet ik nog zien wat zo'n cijfer voor mijn werk betekent. Ik meet alles op wat het oplevert in tijd of geld, dus een schaalverhaal over een miljard gebruikers zegt me pas iets als mijn eigen rapportages er sneller door worden. Tot die tijd is dit voor mij een mooie technische uitleg en verder niets."
+}

@@ -3020,5 +3020,42 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-23T21:55:33",
+  "slug": "",
+  "title": "OpenAI schaalt opslag voor ChatGPT naar 1 miljard gebruikers",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-23T21:55:44",
+  "slug": "",
+  "title": "OpenAI scherpt beveiliging aan rond training van frontier-modellen",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-23T21:55:54",
+  "slug": "",
+  "title": "Block lanceert Dessa: een AI-model dat praat als een nieuwe vriend",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
