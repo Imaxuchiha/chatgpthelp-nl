@@ -2912,5 +2912,52 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-23T10:39:47",
+  "slug": "",
+  "title": "OpenAI en NASK werken samen aan ai-veiligheid in Polen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-23T10:39:57",
+  "slug": "",
+  "title": "1Password geeft AI-agents toegang tot wachtwoorden zonder inzage",
+  "kind": "news",
+  "rood": [
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-23T10:40:06",
+  "slug": "",
+  "title": "Robotaxi Kazachstan: inDrive test in 2027 met Pony.ai en Nvidia",
+  "kind": "news",
+  "rood": [],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-23T10:40:44",
+  "slug": "",
+  "title": "Wat is ChatGPT en hoe werkt het? Uitleg voor beginners",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S11",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

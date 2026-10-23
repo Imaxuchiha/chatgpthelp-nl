@@ -1,0 +1,68 @@
+{
+ "keyword": "openai nask ai-veiligheid",
+ "seo_title": "OpenAI NASK ai-veiligheid: samenwerking met Polen",
+ "title": "OpenAI en NASK werken samen aan ai-veiligheid in Polen",
+ "meta": "OpenAI en het Poolse NASK gaan samenwerken aan ai-veiligheid en onderzoek. Wat betekent dat voor ai-gebruik en toezicht in Nederland en de EU?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-veiligheid",
+  "nask",
+  "polen",
+  "eu"
+ ],
+ "intro": "OpenAI gaat samenwerken met NASK, een Pools onderzoeksinstituut. De twee partijen richten zich op ai-veiligheid, beveiliging en technisch onderzoek. Volgens OpenAI moet die samenwerking de waarborgen rond ai versterken en het digitale ecosysteem weerbaarder maken.",
+ "takeaways": [
+  "OpenAI en NASK werken samen aan ai-veiligheid en beveiliging.",
+  "Het partnerschap omvat ook technisch onderzoek.",
+  "Doel is sterkere waarborgen en een weerbaarder digitaal ecosysteem.",
+  "NASK is een Pools instituut; OpenAI noemt geen bedragen of looptijd."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de samenwerking inhoudt",
+   "body": "OpenAI maakte het partnerschap op 22 oktober bekend. NASK is een Pools instituut dat zich bezighoudt met onderzoek en netwerkveiligheid. De samenwerking draait om drie onderdelen: ai-veiligheid, beveiliging en technisch onderzoek.\n\nVolgens OpenAI moeten die inspanningen de bestaande waarborgen rond ai versterken. Het bedrijf noemt ook een weerbaarder digitaal ecosysteem als doel. Concrete afspraken over geld, personeel of looptijd staan niet in de aankondiging."
+  },
+  {
+   "heading": "Waarom Polen en niet Brussel",
+   "body": "Polen is een grote EU-lidstaat en zit dicht bij de Europese ai-regels. Een samenwerking met een nationaal instituut geeft OpenAI een gesprekspartner buiten de Europese Commissie om. NASK heeft ervaring met netwerkveiligheid, wat past bij het onderdeel beveiliging.\n\nOf het partnerschap leidt tot gedeelde tests of gezamenlijke rapporten, is nog niet bekend. OpenAI zegt daar niets over in de aankondiging."
+  },
+  {
+   "heading": "Wat het betekent voor ai-toezicht in de EU",
+   "body": "Binnen de EU gelden regels voor ai-systemen, met extra eisen voor risicovolle toepassingen. Landen zoeken manieren om die regels in de praktijk te brengen. Samenwerking tussen een ai-bedrijf en een nationaal instituut past in dat patroon.\n\nVoor gebruikers in Nederland verandert er vandaag niets zichtbaar. De vraag is vooral of dit soort afspraken het toezicht versterken. Daar geeft de aankondiging geen antwoord op."
+  },
+  {
+   "heading": "Wat nog ontbreekt",
+   "body": "Er zijn geen cijfers, geen namen van betrokken onderzoekers en geen planning genoemd. Ook is niet duidelijk of Nederland een vergelijkbare afspraak heeft met OpenAI. Het bedrijf heeft wel vaker Europese samenwerkingen aangekondigd, maar deze bron gaat alleen over Polen.\n\nWie meer wil weten, moet wachten op nadere berichten van OpenAI of NASK."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders die ChatGPT gebruiken, verandert er op korte termijn weinig. De afspraak raakt vooral het bredere toezicht op ai in de EU, waar Nederland via Europese regels aan meedoet. Bedrijven die ai inzetten, merken mogelijk op termijn strengere eisen aan veiligheidstests. Concrete gevolgen voor de Nederlandse markt zijn nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is NASK?",
+   "a": "NASK is een Pools onderzoeksinstituut dat zich bezighoudt met onderzoek en netwerkveiligheid. Het werkt samen met OpenAI aan ai-veiligheid en beveiliging."
+  },
+  {
+   "q": "Gaat OpenAI ook met Nederland samenwerken?",
+   "a": "Daar zegt de aankondiging niets over. De bron noemt alleen het partnerschap met NASK in Polen."
+  },
+  {
+   "q": "Verandert ChatGPT hierdoor?",
+   "a": "Nee, de aankondiging noemt geen wijzigingen in ChatGPT zelf. Het gaat om onderzoek en veiligheidssamenwerking."
+  }
+ ],
+ "slug": "openai-en-nask-werken-samen-aan-ai-veiligheid-in-polen",
+ "kind": "news",
+ "date": "2026-10-23",
+ "published": "2026-10-23T10:39",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+  }
+ ],
+ "path": "/nieuws/openai-en-nask-werken-samen-aan-ai-veiligheid-in-polen/",
+ "og": "/img/og/openai-en-nask-werken-samen-aan-ai-veiligheid-in-polen.png",
+ "take": "OpenAI die met NASK gaat samenwerken aan ai-veiligheid levert mijn bureau nul euro op, en dat is precies mijn maatstaf voor dit soort nieuws. Een instituut erbij is geen product dat ik kan inzetten, dus ik wacht op iets tastbaars voordat ik er waarde aan hang. Mijn eigen automatisering draait gewoon door op Claude Code en DeepSeek, en die kosten zie ik elke maand terug in uren die ik niet meer maak."
+}

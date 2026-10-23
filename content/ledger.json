@@ -2027,6 +2027,18 @@
   "fe52d49759": {
    "at": "2026-10-22T22:00:37.023194",
    "why": "ok"
+  },
+  "15c1f8ef7a": {
+   "at": "2026-10-23T10:39:34.633328",
+   "why": "ok"
+  },
+  "9d06fd143f": {
+   "at": "2026-10-23T10:40:34.633328",
+   "why": "ok"
+  },
+  "3602c8887b": {
+   "at": "2026-10-23T10:41:34.633328",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2371,6 +2383,9 @@
   "Spotify zet in op AI-agents die zelf een muziekdienst kiezen",
   "PHP-crisis laat zien hoe AI het internet verandert",
   "OpenAI lanceert Decisions API voor snelle beslissingen in apps",
-  "1Password laat ai-agents inloggen zonder jouw wachtwoord"
+  "1Password laat ai-agents inloggen zonder jouw wachtwoord",
+  "OpenAI en NASK werken samen aan ai-veiligheid in Polen",
+  "1Password geeft AI-agents toegang tot wachtwoorden zonder inzage",
+  "Robotaxi Kazachstan: inDrive test in 2027 met Pony.ai en Nvidia"
  ]
 }

@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: klacht opstellen over je energienota",
+ "situation": "Je energierekening valt veel hoger uit dan verwacht en je wilt bij je leverancier een heldere klacht indienen met alle feiten op een rij.",
+ "prompt": "Je bent een consumentenadviseur die gespecialiseerd is in geschillen met energieleveranciers. Ik wil een klachtbrief opstellen aan [NAAM ENERGIEMAATSCHAPPIJ] over mijn jaarafrekening. Mijn klantnummer is [KLANTNUMMER]. Het contract loopt sinds [INGANGSDATUM] en mijn verbruik was volgens mijn eigen meterstanden [AANTAL M3 GAS] en [AANTAL KWH STROOM]. Op de afrekening staat [BEDRAG] euro, terwijl ik [BEDRAG] euro had verwacht. Het verschil zit volgens mij in [REDEN, BIJV. SCHATTING, TARIEFWIJZIGING OF METERSTAND]. Schrijf een zakelijke brief van maximaal 300 woorden. Noem de feiten in een korte lijst, vraag om een specificatie van de berekening en vraag binnen welke termijn ik antwoord krijg. Geef ook een kop korte samenvatting voor mijn eigen administratie. Gebruik een toon die vriendelijk is, maar duidelijk. Sluit af met een verzoek om een oplossing binnen [AANTAL WEKEN] weken.",
+ "tip": "Vul de meterstanden en bedragen letterlijk over van je afrekening, dan kan de leverancier er niet omheen.",
+ "tags": [
+  "energie",
+  "klacht",
+  "geld",
+  "thuis"
+ ],
+ "date": "2026-10-23",
+ "slug": "prompt-klacht-opstellen-over-je-energienota",
+ "path": "/prompts/2026-10-23-prompt-klacht-opstellen-over-je-energienota/"
+}
