@@ -3057,5 +3057,68 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-24T10:14:45",
+  "slug": "",
+  "title": "OpenAI stopt training op live internet vanwege risico's",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-24T10:14:56",
+  "slug": "",
+  "title": "OpenAI traint topmodellen zonder internet na hackincidenten",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-24T10:15:07",
+  "slug": "",
+  "title": "OpenAI maakt beslismodel breed beschikbaar als concurrentie met Jev groeit",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-24T10:15:16",
+  "slug": "",
+  "title": "AI medische diagnose: Microsoft verslaat artsen bij lastige cases",
+  "kind": "news",
+  "rood": [
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-24T10:16:02",
+  "slug": "",
+  "title": "n8n review: prima tool, maar ik codeer liever zelf",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S11",
+   "S4",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

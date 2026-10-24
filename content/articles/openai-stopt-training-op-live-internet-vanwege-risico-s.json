@@ -1,0 +1,67 @@
+{
+ "keyword": "openai training internet",
+ "seo_title": "OpenAI training internet: modellen niet meer op live web",
+ "title": "OpenAI stopt training op live internet vanwege risico's",
+ "meta": "OpenAI traint zijn AI-modellen niet meer op het live internet. Wat dat betekent voor ChatGPT-gebruikers en bedrijven in Nederland lees je hier.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "chatgpt",
+  "ai-training",
+  "privacy",
+  "veiligheid"
+ ],
+ "intro": "OpenAI stopt met het trainen van zijn nieuwste AI-modellen op het live internet. Het bedrijf noemt de risico's te groot. Dat meldt TechCrunch. De stap komt enkele weken nadat een eigen engineer zei dat deze aanpak niet zou werken.",
+ "takeaways": [
+  "OpenAI koppelt zijn nieuwste modellen los van het live internet tijdens de training.",
+  "Het bedrijf wijst op aanzienlijke risico's, zonder die in de bron precies te benoemen.",
+  "Een OpenAI-engineer had eerder gezegd dat dit juist niet zou werken.",
+  "Wat er precies verandert aan ChatGPT is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies aankondigt",
+   "body": "OpenAI laat weten dat het zijn frontier-modellen niet meer traint op het openbare internet. Frontier-modellen zijn de krachtigste modellen die een AI-bedrijf bouwt. Volgens OpenAI kleven er aanzienlijke risico's aan training op live webdata.\n\nWelke risico's het bedrijf precies bedoelt, maakt de bron niet duidelijk. TechCrunch noemt geen details over de technische aanpak of een datum waarop de maatregel ingaat. Ook is niet bekend of bestaande modellen worden aangepast.\n\nDe aankondiging komt enkele weken na een opvallende uitspraak binnen het bedrijf zelf. Een engineer van OpenAI zei toen dat deze oplossing niet zou werken. Waarom die conclusie nu anders is, blijft onduidelijk."
+  },
+  {
+   "heading": "Waarom live internet riskant is",
+   "body": "Een taalmodel dat tijdens de training het internet op mag, kan van alles binnenhalen. Denk aan foutieve informatie, schadelijke teksten of privégegevens die ergens rondslingeren. Zulke data kunnen het gedrag van een model beïnvloeden.\n\nOok auteursrecht speelt mee. Websites bevatten teksten waar makers rechten op hebben. In Europa geldt daarnaast de AI-verordening, die eisen stelt aan hoe AI-systemen worden ontwikkeld en welke data daarbij zijn gebruikt.\n\nOpenAI geeft in de bron geen uitleg over de juridische kant. Het bedrijf houdt het bij de brede term risico's."
+  },
+  {
+   "heading": "Wat dit betekent voor ChatGPT",
+   "body": "Of gebruikers iets merken van de maatregel, is nog niet bekend. De aankondiging gaat over training, niet over het gebruik van ChatGPT zelf. Een model leren gebeurt in een andere fase dan een vraag beantwoorden.\n\nToch kan de keuze gevolgen hebben voor hoe actueel en veelzijdig nieuwe modellen zijn. Wie een model alleen met eigen of gelicenseerde data traint, bepaalt zelf wat erin zit. Dat kan de kwaliteit ten goede komen en het risico op rommel verkleinen.\n\nOpenAI heeft niet gezegd welke databronnen voortaan worden gebruikt. Concrete cijfers of voorbeelden ontbreken in de bron."
+  },
+  {
+   "heading": "Een ommekeer binnen het bedrijf",
+   "body": "De stap is opmerkelijk, omdat OpenAI eerder een andere koers leek te varen. De uitspraak van de eigen engineer wijst op interne discussie over de beste aanpak. Nu kiest het bedrijf voor afscherming van het live web.\n\nTechCrunch plaatst de aankondiging in dat licht. Het medium noemt de maatregel een breuk met de eerdere werkwijze. Details over de interne afwegingen geeft de bron niet."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers van ChatGPT verandert er op korte termijn waarschijnlijk weinig aan het dagelijks gebruik. De maatregel raakt vooral de ontwikkeling van nieuwe modellen. Bedrijven in Nederland die AI bouwen op OpenAI-technologie moeten rekening houden met minder actuele kennis in toekomstige modellen. Wie zelf AI ontwikkelt, krijgt hiermee een signaal dat training op ruwe webdata juridisch en technisch gevoelig ligt, zeker met de Europese AI-verordening in het achterhoofd. Concrete gevolgen voor prijzen of beschikbaarheid in Nederland zijn nog niet bekend.",
+ "faq": [
+  {
+   "q": "Traint OpenAI ChatGPT nog op het internet?",
+   "a": "Volgens OpenAI worden de nieuwste modellen niet meer op het live internet getraind. Of dat ook geldt voor alle bestaande modellen, maakt de bron niet duidelijk."
+  },
+  {
+   "q": "Waarom stopt OpenAI met trainen op het live web?",
+   "a": "OpenAI noemt aanzienlijke risico's, zonder die precies te benoemen. TechCrunch geeft geen verdere details over de beweegredenen."
+  },
+  {
+   "q": "Merken Nederlandse gebruikers hier iets van?",
+   "a": "Voor het gewone gebruik van ChatGPT is nog geen effect bekend. De verandering raakt vooral de ontwikkeling van nieuwe modellen."
+  }
+ ],
+ "slug": "openai-stopt-training-op-live-internet-vanwege-risico-s",
+ "kind": "news",
+ "date": "2026-10-24",
+ "published": "2026-10-24T10:14",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+  }
+ ],
+ "path": "/nieuws/openai-stopt-training-op-live-internet-vanwege-risico-s/",
+ "og": "/img/og/openai-stopt-training-op-live-internet-vanwege-risico-s.png"
+}

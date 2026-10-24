@@ -1,0 +1,64 @@
+{
+ "keyword": "ai medische diagnose",
+ "seo_title": "AI medische diagnose: Microsoft verslaat artsen bij lastige",
+ "title": "AI medische diagnose: Microsoft verslaat artsen bij lastige cases",
+ "meta": "Microsofts AI-diagnosesysteem presteert beter dan huisartsen bij moeilijke cases, meldt TechCrunch. Lees wat dat betekent voor zorg in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "microsoft",
+  "ai in de zorg",
+  "medische ai",
+  "diagnose",
+  "mustafa suleyman"
+ ],
+ "intro": "Een nieuw diagnosesysteem van Microsoft versloeg algemene artsen bij moeilijke gevallen. Dat blijkt uit een onderzoek in het vakblad Science. Microsoft-topman Mustafa Suleyman noemt het een stap richting medische superintelligentie.",
+ "takeaways": [
+  "Microsofts AI-diagnosesysteem won het van algemene artsen bij lastige cases, volgens een studie in Science",
+  "Het grootste deel van de winst komt van de onderliggende AI-modellen, meldt TechCrunch",
+  "Suleyman spreekt over medische superintelligentie als doel",
+  "Onderzoekers plaatsen vraagtekens bij de rol van Microsofts eigen systeem"
+ ],
+ "sections": [
+  {
+   "heading": "Wat de studie laat zien",
+   "body": "Het onderzoek verscheen in Science en vergelijkt het systeem van Microsoft met algemene artsen. Bij lastige gevallen kwam de AI er beter uit. TechCrunch meldt dat de onderzoekers vooral keken naar hoe vaak de juiste diagnose bovenaan stond.\n\nDe winst lijkt niet volledig aan Microsofts eigen systeem te danken. Volgens TechCrunch komt het meeste voordeel van de AI-modellen die eronder zitten. Het is nog niet bekend hoe groot dat aandeel precies is."
+  },
+  {
+   "heading": "Suleyman zoekt medische superintelligentie",
+   "body": "Mustafa Suleyman, die bij Microsoft aan het hoofd staat van de AI-tak, noemt het resultaat een stap richting medische superintelligentie. Hij wil dat AI op medisch gebied beter presteert dan mensen. Dat doel is ambitieus en nog ver weg, zeggen critici.\n\nTechCrunch plaatst wel een kanttekening. Een goed resultaat op een selecte set moeilijke cases zegt weinig over de prestaties in een gewone spreekkamer. Daar spelen andere factoren mee, zoals gesprekken met patiënten en het wegen van twijfels."
+  },
+  {
+   "heading": "Wat dit betekent voor de zorg",
+   "body": "Een systeem dat artsen ondersteunt bij lastige diagnoses kan tijd schelen. Toch blijft de arts eindverantwoordelijk. Beslissingen over behandeling vragen om context die een model niet altijd heeft.\n\nIn Europa gelden strenge regels voor medische software. Een diagnosesysteem moet eerst door een keuring voordat het in ziekenhuizen mag worden gebruikt. Of Microsoft die stap zet, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ziekenhuizen en huisartsen is dit voorlopig vooral interessant als signaal. Een diagnosesysteem dat artsen bij lastige cases voorbijstreeft, kan op termijn helpen bij second opinions. Zover is het nog niet: er is geen Europees goedgekeurd product en geen prijs of beschikbaarheidsdatum bekend. Zorginstellingen die nu al met AI willen werken, moeten rekening houden met de Europese regels voor medische hulpmiddelen en met de eis dat een arts de diagnose blijft stellen.",
+ "faq": [
+  {
+   "q": "Presteert AI van Microsoft echt beter dan artsen?",
+   "a": "Bij moeilijke cases in één studie wel, meldt TechCrunch. Het meeste voordeel komt van de onderliggende AI-modellen. Over de prestaties in de dagelijkse praktijk zegt de studie weinig."
+  },
+  {
+   "q": "Wat is medische superintelligentie?",
+   "a": "Dat is de term die Mustafa Suleyman gebruikt voor AI die op medisch gebied beter presteert dan mensen. Het is een doel, geen bestaand product."
+  },
+  {
+   "q": "Kan ik dit in Nederland gebruiken?",
+   "a": "Nee. Er is nog geen goedgekeurd product en geen releasedatum bekend. Medische AI moet in de EU eerst een keuring doorlopen."
+  }
+ ],
+ "slug": "ai-medische-diagnose-microsoft-verslaat-artsen-bij-lastige-cases",
+ "kind": "news",
+ "date": "2026-10-24",
+ "published": "2026-10-24T10:16",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+  }
+ ],
+ "path": "/nieuws/ai-medische-diagnose-microsoft-verslaat-artsen-bij-lastige-cases/",
+ "og": "/img/og/ai-medische-diagnose-microsoft-verslaat-artsen-bij-lastige-cases.png",
+ "take": "Een systeem dat in een test van moeilijke gevallen wint van huisartsen is nog geen diagnose die je in de spreekkamer wil. Ik bouw mijn eigen tools liever dan dat ik een abonnement neem op elke nieuwe belofte, en dat geldt hier net zo hard. Laat Microsoft eerst maar laten zien hoe zo'n systeem presteert op echte patiënten, met echte ruis en onvolledige dossiers."
+}

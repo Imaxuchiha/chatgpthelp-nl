@@ -1,0 +1,67 @@
+{
+ "keyword": "openai beslismodel",
+ "seo_title": "OpenAI beslismodel: concurrent voor Jev nu breed beschikbaar",
+ "title": "OpenAI maakt beslismodel breed beschikbaar als concurrentie met Jev groeit",
+ "meta": "OpenAI heeft zijn beslismodel voor iedereen opengesteld. Lees wat het model doet, hoe het zich met Jev meet en wat dit voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "jev",
+  "beslismodel",
+  "ai-modellen",
+  "besluitvorming"
+ ],
+ "intro": "OpenAI heeft zijn beslismodel wereldwijd beschikbaar gemaakt. Het bedrijf mengt zich daarmee in de strijd om modellen die keuzes onderbouwen. TechCrunch meldt dat de concurrentie met Jev, de eerdere naam op dit terrein, daarmee toeneemt.",
+ "takeaways": [
+  "OpenAI stelt zijn beslismodel nu breed beschikbaar, niet alleen aan een selecte groep.",
+  "Het model moet concurreren met Jev, dat al langer bestaat.",
+  "TechCrunch noemt de stap een teken dat de markt voor beslismodellen heter wordt.",
+  "Details over prijs, limieten en beschikbaarheid in Nederland noemt OpenAI nog niet."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI aankondigde",
+   "body": "OpenAI zet zijn beslismodel open voor een breed publiek. TechCrunch schrijft dat het bedrijf het model eerder beperkt hield en nu de stap naar algemene beschikbaarheid maakt. Het gaat om een model dat is bedoeld voor het nemen en onderbouwen van beslissingen.\n\nWat het model precies kan, blijft in de berichtgeving globaal. OpenAI geeft volgens TechCrunch geen volledige lijst van toepassingen. Duidelijk is dat het bedrijf het model positioneert als antwoord op Jev.\n\nDe aankondiging komt op een moment dat meerdere partijen zich op dit terrein roeren. TechCrunch spreekt van een oplopende wedloop tussen aanbieders van beslismodellen."
+  },
+  {
+   "heading": "Wie is Jev",
+   "body": "Jev is de naam die TechCrunch gebruikt voor de gevestigde speler op dit gebied. Het model bestond al voordat OpenAI met een eigen variant kwam. TechCrunch noemt Jev de oorspronkelijke concurrent waar OpenAI zich tegen afzet.\n\nOver de precieze prestaties van beide modellen zegt de berichtgeving weinig. Een vergelijking op cijfers of testresultaten ontbreekt. Wat vaststaat, is dat OpenAI Jev nu serieus als tegenstander ziet.\n\nVoor gebruikers betekent dat mogelijk meer keuze. Welke partij beter presteert, is op basis van de beschikbare informatie nog niet te zeggen."
+  },
+  {
+   "heading": "Waarom beslismodellen aandacht krijgen",
+   "body": "Een beslismodel helpt bij het afwegen van opties. Je kunt denken aan het beoordelen van aanvragen, het kiezen tussen scenario's of het onderbouwen van een advies. Zulke taken komen in veel organisaties terug.\n\nTechCrunch plaatst de stap van OpenAI in een bredere beweging. Aanbieders richten zich steeds vaker op modellen die niet alleen tekst maken, maar ook een afweging kunnen uitleggen. De vraag naar dat soort ondersteuning groeit.\n\nHoe groot die markt is, maakt de berichtgeving niet duidelijk. Concrete omzetcijfers of aantallen gebruikers noemt TechCrunch niet."
+  },
+  {
+   "heading": "Wat nog onbekend is",
+   "body": "OpenAI heeft volgens TechCrunch nog geen prijs genoemd. Ook is niet bekend of het model in de Europese Unie meteen te gebruiken is. Nederlanders die het willen proberen, moeten dus nog afwachten.\n\nDe voorwaarden waaronder het model beschikbaar komt, blijven eveneens open. Denk aan limieten per gebruiker of eisen aan zakelijk gebruik. TechCrunch geeft daar geen uitsluitsel over.\n\nOok over een releasedatum voor specifieke landen zegt de berichtgeving niets. Zodra OpenAI meer bekendmaakt, wordt dat duidelijk."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die nu al met beslismodellen werken, kan de komst van OpenAI's model extra opties opleveren. Let wel op de Europese regels rond AI en gegevensbescherming. Of het model hier direct beschikbaar is, is nog niet bekend. Wil je het inzetten voor gevoelige beslissingen, vraag dan eerst naar de voorwaarden en de locatie waar gegevens worden verwerkt.",
+ "faq": [
+  {
+   "q": "Wat is een beslismodel precies?",
+   "a": "Een beslismodel is een AI-model dat helpt bij het afwegen van opties en het onderbouwen van een keuze. Het gaat verder dan tekst genereren: het model weegt argumenten en komt met een advies."
+  },
+  {
+   "q": "Is het OpenAI-beslismodel al in Nederland te gebruiken?",
+   "a": "Dat is nog niet bekend. OpenAI heeft volgens TechCrunch geen details gegeven over beschikbaarheid per land of regio."
+  },
+  {
+   "q": "Wat kost het beslismodel van OpenAI?",
+   "a": "Een prijs is nog niet genoemd. TechCrunch meldt niets over tarieven of abonnementen voor het model."
+  }
+ ],
+ "slug": "openai-maakt-beslismodel-breed-beschikbaar-als-concurrentie-met-jev-gr",
+ "kind": "news",
+ "date": "2026-10-24",
+ "published": "2026-10-24T10:15",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+  }
+ ],
+ "path": "/nieuws/openai-maakt-beslismodel-breed-beschikbaar-als-concurrentie-met-jev-gr/",
+ "og": "/img/og/openai-maakt-beslismodel-breed-beschikbaar-als-concurrentie-met-jev-gr.png"
+}

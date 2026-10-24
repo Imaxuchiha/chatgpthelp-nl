@@ -2075,6 +2075,26 @@
   "f490e9c8ed": {
    "at": "2026-10-23T21:57:20.535795",
    "why": "ok"
+  },
+  "f699a3e5cd": {
+   "at": "2026-10-24T10:14:30.792193",
+   "why": "ok"
+  },
+  "f9113fa394": {
+   "at": "2026-10-24T10:15:30.792193",
+   "why": "poort"
+  },
+  "29a87826b8": {
+   "at": "2026-10-24T10:15:30.792193",
+   "why": "high-risk"
+  },
+  "5d20427641": {
+   "at": "2026-10-24T10:15:30.792193",
+   "why": "ok"
+  },
+  "d26ae9b2d9": {
+   "at": "2026-10-24T10:16:30.792193",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2428,6 +2448,9 @@
   "Canva lanceert eigen AI-model Canva Craft voor ontwerpen",
   "OpenAI schaalt opslag voor ChatGPT naar 1 miljard gebruikers",
   "OpenAI scherpt beveiliging aan rond training van frontier-modellen",
-  "Block lanceert Dessa: een AI-model dat praat als een nieuwe vriend"
+  "Block lanceert Dessa: een AI-model dat praat als een nieuwe vriend",
+  "OpenAI stopt training op live internet vanwege risico's",
+  "OpenAI maakt beslismodel breed beschikbaar als concurrentie met Jev groeit",
+  "AI medische diagnose: Microsoft verslaat artsen bij lastige cases"
  ]
 }

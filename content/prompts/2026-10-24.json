@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: eindejaarsgesprek voorbereiden met bewijs",
+ "situation": "Gebruik dit vlak voor je functionerings- of eindejaarsgesprek, als je je resultaten wilt onderbouwen zonder dat het opschepperig klinkt.",
+ "prompt": "Je bent een ervaren HR-adviseur in Nederland. Ik bereid mijn eindejaarsgesprek voor met mijn leidinggevende. Mijn functie is [FUNCTIE] bij [SOORT ORGANISATIE]. Mijn doelen dit jaar waren: [DOELEN]. Wat ik heb bereikt: [RESULTATEN, MET CIJFERS OF VOORBEELDEN]. Waar het minder liep: [TEGENVALLERS EN OORZAKEN]. Mijn wens voor volgend jaar: [WENS, BIJV. SALARISSTAP, OPLEIDING, ANDER TAKENPAKKET]. Maak een gespreksvoorbereiding van maximaal één A4 met: 1) drie kernpunten die mijn bijdrage concreet onderbouwen, elk met bewijs; 2) een eerlijke manier om een tegenvaller te benoemen plus wat ik daarvan heb geleerd; 3) drie open vragen die ik aan mijn leidinggevende stel; 4) een korte zin waarmee ik mijn wens voor volgend jaar op tafel leg. Houd de toon nuchter en vermijd holle termen. Geef daarna drie kritische vragen die mijn leidinggevende waarschijnlijk stelt, met een kort antwoord.",
+ "tip": "Vul bij resultaten echte cijfers of voorbeelden in; hoe concreter je input, hoe sterker de onderbouwing.",
+ "tags": [
+  "werk",
+  "eindejaarsgesprek",
+  "carrière",
+  "prompt"
+ ],
+ "date": "2026-10-24",
+ "slug": "prompt-eindejaarsgesprek-voorbereiden-met-bewijs",
+ "path": "/prompts/2026-10-24-prompt-eindejaarsgesprek-voorbereiden-met-bewijs/"
+}

@@ -1,0 +1,67 @@
+{
+ "keyword": "n8n review",
+ "seo_title": "n8n review: eerlijk oordeel van een performance-marketeer",
+ "title": "n8n review: prima tool, maar ik codeer liever zelf",
+ "meta": "Mijn n8n review: prima voor simpele automatiseringen, maar voor serieuze logica schrijf ik liever direct code met AI. Lees mijn eerlijke oordeel.",
+ "category": "mening",
+ "tags": [
+  "n8n",
+  "automatisering",
+  "AI-agents",
+  "performance marketing",
+  "tools"
+ ],
+ "intro": "n8n is prima. Ik draai het zelf op een eigen server en het doet wat het moet doen. Maar voor serieuze logica pak ik liever Claude Code en schrijf ik het direct in code. n8n is een handige tussenstap, geen eindstation.",
+ "takeaways": [
+  "n8n is goed voor snelle, simpele koppelingen en automatiseringen.",
+  "Voor complexe logica is direct coderen met AI sneller en flexibeler.",
+  "Zelf hosten is geen probleem, maar de echte winst zit in wat je eromheen bouwt."
+ ],
+ "sections": [
+  {
+   "heading": "Waarvoor ik het gebruik",
+   "body": "Ik gebruik n8n voor taken die te klein zijn om er code voor te schrijven. Denk aan het doorsturen van leads uit een formulier naar een Google Sheet, of een melding in Slack als een campagne een bepaalde drempel passeert. Het is een soort digitale ducttape.\n\nIk draai het op mijn eigen server. Dat scheelt weer een abonnement en ik heb volledige controle over de data. Voor een bureau met klantgegevens is dat geen overbodige luxe.\n\nMaar ik bouw er geen ingewikkelde agents mee. Die schrijf ik liever in Python of JavaScript, met Claude Code als hulp. Dan heb ik geen visuele flow nodig die ik moet ontwarren."
+  },
+  {
+   "heading": "Wat goed is",
+   "body": "De kracht van n8n is het aantal integraties. Je klikt een paar nodes aan elkaar en je hebt een werkende koppeling. Voor een marketeer die geen developer is, is dat ideaal. Je hoeft niet te wachten op een IT-afdeling.\n\nOok fijn: het draait stabiel. Ik heb zelden gedoe met de server of met workflows die spontaan stoppen. En als er iets misgaat, zie je in de execution history precies waar het fout liep.\n\nVoor eenmalige taken of snelle prototypes is n8n sneller dan code schrijven. Als ik even een CSV moet omzetten of een webhook moet testen, staat het binnen vijf minuten."
+  },
+  {
+   "heading": "Wat tegenvalt",
+   "body": "Zodra de logica complexer wordt, wordt n8n een wirwar van nodes en pijlen. Een simpele if-else is nog te doen, maar zodra je loops, foutafhandeling en state nodig hebt, is een visuele flow juist omslachtig. Dan ben je langer bezig met het uitzoeken van de flow dan met het schrijven van tien regels code.\n\nOok het debuggen is niet mijn favoriet. Je klikt je door execution logs heen en moet per node kijken wat er misging. In code zet ik een print statement neer en ik zie direct de waarde. Met Claude Code laat ik de AI zelfs de fout opsporen en voorstellen doen.\n\nDaarom gebruik ik n8n alleen voor rechte lijnen. Zodra er vertakkingen of wachttijden in zitten, stap ik over op code."
+  },
+  {
+   "heading": "Voor wie is het wel?",
+   "body": "n8n is top voor ondernemers die geen code willen schrijven, maar wel hun processen willen automatiseren. Een marketeer die leads uit Facebook Ads naar een CRM wil sturen, heeft n8n in een middag draaien. Zonder developer.\n\nOok voor kleine teams is het handig. Je bouwt een paar workflows en iedereen kan ze gebruiken. De leercurve is vriendelijker dan die van een programmeertaal.\n\nMaar als je al met AI werkt en code laat genereren, is n8n vaak een omweg. Voor mij is het een gereedschap dat ik erbij pak, geen basis waarop ik mijn bureau bouw."
+  },
+  {
+   "heading": "Mijn eindoordeel",
+   "body": "n8n is een prima tool. Het doet wat het belooft en het is gratis te self-hosten. Voor simpele automatiseringen is het sneller dan code schrijven.\n\nVoor serieuze logica kies ik echter voor direct coderen met AI. Dat geeft me meer controle, betere testmogelijkheden en uiteindelijk minder gedoe.\n\nDus: gebruik n8n gerust voor je koppelingen en kleine taken. Maar verwacht er geen volledige AI-agents van. Die bouw je beter in code."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ondernemers: begin met n8n als je geen developer bent en snel dingen wilt automatiseren. Het is gratis te draaien op een eigen server en je bent niet afhankelijk van dure SaaS. Maar als je al met AI werkt en code laat schrijven, overweeg dan direct Python of JavaScript. Dan bouw je iets dat meegroeit met je bedrijf.",
+ "faq": [
+  {
+   "q": "Is n8n gratis?",
+   "a": "Ja, je kunt n8n zelf hosten op je eigen server en dan is het gratis. Er zijn ook betaalde cloud-versies."
+  },
+  {
+   "q": "Is n8n moeilijk om te leren?",
+   "a": "Voor simpele workflows niet. Je klikt nodes aan elkaar en het werkt. Voor complexe logica wordt het al snel onoverzichtelijk."
+  },
+  {
+   "q": "Kan ik n8n gebruiken voor AI-agents?",
+   "a": "Dat kan voor eenvoudige taken, maar voor serieuze agents met state en foutafhandeling is code schrijven met AI vaak beter."
+  }
+ ],
+ "lessons_used": [],
+ "slug": "n8n-review-prima-tool-maar-ik-codeer-liever-zelf",
+ "kind": "review",
+ "date": "2026-10-24",
+ "published": "2026-10-24T10:14",
+ "sources": [],
+ "path": "/mening/n8n-review-prima-tool-maar-ik-codeer-liever-zelf/",
+ "og": "/img/og/n8n-review-prima-tool-maar-ik-codeer-liever-zelf.png",
+ "tool": "n8n",
+ "author": "Maxim"
+}
