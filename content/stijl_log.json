@@ -3120,5 +3120,43 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-24T16:50:23",
+  "slug": "",
+  "title": "AI-deepfakes in Spanje: PP verspreidt nepvideo's over PSOE",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-24T16:50:34",
+  "slug": "",
+  "title": "AI-lab laat robots zelf nieuwe metalen ontwikkelen",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-24T16:50:44",
+  "slug": "",
+  "title": "AI-agenten in je sms: wat TechCrunch zag en wat jij merkt",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

@@ -2095,6 +2095,22 @@
   "d26ae9b2d9": {
    "at": "2026-10-24T10:16:30.792193",
    "why": "ok"
+  },
+  "15f927daaa": {
+   "at": "2026-10-24T16:50:08.768167",
+   "why": "ok"
+  },
+  "7467cf4016": {
+   "at": "2026-10-24T16:51:08.768167",
+   "why": "ok"
+  },
+  "2cdd9fc206": {
+   "at": "2026-10-24T16:52:08.768167",
+   "why": "high-risk"
+  },
+  "4a535eced6": {
+   "at": "2026-10-24T16:52:08.768167",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2451,6 +2467,9 @@
   "Block lanceert Dessa: een AI-model dat praat als een nieuwe vriend",
   "OpenAI stopt training op live internet vanwege risico's",
   "OpenAI maakt beslismodel breed beschikbaar als concurrentie met Jev groeit",
-  "AI medische diagnose: Microsoft verslaat artsen bij lastige cases"
+  "AI medische diagnose: Microsoft verslaat artsen bij lastige cases",
+  "AI-deepfakes in Spanje: PP verspreidt nepvideo's over PSOE",
+  "AI-lab laat robots zelf nieuwe metalen ontwikkelen",
+  "AI-agenten in je sms: wat TechCrunch zag en wat jij merkt"
  ]
 }

@@ -1,0 +1,67 @@
+{
+ "keyword": "ai-agenten in sms",
+ "seo_title": "AI-agenten in sms: wat TechCrunch zag en wat jij merkt",
+ "title": "AI-agenten in je sms: wat TechCrunch zag en wat jij merkt",
+ "meta": "TechCrunch zette AI-agenten op een rij die in je sms-berichten leven. Zo werken ze, wat ze kosten en wat dit voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "ai-agenten",
+  "sms",
+  "chatgpt",
+  "techcrunch",
+  "assistenten"
+ ],
+ "intro": "TechCrunch publiceerde een overzicht van AI-agenten die je via sms-berichten kunt gebruiken. Het gaat om algemene assistenten en om hulpjes voor gezin, reizen en werk. Voor Nederland is vooral interessant hoe zulke diensten hier landen en wat je ervoor betaalt.",
+ "takeaways": [
+  "TechCrunch noemt AI-agenten die je via sms kunt aanspreken, van algemene assistenten tot hulpjes voor gezin, reizen en werk.",
+  "Het overzicht is een selectie van opvallende voorbeelden, geen volledige marktanalyse.",
+  "TechCrunch noemt geen prijzen in euro's of beschikbaarheid in Nederland.",
+  "Of deze agenten hier werken, hangt af van de aanbieder en van Europese regels voor AI."
+ ],
+ "sections": [
+  {
+   "heading": "Wat staat er in het overzicht",
+   "body": "TechCrunch maakte een lijst van AI-agenten die in je tekstberichten leven. Je stuurt een sms en de agent antwoordt, zonder dat je een aparte app opent. Het overzicht loopt van algemene assistenten tot agenten voor gezinnen, reizen en werk.\n\nHet is een selectie van opvallende voorbeelden. TechCrunch zegt niet hoeveel mensen deze agenten gebruiken. Er staan ook geen prijzen of releasedata bij in de samenvatting."
+  },
+  {
+   "heading": "Waarom sms als ingang",
+   "body": "Sms werkt op vrijwel elke telefoon, ook zonder app-store of snelle verbinding. Dat maakt het een lage drempel voor mensen die geen nieuwe app willen leren. Een agent in je berichtenlijst voelt bovendien vertrouwd.\n\nIn Nederland is sms vooral bekend van bankcodes en afspraken bij de huisarts. Of een AI-agent daar tussen past, is nog niet bekend. De bronnen zeggen niets over Nederlandse aanbieders."
+  },
+  {
+   "heading": "Wat je moet weten voor je het probeert",
+   "body": "Een agent die met je meeleest in berichten krijgt veel persoonlijke informatie. Let op welke gegevens je deelt en of de aanbieder in de Europese Unie actief is. TechCrunch gaat daar in het overzicht niet op in.\n\nOok de kosten blijven onduidelijk. Amerikaanse diensten rekenen vaak in dollars per maand, soms met een gratis proefperiode. Zulke bedragen zeggen weinig over de prijs in euro's, want btw en omrekenkoers komen er nog bij."
+  },
+  {
+   "heading": "Wat TechCrunch niet noemt",
+   "body": "Het overzicht is een momentopname. Nieuwe agenten verschijnen snel en oude verdwijnen weer. TechCrunch noemt geen gebruikersaantallen en geen prestatietests.\n\nEr is ook geen vergelijking met ChatGPT, Claude of Gemini als sms-agent. Die vraag blijft voor nu open."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders verandert er vandaag weinig concreet. TechCrunch noemt geen enkele agent die hier al werkt of in euro's te betalen is. Wil je zo'n dienst gebruiken, check dan eerst of de aanbieder in de EU actief is en hoe die met je gegevens omgaat. Europese regels voor AI en privacy gelden hier strenger dan in de VS. Bedrijven die een sms-agent voor klanten overwegen, doen er goed aan eerst de voorwaarden en de dataverwerking te lezen.",
+ "faq": [
+  {
+   "q": "Wat is een AI-agent in je sms?",
+   "a": "Een dienst die je via tekstberichten aanspreekt en die zelf antwoord geeft. TechCrunch noemt voorbeelden voor algemeen gebruik, gezin, reizen en werk."
+  },
+  {
+   "q": "Zijn deze AI-agenten in Nederland beschikbaar?",
+   "a": "Dat is niet bekend. TechCrunch noemt geen beschikbaarheid per land en geen prijzen in euro's."
+  },
+  {
+   "q": "Wat kost een AI-agent via sms?",
+   "a": "TechCrunch geeft geen prijzen. Amerikaanse diensten rekenen vaak in dollars per maand, maar bedragen in euro's zijn nog niet bekend."
+  }
+ ],
+ "slug": "ai-agenten-in-je-sms-wat-techcrunch-zag-en-wat-jij-merkt",
+ "kind": "news",
+ "date": "2026-10-24",
+ "published": "2026-10-24T16:52",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+  }
+ ],
+ "path": "/nieuws/ai-agenten-in-je-sms-wat-techcrunch-zag-en-wat-jij-merkt/",
+ "og": "/img/og/ai-agenten-in-je-sms-wat-techcrunch-zag-en-wat-jij-merkt.png"
+}
