@@ -3158,5 +3158,58 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-24T20:44:36",
+  "slug": "",
+  "title": "AI-miljonairs betalen half miljoen dollar voor dating",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-24T20:44:45",
+  "slug": "",
+  "title": "Pennsylvania verplicht etiket op AI-reclame",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-24T20:44:52",
+  "slug": "",
+  "title": "Claude Duet is Anthropic's agent-app, nu via wachtlijst",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-24T20:45:02",
+  "slug": "",
+  "title": "DeepSeek haalt 15 miljard op, dagen na Amerikaanse beperkingen",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

@@ -1,0 +1,64 @@
+{
+ "keyword": "ai-reclame etiket",
+ "seo_title": "AI-reclame etiket verplicht in Pennsylvania",
+ "title": "Pennsylvania verplicht etiket op AI-reclame",
+ "meta": "Pennsylvania verplicht een etiket op advertenties die met AI zijn gemaakt of flink aangepast. Lees wat de wet eist en wat dit voor Nederland betekent.",
+ "category": "beleid",
+ "tags": [
+  "ai-reclame",
+  "pennsylvania",
+  "wetgeving",
+  "transparantie",
+  "advertenties"
+ ],
+ "intro": "Advertenties in Pennsylvania die flink door kunstmatige intelligentie zijn gemaakt of aangepast, krijgen een verplicht etiket. Gouverneur Josh Shapiro ondertekende donderdag de Artificial Intelligence Deceptive Advertising Act. De wet geldt voor beeld, video, audio en tekst. Wie zich er niet aan houdt, kan een boete krijgen.",
+ "takeaways": [
+  "Pennsylvania eist een etiket op advertenties die significant door AI zijn gemaakt of aangepast",
+  "De regel geldt voor stilstaand beeld, video, audio en tekst",
+  "De openbare aanklager van de staat kan optreden bij overtredingen",
+  "De wet trad donderdag in werking na ondertekening door gouverneur Shapiro"
+ ],
+ "sections": [
+  {
+   "heading": "Wat de wet precies eist",
+   "body": "Elke advertentie die significant door AI is gemaakt of aangepast, moet een label krijgen. Dat label moet in hetzelfde formaat als de advertentie zelf, meldt The Verge. Bij een video komt er dus een aanduiding in beeld, bij audio een gesproken of zichtbare vermelding.\n\nDe wet noemt vier vormen: een stilstaand beeld, een video, audio en tekst. De eis geldt dus ook voor een advertentietekst die grotendeels door een taalmodel is geschreven. De precieze vorm van het label staat nog niet in de bronnen."
+  },
+  {
+   "heading": "Wie houdt er toezicht",
+   "body": "De openbare aanklager van Pennsylvania kan optreden tegen overtreders. De wet geeft die functionaris de bevoegdheid om zaken aan te pakken. Welke boete er precies aan vastzit, is nog niet bekend.\n\nOok is onduidelijk vanaf wanneer handhaving echt begint. De bronnen noemen alleen de ondertekening op donderdag. Of er een overgangsperiode geldt, staat er niet bij."
+  },
+  {
+   "heading": "Waarom staten dit zelf regelen",
+   "body": "In de Verenigde Staten ontbreekt een landelijke regel voor AI-labels in advertenties. Staten vullen dat gat op. Pennsylvania is niet de eerste, maar de bronnen noemen geen andere staten bij naam.\n\nVoor adverteerders betekent dit een lappendeken aan regels. Een campagne die in meerdere staten loopt, moet per staat checken wat er geldt. Dat kost tijd en geld."
+  }
+ ],
+ "nl_angle": "In Nederland en de EU geldt de AI-verordening, die transparantie eist bij AI-content. Een advertentie die duidelijk AI-gegenereerd is, moet herkenbaar zijn voor de kijker. De precieze invulling loopt via Europese regels en toezichthouders, niet via een aparte Amerikaanse staatsweg. Werk je vanuit Nederland voor Amerikaanse klanten, dan krijg je met de Pennsylvania-regel te maken zodra je daar adverteert. Check per markt wat er op het etiket moet staan.",
+ "faq": [
+  {
+   "q": "Geldt de AI-reclamewet in Pennsylvania ook voor Nederlandse bedrijven?",
+   "a": "Ja, als je advertenties in Pennsylvania vertoont. De wet kijkt naar waar de advertentie verschijnt, niet naar waar het bedrijf zit."
+  },
+  {
+   "q": "Moet elke AI-advertentie een etiket krijgen?",
+   "a": "Alleen als de advertentie significant door AI is gemaakt of aangepast. Bij kleine aanpassingen, zoals een bijgesneden foto, geldt de eis waarschijnlijk niet."
+  },
+  {
+   "q": "Wie controleert de naleving?",
+   "a": "De openbare aanklager van Pennsylvania kan optreden. De bronnen noemen geen aparte toezichthouder of boetebedrag."
+  }
+ ],
+ "slug": "pennsylvania-verplicht-etiket-op-ai-reclame",
+ "kind": "news",
+ "date": "2026-10-24",
+ "published": "2026-10-24T20:44",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Pennsylvania will require labels on AI-generated ads",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+  }
+ ],
+ "path": "/beleid/pennsylvania-verplicht-etiket-op-ai-reclame/",
+ "og": "/img/og/pennsylvania-verplicht-etiket-op-ai-reclame.png",
+ "take": "Een etiket op AI-reclame in Pennsylvania is prima, want nep-reclame aanpakken kost weinig en levert eerlijkheid op. Maar de knop blijft bij een mens: AI mag de advertentie maken, ik bepaal of hij live gaat. In Nederland hebben we zo'n wet nog niet, dus houd ik het voorlopig op zelf eerlijk zijn."
+}

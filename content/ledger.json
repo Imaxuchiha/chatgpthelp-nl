@@ -2111,6 +2111,26 @@
   "4a535eced6": {
    "at": "2026-10-24T16:52:08.768167",
    "why": "ok"
+  },
+  "70ef3e7dcf": {
+   "at": "2026-10-24T20:44:26.667795",
+   "why": "poort"
+  },
+  "09a5dda451": {
+   "at": "2026-10-24T20:44:26.667795",
+   "why": "ok"
+  },
+  "e4ac1d3f29": {
+   "at": "2026-10-24T20:45:26.667795",
+   "why": "high-risk"
+  },
+  "8e16d6a954": {
+   "at": "2026-10-24T20:45:26.667795",
+   "why": "ok"
+  },
+  "2bef5e1553": {
+   "at": "2026-10-24T20:46:26.667795",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2470,6 +2490,9 @@
   "AI medische diagnose: Microsoft verslaat artsen bij lastige cases",
   "AI-deepfakes in Spanje: PP verspreidt nepvideo's over PSOE",
   "AI-lab laat robots zelf nieuwe metalen ontwikkelen",
-  "AI-agenten in je sms: wat TechCrunch zag en wat jij merkt"
+  "AI-agenten in je sms: wat TechCrunch zag en wat jij merkt",
+  "Pennsylvania verplicht etiket op AI-reclame",
+  "Claude Duet is Anthropic's agent-app, nu via wachtlijst",
+  "DeepSeek haalt 15 miljard op, dagen na Amerikaanse beperkingen"
  ]
 }

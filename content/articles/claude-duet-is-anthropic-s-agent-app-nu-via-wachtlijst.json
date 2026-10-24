@@ -1,0 +1,67 @@
+{
+ "keyword": "claude duet anthropic",
+ "seo_title": "Claude Duet: Anthropic's agent-app nu via wachtlijst",
+ "title": "Claude Duet is Anthropic's agent-app, nu via wachtlijst",
+ "meta": "Claude Duet is Anthropic's nieuwe app voor agents. Pro- en Max-gebruikers kunnen zich op de wachtlijst zetten. Dit betekent het voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "claude",
+  "anthropic",
+  "ai-agents",
+  "claude duet",
+  "ai-tools"
+ ],
+ "intro": "Anthropic heeft een nieuwe app uitgebracht: Claude Duet. De app draait om agents, software die taken zelfstandig uitvoert. Volgens TechCrunch is Claude Duet beschikbaar via een wachtlijst voor gebruikers met een Pro- of Max-abonnement.",
+ "takeaways": [
+  "Claude Duet is Anthropic's app die draait om agents.",
+  "Toegang gaat via een wachtlijst, niet direct voor iedereen.",
+  "De app is bedoeld voor gebruikers met een Pro- of Max-plan.",
+  "Anthropic zet met Duet duidelijk in op agents als volgende stap."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Claude Duet is",
+   "body": "Claude Duet is een app van Anthropic rond agents. Een agent is software die een taak in meerdere stappen uitvoert, met minder tussenkomst van de gebruiker. TechCrunch noemt Duet de manier waarop Anthropic inzet op agents.\n\nDe app is nog niet voor iedereen open. Je komt binnen via een wachtlijst. Volgens TechCrunch geldt die wachtlijst voor gebruikers met een Pro- of Max-abonnement."
+  },
+  {
+   "heading": "Wachtlijst in plaats van openbare lancering",
+   "body": "Anthropic kiest voor een gefaseerde uitrol. Wie wil meedoen, zet zich op de wachtlijst en wacht op toegang. Daarmee blijft het aantal gebruikers in het begin beperkt.\n\nOver de wachttijd zegt Anthropic nog niets. Ook is niet bekend hoeveel mensen per week worden toegelaten. TechCrunch meldt alleen dat de app via de wachtlijst beschikbaar is voor Pro en Max."
+  },
+  {
+   "heading": "Waarom agents de volgende stap zijn",
+   "body": "Chatbots geven antwoord op een vraag. Agents gaan verder: die pakken een opdracht op en werken die stap voor stap af. Anthropic positioneert Claude Duet in dat gat.\n\nConcurrenten bewegen dezelfde kant op. OpenAI en Google bouwen ook aan functies waarbij hun modellen taken uitvoeren. Voor gebruikers wordt de vraag steeds vaker welke agent het werk betrouwbaar afmaakt."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Details over de werking van Claude Duet zijn schaars. TechCrunch geeft geen lijst van taken die de app aankan. Prijzen voor losse toegang noemt de bron niet.\n\nOok over een Europese of Nederlandse uitrol zegt Anthropic niets. De wachtlijst is het enige toegangspunt dat nu bekend is."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders met een Claude Pro- of Max-abonnement is de wachtlijst het enige toegangspunt. Reken dus op wachten, niet op direct gebruik. Let op de abonnementskosten in euro's en op de vraag of je gegevens binnen de EU blijven. Anthropic heeft nog niet gezegd wanneer Claude Duet in Nederland breder beschikbaar komt.",
+ "faq": [
+  {
+   "q": "Wat is Claude Duet?",
+   "a": "Claude Duet is een app van Anthropic die draait om agents: software die taken in meerdere stappen zelfstandig uitvoert."
+  },
+  {
+   "q": "Kan ik Claude Duet al gebruiken in Nederland?",
+   "a": "Alleen via de wachtlijst, en volgens TechCrunch voor gebruikers met een Pro- of Max-abonnement. Een datum voor bredere toegang is niet bekend."
+  },
+  {
+   "q": "Wat kost Claude Duet?",
+   "a": "Over losse prijzen voor de app zegt Anthropic nog niets. Toegang loopt via de wachtlijst voor Pro- en Max-abonnees."
+  }
+ ],
+ "slug": "claude-duet-is-anthropic-s-agent-app-nu-via-wachtlijst",
+ "kind": "news",
+ "date": "2026-10-24",
+ "published": "2026-10-24T20:45",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Claude Duet app is Anthropic’s bet on agents",
+   "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
+  }
+ ],
+ "path": "/nieuws/claude-duet-is-anthropic-s-agent-app-nu-via-wachtlijst/",
+ "og": "/img/og/claude-duet-is-anthropic-s-agent-app-nu-via-wachtlijst.png"
+}
