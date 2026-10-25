@@ -1,0 +1,64 @@
+{
+ "keyword": "ai hacken china",
+ "seo_title": "AI hacken: China beperkt risico's van eigen modellen",
+ "title": "AI wordt beter in hacken: China grijpt in bij eigen modellen",
+ "meta": "Chinese overheid en AI-bedrijven zoals Moonshot AI beperken de cyberaanvalsmogelijkheden van hun modellen. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "hacken",
+  "china",
+  "moonshot ai",
+  "cybersecurity"
+ ],
+ "intro": "AI-modellen worden steeds vaardiger in het uitvoeren van cyberaanvallen. China probeert dat tij te keren, zowel via de overheid als bij de AI-bedrijven zelf. Moonshot AI heeft de aanvalsmogelijkheden van zijn nieuwste model bewust ingeperkt, meldt Bright. Dat raakt ook organisaties in Nederland die met Chinese AI werken.",
+ "takeaways": [
+  "Moonshot AI beperkt de cyberaanvalsmogelijkheden van zijn nieuwste model bewust.",
+  "De Chinese overheid zet net als AI-bedrijven in op het verkleinen van AI-risico's.",
+  "AI-systemen blijken tot meer in staat op het gebied van hacken dan veel partijen dachten.",
+  "Voor Nederlandse bedrijven is het relevant welke beperkingen leveranciers zelf inbouwen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er aan de hand is",
+   "body": "AI-modellen worden steeds beter in het vinden en benutten van zwakke plekken in systemen. Dat blijkt uit wat systemen in de praktijk laten zien, schrijft Bright. Moonshot AI, een Chinees bedrijf achter eigen AI-modellen, heeft daarom de cyberaanvalsmogelijkheden van zijn nieuwste model bewust beperkt.\n\nDat is opvallend. Een maker van AI kiest er dus voor om een deel van de capaciteit van het model af te knijpen. Het bedrijf ziet kennelijk waar het model toe in staat is en grijpt in voordat anderen dat kunnen misbruiken."
+  },
+  {
+   "heading": "Overheid en bedrijven trekken samen op",
+   "body": "De Chinese overheid mengt zich ook in de discussie. Zowel de overheid als AI-bedrijven zet alles op alles om de risico's van AI te beperken, staat in de berichtgeving. Dat betekent niet dat alle problemen daarmee weg zijn. Het laat wel zien dat China het onderwerp serieus neemt.\n\nHoe die aanpak er precies uitziet, is nog niet volledig bekend. Duidelijk is dat een grote AI-maker als Moonshot AI zelf maatregelen neemt, los van wat er wettelijk verplicht is."
+  },
+  {
+   "heading": "Waarom dit telt voor cybersecurity",
+   "body": "Een model dat goed is in hacken, is in handen van kwaadwillenden een risico. Het kan sneller zwakke plekken vinden en aanvallen opzetten. Beperkingen inbouwen bij de bron is dan een van de weinige plekken waar je kunt ingrijpen.\n\nTegelijk roept het vragen op. Welke mogelijkheden worden afgeknepen, en wie bepaalt dat? Daar geeft de berichtgeving nog geen antwoord op."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse organisaties die met Chinese AI-modellen werken, is het goed om te weten dat leveranciers zelf beperkingen inbouwen. Dat zegt iets over de risico's die zij zien. Wie AI inzet voor beveiligingstests, merkt mogelijk dat een model minder doet dan verwacht. Bedrijven die juist afhankelijk zijn van één leverancier, doen er verstandig aan te checken welke beperkingen gelden. In de EU gelden daarnaast eigen regels voor AI, maar hoe die zich verhouden tot Chinese maatregelen is nog niet duidelijk.",
+ "faq": [
+  {
+   "q": "Wat heeft Moonshot AI precies gedaan?",
+   "a": "Het bedrijf heeft de cyberaanvalsmogelijkheden van zijn nieuwste AI-model bewust beperkt. Welke onderdelen precies zijn afgeknepen, is niet bekend."
+  },
+  {
+   "q": "Waarom grijpt China in bij AI?",
+   "a": "Zowel de overheid als AI-bedrijven wil de risico's van AI verkleinen. AI wordt steeds beter in hacken, en dat levert gevaren op."
+  },
+  {
+   "q": "Wat betekent dit voor bedrijven in Nederland?",
+   "a": "Als je Chinese AI-modellen gebruikt, kan het uitmaken welke beperkingen de leverancier heeft ingebouwd. Check dat voordat je zo'n model inzet voor beveiligingstests."
+  }
+ ],
+ "slug": "ai-wordt-beter-in-hacken-china-grijpt-in-bij-eigen-modellen",
+ "kind": "news",
+ "date": "2026-10-25",
+ "published": "2026-10-25T19:55",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "AI wordt steeds beter in hacken, maar China probeert daar iets aan te doen",
+   "url": "https://www.bright.nl/nieuws/2151048/ai-wordt-steeds-beter-in-hacken-maar-china-probeert-daar-iets-aan-te-doen.html"
+  }
+ ],
+ "path": "/nieuws/ai-wordt-beter-in-hacken-china-grijpt-in-bij-eigen-modellen/",
+ "og": "/img/og/ai-wordt-beter-in-hacken-china-grijpt-in-bij-eigen-modellen.png",
+ "take": "Een model dat van zichzelf minder gaat hacken is leuk voor de folder, maar de rem zit bij de maker en niet bij de kwaadwillende die hetzelfde model ergens anders draait. Ik vertrouw zo'n ingebouwde grens pas als ik zie dat hij standhoudt bij iemand die er echt kwaad wil. Tot die tijd beoordeel ik AI op wat het oplevert en niet op wat het belooft."
+}

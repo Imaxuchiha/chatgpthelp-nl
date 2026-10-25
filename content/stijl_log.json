@@ -3349,5 +3349,56 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-25T19:56:00",
+  "slug": "",
+  "title": "AI wordt beter in hacken: China grijpt in bij eigen modellen",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-25T19:56:12",
+  "slug": "",
+  "title": "Nieuwsmedia zoeken weg van Google nu AI-antwoorden kliks kosten",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S5",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-25T19:56:23",
+  "slug": "",
+  "title": "OpenAI haalt geavanceerde AI-modellen van het internet",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-25T19:56:43",
+  "slug": "",
+  "title": "AI nieuws week 43: OpenAI blokkeert webtoegang tot krachtigste modellen",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

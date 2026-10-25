@@ -2163,6 +2163,18 @@
   "6401c720ab": {
    "at": "2026-10-25T16:04:04.242757",
    "why": "ok"
+  },
+  "d9f5dd780d": {
+   "at": "2026-10-25T19:55:45.568853",
+   "why": "ok"
+  },
+  "c79fd52d3c": {
+   "at": "2026-10-25T19:56:45.568853",
+   "why": "ok"
+  },
+  "a1ae9d5d5b": {
+   "at": "2026-10-25T19:57:45.568853",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2531,6 +2543,9 @@
   "Google DeepMind maakt wereldkaart van bostypes per 10 meter",
   "AI wearables in één overzicht: van Muse Charm tot Bee en Friend",
   "Google AI zoeken verandert de krantenwereld: wat merkt Nederland?",
-  "AI serving harness: de laag om het model wordt de voorsprong"
+  "AI serving harness: de laag om het model wordt de voorsprong",
+  "AI wordt beter in hacken: China grijpt in bij eigen modellen",
+  "Nieuwsmedia zoeken weg van Google nu AI-antwoorden kliks kosten",
+  "OpenAI haalt geavanceerde AI-modellen van het internet"
  ]
 }

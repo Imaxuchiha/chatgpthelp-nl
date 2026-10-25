@@ -1,0 +1,68 @@
+{
+ "keyword": "openai modellen internet",
+ "seo_title": "OpenAI modellen niet meer op internet: wat verandert er",
+ "title": "OpenAI haalt geavanceerde AI-modellen van het internet",
+ "meta": "OpenAI blokkeert internettoegang voor zijn krachtigste AI-modellen. Lees wat dat betekent voor gebruikers en bedrijven in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-modellen",
+  "internet",
+  "veiligheid",
+  "ai-agents"
+ ],
+ "intro": "OpenAI laat zijn meest geavanceerde AI-modellen niet langer op het internet. De zogenoemde frontier models kunnen nog wel met elkaar communiceren, maar hebben geen toegang meer tot externe websites of diensten. Volgens OpenAI is de maatregel nodig na een reeks negatieve verhalen over de modellen.",
+ "takeaways": [
+  "OpenAI blokkeert internettoegang voor zijn geavanceerde frontier models.",
+  "De modellen kunnen onderling nog wel communiceren via AI-agents.",
+  "OpenAI reageert op negatieve publiciteit rond de modellen.",
+  "Voor Nederlandse gebruikers verandert er voorlopig weinig aan ChatGPT zelf."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies heeft besloten",
+   "body": "OpenAI heeft besloten dat zijn geavanceerde AI-modellen, de frontier models, geen verbinding meer mogen maken met het internet. Dat meldt Bright. De modellen kunnen nog wel met elkaar praten via AI-agents. Die agents zijn programma's die namens een gebruiker taken uitvoeren.\n\nDe maatregel geldt voor de krachtigste modellen van OpenAI. Het bedrijf noemt ze frontier models, oftewel modellen die aan de voorhoede van de techniek staan. Voor gewone ChatGPT-gebruikers verandert er weinig. Zij werken via de app of website van OpenAI, niet via een directe internetverbinding van het model zelf.\n\nOpenAI heeft de afgelopen tijd flink wat negatieve publiciteit gehad over deze modellen. Het bedrijf kan volgens Bright geen nieuwe negatieve verhalen gebruiken. Met de blokkade wil OpenAI de risico's beperken."
+  },
+  {
+   "heading": "Waarom de maatregel nu komt",
+   "body": "De frontier models hebben de afgelopen periode veel aandacht getrokken. Niet altijd op een positieve manier. OpenAI ziet zich genoodzaakt om in te grijpen, zo meldt Bright. De internettoegang van de modellen was een van de punten waar critici naar keken.\n\nDoor de toegang tot het internet af te sluiten, verkleint OpenAI het risico dat de modellen ongewenste acties uitvoeren. Denk aan het bezoeken van websites of het gebruikmaken van externe diensten. De modellen kunnen nog wel onderling communiceren. Dat gebeurt via AI-agents, die als tussenlaag fungeren.\n\nHet is nog niet bekend of de maatregel tijdelijk is of permanent. OpenAI heeft daarover geen uitsluitsel gegeven. Ook is niet duidelijk of de blokkade geldt voor alle frontier models of alleen voor de nieuwste versies."
+  },
+  {
+   "heading": "Wat dit betekent voor AI-agents",
+   "body": "AI-agents blijven dus toegestaan. Deze agents kunnen taken uitvoeren en met elkaar communiceren. Ze werken als het ware als brug tussen de modellen en de buitenwereld. Maar de modellen zelf hebben geen directe internettoegang meer.\n\nVoor ontwikkelaars die agents bouwen, kan dit gevolgen hebben. Zij moeten hun agents mogelijk aanpassen. Het is nog niet bekend welke richtlijnen OpenAI precies hanteert. Duidelijk is wel dat de agents niet zomaar namens de modellen het internet op kunnen.\n\nDe maatregel past bij een bredere trend waarbij AI-bedrijven voorzichtiger omgaan met de toegang van hun modellen tot externe systemen. OpenAI benadrukt dat de veiligheid voorop staat."
+  },
+  {
+   "heading": "Reacties uit de sector",
+   "body": "De beslissing van OpenAI roept vragen op in de AI-sector. Sommige experts vragen zich af of de maatregel de innovatie remt. Anderen juichen de stap toe en zien het als een noodzakelijke veiligheidsmaatregel.\n\nBright meldt dat OpenAI niet reageert op vragen over de precieze redenen. Het bedrijf houdt het bij een korte verklaring. De nadruk ligt op het beperken van risico's en het herstellen van vertrouwen.\n\nHet is nog niet bekend of andere AI-bedrijven het voorbeeld van OpenAI volgen. Concurrenten als Anthropic en Google hebben hun eigen beleid voor internettoegang van modellen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers van ChatGPT verandert er voorlopig weinig. De blokkade geldt voor de geavanceerde modellen die OpenAI intern gebruikt of via een API aanbiedt. Gewone gebruikers werken via de ChatGPT-app of website. Bedrijven die AI-agents bouwen met OpenAI-modellen moeten mogelijk hun code aanpassen. Het is nog niet duidelijk of de maatregel gevolgen heeft voor de prijs of beschikbaarheid van OpenAI-diensten in Nederland. OpenAI heeft daar geen uitspraken over gedaan.",
+ "faq": [
+  {
+   "q": "Wat zijn frontier models van OpenAI?",
+   "a": "Frontier models zijn de meest geavanceerde AI-modellen van OpenAI. Ze staan aan de voorhoede van de techniek en worden gebruikt voor complexe taken."
+  },
+  {
+   "q": "Kan ik nog steeds ChatGPT gebruiken?",
+   "a": "Ja, voor gewone gebruikers verandert er weinig. De maatregel gaat over de internettoegang van de modellen zelf, niet over de ChatGPT-app of website."
+  },
+  {
+   "q": "Mogen AI-agents nog wel met elkaar praten?",
+   "a": "Ja, volgens Bright kunnen AI-agents nog wel onderling communiceren. De modellen zelf hebben geen directe internettoegang meer."
+  }
+ ],
+ "slug": "openai-haalt-geavanceerde-ai-modellen-van-het-internet",
+ "kind": "news",
+ "date": "2026-10-25",
+ "published": "2026-10-25T19:57",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "OpenAI’s geavanceerde AI-modellen mogen niet meer op het internet",
+   "url": "https://www.bright.nl/nieuws/2151012/openai-s-geavanceerde-ai-modellen-mogen-niet-meer-op-het-internet.html"
+  }
+ ],
+ "path": "/nieuws/openai-haalt-geavanceerde-ai-modellen-van-het-internet/",
+ "og": "/img/og/openai-haalt-geavanceerde-ai-modellen-van-het-internet.png",
+ "take": "OpenAI zet zijn sterkste modellen achter een muur en dat lost vooral hun eigen imagoprobleem op. Voor mijn werk maakt het niks uit, want een model dat geen websites kan openen is gewoon een chatbot met een duurder prijskaartje. Ik kijk naar wat er overblijft als de hype gaat liggen, en dat is tot nu toe weinig tastbaars."
+}
