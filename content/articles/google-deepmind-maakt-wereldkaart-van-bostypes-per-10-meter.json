@@ -1,0 +1,67 @@
+{
+ "keyword": "boskaart ai",
+ "seo_title": "Boskaart ai: Google DeepMind brengt bostypes in kaart",
+ "title": "Google DeepMind maakt wereldkaart van bostypes per 10 meter",
+ "meta": "Google DeepMind heeft een wereldkaart gemaakt die elk stuk land van 10 bij 10 meter indeelt naar bostype. Lees wat dat oplevert en wat het voor Nederland…",
+ "category": "nieuws",
+ "tags": [
+  "google deepmind",
+  "boskaart",
+  "satellietdata",
+  "klimaat",
+  "natuurmonitoring"
+ ],
+ "intro": "Google DeepMind heeft een wereldkaart gepubliceerd die elk stuk land op aarde van 10 bij 10 meter indeelt naar bostype. De kaart gaat verder dan alleen de vraag of er bomen staan. Dat maakt het makkelijker om bossen te volgen en te beschermen.",
+ "takeaways": [
+  "De kaart deelt elk stuk land van 10 bij 10 meter in naar een apart bostype.",
+  "De kaart kijkt verder dan alleen boomdekking.",
+  "DeepMind meldt de kaart op zijn eigen blog.",
+  "Over de gebruikte methode en het aantal bostypes is nog weinig bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de kaart precies doet",
+   "body": "Veel bestaande kaarten laten zien hoeveel boom er op een plek staat. Deze kaart pakt het anders aan. Elk stuk land van 10 bij 10 meter krijgt een label met het soort bos dat er staat.\n\nDeepMind noemt dat zelf een stap verder dan boomdekking. De kaart verdeelt de hele aarde in aparte bostypes. Hoeveel types dat zijn en hoe ze precies heten, maakt het bedrijf in de aankondiging niet duidelijk."
+  },
+  {
+   "heading": "Waarom bostype uitmaakt",
+   "body": "Een bos van naaldhout gedraagt zich anders dan een tropisch regenwoud. Dat verschil telt bij het meten van koolstofopslag en biodiversiteit. Een kaart met bostypes geeft daar een fijnmaziger beeld van.\n\nVoor natuurbeheer is het verschil ook praktisch. Je ziet sneller waar een bos verandert van samenstelling. Dat helpt bij het volgen van droogte, brandgevaar en herstel van natuur."
+  },
+  {
+   "heading": "Wat nog onbekend is",
+   "body": "DeepMind meldt de kaart op zijn blog, met een korte toelichting. Details over de methode ontbreken vooralsnog. Het is niet bekend welke satellietdata zijn gebruikt en hoe vaak de kaart wordt bijgewerkt.\n\nOok over de nauwkeurigheid zegt het bedrijf nog niets. Of de kaart gratis te gebruiken is, blijkt niet uit de aankondiging. Wie de kaart wil inzetten voor onderzoek of beleid, moet daar dus nog naar informeren."
+  },
+  {
+   "heading": "Kaarten van bos in Nederland",
+   "body": "Nederland is klein en dicht bebouwd. Een raster van 10 bij 10 meter is hier fijn genoeg om losse bospercelen te onderscheiden. Dat kan nuttig zijn voor provincies en natuurorganisaties die bos monitoren.\n\nDe Nederlandse bossen zijn vaak aangeplant en gemengd. Of de wereldkaart dat onderscheid goed oppakt, is nog niet te zeggen. De bron geeft daar geen uitsluitsel over."
+  }
+ ],
+ "nl_angle": "Voor Nederland is een fijne boskaart vooral interessant voor provincies, waterschappen en natuurbeheerders. Zij volgen bos op kleine schaal, bijvoorbeeld na droogte of stormschade. Of deze kaart daarvoor bruikbaar is, hangt af van de nauwkeurigheid en de licentie. Die zijn nog niet bekend. Bedrijven die met satellietdata werken, kunnen de kaart mogelijk combineren met eigen metingen. Het is nog niet duidelijk of en wanneer de kaart in Europa beschikbaar komt.",
+ "faq": [
+  {
+   "q": "Wat is de boskaart van Google DeepMind?",
+   "a": "Een wereldkaart die elk stuk land van 10 bij 10 meter indeelt naar bostype. De kaart gaat verder dan alleen boomdekking."
+  },
+  {
+   "q": "Kan ik de boskaart gratis gebruiken?",
+   "a": "Dat is nog niet bekend. DeepMind noemt in de aankondiging geen licentie of prijs."
+  },
+  {
+   "q": "Is de kaart ook bruikbaar voor Nederland?",
+   "a": "Mogelijk wel, omdat het raster fijn genoeg is voor losse bospercelen. Of het Nederlandse bos goed wordt herkend, is nog niet te zeggen."
+  }
+ ],
+ "slug": "google-deepmind-maakt-wereldkaart-van-bostypes-per-10-meter",
+ "kind": "news",
+ "date": "2026-10-25",
+ "published": "2026-10-25T09:34",
+ "sources": [
+  {
+   "name": "Google DeepMind",
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+  }
+ ],
+ "path": "/nieuws/google-deepmind-maakt-wereldkaart-van-bostypes-per-10-meter/",
+ "og": "/img/og/google-deepmind-maakt-wereldkaart-van-bostypes-per-10-meter.png"
+}

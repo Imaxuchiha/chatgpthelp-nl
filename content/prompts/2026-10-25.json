@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: beoordelingsgesprek omzetten naar groeiplan",
+ "situation": "Je hebt net een beoordelingsgesprek gehad met vage feedback. Je wilt er concrete afspraken en een plan van maken waar je het hele jaar mee vooruit kunt.",
+ "prompt": "Je bent een ervaren HR-adviseur die medewerkers helpt vage feedback om te zetten in een concreet ontwikkelplan. Ik heb zojuist mijn beoordelingsgesprek gehad. Hieronder staat wat mijn leidinggevende zei. Mijn functie is [FUNCTIE] en ik werk [AANTAL] jaar bij dit bedrijf. Mijn feedback: [PLAK DE FEEDBACK OF SAMENVATTING]. Maak een overzicht met: 1) per feedbackpunt wat het concreet betekent voor mijn werk, 2) drie haalbare doelen voor de komende zes maanden met meetbare resultaten, 3) welke vragen ik mijn leidinggevende moet stellen om verwachtingen helder te krijgen, 4) een korte mail die ik deze week stuur om de afspraken te bevestigen. Gebruik gewone taal en houd het overzichtelijk. Voorbeeld van een doel: binnen drie maanden zelfstandig twee projecten opleveren zonder tussentijdse correcties.",
+ "tip": "Plak de ruwe notities van het gesprek erbij, dan wordt het plan een stuk specifieker.",
+ "tags": [
+  "werk",
+  "beoordelingsgesprek",
+  "ontwikkelplan",
+  "hr"
+ ],
+ "date": "2026-10-25",
+ "slug": "prompt-beoordelingsgesprek-omzetten-naar-groeiplan",
+ "path": "/prompts/2026-10-25-prompt-beoordelingsgesprek-omzetten-naar-groeiplan/"
+}

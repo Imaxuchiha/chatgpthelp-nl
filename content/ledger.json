@@ -2131,6 +2131,22 @@
   "2bef5e1553": {
    "at": "2026-10-24T20:46:26.667795",
    "why": "ok"
+  },
+  "d99ecc21c3": {
+   "at": "2026-10-25T09:32:35.734799",
+   "why": "poort"
+  },
+  "0509c80e85": {
+   "at": "2026-10-25T09:32:35.734799",
+   "why": "ok"
+  },
+  "dbe76530e9": {
+   "at": "2026-10-25T09:33:35.734799",
+   "why": "ok"
+  },
+  "655df0fb22": {
+   "at": "2026-10-25T09:34:35.734799",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2493,6 +2509,9 @@
   "AI-agenten in je sms: wat TechCrunch zag en wat jij merkt",
   "Pennsylvania verplicht etiket op AI-reclame",
   "Claude Duet is Anthropic's agent-app, nu via wachtlijst",
-  "DeepSeek haalt 15 miljard op, dagen na Amerikaanse beperkingen"
+  "DeepSeek haalt 15 miljard op, dagen na Amerikaanse beperkingen",
+  "Blue Planet III laat ruwe beelden staan als antwoord op ai",
+  "AI-projecten mislukt: TechCrunch houdt een lijst bij",
+  "Google DeepMind maakt wereldkaart van bostypes per 10 meter"
  ]
 }
