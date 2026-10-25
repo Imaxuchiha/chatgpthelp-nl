@@ -1,0 +1,69 @@
+{
+ "keyword": "ai serving harness",
+ "seo_title": "AI serving harness: wat er om het model heen zit telt",
+ "title": "AI serving harness: de laag om het model wordt de voorsprong",
+ "meta": "Een AI serving harness bepaalt hoe je modellen draait en beheert. Lees wat die laag is, waarom hij telt en wat het voor bedrijven in Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "ai serving harness",
+  "enterprise ai",
+  "openai",
+  "modelkeuze",
+  "nederland"
+ ],
+ "intro": "De volgende voorsprong in zakelijke AI zit minder in de keuze van het model en meer in wat je eromheen bouwt. Dat stelt MIT Technology Review. Jarenlang ging het gesprek vooral over grotere modellen, betere redeneringen en hogere scores op tests.",
+ "takeaways": [
+  "Volgens MIT Technology Review verschuift de concurrentiestrijd van modelcapaciteit naar de infrastructuur rond het model.",
+  "Een serving harness regelt hoe een model wordt aangeroepen, beheerd en gekoppeld aan de rest van je systemen.",
+  "De vraag welk model je kiest wordt minder bepalend dan de vraag hoe je het draait en beheert.",
+  "Nederlandse bedrijven die meerdere modellen gebruiken, krijgen vooral met die beheerslaag te maken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat een serving harness precies doet",
+   "body": "Een serving harness is de laag tussen je applicatie en het AI-model. Die laag regelt welke aanvragen naar welk model gaan en hoe antwoorden terugkomen. Ook het beheren van sleutels, limieten en logging hoort erbij.\n\nJe kunt het vergelijken met de bedrading van een huis. Het model is de apparatuur, de harness is alles wat zorgt dat stroom op de juiste plek komt. Zonder goede bedrading werkt de mooiste apparatuur niet betrouwbaar.\n\nMIT Technology Review noemt dit de volgende concurrentieslag in zakelijke AI. De nadruk lag jaren op wat een model kan. Nu verschuift de aandacht naar wat je eromheen bouwt."
+  },
+  {
+   "heading": "Waarom de modelkeuze minder bepalend wordt",
+   "body": "De grote modellen groeien steeds meer naar elkaar toe op bekende tests. Grotere contextvensters en betere redeneringen zijn inmiddels bij meerdere aanbieders te vinden. Het verschil tussen aanbieders wordt daardoor kleiner.\n\nWat overblijft is de vraag hoe soepel je kunt wisselen. Een bedrijf dat vastzit aan één leverancier, merkt elke prijsstijging of storing direct. Een goede harness maakt het mogelijk om van model te wisselen zonder je hele applicatie om te bouwen.\n\nDat maakt de harness ook een middel tegen afhankelijkheid van één partij. Je houdt de regie over kosten en prestaties in eigen hand."
+  },
+  {
+   "heading": "Wat er komt kijken bij zo'n laag",
+   "body": "Een harness moet aanvragen kunnen doorsturen, vertragen of blokkeren. Denk aan limieten per gebruiker of per afdeling. Ook foutafhandeling telt: als een model niet reageert, moet je applicatie dat netjes opvangen.\n\nLogging en controle zijn de andere kant. Je wilt kunnen terugzien welke aanvraag welk antwoord opleverde. Dat helpt bij foutopsporing en bij het aantonen dat je zorgvuldig met gegevens omgaat.\n\nVolgens MIT Technology Review is dit soort infrastructuur niet sexy, wel bepalend. Het verschil tussen een demo en een systeem dat dagelijks werkt, zit vaak in deze laag."
+  },
+  {
+   "heading": "Nederlandse bedrijven en de Europese regels",
+   "body": "Voor bedrijven in Nederland komt daar de Europese regelgeving bij. De AI-verordening vraagt op sommige plekken om vastlegging van hoe een systeem werkt en welke gegevens het verwerkt. Een harness met goede logging maakt dat een stuk eenvoudiger.\n\nOok gegevensbescherming speelt mee. Als je persoonsgegevens naar een model stuurt, wil je kunnen zien waar die heen gaan. Een eigen beheerslaag geeft daar meer grip op dan een losse koppeling per afdeling.\n\nPrijzen in euro's zijn lastig te noemen. De bron noemt geen bedragen en geen leveranciers. Wat de laag in Nederland gaat kosten, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse organisaties betekent dit dat de vraag 'welk model kiezen we' plaatsmaakt voor 'hoe beheren we ze'. Bedrijven die met meerdere modellen werken, hebben baat bij één centrale laag voor toegang, limieten en logging. Dat scheelt werk bij een wissel van leverancier en helpt bij het naleven van Europese regels. Kleine bedrijven kunnen vaak volstaan met de standaardkoppeling van hun leverancier. Zodra meerdere teams of modellen in het spel zijn, wordt een eigen harness interessant.",
+ "faq": [
+  {
+   "q": "wat is een ai serving harness",
+   "a": "Dat is de laag tussen je applicatie en het AI-model. Die regelt welke aanvragen naar welk model gaan en houdt limieten, logging en foutafhandeling bij."
+  },
+  {
+   "q": "moet ik als nederlands bedrijf zo'n laag zelf bouwen",
+   "a": "Niet per se. Bij één model en één team volstaat vaak de standaardkoppeling van de leverancier. Bij meerdere modellen of afdelingen wordt een eigen laag al snel nuttig."
+  },
+  {
+   "q": "helpt dit bij de europese ai-regels",
+   "a": "Een goede beheerslaag met logging maakt het makkelijker om vast te leggen welke gegevens een model verwerkt. Dat helpt bij de verplichtingen die de AI-verordening oplegt."
+  }
+ ],
+ "title_seo_note": "",
+ "slug": "ai-serving-harness-de-laag-om-het-model-wordt-de-voorsprong",
+ "kind": "news",
+ "date": "2026-10-25",
+ "published": "2026-10-25T16:04",
+ "sources": [
+  {
+   "name": "MIT Technology Review",
+   "title": "Designing an AI serving harness built to last",
+   "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+  }
+ ],
+ "path": "/nieuws/ai-serving-harness-de-laag-om-het-model-wordt-de-voorsprong/",
+ "og": "/img/og/ai-serving-harness-de-laag-om-het-model-wordt-de-voorsprong.png",
+ "take": "Iedereen zit te vergelijken welk model het hoogst scoort, terwijl het echte werk zit in wat je eromheen bouwt. Mijn eigen stapel is daar het bewijs van: DeepSeek doet het volume lekker goedkoop in mijn scripts, en het duurdere gereedschap betaal ik pas als het zich meteen terugverdient. Voor een bedrijf in Nederland betekent dat dus eerst kijken wat je zelf in elkaar kunt zetten voordat je een abonnement afsluit."
+}

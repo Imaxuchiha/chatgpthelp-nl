@@ -2147,6 +2147,22 @@
   "655df0fb22": {
    "at": "2026-10-25T09:34:35.734799",
    "why": "ok"
+  },
+  "611184d5aa": {
+   "at": "2026-10-25T16:02:04.242757",
+   "why": "ok"
+  },
+  "b366ba776f": {
+   "at": "2026-10-25T16:03:04.242757",
+   "why": "poort"
+  },
+  "99c99157c7": {
+   "at": "2026-10-25T16:03:04.242757",
+   "why": "ok"
+  },
+  "6401c720ab": {
+   "at": "2026-10-25T16:04:04.242757",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2512,6 +2528,9 @@
   "DeepSeek haalt 15 miljard op, dagen na Amerikaanse beperkingen",
   "Blue Planet III laat ruwe beelden staan als antwoord op ai",
   "AI-projecten mislukt: TechCrunch houdt een lijst bij",
-  "Google DeepMind maakt wereldkaart van bostypes per 10 meter"
+  "Google DeepMind maakt wereldkaart van bostypes per 10 meter",
+  "AI wearables in één overzicht: van Muse Charm tot Bee en Friend",
+  "Google AI zoeken verandert de krantenwereld: wat merkt Nederland?",
+  "AI serving harness: de laag om het model wordt de voorsprong"
  ]
 }

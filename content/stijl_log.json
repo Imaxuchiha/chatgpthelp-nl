@@ -3282,5 +3282,72 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-25T16:02:19",
+  "slug": "",
+  "title": "AI wearables in één overzicht: van Muse Charm tot Bee en Friend",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-25T16:02:27",
+  "slug": "",
+  "title": "r/opensource bant ai-projecten en niet-Engelstaligen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-25T16:02:37",
+  "slug": "",
+  "title": "Google AI zoeken verandert de krantenwereld: wat merkt Nederland?",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-25T16:02:50",
+  "slug": "",
+  "title": "AI serving harness: de laag om het model wordt de voorsprong",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-25T16:03:12",
+  "slug": "",
+  "title": "AI-week 43: geld voor DeepSeek, agent-apps en AI-wearables",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]
