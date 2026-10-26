@@ -2187,6 +2187,30 @@
   "b23877b88e": {
    "at": "2026-10-26T10:07:10.727425",
    "why": "ok"
+  },
+  "eb7708c5f5": {
+   "at": "2026-10-26T18:37:36.191209",
+   "why": "poort"
+  },
+  "63c3d44a3a": {
+   "at": "2026-10-26T18:37:36.191209",
+   "why": "high-risk"
+  },
+  "2500a6aad8": {
+   "at": "2026-10-26T18:37:36.191209",
+   "why": "poort"
+  },
+  "970ef9374b": {
+   "at": "2026-10-26T18:37:36.191209",
+   "why": "ok"
+  },
+  "4a8f41d180": {
+   "at": "2026-10-26T18:38:36.191209",
+   "why": "ok"
+  },
+  "8d6b6f60f4": {
+   "at": "2026-10-26T18:39:36.191209",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2560,6 +2584,9 @@
   "Nieuwsmedia zoeken weg van Google nu AI-antwoorden kliks kosten",
   "OpenAI haalt geavanceerde AI-modellen van het internet",
   "Grok zet eerste zeven minuten van AI-film Odyssey online",
-  "AI levert geen financieel rendement op voor de meeste bedrijven"
+  "AI levert geen financieel rendement op voor de meeste bedrijven",
+  "SpaceX leent 40 miljard dollar voor AI-chips, Musk voorspelt kaalslag",
+  "Anthropic beursgang: vijf opvallende details uit het IPO-dossier",
+  "Anthropic beursgang onthult strategie voor zakelijke klanten"
  ]
 }
