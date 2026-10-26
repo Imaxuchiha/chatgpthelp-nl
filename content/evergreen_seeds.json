@@ -1,5 +1,11 @@
 [
  {
+  "topic": "ChatGPT prompts nederlands",
+  "intent": "zoekterm uit Search Console: beantwoord precies deze zoekvraag",
+  "audience": "Nederlandse zoekers",
+  "from_gsc": true
+ },
+ {
   "topic": "Merk in ChatGPT",
   "intent": "zoekterm uit Search Console: beantwoord precies deze zoekvraag",
   "audience": "Nederlandse zoekers",

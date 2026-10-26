@@ -2175,6 +2175,18 @@
   "a1ae9d5d5b": {
    "at": "2026-10-25T19:57:45.568853",
    "why": "ok"
+  },
+  "518b3bdf28": {
+   "at": "2026-10-26T10:06:10.727425",
+   "why": "poort"
+  },
+  "bf7f18e041": {
+   "at": "2026-10-26T10:06:10.727425",
+   "why": "ok"
+  },
+  "b23877b88e": {
+   "at": "2026-10-26T10:07:10.727425",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2546,6 +2558,8 @@
   "AI serving harness: de laag om het model wordt de voorsprong",
   "AI wordt beter in hacken: China grijpt in bij eigen modellen",
   "Nieuwsmedia zoeken weg van Google nu AI-antwoorden kliks kosten",
-  "OpenAI haalt geavanceerde AI-modellen van het internet"
+  "OpenAI haalt geavanceerde AI-modellen van het internet",
+  "Grok zet eerste zeven minuten van AI-film Odyssey online",
+  "AI levert geen financieel rendement op voor de meeste bedrijven"
  ]
 }

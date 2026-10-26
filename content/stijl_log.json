@@ -3400,5 +3400,57 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-26T10:06:23",
+  "slug": "",
+  "title": "Miyamoto twijfelt of AI creativiteit kan overnemen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-26T10:06:33",
+  "slug": "",
+  "title": "Grok zet eerste zeven minuten van AI-film Odyssey online",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-26T10:06:43",
+  "slug": "",
+  "title": "AI levert geen financieel rendement op voor de meeste bedrijven",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-26T10:07:12",
+  "slug": "",
+  "title": "ChatGPT prompts in het Nederlands: zo krijg je betere antwoorden",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

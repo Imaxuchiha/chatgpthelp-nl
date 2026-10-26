@@ -1,0 +1,14 @@
+{
+ "title": "Prompt: afspraken vastleggen na een telefonisch gesprek",
+ "situation": "Je hebt telefonisch iets afgesproken met een leverancier, verhuurder of instantie en wilt dat helder op papier zetten voordat er misverstanden ontstaan.",
+ "prompt": "Je bent een ervaren jurist die gespreksverslagen opstelt voor particulieren in Nederland. Ik heb zojuist telefonisch iets afgesproken en wil dit per e-mail bevestigen. Hieronder volgt mijn ruwe verslag.\n\nContext: [MET WIE HEB JE GESPROKEN EN WAAROVER, BIJVOORBEELD EEN LEVERANCIER OVER EEN DEFECT APPARAAT]\nDatum en tijd van het gesprek: [DATUM EN TIJD]\nWat is er afgesproken: [ZET HIER IN EIGEN WOORDEN DE AFSPRAKEN]\nWat is nog onduidelijk: [NOEM OPEN PUNTEN]\n\nMaak een korte, zakelijke bevestigingsmail in het Nederlands. Structuur: aanhef, verwijzing naar het gesprek met datum, een opsomming van de afspraken in gewone taal, de openstaande punten met een concrete vraag, en een verzoek om binnen vijf werkdagen te reageren als iets onjuist is. Houd het onder de 200 woorden. Geen dreigende toon. Sluit af met een neutrale groet en [MIJN NAAM].",
+ "tip": "Vul bij de open punten echt alles in wat je niet zeker weet, dan vangt de mail juist daar de vaagheid af.",
+ "tags": [
+  "werk",
+  "administratie",
+  "communicatie"
+ ],
+ "date": "2026-10-26",
+ "slug": "prompt-afspraken-vastleggen-na-een-telefonisch-gesprek",
+ "path": "/prompts/2026-10-26-prompt-afspraken-vastleggen-na-een-telefonisch-gesprek/"
+}
