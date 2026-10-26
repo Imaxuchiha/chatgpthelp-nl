@@ -2211,6 +2211,18 @@
   "8d6b6f60f4": {
    "at": "2026-10-26T18:39:36.191209",
    "why": "ok"
+  },
+  "64d59b55a8": {
+   "at": "2026-10-26T21:59:00.905365",
+   "why": "ok"
+  },
+  "8f2f08b6e1": {
+   "at": "2026-10-26T22:00:00.905365",
+   "why": "ok"
+  },
+  "1758535ac6": {
+   "at": "2026-10-26T22:01:00.905365",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2587,6 +2599,9 @@
   "AI levert geen financieel rendement op voor de meeste bedrijven",
   "SpaceX leent 40 miljard dollar voor AI-chips, Musk voorspelt kaalslag",
   "Anthropic beursgang: vijf opvallende details uit het IPO-dossier",
-  "Anthropic beursgang onthult strategie voor zakelijke klanten"
+  "Anthropic beursgang onthult strategie voor zakelijke klanten",
+  "ChatGPT voor werk: OpenAI brengt gebruik in kaart in bijna 100 landen",
+  "Codex Ultrafast: zo lost OpenAI incidenten in minuten op",
+  "GPT-6.1 Terra: OpenAI maakt computergebruik voor iedereen"
  ]
 }

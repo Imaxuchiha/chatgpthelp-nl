@@ -1,0 +1,68 @@
+{
+ "keyword": "chatgpt voor werk",
+ "seo_title": "ChatGPT voor werk: OpenAI meet gebruik in 100 landen",
+ "title": "ChatGPT voor werk: OpenAI brengt gebruik in kaart in bijna 100 landen",
+ "meta": "OpenAI onderzocht 165 werkactiviteiten in bijna 100 landen en zag hoe mensen ChatGPT voor werk inzetten. Wat dat betekent voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "openai",
+  "werk",
+  "ai op het werk",
+  "onderzoek"
+ ],
+ "intro": "OpenAI heeft data gepubliceerd over hoe mensen ChatGPT voor hun werk gebruiken. Het gaat om 165 werkactiviteiten in bijna 100 landen. Uit de cijfers moet blijken welke taken mensen uitbesteden en hoe dat in de loop van de tijd verschuift.",
+ "takeaways": [
+  "OpenAI onderzocht 165 werkactiviteiten in bijna 100 landen.",
+  "De data laten zien hoe ChatGPT-gebruik voor werk verandert over tijd.",
+  "OpenAI noemt de publicatie ChatGPT's expanding world of work.",
+  "Per land en per taak is nog niet bekend hoeveel Nederlanders meedoen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies heeft gemeten",
+   "body": "OpenAI verzamelde gegevens over 165 activiteiten die met werk te maken hebben. Die activiteiten zijn verdeeld over bijna 100 landen. Het bedrijf noemt de publicatie ChatGPT's expanding world of work.\n\nHet gaat om een brede lijst van taken, van tekst schrijven tot het ordenen van informatie. OpenAI kijkt daarbij naar hoe vaak zulke taken terugkomen in het gebruik van ChatGPT. Ook vergelijkt het bedrijf oudere en nieuwere cijfers, zodat zichtbaar wordt of gebruikers hun werkpatroon aanpassen.\n\nOpenAI geeft in de aankondiging geen volledige cijferlijst per land. Welke activiteiten het vaakst voorkomen en welke landen vooroplopen, is uit de samenvatting niet op te maken. Daarvoor moet je de volledige publicatie van OpenAI bekijken."
+  },
+  {
+   "heading": "Waarom werkgebruik lastig te meten is",
+   "body": "Veel mensen gebruiken ChatGPT privé en op het werk door elkaar. Een vraag over een recept en een vraag over een offerte komen in dezelfde gespreksgeschiedenis terecht. OpenAI probeert dat onderscheid te maken door naar de aard van de activiteit te kijken.\n\nDat levert een beeld op van taken, niet van banen. Je ziet dus welke werkzaamheden mensen aan ChatGPT voorleggen. Je ziet niet hoeveel uur iemand daarmee bespaart of of het werk daardoor verandert.\n\nOok zegt de data weinig over de kwaliteit van de uitkomsten. Of een gegenereerde tekst klopt, blijft de verantwoordelijkheid van de gebruiker. OpenAI presenteert de cijfers als signaal, niet als bewijs dat een taak is overgenomen."
+  },
+  {
+   "heading": "Wat je met zo'n overzicht kunt",
+   "body": "Voor teams en organisaties is zo'n overzicht nuttig als spiegel. Je kunt nagaan welke taken bij jou al naar ChatGPT gaan en welke nog handmatig gebeuren. Dat helpt bij het maken van afspraken over gebruik.\n\nDenk aan richtlijnen over vertrouwelijke gegevens. Wie een klantdossier in een chat plakt, moet weten wat er met die tekst gebeurt. Een taakoverzicht maakt zulke gesprekken concreter dan een algemene regel dat ai mag worden gebruikt.\n\nVoor individuele gebruikers biedt het vooral herkenning. Je ziet welke werkzaamheden wereldwijd veel voorkomen. Dat kan inspiratie geven om zelf eens iets anders uit te proberen, zonder dat je een compleet nieuwe werkwijze hoeft in te voeren."
+  },
+  {
+   "heading": "Wat nog niet bekend is",
+   "body": "OpenAI heeft geen aparte cijfers voor Nederland genoemd in de aankondiging. Het is dus niet duidelijk of Nederlandse gebruikers vaker of minder vaak werkvragen stellen dan mensen in andere landen.\n\nOok een uitsplitsing per beroepsgroep ontbreekt in de samenvatting. Of advocaten, monteurs en docenten ChatGPT op dezelfde manier inzetten, blijft voorlopig een open vraag. Meer detail komt mogelijk in de volledige publicatie of in latere updates."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders betekent dit vooral dat werkgebruik van ChatGPT meetbaar wordt gemaakt op een breed niveau. Heb je een eigen bedrijf of geef je leiding aan een team, dan kun je de publicatie gebruiken om je interne afspraken tegen het licht te houden. Let daarbij op de Europese privacyregels: persoonsgegevens van klanten horen niet zomaar in een chat thuis. Concrete cijfers voor de Nederlandse markt ontbreken nog, dus reken niet op een landspecifiek beeld.",
+ "faq": [
+  {
+   "q": "Wat onderzocht OpenAI precies?",
+   "a": "OpenAI bekeek 165 werkactiviteiten in bijna 100 landen en hoe het gebruik van ChatGPT daarvoor verandert over tijd."
+  },
+  {
+   "q": "Zijn er cijfers voor Nederland?",
+   "a": "In de aankondiging noemt OpenAI geen aparte Nederlandse cijfers. Het is dus niet bekend hoe Nederland scoort ten opzichte van andere landen."
+  },
+  {
+   "q": "Kan ik dit gebruiken voor mijn team?",
+   "a": "Ja, als globale spiegel van veelvoorkomende werkzaamheden. Maak daarnaast eigen afspraken over vertrouwelijke gegevens en controle van uitkomsten."
+  }
+ ],
+ "slug": "chatgpt-voor-werk-openai-brengt-gebruik-in-kaart-in-bijna-100-landen",
+ "kind": "news",
+ "date": "2026-10-26",
+ "published": "2026-10-26T21:59",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "ChatGPT’s expanding world of work",
+   "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
+  }
+ ],
+ "path": "/nieuws/chatgpt-voor-werk-openai-brengt-gebruik-in-kaart-in-bijna-100-landen/",
+ "og": "/img/og/chatgpt-voor-werk-openai-brengt-gebruik-in-kaart-in-bijna-100-landen.png",
+ "take": "OpenAI gooit cijfers over 165 werkactiviteiten in bijna 100 landen op tafel, maar zonder te laten zien wat mensen er echt mee opschieten. Mijn ervaring met AI-tekst is simpel: zodra het als AI leest, haakt de lezer af. Laat eerst maar eens zien welke output daadwerkelijk werk oplevert, dan praten we verder."
+}

@@ -1,0 +1,67 @@
+{
+ "keyword": "gpt-6.1 terra",
+ "seo_title": "GPT-6.1 Terra: OpenAI brengt computergebruik naar iedereen",
+ "title": "GPT-6.1 Terra: OpenAI maakt computergebruik voor iedereen",
+ "meta": "OpenAI lanceert GPT-6.1 Terra, een model dat snel en capabel computergebruik voor iedereen beschikbaar maakt. Lees wat het model doet en wat het voor…",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "gpt-6.1 terra",
+  "computergebruik",
+  "ai-modellen",
+  "nieuws"
+ ],
+ "intro": "OpenAI heeft GPT-6.1 Terra aangekondigd, een model dat snel en capabel computergebruik voor iedereen beschikbaar maakt. Dat meldt OpenAI in de aankondiging van 25 oktober 2026. Het model is de opvolger in de GPT-6-lijn en richt zich op taken waarbij de ai daadwerkelijk computers aanstuurt.",
+ "takeaways": [
+  "GPT-6.1 Terra is op 25 oktober 2026 aangekondigd door OpenAI.",
+  "Het model brengt snel en capabel computergebruik naar een breed publiek.",
+  "OpenAI positioneert Terra als model voor alledaags computerwerk.",
+  "Prijzen en beschikbaarheid in Nederland zijn nog niet bekendgemaakt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat GPT-6.1 Terra volgens OpenAI is",
+   "body": "GPT-6.1 Terra is een nieuw model van OpenAI. Het bedrijf noemt het in de aankondiging een model dat snel en capabel computergebruik voor iedereen beschikbaar maakt. Daarmee zet OpenAI de stap van een model dat alleen tekst produceert naar een model dat computers kan bedienen.\n\nComputergebruik betekent in dit verband dat de ai zelfstandig taken op een computer uitvoert. Denk aan het openen van programma's, het invullen van formulieren en het verwerken van bestanden. OpenAI geeft in de aankondiging geen uitgebreide technische details over hoe Terra dit precies doet.\n\nHet model draagt de naam Terra, Latijn voor aarde. OpenAI plaatst het in de GPT-6-familie. Wat de positie van Terra binnen die familie is, maakt het bedrijf in de aankondiging niet volledig duidelijk."
+  },
+  {
+   "heading": "Snel en capabel als kernbelofte",
+   "body": "Twee woorden staan centraal in de aankondiging: snel en capabel. OpenAI belooft dus snelheid en bekwaamheid in één model. Of dat in de praktijk klopt, moet nog blijken uit onafhankelijke tests.\n\nComputergebruik vraagt veel van een model. Het moet schermen begrijpen, knoppen herkennen en stappen in de juiste volgorde zetten. Een traag model maakt zulke taken onbruikbaar. Snelheid is daarom een logische eis voor dit type werk.\n\nOpenAI noemt Terra geschikt voor iedereen. Dat suggereert een brede inzet, van particulieren tot bedrijven. Concrete doelgroepen of use cases noemt het bedrijf in de aankondiging niet."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Over de prijs zegt OpenAI in de aankondiging niets. Ook is niet duidelijk wanneer Terra in Nederland en de rest van de Europese Unie beschikbaar komt. Een releasedatum voor de Europese markt ontbreekt.\n\nOok over de vereiste infrastructuur is nog niets gemeld. Computergebruik vraagt mogelijk meer rekenkracht dan tekstverwerking. Of Terra via de bestaande ChatGPT-abonnementen te gebruiken is, blijft voorlopig open.\n\nZodra OpenAI meer details deelt, wordt duidelijk wat het model concreet kost en wanneer het hier werkt."
+  },
+  {
+   "heading": "Computergebruik als nieuwe standaard",
+   "body": "Met Terra zet OpenAI computergebruik neer als een functie voor een breed publiek. Dat past bij een bredere beweging in de ai-sector, waarin modellen steeds vaker taken uitvoeren in plaats van alleen tekst te schrijven.\n\nVoor gebruikers betekent dit een verschuiving. Je geeft een opdracht en de ai voert die uit op een computer. Dat kan tijd schelen bij terugkerend werk, zoals gegevens overtypen of bestanden ordenen.\n\nTegelijk roept het vragen op over controle en veiligheid. OpenAI gaat in de aankondiging niet in op maatregelen rond computergebruik. Hoe Terra omgaat met gevoelige gegevens is nog niet toegelicht."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders is GPT-6.1 Terra voorlopig vooral een aankondiging. Prijs, releasedatum en beschikbaarheid in Nederland en de EU zijn nog niet bekend. Zodra het model hier komt, kan het interessant zijn voor kantoorwerk waarbij veel op de computer wordt geklikt en getypt. Bedrijven doen er verstandig aan te wachten op duidelijkheid over kosten en gegevensverwerking voordat ze erop overschakelen.",
+ "faq": [
+  {
+   "q": "Wat is GPT-6.1 Terra?",
+   "a": "GPT-6.1 Terra is een nieuw model van OpenAI dat snel en capabel computergebruik voor iedereen beschikbaar maakt, volgens de aankondiging van 25 oktober 2026."
+  },
+  {
+   "q": "Wanneer komt GPT-6.1 Terra naar Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI noemt in de aankondiging geen releasedatum voor Nederland of de Europese Unie."
+  },
+  {
+   "q": "Wat kost GPT-6.1 Terra?",
+   "a": "Over de prijs zegt OpenAI in de aankondiging niets. Duidelijk is alleen dat het model computergebruik voor een breed publiek beoogt."
+  }
+ ],
+ "slug": "gpt-6-1-terra-openai-maakt-computergebruik-voor-iedereen",
+ "kind": "news",
+ "date": "2026-10-26",
+ "published": "2026-10-26T22:01",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Introducing GPT-6.1 Terra",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra"
+  }
+ ],
+ "path": "/nieuws/gpt-6-1-terra-openai-maakt-computergebruik-voor-iedereen/",
+ "og": "/img/og/gpt-6-1-terra-openai-maakt-computergebruik-voor-iedereen.png"
+}

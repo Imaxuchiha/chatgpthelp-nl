@@ -3533,5 +3533,54 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-26T21:59:15",
+  "slug": "",
+  "title": "ChatGPT voor werk: OpenAI brengt gebruik in kaart in bijna 100 landen",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-26T21:59:25",
+  "slug": "",
+  "title": "Codex Ultrafast: zo lost OpenAI incidenten in minuten op",
+  "kind": "news",
+  "rood": [],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-26T21:59:35",
+  "slug": "",
+  "title": "GPT-6.1 Terra: OpenAI maakt computergebruik voor iedereen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-26T21:59:58",
+  "slug": "",
+  "title": "ChatGPT prompts in het Nederlands: zo krijg je betere antwoorden",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S5",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]
