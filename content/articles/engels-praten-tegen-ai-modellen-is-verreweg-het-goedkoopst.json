@@ -1,0 +1,68 @@
+{
+ "keyword": "engels praten ai kosten",
+ "seo_title": "Engels praten tegen AI is het goedkoopst",
+ "title": "Engels praten tegen AI-modellen is verreweg het goedkoopst",
+ "meta": "Engels praten tegen AI kost minder tokens dan Nederlands. Zo werkt de prijs per taal en dit betekent het voor je factuur in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "talen",
+  "tokens",
+  "kosten",
+  "chatgpt"
+ ],
+ "intro": "Wie zijn AI-model in het Engels aanspreekt, is daar per saldo goedkoper mee uit dan iemand die Nederlands typt. Dat meldt Bright. De verklaring zit in tokens, de rekeneenheid waarmee AI-bedrijven hun verbruik afrekenen.",
+ "takeaways": [
+  "Engels levert minder tokens op dan Nederlands voor dezelfde vraag.",
+  "AI-modellen verwerken talen met veel sprekers doorgaans efficiënter.",
+  "Minder tokens betekent een lagere factuur bij betaalde abonnementen en API-gebruik.",
+  "Voor Nederlands bestaat nog geen publiek prijsverschil per taal bij OpenAI."
+ ],
+ "sections": [
+  {
+   "heading": "Wat tokens met je rekening doen",
+   "body": "AI-modellen knippen tekst in stukjes, tokens genaamd. Elk stukje kost rekenkracht en dus geld. Bij een betaald abonnement of via de API betaal je per token, zowel voor wat je stuurt als voor wat je terugkrijgt.\n\nEngels valt in kleinere stukjes uiteen dan Nederlands. Een zin van tien woorden levert in het Engels vaak minder tokens op dan dezelfde zin in het Nederlands. Het verschil loopt op bij lange gesprekken en bij veelvuldig gebruik.\n\nBright vergelijkt het met mensen: ook voor ons is een veelgesproken taal makkelijker te verwerken. Talen die wereldwijd veel sprekers hebben, zijn voor een model beter geoefend. Dat vertaalt zich in minder tokens en dus minder kosten."
+  },
+  {
+   "heading": "Waarom Nederlands meer kost",
+   "body": "Nederlands heeft wereldwijd zo'n 25 miljoen sprekers. Dat is een fractie van het aantal Engelstaligen. Een model ziet Nederlands daardoor minder vaak in zijn trainingsdata en moet vaker gokken hoe een woord in stukjes valt.\n\nLange samengestelde woorden maken het extra lastig. Woorden als 'ziekenhuisopname' of 'belastingaangifte' splitsen anders op dan korte Engelse woorden. Meer stukjes betekent meer tokens.\n\nVoor gewone gebruikers met een vast abonnement maakt dat weinig uit. Wie per token betaalt, merkt het wel. Bij grote hoeveelheden tekst kan het verschil in de papieren lopen."
+  },
+  {
+   "heading": "Wat je er in de praktijk aan hebt",
+   "body": "Een korte vraag in het Nederlands stellen kost nauwelijks extra. Het verschil wordt pas zichtbaar bij lange documenten, veel herhaalde prompts of geautomatiseerd gebruik via de API.\n\nWie zijn prompts in het Engels schrijft, betaalt minder. Het antwoord komt dan ook in het Engels terug. Wil je een Nederlandse uitvoer, dan kost de vertaling weer tokens.\n\nEr is geen publieke prijslijst per taal bij OpenAI. Het bedrijf rekent in tokens, niet in talen. De besparing komt dus uit het tokenverbruik zelf."
+  },
+  {
+   "heading": "Nog geen vaste prijs per taal",
+   "body": "Of AI-bedrijven ooit per taal gaan rekenen, is niet bekend. OpenAI heeft daar niets over gezegd. De tarieven staan per model vast, niet per taal.\n\nVoor ontwikkelaars blijft het lonend om prompts compact te houden. Kortere tekst betekent minder tokens, in elke taal. Een strak geformuleerde Engelse prompt wint dan dubbel."
+  }
+ ],
+ "nl_angle": "Nederlandse bedrijven die via de API werken, betalen per token. Een prompt in het Engels kan bij grote volumes schelen op de maandfactuur. Voor particulieren met een vast ChatGPT-abonnement verandert er niets aan de prijs. Wie veel met lange Nederlandse teksten werkt, doet er goed aan het tokenverbruik in de gaten te houden.",
+ "faq": [
+  {
+   "q": "Is ChatGPT goedkoper in het Engels?",
+   "a": "Per token wel. Engels levert minder tokens op dan Nederlands voor dezelfde vraag. Bij een vast abonnement merk je daar niets van."
+  },
+  {
+   "q": "Wat is een token?",
+   "a": "Een token is een stukje tekst waarmee een AI-model rekent. Korte woorden zijn vaak één token, lange woorden vallen in meerdere stukjes uiteen."
+  },
+  {
+   "q": "Scheelt het veel geld voor Nederlandse bedrijven?",
+   "a": "Dat hangt af van het volume. Bij veel API-gebruik en lange teksten kan het oplopen. OpenAI publiceert geen aparte prijs per taal."
+  }
+ ],
+ "slug": "engels-praten-tegen-ai-modellen-is-verreweg-het-goedkoopst",
+ "kind": "news",
+ "date": "2026-10-27",
+ "published": "2026-10-27T17:49",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Engels praten tegen AI-modellen is verreweg het goedkoopst",
+   "url": "https://www.bright.nl/nieuws/2151960/engels-praten-tegen-ai-modellen-is-verreweg-het-goedkoopst.html"
+  }
+ ],
+ "path": "/nieuws/engels-praten-tegen-ai-modellen-is-verreweg-het-goedkoopst/",
+ "og": "/img/og/engels-praten-tegen-ai-modellen-is-verreweg-het-goedkoopst.png",
+ "take": "Engels intypen omdat het goedkoper is, dat is precies het verkeerde einde van de rekening. Ik kijk liever naar wat een tekst oplevert dan naar wat hij per token kost, want een goedkope lap AI-tekst die niemand leest is gewoon weggegooid geld. Mijn artikelen schrijft DeepSeek, maar pas als er concrete dingen in staan en er ook eerlijk in staat wat niet lukte, is het de moeite waard om te publiceren."
+}

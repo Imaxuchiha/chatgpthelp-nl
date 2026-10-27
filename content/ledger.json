@@ -2239,6 +2239,18 @@
   "1a1d4bf2fc": {
    "at": "2026-10-27T10:10:17.698935",
    "why": "ok"
+  },
+  "32f09916b3": {
+   "at": "2026-10-27T17:49:48.835288",
+   "why": "ok"
+  },
+  "61dfc55550": {
+   "at": "2026-10-27T17:50:48.835288",
+   "why": "ok"
+  },
+  "abb96e9fdd": {
+   "at": "2026-10-27T17:51:48.835288",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2621,6 +2633,9 @@
   "GPT-6.1 Terra: OpenAI maakt computergebruik voor iedereen",
   "Greptile zet GPT-6 Astra in om bugs buiten codereview te vinden",
   "OpenAI deelt wiskunderesultaten met academici",
-  "GPT-6.1 Sol helpt CodeRabbit bij security in complexe code"
+  "GPT-6.1 Sol helpt CodeRabbit bij security in complexe code",
+  "Engels praten tegen AI-modellen is verreweg het goedkoopst",
+  "AI-gesprekken op Android terugvinden: dit kunnen speurders nu",
+  "Firefox Smart Window vult formulieren in met gegevens uit je tabs"
  ]
 }

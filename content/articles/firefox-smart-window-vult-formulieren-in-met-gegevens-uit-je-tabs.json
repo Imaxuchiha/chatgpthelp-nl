@@ -1,0 +1,68 @@
+{
+ "keyword": "firefox smart window",
+ "seo_title": "Firefox Smart Window vult formulieren in met ai",
+ "title": "Firefox Smart Window vult formulieren in met gegevens uit je tabs",
+ "meta": "Firefox Smart Window krijgt ai-formulieren invullen en houdt webpagina's in de gaten. Dit betekent het voor gebruikers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "firefox",
+  "mozilla",
+  "ai-browser",
+  "privacy",
+  "formulieren"
+ ],
+ "intro": "Mozilla breidt Smart Window uit, de ai-ervaring in Firefox. De browser kan straks online formulieren invullen met informatie uit je open tabbladen. Ook komt er functie die webpagina's in de gaten houdt. The Verge meldt beide onderdelen.",
+ "takeaways": [
+  "Smart Window vult formulieren in met gegevens uit je open tabs, bijvoorbeeld je LinkedIn-pagina of online portfolio.",
+  "Mozilla voegt bewaking van webpagina's toe aan Smart Window.",
+  "Smart Window is de ai-laag van Firefox en wordt door Mozilla stap voor stap uitgebreid.",
+  "Nederlandse gebruikers merken pas iets zodra Mozilla de functies hier uitrolt; een datum is niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Smart Window doet",
+   "body": "Smart Window is de ai-ervaring die Mozilla in Firefox bouwt. De browser gebruikt informatie uit je eigen venster om taken sneller te maken. Een voorbeeld dat Mozilla zelf noemt: je solliciteert en Smart Window vult je werkgeschiedenis in op basis van je LinkedIn-pagina of je online portfolio.\n\nDat scheelt typwerk bij formulieren die veel velden vragen. Je hoeft niet steeds heen en weer te klikken tussen je cv en het sollicitatieformulier. De functie leunt op wat er al in je open tabbladen staat."
+  },
+  {
+   "heading": "Webpagina's in de gaten houden",
+   "body": "Naast het invullen van formulieren krijgt Smart Window een functie om webpagina's te volgen. Volgens The Verge kan de browser daarmee veranderingen op een pagina signaleren. Wat dat precies inhoudt en hoe vaak de controle gebeurt, maakt de bron niet duidelijk.\n\nDenk aan een vacature die sluit, een prijs die zakt of een pagina die verandert. Zulke signalen zijn handig, maar vragen ook om uitleg over wat Mozilla wel en niet opslaat. Die uitleg is nog niet volledig bekend."
+  },
+  {
+   "heading": "Wat het betekent voor je gegevens",
+   "body": "Formulieren invullen met je eigen tabbladen betekent dat de browser jouw gegevens leest. Bij een sollicitatie gaat het om je werkverleden, en dat is gevoelige informatie. Mozilla heeft vaker gezegd dat Smart Window lokaal werkt, maar de precieze werking per functie is nog niet bevestigd.\n\nWil je dit gebruiken, kijk dan eerst welke gegevens de browser mag inzien. Zet de functie uit als je geen werkgeschiedenis wilt delen met een formulier. Een browser die je cv kent, is handig en tegelijk iets om bewust aan te zetten."
+  },
+  {
+   "heading": "Uitrol en beschikbaarheid",
+   "body": "The Verge noemt geen releasedatum voor de nieuwe onderdelen. Ook is niet bekend of Smart Window in Nederland en de rest van de Europese Unie meteen meegaat. Mozilla brengt functies vaak eerst in een beperkte groep uit.\n\nFirefox is in Nederland gratis te downloaden. Smart Window zit in de ai-koers van Mozilla, die de browser moet laten meekomen met concurrenten als Chrome en Edge. Of de formulierfunctie hier zonder betaald abonnement komt, is nog niet duidelijk."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers verandert er pas iets als Mozilla Smart Window hier uitrolt. Een datum ontbreekt. Zodra de functie er is, kan hij handig zijn bij solliciteren, bijvoorbeeld bij vacatures waar je veel velden moet vullen. Let wel op de Europese privacyregels: gegevens uit je tabs verwerken valt onder de AVG, en Mozilla moet duidelijk maken wat er met die gegevens gebeurt. Werk je met gevoelige informatie, zet de functie dan pas aan als je weet wat de browser opslaat.",
+ "faq": [
+  {
+   "q": "Wat is Firefox Smart Window?",
+   "a": "Smart Window is de ai-laag die Mozilla in Firefox bouwt. De browser gebruikt informatie uit je open tabbladen om taken zoals formulieren invullen sneller te maken."
+  },
+  {
+   "q": "Kan Firefox Smart Window mijn sollicitatieformulier invullen?",
+   "a": "Volgens Mozilla kan Smart Window je werkgeschiedenis overnemen uit bijvoorbeeld je LinkedIn-pagina of online portfolio. Of dit in Nederland al werkt, is niet bekend."
+  },
+  {
+   "q": "Is Firefox Smart Window beschikbaar in Nederland?",
+   "a": "The Verge noemt geen releasedatum en geen landenlijst. Mozilla heeft nog niet bevestigd wanneer Smart Window in Nederland beschikbaar komt."
+  }
+ ],
+ "slug": "firefox-smart-window-vult-formulieren-in-met-gegevens-uit-je-tabs",
+ "kind": "news",
+ "date": "2026-10-27",
+ "published": "2026-10-27T17:51",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms"
+  }
+ ],
+ "path": "/nieuws/firefox-smart-window-vult-formulieren-in-met-gegevens-uit-je-tabs/",
+ "og": "/img/og/firefox-smart-window-vult-formulieren-in-met-gegevens-uit-je-tabs.png",
+ "take": "Formulieren invullen met wat er in je tabs staat klinkt handig, tot je beseft dat de browser zelf moet bepalen welk veld bij welke tab hoort. Dat gaat in de praktijk mis op precies de momenten dat het telt. Ik vul mijn formulieren liever zelf in en houd de controle, want een verkeerd ingevuld veld kost meer tijd dan het bespaart."
+}

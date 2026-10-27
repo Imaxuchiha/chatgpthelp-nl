@@ -3655,5 +3655,69 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T17:50:02",
+  "slug": "",
+  "title": "Engels praten tegen AI-modellen is verreweg het goedkoopst",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T17:50:13",
+  "slug": "",
+  "title": "AI-gesprekken op Android terugvinden: dit kunnen speurders nu",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T17:50:22",
+  "slug": "",
+  "title": "Firefox Smart Window vult formulieren in met gegevens uit je tabs",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T17:50:53",
+  "slug": "",
+  "title": "Engels typen tegen AI is gewoon goedkoper. Zo zit dat",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S5"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T17:51:04",
+  "slug": "",
+  "title": "Engels typen tegen AI is gewoon goedkoper. Zo zit dat",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S5"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

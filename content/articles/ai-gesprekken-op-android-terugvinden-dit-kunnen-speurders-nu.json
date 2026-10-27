@@ -1,0 +1,68 @@
+{
+ "keyword": "ai-gesprekken android terugvinden",
+ "seo_title": "AI-gesprekken Android terugvinden: wat rechercheurs nu",
+ "title": "AI-gesprekken op Android terugvinden: dit kunnen speurders nu",
+ "meta": "Verwijderde AI-gesprekken op een Android-telefoon zijn terug te halen, meldt Bright. Lees wat dat betekent voor onderzoek en voor jouw privacy.",
+ "category": "nieuws",
+ "tags": [
+  "android",
+  "privacy",
+  "opsporing",
+  "ai-gesprekken",
+  "forensisch onderzoek"
+ ],
+ "intro": "Onderzoekers zijn erin geslaagd om verwijderde AI-conversaties van een Android-telefoon terug te halen. Dat schrijft Bright. Voor rechercheurs is dat een nieuwe bron van bewijs. Voor gebruikers betekent het dat een gewist chatgesprek niet altijd gewist blijft.",
+ "takeaways": [
+  "Verwijderde AI-gesprekken op Android zijn volgens Bright terug te halen door onderzoekers.",
+  "Rechercheurs kunnen de gespreksgeschiedenis gebruiken om het doen en laten van verdachten of slachtoffers na te gaan.",
+  "De techniek is niet alleen bruikbaar voor berichten en foto's, maar nu ook voor AI-chats.",
+  "Hoe de methode precies werkt en welke toestellen meedoen, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies is gelukt",
+   "body": "Het lukte onderzoekers om AI-gesprekken terug te halen die al van een Android-telefoon waren verwijderd. Bright meldt dat als nieuwe stap na eerder herstel van berichten, foto's en andere data.\n\nDaarmee komt een databron binnen bereik die tot nu toe buiten beeld bleef bij digitaal onderzoek. Een verdachte die een chat met een AI-assistent wist, laat dus mogelijk toch sporen achter.\n\nOver de techniek zelf geeft Bright weinig details. Welke tools zijn gebruikt en of het bij alle Android-versies werkt, is nog niet bekend."
+  },
+  {
+   "heading": "Waarom rechercheurs dit interessant vinden",
+   "body": "AI-chats kunnen veel zeggen over wat iemand van plan was, waar die naar zocht of met wie die overlegde. Denk aan een verdachte die een assistent om uitleg vroeg, of een slachtoffer dat hulp zocht via een chatbot.\n\nRechercheurs kijken bij digitaal onderzoek naar alles wat op een toestel staat. De gespreksgeschiedenis van een AI-app hoort daar nu bij. Dat geldt ook als de app zelf geen chatgeschiedenis meer toont.\n\nHet is nog niet duidelijk of Nederlandse opsporingsdiensten deze methode al gebruiken. Bright noemt geen landen of instanties die ermee aan de slag zijn."
+  },
+  {
+   "heading": "Wat het zegt over wissen",
+   "body": "Een chat verwijderen betekent op een telefoon vaak niet dat de data weg is. Bestanden blijven soms staan tot het systeem de ruimte opnieuw gebruikt. Forensische tools kunnen daar dan bij.\n\nDat geldt voor gewone berichten al jaren. Nu blijkt het ook te gelden voor gesprekken met een AI-assistent. Wie echt wil dat iets verdwijnt, moet verder gaan dan de knop in de app.\n\nHoe lang die sporen bewaard blijven, hangt af van het toestel en het gebruik. Concrete cijfers daarover geeft Bright niet."
+  },
+  {
+   "heading": "Wat je zelf kunt doen",
+   "body": "Gebruik je ChatGPT of een andere assistent op je telefoon, dan staat je chatgeschiedenis lokaal opgeslagen. Wil je die kwijt, wis dan niet alleen het gesprek in de app, maar kijk ook naar de app-gegevens en back-ups.\n\nVerkoop je je toestel, zet het dan goed terug naar de fabrieksinstellingen. Een simpele reset is niet altijd genoeg, zeggen forensisch onderzoekers vaker. Een back-up in de cloud blijft daarnaast gewoon bestaan tot je die zelf opruimt.\n\nVoor bedrijven met zakelijke telefoons geldt hetzelfde. Een gewiste chat is geen garantie dat de inhoud weg is."
+  }
+ ],
+ "nl_angle": "In Nederland raakt dit vooral twee groepen. Opsporingsdiensten kunnen bij strafzaken voortaan ook naar gewiste AI-gesprekken kijken, al is niet bekend of ze dat al doen. Voor gewone gebruikers en bedrijven betekent het dat een chat met ChatGPT of een andere assistent op de telefoon langer sporen kan achterlaten dan gedacht. Wil je zeker zijn dat iets weg is, dan moet je verder opruimen dan alleen het gesprek verwijderen.",
+ "faq": [
+  {
+   "q": "Kunnen verwijderde ChatGPT-gesprekken op Android worden teruggehaald?",
+   "a": "Ja, volgens Bright lukt het onderzoekers om verwijderde AI-conversaties van een Android-telefoon terug te halen. Welke apps en toestellen precies zijn getest, is niet bekend."
+  },
+  {
+   "q": "Blijft een gewiste AI-chat altijd bewaard?",
+   "a": "Nee, dat hangt af van het toestel en hoe je het gebruikt. Vaak blijven sporen staan tot de opslag opnieuw wordt gebruikt, maar garanties zijn er niet."
+  },
+  {
+   "q": "Wat moet ik doen als ik mijn AI-gesprekken echt wil wissen?",
+   "a": "Wis het gesprek in de app, ruim de app-gegevens op en verwijder back-ups in de cloud. Zet je een telefoon weg, dan is een fabrieksreset verstandig."
+  }
+ ],
+ "slug": "ai-gesprekken-op-android-terugvinden-dit-kunnen-speurders-nu",
+ "kind": "news",
+ "date": "2026-10-27",
+ "published": "2026-10-27T17:50",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Speurders kunnen oude AI-gesprekken op Android zo terughalen",
+   "url": "https://www.bright.nl/nieuws/2151919/speurders-kunnen-oude-ai-gesprekken-op-android-zo-terughalen.html"
+  }
+ ],
+ "path": "/nieuws/ai-gesprekken-op-android-terugvinden-dit-kunnen-speurders-nu/",
+ "og": "/img/og/ai-gesprekken-op-android-terugvinden-dit-kunnen-speurders-nu.png",
+ "take": "Een gewiste chat die toch terugkomt op de telefoon van een verdachte, daar word ik niet warm of koud van. Ik ga ervan uit dat alles wat ik intyp ergens blijft staan, dus ik zet nooit iets in een AI-venster wat een klant niet mag zien. Mijn regel is simpel: eerst gratis en lokaal waar het kan, en betalen alleen als het zich direct terugverdient."
+}
