@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: reparatieofferte auto laten beoordelen",
+ "situation": "Je garage belt met een prijsopgave die je niet goed kunt plaatsen. Deze prompt zet de offerte om in een begrijpelijke uitleg met vragen die je kunt stellen.",
+ "prompt": "Je bent een ervaren automonteur in Nederland en legt prijsopgaven uit aan klanten zonder technische kennis. Ik heb een reparatieofferte van mijn garage voor mijn [MERK EN MODEL] uit [BOUWJAAR]. Hier is de offerte: [PLAK HIER DE OFFERTE: onderdelen, arbeidsuren en totaalprijs]. Geef mij het volgende: 1) per regel in gewone taal wat er vervangen of gerepareerd wordt en waarom dat nodig kan zijn; 2) welke regels dringend zijn en welke kunnen wachten; 3) een schatting of de arbeidsuren redelijk lijken voor die klus; 4) drie concrete vragen die ik de garage kan stellen voordat ik akkoord ga. Noem bij twijfel duidelijk dat je het niet zeker weet. Verzin geen prijzen die niet in de offerte staan. Sluit af met een kort telefoongesprekje van maximaal vijf zinnen dat ik kan voorlezen.",
+ "tip": "Vraag de garage om de offerte per e-mail met losse posten; dan kun je die letterlijk in de prompt plakken.",
+ "tags": [
+  "auto",
+  "onderhoud",
+  "geld",
+  "dagelijks"
+ ],
+ "date": "2026-10-27",
+ "slug": "prompt-reparatieofferte-auto-laten-beoordelen",
+ "path": "/prompts/2026-10-27-prompt-reparatieofferte-auto-laten-beoordelen/"
+}

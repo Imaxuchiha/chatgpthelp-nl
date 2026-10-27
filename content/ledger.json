@@ -2223,6 +2223,22 @@
   "1758535ac6": {
    "at": "2026-10-26T22:01:00.905365",
    "why": "ok"
+  },
+  "250e5d8f30": {
+   "at": "2026-10-27T10:08:17.698935",
+   "why": "ok"
+  },
+  "4bf036e0f9": {
+   "at": "2026-10-27T10:09:17.698935",
+   "why": "poort"
+  },
+  "f16aefe89a": {
+   "at": "2026-10-27T10:09:17.698935",
+   "why": "ok"
+  },
+  "1a1d4bf2fc": {
+   "at": "2026-10-27T10:10:17.698935",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2602,6 +2618,9 @@
   "Anthropic beursgang onthult strategie voor zakelijke klanten",
   "ChatGPT voor werk: OpenAI brengt gebruik in kaart in bijna 100 landen",
   "Codex Ultrafast: zo lost OpenAI incidenten in minuten op",
-  "GPT-6.1 Terra: OpenAI maakt computergebruik voor iedereen"
+  "GPT-6.1 Terra: OpenAI maakt computergebruik voor iedereen",
+  "Greptile zet GPT-6 Astra in om bugs buiten codereview te vinden",
+  "OpenAI deelt wiskunderesultaten met academici",
+  "GPT-6.1 Sol helpt CodeRabbit bij security in complexe code"
  ]
 }

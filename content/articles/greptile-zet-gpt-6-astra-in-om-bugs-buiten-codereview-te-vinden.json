@@ -1,0 +1,68 @@
+{
+ "keyword": "greptile gpt-6 astra",
+ "seo_title": "Greptile GPT-6 Astra: bugs testen buiten codereview",
+ "title": "Greptile zet GPT-6 Astra in om bugs buiten codereview te vinden",
+ "meta": "Greptile gebruikt GPT-6 Astra om gebruikersworkflows te testen en Codex om rework te beperken. Wat betekent dat voor developers in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "gpt-6",
+  "greptile",
+  "codex",
+  "softwareontwikkeling"
+ ],
+ "intro": "Greptile zet het GPT-6 Astra-model van OpenAI in om software te testen op manieren die verder gaan dan een codereview. Volgens OpenAI test het bedrijf daarmee gebruikersworkflows, terwijl Daybreak de beveiliging versterkt en Codex herwerk terugdringt. Dat raakt developers die met AI-assistenten werken.",
+ "takeaways": [
+  "Greptile gebruikt GPT-6 Astra om gebruikersworkflows te testen, niet alleen losse code te beoordelen.",
+  "Daybreak wordt ingezet om de beveiliging van het proces te versterken.",
+  "Codex moet herwerk verminderen bij het ontwikkelproces.",
+  "OpenAI noemt de aanpak in een eigen publicatie van 26 oktober 2026."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Greptile met GPT-6 Astra doet",
+   "body": "Greptile is bekend van geautomatiseerde codereviews. Met GPT-6 Astra gaat het bedrijf een stap verder: het test hoe gebruikers door een applicatie lopen. Volgens OpenAI kijkt de tool dus naar werkstromen in plaats van naar losse regels code.\n\nDat verschil is praktisch. Een codereview ziet vaak niet wat er gebeurt als iemand een formulier invult, op verzenden klikt en daarna iets terugdraait. Een test op gebruikersworkflows kan zulke fouten wel aan het licht brengen.\n\nOpenAI noemt in de publicatie drie onderdelen: GPT-6 Astra voor het testen van workflows, Daybreak voor beveiliging en Codex om herwerk te beperken. Details over prijzen of beschikbaarheid geeft OpenAI niet."
+  },
+  {
+   "heading": "Daybreak en Codex in hetzelfde proces",
+   "body": "Daybreak is de naam die OpenAI koppelt aan het versterken van de beveiliging binnen de aanpak van Greptile. Wat dat onderdeel precies doet, blijft in de bron summier. OpenAI noemt het naast de andere twee onderdelen zonder technische uitleg.\n\nCodex is het model dat OpenAI eerder naar voren schoof voor programmeerwerk. Bij Greptile moet het herwerk verminderen: het opnieuw moeten doen van werk dat al gedaan was. Dat sluit aan bij een bredere wens onder developers om minder tijd te verliezen aan fouten die pas laat opvallen.\n\nDe drie onderdelen samen wijzen op een verschuiving. AI wordt ingezet na het schrijven van code, bij het controleren en testen van wat er is gebouwd."
+  },
+  {
+   "heading": "Wat het zegt over de koers van OpenAI",
+   "body": "OpenAI publiceert vaker verhalen over hoe klanten zijn modellen gebruiken. Deze keer gaat het om een tool voor ontwikkelaars, een groep die al vroeg met AI-assistenten werkte. De nadruk ligt op testen en kwaliteit, onderwerpen die direct raken aan de betrouwbaarheid van software.\n\nEen model als GPT-6 Astra wordt hier neergezet als iets dat zelfstandig gebruikersgedrag nabootst. Of dat in de praktijk klopt en hoe goed het werkt, is nog niet bekend. OpenAI geeft geen cijfers over resultaten of foutmarges.\n\nVoor ontwikkelaars is de vraag vooral hoeveel controle ze houden. Een tool die workflows test, moet zelf betrouwbaar zijn. Anders verplaatst het probleem zich van de code naar de testlaag."
+  },
+  {
+   "heading": "Nog geen prijs of releasedatum",
+   "body": "Over kosten, licenties of een Nederlandse beschikbaarheid zegt OpenAI niets in de publicatie. Ook is niet duidelijk of Greptile de aanpak al aan klanten aanbiedt of dat het om een proef gaat.\n\nWie met Greptile werkt, kan het beste de eigen documentatie van het bedrijf volgen. De OpenAI-publicatie beschrijft de samenwerking, geen productvoorwaarden.\n\nDuidelijk is wel dat de combinatie van testen, beveiligen en herwerk beperken centraal staat. Dat zijn drie taken die teams nu vaak handmatig uitvoeren."
+  }
+ ],
+ "nl_angle": "Voor developers en softwareteams in Nederland betekent dit vooral een extra laag in de ontwikkelstraat. Tools die gebruikersworkflows testen, kunnen fouten vinden die een codereview mist. Let wel op twee dingen: waar de data wordt verwerkt en of het werk binnen de Europese regels voor gegevensbescherming past. OpenAI noemt geen Europese hosting of prijzen in euro's. Nederlandse bedrijven die Greptile al gebruiken, doen er goed aan de eigen securityafspraken opnieuw tegen het licht te houden voordat ze workflowtests met klantdata laten draaien.",
+ "faq": [
+  {
+   "q": "Wat is Greptile?",
+   "a": "Greptile is een tool die code automatisch beoordeelt. Volgens OpenAI zet het bedrijf nu ook GPT-6 Astra in om gebruikersworkflows te testen."
+  },
+  {
+   "q": "Wat doet GPT-6 Astra bij Greptile?",
+   "a": "Het model test hoe gebruikers door een applicatie lopen, zodat fouten in werkstromen eerder aan het licht komen dan bij een gewone codereview."
+  },
+  {
+   "q": "Is dit al beschikbaar in Nederland?",
+   "a": "Dat is niet bekend. OpenAI noemt geen releasedatum, prijs of beschikbaarheid per land."
+  }
+ ],
+ "slug": "greptile-zet-gpt-6-astra-in-om-bugs-buiten-codereview-te-vinden",
+ "kind": "news",
+ "date": "2026-10-27",
+ "published": "2026-10-27T10:08",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+   "url": "https://openai.com/index/greptile-code-review-codex-astra"
+  }
+ ],
+ "path": "/nieuws/greptile-zet-gpt-6-astra-in-om-bugs-buiten-codereview-te-vinden/",
+ "og": "/img/og/greptile-zet-gpt-6-astra-in-om-bugs-buiten-codereview-te-vinden.png",
+ "take": "Greptile laat een model gebruikersworkflows testen, en dat is precies de laag waar de meeste meetfouten ontstaan. Een codereview ziet geen kapotte checkout of een conversie die niet doorkomt, dus zo'n test kan echte winst opleveren. Ik zie het pas als developers in Nederland het een maand op een echte omgeving draaien en kunnen nameten wat het aan bugs en rework scheelt."
+}

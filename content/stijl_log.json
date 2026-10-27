@@ -3582,5 +3582,78 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T10:08:33",
+  "slug": "",
+  "title": "Greptile zet GPT-6 Astra in om bugs buiten codereview te vinden",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T10:08:43",
+  "slug": "",
+  "title": "Nederlandse overheid wil AI inzetten voor efficiëntie, invulling nog onbekend",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T10:08:55",
+  "slug": "",
+  "title": "OpenAI deelt wiskunderesultaten met academici",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T10:09:05",
+  "slug": "",
+  "title": "GPT-6.1 Sol helpt CodeRabbit bij security in complexe code",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T10:09:49",
+  "slug": "",
+  "title": "GPT 6.1 Terra klinkt leuk, maar ik geloof het pas als ik het zie",
+  "kind": "column",
+  "rood": [],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T10:10:04",
+  "slug": "",
+  "title": "GPT 6.1 Terra klinkt leuk, maar ik geloof het pas als ik het zie",
+  "kind": "column",
+  "rood": [
+   "S10"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]
