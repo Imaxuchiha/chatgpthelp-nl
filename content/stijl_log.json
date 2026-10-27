@@ -3719,5 +3719,66 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T21:36:49",
+  "slug": "",
+  "title": "AI zorgt voor meer IT-verstoringen, waarschuwen experts",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T21:36:57",
+  "slug": "",
+  "title": "ChatGPT krijgt Oracle-apps en AI-agenten via nieuwe deal",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T21:37:06",
+  "slug": "",
+  "title": "VisionQuest: Marvel-serie laat een robot menselijkheid oefenen met AI",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T21:37:15",
+  "slug": "",
+  "title": "OpenAI Daybreak helpt Check Point sneller lekken onderzoeken",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-27T21:37:44",
+  "slug": "",
+  "title": "OpenAI en Oracle samen: weer een AI-koppeling om te testen",
+  "kind": "column",
+  "rood": [],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

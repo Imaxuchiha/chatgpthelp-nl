@@ -2251,6 +2251,22 @@
   "abb96e9fdd": {
    "at": "2026-10-27T17:51:48.835288",
    "why": "ok"
+  },
+  "32c0d4b32e": {
+   "at": "2026-10-27T21:36:37.532734",
+   "why": "poort"
+  },
+  "a3a879144b": {
+   "at": "2026-10-27T21:36:37.532734",
+   "why": "ok"
+  },
+  "d8c87d0b44": {
+   "at": "2026-10-27T21:37:37.532734",
+   "why": "ok"
+  },
+  "8cb333260a": {
+   "at": "2026-10-27T21:38:37.532734",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2636,6 +2652,9 @@
   "GPT-6.1 Sol helpt CodeRabbit bij security in complexe code",
   "Engels praten tegen AI-modellen is verreweg het goedkoopst",
   "AI-gesprekken op Android terugvinden: dit kunnen speurders nu",
-  "Firefox Smart Window vult formulieren in met gegevens uit je tabs"
+  "Firefox Smart Window vult formulieren in met gegevens uit je tabs",
+  "ChatGPT krijgt Oracle-apps en AI-agenten via nieuwe deal",
+  "VisionQuest: Marvel-serie laat een robot menselijkheid oefenen met AI",
+  "OpenAI Daybreak helpt Check Point sneller lekken onderzoeken"
  ]
 }

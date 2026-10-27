@@ -1,0 +1,67 @@
+{
+ "keyword": "chatgpt oracle apps",
+ "seo_title": "ChatGPT Oracle apps: zakelijke tools in ChatGPT",
+ "title": "ChatGPT krijgt Oracle-apps en AI-agenten via nieuwe deal",
+ "meta": "OpenAI en Oracle breiden hun samenwerking uit. Zakelijke Oracle-apps en AI-agenten komen in ChatGPT. Wat betekent dit voor Nederlandse bedrijven?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "oracle",
+  "chatgpt",
+  "ai-agenten",
+  "zakelijke software"
+ ],
+ "intro": "OpenAI en Oracle werken nauwer samen. Volgens OpenAI komen zakelijke Oracle-applicaties en AI-agenten beschikbaar in ChatGPT. Ook gaat OpenAI technologie leveren voor nieuwe Oracle-producten. Voor bedrijven die met Oracle werken, kan dit de manier veranderen waarop ze ChatGPT gebruiken.",
+ "takeaways": [
+  "Oracle-apps en AI-agenten komen in ChatGPT, meldt OpenAI.",
+  "OpenAI levert technologie voor nieuwe Oracle-aanbiedingen.",
+  "De uitbreiding bouwt voort op een bestaande samenwerking.",
+  "Praktische details en releasedatum zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de samenwerking inhoudt",
+   "body": "OpenAI en Oracle breiden hun bestaande partnerschap uit. Het doel is om zakelijke applicaties van Oracle en AI-agenten toegankelijk te maken binnen ChatGPT. Dat staat in de aankondiging van OpenAI.\n\nDaarnaast gaat OpenAI technologie leveren die Oracle gebruikt voor nieuwe producten. Het gaat dus om een tweerichtingsverkeer: Oracle-apps naar ChatGPT en OpenAI-technologie naar Oracle. OpenAI noemt geen concrete producten of data."
+  },
+  {
+   "heading": "Waarom dit telt voor zakelijke gebruikers",
+   "body": "Veel Nederlandse bedrijven gebruiken Oracle-software, bijvoorbeeld voor financiën, logistiek of personeelszaken. Als die applicaties straks in ChatGPT beschikbaar zijn, kun je vanuit één omgeving vragen stellen over bedrijfsdata. Denk aan een agent die een voorraadoverzicht geeft of een rapport samenvat. OpenAI zegt dat AI-agenten hierbij een rol spelen.\n\nHet is nog niet duidelijk welke Oracle-apps precies worden ondersteund. Ook is niet bekend of dit voor alle Oracle-klanten beschikbaar komt of alleen voor bepaalde abonnementen. OpenAI geeft daar in de aankondiging geen uitsluitsel over."
+  },
+  {
+   "heading": "AI-agenten in ChatGPT",
+   "body": "AI-agenten zijn programma's die zelfstandig taken kunnen uitvoeren, zoals gegevens opzoeken of acties starten in een app. In ChatGPT kunnen zulke agenten straks mogelijk Oracle-processen aansturen. Dat betekent wel dat je als bedrijf goed moet nadenken over rechten en beveiliging. Wie mag welke data zien? OpenAI en Oracle hebben nog geen details gepubliceerd over hoe dat wordt geregeld."
+  },
+  {
+   "heading": "Wat nog onbekend is",
+   "body": "Er is nog geen releasedatum genoemd. Ook ontbreekt informatie over prijzen. Nederlandse bedrijven die nu al Oracle en ChatGPT gebruiken, kunnen nog niet inschatten wanneer de nieuwe mogelijkheden beschikbaar zijn. OpenAI zegt alleen dat de samenwerking wordt uitgebreid. Meer concrete aankondigingen worden later verwacht."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven met Oracle-software kan dit interessant worden. Je zou straks vanuit ChatGPT kunnen werken met Oracle-data, zonder aparte systemen te openen. Dat kan tijd schelen, maar roept ook vragen op over privacy en toegang. De Europese regels voor gegevensbescherming blijven gelden. Zodra OpenAI en Oracle meer details geven, wordt duidelijk of en wanneer Nederlandse klanten hiervan gebruik kunnen maken. Tot die tijd blijft het bij een aankondiging.",
+ "faq": [
+  {
+   "q": "Wat betekent deze samenwerking voor mij als Oracle-gebruiker?",
+   "a": "Als je Oracle-apps gebruikt, kun je mogelijk binnenkort vanuit ChatGPT met die apps werken. OpenAI heeft nog niet gezegd welke apps en wanneer."
+  },
+  {
+   "q": "Moet ik extra betalen voor Oracle-apps in ChatGPT?",
+   "a": "Er is nog geen prijsinformatie bekend. OpenAI en Oracle hebben hierover niets gemeld."
+  },
+  {
+   "q": "Zijn de Oracle-apps in ChatGPT beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI noemt geen landen of regio's in de aankondiging."
+  }
+ ],
+ "slug": "chatgpt-krijgt-oracle-apps-en-ai-agenten-via-nieuwe-deal",
+ "kind": "news",
+ "date": "2026-10-27",
+ "published": "2026-10-27T21:36",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+   "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+  }
+ ],
+ "path": "/nieuws/chatgpt-krijgt-oracle-apps-en-ai-agenten-via-nieuwe-deal/",
+ "og": "/img/og/chatgpt-krijgt-oracle-apps-en-ai-agenten-via-nieuwe-deal.png"
+}
