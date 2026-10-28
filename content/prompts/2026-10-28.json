@@ -1,0 +1,15 @@
+{
+ "title": "Klachtenmail opstellen over je pakketbezorging",
+ "situation": "Je pakket is zoek, beschadigd of veel te laat bezorgd. Met deze prompt zet je een nette, stevige klacht neer bij de webshop.",
+ "prompt": "Je bent iemand die heldere klachtenbrieven schrijft namens consumenten. Ik heb een probleem met een pakketbezorging en wil een mail sturen naar de webshop. Hier zijn de feiten: bestelnummer [BESTELNUMMER], besteld op [DATUM BESTELLING], bedrag [BEDRAG IN EURO], verwachte leverdatum [DATUM], wat er misging: [BESCHRIJF HET PROBLEEM, BIJV. NIET ONTVANGEN, BESCHADIGD, VERKEERD ADRES]. Ik heb al contact gehad: [WAT JE AL DEED, BIJV. GEMAILD OP 12 OKTOBER, GEEN REACTIE]. Schrijf een mail van maximaal 200 woorden in nuchter Nederlands. Noem de feiten in een korte opsomming, verwijs naar de wettelijke leverplicht en vraag om een concrete oplossing binnen veertien dagen: opnieuw leveren, vervangen of het bedrag terug. Sluit af met een redelijke termijn waarna ik verdere stappen neem. Geef de mail een duidelijke onderwerpregel en houd de toon zakelijk, zonder verwijten.",
+ "tip": "Voeg de reactie van de webshop toe zodra je die hebt, zodat ChatGPT je vervolgmail kan aanscherpen.",
+ "tags": [
+  "klacht",
+  "online shoppen",
+  "consumentenrecht",
+  "e-mail"
+ ],
+ "date": "2026-10-28",
+ "slug": "klachtenmail-opstellen-over-je-pakketbezorging",
+ "path": "/prompts/2026-10-28-klachtenmail-opstellen-over-je-pakketbezorging/"
+}

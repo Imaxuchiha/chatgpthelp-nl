@@ -3780,5 +3780,70 @@
   "rood": [],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-28T10:49:33",
+  "slug": "",
+  "title": "Apple Creator Studio krijgt AI-update zonder prijsstijging",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-28T10:49:43",
+  "slug": "",
+  "title": "ChatGPT krijgt toegang tot iCloud Mail en Apple-agenda",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-28T10:49:51",
+  "slug": "",
+  "title": "OpenAI GPT-6 Astra wint benchmark voor telefonische AI",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-28T10:50:00",
+  "slug": "",
+  "title": "Anthropic IPO: Amazon verdient het meest aan de beursgang",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-28T10:50:23",
+  "slug": "",
+  "title": "ChatGPT prompts in het Nederlands: zo krijg je betere antwoorden",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S4",
+   "S5"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

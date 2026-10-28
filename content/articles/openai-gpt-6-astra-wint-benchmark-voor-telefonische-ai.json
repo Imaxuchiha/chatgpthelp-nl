@@ -1,0 +1,68 @@
+{
+ "keyword": "openai gpt-6 astra",
+ "seo_title": "OpenAI GPT-6 Astra: Retell verwerkt 100 miljoen calls",
+ "title": "OpenAI GPT-6 Astra wint benchmark voor telefonische AI",
+ "meta": "Retell AI gebruikt OpenAI-modellen voor 100 miljoen maandelijkse telefoongesprekken. GPT-6 Astra staat bovenaan de voicebenchmark van het bedrijf.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "gpt-6 astra",
+  "retell",
+  "spraak-ai",
+  "codex"
+ ],
+ "intro": "Retell AI laat zijn telefonische spraakassistenten draaien op modellen van OpenAI. Het bedrijf verwerkt daarmee 100 miljoen gesprekken per maand. OpenAI meldt dat GPT-6 Astra bovenaan de benchmark van Retell staat. Ook helpt Codex het bedrijf aan een omzet van 1,6 miljoen dollar per werknemer per jaar.",
+ "takeaways": [
+  "Retell verwerkt 100 miljoen maandelijkse telefoongesprekken met OpenAI-modellen.",
+  "GPT-6 Astra staat bovenaan de voice agent-benchmark van Retell.",
+  "Codex helpt Retell aan een jaarlijkse omzet van 1,6 miljoen dollar per medewerker.",
+  "OpenAI maakte de cijfers op 27 oktober 2026 bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Retell doet met OpenAI-modellen",
+   "body": "Retell bouwt spraakassistenten die bedrijven aan de telefoon inzetten. Denk aan een computerstem die klanten te woord staat of afspraken inplant. Volgens OpenAI draaien die gesprekken op modellen van het bedrijf.\n\nDe schaal is groot: 100 miljoen gesprekken per maand. OpenAI noemt dat aantal in zijn bericht van 27 oktober. Hoeveel klanten Retell heeft, maakt OpenAI niet bekend."
+  },
+  {
+   "heading": "GPT-6 Astra bovenaan de benchmark",
+   "body": "Retell test spraakmodellen op kwaliteit van de gesprekken. In die eigen benchmark komt GPT-6 Astra als beste uit de bus. OpenAI noemt dat resultaat zonder precieze scores te geven.\n\nWat de benchmark meet, is niet uitgewerkt in de bron. Of Astra gesproken taal begrijpt, hoe snel het model reageert of hoe natuurlijk de stem klinkt, blijft daarmee onduidelijk. OpenAI zegt alleen dat Astra bovenaan staat."
+  },
+  {
+   "heading": "Codex en de omzet per werknemer",
+   "body": "Naast spraak speelt Codex een rol bij Retell. Dat is het programmeerhulpmiddel van OpenAI dat code schrijft en aanpast. Volgens OpenAI helpt Codex Retell aan een jaarlijkse omzet van 1,6 miljoen dollar per medewerker.\n\nDat cijfer zegt iets over hoe weinig mensen het bedrijf nodig heeft voor veel omzet. Het is geen winstcijfer. OpenAI geeft geen details over het aantal werknemers of de kosten van Retell."
+  },
+  {
+   "heading": "Wat dit zegt over de markt voor spraak-ai",
+   "body": "Telefonische assistenten zijn een groeiende toepassing van AI. Bedrijven gebruiken ze voor klantenservice, reserveringen en terugbelverzoeken. Een partij die 100 miljoen gesprekken per maand aankan, laat zien dat die markt serieus volume haalt.\n\nVoor OpenAI is Retell een voorbeeldklant. Het laat zien dat zijn modellen niet alleen in chatbots werken, maar ook in gesproken gesprekken. Concrete prijzen of contracten tussen beide bedrijven noemt OpenAI niet."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven betekent dit dat telefonische AI-assistenten een realistisch alternatief worden voor simpele klantvragen. Let wel op de Europese regels: een computerstem moet zich aan de telefoon kenbaar maken als AI. De AI-verordening van de EU stelt daar eisen aan, en bij gevoelige gegevens geldt de AVG. Retell is een Amerikaans bedrijf, dus check waar de gespreksdata worden opgeslagen voordat je zo'n dienst inzet. Prijzen in euro's en beschikbaarheid in Nederland zijn nog niet bekend.",
+ "faq": [
+  {
+   "q": "wat is gpt-6 astra",
+   "a": "GPT-6 Astra is een model van OpenAI. Volgens OpenAI staat het bovenaan de benchmark die Retell gebruikt voor telefonische spraakassistenten."
+  },
+  {
+   "q": "wat doet retell ai",
+   "a": "Retell bouwt AI-stemmen voor telefoongesprekken, bijvoorbeeld voor klantenservice. Het bedrijf verwerkt 100 miljoen gesprekken per maand op modellen van OpenAI."
+  },
+  {
+   "q": "kan ik retell in nederland gebruiken",
+   "a": "Retell is een Amerikaanse dienst. Of Nederlandse bedrijven hem mogen inzetten hangt af van de dataopslag en de Europese regels voor AI en privacy. Concrete informatie daarover is nog niet bekend."
+  }
+ ],
+ "slug": "openai-gpt-6-astra-wint-benchmark-voor-telefonische-ai",
+ "kind": "news",
+ "date": "2026-10-28",
+ "published": "2026-10-28T10:50",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Retell uses OpenAI models to help power 100M monthly calls",
+   "url": "https://openai.com/index/retell-ai"
+  }
+ ],
+ "path": "/nieuws/openai-gpt-6-astra-wint-benchmark-voor-telefonische-ai/",
+ "og": "/img/og/openai-gpt-6-astra-wint-benchmark-voor-telefonische-ai.png",
+ "take": "OpenAI zet graag een benchmark bovenaan, maar een demo is geen product. Die 100 miljoen gesprekken per maand zeggen me pas iets als blijkt dat bellers niet vastlopen op een stem die als robot klinkt. Menselijk klinken betekent concreet zijn en toegeven wat niet lukte, en dat geldt voor een telefonische assistent net zo hard als voor een stuk tekst."
+}
