@@ -2299,6 +2299,22 @@
   "5e4098babe": {
    "at": "2026-10-28T18:21:41.828799",
    "why": "ok"
+  },
+  "41e0dc889e": {
+   "at": "2026-10-28T21:58:03.820671",
+   "why": "ok"
+  },
+  "34b0bf3f94": {
+   "at": "2026-10-28T21:58:03.820671",
+   "why": "ok"
+  },
+  "75e2017ed4": {
+   "at": "2026-10-28T21:59:03.820671",
+   "why": "ok"
+  },
+  "0dc3cf0b7c": {
+   "at": "2026-10-28T22:00:03.820671",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2693,6 +2709,9 @@
   "Anthropic IPO: Amazon verdient het meest aan de beursgang",
   "Legora bouwt juridisch ai-systeem met OpenAI-modellen",
   "AI als luisterend oor: Nederlanders delen zorgen met ChatGPT",
-  "Chrome Autofill kan nu formulieren invullen met gegevens uit je Gmail"
+  "Chrome Autofill kan nu formulieren invullen met gegevens uit je Gmail",
+  "Gemini 4 Carbon: Google's nieuwste AI-model dat je niet kunt gebruiken",
+  "OpenAI en ServiceNow breiden samenwerking uit naar workflows",
+  "AI in de organisatie: OpenAI schetst drie plekken in het org chart"
  ]
 }

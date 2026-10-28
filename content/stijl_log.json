@@ -3901,5 +3901,44 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-28T21:58:16",
+  "slug": "",
+  "title": "Gemini 4 Carbon: Google's nieuwste AI-model dat je niet kunt gebruiken",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-28T21:58:25",
+  "slug": "",
+  "title": "OpenAI en ServiceNow breiden samenwerking uit naar workflows",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-28T21:58:35",
+  "slug": "",
+  "title": "AI in de organisatie: OpenAI schetst drie plekken in het org chart",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

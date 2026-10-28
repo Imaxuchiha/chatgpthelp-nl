@@ -1,0 +1,73 @@
+{
+ "keyword": "gemini 4 carbon",
+ "seo_title": "Gemini 4 Carbon: Google's nieuwe model dat je niet kunt",
+ "title": "Gemini 4 Carbon: Google's nieuwste AI-model dat je niet kunt gebruiken",
+ "meta": "Google kondigt Gemini 4 Carbon aan, een frontier-model dat het publiek niet mag gebruiken. Wat het is, waarom het gesloten blijft en wat het voor…",
+ "category": "nieuws",
+ "tags": [
+  "gemini",
+  "google",
+  "deepmind",
+  "ai-modellen",
+  "frontier-ai"
+ ],
+ "intro": "Google heeft Gemini 4 Carbon aangekondigd, een nieuw frontier-model van Google DeepMind. Volgens Ars Technica gaat het om een iets betere versie van Argon. Het model komt niet beschikbaar voor gewone gebruikers of bedrijven.",
+ "takeaways": [
+  "Gemini 4 Carbon is een frontier-model van Google DeepMind, aangekondigd op 28 oktober 2026.",
+  "Volgens Ars Technica is het een licht verbeterde versie van het eerdere model Argon.",
+  "Het model is niet toegankelijk voor het publiek.",
+  "Google geeft in de aankondiging geen details over prijs of beschikbaarheid in Nederland of de EU."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Gemini 4 Carbon is",
+   "body": "Google DeepMind noemt Gemini 4 Carbon het volgende frontier-model. Die term verwijst naar de zwaarste modellen die een lab bouwt, vaak met de meeste rekenkracht en de nieuwste technieken. Frontier zegt iets over de positie in de ontwikkeling, niet over wat gebruikers krijgen.\n\nArs Technica plaatst het model dicht bij Argon. Carbon is volgens de techsite een iets betere versie daarvan. Grote sprongen worden dus niet gemeld. Hoeveel beter het precies presteert, maakt Google niet duidelijk in de aankondiging."
+  },
+  {
+   "heading": "Waarom je het niet kunt gebruiken",
+   "body": "De titel van Ars Technica is duidelijk: dit model kun je niet gebruiken. Google brengt Carbon niet als product naar buiten. Het blijft binnen het lab en is bedoeld voor onderzoek en interne tests.\n\nDat is geen uitzondering. Labs kondigen vaker modellen aan die het publiek nooit te zien krijgt. Ze laten zien waar het onderzoek staat en houden concurrenten scherp. Voor gebruikers verandert er niets aan wat ze vandaag in ChatGPT, Gemini of Claude kunnen doen."
+  },
+  {
+   "heading": "Wat Google wel en niet zegt",
+   "body": "De blog van Google DeepMind noemt Carbon het volgende frontier-model. Concrete cijfers, benchmarks of een releasedatum ontbreken in de aangeleverde bronnen. Ook over een prijs of een Europese uitrol staat niets in de aankondiging.\n\nArs Technica noemt alleen de vergelijking met Argon. Meer details over wat Carbon kan, zijn nog niet bekend. Wie hoopt op een nieuwe versie van de Gemini-app moet dus nog wachten op een aparte aankondiging."
+  },
+  {
+   "heading": "Argon en Carbon: de naamgeving",
+   "body": "Google gebruikt voor deze modellen namen die aan materialen en elementen doen denken. Argon is een edelgas, Carbon verwijst naar koolstof. Die namen zeggen niets over de techniek erachter.\n\nBelangrijker is de vraag of een gesloten model invloed heeft op wat je in Nederland kunt gebruiken. Het antwoord is nu nee. Zolang Google Carbon niet uitbrengt, blijft het buiten bereik van bedrijven en consumenten in ons land."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders verandert er niets. Gemini 4 Carbon komt niet beschikbaar, dus je kunt het niet gebruiken in de Gemini-app of via de API. Bedrijven die op Google bouwen, merken pas iets als een publiek model verschijnt. Over een Europese uitrol of Nederlandse beschikbaarheid zegt Google niets. Wie nu AI wil inzetten, blijft aangewezen op de modellen die al beschikbaar zijn.",
+ "faq": [
+  {
+   "q": "Kan ik Gemini 4 Carbon gebruiken?",
+   "a": "Nee. Google heeft het model aangekondigd als frontier-model, maar brengt het niet naar het publiek. Het blijft binnen het lab."
+  },
+  {
+   "q": "Wat is het verschil tussen Gemini 4 Carbon en Argon?",
+   "a": "Volgens Ars Technica is Carbon een iets betere versie van Argon. Verdere details over de prestaties maakt Google niet bekend."
+  },
+  {
+   "q": "Wanneer komt Gemini 4 Carbon naar Nederland?",
+   "a": "Daar is niets over bekend. Google noemt geen releasedatum en geen Europese of Nederlandse uitrol."
+  }
+ ],
+ "slug": "gemini-4-carbon-google-s-nieuwste-ai-model-dat-je-niet-kunt-gebruiken",
+ "kind": "news",
+ "date": "2026-10-28",
+ "published": "2026-10-28T21:58",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+   "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+  },
+  {
+   "name": "Google DeepMind",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+  }
+ ],
+ "path": "/nieuws/gemini-4-carbon-google-s-nieuwste-ai-model-dat-je-niet-kunt-gebruiken/",
+ "og": "/img/og/gemini-4-carbon-google-s-nieuwste-ai-model-dat-je-niet-kunt-gebruiken.png",
+ "take": "Een model waar niemand bij kan, levert mijn bureau precies nul euro op. Ik betaal alleen voor gereedschap dat zich meteen terugverdient, dus deze aankondiging verandert bij mij niks. Laat Google eerst maar eens iets neerzetten waar een Nederlandse ondernemer echt mee vooruit komt."
+}

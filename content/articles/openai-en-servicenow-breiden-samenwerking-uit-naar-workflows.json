@@ -1,0 +1,69 @@
+{
+ "keyword": "openai servicenow",
+ "seo_title": "OpenAI ServiceNow: wat de uitbreiding betekent",
+ "title": "OpenAI en ServiceNow breiden samenwerking uit naar workflows",
+ "meta": "OpenAI en ServiceNow koppelen modellen en agents aan ServiceNow en workflows aan ChatGPT en Codex. Wat merken Nederlandse bedrijven daarvan?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "servicenow",
+  "chatgpt",
+  "codex",
+  "agents",
+  "enterprise"
+ ],
+ "intro": "OpenAI en ServiceNow werken nauwer samen. OpenAI-modellen en agents komen in ServiceNow, en ServiceNow-workflows komen in ChatGPT en Codex. Dat meldt OpenAI zelf. Voor bedrijven die hun administratieve en IT-processen automatiseren, kan dit veel uitmaken.",
+ "takeaways": [
+  "OpenAI-modellen en agents worden onderdeel van ServiceNow.",
+  "ServiceNow-workflows komen beschikbaar in ChatGPT en Codex.",
+  "De uitbreiding is volgens OpenAI gericht op bedrijfsprocessen.",
+  "Prijzen en een Nederlandse lanceerdatum zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de twee partijen afspreken",
+   "body": "OpenAI en ServiceNow breiden hun bestaande samenwerking uit. Aan de ene kant komen OpenAI-modellen en agents in ServiceNow. Aan de andere kant komen ServiceNow-workflows in ChatGPT en Codex.\n\nDat betekent dat een medewerker in ServiceNow taken kan uitbesteden aan een AI-agent. Denk aan het sorteren van tickets of het opzoeken van informatie. Andersom kan iemand in ChatGPT of Codex bij ServiceNow-processen komen.\n\nOpenAI noemt de stap een uitbreiding van de samenwerking. Meer details over de techniek geeft het bedrijf in de aankondiging niet."
+  },
+  {
+   "heading": "Wat zijn agents eigenlijk",
+   "body": "Een agent is een AI-model dat zelf stappen zet. Het leest een opdracht, zoekt gegevens op en voert een taak uit. Dat gaat verder dan een vraag beantwoorden in een chatvenster.\n\nServiceNow is een Amerikaans platform voor bedrijfsprocessen. Grote organisaties regelen er hun IT-hulp, HR-aanvragen en klantvragen. De koppeling brengt AI dus dichter bij het werk dat mensen elke dag doen.\n\nVoor ontwikkelaars is Codex interessant. Dat is de programmeeromgeving van OpenAI. Als daar ServiceNow-gegevens in staan, scheelt dat heen en weer schakelen tussen systemen."
+  },
+  {
+   "heading": "Wat OpenAI wel en niet zegt",
+   "body": "De aankondiging blijft op hoofdlijnen. OpenAI noemt geen prijzen, geen releasedatum en geen lijst met functies. Ook is niet duidelijk welke modellen precies worden ingezet.\n\nDat is gebruikelijk bij dit soort berichten. Eerst komt de richting, later volgen de details. Bedrijven die willen plannen, moeten dus nog even geduld hebben.\n\nWat vaststaat: de samenwerking gaat over bedrijfswerkstromen. De nadruk ligt op organisaties, niet op consumenten die thuis ChatGPT gebruiken."
+  },
+  {
+   "heading": " concurrentie op de zakelijke markt",
+   "body": "OpenAI is niet de enige speler die bedrijfssoftware wil koppelen aan AI. Microsoft bouwt Copilot in zijn eigen pakket. Google doet hetzelfde met Gemini in Workspace.\n\nServiceNow werkt met meerdere AI-partners. De uitbreiding met OpenAI past in dat patroon. Voor klanten betekent het meer keuze, en mogelijk meer lock-in per leverancier.\n\nWie al ServiceNow gebruikt, krijgt er een AI-laag bij. Wie vooral ChatGPT gebruikt, kan straks werkstromen uit ServiceNow aanroepen."
+  }
+ ],
+ "nl_angle": "Nederlandse organisaties die ServiceNow gebruiken, kunnen straks OpenAI-agents inzetten binnen hun bestaande processen. Grote werkgevers in onder meer banken, zorg en overheid werken met dit platform. De vraag is nog wanneer de functies hier beschikbaar komen en wat ze kosten. OpenAI noemt geen Europese of Nederlandse lanceerdatum. Bedrijven doen er goed aan hun inkoop- en IT-afdeling nu al te laten meekijken, want data van medewerkers en klanten gaat dan door een AI-model. Onder de Europese AI-verordening blijft de organisatie zelf verantwoordelijk voor hoe die gegevens worden gebruikt.",
+ "faq": [
+  {
+   "q": "Wat verandert er door de samenwerking tussen OpenAI en ServiceNow?",
+   "a": "OpenAI-modellen en agents komen in ServiceNow, en ServiceNow-workflows komen in ChatGPT en Codex. Zo worden AI-taken en bedrijfsprocessen aan elkaar gekoppeld."
+  },
+  {
+   "q": "Wanneer is dit beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI noemt in de aankondiging geen datum en geen landenlijst."
+  },
+  {
+   "q": "Wat kost het om OpenAI-agents in ServiceNow te gebruiken?",
+   "a": "Prijzen maakt OpenAI nog niet bekend. Het is dus onduidelijk of klanten extra betalen bovenop hun ServiceNow-abonnement."
+  }
+ ],
+ "slug": "openai-en-servicenow-breiden-samenwerking-uit-naar-workflows",
+ "kind": "news",
+ "date": "2026-10-28",
+ "published": "2026-10-28T21:59",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+  }
+ ],
+ "path": "/nieuws/openai-en-servicenow-breiden-samenwerking-uit-naar-workflows/",
+ "og": "/img/og/openai-en-servicenow-breiden-samenwerking-uit-naar-workflows.png",
+ "take": "Twee leveranciers die hun namen op een persbericht zetten, dat is nog geen werkende koppeling. Ik heb zelf niet met ServiceNow gewerkt, dus ik wacht op een demo waarin iemand laat zien wat het oplevert. Tot die tijd is dit voor mij gebakken lucht met een logo erop."
+}
