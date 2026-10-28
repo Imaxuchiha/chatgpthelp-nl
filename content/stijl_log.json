@@ -3845,5 +3845,61 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-28T18:19:54",
+  "slug": "",
+  "title": "Legora bouwt juridisch ai-systeem met OpenAI-modellen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-28T18:20:03",
+  "slug": "",
+  "title": "AI als luisterend oor: Nederlanders delen zorgen met ChatGPT",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-28T18:20:13",
+  "slug": "",
+  "title": "Chrome Autofill kan nu formulieren invullen met gegevens uit je Gmail",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-28T18:20:30",
+  "slug": "",
+  "title": "ChatGPT prompts in het Nederlands: praktische gids",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S4",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

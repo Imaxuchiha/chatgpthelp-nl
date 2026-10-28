@@ -1,0 +1,70 @@
+{
+ "keyword": "chatgpt prompts nederlands",
+ "seo_title": "ChatGPT prompts Nederlands: zo schrijf je ze",
+ "title": "ChatGPT prompts in het Nederlands: praktische gids",
+ "meta": "Leer hoe je goede ChatGPT-prompts in het Nederlands schrijft. Met concrete stappen, voorbeeldprompt en antwoorden op veelgestelde vragen.",
+ "category": "uitleg",
+ "tags": [
+  "chatgpt",
+  "prompts",
+  "nederlands",
+  "ai",
+  "uitleg"
+ ],
+ "intro": "Een goede prompt bepaalt wat je uit ChatGPT haalt. Veel Nederlanders typen iets in het Nederlands en krijgen een vaag antwoord. Met een paar vaste stappen wordt dat beter. Deze gids laat zien hoe je prompts in het Nederlands opbouwt en wat je beter kunt vermijden.",
+ "takeaways": [
+  "Wees concreet: zeg wat je wilt, voor wie en in welke vorm.",
+  "Geef context en een voorbeeld van het gewenste resultaat.",
+  "Vraag om een korte uitleg als het antwoord onduidelijk is.",
+  "Test en verbeter: pas de prompt aan op basis van het antwoord."
+ ],
+ "sections": [
+  {
+   "heading": "Waarom een Nederlandse prompt anders werkt",
+   "body": "ChatGPT begrijpt Nederlands goed, maar de kwaliteit hangt af van hoe je de vraag formuleert. Een korte opdracht als 'schrijf iets over pensioenen' levert een algemeen verhaal op. Voeg je doel, doelgroep en gewenste lengte toe, dan wordt het antwoord bruikbaar.\n\nTaal maakt uit. Kies je voor Nederlands, schrijf de prompt dan in het Nederlands. Zo voorkom je dat het model ongemerkt Engelse termen of zinsbouw overneemt. Wil je juist Engels oefenen, zeg dat er dan bij.\n\nOok de toon kun je sturen. Zeg of je zakelijk, informeel of juist kort en direct wilt. Hoe duidelijker je bent, hoe minder je achteraf hoeft te corrigeren."
+  },
+  {
+   "heading": "De opbouw van een sterke prompt",
+   "body": "Begin met de rol of het doel. Bijvoorbeeld: 'Je bent een ervaren communicatieadviseur.' Daarna volgt de taak: wat moet ChatGPT doen? Geef vervolgens context: voor wie is het, wat is de aanleiding en welke informatie is bekend?\n\nBeschrijf de vorm van het antwoord. Wil je een lijst, een alinea of een tabel? Noem ook de lengte. 'Maximaal 150 woorden' werkt beter dan 'kort'. Voeg een voorbeeld toe als je een specifieke stijl wilt.\n\nSluit af met een controle. Vraag bijvoorbeeld: 'Vat in drie punten samen wat je hebt gedaan.' Zo zie je of het model je opdracht goed heeft begrepen. Twijfel je, vraag dan om een toelichting."
+  },
+  {
+   "heading": "Voorbeeldprompt om mee te oefenen",
+   "body": "Hier is een prompt die je direct kunt gebruiken. Pas de delen tussen haakjes aan naar je eigen situatie.\n\n\"Je bent een Nederlandse tekstschrijver. Schrijf een e-mail van maximaal 120 woorden aan [doelgroep] over [onderwerp]. De toon is vriendelijk en zakelijk. Noem één concreet voordeel en sluit af met een uitnodiging om te reageren. Gebruik geen moeilijke woorden. Geef daarna in twee zinnen aan waarom je deze opbouw hebt gekozen.\"\n\nLet op de vaste onderdelen: rol, taak, doelgroep, lengte, toon en een controle. Die maken de prompt herhaalbaar. Je kunt hetzelfde stramien gebruiken voor een samenvatting, een plan of een uitleg."
+  },
+  {
+   "heading": "Veelgemaakte fouten en hoe je ze oplost",
+   "body": "Een veelgemaakte fout is alles in één zin proppen. Splits de opdracht liever in stappen. Vraag eerst om een outline en daarna om uitwerking. Dat geeft meer grip op het resultaat.\n\nOok vaag taalgebruik kost kwaliteit. Woorden als 'leuk' of 'professioneel' betekenen voor iedereen iets anders. Gebruik voorbeelden: 'gebruik korte zinnen en vermijd jargon' is duidelijker.\n\nTot slot: controleer feiten. ChatGPT kan overtuigend klinken en toch dingen verzinnen. Vraag bij twijfel om bronnen of zoek het zelf na. Zeker bij cijfers, wetten en namen is dat nodig."
+  },
+  {
+   "heading": "Promptbibliotheek opbouwen",
+   "body": "Bewaar prompts die goed werken. Maak een map of notitiebestand met vaste opdrachten voor terugkerende taken, zoals een vergaderverslag, een productbeschrijving of een reactie op een klacht. Zo hoef je niet elke keer opnieuw te beginnen.\n\nGeef elke prompt een korte naam en noteer wat je hebt aangepast. Na een paar weken zie je welke varianten het beste resultaat geven. Dat scheelt tijd en maakt je werk consistenter."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders is het handig om prompts in het Nederlands te schrijven als het eindresultaat ook Nederlands moet zijn. Let op woorden die in het Engels anders betekenen, zoals 'offer' of 'control'. Werk je met gevoelige informatie, deel dan geen persoonsgegevens die je niet nodig hebt. De richtlijnen voor privacy en auteursrecht gelden ook hier.",
+ "faq": [
+  {
+   "q": "Moet ik mijn prompt in het Nederlands of Engels schrijven?",
+   "a": "Schrijf in de taal van het gewenste antwoord. Wil je een Nederlandse tekst, gebruik dan Nederlands. Wil je Engels oefenen, zeg dat er dan bij."
+  },
+  {
+   "q": "Waarom geeft ChatGPT soms een vaag antwoord?",
+   "a": "Meestal ontbreekt context: doel, doelgroep, lengte of toon. Voeg die toe en vraag om een controle of voorbeeld."
+  },
+  {
+   "q": "Kan ik ChatGPT vragen om mijn tekst te verbeteren?",
+   "a": "Ja. Plak de tekst en vraag om concrete verbeteringen, bijvoorbeeld op spelling, stijl en duidelijkheid. Vraag om maximaal vijf punten."
+  },
+  {
+   "q": "Hoe weet ik of het antwoord klopt?",
+   "a": "Controleer feiten altijd zelf, zeker bij cijfers, wetten en namen. Vraag ChatGPT om bronnen of uitleg en vergelijk met betrouwbare informatie."
+  }
+ ],
+ "slug": "chatgpt-prompts-in-het-nederlands-praktische-gids",
+ "kind": "evergreen",
+ "date": "2026-10-28",
+ "published": "2026-10-28T18:19",
+ "sources": [],
+ "path": "/uitleg/chatgpt-prompts-in-het-nederlands-praktische-gids/",
+ "og": "/img/og/chatgpt-prompts-in-het-nederlands-praktische-gids.png",
+ "seed": "ChatGPT prompts nederlands"
+}

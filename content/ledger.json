@@ -2283,6 +2283,22 @@
   "1b16f2a2a4": {
    "at": "2026-10-28T10:51:22.720838",
    "why": "ok"
+  },
+  "2fc8e689e4": {
+   "at": "2026-10-28T18:19:41.828799",
+   "why": "ok"
+  },
+  "41c97fe8dc": {
+   "at": "2026-10-28T18:19:41.828799",
+   "why": "ok"
+  },
+  "55133f38e8": {
+   "at": "2026-10-28T18:20:41.828799",
+   "why": "ok"
+  },
+  "5e4098babe": {
+   "at": "2026-10-28T18:21:41.828799",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2674,6 +2690,9 @@
   "OpenAI Daybreak helpt Check Point sneller lekken onderzoeken",
   "ChatGPT krijgt toegang tot iCloud Mail en Apple-agenda",
   "OpenAI GPT-6 Astra wint benchmark voor telefonische AI",
-  "Anthropic IPO: Amazon verdient het meest aan de beursgang"
+  "Anthropic IPO: Amazon verdient het meest aan de beursgang",
+  "Legora bouwt juridisch ai-systeem met OpenAI-modellen",
+  "AI als luisterend oor: Nederlanders delen zorgen met ChatGPT",
+  "Chrome Autofill kan nu formulieren invullen met gegevens uit je Gmail"
  ]
 }

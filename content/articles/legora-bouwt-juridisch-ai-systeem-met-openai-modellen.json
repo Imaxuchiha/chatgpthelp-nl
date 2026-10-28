@@ -1,0 +1,70 @@
+{
+ "keyword": "legora juridisch ai",
+ "seo_title": "Legora juridisch ai: OpenAI-model voor advocaten",
+ "title": "Legora bouwt juridisch ai-systeem met OpenAI-modellen",
+ "meta": "Legora gebruikt OpenAI-modellen, ChatGPT en Codex voor juridisch werk. Wat betekent dat voor advocaten en juristen in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "legora",
+  "openai",
+  "chatgpt",
+  "codex",
+  "juridisch",
+  "ai-tools"
+ ],
+ "intro": "OpenAI meldt dat Legora een agentic operating system bouwt voor juridisch werk. Het bedrijf gebruikt OpenAI-modellen, ChatGPT en Codex om juridische workflows sneller te laten verlopen. Ook contractanalyse wordt daarmee uitgebreid. Juristen houden zo meer tijd over voor werk met hogere waarde.",
+ "takeaways": [
+  "Legora bouwt een agentic operating system voor juridisch werk, volgens OpenAI.",
+  "Het bedrijf gebruikt OpenAI-modellen, ChatGPT en Codex.",
+  "Contractanalyse wordt uitgebreid met deze modellen.",
+  "Advocaten en juristen houden naar verluidt meer tijd over voor werk met hogere waarde."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Legora volgens OpenAI doet",
+   "body": "Legora zet OpenAI-modellen in voor juridisch werk. Het bedrijf noemt dat zelf een agentic operating system. Agentic betekent dat software zelfstandig stappen uitvoert, in plaats van alleen antwoord te geven op een vraag.\n\nChatGPT en Codex spelen daarin een rol. Codex is het model dat OpenAI inzet voor programmeerwerk en het uitvoeren van taken. Bij Legora gaat het om juridische workflows: de vaste stappen die een jurist doorloopt bij een zaak of contract.\n\nOpenAI noemt ook contractanalyse als onderdeel. Het systeem moet dat werk versnellen. Juristen houden daardoor tijd over voor werk dat meer oplevert, stelt OpenAI."
+  },
+  {
+   "heading": "Wat een agentic systeem juridisch kan",
+   "body": "Een juridisch medewerker leest contracten vaak stuk voor stuk door. Een agentic systeem kan zulke stappen zelf doorlopen en resultaten klaarzetten. Denk aan het nalopen van clausules of het vergelijken van versies.\n\nDe precieze werking maakt OpenAI niet bekend in de bronnen. Er staan geen cijfers in over snelheid of nauwkeurigheid. Ook is niet duidelijk welke modellen precies worden gebruikt en in welke versie.\n\nWat wel vaststaat: Legora bouwt dit samen met OpenAI-technologie. Het gaat om een samenwerking waarbij Legora de juridische laag levert en OpenAI de modellen."
+  },
+  {
+   "heading": "Wat dit betekent voor juridisch werk",
+   "body": "Juridisch werk bestaat deels uit veel leeswerk en herhaalwerk. Software die dat overneemt, verschuift de rol van de jurist. Die controleert en beoordeelt dan vooral het resultaat.\n\nDat roept wel vragen op over aansprakelijkheid. Wie is verantwoordelijk als een systeem een clausule mist? OpenAI gaat daar in de bronnen niet op in. Ook over toezicht of certificering staat niets in de aangeleverde informatie.\n\nVoor advocatenkantoren en juridische afdelingen is de vraag vooral of zulke tools aansluiten op hun eigen systemen. Daar zeggen de bronnen niets over."
+  }
+ ],
+ "nl_angle": "Voor advocatenkantoren en juridische afdelingen in Nederland is dit relevant, maar er is nog geen duidelijkheid over beschikbaarheid. De bronnen noemen geen prijs, geen Europese uitrol en geen Nederlandse klanten. Kantoren die met dit soort tools willen werken, krijgen ook te maken met de AVG en het beroepsgeheim. Persoonsgegevens van cliënten mogen niet zomaar naar een Amerikaanse modelaanbieder. Of Legora daar een oplossing voor heeft, blijkt niet uit de bronnen. Het is dus nog niet bekend wanneer en of dit in Nederland te gebruiken is.",
+ "faq": [
+  {
+   "q": "Wat is Legora?",
+   "a": "Legora is een bedrijf dat juridische software bouwt. Volgens OpenAI gebruikt het OpenAI-modellen, ChatGPT en Codex voor juridisch werk zoals contractanalyse."
+  },
+  {
+   "q": "Wat betekent agentic operating system?",
+   "a": "Dat is software die zelfstandig stappen uitvoert binnen een werkproces. Bij Legora gaat het om de vaste stappen die juristen doorlopen bij contracten en zaken."
+  },
+  {
+   "q": "Is Legora beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. De bronnen noemen geen prijs, geen Europese uitrol en geen Nederlandse klanten."
+  }
+ ],
+ "slug": "legora-bouwt-juridisch-ai-systeem-met-openai-modellen",
+ "kind": "news",
+ "date": "2026-10-28",
+ "published": "2026-10-28T18:19",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Legora is building the agentic operating system for legal work",
+   "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+  },
+  {
+   "name": "OpenAI",
+   "title": "Legora is building the agentic operating system for legal work",
+   "url": "https://openai.com/index/legora"
+  }
+ ],
+ "path": "/nieuws/legora-bouwt-juridisch-ai-systeem-met-openai-modellen/",
+ "og": "/img/og/legora-bouwt-juridisch-ai-systeem-met-openai-modellen.png",
+ "take": "Juridisch werk automatiseren met OpenAI-modellen klinkt logisch, want contracten lezen is vooral veel hetzelfde doen. Mijn punt zit ergens anders: laat zo'n systeem een clausule of een zoekterm pas schrappen als je hebt gemeten dat het echt niets oplevert. Wat kort niets doet, is vaak precies het stuk dat later geld binnenhaalt."
+}

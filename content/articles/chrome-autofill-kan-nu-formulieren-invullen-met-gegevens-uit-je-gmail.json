@@ -1,0 +1,68 @@
+{
+ "keyword": "chrome autofill gmail",
+ "seo_title": "Chrome Autofill vult formulieren met je Gmail",
+ "title": "Chrome Autofill kan nu formulieren invullen met gegevens uit je Gmail",
+ "meta": "Chrome Autofill haalt met jouw toestemming vluchtgegevens, bestelinfo en tracking uit je Gmail en vult formulieren automatisch in.",
+ "category": "nieuws",
+ "tags": [
+  "chrome",
+  "autofill",
+  "gmail",
+  "google",
+  "privacy"
+ ],
+ "intro": "Google heeft de automatische invulfunctie van Chrome uitgebreid. Met jouw toestemming zoekt Autofill nu in je Gmail naar gegevens zoals vluchtbevestigingen, bestelgegevens en trackinginformatie. Die informatie gebruikt de browser om formulieren op websites in te vullen. TechCrunch meldt het nieuws op 28 oktober.",
+ "takeaways": [
+  "Chrome Autofill leest met toestemming je Gmail door voor gegevens om formulieren mee te vullen.",
+  "Het gaat onder meer om vluchtbevestigingen, bestelgegevens en trackinginformatie.",
+  "De functie werkt alleen nadat je zelf toestemming hebt gegeven.",
+  "Google heeft nog niet bekendgemaakt wanneer de functie in Nederland beschikbaar komt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de functie precies doet",
+   "body": "Chrome heeft al langer een Autofill-functie. Die vult bekende gegevens zoals je naam en adres in zodra je een formulier tegenkomt. De nieuwe versie gaat verder dan dat.\n\nMet jouw toestemming speurt de browser door je Gmail-postvak. Hij haalt daar informatie uit die in een formulier past. TechCrunch noemt vluchtbevestigingen, trackinggegevens en orderdetails als voorbeelden.\n\nJe kunt daarbij denken aan een webshop die om een ordernummer vraagt. Of een reisformulier waarin je vluchtgegevens moet invullen. Chrome vult die velden dan zelf in."
+  },
+  {
+   "heading": "Toestemming staat voorop",
+   "body": "De functie werkt alleen als je die zelf aanzet. Volgens TechCrunch gebeurt het doorzoeken van je inbox niet zonder jouw goedkeuring. Wie de functie niet wil, laat hem uit.\n\nToch is het goed om te weten wat je toestaat. Je geeft Chrome toegang tot de inhoud van je e-mail, en dat is gevoelige informatie. Denk aan boekingen, aankopen en pakketten die onderweg zijn.\n\nGoogle heeft nog niet uitgelegd hoe lang die gegevens worden bewaard. Ook is niet duidelijk of je de functie per e-mailaccount kunt beperken. Die details zijn nog niet bekend."
+  },
+  {
+   "heading": "Wat het betekent voor je privacy",
+   "body": "Je postvak bevat vaak meer dan je denkt. Bevestigingen van vluchten, facturen en bezorgberichten zeggen iets over waar je bent en wat je koopt. Als een browser daarin mag zoeken, krijgt die veel te zien.\n\nIn de Europese Unie gelden strenge regels voor dit soort gegevens. De Algemene verordening gegevensbescherming (AVG) eist dat bedrijven duidelijk uitleggen waarvoor ze gegevens gebruiken. Toestemming moet vrijwillig zijn en je moet die weer kunnen intrekken.\n\nOf Google aan al die eisen voldoet, is nog niet te zeggen. De functie is net aangekondigd en de precieze werking is nog niet volledig openbaar."
+  },
+  {
+   "heading": "Nog geen datum voor Nederland",
+   "body": "TechCrunch noemt geen landen waar de functie als eerste komt. Google heeft ook geen prijs of releasedatum genoemd. Het is dus nog niet bekend wanneer Nederlandse gebruikers ermee aan de slag kunnen.\n\nChrome is in Nederland een van de meest gebruikte browsers. Veel mensen hebben daarnaast een Gmail-account. De combinatie kan handig zijn bij het invullen van formulieren, maar vraagt wel om een bewuste keuze."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders betekent dit vooral een keuze over toegang tot hun mailbox. Gebruik je Gmail en Chrome, dan kun je straks zelf bepalen of de browser je e-mail mag doorzoeken. Let daarbij op de AVG: je moet toestemming kunnen intrekken en duidelijk zien waarvoor je gegevens worden gebruikt. Bedrijven die met Google werken, krijgen mogelijk te maken met vragen van klanten over wat er met hun gegevens gebeurt. Zodra Google meer bekendmaakt over beschikbaarheid in Nederland en de EU, wordt duidelijker hoe de functie hier precies werkt.",
+ "faq": [
+  {
+   "q": "Wat is Chrome Autofill met Gmail?",
+   "a": "Een functie waarbij Chrome met jouw toestemming gegevens uit je Gmail haalt, zoals vluchtbevestigingen en bestelinfo, om formulieren op websites in te vullen."
+  },
+  {
+   "q": "Werkt Chrome Autofill zonder mijn toestemming?",
+   "a": "Nee. Volgens TechCrunch zoekt Chrome alleen in je inbox nadat je zelf toestemming hebt gegeven."
+  },
+  {
+   "q": "Is de functie al beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. Google heeft geen releasedatum of landenlijst genoemd, dus wanneer de functie in Nederland komt, is onduidelijk."
+  }
+ ],
+ "slug": "chrome-autofill-kan-nu-formulieren-invullen-met-gegevens-uit-je-gmail",
+ "kind": "news",
+ "date": "2026-10-28",
+ "published": "2026-10-28T18:21",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+   "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
+  }
+ ],
+ "path": "/nieuws/chrome-autofill-kan-nu-formulieren-invullen-met-gegevens-uit-je-gmail/",
+ "og": "/img/og/chrome-autofill-kan-nu-formulieren-invullen-met-gegevens-uit-je-gmail.png",
+ "take": "Autofill die met jouw toestemming in je Gmail graait, klinkt handig tot je ziet wat er misgaat. Zo'n functie vult door op wat iemand ooit verkeerd heeft getypt, en jij zit met een verkeerd vluchtnummer of een tracking die nergens op slaat. Ik houd die toestemming lekker uit, dan blijft het invullen tenminste mijn eigen werk."
+}
