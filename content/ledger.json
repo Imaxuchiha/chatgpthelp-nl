@@ -2351,6 +2351,18 @@
   "9d92d4ec6e": {
    "at": "2026-10-29T18:33:13.885246",
    "why": "ok"
+  },
+  "7bf0065ceb": {
+   "at": "2026-10-29T22:01:00.340889",
+   "why": "ok"
+  },
+  "2d99282896": {
+   "at": "2026-10-29T22:02:00.340889",
+   "why": "ok"
+  },
+  "7587406daf": {
+   "at": "2026-10-29T22:03:00.340889",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2754,6 +2766,9 @@
   "Meta lanceert Waddle World, een AI-huisdier dat lijkt op Tamagotchi",
   "OpenAI detecteert ai-model misalignment met gelaagde monitoring",
   "AI energieverbruik: zoveel stroom kost een vraag aan ChatGPT",
-  "NYT Cooking test AI die recepten aanpast en schaalt"
+  "NYT Cooking test AI die recepten aanpast en schaalt",
+  "OpenAI werkt Model Spec bij met vijf kernwaarden",
+  "Ropes & Gray bouwt AI voor juridische due diligence met OpenAI",
+  "Rivian en Volkswagen voegen ai-assistent toe aan hun joint venture"
  ]
 }

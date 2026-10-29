@@ -4137,5 +4137,56 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-29T22:01:20",
+  "slug": "",
+  "title": "OpenAI werkt Model Spec bij met vijf kernwaarden",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-29T22:01:29",
+  "slug": "",
+  "title": "Ropes & Gray bouwt AI voor juridische due diligence met OpenAI",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-29T22:01:37",
+  "slug": "",
+  "title": "Rivian en Volkswagen voegen ai-assistent toe aan hun joint venture",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-29T22:02:05",
+  "slug": "",
+  "title": "AI energieverbruik: duizend vragen voor een uurtje gamen",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S4"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

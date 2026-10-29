@@ -1,0 +1,65 @@
+{
+ "keyword": "ai juridische due diligence",
+ "seo_title": "AI juridische due diligence: Ropes & Gray werkt met OpenAI",
+ "title": "Ropes & Gray bouwt AI voor juridische due diligence met OpenAI",
+ "meta": "Advocatenkantoor Ropes & Gray ontwikkelt met OpenAI AI voor juridische due diligence. Wat dat betekent voor advocaten en bedrijven in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "advocatuur",
+  "due diligence",
+  "ai",
+  "juridisch"
+ ],
+ "intro": "Het Amerikaanse advocatenkantoor Ropes & Gray ontwikkelt samen met OpenAI een AI-systeem voor juridische due diligence bij transacties. Advocaten beoordelen eerst gegroepeerde documenten, samenvattingen en rapporten voordat ze cliënten adviseren. Dat meldt OpenAI in een eigen publicatie over de samenwerking.",
+ "takeaways": [
+  "Ropes & Gray zet AI in voor due diligence-onderzoek bij transacties, volgens OpenAI.",
+  "De AI groepeert documenten en maakt samenvattingen en rapporten voor de advocaten.",
+  "Menselijke advocaten controleren die uitkomsten voordat er advies naar de cliënt gaat.",
+  "OpenAI noemt geen prijzen, releasedatum of beschikbaarheid buiten het kantoor."
+ ],
+ "sections": [
+  {
+   "heading": "Wat het kantoor precies bouwt",
+   "body": "Bij een overname of investering spitten advocaten stapels contracten, notulen en andere stukken door. Due diligence is het vooronderzoek waarbij ze risico's in kaart brengen. Ropes & Gray laat AI dat voorwerk deels doen, volgens OpenAI.\n\nHet systeem brengt documenten bij elkaar in groepen. Daarna maakt het samenvattingen en rapporten. De advocaten bekijken die uitkomsten en geven pas daarna advies aan de cliënt. De AI neemt het advies dus niet over.\n\nOpenAI geeft geen details over de techniek achter het systeem. Ook blijft onbekend hoeveel documenten het kantoor per zaak verwerkt en hoe vaak advocaten iets moeten corrigeren."
+  },
+  {
+   "heading": "Waarom een advocatenkantoor dit wil",
+   "body": "Due diligence kost veel uren en is gevoelig voor menselijke fouten. Een gemiste clausule kan bij een overname flink geld kosten. AI die documenten sorteert en samenvat, kan advocaten tijd besparen.\n\nToch blijft controle nodig. Een taalmodel kan een contract verkeerd samenvatten of een uitzondering missen. Ropes & Gray houdt daarom een advocaat tussen het systeem en de cliënt.\n\nOpenAI publiceert vaker dit soort samenwerkingen met grote bedrijven. Het patroon is steeds hetzelfde: AI doet het voorwerk, mensen nemen het besluit."
+  },
+  {
+   "heading": "Wat OpenAI wel en niet zegt",
+   "body": "De publicatie van OpenAI blijft vaag over de opzet. Er staat niet welke modellen het kantoor gebruikt. Ook is niet duidelijk of het om een eigen versie van ChatGPT gaat of om een apart systeem.\n\nPrijzen noemt OpenAI niet. Evenmin is bekend of andere kantoren het systeem kunnen gebruiken. Het lijkt voorlopig om een samenwerking met één kantoor te gaan.\n\nWie in Nederland juridisch werk doet, kan hier dus nog geen tool van kopen. De publicatie laat vooral zien welke kant de juridische sector op beweegt."
+  }
+ ],
+ "nl_angle": "Nederlandse advocatenkantoren en notarissen werken al met AI bij contractonderzoek, maar de verantwoordelijkheid blijft bij de jurist liggen. Voor cliënten betekent dit dat een due diligence-rapport sneller klaar kan zijn, terwijl de controle door een mens hetzelfde blijft. Let bij zo'n kantoor wel op hoe het met vertrouwelijke stukken omgaat. Stukken uit een overname zijn gevoelig, en de Autoriteit Persoonsgegevens kijkt streng naar verwerking van persoonsgegevens. Vraag dus na waar de data staat en of die wordt gebruikt om modellen te trainen.",
+ "faq": [
+  {
+   "q": "Wat is juridische due diligence?",
+   "a": "Dat is het vooronderzoek waarbij advocaten contracten en andere stukken van een bedrijf doornemen voordat het wordt overgenomen of geïnvesteerd. Ze brengen daarbij risico's in kaart."
+  },
+  {
+   "q": "Neemt AI het werk van advocaten over?",
+   "a": "Nee. Volgens OpenAI beoordelen advocaten van Ropes & Gray eerst de samenvattingen en rapporten van het systeem. Daarna geven ze pas advies aan de cliënt."
+  },
+  {
+   "q": "Kan ik deze AI in Nederland gebruiken?",
+   "a": "Daar is niets over bekend. OpenAI noemt geen releasedatum, prijs of beschikbaarheid buiten het kantoor. De publicatie gaat over één samenwerking."
+  }
+ ],
+ "sections_note": null,
+ "slug": "ropes-gray-bouwt-ai-voor-juridische-due-diligence-met-openai",
+ "kind": "news",
+ "date": "2026-10-29",
+ "published": "2026-10-29T22:02",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How Ropes & Gray is developing AI for transactional diligence",
+   "url": "https://openai.com/index/ropes-gray-ai-diligence"
+  }
+ ],
+ "path": "/nieuws/ropes-gray-bouwt-ai-voor-juridische-due-diligence-met-openai/",
+ "og": "/img/og/ropes-gray-bouwt-ai-voor-juridische-due-diligence-met-openai.png",
+ "take": "Een demo van een advocatenkantoor met OpenAI is nog geen werkend product. Ik wil eerst zien dat het op echte dossiers aantoonbaar minder uren kost, voordat ik er iets van vind. Advocaten mogen van mij het speurwerk uitbesteden, maar de beoordeling en het advies blijven mensenwerk."
+}

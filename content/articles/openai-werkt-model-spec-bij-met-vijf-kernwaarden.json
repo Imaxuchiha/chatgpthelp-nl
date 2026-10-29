@@ -1,0 +1,68 @@
+{
+ "keyword": "model spec openai",
+ "seo_title": "Model Spec OpenAI vernieuwd: vijf kernwaarden",
+ "title": "OpenAI werkt Model Spec bij met vijf kernwaarden",
+ "meta": "OpenAI heeft zijn Model Spec vernieuwd met vijf kernwaarden voor AI-gedrag. Lees wat er verandert en wat het voor gebruikers in Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "model spec",
+  "ai-ethiek",
+  "chatgpt",
+  "beleid"
+ ],
+ "intro": "OpenAI heeft een bijgewerkte versie van zijn Model Spec gepubliceerd. Dat document beschrijft hoe het bedrijf wil dat zijn AI-systemen zich gedragen. De nieuwe versie noemt vijf kernwaarden die richting moeten geven aan meer capabele AI. Volgens OpenAI draait het om gezond verstand, menselijke autonomie en trouw aan wat gebruikers bedoelen.",
+ "takeaways": [
+  "OpenAI heeft een vernieuwde Model Spec uitgebracht.",
+  "Het document noemt vijf kernwaarden voor het gedrag van AI.",
+  "De waarden sturen op gezond oordeel, menselijke autonomie en trouw aan de bedoeling van de gebruiker.",
+  "OpenAI koppelt de update aan de wens om AI capabeler én nuttiger te maken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de Model Spec precies is",
+   "body": "De Model Spec is het document waarin OpenAI opschrijft hoe zijn modellen zich horen te gedragen. Het is geen technische handleiding, maar een set afspraken over gedrag. Ontwikkelaars en onderzoekers kunnen erop terugvallen bij het trainen en afstellen van modellen.\n\nDe spec is openbaar. Iedereen die met ChatGPT of de API van OpenAI werkt, kan lezen welke keuzes het bedrijf maakt. Dat maakt het document ook een middel om het bedrijf aan te spreken op zijn gedrag."
+  },
+  {
+   "heading": "Vijf kernwaarden als kompas",
+   "body": "De vernieuwde spec noemt vijf kernwaarden. Die moeten AI-systemen helpen om verstandige beslissingen te nemen in situaties die de makers niet precies hadden voorzien. Volgens OpenAI hangen de waarden samen: een model dat één waarde volgt en een andere negeert, schiet tekort.\n\nEén waarde gaat over gezond oordeel. Een ander over menselijke autonomie: de gebruiker houdt de regie. Verder noemt OpenAI trouw aan de bedoeling van de mens als uitgangspunt. Wat de precieze formulering van alle vijf waarden is, maakt het bedrijf in de aankondiging niet per stuk duidelijk."
+  },
+  {
+   "heading": "Waarom OpenAI de spec aanpast",
+   "body": "OpenAI zegt de spec te hebben bijgewerkt omdat zijn modellen capabeler worden. Krachtiger systemen komen vaker in situaties terecht waarin de regels niet meteen antwoord geven. Dan moet een model zelf een afweging maken.\n\nDe vijf waarden moeten dat soort afwegingen richting geven. OpenAI koppelt de update expliciet aan de wens om AI nuttig te maken voor mensen. Concrete voorbeelden van nieuwe regels of gewijzigde passages geeft het bedrijf in de aankondiging niet."
+  },
+  {
+   "heading": "Wat nog niet bekend is",
+   "body": "Het is nog niet duidelijk welke tekst precies is veranderd ten opzichte van de vorige versie. OpenAI noemt in de aankondiging geen datum waarop de spec ingaat. Ook is niet bekend of de aanpassing gevolgen heeft voor bestaande modellen of voor de manier waarop ChatGPT antwoordt.\n\nWie de volledige spec wil lezen, kan terecht op de site van OpenAI. Daar staat het document met de vijf waarden."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers en bedrijven verandert er vandaag weinig aan ChatGPT zelf. De Model Spec is een richtlijn voor gedrag, geen productupdate. Toch is het document relevant als je AI inzet op de werkvloer of in een eigen applicatie. Het laat zien welke afwegingen OpenAI maakt bij lastige verzoeken. Wie met ChatGPT werkt onder de Europese AI-regels, kan de spec gebruiken als aanvulling op eigen afspraken over verantwoord gebruik. Let wel: de spec is geen wettelijke norm en vervangt geen eigen beleid.",
+ "faq": [
+  {
+   "q": "Wat is de Model Spec van OpenAI?",
+   "a": "Dat is het openbare document waarin OpenAI beschrijft hoe zijn AI-modellen zich horen te gedragen. Het bedrijf heeft er nu vijf kernwaarden aan toegevoegd."
+  },
+  {
+   "q": "Verandert ChatGPT door deze update?",
+   "a": "Dat is nog niet bekend. OpenAI noemt in de aankondiging geen gevolgen voor bestaande modellen of voor de antwoorden van ChatGPT."
+  },
+  {
+   "q": "Moet ik als bedrijf iets met de Model Spec?",
+   "a": "Het is geen wetgeving, dus verplicht is het niet. Je kunt het wel naast je eigen afspraken over AI-gebruik leggen."
+  }
+ ],
+ "slug": "openai-werkt-model-spec-bij-met-vijf-kernwaarden",
+ "kind": "news",
+ "date": "2026-10-29",
+ "published": "2026-10-29T22:01",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "url": "https://openai.com/index/updated-model-spec"
+  }
+ ],
+ "path": "/nieuws/openai-werkt-model-spec-bij-met-vijf-kernwaarden/",
+ "og": "/img/og/openai-werkt-model-spec-bij-met-vijf-kernwaarden.png",
+ "take": "Vijf kernwaarden in een document veranderen niks aan hoe het model in mijn scripts reageert. Ik wil zelf kunnen instellen wat zo'n model doet en hoe het met mijn data omgaat, daar heb ik geen richtlijn van buiten voor nodig. Bouw het zelf, dan bepaal je ook zelf de regels."
+}
