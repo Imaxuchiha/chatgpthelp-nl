@@ -1,0 +1,68 @@
+{
+ "keyword": "ai energieverbruik",
+ "seo_title": "AI energieverbruik: hoeveel stroom kost een vraag?",
+ "title": "AI energieverbruik: zoveel stroom kost een vraag aan ChatGPT",
+ "meta": "Een uur gamen slurpt evenveel stroom als duizend tot 2300 AI-vragen. Lees wat AI energieverbruik betekent voor je stroomrekening in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "energieverbruik",
+  "stroom",
+  "gamen",
+  "chatgpt"
+ ],
+ "intro": "Een uur gamen op een krachtige pc kost evenveel stroom als duizend tot 2300 eenvoudige vragen aan een AI-chatbot. Dat meldt Bright op basis van cijfers over stroomverbruik. De vergelijking zet het energieverbruik van AI in perspectief, al relativeert hoogleraar Lieven Eeckhout van de Universiteit Gent die cijfers meteen.",
+ "takeaways": [
+  "Een uur gamen op een sterke pc staat gelijk aan 1000 tot 2300 simpele AI-vragen.",
+  "Een uur werken op een laptop kost ongeveer evenveel stroom als 100 tot 170 AI-vragen.",
+  "Hoogleraar Lieven Eeckhout vindt dat de cijfers niet het hele verhaal vertellen.",
+  "De vergelijking gaat over eenvoudige vragen, niet over zware AI-taken."
+ ],
+ "sections": [
+  {
+   "heading": "Gamen versus vragen stellen",
+   "body": "De vergelijking draait om één uur. Op een krachtige pc met een zware grafische kaart vreet een uur gamen net zoveel stroom als duizend tot 2300 eenvoudige vragen aan een AI-chatbot. Dat zijn duizenden losse prompts achter elkaar.\n\nZet je daar een gewone werkdag naast, dan zakt het beeld in elkaar. Een uur werken op een laptop kost ongeveer evenveel stroom als honderd tot zeventig vragen. Die twee getallen liggen dicht bij elkaar.\n\nHet soort vraag maakt veel uit. Een korte vraag om een woord te vertalen of een zin op te knappen kost weinig rekenkracht. Een lang gesprek met veel context vraagt meer van de servers."
+  },
+  {
+   "heading": "Wat de cijfers niet zeggen",
+   "body": "Lieven Eeckhout, hoogleraar computerarchitectuur aan de Universiteit Gent, plaatst kanttekeningen. Volgens hem vertellen de cijfers niet het hele verhaal. Hij wijst erop dat één losse vergelijking weinig zegt over het totale stroomverbruik van AI.\n\nDe rekensom kijkt naar één gebruiker op één moment. In werkelijkheid draaien datacenters door, ook als jij niets vraagt. Koeling, netwerkapparatuur en reservecapaciteit tellen dan mee.\n\nOok de herkomst van stroom speelt een rol. Een deel van de datacenters werkt op groene stroom, een ander deel nog op grijze stroom van het net."
+  },
+  {
+   "heading": "Waarom dit in Nederland telt",
+   "body": "Nederland heeft een vol stroomnet. Nieuwe datacenters wachten soms jaren op een aansluiting. Grote techbedrijven bouwen hier wel, maar stuiten op netcapaciteit in onder meer de Metropoolregio Amsterdam.\n\nVoor jou als gebruiker is het effect nu beperkt. Je betaalt geen aparte AI-toeslag op je energierekening. Het verbruik zit verstopt in de prijs van een abonnement of in gratis diensten.\n\nOp termijn kan dat verschuiven. Als stroom schaars blijft, wordt de rekening van rekenkracht onderdeel van het verdienmodel van AI-bedrijven."
+  },
+  {
+   "heading": "Hoe je zelf zuiniger omgaat met AI",
+   "body": "De grootste winst zit in de lengte van je gesprekken. Elke nieuwe vraag in dezelfde chat sleept de eerdere tekst mee. Begin je een nieuw onderwerp, start dan een verse chat.\n\nKies een kleiner model voor simpele klusjes. Voor een samenvatting van drie regels heb je geen zwaar taalmodel nodig. Dat scheelt rekenkracht op de servers.\n\nVerder geldt hetzelfde als bij elk apparaat. Zet je laptop uit als je klaar bent en laat hem niet de hele nacht aan staan."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders met een AI-abonnement verandert er op korte termijn weinig aan de rekening. Je stroomverbruik thuis blijft vooral bepaald door je laptop, je beeldscherm en je verwarming. Het verbruik van AI zit bij de datacenters, en die strijden in Nederland om ruimte op het stroomnet. Wie in een regio met netcongestie woont, merkt dat eerder aan wachttijden voor een nieuwe aansluiting dan aan een hogere energierekening.",
+ "faq": [
+  {
+   "q": "Hoeveel stroom kost één vraag aan ChatGPT?",
+   "a": "Daar geeft de bron geen los getal voor. De vergelijking werkt met duizend tot 2300 eenvoudige vragen tegenover een uur gamen op een krachtige pc. Het soort vraag bepaalt hoeveel rekenkracht nodig is."
+  },
+  {
+   "q": "Is AI slechter voor het milieu dan gamen?",
+   "a": "Dat kun je niet in één zin zeggen. Een uur gamen op een zware pc kost evenveel stroom als duizend tot 2300 simpele AI-vragen. Hoogleraar Lieven Eeckhout vindt dat zulke cijfers niet het hele verhaal vertellen."
+  },
+  {
+   "q": "Merken Nederlanders iets van AI-energieverbruik op hun rekening?",
+   "a": "Nee, je betaalt geen aparte AI-toeslag op je energierekening. Het verbruik zit in de prijs van een abonnement of in gratis diensten. Wel drukt AI op de ruimte op het Nederlandse stroomnet."
+  }
+ ],
+ "slug": "ai-energieverbruik-zoveel-stroom-kost-een-vraag-aan-chatgpt",
+ "kind": "news",
+ "date": "2026-10-29",
+ "published": "2026-10-29T18:32",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Wat verbruikt meer: een dag lang AI gebruiken of een uurtje gamen?",
+   "url": "https://www.bright.nl/plusplus/2152628/wat-verbruikt-meer-een-dag-lang-ai-gebruiken-of-een-uurtje-gamen.html"
+  }
+ ],
+ "path": "/nieuws/ai-energieverbruik-zoveel-stroom-kost-een-vraag-aan-chatgpt/",
+ "og": "/img/og/ai-energieverbruik-zoveel-stroom-kost-een-vraag-aan-chatgpt.png",
+ "take": "Een uur gamen tegenover duizend tot 2300 AI-vragen is een leuke krantenkop, maar die vergelijking zegt pas iets als je hem over je eigen verbruik legt. Ik zie dit soort getallen graag eerst in een echte meter voordat ik er een rekening op baseer. Mijn stroomrekening betaal ik liever op basis van wat ik zelf zie, niet op basis van een demo."
+}

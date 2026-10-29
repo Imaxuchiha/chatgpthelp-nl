@@ -1,0 +1,65 @@
+{
+ "keyword": "google ads budget verspilling",
+ "seo_title": "Google Ads budget verspilling: 83% naar nooit verkopers",
+ "title": "83% van je Google Ads budget gaat naar nooit verkopers",
+ "meta": "Google Ads budget verspilling: bij een feed met duizenden designs ging 83% van het budget naar nooit verkopers. Zo los je dat op.",
+ "category": "mening",
+ "tags": [
+  "google ads",
+  "performance max",
+  "feed optimalisatie",
+  "budget verspilling",
+  "advertentie optimalisatie"
+ ],
+ "intro": "De meeste advertentiebudgetten gaan naar producten die nooit verkopen. Ik zie het keer op keer. Bij een feed met duizenden designs was maar een kwart ooit verkocht. Toch ging 83% van het budget naar designs die nooit verkochten. Dat is geld verbranden.",
+ "takeaways": [
+  "83% van het budget ging naar producten die nooit verkochten.",
+  "GA4 kende 85% van de winnaars, Google Ads maar een fractie.",
+  "Meet eerst welke producten winnen, snoei daarna pas."
+ ],
+ "sections": [
+  {
+   "heading": "Het probleem: budget naar nooit verkopers",
+   "body": "Een klant had een feed met duizenden designs. Ongeveer een kwart was ooit verkocht. Toch ging 83% van het budget naar designs die nooit verkochten. Google Ads verdeelde het budget dus vooral naar producten zonder trackrecord.\n\nDat is logisch als je kijkt hoe Performance Max werkt. Het systeem optimaliseert op conversies, maar als de data niet klopt of te dun is, gaat het gokken. En dan krijg je dit: veel vertoningen, weinig omzet.\n\nIk noem dat de 'spend-naar-nooit-verkopers'-val. Het voelt alsof je adverteert, maar je betaalt vooral voor exposure van dode voorraad."
+  },
+  {
+   "heading": "De meting: GA4 versus Google Ads",
+   "body": "Wat me opviel: GA4 kende 85% van de winnaars. Google Ads kende er maar een fractie van. Dat is een groot verschil. De data in GA4 was dus veel rijker dan wat Google Ads zag.\n\nHoe kan dat? Conversies worden niet altijd goed teruggekoppeld. Zeker met consentmodus en server-side tracking gaat er veel mis. Als Google Ads niet weet welke producten converteren, kan het ook niet goed optimaliseren.\n\nMijn regel is simpel: meten vóór optimaliseren. Eerst zorgen dat de conversiedata klopt in beide systemen. Anders optimaliseert de AI vol overtuiging de verkeerde kant op."
+  },
+  {
+   "heading": "De oplossing: winnaars voeden",
+   "body": "Wat doe je eraan? Je moet de winnaars expliciet maken voor Google Ads. Dat kan via custom labels in je feed. Geef producten die ooit verkocht zijn een label. Geef toppers een apart label. En sluit de nooit-verkopers uit of zet ze in een aparte campagne met laag budget.\n\nIk bouwde hiervoor een script dat de verkoopdata uit GA4 koppelt aan de feed. Elke nacht worden de labels bijgewerkt. Zo weet Google Ads morgenochtend precies wat winnaars zijn.\n\nHet resultaat: budget verschuift naar producten met bewezen vraag. De ROAS stijgt, zonder dat je meer uitgeeft. Dat is betere optimalisatie dan welk slim algoritme dan ook."
+  },
+  {
+   "heading": "Waarom dit vaak misgaat",
+   "body": "Veel adverteerders denken dat Google Ads dit zelf wel uitzoekt. Maar dat doet het niet, zeker niet met slechte data. Performance Max is zo goed als de data die je het voert. Voer je rommel, dan krijg je rommel.\n\nOok zie ik dat mensen producten uitsluiten op gevoel. 'Dit design is lelijk, die gooi ik eruit.' Dat is fout. Je moet uitsluiten op data, niet op smaak. Een product dat jij lelijk vindt, kan een bestseller zijn.\n\nEn let op: niet snoeien op 30 dagen data. Kijk naar 12 tot 18 maanden. Anders gooi je winnaars weg die toevallig een slechte maand hadden."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse webshops met grote feeds is dit een directe winst. Koppel je verkoopdata uit GA4 aan je Google Ads-feed via custom labels. Sluit nooit-verkopers uit of geef ze een aparte campagne met een klein budget. Check maandelijks of de labels kloppen. Zo voorkom je dat 83% van je budget verdwijnt naar producten die toch nooit verkopen.",
+ "faq": [
+  {
+   "q": "Hoe weet ik welke producten nooit verkopen?",
+   "a": "Trek een rapport uit GA4 met aankopen per product over de afgelopen 12 tot 18 maanden. Producten zonder aankopen zijn nooit-verkopers."
+  },
+  {
+   "q": "Moet ik nooit-verkopers helemaal uitsluiten?",
+   "a": "Niet per se. Je kunt ze in een aparte campagne zetten met een klein budget om te testen. Maar geef ze niet hetzelfde budget als bewezen winnaars."
+  },
+  {
+   "q": "Waarom kent GA4 meer winnaars dan Google Ads?",
+   "a": "Vaak door ontbrekende of foutieve conversietracking in Google Ads. Zorg dat je conversies goed meet en terugkoppelt, bijvoorbeeld via server-side tracking."
+  }
+ ],
+ "lessons_used": [
+  "Les spend-naar-nooit-verkopers"
+ ],
+ "slug": "83-van-je-google-ads-budget-gaat-naar-nooit-verkopers",
+ "kind": "practice",
+ "date": "2026-10-29",
+ "published": "2026-10-29T18:31",
+ "sources": [],
+ "path": "/mening/83-van-je-google-ads-budget-gaat-naar-nooit-verkopers/",
+ "og": "/img/og/83-van-je-google-ads-budget-gaat-naar-nooit-verkopers.png",
+ "lesson": "spend-naar-nooit-verkopers",
+ "author": "Maxim"
+}

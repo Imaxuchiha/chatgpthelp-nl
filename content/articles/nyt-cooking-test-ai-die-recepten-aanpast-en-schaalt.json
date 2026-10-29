@@ -1,0 +1,64 @@
+{
+ "keyword": "nyt cooking ai",
+ "seo_title": "NYT Cooking test AI die recepten aanpast",
+ "title": "NYT Cooking test AI die recepten aanpast en schaalt",
+ "meta": "NYT Cooking test een AI-functie die ingrediënten vervangt en recepten schaalt. Wat betekent dat voor koken met ChatGPT en AI in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "nyt cooking",
+  "ai in de keuken",
+  "recepten",
+  "openai",
+  "new york times"
+ ],
+ "intro": "The New York Times test een AI-functie in de Cooking-app. Die stelt vervangingen voor ingrediënten voor en past hoeveelheden aan. Volgens The Verge leidde de aankondiging vorige week vrijdag tot discussie onder gebruikers. Het laat zien hoe uitgevers AI in hun eigen apps stoppen.",
+ "takeaways": [
+  "NYT Cooking test AI die ingrediënten vervangt en recepten schaalt",
+  "Senior redacteur Genevieve Ko kondigde de functie vorige week vrijdag aan",
+  "De functie wekt discussie onder gebruikers van de app",
+  "De AI kan ook vervangingen voor keukengerei voorstellen"
+ ],
+ "sections": [
+  {
+   "heading": "Wat de functie doet",
+   "body": "De AI in NYT Cooking helpt je een recept aan te passen. Je kunt vragen om een ander ingrediënt als je iets niet in huis hebt. De functie denkt mee over vervangers voor keukengerei.\n\nOok schalen hoort erbij. Een recept voor vier personen kun je terugbrengen naar twee, of juist ophogen. Volgens The Verge noemt de krant dat schalen naar elke gewenste hoeveelheid.\n\nSenior redacteur Genevieve Ko presenteerde de functie vorige week vrijdag. De test loopt dus nog. De New York Times heeft niet gezegd wanneer de functie voor iedereen beschikbaar komt."
+  },
+  {
+   "heading": "Waarom het discussie geeft",
+   "body": "Niet elke gebruiker is blij. Volgens The Verge ontstond er opschudding onder lezers van de app. Recepten zijn voor veel koks persoonlijk; een AI die eraan sleutelt voelt voor hen als een inbreuk.\n\nDe kritiek raakt een bredere vraag. Moet een krant die bekendstaat om zorgvuldig geteste recepten die taak aan een taalmodel geven? De New York Times heeft daar nog geen publiek antwoord op gegeven.\n\nDuidelijk is dat de krant de functie eerst test. Wat er na de test gebeurt, is nog niet bekend."
+  },
+  {
+   "heading": "AI in receptenapps",
+   "body": "Steeds meer apps schuiven AI naar voren. ChatGPT en Gemini kunnen al recepten omrekenen of ingrediënten vervangen als je zelf de vraag stelt. Het verschil zit in de bron: bij NYT Cooking komt het antwoord uit de receptendatabase van de krant zelf.\n\nDat klinkt betrouwbaarder, maar garandeert niets. Een taalmodel kan een vervanger voorstellen die technisch werkt en toch de smaak verpest. Bakken is daar gevoelig voor, omdat verhoudingen daar weinig ruimte laten.\n\nVoor gebruikers telt vooral of ze de uitkomst vertrouwen. De discussie bij NYT Cooking gaat dan ook over meer dan alleen de techniek."
+  }
+ ],
+ "nl_angle": "De functie is voor zover bekend alleen in de Amerikaanse NYT Cooking-app te testen. Een Nederlandse versie of releasedatum is niet aangekondigd. Wie hier met AI aan de slag wil, kan terecht bij ChatGPT of Gemini, maar de uitkomst blijft een suggestie. Controleer vervangers altijd zelf, zeker bij bakrecepten. Voor de app geldt: de New York Times heeft geen abonnementsprijs in euro's genoemd voor deze functie.",
+ "faq": [
+  {
+   "q": "Wat doet de AI-functie in NYT Cooking?",
+   "a": "De functie stelt vervangingen voor ingrediënten en keukengerei voor en schaalt recepten naar een gewenste hoeveelheid. Volgens The Verge test de New York Times dit nog."
+  },
+  {
+   "q": "Is de AI-functie van NYT Cooking in Nederland te gebruiken?",
+   "a": "Daar is niets over bekend. De test richt zich op de Amerikaanse app en de krant heeft geen Nederlandse releasedatum genoemd."
+  },
+  {
+   "q": "Waarom zijn gebruikers boos over de AI in NYT Cooking?",
+   "a": "Volgens The Verge ontstond er discussie onder gebruikers nadat senior redacteur Genevieve Ko de functie aankondigde. De precieze bezwaren heeft de krant niet gepubliceerd."
+  }
+ ],
+ "slug": "nyt-cooking-test-ai-die-recepten-aanpast-en-schaalt",
+ "kind": "news",
+ "date": "2026-10-29",
+ "published": "2026-10-29T18:33",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "The NYT Cooking app is testing AI recipe modifications",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool"
+  }
+ ],
+ "path": "/nieuws/nyt-cooking-test-ai-die-recepten-aanpast-en-schaalt/",
+ "og": "/img/og/nyt-cooking-test-ai-die-recepten-aanpast-en-schaalt.png",
+ "take": "Een recept dat zichzelf schaalt is leuk, maar de discussie onder gebruikers zegt me meer dan de functie zelf. Ik beoordeel zo'n AI-functie pas na een jaar koken ermee, niet na één weekend testen. Voor mijn eigen tools geldt hetzelfde: eerst gratis en zelf bouwen, dan kijken of het echt tijd scheelt."
+}

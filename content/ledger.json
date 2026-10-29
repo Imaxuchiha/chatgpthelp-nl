@@ -2327,6 +2327,30 @@
   "3c157112eb": {
    "at": "2026-10-29T11:11:16.284889",
    "why": "ok"
+  },
+  "afb128fa23": {
+   "at": "2026-10-29T18:31:13.885246",
+   "why": "poort"
+  },
+  "d28967fce9": {
+   "at": "2026-10-29T18:31:13.885246",
+   "why": "ok"
+  },
+  "944d1c31d8": {
+   "at": "2026-10-29T18:32:13.885246",
+   "why": "ok"
+  },
+  "4dcfcc0d19": {
+   "at": "2026-10-29T18:33:13.885246",
+   "why": "poort"
+  },
+  "45b4ef0b72": {
+   "at": "2026-10-29T18:33:13.885246",
+   "why": "poort"
+  },
+  "9d92d4ec6e": {
+   "at": "2026-10-29T18:33:13.885246",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2727,6 +2751,9 @@
   "AI in de organisatie: OpenAI schetst drie plekken in het org chart",
   "ChatGPT sms sturen via Google Berichten en iMessage",
   "AP geeft incassobureaus advies over verantwoorde inzet van AI",
-  "Meta lanceert Waddle World, een AI-huisdier dat lijkt op Tamagotchi"
+  "Meta lanceert Waddle World, een AI-huisdier dat lijkt op Tamagotchi",
+  "OpenAI detecteert ai-model misalignment met gelaagde monitoring",
+  "AI energieverbruik: zoveel stroom kost een vraag aan ChatGPT",
+  "NYT Cooking test AI die recepten aanpast en schaalt"
  ]
 }
