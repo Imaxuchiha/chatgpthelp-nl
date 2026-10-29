@@ -2315,6 +2315,18 @@
   "0dc3cf0b7c": {
    "at": "2026-10-28T22:00:03.820671",
    "why": "ok"
+  },
+  "f0bdcb17c2": {
+   "at": "2026-10-29T11:09:16.284889",
+   "why": "ok"
+  },
+  "90f8196701": {
+   "at": "2026-10-29T11:10:16.284889",
+   "why": "ok"
+  },
+  "3c157112eb": {
+   "at": "2026-10-29T11:11:16.284889",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2712,6 +2724,9 @@
   "Chrome Autofill kan nu formulieren invullen met gegevens uit je Gmail",
   "Gemini 4 Carbon: Google's nieuwste AI-model dat je niet kunt gebruiken",
   "OpenAI en ServiceNow breiden samenwerking uit naar workflows",
-  "AI in de organisatie: OpenAI schetst drie plekken in het org chart"
+  "AI in de organisatie: OpenAI schetst drie plekken in het org chart",
+  "ChatGPT sms sturen via Google Berichten en iMessage",
+  "AP geeft incassobureaus advies over verantwoorde inzet van AI",
+  "Meta lanceert Waddle World, een AI-huisdier dat lijkt op Tamagotchi"
  ]
 }

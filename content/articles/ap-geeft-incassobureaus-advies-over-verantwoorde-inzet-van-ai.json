@@ -1,0 +1,68 @@
+{
+ "keyword": "ai incassobureaus",
+ "seo_title": "AI incassobureaus: AP geeft aanbevelingen",
+ "title": "AP geeft incassobureaus advies over verantwoorde inzet van AI",
+ "meta": "De Autoriteit Persoonsgegevens onderzocht 29 incassobureaus die algoritmes en AI gebruiken. Lees welke risico's de AP ziet en wat de aanbevelingen zijn.",
+ "category": "nieuws",
+ "tags": [
+  "autoriteit persoonsgegevens",
+  "incasso",
+  "ai",
+  "algoritmes",
+  "privacy"
+ ],
+ "intro": "Incassobureaus zetten steeds vaker algoritmes en AI in. De Autoriteit Persoonsgegevens bekeek 29 van zulke bureaus en ziet naast snelheid ook risico's. De toezichthouder komt daarom met aanbevelingen voor de hele sector.",
+ "takeaways": [
+  "De AP onderzocht 29 incassobureaus die algoritmes of AI gebruiken.",
+  "Het werk gaat sneller, maar er dreigen onjuiste beslissingen en discriminatie.",
+  "De AP geeft de incassosector aanbevelingen om verkeerd gebruik te voorkomen.",
+  "De aanbevelingen zijn nog geen wettelijke verplichting voor bureaus."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de AP onderzocht",
+   "body": "De Autoriteit Persoonsgegevens hield een steekproef onder 29 incassobureaus. Daaruit blijkt dat algoritmes en AI inmiddels vast onderdeel zijn van het incassowerk. Volgens de AP gaat het werk er sneller door.\n\nTegelijk kleven er risico's aan dat gebruik. De toezichthouder noemt onjuiste beslissingen, discriminatie en ongelijke behandeling. Bij een onjuiste beslissing kan iemand bijvoorbeeld onterecht als wanbetaler worden aangemerkt."
+  },
+  {
+   "heading": "Risico's van geautomatiseerde beslissingen",
+   "body": "Incassobureaus beoordelen wie welke schuld heeft en hoe hoog een vordering is. Gaat dat via een algoritme, dan kan een fout in de invoer doorwerken in het hele proces. De AP wijst erop dat zo'n fout niet altijd meteen zichtbaar is.\n\nOok discriminatie ligt op de loer. Systemen kunnen patronen overnemen die in de data zitten, ook als niemand dat zo bedoeld heeft. Dan krijgt de ene persoon een andere aanpak dan de andere, zonder goede reden."
+  },
+  {
+   "heading": "Aanbevelingen aan de sector",
+   "body": "Om verkeerd gebruik van computersystemen te voorkomen, publiceert de AP aanbevelingen voor incassobureaus. Het gaat om handvatten voor de inzet van algoritmes en AI in het dagelijkse werk.\n\nDe AP noemt de aanbevelingen een hulpmiddel voor de sector. Wat er precies in staat en of er ook regels bij zitten, maakt de toezichthouder in het bericht niet duidelijk. Duidelijk is wel dat de AP het onderwerp actief volgt."
+  },
+  {
+   "heading": "Nog geen harde regels",
+   "body": "De aanbevelingen zijn geen nieuwe wet. Incassobureaus moeten zich al houden aan de privacyregels die er zijn, waaronder de Algemene verordening gegevensbescherming (AVG). Die Europese wet geldt in heel Nederland en de EU.\n\nOf de AP later gaat handhaven op dit punt, is nog niet bekend. Het is ook niet bekend of de sector de aanbevelingen verplicht gaat opnemen in eigen richtlijnen."
+  }
+ ],
+ "nl_angle": "Heb je een schuld en krijg je met een incassobureau te maken, dan kan een computer jouw dossier hebben beoordeeld. Klopt er iets niet, dan is het verstandig om te vragen hoe een beslissing tot stand is gekomen. De AP wil met de aanbevelingen voorkomen dat fouten of vooroordelen in systemen ongemerkt doorwerken. Voor incassobureaus in Nederland betekent het dat ze hun algoritmes en AI kritisch moeten bekijken, ook als er nog geen nieuwe wet ligt.",
+ "faq": [
+  {
+   "q": "Wat doet de Autoriteit Persoonsgegevens met incassobureaus?",
+   "a": "De AP hield een steekproef onder 29 incassobureaus en bekeek hoe zij algoritmes en AI inzetten. Op basis daarvan geeft de toezichthouder aanbevelingen aan de sector."
+  },
+  {
+   "q": "Mag een incassobureau AI gebruiken?",
+   "a": "Ja, incassobureaus mogen algoritmes en AI inzetten, maar ze moeten zich aan de privacyregels houden. De AP wijst op risico's zoals onjuiste beslissingen en discriminatie."
+  },
+  {
+   "q": "Wat kun je doen bij een verkeerde beslissing van een incassobureau?",
+   "a": "Vraag het bureau hoe de beslissing tot stand is gekomen en welke gegevens zijn gebruikt. Kom je er niet uit, dan kun je een klacht indienen bij de Autoriteit Persoonsgegevens."
+  }
+ ],
+ "slug": "ap-geeft-incassobureaus-advies-over-verantwoorde-inzet-van-ai",
+ "kind": "news",
+ "date": "2026-10-29",
+ "published": "2026-10-29T11:10",
+ "sources": [
+  {
+   "name": "Autoriteit Persoonsgegevens",
+   "title": "AP informeert incassobureaus over verantwoorde inzet AI",
+   "url": "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-informeert-incassobureaus-over-verantwoorde-inzet-ai"
+  }
+ ],
+ "path": "/nieuws/ap-geeft-incassobureaus-advies-over-verantwoorde-inzet-van-ai/",
+ "og": "/img/og/ap-geeft-incassobureaus-advies-over-verantwoorde-inzet-van-ai.png",
+ "take": "De AP kijkt mee bij incassobureaus en dat is terecht, want een algoritme dat beslag voorstelt zonder dat iemand meekijkt is gewoon een fout die zichzelf herhaalt. Bij advertenties trek ik dezelfde grens: de AI mag rekenen en analyseren, maar de knop om budget of campagne aan te zetten blijft bij een mens. Ik geef zo'n model geen mandaat over iemands geld, en bij een incassobureau gaat het over het geld van een ander."
+}

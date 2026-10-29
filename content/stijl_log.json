@@ -3940,5 +3940,82 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-29T11:09:30",
+  "slug": "",
+  "title": "ChatGPT sms sturen via Google Berichten en iMessage",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-29T11:09:40",
+  "slug": "",
+  "title": "AP geeft incassobureaus advies over verantwoorde inzet van AI",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-29T11:09:47",
+  "slug": "",
+  "title": "Meta lanceert Waddle World, een AI-huisdier dat lijkt op Tamagotchi",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-29T11:10:34",
+  "slug": "",
+  "title": "92% van je budget naar de verkeerde landversie: zo los je dat op",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-29T11:10:48",
+  "slug": "",
+  "title": "92% van je budget naar de verkeerde landversie: zo los je dat op",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-29T11:11:08",
+  "slug": "",
+  "title": "Meta Waddle World: AI-huisdier is vooral afleiding",
+  "kind": "column",
+  "rood": [
+   "S6"
+  ],
+  "andere_fouten": 2,
+  "stand": "meten"
  }
 ]

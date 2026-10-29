@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: ov-kaart of auto vergelijken voor woon-werk",
+ "situation": "Je twijfelt of je met de auto, de trein of de fiets naar je werk moet blijven gaan. Deze prompt rekent de opties door met jouw cijfers.",
+ "prompt": "Je bent een reisadviseur met verstand van woon-werkverkeer in Nederland. Ik wil mijn keuze voor vervoer naar mijn werk opnieuw bekijken. Mijn situatie: ik woon in [WOONPLAATS], werk in [WERKPLAATS], afstand enkele reis [AANTAL] km. Ik werk [AANTAL] dagen per week op kantoor en reis normaal met [HUIDIG VERVOER]. Mijn reistijd nu is [AANTAL] minuten enkele reis. Mijn werkgever vergoedt [BEDRAG] euro per km of helemaal niets. Een parkeerplek kost [BEDRAG] euro per dag. Een ov-abonnement kost [BEDRAG] euro per maand. Mijn auto rijdt [AANTAL] km op een liter en benzine kost [BEDRAG] euro per liter. Reken per maand en per jaar de kosten door voor auto, ov en eventueel fiets plus ov. Noem ook reistijd en wat elke optie doet met mijn werkdag. Zet het in een tabel en geef een korte aanbeveling. Ontbreekt er een cijfer, vraag het dan eerst.",
+ "tip": "Vul ook je parkeerkosten en eventuele reiskostenvergoeding in, dan wordt de vergelijking pas echt bruikbaar.",
+ "tags": [
+  "werk",
+  "vervoer",
+  "kosten",
+  "dagelijks leven"
+ ],
+ "date": "2026-10-29",
+ "slug": "prompt-ov-kaart-of-auto-vergelijken-voor-woon-werk",
+ "path": "/prompts/2026-10-29-prompt-ov-kaart-of-auto-vergelijken-voor-woon-werk/"
+}
