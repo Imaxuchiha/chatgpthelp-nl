@@ -4319,5 +4319,44 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-30T21:41:33",
+  "slug": "",
+  "title": "OpenAI gaat gedeeld robots.txt-signaal voor AI-training volgen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-30T21:41:42",
+  "slug": "",
+  "title": "Google AI-satelliet stuurt eerste antwoord vanuit de ruimte",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-30T21:41:52",
+  "slug": "",
+  "title": "Zest's AI-agent vindt restaurants en boekt tafels via sms",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

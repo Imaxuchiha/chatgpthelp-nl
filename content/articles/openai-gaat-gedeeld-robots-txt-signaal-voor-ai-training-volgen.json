@@ -1,0 +1,68 @@
+{
+ "keyword": "ai training websites",
+ "seo_title": "AI-training websites: OpenAI volgt gedeeld",
+ "title": "OpenAI gaat gedeeld robots.txt-signaal voor AI-training volgen",
+ "meta": "OpenAI respecteert voortaan een gedeeld robots.txt-signaal waarmee websites hun AI-trainingsvoorkeuren doorgeven. Wat betekent dat voor Nederlandse sites?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "robots.txt",
+  "ai-training",
+  "websites",
+  "privacy"
+ ],
+ "intro": "OpenAI gaat een gedeeld robots.txt-signaal respecteren. Websitebeheerders kunnen daarmee aangeven of hun content gebruikt mag worden voor AI-training. Het signaal is bedoeld voor meerdere aanbieders tegelijk.",
+ "takeaways": [
+  "OpenAI volgt een gedeeld robots.txt-signaal voor AI-trainingsvoorkeuren.",
+  "Het signaal is bedoeld om voorkeuren aan meerdere deelnemende aanbieders door te geven.",
+  "Websitebeheerders houden zo meer controle over het gebruik van hun teksten.",
+  "Of andere AI-bedrijven meedoen, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies aankondigt",
+   "body": "OpenAI zegt dat het een gedeeld robots.txt-signaal gaat honoreren. Daarmee kunnen websitebeheerders hun voorkeuren over AI-training kenbaar maken. Het signaal is bedoeld voor alle deelnemende aanbieders.\n\nRobots.txt is een tekstbestand op een website. Zo'n bestand vertelt zoekmachines en andere programma's welke pagina's ze mogen bekijken. Het nieuwe signaal voegt daar een laag aan toe: mag de inhoud gebruikt worden om AI-modellen te trainen?\n\nOpenAI noemt het een gezamenlijk signaal. Eén regel in robots.txt kan zo voor meerdere partijen tegelijk gelden. Dat scheelt websitebeheerders losse afspraken per aanbieder."
+  },
+  {
+   "heading": "Waarom dit voor websitebeheerders telt",
+   "body": "Veel Nederlandse uitgevers, bloggers en webshops worstelen met AI-crawlers. Ze willen wel vindbaar blijven in zoekmachines, maar niet dat hun teksten zomaar in een taalmodel belanden. Het gedeelde signaal geeft hun één plek om die voorkeur vast te leggen.\n\nToch is het geen slot op de deur. Een signaal is een verzoek, geen technische blokkade. Partijen die niet meedoen aan de afspraak, kunnen zich er alsnog niets van aantrekken.\n\nOpenAI zegt het signaal te zullen respecteren. Of dat in de praktijk volledig gebeurt, valt van buitenaf lastig te controleren."
+  },
+  {
+   "heading": "Nog geen duidelijkheid over andere aanbieders",
+   "body": "OpenAI spreekt over deelnemende aanbieders. Welke bedrijven dat precies zijn, maakt de aankondiging niet duidelijk. Het is dus nog niet bekend of grote partijen als Google of Anthropic hetzelfde signaal gaan volgen.\n\nVoor websitebeheerders betekent dat een voorzichtig pluspunt. Eén standaard is handiger dan tien losse regels. Maar zonder brede deelname blijft het signaal vooral een signaal."
+  },
+  {
+   "heading": "Wat je als websitebeheerder kunt doen",
+   "body": "Wil je zelf bepalen wat er met je teksten gebeurt, kijk dan eerst of je robots.txt-bestand klopt. Voeg het gedeelde signaal toe zodra de specificatie beschikbaar is. OpenAI verwijst naar een gezamenlijk voorstel, maar de exacte invulling staat nog niet in de aankondiging.\n\nTwijfel je? Overleg met je webbouwer of hostingpartij. Die kan meestal snel zien welke crawlers je site nu al bezoeken."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse websites verandert er iets kleins maar merkbaars. Je kunt straks in één regel aangeven dat je teksten niet voor AI-training gebruikt mogen worden. Of dat juridisch hard is, blijft de vraag: het blijft een verzoek aan deelnemende partijen. Bedrijven die zich niet aansluiten, kun je er niet mee tegenhouden. Nederlandse uitgevers die al worstelen met AI-crawlers, krijgen er in ieder geval een extra middel bij.",
+ "faq": [
+  {
+   "q": "Wat is het gedeelde robots.txt-signaal van OpenAI?",
+   "a": "Een regel in het robots.txt-bestand waarmee je aangeeft of je website-inhoud gebruikt mag worden voor AI-training. OpenAI zegt dit signaal te respecteren."
+  },
+  {
+   "q": "Geldt het signaal ook voor andere AI-bedrijven?",
+   "a": "OpenAI spreekt over deelnemende aanbieders. Welke bedrijven dat zijn, is nog niet bekend."
+  },
+  {
+   "q": "Moet ik nu iets aanpassen op mijn website?",
+   "a": "Niet direct. Je kunt je robots.txt-bestand controleren en het signaal toevoegen zodra de specificatie duidelijk is."
+  }
+ ],
+ "slug": "openai-gaat-gedeeld-robots-txt-signaal-voor-ai-training-volgen",
+ "kind": "news",
+ "date": "2026-10-30",
+ "published": "2026-10-30T21:41",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Making it easier for websites to express AI training preferences",
+   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+  }
+ ],
+ "path": "/nieuws/openai-gaat-gedeeld-robots-txt-signaal-voor-ai-training-volgen/",
+ "og": "/img/og/openai-gaat-gedeeld-robots-txt-signaal-voor-ai-training-volgen.png",
+ "take": "OpenAI die een gedeeld robots.txt-signaal gaat respecteren, daar geloof ik pas in als het ook echt iets verandert. Een signaal is een afspraak op papier, en de partij die zich er niet aan houdt heeft geen strobreed in de weg. Ik benoem het eerlijk naar klanten: dit is geen garantie dat je content buiten de training blijft, dus bouw je strategie daar niet op."
+}

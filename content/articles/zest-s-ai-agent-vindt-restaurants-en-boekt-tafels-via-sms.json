@@ -1,0 +1,68 @@
+{
+ "keyword": "ai restaurant reserveren",
+ "seo_title": "AI restaurant reserveren: Zest boekt tafel via sms",
+ "title": "Zest's AI-agent vindt restaurants en boekt tafels via sms",
+ "meta": "Zest lanceert een AI-agent die restaurants vindt, opties laat stemmen en reserveert via sms. Ontdek wat dit betekent voor uit eten in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "restaurants",
+  "reserveren",
+  "zest",
+  "sms"
+ ],
+ "intro": "Zest heeft een AI-agent gelanceerd die restaurants zoekt en reserveringen maakt via sms. De tool combineert de smaken van een groep, laat deelnemers stemmen en boekt daarna de tafel. TechCrunch meldt dat de agent vooral handig is als een gezelschap het niet eens wordt over de locatie.",
+ "takeaways": [
+  "Zest's AI-agent vindt restaurants op basis van de voorkeuren van alle groepsleden.",
+  "De agent laat de opties per sms stemmen en maakt daarna de reservering.",
+  "TechCrunch noemt het een conciërge die het keuzeprobleem bij uit eten oplost.",
+  "De dienst werkt via tekstberichten, dus zonder aparte app."
+ ],
+ "sections": [
+  {
+   "heading": "Hoe de Zest-agent werkt",
+   "body": "Zest richt zich op een alledaags probleem: een groep vrienden of collega's die maar niet kan beslissen waar ze gaan eten. De AI-agent verzamelt ieders voorkeuren en zet de beste opties op een rij. Vervolgens krijgen de deelnemers die opties per sms te zien en kunnen ze stemmen. De agent boekt daarna de reservering bij het winnende restaurant.\n\nVolgens TechCrunch werkt de dienst volledig via tekstberichten. Je hoeft dus geen app te installeren. De agent fungeert als een conciërge die het kiezen uit handen neemt. Zest noemt zichzelf een AI-conciërge, meldt TechCrunch."
+  },
+  {
+   "heading": "Wat het oplevert voor groepen",
+   "body": "Uit eten gaan met een groep levert vaak eindeloos heen-en-weer-berichten op. De Zest-agent probeert dat te doorbreken door iedereen één stem te geven. Wie een hekel heeft aan een bepaald restaurant, kan dat aangeven. De agent weegt die voorkeuren mee in het voorstel.\n\nHet systeem is vooral bedoeld voor informele etentjes. TechCrunch beschrijft de tool als een oplossing voor het bekende 'waar gaan we eten'-probleem. Of de agent ook rekening houdt met dieetwensen of allergieën, is niet duidelijk uit de bron."
+  },
+  {
+   "heading": "Beperkingen en onduidelijkheden",
+   "body": "TechCrunch geeft geen details over welke restaurants meedoen of in welke landen Zest beschikbaar is. Ook is niet bekend of de dienst gratis is of dat er kosten aan verbonden zijn. De bron noemt geen prijzen of abonnementen.\n\nOf de agent in Nederland werkt, is nog niet bevestigd. Zest heeft geen Nederlandse vestiging aangekondigd. Voorlopig lijkt de dienst zich op de Amerikaanse markt te richten, al zegt de bron dat niet met zoveel woorden."
+  },
+  {
+   "heading": "AI die taken overneemt",
+   "body": "Zest past in een bredere trend waarbij AI-agenten praktische klusjes uitvoeren. Denk aan het boeken van een tafel, het plannen van een reis of het regelen van een afspraak. TechCrunch plaatst de tool in die categorie van persoonlijke assistenten.\n\nDe meerwaarde zit in de combinatie van groepsvoorkeuren en een directe actie. De agent beperkt zich niet tot suggesties, maar maakt ook de reservering. Dat is een stap verder dan een zoekmachine die alleen restaurants toont."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders betekent dit vooral dat de keuzehulp via sms werkt, mocht Zest hier beschikbaar komen. De dienst is nog niet in Nederland aangekondigd. Wie nu met vrienden wil afspreken, kan beter een groepsapp gebruiken. Zodra Zest hier actief wordt, kan het de strijd om de rekening of de tafelkeuze schelen. Houd er rekening mee dat reserveren via een AI-agent nog niet betekent dat je zonder bevestiging kunt aanschuiven.",
+ "faq": [
+  {
+   "q": "Wat is Zest AI-agent?",
+   "a": "Zest is een AI-conciërge die restaurants zoekt, opties per sms laat stemmen en de reservering maakt. TechCrunch noemt het een hulpmiddel voor groepen die het niet eens worden over de locatie."
+  },
+  {
+   "q": "Werkt Zest in Nederland?",
+   "a": "Dat is nog niet bekend. TechCrunch meldt niets over beschikbaarheid in Nederland of Europa. De dienst lijkt voorlopig op de Amerikaanse markt te mikken."
+  },
+  {
+   "q": "Heb ik een app nodig voor Zest?",
+   "a": "Nee, de agent werkt via sms. Je hoeft dus geen aparte app te installeren om mee te doen aan de stemming of de reservering te bevestigen."
+  }
+ ],
+ "slug": "zest-s-ai-agent-vindt-restaurants-en-boekt-tafels-via-sms",
+ "kind": "news",
+ "date": "2026-10-30",
+ "published": "2026-10-30T21:43",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+   "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
+  }
+ ],
+ "path": "/nieuws/zest-s-ai-agent-vindt-restaurants-en-boekt-tafels-via-sms/",
+ "og": "/img/og/zest-s-ai-agent-vindt-restaurants-en-boekt-tafels-via-sms.png",
+ "take": "Zest laat een agent restaurants zoeken en via sms een tafel boeken, en dat is leuk voor een groep die het niet eens wordt. Mijn vraag is wat zo'n koppeling kost zodra iedereen hem gebruikt, want bellen en sms'en loopt via dure kanalen. Ik bouw zoiets liever zelf met een goedkope API en een eigen script, dan betaal ik alleen voor wat ik echt terugverdien."
+}

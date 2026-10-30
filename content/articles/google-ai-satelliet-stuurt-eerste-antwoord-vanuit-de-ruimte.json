@@ -1,0 +1,68 @@
+{
+ "keyword": "google ai satelliet",
+ "seo_title": "Google AI satelliet stuurt eerste antwoord naar aarde",
+ "title": "Google AI-satelliet stuurt eerste antwoord vanuit de ruimte",
+ "meta": "Google heeft vanuit de ruimte voor het eerst een AI-antwoord naar aarde gestuurd. Lees hoe de TPU-satelliet werkt en wat dit voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "google",
+  "ai",
+  "satelliet",
+  "ruimtevaart",
+  "tpu"
+ ],
+ "intro": "Een satelliet van Google met AI-chips aan boord heeft voor het eerst een antwoord naar de aarde gestuurd. Het toestel startte zijn Tensor Processing Units op en liet het taalmodel Gemma 4 een haiku over de ruimte schrijven. Dat meldt The Verge op basis van een blogpost van Google. De proef laat zien dat AI buiten de aarde kan draaien, los van datacenters op de grond.",
+ "takeaways": [
+  "Google startte de TPU's aan boord van de satelliet met succes op.",
+  "Het model Gemma 4 maakte in de ruimte een haiku over het uitzicht op aarde.",
+  "De satelliet stuurde zijn eerste antwoord terug naar de aarde.",
+  "Google noemt de proef Project Suncatcher."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies gebeurde",
+   "body": "Google heeft vrijdag in een blogpost laten weten dat de AI-chips in de satelliet zijn opgestart. Daarna kreeg het taalmodel Gemma 4 de opdracht om een haiku te maken over het verblijf in de ruimte. Dat lukte. Het gedicht begint met de regel over de blauwe planeet beneden en stromende datastromen.\n\nHet antwoord kwam terug op aarde. Daarmee is de eerste stap gezet van een proef waarbij rekenkracht en taalmodellen buiten de dampkring draaien. Google noemt het project Project Suncatcher."
+  },
+  {
+   "heading": "Waarom AI in de ruimte",
+   "body": "Datacenters op aarde gebruiken veel stroom en water voor koeling. In de ruimte is het koud en valt er veel zonlicht op zonnepanelen. Google onderzoekt of een deel van de rekenkracht daar naartoe kan. De satelliet met TPU's is een eerste test van dat idee.\n\nEen taalmodel dat in de ruimte een gedicht maakt, klinkt klein. Toch is het de basisvraag: kun je AI laten werken op een plek waar niemand even een server komt vervangen? Het antwoord van deze proef is voorlopig ja, voor één opdracht."
+  },
+  {
+   "heading": "Wat Google nog niet zegt",
+   "body": "Over de kosten van het project maakt Google in de blogpost geen cijfers bekend. Ook is niet duidelijk hoe vaak de satelliet zulke opdrachten kan uitvoeren en hoe snel de verbinding met de aarde is. The Verge noemt alleen de eerste reactie en de haiku.\n\nOf er meer satellieten bijkomen, is nog niet bekend. Google geeft daar in de gepubliceerde tekst geen uitsluitsel over."
+  },
+  {
+   "heading": "AI als model in plaats van dienst",
+   "body": "De proef past bij een bredere beweging: AI-modellen worden kleiner en draaien vaker op het apparaat zelf. Gemma is de open familie van modellen van Google. Dat een compact model op speciale chips in een satelliet werkt, zegt iets over hoe ver dat inmiddels is.\n\nVoor gewone gebruikers verandert er vandaag weinig. De vraag is vooral of rekenkracht op afgelegen plekken ooit net zo gewoon wordt als stroom uit het stopcontact."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral een signaal over energie en rekenkracht. Datacenters in ons land stuiten regelmatig op grenzen van het stroomnet en op bezwaren tegen ruimtegebruik. Als een deel van de AI-berekeningen naar de ruimte kan, raakt dat die discussie. Concrete plannen voor Nederland zijn er niet. Google noemt geen Europese locaties of partners. Nederlandse bedrijven en overheden kunnen de proef volgen, maar hebben nu geen rol in Project Suncatcher.",
+ "faq": [
+  {
+   "q": "Wat is Project Suncatcher van Google?",
+   "a": "Dat is de naam die Google geeft aan zijn proef met AI-chips en taalmodellen in een satelliet. De satelliet stuurde voor het eerst een antwoord naar de aarde."
+  },
+  {
+   "q": "Welk model draaide op de satelliet?",
+   "a": "Volgens Google draaide het model Gemma 4 op de Tensor Processing Units aan boord. Het model maakte op verzoek een haiku over de ruimte."
+  },
+  {
+   "q": "Kun je dit in Nederland gebruiken?",
+   "a": "Nee, er is geen dienst of product dat je in Nederland kunt afnemen. Het gaat om een technische proef van Google waarover nog weinig details bekend zijn."
+  }
+ ],
+ "slug": "google-ai-satelliet-stuurt-eerste-antwoord-vanuit-de-ruimte",
+ "kind": "news",
+ "date": "2026-10-30",
+ "published": "2026-10-30T21:42",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Google’s satellite AI server transmits its first response to Earth",
+   "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+  }
+ ],
+ "path": "/nieuws/google-ai-satelliet-stuurt-eerste-antwoord-vanuit-de-ruimte/",
+ "og": "/img/og/google-ai-satelliet-stuurt-eerste-antwoord-vanuit-de-ruimte.png",
+ "take": "Google laat hier een taalmodel een haiku schrijven op een satelliet, en dat is knap. Maar een proef met één gedicht zegt me nog niets over wat het oplevert. Ik meet liever eerst wat zo'n chip in de ruimte aan tijd of geld scheelt voordat ik het een doorbraak noem."
+}

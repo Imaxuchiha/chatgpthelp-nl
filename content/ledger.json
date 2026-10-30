@@ -2387,6 +2387,18 @@
   "d906f2ca87": {
    "at": "2026-10-30T18:10:18.626846",
    "why": "ok"
+  },
+  "25cc4c9bb2": {
+   "at": "2026-10-30T21:41:18.278256",
+   "why": "ok"
+  },
+  "c4dbacf8aa": {
+   "at": "2026-10-30T21:42:18.278256",
+   "why": "ok"
+  },
+  "a457451f7b": {
+   "at": "2026-10-30T21:43:18.278256",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2799,6 +2811,9 @@
   "Geloofsvrijstelling voor AI op werk: wat betekent dat in Nederland?",
   "ChatGPT krijgt strengere veiligheid voor tieners en geweldpreventie",
   "AI-bewijs weerlegt 27 jaar oud vermoeden in de informatica",
-  "ai-hype fraude: Theranos-klokkenluider waarschuwt voor misleiding"
+  "ai-hype fraude: Theranos-klokkenluider waarschuwt voor misleiding",
+  "OpenAI gaat gedeeld robots.txt-signaal voor AI-training volgen",
+  "Google AI-satelliet stuurt eerste antwoord vanuit de ruimte",
+  "Zest's AI-agent vindt restaurants en boekt tafels via sms"
  ]
 }
