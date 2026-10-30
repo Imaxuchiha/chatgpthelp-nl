@@ -2363,6 +2363,18 @@
   "7587406daf": {
    "at": "2026-10-29T22:03:00.340889",
    "why": "ok"
+  },
+  "582c302ad3": {
+   "at": "2026-10-30T11:11:00.709737",
+   "why": "ok"
+  },
+  "a973ac401c": {
+   "at": "2026-10-30T11:12:00.709737",
+   "why": "ok"
+  },
+  "3f421dfac0": {
+   "at": "2026-10-30T11:13:00.709737",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2769,6 +2781,9 @@
   "NYT Cooking test AI die recepten aanpast en schaalt",
   "OpenAI werkt Model Spec bij met vijf kernwaarden",
   "Ropes & Gray bouwt AI voor juridische due diligence met OpenAI",
-  "Rivian en Volkswagen voegen ai-assistent toe aan hun joint venture"
+  "Rivian en Volkswagen voegen ai-assistent toe aan hun joint venture",
+  "AI-chatbots komen weg met hallucinaties door slim taalgebruik",
+  "Wikipedia waarschuwt voor strenge AI-uitspraak over auteursrecht",
+  "Geloofsvrijstelling voor AI op werk: wat betekent dat in Nederland?"
  ]
 }

@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: oppasbrief voor de logeerpartij van je kind",
+ "situation": "Je kind gaat een nachtje logeren bij opa en oma of een vriendje. Je wilt de belangrijkste afspraken en gewoontes op papier zetten, zonder dat het een lange brief wordt.",
+ "prompt": "Je bent een ervaren gastouder die korte, praktische overdrachtsbriefjes schrijft voor oppas. Ik stuur mijn kind van [LEEFTIJD] jaar logeren bij [OPPASADRES]. Schrijf een overzichtelijke oppasbrief van maximaal 300 woorden. Gebruik deze informatie: bedtijd en ochtendritueel: [BEDTIJD EN RITUEEL]; eten en drinken, inclusief allergieën: [ETEN EN ALLERGIEËN]; medicijnen of bijzonderheden: [MEDICIJNEN]; slaapgewoontes en troostmiddelen: [SLAAP]; telefoonnummers van ouders: [NUMMERS]; noodnummer huisarts: [HUISARTS]. Zet bovenaan een blok met naam, geboortedatum en de belangrijkste telefoonnummers. Verdeel de rest in korte kopjes met opsommingen. Voeg onderaan een regel toe met wat de oppas mag doen bij twijfel, zoals eerst bellen. Houd de toon warm en direct, in gewone taal. Geen medische adviezen toevoegen die ik niet heb aangeleverd.",
+ "tip": "Vraag om een tweede versie van maximaal 100 woorden voor op de koelkast.",
+ "tags": [
+  "thuis",
+  "gezin",
+  "oppas",
+  "overdracht"
+ ],
+ "date": "2026-10-30",
+ "slug": "prompt-oppasbrief-voor-de-logeerpartij-van-je-kind",
+ "path": "/prompts/2026-10-30-prompt-oppasbrief-voor-de-logeerpartij-van-je-kind/"
+}

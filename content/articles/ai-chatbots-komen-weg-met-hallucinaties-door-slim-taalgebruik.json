@@ -1,0 +1,67 @@
+{
+ "keyword": "ai chatbot hallucinaties",
+ "seo_title": "AI-chatbot hallucinaties: waarom taalgebruik ons misleidt",
+ "title": "AI-chatbots komen weg met hallucinaties door slim taalgebruik",
+ "meta": "AI-chatbots misleiden ons met overtuigend taalgebruik, ook bij verzonnen feiten. Lees hoe dat werkt en waar je in Nederland op moet letten.",
+ "category": "nieuws",
+ "tags": [
+  "ai-chatbots",
+  "hallucinaties",
+  "taalgebruik",
+  "desinformatie",
+  "chatgpt"
+ ],
+ "intro": "Een AI-chatbot die met stellige, vlot geformuleerde zinnen komt, wordt sneller geloofd dan een chatbot die een fout maakt en dat zwak brengt. Bright meldt dat chatbots daardoor wegkomen met hallucinaties: verzonnen feiten die toch overtuigend overkomen. Dat raakt iedereen die ChatGPT of een andere assistent gebruikt voor werk, studie of nieuws.",
+ "takeaways": [
+  "Overtuigend taalgebruik weegt zwaarder dan de juistheid van de inhoud.",
+  "Een chatbot met een hallucinatie kan geloofwaardiger overkomen dan een correcte bot.",
+  "Woordkeuze bepaalt hoe snel gebruikers een antwoord accepteren.",
+  "Nederlandse gebruikers krijgen hiermee te maken bij werk en studie."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies aan de hand is",
+   "body": "Bij een hallucinatie verzint een chatbot feiten, bronnen of citaten. Toch merken gebruikers dat vaak niet op. Volgens Bright ligt dat aan de toon: klinkt een antwoord zelfverzekerd en netjes geformuleerd, dan accepteren mensen het sneller.\n\nOpvallend is dat een fout antwoord in mooie taal geloofwaardiger kan overkomen dan een juist antwoord dat twijfelend wordt gebracht. De presentatie doet dus veel werk. Wie een chatbot beoordeelt, let vaak op hoe iets gezegd wordt."
+  },
+  {
+   "heading": "Waarom taalgebruik zo sterk werkt",
+   "body": "Mensen lezen een antwoord van een chatbot als een tekst van een ander. Vloeiende zinnen, logische overgangen en een rustige toon geven de indruk van kennis. Ontbreekt die zekerheid, dan gaan er eerder alarmbellen rinkelen.\n\nDat maakt hallucinaties lastig te herkennen. Een verkeerd jaartal of een verzonnen onderzoek valt weg tegen een overtuigende schrijfstijl. De chatbot hoeft dus niet slimmer te zijn om mensen om de tuin te leiden. Het juiste taalgebruik is genoeg."
+  },
+  {
+   "heading": "Wat je zelf kunt doen",
+   "body": "Controleer feiten altijd bij de bron. Vraag een chatbot om onderbouwing en zoek die onderbouwing zelf op. Bestaat een genoemd rapport niet, dan weet je genoeg.\n\nLet ook op de toon van een antwoord. Hoe stelliger de formulering, hoe minder je die als bewijs moet zien. Een chatbot die zegt dat iets nog onbekend is, geeft vaak een betrouwbaarder signaal dan een bot die alles zeker weet."
+  },
+  {
+   "heading": "Wat dit betekent voor bedrijven",
+   "body": "Organisaties die chatbots inzetten voor klantcontact of interne vragen lopen hetzelfde risico. Een medewerker of klant ziet een net antwoord en gaat ervan uit dat het klopt. Zonder controle op feiten kan een verkeerd antwoord zo doorwerken in processen.\n\nEen vaste controle-stap helpt. Laat belangrijke antwoorden door een mens nalopen en leg vast waar informatie vandaan moet komen. Zo blijft de chatbot bruikbaar zonder dat overtuigende taal de waarheid vervangt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers verandert er weinig aan de techniek, wel aan het gebruik. ChatGPT, Claude en Gemini zijn hier gewoon beschikbaar en worden veel gebruikt op kantoor, in het onderwijs en bij het maken van teksten. Wie een antwoord overneemt in een rapport of e-mail, doet er goed aan de feiten zelf te checken. Bij bedrijven die chatbots inzetten, helpt een duidelijke regel: geen enkel feitelijk antwoord naar buiten zonder controle. De Autoriteit Persoonsgegevens houdt toezicht op hoe organisaties met persoonsgegevens in zulke systemen omgaan, dus zorgvuldigheid loont ook op dat vlak.",
+ "faq": [
+  {
+   "q": "wat is een hallucinatie bij een ai-chatbot",
+   "a": "Een hallucinatie is een antwoord waarin de chatbot feiten verzint, zoals een niet-bestaand onderzoek of een verkeerd jaartal. Het antwoord klinkt vaak overtuigend."
+  },
+  {
+   "q": "waarom geloven we chatbots zo snel",
+   "a": "Vlot en zelfverzekerd taalgebruik geeft de indruk van kennis. Daardoor accepteren mensen een antwoord sneller, ook als de inhoud niet klopt."
+  },
+  {
+   "q": "hoe herken ik een hallucinatie",
+   "a": "Controleer genoemde bronnen en cijfers zelf. Vraag om onderbouwing en kijk of die bestaat. Twijfel bij antwoorden die alles zeker lijken te weten."
+  }
+ ],
+ "slug": "ai-chatbots-komen-weg-met-hallucinaties-door-slim-taalgebruik",
+ "kind": "news",
+ "date": "2026-10-30",
+ "published": "2026-10-30T11:11",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "AI-chatbots komen weg met hallucinaties door het juiste taalgebruik",
+   "url": "https://www.bright.nl/nieuws/2152811/ai-chatbots-komen-weg-met-hallucinaties-door-het-juiste-taalgebruik.html"
+  }
+ ],
+ "path": "/nieuws/ai-chatbots-komen-weg-met-hallucinaties-door-slim-taalgebruik/",
+ "og": "/img/og/ai-chatbots-komen-weg-met-hallucinaties-door-slim-taalgebruik.png"
+}

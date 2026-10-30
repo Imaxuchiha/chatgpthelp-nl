@@ -1,0 +1,68 @@
+{
+ "keyword": "godsdienstvrijstelling ai werk",
+ "seo_title": "Geloofsvrijstelling voor AI op werk: wat speelt er",
+ "title": "Geloofsvrijstelling voor AI op werk: wat betekent dat in Nederland?",
+ "meta": "Een Amerikaanse ambtenaar kreeg vrijstelling van AI op het werk op religieuze gronden. Wat betekent dat voor werknemers en werkgevers in Nederland?",
+ "category": "beleid",
+ "tags": [
+  "ai op werk",
+  "godsdienstvrijheid",
+  "arbeidsrecht",
+  "discriminatie",
+  "werkgevers"
+ ],
+ "intro": "Een bestuursmedewerker van de University of Kentucky kreeg onlangs een religieuze vrijstelling om AI-tools op het werk te weigeren. TechCrunch meldt dat David Durman die uitzondering kreeg zonder dat daar een klassiek godsbeeld aan te pas kwam. De zaak roept de vraag op hoe ver een werkgever mag gaan met verplichte AI-tools.",
+ "takeaways": [
+  "David Durman, werkzaam bij de University of Kentucky, kreeg een religieuze vrijstelling voor het gebruik van AI op het werk.",
+  "De vrijstelling vraagt geen bewijs van geloof in een god, meldt TechCrunch.",
+  "In Nederland valt zoiets onder godsdienstvrijheid en de gelijkebehandelingswetgeving.",
+  "Een werkgever moet een verzoek om vrijstelling serieus afwegen tegen het belang van de organisatie."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er in Kentucky gebeurde",
+   "body": "David Durman werkt als bestuursmedewerker aan de University of Kentucky. Hij vroeg om ontheffing van het gebruik van AI in zijn werk en kreeg die op religieuze gronden. TechCrunch schrijft dat hij daarvoor niet hoeft aan te tonen dat hij in een god gelooft.\n\nDe precieze argumentatie van de universiteit is niet volledig openbaar. Duidelijk is wel dat de werkgever het verzoek heeft gehonoreerd en dat Durman zijn taken zonder AI-tools mag uitvoeren. De zaak laat zien dat een beroep op geweten verder kan reiken dan klassieke kerkgenootschappen."
+  },
+  {
+   "heading": "Waarom dit juridisch gevoelig ligt",
+   "body": "Een werkgever die AI verplicht stelt, raakt aan de persoonlijke overtuiging van medewerkers. In de Verenigde Staten toetst men zo'n verzoek aan de godsdienstvrijheid in de grondwet en aan antidiscriminatiewetten. De uitkomst hangt sterk af van de vraag of de bezwaren oprecht zijn.\n\nIn Nederland ligt dat anders. Hier beschermt de Grondwet de vrijheid van godsdienst en levensovertuiging. Daarnaast verbiedt de Algemene wet gelijke behandeling onderscheid op grond van godsdienst of levensovertuiging. Een werkgever moet dus kunnen uitleggen waarom een AI-verplichting noodzakelijk is voor de functie."
+  },
+  {
+   "heading": "Wat een werkgever mag vragen",
+   "body": "Een verzoek om vrijstelling hoeft niet te betekenen dat iemand nooit meer met computers werkt. Vaak gaat het om specifieke tools, zoals een chatbot die teksten schrijft of e-mails samenvat. De werkgever kan dan kijken naar een alternatieve invulling van de taken.\n\nWerkgevers mogen wel vragen naar de reden van het bezwaar. Ze mogen niet eisen dat iemand lid is van een kerk of een god aanbidt. Volgens TechCrunch was dat in Kentucky juist het punt: de overtuiging telde, niet de aanwezigheid van een opperwezen."
+  },
+  {
+   "heading": "AI verplicht stellen op de werkvloer",
+   "body": "Steeds meer organisaties zetten AI in voor administratie, klantcontact en verslaglegging. Voor sommige functies is dat praktisch onvermijdelijk. Toch blijft de vraag of een medewerker altijd mee moet doen.\n\nEen werkgever die AI verplicht stelt, doet er verstandig aan het gesprek aan te gaan voordat er een conflict ontstaat. Een helder beleid met ruimte voor bezwaren voorkomt juridische rompslomp. De zaak in Kentucky is daarbij een buitenlands voorbeeld, geen Nederlandse rechtspraak."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse werkgevers betekent dit dat een verzoek om AI-vrijstelling op grond van geloof of geweten serieus moet worden behandeld. De Algemene wet gelijke behandeling biedt bescherming, en de werkgever moet aantonen dat een AI-verplichting echt nodig is voor de functie. Er is nog geen Nederlandse rechter die zich hierover heeft uitgesproken, dus veel blijft voorlopig onduidelijk. Werknemers die bezwaren hebben, kunnen het beste eerst intern het gesprek aangaan en hun argumenten op papier zetten.",
+ "faq": [
+  {
+   "q": "Kun je in Nederland vrijstelling krijgen van AI op je werk?",
+   "a": "Dat is nog niet duidelijk. De wet beschermt godsdienst en levensovertuiging, maar er is nog geen Nederlandse uitspraak over AI-gebruik op de werkvloer."
+  },
+  {
+   "q": "Moet je in een god geloven voor zo'n vrijstelling?",
+   "a": "In de zaak in Kentucky niet, meldt TechCrunch. Daar telde de oprechte overtuiging van de medewerker, niet het lidmaatschap van een kerk."
+  },
+  {
+   "q": "Mag mijn werkgever AI verplicht stellen?",
+   "a": "Een werkgever mag AI invoeren, maar moet rekening houden met bezwaren van medewerkers. Bij een conflict moet de werkgever uitleggen waarom de tool noodzakelijk is voor de functie."
+  }
+ ],
+ "slug": "geloofsvrijstelling-voor-ai-op-werk-wat-betekent-dat-in-nederland",
+ "kind": "news",
+ "date": "2026-10-30",
+ "published": "2026-10-30T11:13",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+   "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+  }
+ ],
+ "path": "/beleid/geloofsvrijstelling-voor-ai-op-werk-wat-betekent-dat-in-nederland/",
+ "og": "/img/og/geloofsvrijstelling-voor-ai-op-werk-wat-betekent-dat-in-nederland.png",
+ "take": "Die ambtenaar kreeg vrijstelling om AI te weigeren, en dat is prima zolang het om uitzoekwerk gaat. Zodra zo iemand budgetten goedkeurt of campagnes live zet, hoort er gewoon een mens naar te kijken. AI doet het werk, de geldknoppen blijven bij een mens."
+}

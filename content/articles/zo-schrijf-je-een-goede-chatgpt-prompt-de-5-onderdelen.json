@@ -1,0 +1,70 @@
+{
+ "keyword": "chatgpt prompt",
+ "seo_title": "ChatGPT prompt schrijven: de 5 onderdelen die werken",
+ "title": "Zo schrijf je een goede ChatGPT prompt: de 5 onderdelen",
+ "meta": "Leer een ChatGPT prompt schrijven die werkt. De 5 onderdelen, concrete stappen en een voorbeeldprompt. Voor beginners en gevorderden.",
+ "category": "uitleg",
+ "tags": [
+  "chatgpt",
+  "prompt",
+  "prompt schrijven",
+  "ai",
+  "uitleg"
+ ],
+ "intro": "Een ChatGPT prompt is de instructie die je aan de chatbot geeft. De kwaliteit van het antwoord hangt sterk af van hoe je die instructie formuleert. Veel mensen typen een korte vraag en krijgen een vaag antwoord. Met een paar vaste onderdelen haal je meer uit elk gesprek.",
+ "takeaways": [
+  "Een goede prompt bevat minimaal een rol, taak, context, vorm en lengte.",
+  "Hoe specifieker je bent over doel en doelgroep, hoe bruikbaarder het antwoord.",
+  "Je kunt ChatGPT om verduidelijking vragen als je prompt nog niet scherp is.",
+  "Een voorbeeldprompt helpt om de structuur te oefenen."
+ ],
+ "sections": [
+  {
+   "heading": "Begin met een rol en een taak",
+   "body": "Elke prompt heeft een rol nodig. Vertel ChatGPT wie hij moet zijn voor deze vraag. Bijvoorbeeld: 'Je bent een ervaren communicatieadviseur.' Die rol kleurt de toon en de keuzes van het antwoord.\n\nDaarna geef je de taak. Wees concreet: wat moet er gebeuren? 'Schrijf een e-mail' is vaag. 'Schrijf een e-mail aan een klant waarin je uitlegt dat de levering een week later komt' is duidelijk. Hoe scherper de taak, hoe minder je hoeft te corrigeren."
+  },
+  {
+   "heading": "Geef context en doelgroep mee",
+   "body": "Context helpt ChatGPT om relevante keuzes te maken. Denk aan de situatie, eerdere afspraken of het doel van de tekst. Noem ook voor wie het bedoeld is. Een tekst voor een interne nieuwsbrief leest anders dan een bericht aan een boze klant.\n\nJe hoeft geen roman te schrijven. Een paar steekwoorden over de doelgroep en het doel zijn genoeg. Zonder die informatie gokt ChatGPT en dat merk je vaak in het resultaat."
+  },
+  {
+   "heading": "Bepaal de vorm en de lengte",
+   "body": "Wil je een lijst, een tabel, een alinea of een stappenplan? Zeg het erbij. Ook de lengte kun je sturen: 'in maximaal 150 woorden' of 'in drie korte alinea's'. Dat voorkomt dat je een lap tekst krijgt waar je niets mee kunt.\n\nAls je een specifieke toon wilt, noem die dan. Bijvoorbeeld 'zakelijk en vriendelijk' of 'informeel maar professioneel'. ChatGPT past de stijl daarop aan."
+  },
+  {
+   "heading": "Voeg een voorbeeldprompt toe",
+   "body": "Een voorbeeldprompt laat zien hoe de vijf onderdelen samenkomen. Hier is een prompt die je zo kunt gebruiken:\n\n\"Je bent een ervaren tekstschrijver. Schrijf een LinkedIn-bericht van maximaal 100 woorden over ons nieuwe thuisbezorgabonnement. Doelgroep: klanten in Nederland die vaak eten bestellen. Toon: enthousiast maar niet overdreven. Eindig met een vraag om reacties.\"\n\nLet op de rol, de taak, de context, de vorm en de lengte. Elk onderdeel is kort, maar samen sturen ze het antwoord de goede kant op."
+  },
+  {
+   "heading": "Controleer en stel bij",
+   "body": "Een prompt is zelden in één keer perfect. Lees het antwoord en kijk wat ontbreekt. Je kunt ChatGPT vragen om het opnieuw te doen met een aanpassing. Bijvoorbeeld: 'Maak de tekst korter en voeg een concreet voorbeeld toe.'\n\nJe hoeft niet alles zelf te bedenken. Vraag ChatGPT om je prompt te verbeteren als je vastloopt. Dat is vaak sneller dan eindeloos sleutelen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers is het handig om de prompt in het Nederlands te schrijven als het antwoord ook Nederlands moet zijn. ChatGPT begrijpt Engels prima, maar de toon en woordkeuze sluiten beter aan bij de Nederlandse context als je de instructie in het Nederlands geeft. Let ook op lokale voorbeelden, zoals Nederlandse merken of situaties, om het antwoord herkenbaar te maken.",
+ "faq": [
+  {
+   "q": "Wat is een ChatGPT prompt?",
+   "a": "Een ChatGPT prompt is de instructie of vraag die je intypt. Die prompt bepaalt grotendeels wat voor antwoord je terugkrijgt."
+  },
+  {
+   "q": "Hoe schrijf ik een prompt voor ChatGPT?",
+   "a": "Gebruik de vijf onderdelen: rol, taak, context, vorm en lengte. Wees zo concreet mogelijk over wat je wilt."
+  },
+  {
+   "q": "Kan ik een voorbeeldprompt gebruiken?",
+   "a": "Ja, een voorbeeldprompt helpt om de structuur te leren. Pas hem aan naar jouw situatie."
+  },
+  {
+   "q": "Moet ik in het Nederlands of Engels prompten?",
+   "a": "Als je een Nederlands antwoord wilt, is prompten in het Nederlands meestal het handigst. ChatGPT kan ook in het Engels worden aangesproken, maar de stijl sluit dan minder goed aan."
+  }
+ ],
+ "slug": "zo-schrijf-je-een-goede-chatgpt-prompt-de-5-onderdelen",
+ "kind": "evergreen",
+ "date": "2026-10-30",
+ "published": "2026-10-30T11:11",
+ "sources": [],
+ "path": "/uitleg/zo-schrijf-je-een-goede-chatgpt-prompt-de-5-onderdelen/",
+ "og": "/img/og/zo-schrijf-je-een-goede-chatgpt-prompt-de-5-onderdelen.png",
+ "seed": "Zo schrijf je een goede prompt: de 5 onderdelen van een prompt die werkt"
+}

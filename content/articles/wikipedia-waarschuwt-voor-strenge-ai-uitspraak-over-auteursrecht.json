@@ -1,0 +1,64 @@
+{
+ "keyword": "ai auteursrecht wikipedia",
+ "seo_title": "AI auteursrecht: Wikipedia waarschuwt voor strenge rechter",
+ "title": "Wikipedia waarschuwt voor strenge AI-uitspraak over auteursrecht",
+ "meta": "Wikimedia Foundation mengt zich in AI-auteursrechtzaken en vraagt rechters om een middenweg. Wat betekent dat voor Nederland en de EU?",
+ "category": "beleid",
+ "tags": [
+  "auteursrecht",
+  "ai",
+  "wikipedia",
+  "openai",
+  "new york times"
+ ],
+ "intro": "De Wikimedia Foundation, de organisatie achter Wikipedia, bemoeit zich met een reeks Amerikaanse rechtszaken over AI en auteursrecht. Volgens The Verge pleit ze voor een tussenpositie: training van taalmodellen op beschermd werk moet kunnen, maar chatbots mogen dat werk niet zomaar uitbraken. Een te zwart-witte uitspraak kan volgens de stichting de openbare waarde van het internet schaden.",
+ "takeaways": [
+  "De Wikimedia Foundation mengt zich in meerdere Amerikaanse AI-auteursrechtzaken.",
+  "Ze wil training van taalmodellen op beschermd werk juridisch beschermen.",
+  "Het rondpompen van auteursrechtelijk werk door chatbots ziet ze niet als beschermd gebruik.",
+  "Een te absolute uitspraak kan volgens haar nuttige AI-hulpmiddelen voor Wikipedianen of de openbare toegang tot kennis in gevaar brengen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Wikipedia precies vraagt",
+   "body": "De stichting kiest volgens The Verge een middenweg in een groep zaken die richtinggevend zijn voor AI en auteursrecht. Ze vraagt rechters om het trainen van grote taalmodellen op auteursrechtelijk beschermd materiaal juridisch te beschermen. Dat moet ruimte houden voor AI-hulpmiddelen waar vrijwilligers van Wikipedia baat bij hebben.\n\nTegelijk wil ze dat chatbots het werk niet zomaar aan gebruikers teruggeven. Daar ligt volgens de stichting een grens. Het model mag leren van teksten, maar niet optreden als doorgeefluik van andermans werk.\n\nDe organisatie vreest een uitspraak die alles op één hoop gooit. Zo'n oordeel kan volgens haar twee kanten op misgaan. Ofwel het ontneemt Wikipedianen bruikbare AI-tools, ofwel het brengt de openbare toegang tot kennis in gevaar."
+  },
+  {
+   "heading": "Waarom deze zaken zo zwaar wegen",
+   "body": "De rechtszaken draaien om de vraag of het trainen van AI-modellen op beschermd werk mag zonder toestemming van makers. In de Verenigde Staten gaat het om het begrip fair use, een uitzondering die ruimte geeft aan vernieuwend gebruik. In Nederland en de EU ligt dat anders geregeld, met een eigen tekst- en datamining-uitzondering.\n\nEen rechterlijke uitspraak in de VS werkt door op de hele markt. AI-bedrijven bepalen mede op basis daarvan waar ze hun modellen trainen en welke data ze gebruiken. Wikipedia is zelf een van de grootste open kennisbronnen en wordt veel gebruikt als trainingsdata.\n\nDe stichting benadrukt dat de uitkomst niet alleen over OpenAI of The New York Times gaat. Volgens The Verge raakt de zaak aan de vraag hoe het open web blijft functioneren als nieuws en kennis achter slot en grendel verdwijnen."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Wanneer de rechter in deze zaken uitspraak doet, is nog niet bekend. Ook is onduidelijk of de rechterlijke argumenten van de Wikimedia Foundation worden overgenomen. De stichting heeft haar standpunt ingediend en heeft daarmee nog geen invloed op de uitkomst.\n\nHet is evenmin duidelijk of er in Nederland of de EU vergelijkbare procedures lopen die hierop aansluiten. Wat vaststaat, is dat de uitspraak in de VS mede bepaalt hoe AI-bedrijven met auteursrechtelijk werk omgaan."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse makers, uitgevers en AI-bedrijven is dit relevant omdat de Amerikaanse uitspraak doorwerkt in contracten en licenties. Werk je met AI-tools die op beschermde teksten zijn getraind, dan kan de uitkomst bepalen welke data wel en niet bruikbaar zijn. In de EU geldt daarnaast de AI-verordening, die transparantie over trainingsdata vraagt. Nederlandse organisaties doen er goed aan hun databronnen en licenties te documenteren, zodat ze niet afhankelijk zijn van één rechterlijke uitspraak in de VS.",
+ "faq": [
+  {
+   "q": "wat wil Wikipedia met deze rechtszaak bereiken?",
+   "a": "De Wikimedia Foundation wil dat het trainen van taalmodellen op beschermd werk juridisch beschermd blijft, maar dat chatbots dat werk niet zomaar aan gebruikers teruggeven. Zo wil ze een te absolute uitspraak voorkomen."
+  },
+  {
+   "q": "geldt een uitspraak in de VS ook in Nederland?",
+   "a": "Niet direct. Nederlandse rechters volgen eigen regels, zoals de Europese uitzondering voor tekst- en datamining. Wel beïnvloedt de Amerikaanse uitspraak hoe AI-bedrijven wereldwijd met data omgaan."
+  },
+  {
+   "q": "mag ik auteursrechtelijk werk gebruiken om een AI-model te trainen?",
+   "a": "Dat hangt af van de wet en de omstandigheden. In de EU bestaat een uitzondering voor tekst- en datamining, met voorwaarden. Voor commerciële toepassingen is juridisch advies verstandig."
+  }
+ ],
+ "slug": "wikipedia-waarschuwt-voor-strenge-ai-uitspraak-over-auteursrecht",
+ "kind": "news",
+ "date": "2026-10-30",
+ "published": "2026-10-30T11:12",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
+  }
+ ],
+ "path": "/beleid/wikipedia-waarschuwt-voor-strenge-ai-uitspraak-over-auteursrecht/",
+ "og": "/img/og/wikipedia-waarschuwt-voor-strenge-ai-uitspraak-over-auteursrecht.png",
+ "take": "Wikimedia vraagt om een tussenweg, en dat is precies waar het in de praktijk ook op uitdraait. Ik beoordeel zo'n discussie nooit op één uitspraak of één slechte maand, maar over twaalf tot achttien maanden en jaar op jaar. Een rechter die nu iets te streng roept, zit de komende jaren aan een regel vast die niemand meer terugdraait."
+}

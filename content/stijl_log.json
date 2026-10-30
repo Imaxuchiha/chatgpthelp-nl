@@ -4188,5 +4188,66 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-30T11:11:16",
+  "slug": "",
+  "title": "AI-chatbots komen weg met hallucinaties door slim taalgebruik",
+  "kind": "news",
+  "rood": [
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-30T11:11:28",
+  "slug": "",
+  "title": "Wikipedia waarschuwt voor strenge AI-uitspraak over auteursrecht",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-30T11:11:40",
+  "slug": "",
+  "title": "Geloofsvrijstelling voor AI op werk: wat betekent dat in Nederland?",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-30T11:12:06",
+  "slug": "",
+  "title": "Zo schrijf je een goede ChatGPT prompt: de 5 onderdelen",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-30T11:12:27",
+  "slug": "",
+  "title": "AI-hallucinaties: vlot taalgebruik misleidt je",
+  "kind": "column",
+  "rood": [
+   "S6"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]
