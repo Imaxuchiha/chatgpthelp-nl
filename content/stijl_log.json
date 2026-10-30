@@ -4249,5 +4249,75 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-30T18:08:32",
+  "slug": "",
+  "title": "ChatGPT krijgt strengere veiligheid voor tieners en geweldpreventie",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-30T18:08:42",
+  "slug": "",
+  "title": "AI-bewijs weerlegt 27 jaar oud vermoeden in de informatica",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-30T18:08:52",
+  "slug": "",
+  "title": "ai-hype fraude: Theranos-klokkenluider waarschuwt voor misleiding",
+  "kind": "news",
+  "rood": [
+   "S5",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-30T18:09:20",
+  "slug": "",
+  "title": "AI-hype misleiding: ik wil eerst de cijfers zien",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S5",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-30T18:09:32",
+  "slug": "",
+  "title": "AI-hype misleiding: ik wil eerst de cijfers zien",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S5",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

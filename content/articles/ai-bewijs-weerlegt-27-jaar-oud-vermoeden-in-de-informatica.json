@@ -1,0 +1,68 @@
+{
+ "keyword": "ai bewijs informatica",
+ "seo_title": "AI bewijs informatica: 800 papers op losse schroeven",
+ "title": "AI-bewijs weerlegt 27 jaar oud vermoeden in de informatica",
+ "meta": "Modellen van OpenAI en Anthropic hebben een oud vermoeden uit de informatica weerlegd. Houdt het bewijs stand, dan moeten ruim 800 papers opnieuw worden…",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "anthropic",
+  "informatica",
+  "wetenschap",
+  "ai-bewijs"
+ ],
+ "intro": "Twee AI-modellen hebben los van elkaar een vermoeden uit de theoretische informatica onderuit gehaald. Dat vermoeden stond 27 jaar overeind. Houdt het bewijs stand, dan raakt dat ruim 800 wetenschappelijke papers. Volgens Bright gaat het om de zogenoemde exponentiële-tijdhypothese.",
+ "takeaways": [
+  "OpenAI en Anthropic kwamen onafhankelijk van elkaar met een weerlegging van een 27 jaar oud vermoeden.",
+  "Ruim 800 papers leunen op de exponentiële-tijdhypothese en moeten mogelijk opnieuw worden bekeken.",
+  "Het is nog niet zeker of het bewijs de controle van vakgenoten doorstaat.",
+  "De uitkomst raakt de basis van de theoretische informatica, niet een losse toepassing."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies is weerlegd",
+   "body": "De exponentiële-tijdhypothese is een aanname over hoe snel bepaalde rekenproblemen op te lossen zijn. Veel informatici gebruiken die aanname als fundament onder hun werk. Een weerlegging betekent dat dat fundament wegvalt.\n\nDe modellen van OpenAI en Anthropic vonden die weerlegging los van elkaar. Twee onafhankelijke uitkomsten wegen zwaarder dan één. Toch blijft het voorlopig een claim, geen vaststaand feit.\n\nBright meldt dat het vermoeden 27 jaar oud is. In de theoretische informatica is dat een lange periode. Werk dat daarop voortbouwt, is vaak nooit opnieuw tegen het licht gehouden."
+  },
+  {
+   "heading": "Waarom 800 papers geraakt worden",
+   "body": "De ruim 800 papers steunen allemaal op dezelfde aanname. Gaat die aanname onderuit, dan moeten de conclusies in die stukken opnieuw worden bekeken. Dat betekent niet dat al die papers fout zijn. Het betekent wel dat hun bewijs een zwakke plek heeft.\n\nVoor onderzoekers is dat veel werk. Ze moeten nagaan of hun resultaat nog overeind blijft zonder de oude aanname. Soms zal dat meevallen. Soms zal een conclusie sneuvelen.\n\nHet aantal van 800 komt uit de berichtgeving van Bright. Hoe die selectie precies tot stand is gekomen, maakt de bron niet duidelijk."
+  },
+  {
+   "heading": "Nog geen zekerheid",
+   "body": "Een bewijs van een AI-model is nog geen geaccepteerd bewijs. Vakgenoten moeten het nalezen en controleren. Dat kan maanden duren. Tot die tijd blijft de vraag open of de weerlegging klopt.\n\nAI-modellen kunnen overtuigend klinkende stappen zetten die toch niet kloppen. Daarom is controle door mensen hier extra belangrijk. De bron zegt niet hoe het bewijs is gecontroleerd of wie dat doet.\n\nWat OpenAI en Anthropic zelf vinden van de uitkomst, blijkt niet uit de aangeleverde bron. Ook een reactie van universiteiten of vakbladen ontbreekt nog."
+  },
+  {
+   "heading": "Wat dit zegt over AI als onderzoeker",
+   "body": "AI wordt steeds vaker ingezet bij wiskundig en technisch onderzoek. Dit geval laat zien hoe ver dat kan gaan. Een model kan een stap zetten die mensen in 27 jaar niet zagen.\n\nTegelijk blijft de mens nodig om te beoordelen of zo'n stap klopt. De waarde zit in de combinatie: een model vindt iets, onderzoekers toetsen het. Zonder die tweede stap is een AI-bewijs weinig waard.\n\nVoor de informatica is het afwachten. Houdt het bewijs stand, dan is dit een van de grotere verschuivingen in het vak in jaren."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral een wetenschappelijk verhaal, met een praktische kant. Informatici aan Nederlandse universiteiten die op deze hypothese voortbouwen, moeten hun werk mogelijk herzien. Bedrijven die zulke modellen inzetten voor onderzoek, krijgen een extra argument om de uitkomsten door mensen te laten controleren. Er zijn geen directe gevolgen voor prijzen of beschikbaarheid van ChatGPT of Claude in Nederland. Wat er precies verandert, hangt af van de controle door vakgenoten.",
+ "faq": [
+  {
+   "q": "wat is de exponentiële-tijdhypothese?",
+   "a": "Dat is een aanname in de theoretische informatica over hoe snel bepaalde rekenproblemen op te lossen zijn. Veel onderzoek bouwt daarop voort."
+  },
+  {
+   "q": "hebben OpenAI en Anthropic hetzelfde bewijs gevonden?",
+   "a": "Volgens Bright kwamen beide bedrijven onafhankelijk van elkaar met een weerlegging. Of die bewijzen identiek zijn, maakt de bron niet duidelijk."
+  },
+  {
+   "q": "moeten die 800 papers nu allemaal opnieuw?",
+   "a": "Ze moeten opnieuw worden bekeken, omdat ze op dezelfde aanname leunen. Dat betekent niet automatisch dat elke conclusie fout is."
+  }
+ ],
+ "slug": "ai-bewijs-weerlegt-27-jaar-oud-vermoeden-in-de-informatica",
+ "kind": "news",
+ "date": "2026-10-30",
+ "published": "2026-10-30T18:09",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Hoeksteen van de informatica wankelt: AI-bewijs zet 800 papers op losse schroeven",
+   "url": "https://www.bright.nl/nieuws/2152904/hoeksteen-van-de-informatica-wankelt-ai-bewijs-zet-800-papers-op-losse-schroeven.html"
+  }
+ ],
+ "path": "/nieuws/ai-bewijs-weerlegt-27-jaar-oud-vermoeden-in-de-informatica/",
+ "og": "/img/og/ai-bewijs-weerlegt-27-jaar-oud-vermoeden-in-de-informatica.png",
+ "take": "Twee modellen die los van elkaar een vermoeden van 27 jaar onderuit halen, dat is het soort bewijs waar ik naar kijk. Bij 800 papers die mogelijk op de schop gaan, telt alleen of vakgenoten het natellen en het overeind blijft. AI die zelf een bewijs vindt is knap, maar de controle door mensen bepaalt of het iets waard is."
+}

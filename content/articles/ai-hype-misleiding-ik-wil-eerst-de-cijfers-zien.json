@@ -1,0 +1,84 @@
+{
+ "keyword": "ai hype misleiding",
+ "seo_title": "AI-hype misleiding: waarom ik eerst de cijfers wil zien",
+ "title": "AI-hype misleiding: ik wil eerst de cijfers zien",
+ "meta": "De AI-hype is een goudmijn voor misleiding, zegt Theranos-klokkenluider Tyler Shultz. Mijn standpunt: geloof pas iets als je de cijfers ziet.",
+ "category": "mening",
+ "tags": [
+  "AI-hype",
+  "misleiding",
+  "Theranos",
+  "investeren",
+  "ROI"
+ ],
+ "intro": "Tyler Shultz, de klokkenluider die Theranos onderuit haalde, zegt nu dat de AI-hype een prima omgeving is om mensen te misleiden. Hij heeft gelijk. Met AI groot doen en weinig leveren is makkelijk. Als performance-marketeer kijk ik daar dwars doorheen: laat de cijfers maar zien.",
+ "takeaways": [
+  "De AI-hype maakt misleiding makkelijker, net als bij Theranos.",
+  "Waarderingen van een biljoen dollar zonder winst zijn een rode vlag.",
+  "Meet alles: alleen meetbare resultaten tellen, geen verhalen."
+ ],
+ "sections": [
+  {
+   "heading": "Waarderingen zonder winst zijn een rode vlag",
+   "body": "Shultz zegt dat bedrijven die nooit winst maakten, toch kapitaal ophalen tegen waarderingen van een biljoen dollar. Dat is exact wat er bij Theranos gebeurde: een mooi verhaal, veel geld, geen werkend product. In de AI-wereld zie ik hetzelfde patroon. Startups beloven gouden bergen met AI, maar kijk naar hun cijfers en je ziet vooral verlies.\n\nIk zeg niet dat elke AI-startup nep is. Er zijn genoeg bedrijven die echt iets bouwen. Maar de hype maakt het lastig om het verschil te zien. Als marketeer weet ik: een demo is geen product. Een mooie presentatie met AI-beelden zegt niets over de onderliggende technologie.\n\nDaarom ben ik altijd terughoudend met investeren in AI-tools. Ik betaal pas als ik zie dat het iets oplevert. Gratis of open source eerst, daarna pas geld uitgeven. ElevenLabs heb ik opgezegd en vervangen door Voicebox, een open-source stemmodel. Het kost niets en is goed genoeg voor mijn voice-overs en spraakassistent."
+  },
+  {
+   "heading": "Meten vóór optimaliseren, ook bij AI",
+   "body": "In mijn werk draait alles om meten. Google Ads, SEO, tracking: zonder goede meting weet je niet wat werkt. AI maakt dat alleen maar belangrijker. Een AI-tool kan prachtige rapporten maken, maar als de onderliggende data niet klopt, optimaliseer je de verkeerde kant op.\n\nNeem Performance Max in Google Ads. Die campagnes zijn zo goed als de data die je ze voert. Met slechte conversiemeting optimaliseert de AI vol overtuiging de verkeerde kant op. Precies daarom controleer ik altijd eerst de meting voordat ik iets aanpas. En daarom geloof ik geen AI-claims zonder cijfers.\n\nBij AI-tools is het net zo. Een tool die zegt je productiviteit te verdubbelen, moet dat aantonen. Ik wil zien hoeveel tijd of geld het bespaart. Anders is het gewoon een duur abonnement. Alles test ik eerst op echte accounts, met echte data."
+  },
+  {
+   "heading": "Zelf bouwen met AI: goedkoop en transparant",
+   "body": "Ik bouw mijn eigen AI-agents en tools. Niet omdat ik per se alles zelf wil doen, maar omdat het goedkoper en transparanter is. Mijn dagelijkse ochtendanalyse van klantaccounts draait via Claude Code op mijn bestaande abonnement. Geen extra kosten, en ik weet precies wat er gebeurt.\n\nVoor deze nieuwssite gebruikte ik het nieuwe DeepSeek-flash-model. Dat gaf eerst lege antwoorden, omdat het al zijn tokens gebruikte om na te denken. Denken uitzetten en het werkte: 3 artikelen, een meme en een prompt voor 0,6 dollarcent. Belachelijk goedkoop en ik heb volledige controle.\n\nDat is mijn antwoord op de hype: bouw het zelf, meet het, en betaal alleen voor wat werkt. Geen dure SaaS-tools met mooie praatjes, maar eigen scripts die ik begrijp en kan aanpassen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ondernemers en beleggers betekent dit: laat je niet gek maken door AI-hype. Kijk naar de cijfers, niet naar de verhalen. Vraag bij elke AI-tool: wat levert het meetbaar op? En begin met goedkope of gratis opties, zoals open-source modellen. Pas als iets zichzelf terugverdient, is het een investering waard.",
+ "faq": [
+  {
+   "q": "Is de AI-hype net zo erg als Theranos?",
+   "a": "Niet per se, maar de mechanismen zijn hetzelfde: grootse beloften, hoge waarderingen en weinig controle. Daarom is meten zo belangrijk."
+  },
+  {
+   "q": "Hoe kan ik AI-tools beoordelen op echte waarde?",
+   "a": "Begin met gratis of open-source opties en meet de impact op tijd en geld. Betaal pas als je concrete besparingen ziet."
+  }
+ ],
+ "lessons_used": [
+  "Les elevenlabs-opgezegd",
+  "Les claude-code-abonnement",
+  "Les deepseek-denken-uit"
+ ],
+ "slug": "ai-hype-misleiding-ik-wil-eerst-de-cijfers-zien",
+ "kind": "column",
+ "date": "2026-10-30",
+ "published": "2026-10-30T18:08",
+ "sources": [
+  {
+   "name": "ChatGPT Help",
+   "title": "ai-hype fraude: Theranos-klokkenluider waarschuwt voor misleiding",
+   "url": "https://chatgpthelp.nl/nieuws/ai-hype-fraude-theranos-klokkenluider-waarschuwt-voor-misleiding/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "AI-bewijs weerlegt 27 jaar oud vermoeden in de informatica",
+   "url": "https://chatgpthelp.nl/nieuws/ai-bewijs-weerlegt-27-jaar-oud-vermoeden-in-de-informatica/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "ChatGPT krijgt strengere veiligheid voor tieners en geweldpreventie",
+   "url": "https://chatgpthelp.nl/nieuws/chatgpt-krijgt-strengere-veiligheid-voor-tieners-en-geweldpreventie/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Geloofsvrijstelling voor AI op werk: wat betekent dat in Nederland?",
+   "url": "https://chatgpthelp.nl/beleid/geloofsvrijstelling-voor-ai-op-werk-wat-betekent-dat-in-nederland/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Wikipedia waarschuwt voor strenge AI-uitspraak over auteursrecht",
+   "url": "https://chatgpthelp.nl/beleid/wikipedia-waarschuwt-voor-strenge-ai-uitspraak-over-auteursrecht/"
+  }
+ ],
+ "path": "/mening/ai-hype-misleiding-ik-wil-eerst-de-cijfers-zien/",
+ "og": "/img/og/ai-hype-misleiding-ik-wil-eerst-de-cijfers-zien.png",
+ "author": "Maxim"
+}
