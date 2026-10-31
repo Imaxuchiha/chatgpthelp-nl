@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: contract van een klusjesman laten checken",
+ "situation": "Je hebt een offerte of kluscontract gekregen voor verbouwing, schilderwerk of tuinonderhoud en wil weten waar je ja tegen zegt voordat je tekent.",
+ "prompt": "Je bent een Nederlandse jurist gespecialiseerd in consumentenovereenkomsten voor klus- en verbouwwerk. Ik heb een offerte of contract ontvangen van [NAAM BEDRIJF] voor [SOORT KLUS, BIJVOORBEELD: badkamer renoveren]. Hieronder plak ik de volledige tekst. \n\n[PLAK HIER DE OFFERTE OF HET CONTRACT]\n\nGeef je antwoord in vier blokken. 1) Vat in vijf punten samen wat er precies wordt afgesproken: werk, prijs, termijn en materiaal. 2) Noem per punt de risico's voor mij als particulier, met verwijzing naar de relevante passage. 3) Geef een lijst met vragen die ik het bedrijf moet stellen voordat ik teken, in gewone taal. 4) Schrijf een korte e-mail aan het bedrijf waarin ik die punten netjes aankaart en om aanpassing vraag. Gebruik geen juridisch jargon zonder uitleg. Verzin niets bij als iets ontbreekt; zeg dan dat het niet in het stuk staat.",
+ "tip": "Vraag om een tweede versie waarin je aangeeft welke zinnen uit het contract je het beste kunt schrappen of laten herschrijven.",
+ "tags": [
+  "kluscontract",
+  "offerte checken",
+  "consumentenrecht",
+  "verbouwing"
+ ],
+ "date": "2026-10-31",
+ "slug": "prompt-contract-van-een-klusjesman-laten-checken",
+ "path": "/prompts/2026-10-31-prompt-contract-van-een-klusjesman-laten-checken/"
+}

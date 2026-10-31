@@ -4358,5 +4358,55 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-31T10:46:43",
+  "slug": "",
+  "title": "Nvidia overweegt lening voor ai-datacenter Nscale mede te ondertekenen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-31T10:46:52",
+  "slug": "",
+  "title": "Ollie AI stopt: privacygerichte assistent sluit binnen een week",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-31T10:47:03",
+  "slug": "",
+  "title": "Anthropic IPO: kredietagentschappen verwachten junk rating",
+  "kind": "news",
+  "rood": [
+   "S10"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-31T10:47:48",
+  "slug": "",
+  "title": "Google Ads review: zo goed als je data, zegt Maxim",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S5",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
