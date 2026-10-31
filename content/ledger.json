@@ -2427,6 +2427,30 @@
   "ebbf401882": {
    "at": "2026-10-31T17:19:54.084500",
    "why": "ok"
+  },
+  "ed0268fa6e": {
+   "at": "2026-10-31T20:53:51.764273",
+   "why": "poort"
+  },
+  "07912041c3": {
+   "at": "2026-10-31T20:53:51.764273",
+   "why": "poort"
+  },
+  "e6a83342c0": {
+   "at": "2026-10-31T20:53:51.764273",
+   "why": "ok"
+  },
+  "25a528e218": {
+   "at": "2026-10-31T20:54:51.764273",
+   "why": "high-risk"
+  },
+  "0de3f9697e": {
+   "at": "2026-10-31T20:54:51.764273",
+   "why": "ok"
+  },
+  "ef4c1375c4": {
+   "at": "2026-10-31T20:55:51.764273",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2848,6 +2872,9 @@
   "Anthropic IPO: kredietagentschappen verwachten junk rating",
   "Reddit verliest bezoekers door AI-antwoorden van Google",
   "Meta Style Sketch: AI-app laat je outfits passen zonder winkel",
-  "RAM tekort datacenters: OpenAI-baas Altman wil jouw geheugen"
+  "RAM tekort datacenters: OpenAI-baas Altman wil jouw geheugen",
+  "Sam Altman: ram in datacenter beter dan op je bureau",
+  "Starbucks wil ai-menu op maat bij de drive-thru",
+  "Boom supersonisch vliegtuig in twijfel door overstap naar ai-datacenters"
  ]
 }

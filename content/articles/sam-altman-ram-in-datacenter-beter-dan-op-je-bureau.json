@@ -1,0 +1,68 @@
+{
+ "keyword": "sam altman ram",
+ "seo_title": "Sam Altman ram: geheugen hoort in datacenter",
+ "title": "Sam Altman: ram in datacenter beter dan op je bureau",
+ "meta": "Sam Altman vindt ram in datacenters beter dan in pc's. Lees wat de OpenAI-ceo zei over het geheugentekort en wat dat voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "sam altman",
+  "openai",
+  "ram",
+  "geheugentekort",
+  "datacenters"
+ ],
+ "intro": "OpenAI-ceo Sam Altman vindt het slecht dat geheugen in persoonlijke computers zit in plaats van in datacenters. Dat zei hij in de podcast Cheeky Pint, meldt The Verge. Zijn uitspraak valt midden in een aanhoudend tekort aan ram-geheugen.",
+ "takeaways": [
+  "Altman noemt het 'terrible' dat ram in pc's zit en niet in datacenters",
+  "Hij reageerde op vragen over knelpunten in de aanvoerketen",
+  "Het tekort aan ram-geheugen speelt al langer en raakt ook consumentenprijzen",
+  "OpenAI zelf is een grote afnemer van rekenkracht en geheugen"
+ ],
+ "sections": [
+  {
+   "heading": "Wat Altman precies zei",
+   "body": "In de podcast Cheeky Pint kreeg Altman vragen over problemen in de aanvoerketen. Daarbij ging het onder meer over het aanhoudende tekort aan ram-geheugen. Zijn antwoord was kort en duidelijk: het is volgens hem verschrikkelijk als ram in persoonlijke computers zit in plaats van in datacenters.\n\nVolgens The Verge zei hij letterlijk dat het 'terrible' is om ram in personal pc's te hebben. Veel mensen willen volgens hem juist dat geheugen ergens anders staan. De volledige uitspraak is in de berichtgeving maar deels weergegeven.\n\nAltman sprak in dezelfde aflevering ook over de invloed van AI op wiskunde. Wat hij daar precies over zei, maakt The Verge niet duidelijk."
+  },
+  {
+   "heading": "Waarom geheugen ineens een strijdpunt is",
+   "body": "Ram is het werkgeheugen van een computer. AI-modellen hebben grote hoeveelheden nodig om te draaien. Datacenters kopen die chips in grote partijen in, en die vraag drukt op dezelfde productielijnen als gewone pc's.\n\nHet gevolg is een tekort dat al maanden aanhoudt. Fabrikanten van geheugen hebben hun capaciteit deels verschoven naar duurdere serverchips. Voor consumenten betekent dat hogere prijzen en langere levertijden.\n\nAltman lijkt met zijn uitspraak een voorkeur uit te spreken voor centrale rekenkracht. Wie AI via de cloud gebruikt, heeft thuis minder geheugen nodig. Of OpenAI zelf voorrang krijgt bij geheugenleveranciers, is niet bekend."
+  },
+  {
+   "heading": "Kritiek op de uitspraak",
+   "body": "De opmerking valt niet bij iedereen goed. Wie een pc koopt, betaalt zelf voor dat geheugen en wil het gewoon in zijn eigen kast. Altman kijkt vooral naar de belangen van zijn eigen bedrijf, dat veel servers nodig heeft.\n\nEr zit ook een praktische kant aan. Veel AI-toepassingen draaien in de cloud, dus daar is geheugen het meest nodig. Tegelijk gebruiken Nederlanders hun eigen computer voor werk, studie en games. Die vraag verdwijnt niet.\n\nWat het tekort precies doet met de prijzen in Europa, is nog niet duidelijk. Cijfers daarover noemt The Verge niet."
+  },
+  {
+   "heading": "Wat OpenAI zelf nodig heeft",
+   "body": "OpenAI traint en draait zijn modellen in datacenters. Elk nieuw model vraagt meer rekenkracht en meer geheugen. De vraag van het bedrijf naar servers is de afgelopen jaren flink gegroeid.\n\nAltmans uitspraak past bij die koers. Rekenkracht hoort volgens hem op één plek, waar het efficiënt te gebruiken is. Of dat ook goed is voor de gewone koper van een pc, is een andere vraag.\n\nHoe groot het aandeel van OpenAI in de totale vraag naar geheugen is, maakt de bron niet duidelijk."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse kopers van een pc of laptop kan het tekort betekenen dat upgraden duurder wordt. Bedrijven die AI in de cloud gebruiken, merken er minder van. Wie zelf een model op een eigen computer wil draaien, heeft juist veel geheugen nodig. De uitspraak van Altman maakt duidelijk waar de schaarste het eerst terechtkomt: bij de datacenters. Let bij een aankoop dus op de prijs van werkgeheugen en op levertijden bij Nederlandse winkels.",
+ "faq": [
+  {
+   "q": "Wat zei Sam Altman over ram?",
+   "a": "Hij noemde het 'terrible' dat ram in persoonlijke computers zit in plaats van in datacenters. Dat zei hij in de podcast Cheeky Pint, volgens The Verge."
+  },
+  {
+   "q": "Waarom is er een tekort aan ram?",
+   "a": "De vraag naar geheugen voor AI-datacenters is groot. Fabrikanten zetten daardoor meer capaciteit in op serverchips, wat de voorraad voor gewone pc's beperkt."
+  },
+  {
+   "q": "Merken Nederlandse pc-kopers hier iets van?",
+   "a": "Mogelijk wel, via hogere prijzen en langere levertijden voor werkgeheugen en complete systemen. Concrete cijfers voor Nederland zijn nog niet bekend."
+  }
+ ],
+ "slug": "sam-altman-ram-in-datacenter-beter-dan-op-je-bureau",
+ "kind": "news",
+ "date": "2026-10-31",
+ "published": "2026-10-31T20:53",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+  }
+ ],
+ "path": "/nieuws/sam-altman-ram-in-datacenter-beter-dan-op-je-bureau/",
+ "og": "/img/og/sam-altman-ram-in-datacenter-beter-dan-op-je-bureau.png",
+ "take": "Altman wil dat geheugen de datacenters in gaat, want daar zit zijn rekenkracht en daar betaalt hij de rekening. Voor mijn bureau verandert er niks zolang een tool op mijn eigen laptop gewoon werk doet dat ik kan aanwijzen. Eerst zien dat zo'n verschuiving tijd of geld oplevert, anders is het vooral zijn probleem."
+}

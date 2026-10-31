@@ -4457,5 +4457,72 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-31T20:54:03",
+  "slug": "",
+  "title": "Muse Charm: Meta's knuffelige AI-gadget lijkt op een Tamagotchi",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-31T20:54:11",
+  "slug": "",
+  "title": "AI investeringen big tech: eerste scheuren in de uitgavengolf",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-31T20:54:22",
+  "slug": "",
+  "title": "Sam Altman: ram in datacenter beter dan op je bureau",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-31T20:54:31",
+  "slug": "",
+  "title": "Starbucks wil ai-menu op maat bij de drive-thru",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-31T20:54:40",
+  "slug": "",
+  "title": "Boom supersonisch vliegtuig in twijfel door overstap naar ai-datacenters",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
