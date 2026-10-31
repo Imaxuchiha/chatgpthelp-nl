@@ -2411,6 +2411,22 @@
   "1ad66cf690": {
    "at": "2026-10-31T10:48:30.351336",
    "why": "ok"
+  },
+  "6726f8b197": {
+   "at": "2026-10-31T17:17:54.084500",
+   "why": "ok"
+  },
+  "c10fef6ec8": {
+   "at": "2026-10-31T17:18:54.084500",
+   "why": "poort"
+  },
+  "0f24ad1ab9": {
+   "at": "2026-10-31T17:18:54.084500",
+   "why": "ok"
+  },
+  "ebbf401882": {
+   "at": "2026-10-31T17:19:54.084500",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2829,6 +2845,9 @@
   "Zest's AI-agent vindt restaurants en boekt tafels via sms",
   "Nvidia overweegt lening voor ai-datacenter Nscale mede te ondertekenen",
   "Ollie AI stopt: privacygerichte assistent sluit binnen een week",
-  "Anthropic IPO: kredietagentschappen verwachten junk rating"
+  "Anthropic IPO: kredietagentschappen verwachten junk rating",
+  "Reddit verliest bezoekers door AI-antwoorden van Google",
+  "Meta Style Sketch: AI-app laat je outfits passen zonder winkel",
+  "RAM tekort datacenters: OpenAI-baas Altman wil jouw geheugen"
  ]
 }

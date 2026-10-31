@@ -4408,5 +4408,54 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-10-31T17:18:06",
+  "slug": "",
+  "title": "Reddit verliest bezoekers door AI-antwoorden van Google",
+  "kind": "news",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-31T17:18:14",
+  "slug": "",
+  "title": "OpenAI verlaagt financieringsdoel voor nieuwe ronde",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-31T17:18:22",
+  "slug": "",
+  "title": "Meta Style Sketch: AI-app laat je outfits passen zonder winkel",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-10-31T17:18:32",
+  "slug": "",
+  "title": "RAM tekort datacenters: OpenAI-baas Altman wil jouw geheugen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

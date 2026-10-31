@@ -1,0 +1,68 @@
+{
+ "keyword": "ram tekort datacenters",
+ "seo_title": "RAM tekort datacenters: wat OpenAI-baas Altman zegt",
+ "title": "RAM tekort datacenters: OpenAI-baas Altman wil jouw geheugen",
+ "meta": "Het RAM tekort datacenters drijft prijzen op. OpenAI-ceo Sam Altman zegt dat geheugen in datacenters beter besteed is dan in jouw computer.",
+ "category": "nieuws",
+ "tags": [
+  "ram",
+  "openai",
+  "datacenters",
+  "geheugenprijzen",
+  "sam altman"
+ ],
+ "intro": "Het tekort aan werkgeheugen (RAM) is inmiddels ook te merken aan de kassa. Laptops en telefoons zijn flink duurder geworden, omdat geheugen massaal wordt opgekocht voor datacenters. OpenAI-ceo Sam Altman vindt dat geen verkeerde ontwikkeling, meldt Bright.",
+ "takeaways": [
+  "RAM wordt vooral opgekocht voor datacenters, waardoor consumentenprijzen stijgen.",
+  "OpenAI-ceo Sam Altman zegt dat het geheugen in datacenters beter besteed is.",
+  "Het tekort raakt laptops en telefoons in Nederland via hogere winkelprijzen.",
+  "Hoeveel geheugen OpenAI zelf nodig heeft, maakt de bron niet duidelijk."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er aan de hand is",
+   "body": "RAM is het werkgeheugen van een computer of telefoon. Het zorgt ervoor dat je apparaat taken tegelijk kan uitvoeren. Door het tekort aan dat geheugen zijn de prijzen van laptops en telefoons behoorlijk gestegen, schrijft Bright.\n\nDe oorzaak zit aan de inkoopkant. Datacenters kopen grote hoeveelheden geheugen op, onder meer voor AI-systemen. Daardoor blijft er minder over voor fabrikanten van consumentenapparaten. Zij rekenen de hogere inkoopprijs door aan de klant."
+  },
+  {
+   "heading": "Wat Altman zegt",
+   "body": "Sam Altman, de baas van OpenAI, vindt dat de RAM in jouw computer beter in zijn datacenters kan staan. Dat meldt Bright op basis van uitspraken van de OpenAI-ceo. Hij ziet het geheugen dus liever bij AI-bedrijven dan bij gewone gebruikers.\n\nDe uitspraak past bij de groeiende vraag naar rekenkracht voor AI. OpenAI traint en draait modellen die veel geheugen nodig hebben. Of Altman ook concreet pleit voor minder geheugen in consumentenapparaten, wordt in de bron niet uitgewerkt."
+  },
+  {
+   "heading": "Waarom dit consumenten raakt",
+   "body": "Het tekort is geen ver-van-je-bed-show. Wie nu een nieuwe laptop of telefoon koopt, betaalt meer dan een jaar geleden. Dat komt doordat geheugen schaars is geworden door de vraag uit datacenters.\n\nVoor AI-bedrijven is geheugen een grondstof. Voor een huishouden is het een onderdeel van een apparaat dat jaren meegaat. De twee partijen concurreren om hetzelfde schaarse product. Hoe lang dat tekort duurt, is nog niet bekend."
+  },
+  {
+   "heading": "Wat OpenAI zelf nodig heeft",
+   "body": "OpenAI heeft voor zijn modellen veel rekenkracht en geheugen nodig. De bron noemt geen cijfers over de inkoop van OpenAI of over de omvang van zijn datacenters. Ook blijft onduidelijk of het bedrijf zelf last heeft van het tekort.\n\nDuidelijk is wel dat de vraag naar AI-hardware de geheugenmarkt op scherp zet. Fabrikanten van geheugen kiezen eerder voor grote zakelijke afnemers dan voor de consumentenmarkt. Dat verklaart waarom de prijzen in de winkel stijgen."
+  }
+ ],
+ "nl_angle": "Nederlandse consumenten merken het tekort vooral bij de aanschaf van een nieuwe laptop of telefoon. Webshops en elektronicaketens rekenen hogere geheugenprijzen door. Bedrijven die zelf servers of werkplekken vervangen, krijgen ook met stijgende kosten te maken. Wie een upgrade uitstelt, kan daar nu voordeel van hebben. De uitspraak van Altman verandert daar weinig aan: de vraag uit datacenters blijft voorlopig hoog.",
+ "faq": [
+  {
+   "q": "Waarom zijn laptops en telefoons duurder geworden?",
+   "a": "Geheugen (RAM) is schaars doordat datacenters het massaal opkopen. Fabrikanten rekenen die hogere inkoopprijs door aan de klant."
+  },
+  {
+   "q": "Wat zei Sam Altman over RAM?",
+   "a": "Volgens Bright zegt de OpenAI-ceo dat de RAM in jouw computer beter in de datacenters van OpenAI kan staan."
+  },
+  {
+   "q": "Is er al zicht op het einde van het RAM-tekort?",
+   "a": "Dat is nog niet bekend. De bron noemt geen termijn waarop de markt weer in evenwicht komt."
+  }
+ ],
+ "slug": "ram-tekort-datacenters-openai-baas-altman-wil-jouw-geheugen",
+ "kind": "news",
+ "date": "2026-10-31",
+ "published": "2026-10-31T17:19",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "CEO OpenAI: de RAM in jouw computer zou beter in onze datacenters kunnen staan",
+   "url": "https://www.bright.nl/nieuws/2153220/ceo-openai-de-ram-in-jouw-computer-zou-beter-in-onze-datacenters-kunnen-staan.html"
+  }
+ ],
+ "path": "/nieuws/ram-tekort-datacenters-openai-baas-altman-wil-jouw-geheugen/",
+ "og": "/img/og/ram-tekort-datacenters-openai-baas-altman-wil-jouw-geheugen.png",
+ "take": "Altman vindt dus dat jouw geheugen beter in zijn datacenter past dan in je laptop. Ik vind dat een verkooppraatje met een dikke knipoog naar zijn eigen rekenrek. Mijn regel blijft: eerst zien wat het oplevert, dan pas geloven."
+}
