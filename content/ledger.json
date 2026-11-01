@@ -2487,6 +2487,18 @@
   "93351cbb4c": {
    "at": "2026-11-01T18:15:43.391337",
    "why": "ok"
+  },
+  "93f707d6a2": {
+   "at": "2026-11-01T21:26:16.580764",
+   "why": "ok"
+  },
+  "ea6b167de0": {
+   "at": "2026-11-01T21:27:16.580764",
+   "why": "ok"
+  },
+  "d6402cbeb2": {
+   "at": "2026-11-01T21:28:16.580764",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2917,6 +2929,9 @@
   "Apple-ceo: geen AI om de AI, en dat merk je in Nederland",
   "Hart luchten bij een AI-bot geeft namaakbegrip, zeggen critici",
   "Anthropic verbiedt het kopiëren van games met Claude",
-  "Anthropic-extensie op Cursor bijna 12 uur voorzien van backdoor"
+  "Anthropic-extensie op Cursor bijna 12 uur voorzien van backdoor",
+  "AI bouwt gratis alternatieven voor Photoshop en Lightroom",
+  "Character.ai faillissement: je chatgeschiedenis kan openbaar worden",
+  "AI-gebruik kost provost Dartmouth zijn baan na waarschuwing"
  ]
 }

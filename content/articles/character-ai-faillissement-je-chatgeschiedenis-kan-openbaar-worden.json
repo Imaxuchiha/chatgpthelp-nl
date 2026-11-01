@@ -1,0 +1,64 @@
+{
+ "keyword": "character.ai faillissement data",
+ "seo_title": "Character.ai faillissement: wat gebeurt er met je data",
+ "title": "Character.ai faillissement: je chatgeschiedenis kan openbaar worden",
+ "meta": "Character.ai gaat failliet. Wat gebeurt er met je gesprekken? Je data wordt verkocht en kan openbaar worden. Dit betekent het voor gebruikers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "character.ai",
+  "ai-chatbots",
+  "privacy",
+  "dataverkoop",
+  "faillissement"
+ ],
+ "intro": "Character.ai, een populaire AI-chatbot waar veel mensen intieme gesprekken mee voeren, is failliet. De gesprekken van gebruikers worden niet beschermd en kunnen worden verkocht. Daarmee komt privé-informatie mogelijk in handen van derden of in het openbaar.",
+ "takeaways": [
+  "Character.ai is failliet en de data van gebruikers wordt verkocht.",
+  "Veel gebruikers deelden persoonlijke en intieme details met de chatbot.",
+  "De gesprekken zijn niet beschermd en kunnen openbaar worden.",
+  "Ook Nederlandse gebruikers lopen dit risico."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er aan de hand is",
+   "body": "Character.ai is een AI-tool waarmee je een eigen digitale gesprekspartner maakt. Veel mensen gebruikten de chatbot voor liefde, troost en soms lust. Al die gesprekken staan op de servers van het bedrijf.\n\nNu het bedrijf failliet is, valt die data in de boedel. Volgens Bright wordt de informatie niet beschermd en wordt ze verkocht. Kopers kunnen de gesprekken inzien of publiceren.\n\nDat raakt mensen die dachten dat hun chat privé bleef. Een gesprek met een chatbot voelt persoonlijk, maar juridisch is het vaak gewoon data van het bedrijf."
+  },
+  {
+   "heading": "Waarom dit bij meer AI-chatbots speelt",
+   "body": "Character.ai is niet de enige partij die gesprekken opslaat. Bij vrijwel elke AI-chatbot worden je berichten bewaard om het model te verbeteren of om het product te laten werken. Wat er gebeurt als zo'n bedrijf stopt, is zelden duidelijk geregeld.\n\nGebruikers stemmen bij het aanmaken van een account vaak toe met algemene voorwaarden. Daarin staat meestal dat het bedrijf de data mag gebruiken en doorverkopen. Bij een faillissement vervalt de bescherming die je als gebruiker verwachtte.\n\nVoor Nederlanders betekent dit dat een chat van vorig jaar zomaar op straat kan liggen. Denk aan namen, adressen, gezondheidsklachten of relatieproblemen."
+  },
+  {
+   "heading": "Wat je zelf kunt doen",
+   "body": "Heb je ooit met Character.ai of een vergelijkbare dienst gepraat? Kijk dan of je je account nog kunt verwijderen. Dat helpt alleen als het bedrijf je data nog niet heeft doorverkocht.\n\nDeel geen echte namen, adressen of medische details met een chatbot. Behandel zo'n gesprek als een openbare plek. Wat je typt, kan later door iemand anders worden gelezen.\n\nDe Autoriteit Persoonsgegevens houdt toezicht op privacy in Nederland. Of zij hier iets tegen kan doen, is nog niet bekend. Een failliet bedrijf buiten de EU is lastig aan te pakken."
+  }
+ ],
+ "nl_angle": "Voor gebruikers in Nederland is er geen directe bescherming. Character.ai valt onder de Amerikaanse wet, en een faillissement maakt handhaving lastig. Nederlandse privacyregels gelden wel, maar een curator in de VS zal zich daar weinig van aantrekken. Heb je gevoelige informatie gedeeld, dan is het verstandig om je wachtwoorden te wijzigen en te checken of je account nog bestaat. Bedrijven die met dit soort tools werken, doen er goed aan om te controleren waar hun data staat.",
+ "faq": [
+  {
+   "q": "Wat gebeurt er met mijn gesprekken bij Character.ai?",
+   "a": "Volgens Bright worden je gesprekken niet beschermd en worden ze verkocht. Ze kunnen daardoor openbaar worden."
+  },
+  {
+   "q": "Kan ik mijn data nog verwijderen?",
+   "a": "Je kunt proberen je account te verwijderen, maar of dat lukt hangt af van het faillissement. Is je data al verkocht, dan is verwijderen lastig."
+  },
+  {
+   "q": "Geldt dit ook voor ChatGPT en andere chatbots?",
+   "a": "Bij elke chatbot worden gesprekken opgeslagen. Wat er bij een faillissement gebeurt, staat vaak in de algemene voorwaarden en is lang niet altijd duidelijk."
+  }
+ ],
+ "slug": "character-ai-faillissement-je-chatgeschiedenis-kan-openbaar-worden",
+ "kind": "news",
+ "date": "2026-11-01",
+ "published": "2026-11-01T21:27",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Als je AI-chatbot stopt, dan kan alles wat je zei wel eens openbaar worden",
+   "url": "https://www.bright.nl/nieuws/2153697/als-je-ai-chatbot-stopt-dan-kan-alles-wat-je-zei-wel-eens-openbaar-worden.html"
+  }
+ ],
+ "path": "/nieuws/character-ai-faillissement-je-chatgeschiedenis-kan-openbaar-worden/",
+ "og": "/img/og/character-ai-faillissement-je-chatgeschiedenis-kan-openbaar-worden.png",
+ "take": "Ik heb Character.ai zelf nooit gebruikt, dus over die gesprekken oordeel ik niet. Maar dit is precies waarom ik huiverig ben voor gratis tools waar je veel persoonlijke data in stopt: bij een faillissement is jouw geschiedenis gewoon handelswaar. Mijn regel is simpel: eerst kijken wat zo'n tool met je data doet, en pas betalen als het echt iets oplevert dat je kunt aanwijzen."
+}

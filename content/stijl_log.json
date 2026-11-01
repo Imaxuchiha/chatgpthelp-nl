@@ -4653,5 +4653,57 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-01T21:26:32",
+  "slug": "",
+  "title": "AI bouwt gratis alternatieven voor Photoshop en Lightroom",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-01T21:26:41",
+  "slug": "",
+  "title": "Character.ai faillissement: je chatgeschiedenis kan openbaar worden",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-01T21:26:51",
+  "slug": "",
+  "title": "AI-gebruik kost provost Dartmouth zijn baan na waarschuwing",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-01T21:27:07",
+  "slug": "",
+  "title": "AI nieuws week 44: van baanverlies tot een backdoor bij Cursor",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

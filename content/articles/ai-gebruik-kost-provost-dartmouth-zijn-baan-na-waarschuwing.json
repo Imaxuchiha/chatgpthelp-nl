@@ -1,0 +1,68 @@
+{
+ "keyword": "ai gebruik provost",
+ "seo_title": "AI gebruik kost provost Dartmouth zijn baan",
+ "title": "AI-gebruik kost provost Dartmouth zijn baan na waarschuwing",
+ "meta": "De provost van Dartmouth waarschuwde voor AI-fraude, maar zijn eigen AI-gebruik kostte hem zijn baan. Wat dit betekent voor AI op de werkvloer in…",
+ "category": "nieuws",
+ "tags": [
+  "ai op het werk",
+  "dartmouth",
+  "academische fraude",
+  "ai-beleid",
+  "openai"
+ ],
+ "intro": "De provost van Dartmouth College is weg nadat zijn eigen gebruik van AI aan het licht kwam. Opvallend: hij waarschuwde eerder zelf voor AI-fraude onder studenten. De zaak laat zien hoe gevoelig het onderwerp AI-gebruik op de werkvloer ligt, ook buiten de VS.",
+ "takeaways": [
+  "De provost van Dartmouth verloor zijn baan door zijn eigen AI-gebruik.",
+  "Hij had eerder gewaarschuwd voor AI-fraude onder studenten.",
+  "Mensen die AI gebruiken, vertellen dat niet altijd graag aan anderen.",
+  "De zaak raakt de discussie over transparantie rond AI op de werkvloer."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er gebeurde in Dartmouth",
+   "body": "De provost van Dartmouth College, een Amerikaanse universiteit, is vertrokken nadat zijn eigen gebruik van AI bekend werd. Volgens Ars Technica kostte dat gebruik hem zijn functie. De man had eerder zelf gewaarschuwd voor studenten die met AI hun werk zouden laten maken.\n\nDie combinatie maakt de zaak pikant. Je waarschuwt voor een probleem en loopt er zelf tegenaan. Precieze details over welk AI-systeem hij gebruikte en hoe dat werd ontdekt, zijn niet volledig duidelijk uit de berichtgeving."
+  },
+  {
+   "heading": "Waarom AI-gebruik zo beladen is",
+   "body": "Veel mensen gebruiken AI zonder dat collega's of leidinggevenden het weten. Ars Technica merkt op dat liefhebbers van AI niet altijd graag vertellen dat ze het gebruiken. Er kleeft nog steeds iets aan: het roept het vermoeden op dat je werk niet helemaal van jezelf is.\n\nOp universiteiten speelt dat extra sterk. Daar draait alles om eigen denkwerk en eerlijk beoordelen. Een bestuurder die zelf AI inzet, zet zijn geloofwaardigheid op het spel als hij anderen daarop aanspreekt."
+  },
+  {
+   "heading": "AI-beleid op de werkvloer",
+   "body": "De zaak past in een bredere discussie over regels voor AI op het werk. Steeds meer organisaties stellen een beleid op: waar mag AI wel en niet worden gebruikt, en moet je het melden? Duidelijkheid helpt, want zonder afspraken wordt gebruik stiekem en ontstaat wantrouwen.\n\nIn de VS is dit vooral een kwestie van reputatie en arbeidsvoorwaarden. Er is geen landelijke wet die AI-gebruik door werknemers verbiedt of verplicht meldt. Werkgevers bepalen dat zelf."
+  },
+  {
+   "heading": "Wat het zegt over vertrouwen",
+   "body": "De kern van het verhaal is vertrouwen. Wie AI gebruikt en dat verbergt, neemt een risico. Komt het uit, dan weegt dat zwaarder dan het gebruik zelf. Dat geldt zeker voor iemand met een voorbeeldfunctie.\n\nTegelijk is AI in veel functies allang normaal. De vraag verschuift daarmee van of je het gebruikt naar hoe je er open over bent. Organisaties die dat gesprek durven voeren, voorkomen verrassingen achteraf."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse werkgevers en werknemers is dit een herkenbaar scenario. AI-tools als ChatGPT, Claude en Gemini zijn hier breed beschikbaar, en veel mensen gebruiken ze zonder dat te melden. Een werkgever mag AI-gebruik aan banden leggen of meldingsplicht stellen, zolang de regels maar duidelijk zijn. Let op: bij persoonsgegevens en besluiten over mensen gelden de regels uit de AVG, en de Europese AI-verordening legt extra eisen op aan bepaalde toepassingen. Een open gesprek over AI-gebruik werkt vaak beter dan een verbod dat mensen stiekem omzeilen.",
+ "faq": [
+  {
+   "q": "Wat is een provost?",
+   "a": "Een provost is een hoge bestuurder op een Amerikaanse universiteit, vergelijkbaar met een vice-rector of academisch directeur. Die functie gaat over onderwijs en onderzoek."
+  },
+  {
+   "q": "Mag mijn werkgever AI-gebruik verbieden?",
+   "a": "Ja, een werkgever mag regels stellen aan het gebruik van AI-tools tijdens het werk. Zulke regels moeten wel duidelijk zijn en mogen niet in strijd zijn met de wet, bijvoorbeeld de privacyregels uit de AVG."
+  },
+  {
+   "q": "Moet ik melden dat ik AI gebruik op mijn werk?",
+   "a": "Dat hangt af van het beleid van je werkgever. Er is geen algemene Nederlandse wet die je verplicht AI-gebruik te melden, tenzij je werkgever dat in een regeling of contract heeft vastgelegd."
+  }
+ ],
+ "slug": "ai-gebruik-kost-provost-dartmouth-zijn-baan-na-waarschuwing",
+ "kind": "news",
+ "date": "2026-11-01",
+ "published": "2026-11-01T21:28",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+   "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/"
+  }
+ ],
+ "path": "/nieuws/ai-gebruik-kost-provost-dartmouth-zijn-baan-na-waarschuwing/",
+ "og": "/img/og/ai-gebruik-kost-provost-dartmouth-zijn-baan-na-waarschuwing.png",
+ "take": "Een provost die studenten waarschuwt voor AI-fraude en zelf betrapt wordt op AI-gebruik, dat is gewoon zuur. AI mag van mij het werk doen, maar wie de regels stelt hoort ze zelf ook te volgen. Ik heb DeepSeek ooit lege antwoorden zien geven tot ik het denken uitzette, dat ruim je zelf op en daar wijs je een ander niet op af."
+}
