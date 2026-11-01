@@ -1,0 +1,68 @@
+{
+ "keyword": "ai-training websites blokkeren",
+ "seo_title": "AI-training websites blokkeren: nieuwe standaardregel",
+ "title": "Websites kunnen AI-training nu met één regel blokkeren",
+ "meta": "Google, OpenAI, Anthropic en Microsoft steunen één regel waarmee websites AI-training blokkeren. Zo werkt het en dit betekent het in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ai-training",
+  "google",
+  "openai",
+  "webscraping",
+  "privacy"
+ ],
+ "intro": "Websitebeheerders krijgen een eenvoudiger manier om te zeggen dat hun teksten en afbeeldingen niet gebruikt mogen worden voor AI-training. Vier grote AI-bedrijven gaan dezelfde regel ondersteunen. Dat scheelt een hoop losse verzoeken per bedrijf.",
+ "takeaways": [
+  "Google, OpenAI, Anthropic en Microsoft steunen één gedeelde regel voor het blokkeren van AI-training.",
+  "Websitebeheerders hoeven niet meer per AI-bedrijf apart aan te geven dat content niet gebruikt mag worden.",
+  "De regel geldt voor teksten en afbeeldingen op websites.",
+  "Hoe snel alle partijen de regel echt naleven, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Eén signaal in plaats van losse verzoeken",
+   "body": "Tot nu toe moest een website per AI-bedrijf aangeven dat content niet voor training mocht worden gebruikt. Dat leverde veel handwerk op, zeker voor kleinere sites zonder technische staf. Met de nieuwe regel volstaat één signaal dat alle deelnemende partijen herkennen.\n\nVolgens Bright gaat het om een afspraak die Google, OpenAI, Anthropic en Microsoft samen ondersteunen. Websitebeheerders kunnen daarmee in één keer duidelijk maken dat hun materiaal niet mag worden verzameld voor het trainen van modellen. Dat geldt zowel voor tekst als voor afbeeldingen.\n\nPraktisch betekent het dat je als sitebeheerder niet meer hoeft uit te zoeken welk bedrijf welke methode hanteert. Eén instelling moet genoeg zijn om bij meerdere partijen hetzelfde signaal af te geven."
+  },
+  {
+   "heading": "Wat de regel wel en niet regelt",
+   "body": "De afspraak gaat over het aangeven van een voorkeur. Het is geen technische muur die dataverzameling onmogelijk maakt. Partijen die zich niet aan de afspraak houden, kunnen content in theorie nog steeds binnenhalen.\n\nOok is nog niet bekend hoe snel alle vier de bedrijven de regel daadwerkelijk naleven. Bright meldt de steun van de vier partijen, zonder details over invoering of handhaving. Of er een keurmerk of controlemechanisme komt, is evenmin duidelijk.\n\nVoor eigenaren van websites is het vooral een administratieve vereenvoudiging. Je hoeft niet langer per aanbieder een aparte aanvraag te doen of een eigen blokkade te bouwen."
+  },
+  {
+   "heading": "Waarom dit nu speelt",
+   "body": "AI-bedrijven verzamelen al jaren grote hoeveelheden webteksten om hun modellen te trainen. Veel sitebeheerders kwamen daar pas later achter. Klachten over ongewenst gebruik van artikelen, foto's en forumteksten namen daardoor toe.\n\nEen gedeelde standaard lost dat niet volledig op, maar maakt de wens van websitebeheerders wel zichtbaar op één plek. AI-bedrijven kunnen daar vervolgens rekening mee houden bij het samenstellen van trainingsdata.\n\nOf de regel juridisch iets afdwingt, is niet duidelijk uit de bron. Het lijkt in eerste instantie om een technische afspraak tussen bedrijven te gaan."
+  },
+  {
+   "heading": "Wat je als sitebeheerder kunt doen",
+   "body": "Controleer of je website al een signaal afgeeft over hergebruik van content. Veel systemen, zoals WordPress en andere publicatieplatformen, bieden instellingen voor dit soort signalen. Zet die aan als je niet wilt dat je teksten voor training worden gebruikt.\n\nHeb je een eigen site of webwinkel, vraag dan bij je bouwer na of de regel wordt meegenomen. Leg vast wat je wilt: geen training, wel indexering in zoekmachines. Dat zijn twee verschillende dingen, en je wilt meestal niet dat je site uit Google verdwijnt.\n\nHoud er rekening mee dat blokkeren invloed kan hebben op hoe je content online zichtbaar is. Test daarom eerst op een proefomgeving als je twijfelt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven met een website is dit vooral een praktische stap. Je hoeft niet meer per AI-bedrijf een verzoek te sturen om je teksten buiten training te houden. Zet de regel één keer goed en je signaal is voor meerdere partijen duidelijk. Let wel op: de afspraak is nog geen wet. Of een partij zich eraan houdt, kun je als sitebeheerder niet altijd controleren. Nederlandse organisaties die veel eigen content publiceren, zoals uitgevers, musea en kennisinstellingen, kunnen de regel gebruiken als eerste filter. Blijf daarnaast je eigen voorwaarden en auteursrecht serieus nemen.",
+ "faq": [
+  {
+   "q": "Hoe voorkom ik dat mijn website wordt gebruikt voor AI-training?",
+   "a": "Gebruik de gedeelde regel die Google, OpenAI, Anthropic en Microsoft ondersteunen. Zet die één keer aan via je website of publicatiesysteem."
+  },
+  {
+   "q": "Werkt dat ook tegen alle AI-bedrijven?",
+   "a": "Nee, alleen bij partijen die de afspraak steunen en zich eraan houden. Andere partijen kunnen je content nog steeds binnenhalen."
+  },
+  {
+   "q": "Verdwijn ik uit Google als ik AI-training blokkeer?",
+   "a": "Dat hoeft niet. Het signaal gaat over training van modellen, niet over indexering in zoekresultaten. Controleer wel je instellingen goed."
+  }
+ ],
+ "slug": "websites-kunnen-ai-training-nu-met-een-regel-blokkeren",
+ "kind": "news",
+ "date": "2026-11-01",
+ "published": "2026-11-01T11:38",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Zo kunnen websites voorkomen dat hun teksten gebruikt worden voor AI-training",
+   "url": "https://www.bright.nl/nieuws/2153346/zo-kunnen-websites-voorkomen-dat-hun-teksten-gebruikt-worden-voor-ai-training.html"
+  }
+ ],
+ "path": "/nieuws/websites-kunnen-ai-training-nu-met-een-regel-blokkeren/",
+ "og": "/img/og/websites-kunnen-ai-training-nu-met-een-regel-blokkeren.png",
+ "take": "Die ene regel is handig, maar het is een verzoek en geen slot. Ik vertrouw liever op mijn eigen afscherming dan op de goede wil van vier bedrijven die hun modellen met andermans tekst willen voeden. Bij geldknoppen geldt voor mij hetzelfde: de AI mag het werk doen, de beslissing blijft bij een mens."
+}

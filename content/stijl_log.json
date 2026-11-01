@@ -4524,5 +4524,70 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-01T11:37:23",
+  "slug": "",
+  "title": "AI chatbot als steun bij zorgen: wie houdt een spiegel voor",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-01T11:37:30",
+  "slug": "",
+  "title": "Google bouwt robot die je kantoorplant in leven houdt",
+  "kind": "news",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-01T11:37:42",
+  "slug": "",
+  "title": "Websites kunnen AI-training nu met één regel blokkeren",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S5",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-01T11:37:52",
+  "slug": "",
+  "title": "Apple-ceo: geen AI om de AI, en dat merk je in Nederland",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-01T11:38:18",
+  "slug": "",
+  "title": "AI-week 44: Apple zonder AI-hype, RAM-tekort en één regel tegen AI-training",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

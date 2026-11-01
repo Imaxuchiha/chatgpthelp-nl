@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: script voor je telefoongesprek met de gemeente",
+ "situation": "Je moet bellen met de gemeente over een aanvraag of bezwaar en wil niet van het kastje naar de muur worden gestuurd. Met deze prompt maak je vooraf een script.",
+ "prompt": "Je bent een ervaren telefonist bij een Nederlandse gemeente. Ik bel morgen over [ONDERWERP, bijvoorbeeld: mijn aanvraag voor een parkeervergunning of bezwaar tegen een boete]. Mijn situatie: [BESCHRIJF KORT WAT ER SPEELT, met datums en kenmerken zoals zaaknummer]. Ik wil bereiken dat [DOEL, bijvoorbeeld: duidelijkheid over de status of een nieuwe afspraak]. Maak een belscript van maximaal 250 woorden met: 1) een opening van twee zinnen waarin ik mijn zaaknummer en vraag noem, 2) drie vragen die ik zeker moet stellen, 3) hoe ik reageer als de medewerker zegt dat ik een formulier moet invullen, 4) een afsluiting waarin ik bevestig wat er is afgesproken. Zet erachter welke gegevens ik bij de hand moet houden. Houd de toon van mij: [KIES: vriendelijk zakelijk / duidelijk maar kortaf].",
+ "tip": "Vul na het gesprek dezelfde prompt opnieuw in met wat er is gezegd, dan krijg je een korte bevestigingsmail erbij.",
+ "tags": [
+  "gemeente",
+  "bellen",
+  "script",
+  "thuis"
+ ],
+ "date": "2026-11-01",
+ "slug": "prompt-script-voor-je-telefoongesprek-met-de-gemeente",
+ "path": "/prompts/2026-11-01-prompt-script-voor-je-telefoongesprek-met-de-gemeente/"
+}
