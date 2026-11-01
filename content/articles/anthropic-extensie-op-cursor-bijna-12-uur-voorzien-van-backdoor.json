@@ -1,0 +1,67 @@
+{
+ "keyword": "cursor backdoor",
+ "seo_title": "Cursor backdoor: Anthropic-extensie 12 uur misbruikt",
+ "title": "Anthropic-extensie op Cursor bijna 12 uur voorzien van backdoor",
+ "meta": "Een backdoor in de Anthropic-extensie op Cursor bleef bijna 12 uur onopgemerkt. Lees wat er bekend is en wat dit voor Nederlandse ontwikkelaars betekent.",
+ "category": "nieuws",
+ "tags": [
+  "cursor",
+  "anthropic",
+  "beveiliging",
+  "backdoor",
+  "ontwikkelaars"
+ ],
+ "intro": "Aanvallers hebben bijna twaalf uur lang een backdoor kunnen plaatsen in de Anthropic-extensie die via Cursor wordt verspreid. Hoe zij toegang kregen tot het geverifieerde Cursor-account van Anthropic is nog onduidelijk. De kwestie raakt iedereen die AI-codeertools met toegang tot eigen projecten gebruikt.",
+ "takeaways": [
+  "De backdoor zat bijna twaalf uur in de Anthropic-extensie op Cursor.",
+  "Onbekend is hoe aanvallers bij het geverifieerde Cursor-account van Anthropic kwamen.",
+  "Het lek raakt ontwikkelaars die AI-tools met toegang tot hun codebase gebruiken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er gebeurde",
+   "body": "De Visual Studio Code-extensie van Anthropic, verspreid via de AI-editor Cursor, is bijna twaalf uur lang voorzien van een backdoor. Dat meldt Ars Technica. Een backdoor is een verborgen ingang waarmee iemand op afstand toegang houdt tot software of systemen.\n\nHet is nog niet bekend hoe de aanvallers toegang kregen tot het geverifieerde Cursor-account van Anthropic. Ook is niet duidelijk hoeveel gebruikers in die periode de extensie hebben geïnstalleerd of bijgewerkt. Cursor en Anthropic hebben nog geen volledige toelichting gegeven op het incident."
+  },
+  {
+   "heading": "Waarom een geverifieerd account telt",
+   "body": "Extensies in editors als Cursor en Visual Studio Code komen vaak uit een marktplaats. Een geverifieerd account geeft zo'n publicatie meer vertrouwen. Gebruikers gaan er dan van uit dat de uitgever echt Anthropic is.\n\nWie zo'n account overneemt, kan een kwaadaardige update uitrollen onder de naam van een bekende partij. De schade ontstaat vooral bij ontwikkelaars die de extensie koppelen aan hun projecten en inloggegevens. Een backdoor in een editor kan meelezen met code en met wat er op de machine gebeurt."
+  },
+  {
+   "heading": "Wat je zelf kunt doen",
+   "body": "Controleer of je de Anthropic-extensie via Cursor gebruikt en welke versie je hebt. Werk bij twijfel niet automatisch bij en kijk eerst naar de release-informatie. Ontwikkelaars kunnen hun sleutels en tokens voor AI-diensten rouleren, zeker als die in de afgelopen dagen zijn gebruikt.\n\nHet helpt om extensies alleen uit de officiële marktplaats te halen en updates kort uit te stellen bij beveiligingsmeldingen. Grote teams kunnen afspraken maken over welke plug-ins zijn toegestaan. Anthropic en Cursor hebben nog geen lijst gepubliceerd van getroffen versies."
+  },
+  {
+   "heading": "Wat nog niet bekend is",
+   "body": "Ars Technica schrijft dat de toedracht nog onduidelijk is. Er is geen bevestiging dat er gegevens zijn buitgemaakt. Ook is niet bekend of de aanvallers specifiek op Nederlandse gebruikers mikten.\n\nZodra Anthropic of Cursor met een verklaring komt, wordt duidelijker welke versies besmet waren en hoe lang de backdoor actief bleef. Tot die tijd blijft het verstandig om voorzichtig te zijn met automatische updates van AI-extensies."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en bedrijven die met Cursor en de Anthropic-extensie werken, is dit een reden om de extensieversie en de bijbehorende API-sleutels na te lopen. De AI-codeertools zijn populair bij Nederlandse softwareteams en zzp'ers. Onder de Europese NIS2-regels moeten veel organisaties beveiligingsincidenten in hun leveranciersketen kunnen aantonen. Een besmette editorplug-in valt daar ook onder. Rouleer sleutels die in de afgelopen dagen zijn gebruikt en leg vast welke versie je draait.",
+ "faq": [
+  {
+   "q": "wat is een backdoor in een cursor-extensie?",
+   "a": "Een verborgen toegang die iemand op afstand in software aanbrengt. Daarmee kan die persoon meekijken of opdrachten uitvoeren zonder dat de gebruiker het merkt."
+  },
+  {
+   "q": "is de anthropic-extensie op cursor nu veilig?",
+   "a": "Dat is nog niet bevestigd. Anthropic en Cursor hebben nog geen volledige toelichting gegeven. Controleer je versie en rouleer je sleutels bij twijfel."
+  },
+  {
+   "q": "raakt dit ook nederlandse gebruikers?",
+   "a": "Nederlandse ontwikkelaars die Cursor met de Anthropic-extensie gebruiken, kunnen geraakt zijn. Er is geen aanwijzing dat de aanvallers specifiek op Nederland mikten."
+  }
+ ],
+ "slug": "anthropic-extensie-op-cursor-bijna-12-uur-voorzien-van-backdoor",
+ "kind": "news",
+ "date": "2026-11-01",
+ "published": "2026-11-01T18:15",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+  }
+ ],
+ "path": "/nieuws/anthropic-extensie-op-cursor-bijna-12-uur-voorzien-van-backdoor/",
+ "og": "/img/og/anthropic-extensie-op-cursor-bijna-12-uur-voorzien-van-backdoor.png",
+ "take": "Een geverifieerd account dat twaalf uur lang een backdoor kan verspreiden, daar word ik niet warm van. Ik bouw mijn automatisering liever zelf met Claude Code en eigen scripts, dan weet ik tenminste wie er aan de knoppen zit. Elke extensie die met mijn projecten meekijkt is er één te veel."
+}

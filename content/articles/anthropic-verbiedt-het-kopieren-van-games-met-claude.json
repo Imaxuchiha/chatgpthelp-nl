@@ -1,0 +1,68 @@
+{
+ "keyword": "claude games kopiëren",
+ "seo_title": "Claude games kopiëren mag niet meer van Anthropic",
+ "title": "Anthropic verbiedt het kopiëren van games met Claude",
+ "meta": "Anthropic pakt het kopiëren van bestaande games met Claude aan. Lees wat de maatregel inhoudt en wat dit betekent voor ontwikkelaars in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "anthropic",
+  "claude",
+  "games",
+  " auteursrecht",
+  "ai-beleid"
+ ],
+ "intro": "Anthropic treedt harder op tegen mensen die met Claude bestaande games namaken. Volgens Bright geldt de maatregel ook als zo'n kopie een andere naam krijgt. Voor ontwikkelaars en hobbyisten die Claude gebruiken om een game na te bouwen, verandert er iets concreets.",
+ "takeaways": [
+  "Anthropic staat niet langer toe dat Claude wordt gebruikt om echte games te kopiëren.",
+  "De maatregel geldt ook wanneer een kopie een nieuwe naam of een 'origineel' tintje krijgt.",
+  "Het gaat om het tegengaan van copycats, meldt Bright.",
+  "Hoe Anthropic de regel precies handhaaft, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Anthropic precies verbiedt",
+   "body": "Anthropic wil niet dat Claude wordt ingezet om bestaande games na te bouwen. Dat geldt voor een kopie die letterlijk op het origineel lijkt. Ook een versie met een nieuwe naam valt onder de maatregel, meldt Bright.\n\nDe stap richt zich op zogeheten copycats: games die sterk leunen op het werk van een ander. Anthropic noemt dat niet langer acceptabel. Waar de grens precies ligt tussen inspiratie en kopiëren, maakt de bron niet duidelijk."
+  },
+  {
+   "heading": "Waarom dit nu speelt",
+   "body": "AI-modellen kunnen op basis van een korte beschrijving een speelbaar spel opleveren. Dat maakt het makkelijk om de opzet, regels en sfeer van een bestaand spel over te nemen. Voor rechthebbenden is dat lastig te bestrijden.\n\nAnthropic reageert met een eigen regel, los van wat de wet zegt. Het bedrijf bepaalt zelf welke verzoeken het toestaat. Met de maatregel wil het voorkomen dat Claude bekend komt te staan als hulpmiddel voor het namaken van andermans spel."
+  },
+  {
+   "heading": "Wat nog onduidelijk blijft",
+   "body": "Bright schrijft niet hoe Anthropic de regel uitvoert. Gaat het om een filter in Claude, om aangepaste voorwaarden of om handmatige controle. Ook is niet bekend of er al gevallen zijn aangepakt.\n\nEvenmin is duidelijk of de maatregel alleen voor games geldt of breder wordt getrokken. Anthropic heeft daar zelf nog niets over gezegd in de aangeleverde bron."
+  },
+  {
+   "heading": "Zo werkt het bij andere aanbieders",
+   "body": "OpenAI en Google hanteren eigen regels voor wat gebruikers met hun modellen maken. Die voorwaarden verschillen per bedrijf en worden regelmatig aangepast. Een eenduidige Europese lijn bestaat nog niet.\n\nVoor gebruikers betekent dat: lees de voorwaarden van de tool die je gebruikt. Wat bij de ene aanbieder mag, kan bij de andere zijn verboden."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en hobbyisten die met Claude een game in elkaar zetten, wordt het opletten. Een spel dat duidelijk leunt op een bestaand titel loop je risico dat je verzoek wordt geweigerd of je toegang wordt beperkt. Werk je in opdracht, leg dan vast dat je eigen ontwerp de basis is. Let ook op het auteursrecht: in Nederland en de EU kun je bij het namaken van een game alsnog aansprakelijk zijn, ook als de tool het toestaat. De precieze handhaving van Anthropic is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Mag ik met Claude een bestaande game namaken?",
+   "a": "Nee, Anthropic staat dat niet langer toe. Dat geldt ook als de kopie een andere naam krijgt."
+  },
+  {
+   "q": "Geldt dit ook voor Nederlandse ontwikkelaars?",
+   "a": "De regel van Anthropic geldt voor gebruikers van Claude, waar ze ook wonen. Daarnaast blijft het Nederlandse en Europese auteursrecht van toepassing."
+  },
+  {
+   "q": "Hoe controleert Anthropic dit?",
+   "a": "Dat is nog niet bekend. Bright meldt alleen dat de maatregel copycats moet tegengaan."
+  }
+ ],
+ "slug": "anthropic-verbiedt-het-kopieren-van-games-met-claude",
+ "kind": "news",
+ "date": "2026-11-01",
+ "published": "2026-11-01T18:14",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Anthropic staat het niet meer toe om games te kopiëren",
+   "url": "https://www.bright.nl/nieuws/2153571/anthropic-staat-het-niet-meer-toe-om-games-te-kopieren.html"
+  }
+ ],
+ "path": "/nieuws/anthropic-verbiedt-het-kopieren-van-games-met-claude/",
+ "og": "/img/og/anthropic-verbiedt-het-kopieren-van-games-met-claude.png",
+ "take": "Anthropic mag van mij best grenzen trekken rond gekopieerde games, maar de echte vraag is waar die grens ligt. Een kopie met een andere naam is nog steeds een kopie, dus dat ze daar iets aan doen snap ik. Wat ik zelf nooit uit handen geef zijn de knoppen waar geld of rechten aan hangen, en een game namaken valt daar wat mij betreft onder."
+}

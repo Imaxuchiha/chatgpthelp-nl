@@ -4589,5 +4589,69 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-01T18:13:57",
+  "slug": "",
+  "title": "Hart luchten bij een AI-bot geeft namaakbegrip, zeggen critici",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-01T18:14:06",
+  "slug": "",
+  "title": "DeepSeek komt met AI-agent die zelfstandig helpt bij programmeren",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-01T18:14:15",
+  "slug": "",
+  "title": "Anthropic verbiedt het kopiëren van games met Claude",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-01T18:14:26",
+  "slug": "",
+  "title": "Anthropic-extensie op Cursor bijna 12 uur voorzien van backdoor",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-01T18:14:46",
+  "slug": "",
+  "title": "AI-week 44: backdoor bij Cursor, AI-regels en het stoppen van Ollie",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

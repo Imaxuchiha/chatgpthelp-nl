@@ -2467,6 +2467,26 @@
   "9f56e268b0": {
    "at": "2026-11-01T11:39:07.320194",
    "why": "ok"
+  },
+  "04a49df1dd": {
+   "at": "2026-11-01T18:13:43.391337",
+   "why": "ok"
+  },
+  "7dac963f6f": {
+   "at": "2026-11-01T18:14:43.391337",
+   "why": "poort"
+  },
+  "e0d8ffdf22": {
+   "at": "2026-11-01T18:14:43.391337",
+   "why": "ok"
+  },
+  "e07dacdb45": {
+   "at": "2026-11-01T18:15:43.391337",
+   "why": "high-risk"
+  },
+  "93351cbb4c": {
+   "at": "2026-11-01T18:15:43.391337",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2894,6 +2914,9 @@
   "Boom supersonisch vliegtuig in twijfel door overstap naar ai-datacenters",
   "AI chatbot als steun bij zorgen: wie houdt een spiegel voor",
   "Websites kunnen AI-training nu met één regel blokkeren",
-  "Apple-ceo: geen AI om de AI, en dat merk je in Nederland"
+  "Apple-ceo: geen AI om de AI, en dat merk je in Nederland",
+  "Hart luchten bij een AI-bot geeft namaakbegrip, zeggen critici",
+  "Anthropic verbiedt het kopiëren van games met Claude",
+  "Anthropic-extensie op Cursor bijna 12 uur voorzien van backdoor"
  ]
 }
