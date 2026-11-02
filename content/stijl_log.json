@@ -4772,5 +4772,46 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-02T21:52:28",
+  "slug": "",
+  "title": "Grid Protectors Program: OpenAI wil stroomnet van VS helpen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-02T21:52:39",
+  "slug": "",
+  "title": "LifeVal meet hoe goed ai helpt bij alledaagse taken",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-02T21:52:47",
+  "slug": "",
+  "title": "Honderden AI-apps bevatten stiekem tools voor deepfakes",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

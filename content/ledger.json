@@ -2515,6 +2515,26 @@
   "bb2642061f": {
    "at": "2026-11-02T12:26:13.693415",
    "why": "ok"
+  },
+  "a437782712": {
+   "at": "2026-11-02T21:52:13.807010",
+   "why": "high-risk"
+  },
+  "dc6c7ef2ed": {
+   "at": "2026-11-02T21:52:13.807010",
+   "why": "high-risk"
+  },
+  "19244c7aa2": {
+   "at": "2026-11-02T21:52:13.807010",
+   "why": "ok"
+  },
+  "ed4b582536": {
+   "at": "2026-11-02T21:53:13.807010",
+   "why": "ok"
+  },
+  "40b9cf12bb": {
+   "at": "2026-11-02T21:54:13.807010",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2951,6 +2971,9 @@
   "AI-gebruik kost provost Dartmouth zijn baan na waarschuwing",
   "Verbod op verslavende algoritmes: Kathmann dient voorstel in",
   "OpenAI noemt datacenters voortaan AI compute campuses",
-  "AI maakt het leven van tech-ceo's makkelijker, maar wat merkt de rest?"
+  "AI maakt het leven van tech-ceo's makkelijker, maar wat merkt de rest?",
+  "Grid Protectors Program: OpenAI wil stroomnet van VS helpen",
+  "LifeVal meet hoe goed ai helpt bij alledaagse taken",
+  "Honderden AI-apps bevatten stiekem tools voor deepfakes"
  ]
 }
