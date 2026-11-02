@@ -2535,6 +2535,18 @@
   "40b9cf12bb": {
    "at": "2026-11-02T21:54:13.807010",
    "why": "ok"
+  },
+  "b2485c91dd": {
+   "at": "2026-11-03T00:25:54.141852",
+   "why": "ok"
+  },
+  "855688c450": {
+   "at": "2026-11-03T00:26:54.141852",
+   "why": "ok"
+  },
+  "ee2dc1d380": {
+   "at": "2026-11-03T00:27:54.141852",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2974,6 +2986,9 @@
   "AI maakt het leven van tech-ceo's makkelijker, maar wat merkt de rest?",
   "Grid Protectors Program: OpenAI wil stroomnet van VS helpen",
   "LifeVal meet hoe goed ai helpt bij alledaagse taken",
-  "Honderden AI-apps bevatten stiekem tools voor deepfakes"
+  "Honderden AI-apps bevatten stiekem tools voor deepfakes",
+  "Trajectory haalt 45 miljoen dollar op voor ai-training zonder code",
+  "Anthropic waarschuwt: zelflerende ai (RSI) komt dichtbij",
+  "ChatGPT en Codex delen vanaf december je gebruikslimiet"
  ]
 }

@@ -1,0 +1,68 @@
+{
+ "keyword": "trajectory ai training",
+ "seo_title": "Trajectory ai training: 45 miljoen voor niet-technici",
+ "title": "Trajectory haalt 45 miljoen dollar op voor ai-training zonder code",
+ "meta": "Trajectory haalt 45 miljoen dollar op om ai-modellen te trainen zonder programmeerwerk. Wat betekent dat voor Nederlandse bedrijven en teams?",
+ "category": "nieuws",
+ "tags": [
+  "trajectory",
+  "ai-training",
+  "startups",
+  "investeringen",
+  "nederland"
+ ],
+ "intro": "Het Amerikaanse startup Trajectory heeft 45 miljoen dollar opgehaald voor software waarmee je ai-modellen traint zonder technische kennis. TechCrunch meldt dat het bedrijf na een jaar al op 300 miljoen dollar wordt gewaardeerd. Dat raakt ook Nederlandse teams die ai willen inzetten zonder eigen ontwikkelaars.",
+ "takeaways": [
+  "Trajectory haalt 45 miljoen dollar op, omgerekend ongeveer 39 miljoen euro.",
+  "Het bedrijf bestaat een jaar en wordt gewaardeerd op 300 miljoen dollar.",
+  "De software richt zich op mensen zonder technische achtergrond.",
+  "TechCrunch noemt de investering, investeerders worden niet genoemd."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Trajectory doet",
+   "body": "Trajectory bouwt software waarmee je een ai-model bijstuurt zonder zelf code te schrijven. TechCrunch omschrijft het doel simpel: ai-training toegankelijk maken voor mensen die geen technische expert zijn. Denk aan een marketeer die een model wil laten werken met eigen productteksten.\n\nHet bedrijf is pas een jaar oud. In die korte tijd haalde het 45 miljoen dollar op. TechCrunch meldt daarbij een waardering van 300 miljoen dollar. Dat is fors voor een startup die nog geen twee jaar bestaat.\n\nWie de investeerders zijn, staat niet in de bron. Ook over klanten, omzet en een lanceerdatum zegt TechCrunch niets. Die details zijn nog niet bekend."
+  },
+  {
+   "heading": "Waarom dit opvalt",
+   "body": "Veel ai-tools laten je een model gebruiken dat iemand anders al heeft getraind. Het aanpassen van zo'n model aan eigen data vraagt meestal om programmeerwerk en kennis van machine learning. Trajectory mikt op de stap daarvoor: het trainingsproces zelf.\n\nDat is een lastige markt. Grote cloudbedrijven bieden vergelijkbare diensten, vaak met eigen beveiliging en rekenkracht. Een kleine speler moet dus laten zien dat het echt eenvoudiger werkt. De opgehaalde 45 miljoen dollar geeft ruimte om dat te bewijzen.\n\nTechCrunch noemt geen concurrenten en geen technische details over de software. Of Trajectory eigen modellen traint of bestaande modellen aanpast, blijkt niet uit de bron."
+  },
+  {
+   "heading": "Wat het betekent voor niet-technici",
+   "body": "Het idee is herkenbaar. Steeds meer teams willen een ai-model dat hun eigen taal spreekt: eigen producten, eigen klantvragen, eigen huisstijl. Vaak strandt dat omdat er geen ontwikkelaar vrij is.\n\nSoftware die dat zonder code regelt, kan dat gat vullen. Toch blijft de vraag wat je precies nodig hebt. Een model bijsturen met eigen voorbeelden vraagt nog steeds om goede data en duidelijke keuzes over wat het model wel en niet mag zeggen.\n\nDat werk verdwijnt niet door een eenvoudige interface. Het wordt verplaatst naar de mensen met verstand van de inhoud. Voor veel organisaties is dat juist de bedoeling."
+  },
+  {
+   "heading": "Geld voor ai-training",
+   "body": "De investering past bij een bredere beweging: geld stroomt naar tools die ai dichter bij gewone medewerkers brengen. TechCrunch noemt Trajectory een van de startups die daarop inspelen. De waardering van 300 miljoen dollar laat zien dat investeerders er vertrouwen in hebben.\n\nTegelijk is een hoge waardering geen garantie voor succes. Een jong bedrijf moet klanten vinden, de software stabiel houden en zich staande houden naast grote spelers. Wat Trajectory precies verkoopt en tegen welke prijs, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en organisaties betekent dit vooral een extra optie op een groeiende markt. Wie een ai-model wil trainen op eigen data, kan straks mogelijk kiezen voor een tool die geen programmeur vraagt. Let wel op waar je data staat. Amerikaanse software valt onder Amerikaanse regels, en de Europese ai-wet stelt eigen eisen aan systemen die in de EU worden gebruikt. Of Trajectory in Nederland beschikbaar komt, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is Trajectory?",
+   "a": "Trajectory is een Amerikaanse startup die software maakt om ai-modellen te trainen zonder technische kennis. Het bedrijf bestaat ongeveer een jaar."
+  },
+  {
+   "q": "Hoeveel geld haalde Trajectory op?",
+   "a": "TechCrunch meldt 45 miljoen dollar, omgerekend ongeveer 39 miljoen euro. Het bedrijf wordt gewaardeerd op 300 miljoen dollar."
+  },
+  {
+   "q": "Is Trajectory beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. De bron noemt geen prijzen, lanceerdatum of beschikbaarheid in Europa."
+  }
+ ],
+ "slug": "trajectory-haalt-45-miljoen-dollar-op-voor-ai-training-zonder-code",
+ "kind": "news",
+ "date": "2026-11-03",
+ "published": "2026-11-03T00:25",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+  }
+ ],
+ "path": "/nieuws/trajectory-haalt-45-miljoen-dollar-op-voor-ai-training-zonder-code/",
+ "og": "/img/og/trajectory-haalt-45-miljoen-dollar-op-voor-ai-training-zonder-code.png",
+ "take": "Iedereen die nu roept dat je zonder code je eigen model traint, moet eerst maar eens laten zien wat zo'n model daarna beter doet dan een standaardmodel met een goede prompt. Ik train niks voordat ik weet welke euro of welk uur het oplevert. En dat begint met eerlijk zijn over wat er niet werkt, want AI die alleen maar succesverhalen verkoopt, daar prik ik zo doorheen."
+}

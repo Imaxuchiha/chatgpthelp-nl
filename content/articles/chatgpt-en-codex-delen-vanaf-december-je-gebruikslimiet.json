@@ -1,0 +1,64 @@
+{
+ "keyword": "chatgpt gebruikslimiet codex",
+ "seo_title": "ChatGPT-gebruikslimiet en Codex vanaf december gedeeld",
+ "title": "ChatGPT en Codex delen vanaf december je gebruikslimiet",
+ "meta": "OpenAI telt vanaf december het gebruik van ChatGPT en Codex bij elkaar op. Intensieve gebruikers lopen sneller tegen hun limiet aan. Zo werkt het.",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "codex",
+  "openai",
+  "gebruikslimiet",
+  "abonnement"
+ ],
+ "intro": "Wie ChatGPT en Codex allebei veel gebruikt, krijgt vanaf december met één gedeelde limiet te maken. OpenAI telt het verbruik van beide diensten dan bij elkaar op, meldt Bright. Hoe hoog die gezamenlijke limiet wordt, is nog niet bekend.",
+ "takeaways": [
+  "OpenAI voegt de gebruikslimieten van ChatGPT en Codex vanaf december samen.",
+  "Het verbruik van beide diensten wordt bij elkaar opgeteld.",
+  "De hoogte van de gedeelde limiet is nog niet bekendgemaakt.",
+  "Vooral intensieve gebruikers van beide tools merken het verschil."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies verandert",
+   "body": "ChatGPT en Codex hebben nu nog aparte limieten. Vanaf december houdt OpenAI één gedeelde teller aan. Elk gesprek in ChatGPT en elke opdracht in Codex telt dan mee voor hetzelfde plafond.\n\nDe wijziging raakt vooral mensen die beide diensten naast elkaar gebruiken. Denk aan ontwikkelaars die overdag code laten schrijven door Codex en daarnaast ChatGPT gebruiken voor teksten of uitleg. Zij zien hun beschikbare ruimte sneller slinken dan nu.\n\nOpenAI heeft nog niet gezegd hoe hoog de gezamenlijke limiet wordt. Ook is onduidelijk of elk abonnement dezelfde gedeelde limiet krijgt. Bright meldt alleen dat het verbruik wordt samengevoegd."
+  },
+  {
+   "heading": "Waarom OpenAI dit doet",
+   "body": "Codex is het hulpmiddel van OpenAI voor programmeerwerk. Het draait op dezelfde techniek achter ChatGPT en is bedoeld voor taken zoals code schrijven, uitleggen en verbeteren. Veel gebruikers stappen tussen beide heen.\n\nDoor één limiet te hanteren, krijgt OpenAI meer grip op de totale vraag naar rekenkracht. Het bedrijf kan zo het aanbod beter verdelen over alle gebruikers. Concrete cijfers daarover geeft OpenAI niet.\n\nVoor gebruikers betekent het vooral meer opletten. Wie veel code laat genereren, houdt mogelijk minder over voor gewone ChatGPT-gesprekken."
+  },
+  {
+   "heading": "Wat je nu al kunt doen",
+   "body": "Houd je verbruik in de gaten zodra december begint. Kijk welke taken echt via Codex moeten en welke net zo goed in een gewoon ChatGPT-gesprek kunnen. Dat scheelt ruimte in de gedeelde teller.\n\nWerk je met een betaald abonnement, controleer dan of je huidige plan nog past bij je gebruik. OpenAI heeft nog geen details gegeven over extra opties of hogere limieten. Zodra die bekend zijn, wordt duidelijk of bijbetalen nodig is.\n\nDe precieze ingangsdatum in december noemt Bright niet. Ook blijft onbekend of bestaande gebruikers vooraf bericht krijgen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en teams die ChatGPT en Codex combineren, kan de wijziging flink wennen zijn. Veel bedrijven hier gebruiken ChatGPT naast programmeertools, en een gedeelde limiet raakt dan direct de dagelijkse workflow. Let op je verbruik en stem binnen je team af wie welke tool waarvoor inzet. Prijzen in euro's en eventuele nieuwe abonnementsvormen zijn nog niet bekendgemaakt.",
+ "faq": [
+  {
+   "q": "Gaan ChatGPT en Codex vanaf december dezelfde limiet delen?",
+   "a": "Ja, OpenAI telt vanaf december het gebruik van beide diensten bij elkaar op, meldt Bright. Hoe hoog die gedeelde limiet wordt, is nog niet bekend."
+  },
+  {
+   "q": "Merk ik als gewone ChatGPT-gebruiker hier iets van?",
+   "a": "Alleen als je ook Codex gebruikt. Wie uitsluitend ChatGPT gebruikt, houdt voor zover bekend dezelfde situatie."
+  },
+  {
+   "q": "Wanneer gaat de wijziging precies in?",
+   "a": "OpenAI zegt december, maar een exacte datum is nog niet genoemd."
+  }
+ ],
+ "slug": "chatgpt-en-codex-delen-vanaf-december-je-gebruikslimiet",
+ "kind": "news",
+ "date": "2026-11-03",
+ "published": "2026-11-03T00:27",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Deze ChatGPT-gebruikers gaan vanaf volgende maand sneller hun limiet bereiken",
+   "url": "https://www.bright.nl/nieuws/2154141/deze-chatgpt-gebruikers-gaan-vanaf-volgende-maand-sneller-hun-limiet-bereiken.html"
+  }
+ ],
+ "path": "/nieuws/chatgpt-en-codex-delen-vanaf-december-je-gebruikslimiet/",
+ "og": "/img/og/chatgpt-en-codex-delen-vanaf-december-je-gebruikslimiet.png",
+ "take": "OpenAI plakt straks één teller op ChatGPT en Codex, en dat is vooral vervelend voor wie beide de hele dag gebruikt. Ik bouw mijn bureau-automatisering met Claude Code, dus deze wijziging raakt mij niet. Voor wie wel op die twee leunt: houd je verbruik in de gaten en zorg dat je werk ook zonder die tools doorloopt."
+}

@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: eindejaarsbonus omzetten naar spaardoel",
+ "situation": "Je krijgt in december een bonus of dertiende maand en wilt voorkomen dat het geld ongemerkt verdampt. Deze prompt helpt je vooraf een concreet bestedingsplan te maken.",
+ "prompt": "Je bent een nuchtere budgetcoach voor een huishouden in Nederland. Ik krijg in [MAAND] eenmalig [BEDRAG] euro netto extra op mijn rekening, bijvoorbeeld een bonus of dertiende maand. Mijn situatie: [KORTE OMSCHRIJVING, bijv. gezin met twee kinderen, huurwoning, geen schulden, spaargeld nu 2.000 euro]. Mijn doelen voor komend jaar: [DOEL 1], [DOEL 2] en [DOEL 3]. Maak een bestedingsplan in drie delen: direct uitgeven, opzij zetten en reserveren voor onverwachte kosten. Geef per deel een bedrag in euro's en leg in één zin uit waarom dat bedrag past bij mijn situatie. Noem ook één valkuil die mensen met een bonus vaak overkomt. Sluit af met een kort overzicht van bedragen dat ik zo kan overnemen. Vraag me eerst om ontbrekende informatie als die er is.",
+ "tip": "Vul bij de doelen ook een bedrag en deadline in, dan rekent ChatGPT gerichter mee.",
+ "tags": [
+  "geld",
+  "budget",
+  "werk",
+  "thuis"
+ ],
+ "date": "2026-11-03",
+ "slug": "prompt-eindejaarsbonus-omzetten-naar-spaardoel",
+ "path": "/prompts/2026-11-03-prompt-eindejaarsbonus-omzetten-naar-spaardoel/"
+}
