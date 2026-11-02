@@ -2499,6 +2499,22 @@
   "d6402cbeb2": {
    "at": "2026-11-01T21:28:16.580764",
    "why": "ok"
+  },
+  "e0db2f0696": {
+   "at": "2026-11-02T12:24:13.693415",
+   "why": "ok"
+  },
+  "f7f7607dab": {
+   "at": "2026-11-02T12:25:13.693415",
+   "why": "ok"
+  },
+  "0dbf0226aa": {
+   "at": "2026-11-02T12:26:13.693415",
+   "why": "poort"
+  },
+  "bb2642061f": {
+   "at": "2026-11-02T12:26:13.693415",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2932,6 +2948,9 @@
   "Anthropic-extensie op Cursor bijna 12 uur voorzien van backdoor",
   "AI bouwt gratis alternatieven voor Photoshop en Lightroom",
   "Character.ai faillissement: je chatgeschiedenis kan openbaar worden",
-  "AI-gebruik kost provost Dartmouth zijn baan na waarschuwing"
+  "AI-gebruik kost provost Dartmouth zijn baan na waarschuwing",
+  "Verbod op verslavende algoritmes: Kathmann dient voorstel in",
+  "OpenAI noemt datacenters voortaan AI compute campuses",
+  "AI maakt het leven van tech-ceo's makkelijker, maar wat merkt de rest?"
  ]
 }

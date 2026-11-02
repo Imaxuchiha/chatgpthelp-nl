@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: werkbriefje schrijven voor je zieke kind",
+ "situation": "Je kind is ziek en je moet de school, de opvang en je werk op één lijn krijgen. Met deze prompt maak je in één keer een kort werkbriefje en een duidelijke planning voor de eerste ziektedagen.",
+ "prompt": "Je bent een ervaren planner voor werkende ouders in Nederland. Ik heb een ziek kind en moet vandaag drie dingen regelen: de school informeren, de opvang afzeggen en mijn werk laten weten wat er misloopt. Mijn situatie: [NAAM KIND], [LEEFTIJD], zit op [SCHOOL/OPVANG] in [PLAATS]. Ziek sinds [DATUM], klachten: [KLACHTEN]. Ik werk bij [WERKGEVER] als [FUNCTIE] en heb vandaag [AFSPRAKEN/OVERLEGGEN]. Mijn partner kan [WEL/NIET] bijspringen op [DAGEN]. Maak een kort werkbriefje aan school van maximaal 80 woorden, een bericht aan mijn werkgever met wat ik uitstel en wat doorgaat, en een dagplanning voor de eerste twee ziektedagen met tijden. Gebruik een nuchtere toon, geen medische details die niet nodig zijn. Zet onderaan drie vragen die ik morgen moet beantwoorden als mijn kind nog thuis is.",
+ "tip": "Vul de klachten kort en feitelijk in, dan blijft het werkbriefje zakelijk en hoef je niets medisch te delen.",
+ "tags": [
+  "thuis",
+  "werk",
+  "planning",
+  "ziekte"
+ ],
+ "date": "2026-11-02",
+ "slug": "prompt-werkbriefje-schrijven-voor-je-zieke-kind",
+ "path": "/prompts/2026-11-02-prompt-werkbriefje-schrijven-voor-je-zieke-kind/"
+}

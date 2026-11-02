@@ -1,5 +1,11 @@
 [
  {
+  "topic": "Ai actualiteit",
+  "intent": "zoekterm uit Search Console: beantwoord precies deze zoekvraag",
+  "audience": "Nederlandse zoekers",
+  "from_gsc": true
+ },
+ {
   "topic": "ChatGPT prompts nederlands",
   "intent": "zoekterm uit Search Console: beantwoord precies deze zoekvraag",
   "audience": "Nederlandse zoekers",

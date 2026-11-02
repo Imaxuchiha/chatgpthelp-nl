@@ -4705,5 +4705,72 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-02T12:24:25",
+  "slug": "",
+  "title": "Verbod op verslavende algoritmes: Kathmann dient voorstel in",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-02T12:24:36",
+  "slug": "",
+  "title": "OpenAI noemt datacenters voortaan AI compute campuses",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-02T12:24:45",
+  "slug": "",
+  "title": "OpenAI overweegt datacenters om te dopen tot AI compute campuses",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-02T12:24:56",
+  "slug": "",
+  "title": "AI maakt het leven van tech-ceo's makkelijker, maar wat merkt de rest?",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-02T12:25:28",
+  "slug": "",
+  "title": "AI actualiteit: zo volg je het nieuws over ChatGPT en AI",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
