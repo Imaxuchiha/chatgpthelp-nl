@@ -2547,6 +2547,18 @@
   "ee2dc1d380": {
    "at": "2026-11-03T00:27:54.141852",
    "why": "ok"
+  },
+  "08b710f1e7": {
+   "at": "2026-11-03T12:00:06.311030",
+   "why": "ok"
+  },
+  "c25093eecc": {
+   "at": "2026-11-03T12:01:06.311030",
+   "why": "ok"
+  },
+  "6fd6ad7938": {
+   "at": "2026-11-03T12:02:06.311030",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -2989,6 +3001,9 @@
   "Honderden AI-apps bevatten stiekem tools voor deepfakes",
   "Trajectory haalt 45 miljoen dollar op voor ai-training zonder code",
   "Anthropic waarschuwt: zelflerende ai (RSI) komt dichtbij",
-  "ChatGPT en Codex delen vanaf december je gebruikslimiet"
+  "ChatGPT en Codex delen vanaf december je gebruikslimiet",
+  "ChatGPT vastgoedbeheer: Heimstaden gebruikt AI voor Europese woningen",
+  "Google Gemini krijgt mogelijk tijdslimieten voor kinderen",
+  "OpenAI verhoogt bug bounties voor security-onderzoekers"
  ]
 }

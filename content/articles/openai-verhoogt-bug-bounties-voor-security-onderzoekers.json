@@ -1,0 +1,64 @@
+{
+ "keyword": "openai bug bounty",
+ "seo_title": "OpenAI bug bounty: hogere beloningen",
+ "title": "OpenAI verhoogt bug bounties voor security-onderzoekers",
+ "meta": "OpenAI verhoogt de beloningen in zijn Security Bug Bounty-programma en voegt bonussen toe voor rapportkwaliteit, loyaliteit en prioriteitscampagnes.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "bug bounty",
+  "beveiliging",
+  "security",
+  "onderzoekers"
+ ],
+ "intro": "OpenAI trekt meer geld uit voor het melden van beveiligingslekken. Het bedrijf verhoogt de beloningen in zijn Security Bug Bounty-programma en voegt extra bonussen toe. Onafhankelijke security-onderzoekers kunnen daardoor meer verdienen aan een goede melding.",
+ "takeaways": [
+  "OpenAI verhoogt de beloningen voor gemelde beveiligingslekken.",
+  "Er komen bonussen voor rapportkwaliteit, loyaliteit en prioriteitscampagnes.",
+  "Het programma is gericht op zelfstandige security-onderzoekers.",
+  "OpenAI noemt geen concrete bedragen of ingangsdatum."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies verandert",
+   "body": "OpenAI maakt het aantrekkelijker om beveiligingsfouten in zijn systemen te melden. Het bedrijf verhoogt de bedragen die onderzoekers ontvangen bij een geslaagde melding. Dat staat in een bericht van OpenAI zelf.\n\nNaast het hogere basisbedrag komen er drie soorten bonussen. Onderzoekers kunnen extra krijgen voor de kwaliteit van hun rapport. Er is ook een loyaliteitsbonus en een bonus die hoort bij speciale campagnes rond prioritaire onderwerpen.\n\nOpenAI noemt in het bericht geen bedragen, percentages of een ingangsdatum. Ook is niet duidelijk hoe hoog de bonussen precies oplopen. Wie wil weten wat een melding oplevert, moet daarvoor bij de actuele programma-afspraken van OpenAI kijken."
+  },
+  {
+   "heading": "Waarom bedrijven dit soort programma's hebben",
+   "body": "Een bug bounty is een regeling waarbij een bedrijf betaalt aan mensen die een beveiligingsfout vinden en netjes melden. Zo'n melder heet een security-onderzoeker of ethisch hacker. Het doel is dat lekken bij het bedrijf terechtkomen en niet op straat of bij criminelen.\n\nOpenAI richt zich met de verhoging op zelfstandige onderzoekers. Dat zijn mensen die niet in dienst zijn van het bedrijf. Met extra bonussen hoopt OpenAI kennelijk dat zij vaker en beter gaan melden.\n\nDe kwaliteitsbonus is daarbij opvallend. Een melding die precies laat zien wat er misgaat, is voor een ontwikkelteam meer waard dan een summiere tip. De loyaliteitsbonus beloont onderzoekers die vaker melden."
+  },
+  {
+   "heading": "Wat het betekent voor melders",
+   "body": "Voor security-onderzoekers wordt het programma in theorie lucratiever. Een melding kan meer opleveren dan het vaste bedrag, zeker als het rapport goed is opgeschreven en binnen een campagne valt.\n\nToch blijft het werk onvoorspelbaar. Je krijgt alleen betaald als je een echt lek vindt en de melding wordt geaccepteerd. De hoogte van een beloning hangt af van de ernst van het lek en de kwaliteit van het rapport.\n\nOnderzoekers die vaker voor OpenAI melden, lijken met de loyaliteitsbonus een extra reden te krijgen om dat te blijven doen. Of dat in de praktijk veel oplevert, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse security-onderzoekers en ethische hackers verandert er weinig aan de regels, maar wel aan het potentiële inkomen. Wie een lek in de systemen van OpenAI vindt, kan sinds deze aanpassing rekenen op een hogere vergoeding en extra bonussen. Let wel op de Nederlandse en Europese regels: meld een lek via het programma van OpenAI en probeer nooit meer toegang te krijgen dan nodig is. Werk je vanuit Nederland voor een opdrachtgever, dan kan de beloning belast worden als inkomen. Concrete bedragen noemt OpenAI niet, dus reken niet op een vast tarief.",
+ "faq": [
+  {
+   "q": "Wat is een bug bounty?",
+   "a": "Een regeling waarbij een bedrijf betaalt aan mensen die een beveiligingsfout vinden en die netjes melden. Zo komen lekken bij het bedrijf terecht in plaats van bij criminelen."
+  },
+  {
+   "q": "Hoeveel betaalt OpenAI per melding?",
+   "a": "OpenAI noemt in het bericht geen bedragen. Het bedrijf zegt alleen dat de beloningen omhooggaan en dat er bonussen bijkomen."
+  },
+  {
+   "q": "Kan ik als Nederlandse onderzoeker meedoen?",
+   "a": "OpenAI richt zich op zelfstandige security-onderzoekers en noemt geen landen die zijn uitgesloten. Kijk voor de exacte voorwaarden in de actuele programma-afspraken van OpenAI."
+  }
+ ],
+ "slug": "openai-verhoogt-bug-bounties-voor-security-onderzoekers",
+ "kind": "news",
+ "date": "2026-11-03",
+ "published": "2026-11-03T12:02",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Rewarding defenders with bigger bug bounties",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+  }
+ ],
+ "path": "/nieuws/openai-verhoogt-bug-bounties-voor-security-onderzoekers/",
+ "og": "/img/og/openai-verhoogt-bug-bounties-voor-security-onderzoekers.png",
+ "take": "OpenAI betaalt onderzoekers meer voor een goede melding, en dat is een signaal dat het lekken serieus neemt. Ik zie het vooral als een prijsopdrijving in een markt waar de beste melders schaars zijn. Mijn toets blijft simpel: loopt het aantal echte lekken omlaag, dan is het geld goed besteed."
+}

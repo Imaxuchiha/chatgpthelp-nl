@@ -4874,5 +4874,44 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-03T12:00:20",
+  "slug": "",
+  "title": "ChatGPT vastgoedbeheer: Heimstaden gebruikt AI voor Europese woningen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-03T12:00:29",
+  "slug": "",
+  "title": "Google Gemini krijgt mogelijk tijdslimieten voor kinderen",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-03T12:00:39",
+  "slug": "",
+  "title": "OpenAI verhoogt bug bounties voor security-onderzoekers",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
