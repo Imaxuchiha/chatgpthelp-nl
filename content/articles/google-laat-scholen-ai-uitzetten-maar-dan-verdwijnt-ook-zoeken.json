@@ -1,0 +1,73 @@
+{
+ "keyword": "google ai scholen",
+ "seo_title": "Google AI scholen: kiezen tussen AI en zoeken",
+ "title": "Google laat scholen AI uitzetten, maar dan verdwijnt ook Zoeken",
+ "meta": "Scholen kunnen bij Google AI-functies uitzetten. Dan vervalt ook Google Zoeken, omdat AI nu in de zoekmachine zit. Wat betekent dat in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "google",
+  "ai",
+  "onderwijs",
+  "zoekmachine",
+  "scholen"
+ ],
+ "intro": "Google geeft scholen een keuze die eigenlijk geen keuze is. Ze mogen AI-functies uitzetten, maar raken dan ook Google Zoeken kwijt. Dat melden Ars Technica en TechCrunch op 3 november 2026.",
+ "takeaways": [
+  "Scholen kunnen AI-functies van Google uitzetten als ze dat willen.",
+  "Wie AI helemaal uitsluit, verliest ook de toegang tot Google Zoeken.",
+  "De AI-functies zitten inmiddels vast in de zoekmachine verwerkt.",
+  "Google zegt dat de AI-tools voor scholen geen antwoorden weggeven."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Google scholen aanbiedt",
+   "body": "Google komt met AI-tools voor het onderwijs. Die tools zouden volgens het bedrijf geen kant-en-klare antwoorden geven aan leerlingen. Scholen die dat willen, kunnen de AI-functies uitzetten.\n\nAlleen zit daar een addertje onder het gras. De AI-functies zijn onderdeel geworden van Google Zoeken. Wie de AI uitzet, zet daarmee ook de zoekmachine uit.\n\nTechCrunch schrijft dat scholen die AI volledig willen weren, geen toegang meer hebben tot Google Search. Dat raakt het dagelijkse werk in de klas."
+  },
+  {
+   "heading": "Waarom dit gevoelig ligt",
+   "body": "Scholen worstelen met AI in de klas. Leraren willen dat leerlingen zelf nadenken. Tegelijk is een zoekmachine lastig weg te denken uit het onderwijs.\n\nGoogle koppelt die twee nu aan elkaar. Een school die terughoudend wil zijn met AI, moet ook afscheid nemen van een van de meest gebruikte hulpmiddelen op het web.\n\nArs Technica noemt de opzet opvallend. Het bedrijf presenteert de keuze als vrijheid voor scholen, terwijl er feitelijk een stevige prijs aan hangt."
+  },
+  {
+   "heading": "Hoe de keuze in de praktijk werkt",
+   "body": "Beheerders van schoolaccounts kunnen instellingen aanpassen. Zetten ze de AI-functies uit, dan verdwijnt de zoekfunctie mee. Het is nog niet bekend of Google een tussenweg biedt, bijvoorbeeld zoeken zonder AI-hulp.\n\nOok is onduidelijk welke AI-functies precies onder de regeling vallen. Google heeft daar in de berichtgeving geen volledige lijst van gegeven.\n\nDuidelijk is wel dat de koppeling bewust is. AI zit in de zoekmachine verweven, aldus TechCrunch."
+  },
+  {
+   "heading": "Wat dit zegt over de markt",
+   "body": "Zoekmachines veranderen van een lijst links naar een systeem dat zelf antwoorden formuleert. Google zet die stap door, ook in het onderwijs.\n\nScholen die vasthouden aan zoeken zonder AI, komen daardoor in een lastig parket. Ze kunnen uitwijken naar een andere zoekmachine, maar dat vraagt om een keuze en om uitleg aan leerlingen en ouders.\n\nVoor Google zelf is het een manier om AI breed in het onderwijs te krijgen. Wie de zoekmachine wil, krijgt de AI erbij."
+  }
+ ],
+ "nl_angle": "Nederlandse scholen werken veel met Google Workspace for Education, met daarin Google Zoeken. Zet een school hier de AI-functies uit, dan kan dat dus ook het zoeken raken. Besturen en ict-coördinatoren doen er goed aan om vooraf te checken wat er precies uitgaat en wat blijft werken. Of Google deze opzet ook in Nederland en de rest van de EU invoert, is nog niet bekend. Scholen die AI willen weren, kunnen zich voorbereiden op een alternatief voor Google Zoeken.",
+ "faq": [
+  {
+   "q": "Kunnen scholen Google AI uitzetten?",
+   "a": "Ja, scholen kunnen de AI-functies uitzetten. Maar dan verliezen ze ook de toegang tot Google Zoeken, omdat AI daar in zit verwerkt."
+  },
+  {
+   "q": "Waarom kost uitzetten van AI ook Google Zoeken?",
+   "a": "Google heeft AI-functies in de zoekmachine gebouwd. Wie de AI uitschakelt, schakelt daarmee de zoekfunctie mee uit, meldt TechCrunch."
+  },
+  {
+   "q": "Geldt dit ook voor Nederlandse scholen?",
+   "a": "Dat is nog niet bekend. De berichten gaan over de aankondiging van Google, zonder dat duidelijk is of en wanneer dit in Nederland ingaat."
+  }
+ ],
+ "slug": "google-laat-scholen-ai-uitzetten-maar-dan-verdwijnt-ook-zoeken",
+ "kind": "news",
+ "date": "2026-11-03",
+ "published": "2026-11-03T19:38",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "Google will let schools skip AI tools, but they have to give up search, too",
+   "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
+  },
+  {
+   "name": "TechCrunch",
+   "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+   "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+  }
+ ],
+ "path": "/nieuws/google-laat-scholen-ai-uitzetten-maar-dan-verdwijnt-ook-zoeken/",
+ "og": "/img/og/google-laat-scholen-ai-uitzetten-maar-dan-verdwijnt-ook-zoeken.png",
+ "take": "Scholen krijgen een schakelaar voorgehouden die de stekker uit Zoeken trekt, en dat noem ik chantage met een strikje. Ik heb AI nog nergens iets opgeleverd zien opleveren dat ik kon aanwijzen, dus een keuze zonder tussenweg vertrouw ik niet. Laat Google eerst maar laten zien dat die twee echt niet los kunnen."
+}

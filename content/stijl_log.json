@@ -4913,5 +4913,42 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-03T19:38:56",
+  "slug": "",
+  "title": "Google laat scholen AI uitzetten, maar dan verdwijnt ook Zoeken",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-03T19:39:07",
+  "slug": "",
+  "title": "ChatGPT haalt bij zoekopdrachten 20 procent van Google",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-03T19:39:16",
+  "slug": "",
+  "title": "Netflix test AI Discover: aanbevelingen op thema",
+  "kind": "news",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

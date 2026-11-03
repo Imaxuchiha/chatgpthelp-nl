@@ -2559,6 +2559,26 @@
   "6fd6ad7938": {
    "at": "2026-11-03T12:02:06.311030",
    "why": "ok"
+  },
+  "f3b71b18e1": {
+   "at": "2026-11-03T19:38:43.826256",
+   "why": "ok"
+  },
+  "ba273efe94": {
+   "at": "2026-11-03T19:38:43.826256",
+   "why": "ok"
+  },
+  "bbd1724989": {
+   "at": "2026-11-03T19:39:43.826256",
+   "why": "high-risk"
+  },
+  "662bf89dbf": {
+   "at": "2026-11-03T19:39:43.826256",
+   "why": "ok"
+  },
+  "c65f77dcf8": {
+   "at": "2026-11-03T19:40:43.826256",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3004,6 +3024,9 @@
   "ChatGPT en Codex delen vanaf december je gebruikslimiet",
   "ChatGPT vastgoedbeheer: Heimstaden gebruikt AI voor Europese woningen",
   "Google Gemini krijgt mogelijk tijdslimieten voor kinderen",
-  "OpenAI verhoogt bug bounties voor security-onderzoekers"
+  "OpenAI verhoogt bug bounties voor security-onderzoekers",
+  "Google laat scholen AI uitzetten, maar dan verdwijnt ook Zoeken",
+  "ChatGPT haalt bij zoekopdrachten 20 procent van Google",
+  "Netflix test AI Discover: aanbevelingen op thema"
  ]
 }
