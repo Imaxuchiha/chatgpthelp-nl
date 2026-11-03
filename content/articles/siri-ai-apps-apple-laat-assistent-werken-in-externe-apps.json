@@ -1,0 +1,68 @@
+{
+ "keyword": "siri ai apps",
+ "seo_title": "Siri AI apps: Apple opent assistent voor externe apps",
+ "title": "Siri AI apps: Apple laat assistent werken in externe apps",
+ "meta": "Siri AI apps: vanaf iOS 27.3 mogen ontwikkelaars Siri in hun apps gebruiken. Wat dat betekent voor iPhone-gebruikers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "siri",
+  "apple",
+  "ios 27.3",
+  "ai-assistent",
+  "apps"
+ ],
+ "intro": "Apple geeft Siri toegang tot apps van andere makers. Met de update naar iOS 27.3 mogen ontwikkelaars de nieuwe functies van de spraakassistent in hun eigen apps bouwen. Dat meldt The Verge. Voor iPhone-gebruikers verandert Siri zo van een stem die vooral Apple-diensten kent in een assistent die ook buiten die diensten iets kan doen.",
+ "takeaways": [
+  "Met iOS 27.3 kunnen ontwikkelaars Siri-functies in al hun apps verwerken, meldt The Verge.",
+  "Siri kan persoonlijke context van de gebruiker gebruiken en natuurlijke taal verwerken.",
+  "De assistent krijgt zogeheten on-screen awareness: hij ziet wat er op het scherm staat.",
+  "Apple maakte de stap bekend op dinsdag 3 november 2026, samen met de uitrol van de update."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies verandert aan Siri",
+   "body": "Ontwikkelaars kunnen de nieuwe Siri-functies vanaf nu in alle apps inbouwen. Dat schrijft The Verge op basis van Apples aankondiging. De assistent put daarbij uit de persoonlijke context van de gebruiker. Denk aan gegevens die al op het toestel staan en die nodig zijn om een opdracht goed uit te voeren.\n\nOok gaat het om natuurlijke taal. Je kunt Siri dus vragen stellen zoals je ze tegen een mens zou formuleren. Daar komt on-screen awareness bij: de assistent ziet wat er op het scherm gebeurt en kan daarop reageren. Apple noemt de uitbreiding zelf een stap waarbij Siri in alle apps bruikbaar wordt.\n\nDe functies komen mee met iOS 27.3. Die update rolt sinds dinsdag uit. Het is nog niet bekend wanneer alle grote apps in Nederland de mogelijkheden daadwerkelijk ondersteunen."
+  },
+  {
+   "heading": "Van praten naar doen",
+   "body": "Spraakassistenten begrepen lange tijd vooral wat je zei. Uitvoeren bleef vaak beperkt tot de eigen diensten van de maker. Met deze stap verschuift dat: Siri moet acties kunnen uitvoeren in apps van andere partijen.\n\nVoor ontwikkelaars betekent het extra werk. Zij moeten hun app geschikt maken voor de nieuwe functies. Apple heeft nog niet gepubliceerd welke apps als eerste meedoen. Ook is niet duidelijk of er voorwaarden gelden voor toegang tot persoonsgegevens.\n\nDie vraag is relevant in de Europese Unie. Onder de Digital Markets Act gelden strengere regels voor grote platformbedrijven. Apple heeft nog niet uitgelegd hoe de Siri-koppeling zich verhoudt tot die verplichtingen."
+  },
+  {
+   "heading": "Wat je als iPhone-gebruiker merkt",
+   "body": "De update zelf is gratis. Je krijgt hem via de normale software-update op je toestel. Of Siri in een bepaalde app werkt, hangt af van de maker van die app.\n\nVerwacht dus geen situatie waarin elke app op je telefoon meteen meedoet. De ondersteuning groeit per app. Apple heeft geen lijst gepubliceerd van partijen die al klaar zijn.\n\nOok de privacy-instellingen veranderen mogelijk. Siri krijgt meer toegang tot gegevens, dus de vraag is welke gegevens het toestel verlaten. Apple heeft daar in de aankondiging nog niets over gezegd."
+  },
+  {
+   "heading": " concurrentie met Google en OpenAI",
+   "body": "Apple positioneert Siri met deze stap nadrukkelijker tegenover Google Gemini en OpenAI's ChatGPT. Beide partijen bouwen al langer aan assistenten die acties kunnen uitvoeren in andere toepassingen.\n\nVoor Nederland is de vraag vooral of de functies hier tegelijk met de Verenigde Staten beschikbaar komen. Apple heeft daar nog geen datum voor genoemd. Nieuwe AI-functies van Apple kwamen de afgelopen jaren vaak later naar de EU, onder meer door wettelijke eisen."
+  }
+ ],
+ "nl_angle": "Nederlandse iPhone-gebruikers krijgen de nieuwe Siri-functies via iOS 27.3, maar of alle apps hier meteen meedoen is nog niet bekend. Apple heeft geen lijst gepubliceerd en geen datum genoemd voor de EU. Bedrijven die een eigen app hebben, kunnen zich voorbereiden op de koppeling. Voor hen is het verstandig om de voorwaarden van Apple in de gaten te houden, zeker waar het gaat om persoonsgegevens. Onder de Europese regels voor digitale markten kan Apple verplicht worden om concurrenten toegang te geven. Hoe dat uitpakt voor Siri, is nog niet duidelijk.",
+ "faq": [
+  {
+   "q": "wat is er nieuw aan Siri in ios 27.3",
+   "a": "Ontwikkelaars mogen de nieuwe Siri-functies in al hun apps inbouwen. Siri kan dan persoonlijke context gebruiken, natuurlijke taal verwerken en zien wat er op het scherm staat."
+  },
+  {
+   "q": "wanneer komt de nieuwe siri naar nederland",
+   "a": "De update iOS 27.3 rolt sinds 3 november 2026 uit. Apple heeft niet gezegd wanneer alle apps in Nederland de functies ondersteunen."
+  },
+  {
+   "q": "kost de siri-update geld",
+   "a": "Nee, je krijgt iOS 27.3 gratis via de software-update op je iPhone. Of een specifieke app meedoet, hangt af van de maker van die app."
+  }
+ ],
+ "slug": "siri-ai-apps-apple-laat-assistent-werken-in-externe-apps",
+ "kind": "news",
+ "date": "2026-11-03",
+ "published": "2026-11-03T22:43",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Apple starts giving Siri AI access to third-party apps",
+   "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+  }
+ ],
+ "path": "/nieuws/siri-ai-apps-apple-laat-assistent-werken-in-externe-apps/",
+ "og": "/img/og/siri-ai-apps-apple-laat-assistent-werken-in-externe-apps.png",
+ "take": "Siri die eindelijk in andere apps komt is pas iets waard als hij daar ook echt iets afmaakt. Apple heeft dit al vaker aangekondigd en de belofte is groter dan wat er nu ligt. Ik zie hetzelfde patroon bij AI-tekst: hoe mooier de aankondiging, hoe meer je moet controleren of er iets staat dat klopt."
+}

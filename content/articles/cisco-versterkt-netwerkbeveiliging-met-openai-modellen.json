@@ -1,0 +1,68 @@
+{
+ "keyword": "cisco openai beveiliging",
+ "seo_title": "Cisco openai beveiliging: netwerkdata plus AI-modellen",
+ "title": "Cisco versterkt netwerkbeveiliging met OpenAI-modellen",
+ "meta": "Cisco combineert netwerkintelligentie met OpenAI-modellen voor snellere bedrijfsbeveiliging. Wat dit betekent voor securityteams in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "cisco",
+  "openai",
+  "cybersecurity",
+  "netwerkbeveiliging",
+  "bedrijven"
+ ],
+ "intro": "Cisco zet OpenAI-modellen in om bedrijfsnetwerken beter te verdedigen. Het bedrijf koppelt netwerkintelligentie aan AI-modellen voor aanpassingsvermogen bij aanvallen. OpenAI meldt dit op zijn site. Concrete cijfers over resultaten ontbreken nog.",
+ "takeaways": [
+  "Cisco combineert netwerkintelligentie met OpenAI-modellen voor bedrijfsbeveiliging.",
+  "Doel is een verdediging die zich sneller aanpast aan aanvallen.",
+  "OpenAI noemt dit verdedigen op machinesnelheid.",
+  "Prestatiecijfers en prijzen zijn nog niet bekendgemaakt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Cisco met de modellen doet",
+   "body": "Cisco bouwt aan beveiliging die meebeweegt met de aanval. Het bedrijf voegt netwerkdata samen met modellen van OpenAI. Volgens OpenAI levert dat een weerbaarder verdediging op.\n\nNetwerkintelligentie betekent hier: inzicht in wat er op een bedrijfsnetwerk gebeurt. Denk aan verkeer tussen systemen, apparaten die opvallen en signalen van ongewenste toegang. De AI-modellen helpen om die signalen sneller te duiden.\n\nOpenAI spreekt van verdedigen op machinesnelheid. Een mens kan niet elke logregel lezen. Software kan dat wel, en kan sneller reageren dan een securityteam met de hand."
+  },
+  {
+   "heading": "Waarom snelheid telt bij security",
+   "body": "Een aanval op een bedrijfsnetwerk verloopt vaak in stappen. Eerst een zwak wachtwoord, dan een extra systeem, dan data. Elke stap geeft het securityteam een kans om in te grijpen.\n\nHoe sneller een systeem zo'n reeks herkent, hoe kleiner de schade. Daar zit de winst van AI in netwerkbeveiliging. Het systeem ziet patronen en kan actie voorstellen of zelf ingrijpen.\n\nOpenAI geeft in de aankondiging geen voorbeelden van aanvallen die Cisco heeft gestopt. Ook blijft onduidelijk hoe vaak het systeem vals alarm slaat. Dat is precies het punt waar securityteams naar kijken."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Over prijzen zegt OpenAI niets. Ook is niet duidelijk wanneer Nederlandse klanten van Cisco dit kunnen gebruiken. De aankondiging beschrijft de samenwerking, zonder tijdlijn.\n\nCisco is een grote leverancier van netwerkapparatuur en beveiligingssoftware. Veel Nederlandse organisaties werken met hun routers, switches en beveiligingsdiensten. Nieuwe functies komen meestal via bestaande contracten of aparte licenties.\n\nOf dit in de Europese Unie dezelfde vorm krijgt, is nog niet gemeld. Gegevensverwerking en de AI-verordening spelen daarbij een rol. Daar zegt OpenAI nu niets over."
+  },
+  {
+   "heading": "Wat dit zegt over de AI-markt",
+   "body": "OpenAI zoekt zichtbaar de zakelijke markt op. Eerder richtte het bedrijf zich vooral op chatbots voor eindgebruikers. Nu positioneert het zijn modellen als bouwsteen voor bedrijfssoftware.\n\nVoor securityteams betekent dat een nieuwe vraag: welke data gaat naar het model en waar staat die? Een netwerk bevat gevoelige informatie over systemen en mensen. Dat maakt de inrichting belangrijker dan de modelnaam.\n\nCisco moet laten zien dat de combinatie werkt in de praktijk. Zonder cijfers blijft het bij een belofte over adaptieve verdediging."
+  }
+ ],
+ "nl_angle": "Nederlandse organisaties die Cisco gebruiken, krijgen mogelijk later toegang tot deze beveiligingsfuncties. Grote bedrijven en overheden letten daarbij op waar hun netwerkdata wordt verwerkt. Komt de data bij OpenAI terecht, dan gelden Europese regels voor gegevensbescherming en de AI-verordening. Voor kleinere bedrijven is de vraag vooral of dit in hun bestaande contract past of extra geld kost. Concrete prijzen in euro's zijn nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat doet Cisco met OpenAI-modellen?",
+   "a": "Cisco koppelt inzicht uit bedrijfsnetwerken aan OpenAI-modellen. Zo wil het aanvallen sneller herkennen en de verdediging sneller laten reageren."
+  },
+  {
+   "q": "Is dit al beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI noemt geen lanceerdatum of beschikbaarheid per land."
+  },
+  {
+   "q": "Wat kost het?",
+   "a": "Er zijn geen prijzen genoemd. Cisco verkoopt beveiliging meestal via bestaande contracten of aparte licenties."
+  }
+ ],
+ "slug": "cisco-versterkt-netwerkbeveiliging-met-openai-modellen",
+ "kind": "news",
+ "date": "2026-11-03",
+ "published": "2026-11-03T22:42",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "url": "https://openai.com/index/cisco-cyber"
+  }
+ ],
+ "path": "/nieuws/cisco-versterkt-netwerkbeveiliging-met-openai-modellen/",
+ "og": "/img/og/cisco-versterkt-netwerkbeveiliging-met-openai-modellen.png",
+ "take": "Cisco plakt OpenAI-modellen op zijn netwerk en noemt dat betere beveiliging, maar er staat nog geen enkel cijfer bij. Ik geloof zo'n koppeling pas als hij op een echt netwerk iets tegenhoudt wat zonder die modellen door was geglipt. Tot die tijd is dit een aankondiging en geen product."
+}

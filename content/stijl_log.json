@@ -4950,5 +4950,59 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-03T22:41:32",
+  "slug": "",
+  "title": "ChatGPT en Codex versnellen CAD en PCB-ontwerp voor ingenieurs",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-03T22:41:39",
+  "slug": "",
+  "title": "Netflix AI Discover raadt series aan op basis van thema's",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-03T22:41:49",
+  "slug": "",
+  "title": "Cisco versterkt netwerkbeveiliging met OpenAI-modellen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-03T22:41:59",
+  "slug": "",
+  "title": "Siri AI apps: Apple laat assistent werken in externe apps",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

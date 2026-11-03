@@ -1,0 +1,69 @@
+{
+ "keyword": "chatgpt cad ontwerpen",
+ "seo_title": "ChatGPT voor CAD en PCB: OpenAI versnelt engineering",
+ "title": "ChatGPT en Codex versnellen CAD en PCB-ontwerp voor ingenieurs",
+ "meta": "OpenAI zet ChatGPT en Codex in voor CAD, PCB-ontwerp en simulatie. Lees wat dit betekent voor ingenieurs en bedrijven in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "chatgpt",
+  "codex",
+  "engineering",
+  "cad",
+  "pcb"
+ ],
+ "intro": "OpenAI heeft een nieuwe focus aangekondigd: het versnellen van engineeringwerk voor de fysieke wereld. ChatGPT en Codex helpen ingenieurs bij taken zoals CAD-tekenen, PCB-ontwerp en simulaties. Dat meldt OpenAI in een eigen publicatie. Voor Nederlandse ingenieurs en maakbedrijven kan dat het ontwerpproces flink veranderen.",
+ "takeaways": [
+  "ChatGPT en Codex worden ingezet voor CAD, PCB-ontwerp en simulatie.",
+  "OpenAI richt zich met deze stap op ingenieurs die aan fysieke producten werken.",
+  "Het is nog niet bekend wanneer deze functies in Nederland beschikbaar komen.",
+  "De aankondiging komt van OpenAI zelf; onafhankelijke tests ontbreken nog."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI aankondigt",
+   "body": "OpenAI zegt dat ChatGPT en Codex ingenieurs helpen bij het versnellen van ontwerpwerk. Het gaat om CAD, PCB-ontwerp, simulatie en andere werkzaamheden in de fysieke wereld. De aankondiging is afkomstig van OpenAI zelf. Onafhankelijke details over de werking of beschikbaarheid zijn nog niet gepubliceerd.\n\nDe term CAD staat voor computer-aided design, oftewel ontwerpen met de computer. PCB staat voor printed circuit board, de printplaat waar elektronische componenten op zitten. Dit soort werk vraagt normaal veel handmatige stappen en controle. OpenAI positioneert zijn tools als hulpmiddel om die stappen sneller te doorlopen."
+  },
+  {
+   "heading": "Hoe ChatGPT en Codex ingenieurs helpen",
+   "body": "Volgens OpenAI ondersteunen de tools bij het opzetten en aanpassen van ontwerpen. Ook bij simulaties kunnen ze een rol spelen. Codex is het model dat OpenAI inzet voor programmeertaken; ChatGPT is de gespreksinterface die gebruikers kennen. De combinatie moet zorgen voor snellere iteraties in het ontwerpproces.\n\nConcreet betekent dit dat een ingenieur bijvoorbeeld een ontwerpvraag in gewone taal kan stellen. De tool kan vervolgens suggesties doen of code genereren voor een simulatie. OpenAI noemt geen specifieke klanten of cases. Het blijft voorlopig bij een algemene aankondiging."
+  },
+  {
+   "heading": "Wat dit betekent voor de Nederlandse maakindustrie",
+   "body": "Nederland heeft een sterke maakindustrie en veel engineeringbureaus. Denk aan de hightechsector rond Eindhoven en de maritieme industrie. Als deze tools het ontwerpwerk versnellen, kan dat de time-to-market verkorten. Voor mkb-bedrijven kan het interessant zijn om te experimenteren met ChatGPT en Codex zodra ze beschikbaar zijn.\n\nDe beschikbaarheid in Nederland en de EU is nog niet bekend. OpenAI heeft geen prijzen of releasedata genoemd. Ook is onduidelijk of de functies in het Nederlands werken. Bedrijven doen er goed aan om de officiële kanalen van OpenAI te volgen voor updates."
+  },
+  {
+   "heading": "Beperkingen en onzekerheden",
+   "body": "Er zijn nog geen onafhankelijke tests van deze engineeringfuncties. OpenAI geeft geen technische details over de nauwkeurigheid of betrouwbaarheid. Voor ingenieurs is precisie essentieel; een fout in een CAD-model of PCB kan grote gevolgen hebben. Het is daarom de vraag hoe OpenAI met die eisen omgaat.\n\nDaarnaast is niet duidelijk of de tools ontwerpen kunnen valideren volgens Nederlandse of Europese normen. Ook de integratie met bestaande software zoals AutoCAD of Altium wordt niet genoemd. Tot die duidelijkheid er is, blijft het bij een veelbelovende aankondiging."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ingenieurs en maakbedrijven kan deze stap van OpenAI interessant zijn, maar er is nog weinig concreet. De tools zijn nog niet beschikbaar in Nederland en er zijn geen prijzen bekend. Bedrijven die nu al met ChatGPT en Codex werken, kunnen de aankondiging volgen. Zodra de functies in Europa komen, kan dat het ontwerpproces bij mkb-bedrijven en grote engineeringbureaus beïnvloeden. Let wel op: de aankondiging komt van OpenAI zelf en is nog niet onafhankelijk getest.",
+ "faq": [
+  {
+   "q": "Wat kan ChatGPT doen voor CAD-ontwerp?",
+   "a": "Volgens OpenAI helpt ChatGPT bij het versnellen van CAD-werkzaamheden, zoals het opzetten en aanpassen van ontwerpen. Het is nog niet duidelijk welke specifieke functies beschikbaar komen."
+  },
+  {
+   "q": "Is Codex beschikbaar in Nederland?",
+   "a": "OpenAI heeft nog geen releasedatum of beschikbaarheid voor Nederland genoemd. Volg de officiële kanalen van OpenAI voor updates."
+  },
+  {
+   "q": "Wat is PCB-ontwerp precies?",
+   "a": "PCB staat voor printed circuit board, oftewel printplaat. Het ontwerpen daarvan is het uitwerken van de lay-out voor elektronische componenten."
+  }
+ ],
+ "slug": "chatgpt-en-codex-versnellen-cad-en-pcb-ontwerp-voor-ingenieurs",
+ "kind": "news",
+ "date": "2026-11-03",
+ "published": "2026-11-03T22:41",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Accelerating engineering for the physical world",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+  }
+ ],
+ "path": "/nieuws/chatgpt-en-codex-versnellen-cad-en-pcb-ontwerp-voor-ingenieurs/",
+ "og": "/img/og/chatgpt-en-codex-versnellen-cad-en-pcb-ontwerp-voor-ingenieurs.png",
+ "take": "Ik heb zelf geen ervaring met CAD of PCB-ontwerp, dus of dit echt werkt moet nog blijken. Mijn regel blijft: een demo is geen product. En oordeel nooit op dertig dagen data, kijk altijd naar twaalf tot achttien maanden en jaar-op-jaar voordat je ergens op afgaat."
+}
