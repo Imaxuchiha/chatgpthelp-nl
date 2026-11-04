@@ -1,0 +1,64 @@
+{
+ "keyword": "openai codex overname",
+ "seo_title": "OpenAI Codex overname: Pierre Computer Company erbij",
+ "title": "OpenAI lijft Pierre Computer Company in voor Codex",
+ "meta": "OpenAI neemt Pierre Computer Company over om Codex uit te breiden met hulpmiddelen voor het bouwen, begrijpen en beoordelen van code. Wat betekent dat in…",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "codex",
+  "overname",
+  "programmeren",
+  "ai-tools"
+ ],
+ "intro": "OpenAI neemt Pierre Computer Company over. Het bedrijf bouwt hulpmiddelen voor softwareontwikkeling en gaat Codex versterken. Codex is OpenAI's gereedschap voor het schrijven en controleren van code. De overname raakt vooral ontwikkelaars die met AI aan de slag zijn.",
+ "takeaways": [
+  "OpenAI kondigt de overname van Pierre Computer Company aan.",
+  "Pierre levert hulpmiddelen voor het bouwen, begrijpen en beoordelen van code.",
+  "Die hulpmiddelen worden onderdeel van Codex.",
+  "Het bedrag en de voorwaarden zijn niet bekendgemaakt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies koopt",
+   "body": "OpenAI maakte de overname bekend op 4 november 2026. Het gaat om Pierre Computer Company, Inc. Volgens OpenAI breidt de overname de mogelijkheden van Codex uit.\n\nCodex helpt ontwikkelaars code te schrijven, te doorgronden en te beoordelen. Pierre bouwt gereedschap voor precies dat werk. OpenAI noemt in de aankondiging drie taken: bouwen, begrijpen en reviewen van code.\n\nEen overnamebedrag noemt OpenAI niet. Ook over de voorwaarden en het aantal medewerkers dat meegaat, is niets naar buiten gebracht. Wie de eigenaren van Pierre zijn, blijkt niet uit de bron."
+  },
+  {
+   "heading": "Waarom codehulp populair is bij AI-bedrijven",
+   "body": "Programmeerwerk is een van de eerste plekken waar AI echt tijd bespaart. Ontwikkelaars laten code genereren, laten fouten opsporen en vragen om uitleg bij onbekende bestanden.\n\nVoor OpenAI is Codex een belangrijk product naast ChatGPT. Concurrenten bouwen vergelijkbare hulpmiddelen. Anthropic levert codefuncties via Claude, Google doet dat met Gemini en GitHub heeft Copilot.\n\nMet de overname koopt OpenAI dus niet alleen techniek. Het haalt ook kennis in huis van een team dat dit soort gereedschap dagelijks bouwt."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Over de prijs zegt OpenAI niets. Of Pierre als apart product blijft bestaan, is evenmin duidelijk. Ook een tijdpad voor de integratie in Codex ontbreekt.\n\nOntwikkelaars die Pierre nu gebruiken, weten dus nog niet wat er met hun account gebeurt. OpenAI heeft daar in de aankondiging geen uitspraken over gedaan.\n\nZulke vragen komen vaak pas later aan bod, als de overname is afgerond. Tot die tijd blijft het bij de aankondiging van vandaag."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en softwarebedrijven verandert er vandaag weinig aan hun gereedschap. Codex blijft beschikbaar via OpenAI, en de functies van Pierre komen daar op termijn bij. Bedrijven die Codex gebruiken voor code review of het lezen van bestaande code, kunnen dus extra mogelijkheden verwachten. Let wel op de Europese regels rond gegevensverwerking: wie code met klantgegevens door AI laat nakijken, moet weten waar die data wordt verwerkt. OpenAI heeft nog niet gezegd hoe de techniek van Pierre wordt ingepast en of dat gevolgen heeft voor opslag binnen de EU.",
+ "faq": [
+  {
+   "q": "Wat is Pierre Computer Company?",
+   "a": "Een bedrijf dat hulpmiddelen bouwt voor het maken, begrijpen en beoordelen van code. OpenAI neemt het over en voegt die techniek toe aan Codex."
+  },
+  {
+   "q": "Hoeveel betaalt OpenAI voor de overname?",
+   "a": "Dat is niet bekendgemaakt. OpenAI noemt geen bedrag en geeft ook geen voorwaarden."
+  },
+  {
+   "q": "Verandert er iets aan Codex voor gebruikers in Nederland?",
+   "a": "Op korte termijn niet. De functies van Pierre worden op termijn onderdeel van Codex, maar OpenAI heeft nog geen tijdpad gegeven."
+  }
+ ],
+ "slug": "openai-lijft-pierre-computer-company-in-voor-codex",
+ "kind": "news",
+ "date": "2026-11-04",
+ "published": "2026-11-04T19:50",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre"
+  }
+ ],
+ "path": "/nieuws/openai-lijft-pierre-computer-company-in-voor-codex/",
+ "og": "/img/og/openai-lijft-pierre-computer-company-in-voor-codex.png",
+ "take": "Een overname zegt me weinig tot ik zie wat ontwikkelaars ermee kunnen bouwen. OpenAI koopt hiermee vooral een visitekaartje, en een demo is nog geen product. Ik beoordeel zo'n stap pas na een jaar of anderhalf op mijn eigen werk, niet op de dag van de aankondiging."
+}

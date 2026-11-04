@@ -1,0 +1,70 @@
+{
+ "keyword": "chatgpt agent",
+ "seo_title": "ChatGPT agent: wat is het verschil met een chatbot?",
+ "title": "Wat is een AI-agent? Het verschil met een chatbot in gewone taal",
+ "meta": "ChatGPT agent: leer wat een AI-agent is en hoe hij verschilt van een chatbot. Praktisch uitgelegd met voorbeelden en stappen. Ontdek of jij er een nodig…",
+ "category": "uitleg",
+ "tags": [
+  "ai-agent",
+  "chatbot",
+  "chatgpt",
+  "uitleg",
+  "automatisering"
+ ],
+ "intro": "Een ChatGPT agent is een AI die zelfstandig taken uitvoert, terwijl een chatbot vooral antwoord geeft op vragen. Dat verschil merk je zodra je wilt dat AI iets voor je afmaakt in plaats van alleen tekst te leveren. Hieronder lees je hoe dat werkt en wat je ermee kunt.",
+ "takeaways": [
+  "Een chatbot reageert op berichten; een AI-agent zet stappen en gebruikt hulpmiddelen om een doel te bereiken.",
+  "ChatGPT kan in agentmodus taken uitvoeren, zoals informatie opzoeken en formulieren invullen, maar niet alles gaat automatisch.",
+  "Voor Nederlandse gebruikers is het belangrijk om te weten dat je agent toegang geeft tot externe systemen; dat vraagt om duidelijke afspraken.",
+  "Je hoeft geen programmeur te zijn om een agent te gebruiken, maar je moet wel precies kunnen uitleggen wat je wilt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat is een chatbot eigenlijk?",
+   "body": "Een chatbot is software die reageert op wat jij typt of zegt. Je stelt een vraag en krijgt een antwoord. Dat kan een simpele regel zijn of een uitgebreid gesprek zoals bij ChatGPT.\n\nChatbots zijn sterk in taal: uitleggen, samenvatten, brainstormen. Ze doen alleen iets als jij iets vraagt. Zonder jouw bericht gebeurt er niets. Dat maakt ze voorspelbaar en veilig, maar ook beperkt tot het gesprek.\n\nJe kunt een chatbot zien als een slimme gesprekspartner. Hij weet veel, maar hij onderneemt zelf geen actie."
+  },
+  {
+   "heading": "Wat is een AI-agent?",
+   "body": "Een AI-agent is een systeem dat een doel krijgt en daar zelf stappen voor bedenkt. Hij kan informatie zoeken, berekeningen doen, bestanden aanpassen of via een koppeling iets bestellen. Hij werkt met een plan en past dat aan als iets mislukt.\n\nHet verschil zit in zelfstandigheid. Een chatbot wacht op jouw volgende vraag. Een agent probeert het doel te bereiken, ook als de eerste poging niet lukt. Daarbij gebruikt hij hulpmiddelen, zoals een zoekfunctie of een agenda.\n\nIn gewone taal: een chatbot is een vraagbaak, een agent is een uitvoerder. Die uitvoerder heeft wel duidelijke grenzen nodig, anders gaat hij zijn eigen gang."
+  },
+  {
+   "heading": "Hoe werkt een ChatGPT agent in de praktijk?",
+   "body": "ChatGPT kan in bepaalde modi als agent werken. Je geeft dan een opdracht die uit meerdere stappen bestaat. De AI bedenkt welke stappen nodig zijn en voert ze uit. Soms moet je tussendoor toestemming geven, bijvoorbeeld voordat hij iets verstuurt of aankoopt.\n\nEen concreet voorbeeld: je wilt een overzicht van vrije vergaderruimtes in de buurt. Een chatbot geeft je tips hoe je kunt zoeken. Een agent kan zelf websites openen, tijden vergelijken en een shortlist maken. Het resultaat is een bruikbaar overzicht in plaats van een handleiding.\n\nOp het moment van schrijven is de agentfunctie van ChatGPT niet in alle landen en abonnementen hetzelfde. OpenAI breidt mogelijkheden geleidelijk uit. Nederland valt vaak onder de landen waar functies als eerste beschikbaar komen, maar controleer altijd je eigen account."
+  },
+  {
+   "heading": "Waar moet je op letten als je een agent gebruikt?",
+   "body": "Een agent krijgt toegang tot systemen en gegevens. Geef hem alleen rechten die nodig zijn voor de taak. Laat hem niet standaard je e-mail of bankzaken beheren.\n\nOmschrijf je doel precies. Een vage opdracht levert vage stappen op. Zeg wat het eindresultaat moet zijn, welke bronnen hij mag gebruiken en wanneer hij moet stoppen. Houd de regie: controleer tussenstappen voordat er iets definitiefs gebeurt.\n\nVerwacht geen perfectie. Agents kunnen fouten maken, verkeerde aannames doen of vastlopen. Test daarom eerst met een onschuldige taak, zoals het verzamelen van openingstijden van winkels."
+  },
+  {
+   "heading": "Zo zet je zelf een agent aan het werk",
+   "body": "Begin met een afgebakende opdracht. Formuleer het doel, de randvoorwaarden en het gewenste resultaat. Gebruik een voorbeeldprompt zoals: \"Je bent een onderzoeksassistent. Zoek de openingstijden van drie bouwmarkten in Utrecht die op zaterdag open zijn. Gebruik alleen hun eigen websites. Zet de tijden in een tabel en stop als je drie adressen hebt.\"\n\nGeef daarna aan wat de agent niet mag doen. Bijvoorbeeld: geen aankopen doen, geen gegevens delen en niet doorgaan als een website niet bereikbaar is. Zo houd je het overzichtelijk.\n\nKijk na afloop welke stappen zijn gezet. Alleen zo leer je waar de agent sterk is en waar hij hulp nodig heeft."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders betekent dit dat je AI niet alleen als vraagbaak kunt inzetten, maar ook voor taken die anders tijd kosten. Denk aan het verzamelen van informatie voor een werkstuk of het voorbereiden van een vergadering. Let wel op: de Europese regels voor AI (de AI-verordening) stellen eisen aan transparantie en verantwoordelijkheid. Als je een agent inzet voor klanten of personeel, blijf je zelf verantwoordelijk voor de uitkomst. In Nederland zijn er nog geen specifieke regels per beroepsgroep, dus werk met heldere interne afspraken.",
+ "faq": [
+  {
+   "q": "Wat is het verschil tussen een chatbot en een AI-agent?",
+   "a": "Een chatbot reageert op jouw berichten en wacht daarna weer. Een AI-agent krijgt een doel en onderneemt zelf stappen, met hulpmiddelen, om dat doel te bereiken."
+  },
+  {
+   "q": "Heb ik een ChatGPT-agent nodig?",
+   "a": "Als je alleen vragen wilt stellen of tekst wilt laten schrijven, is een chatbot genoeg. Wil je dat AI zelf informatie verzamelt of een proces doorloopt, dan is een agent handiger."
+  },
+  {
+   "q": "Is een AI-agent veilig?",
+   "a": "Veilig werken betekent dat je de rechten beperkt en tussenstappen controleert. Geef geen toegang tot gevoelige systemen zonder toezicht en test eerst met een kleine taak."
+  },
+  {
+   "q": "Kan een AI-agent fouten maken?",
+   "a": "Ja. Een agent kan verkeerde aannames doen of vastlopen. Controleer het resultaat altijd en zorg dat je kunt ingrijpen."
+  }
+ ],
+ "slug": "wat-is-een-ai-agent-het-verschil-met-een-chatbot-in-gewone-taal",
+ "kind": "evergreen",
+ "date": "2026-11-04",
+ "published": "2026-11-04T19:50",
+ "sources": [],
+ "path": "/uitleg/wat-is-een-ai-agent-het-verschil-met-een-chatbot-in-gewone-taal/",
+ "og": "/img/og/wat-is-een-ai-agent-het-verschil-met-een-chatbot-in-gewone-taal.png",
+ "seed": "Wat is een AI-agent? Het verschil met een chatbot in gewone taal"
+}

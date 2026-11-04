@@ -5004,5 +5004,59 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-04T19:50:41",
+  "slug": "",
+  "title": "OpenAI lijft Pierre Computer Company in voor Codex",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-04T19:50:51",
+  "slug": "",
+  "title": "Daybreak Red brengt GPT-5.6 Cyber naar AWS GovCloud",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-04T19:50:59",
+  "slug": "",
+  "title": "Porsche infotainment krijgt AI en Apple Music in 911 en Taycan",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-04T19:51:31",
+  "slug": "",
+  "title": "Wat is een AI-agent? Het verschil met een chatbot in gewone taal",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S4",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: studiedag plannen met terugwerkende kracht",
+ "situation": "Je wilt een studiedag of cursusdag aanvragen bij je werkgever, maar je weet niet hoe je die het beste onderbouwt. Deze prompt zet je argumenten op een rij en levert een kort verzoek op.",
+ "prompt": "Je bent HR-adviseur in Nederland en helpt mij een verzoek op te stellen voor een studiedag. Mijn situatie: ik werk als [FUNCTIE] bij [SOORT BEDRIJF] en wil op [DATUM] een dag vrij voor [NAAM CURSUS OF OPLEIDING]. Het onderwerp sluit aan bij mijn werk omdat [REDEN]. Mijn leidinggevende let vooral op [WAT JE CHEF BELANGRIJK VINDT, BIJV. TEAMDOELEN OF WERKDRUK]. Schrijf een kort verzoek van maximaal 200 woorden in zakelijke maar vriendelijke toon. Noem concreet wat ik na de cursus anders of beter doe op mijn werk, welke kosten er zijn (inschrijfgeld en eventuele reiskosten in euro's) en of het onder werktijd valt. Sluit af met een voorstel voor een kort overleg. Geef daarna drie mogelijke tegenargumenten van mijn leidinggevende met per punt een reactie van één zin.",
+ "tip": "Vul bij de reden een concreet voorbeeld in van een taak die je nu blijft uitstellen, dat maakt je verzoek veel sterker.",
+ "tags": [
+  "werk",
+  "studie",
+  "onderhandelen",
+  "prompt"
+ ],
+ "date": "2026-11-04",
+ "slug": "prompt-studiedag-plannen-met-terugwerkende-kracht",
+ "path": "/prompts/2026-11-04-prompt-studiedag-plannen-met-terugwerkende-kracht/"
+}

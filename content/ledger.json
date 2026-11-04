@@ -2595,6 +2595,18 @@
   "49792679d7": {
    "at": "2026-11-03T22:43:17.027454",
    "why": "ok"
+  },
+  "3a06f84c0f": {
+   "at": "2026-11-04T19:50:28.061466",
+   "why": "ok"
+  },
+  "75679f5aa6": {
+   "at": "2026-11-04T19:51:28.061466",
+   "why": "ok"
+  },
+  "e48740e394": {
+   "at": "2026-11-04T19:52:28.061466",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3046,6 +3058,9 @@
   "Netflix test AI Discover: aanbevelingen op thema",
   "ChatGPT en Codex versnellen CAD en PCB-ontwerp voor ingenieurs",
   "Cisco versterkt netwerkbeveiliging met OpenAI-modellen",
-  "Siri AI apps: Apple laat assistent werken in externe apps"
+  "Siri AI apps: Apple laat assistent werken in externe apps",
+  "OpenAI lijft Pierre Computer Company in voor Codex",
+  "Daybreak Red brengt GPT-5.6 Cyber naar AWS GovCloud",
+  "Porsche infotainment krijgt AI en Apple Music in 911 en Taycan"
  ]
 }
