@@ -1,0 +1,68 @@
+{
+ "keyword": "meta conductor overname",
+ "seo_title": "Meta conductor overname: AI-coding startup gekocht",
+ "title": "Meta koopt AI-coding startup Conductor",
+ "meta": "Meta neemt AI-coding startup Conductor over. Wat doet het bedrijf, waarom koopt Meta het en wat merken ontwikkelaars in Nederland ervan?",
+ "category": "nieuws",
+ "tags": [
+  "meta",
+  "ai-coding",
+  "overname",
+  "ontwikkelaars",
+  "agents"
+ ],
+ "intro": "Meta heeft het AI-bedrijf Conductor overgenomen. Conductor bouwt gereedschap waarmee programmeurs meerdere AI-agents tegelijk aan een project laten werken. De overname werd op 4 november 2026 gemeld door TechCrunch. Voor ontwikkelaars is het een teken dat grote techbedrijven steeds dieper in het programmeerwerk stappen.",
+ "takeaways": [
+  "Meta neemt Conductor over, een startup voor AI-ondersteund programmeren.",
+  "Conductor laat teams van agents tegelijk aan verschillende delen van een project werken.",
+  "Financiële details van de deal zijn niet bekendgemaakt.",
+  "De overname past bij de bredere wedloop om AI-tools voor softwareontwikkeling."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Conductor doet",
+   "body": "Conductor richt zich op softwareontwikkelaars. Het gereedschap laat hen teams van AI-agents inzetten. Die agents werken tegelijk aan verschillende onderdelen van hetzelfde project.\n\nDat is anders dan de meeste codeertools, waarbij je één assistent vragen stelt. Bij Conductor verdeel je het werk over meerdere agents. Elk exemplaar pakt een eigen stuk op, bijvoorbeeld het schrijven van code, het testen of het nalopen van fouten.\n\nTechCrunch omschrijft het bedrijf als een startup voor AI-coding. Meer details over de techniek achter het product geeft de bron niet."
+  },
+  {
+   "heading": "Waarom Meta dit wil",
+   "body": "Meta bouwt al langer aan AI voor ontwikkelaars. Een overname als deze geeft het bedrijf extra kennis en mensen in huis. Volgens TechCrunch gaat het om een overname van een AI-coding startup.\n\nDe markt voor programmeertools met AI groeit. Bedrijven als OpenAI, Anthropic en Google hebben eigen assistenten voor code. Meta wil daar niet bij achterblijven.\n\nOver de prijs van de deal zegt de bron niets. Ook is niet bekend hoeveel medewerkers van Conductor meegaan naar Meta."
+  },
+  {
+   "heading": "Wat het betekent voor ontwikkelaars",
+   "body": "Voor programmeurs verandert er op korte termijn weinig. Conductor blijft voorlopig een apart product, tenzij Meta anders besluit. Daarover geeft de bron geen uitsluitsel.\n\nWel zegt de overname iets over de richting. Grote bedrijven zien agents die samenwerken als de volgende stap in AI-programmeren. Wie nu met losse assistenten werkt, krijgt mogelijk vaker tools waarbij meerdere agents tegelijk aan de slag gaan.\n\nOf dat het werk echt sneller maakt, is per project verschillend. De bron noemt geen cijfers over prestaties of tijdsbesparing."
+  },
+  {
+   "heading": "Nog veel onduidelijk",
+   "body": "Verschillende vragen blijven open. TechCrunch meldt de overname, maar geeft geen bedrag. Ook ontbreekt een tijdlijn voor de integratie.\n\nHet is nog niet bekend of Conductor in Nederland en de rest van Europa beschikbaar blijft. Meta heeft daar niets over gezegd in de bron.\n\nMeer nieuws over de gevolgen voor bestaande gebruikers volgt mogelijk later. Tot die tijd geldt: de aankondiging is er, de details nog niet."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en softwarebedrijven is dit vooral een signaal. Grote spelers kopen steeds vaker AI-tools voor code op. Dat kan betekenen dat je op termijn vaker met agents van Meta te maken krijgt, bijvoorbeeld via bestaande Meta-diensten. Of Conductor zelf in Nederland beschikbaar blijft, is nog niet bekend. Bedrijven die nu al met AI-assistenten programmeren, doen er goed aan de markt in de gaten te houden. De overname zegt niets over prijzen of voorwaarden voor Europese gebruikers.",
+ "faq": [
+  {
+   "q": "Wat doet Conductor precies?",
+   "a": "Conductor maakt gereedschap waarmee programmeurs teams van AI-agents tegelijk aan verschillende onderdelen van een softwareproject laten werken."
+  },
+  {
+   "q": "Hoeveel heeft Meta betaald voor Conductor?",
+   "a": "Dat is niet bekendgemaakt. TechCrunch meldt de overname, maar noemt geen bedrag."
+  },
+  {
+   "q": "Blijft Conductor beschikbaar in Nederland?",
+   "a": "Dat is nog niet duidelijk. Meta heeft in de bron niets gezegd over beschikbaarheid in Nederland of Europa."
+  }
+ ],
+ "slug": "meta-koopt-ai-coding-startup-conductor",
+ "kind": "news",
+ "date": "2026-11-04",
+ "published": "2026-11-04T22:50",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Meta acquires AI coding startup Conductor",
+   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+  }
+ ],
+ "path": "/nieuws/meta-koopt-ai-coding-startup-conductor/",
+ "og": "/img/og/meta-koopt-ai-coding-startup-conductor.png",
+ "take": "Meta koopt een club die meerdere AI-agents tegelijk aan code laat werken, en dat is een strategie-aankondiging, geen product dat ik morgen in mijn handen heb. Ik heb Claude Code zelf dagelijks aan het werk en dat stuurt gewoon mijn bestanden en scripts aan, dus ik weet wat er komt kijken voordat zoiets echt bruikbaar is. Eerst een demo zien draaien op mijn eigen accounts, dan praten we verder."
+}

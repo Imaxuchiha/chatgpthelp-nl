@@ -2607,6 +2607,26 @@
   "e48740e394": {
    "at": "2026-11-04T19:52:28.061466",
    "why": "ok"
+  },
+  "49cf82dfae": {
+   "at": "2026-11-04T22:48:46.203445",
+   "why": "ok"
+  },
+  "bb779f39a6": {
+   "at": "2026-11-04T22:48:46.203445",
+   "why": "ok"
+  },
+  "f0b7a0f715": {
+   "at": "2026-11-04T22:49:46.203445",
+   "why": "ok"
+  },
+  "a1e153edc1": {
+   "at": "2026-11-04T22:50:46.203445",
+   "why": "high-risk"
+  },
+  "d23caa9886": {
+   "at": "2026-11-04T22:50:46.203445",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3061,6 +3081,9 @@
   "Siri AI apps: Apple laat assistent werken in externe apps",
   "OpenAI lijft Pierre Computer Company in voor Codex",
   "Daybreak Red brengt GPT-5.6 Cyber naar AWS GovCloud",
-  "Porsche infotainment krijgt AI en Apple Music in 911 en Taycan"
+  "Porsche infotainment krijgt AI en Apple Music in 911 en Taycan",
+  "Open source AI groeit: Hugging Face legt uit wie eraan verdient",
+  "Steam raakt vol AI-kloongames: wat Valve doet en wat het gamemakers kost",
+  "Meta koopt AI-coding startup Conductor"
  ]
 }

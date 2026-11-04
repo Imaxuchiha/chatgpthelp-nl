@@ -1,0 +1,68 @@
+{
+ "keyword": "open source ai",
+ "seo_title": "Open source AI groeit: Hugging Face over kosten en risico's",
+ "title": "Open source AI groeit: Hugging Face legt uit wie eraan verdient",
+ "meta": "Open source AI wordt populairder bij bedrijven en overheden. Hugging Face legt uit waar de kosten, risico's en verdiensten zitten.",
+ "category": "nieuws",
+ "tags": [
+  "open source ai",
+  "hugging face",
+  "ai-modellen",
+  "kosten",
+  "beleid"
+ ],
+ "intro": "Open source AI-modellen worden steeds vaker gebruikt door bedrijven, overheden en start-ups. Volgens TechCrunch kiezen zij voor lagere kosten, meer controle en meer flexibiliteit. Hugging Face licht in een podcast toe waar de winst dan wel zit.",
+ "takeaways": [
+  "Open source modellen winnen terrein bij bedrijven, overheden en start-ups.",
+  "Lagere kosten, meer controle en flexibiliteit zijn de belangrijkste redenen.",
+  "Hugging Face bespreekt in een podcast hoe bedrijven waarde halen uit open modellen.",
+  "Chinese open modellen groeien, wat druk zet op Amerikaanse spelers."
+ ],
+ "sections": [
+  {
+   "heading": "Waarom open source AI aan populariteit wint",
+   "body": "Steeds meer organisaties bouwen op open source AI-modellen. TechCrunch meldt dat bedrijven, overheden en start-ups daarbij letten op lagere kosten, meer controle en meer flexibiliteit. Die drie voordelen wegen zwaar bij de keuze voor een model.\n\nTegelijk wordt het lastiger om geld te verdienen aan modellen die vrij beschikbaar zijn. Hugging Face, een bekend platform voor open modellen, gaat daar in een podcast dieper op in. De centrale vraag: hoe vangen bedrijven waarde als het model zelf gratis is?"
+  },
+  {
+   "heading": "Kosten, risico's en afwegingen",
+   "body": "De beleidschef van Hugging Face bespreekt in dezelfde podcast de kosten, risico's en afwegingen van bouwen op open source AI. Wat je bespaart aan licenties, geef je mogelijk uit aan eigen beheer en beveiliging. Ook de kwaliteit en betrouwbaarheid van een model spelen mee.\n\nTechCrunch noemt verder de opkomst van Chinese open modellen. Die winnen terrein, en de vraag is of Amerikaanse spelers dat tempo bijhouden. Concrete cijfers over marktaandelen of kosten noemen de bronnen niet."
+  },
+  {
+   "heading": "Wie verdient er eigenlijk aan",
+   "body": "Bij open modellen zit de verdienste vaak niet in het model zelf. Bedrijven kunnen geld verdienen met diensten eromheen, zoals beheer, aanpassing en ondersteuning. De bronnen noemen geen specifieke bedragen of bedrijven die dit al doen.\n\nDuidelijk is wel dat de belofte van lagere kosten en meer controle organisaties over de streep trekt. Of dat op lange termijn ook financieel uitpakt, blijft vooralsnog open."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en overheidsorganisaties betekent dit een extra optie naast commerciële modellen zoals ChatGPT of Gemini. Een open model kan aantrekkelijk zijn als je data het land niet uit mag of als je kosten wilt drukken. Let wel op de Europese AI-verordening: ook bij open modellen blijf je verantwoordelijk voor hoe je het systeem inzet. Reken daarnaast op eigen werk aan beveiliging en beheer.",
+ "faq": [
+  {
+   "q": "wat is open source ai precies",
+   "a": "Dat zijn AI-modellen waarvan de bouwstenen vrij beschikbaar zijn. Je kunt ze zelf draaien en aanpassen, vaak zonder licentiekosten."
+  },
+  {
+   "q": "is open source ai gratis",
+   "a": "Het model zelf vaak wel, maar beheer, beveiliging en aanpassing kosten geld en tijd. De totale rekening kan daardoor anders uitvallen."
+  },
+  {
+   "q": "mag ik open source ai zakelijk gebruiken in Nederland",
+   "a": "Dat hangt af van de licentie van het model en je toepassing. Onder de Europese AI-verordening blijf je verantwoordelijk voor het gebruik."
+  }
+ ],
+ "slug": "open-source-ai-groeit-hugging-face-legt-uit-wie-eraan-verdient",
+ "kind": "news",
+ "date": "2026-11-04",
+ "published": "2026-11-04T22:48",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Open source AI is booming. Hugging Face explains who profits.",
+   "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
+  },
+  {
+   "name": "TechCrunch",
+   "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+   "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
+  }
+ ],
+ "path": "/nieuws/open-source-ai-groeit-hugging-face-legt-uit-wie-eraan-verdient/",
+ "og": "/img/og/open-source-ai-groeit-hugging-face-legt-uit-wie-eraan-verdient.png"
+}

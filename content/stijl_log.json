@@ -5058,5 +5058,43 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-04T22:48:57",
+  "slug": "",
+  "title": "Open source AI groeit: Hugging Face legt uit wie eraan verdient",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-04T22:49:06",
+  "slug": "",
+  "title": "Steam raakt vol AI-kloongames: wat Valve doet en wat het gamemakers kost",
+  "kind": "news",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-04T22:49:15",
+  "slug": "",
+  "title": "Meta koopt AI-coding startup Conductor",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
