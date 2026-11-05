@@ -1,0 +1,68 @@
+{
+ "keyword": "performance max budget producten",
+ "seo_title": "Performance Max budget naar producten: zo stuur je bij",
+ "title": "Performance Max: je budget verdwijnt buiten je feed",
+ "meta": "Performance Max budget naar producten: 24,4% ging naar producten, de rest verdween in display en video. Zo grijp je in als adverteerder.",
+ "category": "mening",
+ "tags": [
+  "Performance Max",
+  "Google Ads",
+  "Shopping",
+  "budget",
+  "e-commerce"
+ ],
+ "intro": "Ik zie het elke maand bij klanten: Performance Max vreet budget, maar niet waar jij het wilt. Bij een Britse campagne ging maar 24,4% van het budget naar producten. De rest verdween in display, video en zoekverkeer buiten de feed. Duizenden euro's in twee weken. Dat is geld verbranden.",
+ "takeaways": [
+  "Controleer altijd welk aandeel van je PMax-budget naar producten gaat.",
+  "Een feed met veel niet-verkopers trekt budget naar de verkeerde producten.",
+  "Meer budget verhoogt vaak alleen de kosten per conversie, niet het volume."
+ ],
+ "sections": [
+  {
+   "heading": "24,4% naar producten: waar blijft de rest?",
+   "body": "Die Britse campagne was een schoolvoorbeeld. Performance Max belooft alleskanalen, maar de verdeling is vaak scheef. 24,4% naar producten, de rest naar display, video en zoekverkeer buiten de feed. In twee weken duizenden euro's weg.\n\nIk heb het account doorgelicht. De feed bevatte duizenden designs, maar ongeveer een kwart was ooit verkocht. Toch ging 83% van het budget naar designs die nooit verkochten. GA4 kende 85% van de winnaars; Google Ads kende er maar een fractie van.\n\nDat is het probleem: PMax optimaliseert op signalen die jij niet ziet. Het systeem denkt dat het goed bezig is, maar de data vertelt iets anders."
+  },
+  {
+   "heading": "Feedlabels die plotseling leeg zijn",
+   "body": "Een andere klant had zijn bestsellers netjes gelabeld in Shopify. De campagne mocht alleen die tonen. Na een hersynchronisatie tussen Shopify en Merchant Center stonden de labels op duizenden producten ineens leeg.\n\nNiemand kreeg een melding. De campagne adverteerde daardoor met alles, ook met producten die nooit verkochten. Pas toen de kosten stegen en de conversies daalden, zag ik het in de rapportage.\n\nCheck dus na elke sync je labels. Een klein technisch foutje kan je hele strategie om zeep helpen."
+  },
+  {
+   "heading": "Budget verhogen is geen strategie",
+   "body": "Een klant dacht: meer budget, meer aanvragen. Hij verhoogde zelf het dagbudget van Performance Max van ongeveer 21 naar 46 euro.\n\nDe kosten per aanvraag gingen van zo'n 37 naar 66 euro. De extra uitgaven leverden vrijwel geen extra aanvragen op. Meer geld in een slecht ingestelde campagne maakt het alleen maar duurder.\n\nAI kan niet toveren. Het werkt met de data die je geeft. Zijn je metingen slecht of je feed vervuild, dan optimaliseert het systeem vol overtuiging de verkeerde kant op."
+  },
+  {
+   "heading": "Wat je morgen moet doen",
+   "body": "Kijk eerst waar je budget naartoe gaat. In Google Ads zie je per campagne de verdeling over netwerken. Staat er minder dan de helft op Shopping? Dan is er werk aan de winkel.\n\nControleer je feed. Welk percentage van je producten is ooit verkocht? Gebruik GA4 om je echte winnaars te vinden en sluit de rest uit of label ze apart.\n\nZet een melding op je labels. Na elke sync tussen Shopify en Merchant Center check je of de labels nog kloppen. Kost je vijf minuten, bespaart je duizenden euro's.\n\nEn verhoog nooit zomaar je budget. Eerst meten, dan pas schalen. Een dagbudget van 21 naar 46 euro zonder data is gokken."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse webshops is dit extra relevant. De marges zijn hier vaak krapper dan in de VS of het VK. Elke euro die naar display of video gaat zonder conversie, is een euro die je niet aan je beste producten besteedt. Gebruik je Shopify, controleer dan wekelijks de koppeling met Merchant Center. En kijk in GA4 welke producten echt verkopen. Google Ads ziet maar een fractie van die data. Jij wel.",
+ "faq": [
+  {
+   "q": "Hoe zie ik welk deel van mijn PMax-budget naar producten gaat?",
+   "a": "In Google Ads open je de campagne en kijk je naar de rapportage per netwerk. Daar zie je de verdeling over Shopping, display, video en zoekpartners."
+  },
+  {
+   "q": "Waarom verkoopt mijn PMax-campagne niets?",
+   "a": "Vaak ligt het aan je feed of je conversiemeting. Als de data niet klopt, optimaliseert het systeem op ruis. Check eerst je feed en je conversiedoelen."
+  },
+  {
+   "q": "Is Performance Max wel geschikt voor mijn webshop?",
+   "a": "Alleen als je feed schoon is en je conversies goed meet. Zonder die basis is het een dure gok. Begin met een klein budget en schaal pas als de cijfers kloppen."
+  }
+ ],
+ "lessons_used": [
+  "Les pmax-buiten-feed",
+  "Les spend-naar-nooit-verkopers",
+  "Les hersync-wist-labels",
+  "Les budget-verhogen-niets"
+ ],
+ "slug": "performance-max-je-budget-verdwijnt-buiten-je-feed",
+ "kind": "practice",
+ "date": "2026-11-05",
+ "published": "2026-11-05T12:08",
+ "sources": [],
+ "path": "/mening/performance-max-je-budget-verdwijnt-buiten-je-feed/",
+ "og": "/img/og/performance-max-je-budget-verdwijnt-buiten-je-feed.png",
+ "lesson": "pmax-buiten-feed",
+ "author": "Maxim"
+}

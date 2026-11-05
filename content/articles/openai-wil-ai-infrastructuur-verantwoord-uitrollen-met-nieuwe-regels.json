@@ -1,0 +1,64 @@
+{
+ "keyword": "openai ai-infrastructuur",
+ "seo_title": "OpenAI ai-infrastructuur: nieuwe regels voor rekencentra",
+ "title": "OpenAI wil ai-infrastructuur verantwoord uitrollen met nieuwe regels",
+ "meta": "OpenAI presenteert een Community Compact en een beleidsblauwdruk voor rekencentra. Lees wat dit betekent voor omwonenden, banen en Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "rekencentra",
+  "ai-infrastructuur",
+  "beleid",
+  "datacenters"
+ ],
+ "intro": "OpenAI heeft twee voorstellen gepubliceerd voor de bouw van ai-infrastructuur. Het bedrijf noemt ze de National Community Compact en de Compute Campus Policy Blueprint. Volgens OpenAI moeten die lokale voorzieningen beschermen, werk opleveren en de groei van rekenkracht in goede banen leiden.",
+ "takeaways": [
+  "OpenAI komt met een National Community Compact voor afspraken met omwonenden.",
+  "De Compute Campus Policy Blueprint moet richting geven aan de bouw van rekencentra.",
+  "OpenAI noemt bescherming van lokale hulpbronnen en werkgelegenheid als doelen.",
+  "Concrete cijfers, locaties en termijnen staan nog niet in de aankondiging."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies aankondigt",
+   "body": "OpenAI heeft twee documenten naar buiten gebracht. De eerste is de National Community Compact. Dat is een set afspraken over hoe het bedrijf omgaat met de gemeenschappen waar het rekencentra neerzet.\n\nDe tweede is de Compute Campus Policy Blueprint. Die blauwdruk beschrijft hoe OpenAI vindt dat de bouw van grote ai-locaties geregeld moet worden. Het bedrijf zegt daarbij te letten op lokale hulpbronnen, zoals water en stroom.\n\nBeide voorstellen komen van OpenAI zelf. Het gaat dus om eigen richtlijnen, nog geen wetgeving van een overheid."
+  },
+  {
+   "heading": "Waarom rekencentra gevoelig liggen",
+   "body": "Ai-modellen draaien op grote hoeveelheden computers. Die staan in rekencentra, ook wel datacenters genoemd. Zulke gebouwen vragen veel elektriciteit en koeling.\n\nOmwonenden maken zich daarom vaak zorgen over stroomnet, watergebruik en geluid. OpenAI zegt met de voorstellen die zorgen serieus te nemen. Het bedrijf koppelt de bouw aan werkgelegenheid in de regio.\n\nHoe groot die banen zijn en om welke functies het gaat, maakt de aankondiging niet duidelijk. Ook over investeringsbedragen zegt OpenAI niets."
+  },
+  {
+   "heading": "Wat er nog ontbreekt",
+   "body": "De aankondiging blijft op hoofdlijnen. Er zijn geen locaties genoemd, geen aantallen rekencentra en geen planning. Of de compact juridisch bindend is, wordt niet uitgelegd.\n\nOok is onbekend hoe toezicht eruitziet. Een gemeente of provincie zal willen weten wie controleert of afspraken worden nageleefd. OpenAI geeft daar in de bekendmaking nog geen antwoord op.\n\nMeer details zijn nog niet bekend."
+  }
+ ],
+ "nl_angle": "Nederland worstelt al langer met de vraag waar grote datacenters mogen staan. Provincies en gemeenten stellen eisen aan stroom, water en ruimte. De voorstellen van OpenAI zeggen alleen iets over hoe het bedrijf zelf wil werken. Ze vervangen geen Nederlandse regels. Bouwt OpenAI of een partner hier een rekencentrum, dan blijft het vergunningtraject bij de overheid liggen. Bedrijven en omwonenden kunnen de documenten wel gebruiken als checklist bij gesprekken over zo'n locatie.",
+ "faq": [
+  {
+   "q": "Wat is de National Community Compact van OpenAI?",
+   "a": "Dat is een set afspraken van OpenAI over de omgang met gemeenschappen rond zijn rekencentra. Het bedrijf noemt bescherming van lokale hulpbronnen en werkgelegenheid als doelen."
+  },
+  {
+   "q": "Gaan er datacenters van OpenAI naar Nederland?",
+   "a": "Dat is niet bekend. De aankondiging noemt geen locaties of landen."
+  },
+  {
+   "q": "Zijn deze regels verplicht?",
+   "a": "Nee. Het zijn voorstellen van OpenAI zelf, geen wetgeving. Of ze bindend worden, is nog niet duidelijk."
+  }
+ ],
+ "slug": "openai-wil-ai-infrastructuur-verantwoord-uitrollen-met-nieuwe-regels",
+ "kind": "news",
+ "date": "2026-11-05",
+ "published": "2026-11-05T12:08",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+  }
+ ],
+ "path": "/nieuws/openai-wil-ai-infrastructuur-verantwoord-uitrollen-met-nieuwe-regels/",
+ "og": "/img/og/openai-wil-ai-infrastructuur-verantwoord-uitrollen-met-nieuwe-regels.png",
+ "take": "OpenAI presenteert een blauwdruk voor de omgeving en regelt daarmee de vergunning. Mijn punt blijft: de bouw mag van mij, de knoppen over geld en stroom blijven bij mensen. AI doet het rekenwerk, een mens drukt op de knop."
+}

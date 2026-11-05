@@ -2627,6 +2627,18 @@
   "d23caa9886": {
    "at": "2026-11-04T22:50:46.203445",
    "why": "ok"
+  },
+  "f935675761": {
+   "at": "2026-11-05T12:08:16.030089",
+   "why": "ok"
+  },
+  "3020f7286d": {
+   "at": "2026-11-05T12:09:16.030089",
+   "why": "ok"
+  },
+  "aa3b92b87c": {
+   "at": "2026-11-05T12:10:16.030089",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3084,6 +3096,9 @@
   "Porsche infotainment krijgt AI en Apple Music in 911 en Taycan",
   "Open source AI groeit: Hugging Face legt uit wie eraan verdient",
   "Steam raakt vol AI-kloongames: wat Valve doet en wat het gamemakers kost",
-  "Meta koopt AI-coding startup Conductor"
+  "Meta koopt AI-coding startup Conductor",
+  "OpenAI wil ai-infrastructuur verantwoord uitrollen met nieuwe regels",
+  "Nothing brengt eerste AI-gadget in december op de markt",
+  "Apple ai budget: minder geld voor interne AI-tools"
  ]
 }

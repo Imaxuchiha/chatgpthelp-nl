@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: klacht over je sportschool opstellen",
+ "situation": "Je wilt van je sportschoolcontract af of je bent ontevreden over de gang van zaken. Met deze prompt zet je je klacht en je eis helder op papier.",
+ "prompt": "Je bent jurist consumentenrecht en helpt mij een klacht te schrijven aan mijn sportschool. Context: ik heb een jaarabonnement bij [NAAM SPORTSCHOOL] in [PLAATS] en wil opzeggen per [GEWENSTE EINDDATUM]. De reden: [REDEN, BIJV. VERHUIZING, PRIJSVERHOGING OF GEEN REACTIE OP MIJN EERDERE MAIL]. Mijn abonnement kost [BEDRAG] euro per maand en loopt tot [EINDDATUM CONTRACT]. Ik heb al [WAT JE AL DEED, BIJV. GEBELD OP DIE EN DIE DATUM] geprobeerd. Schrijf een zakelijke klachtmail van maximaal 250 woorden. Structuur: aanleiding, wat ik heb geprobeerd, mijn eis (opzegging per genoemde datum en stopzetting van de incasso), en een termijn van 14 dagen om te reageren. Noem de Wet van Dam als dat past bij een stilzwijgende verlenging. Toon: vriendelijk maar duidelijk. Sluit af met een voorbeeld van hoe ik dit per e-mail verstuur.",
+ "tip": "Vul bij REDEN concrete data en bedragen in, dan wordt de mail veel sterker.",
+ "tags": [
+  "klacht",
+  "sportschool",
+  "opzeggen",
+  "consumentenrecht"
+ ],
+ "date": "2026-11-05",
+ "slug": "prompt-klacht-over-je-sportschool-opstellen",
+ "path": "/prompts/2026-11-05-prompt-klacht-over-je-sportschool-opstellen/"
+}

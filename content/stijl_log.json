@@ -5096,5 +5096,65 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-05T12:08:29",
+  "slug": "",
+  "title": "OpenAI wil ai-infrastructuur verantwoord uitrollen met nieuwe regels",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-05T12:08:36",
+  "slug": "",
+  "title": "Nothing brengt eerste AI-gadget in december op de markt",
+  "kind": "news",
+  "rood": [
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-05T12:08:46",
+  "slug": "",
+  "title": "Apple ai budget: minder geld voor interne AI-tools",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-05T12:09:36",
+  "slug": "",
+  "title": "Performance Max: je budget verdwijnt buiten je feed",
+  "kind": "column",
+  "rood": [
+   "S6"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-05T12:09:50",
+  "slug": "",
+  "title": "Performance Max: je budget verdwijnt buiten je feed",
+  "kind": "column",
+  "rood": [
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
