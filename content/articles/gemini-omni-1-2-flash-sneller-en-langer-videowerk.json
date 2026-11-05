@@ -1,0 +1,69 @@
+{
+ "keyword": "gemini omni 1.2 flash",
+ "seo_title": "Gemini Omni 1.2 Flash: sneller en langer videowerk",
+ "title": "Gemini Omni 1.2 Flash: sneller en langer videowerk",
+ "meta": "Gemini Omni 1.2 Flash is er: sneller en goedkoper video genereren met langere clips. Wat Google aankondigt en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "gemini",
+  "google deepmind",
+  "ai-video",
+  "videogeneratie",
+  "prijzen"
+ ],
+ "intro": "Google heeft Gemini Omni 1.2 Flash aangekondigd, een sneller en goedkoper model voor videogeneratie. Het model maakt langere clips dan voorheen. DeepMind en Google noemen snelheid en kosten de kern van de release.",
+ "takeaways": [
+  "Gemini Omni 1.2 Flash is sneller en goedkoper dan eerdere versies, meldt Google DeepMind.",
+  "Het model maakt langere videoclips, aldus de aankondiging van Google.",
+  "Google toont voorbeelden met een bijenkorf, pratende dieren, een inktvis en een wandelende vrouw.",
+  "Prijzen in euro's en beschikbaarheid in Nederland zijn nog niet bekendgemaakt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Google aankondigt",
+   "body": "Google DeepMind bracht op 5 november een blog uit over Gemini Omni 1.2 Flash. De titel zegt het al: snel en voordelig, met langere clips. Het model valt onder de Gemini-familie en richt zich op het maken van video met AI.\n\nOp het Google-blog staat de aankondiging onder de titel Introducing Gemini Omni 1.2 Flash. Daar staan beelden om de tekst heen: een bijenkorf, dieren in gesprek, een inktvis en een vrouw die over straat loopt. Die beelden laten zien wat het model volgens Google kan maken.\n\nVeel details geven de bronnen niet. Over de precieze lengte van de clips, de resolutie of het aantal frames per seconde staat niets in de aangeleverde teksten. Ook een releasedatum voor Nederland ontbreekt."
+  },
+  {
+   "heading": "Sneller en goedkoper: wat dat betekent",
+   "body": "De nadruk op snelheid en kosten is logisch. Videogeneratie met AI vreet rekenkracht. Een model dat per clip minder rekentijd nodig heeft, is voor ontwikkelaars aantrekkelijker om in producten te stoppen.\n\nVoor bedrijven telt de prijs per seconde video. Google noemt het model kosteneffectief, zonder bedragen te noemen. Wat een clip straks kost in euro's, is dus nog niet duidelijk. Dat maakt het lastig om te bepalen of het voor kleine Nederlandse bedrijven interessant is.\n\nLangere clips zijn praktisch. Korte fragmenten van een paar seconden zijn beperkt bruikbaar voor promotiefilms of uitlegvideo's. Meer lengte geeft makers ruimte voor een scène die ergens over gaat."
+  },
+  {
+   "heading": "Voor wie is dit bedoeld",
+   "body": "De aankondiging staat op het ontwikkelaarsblog van Google. Dat wijst op een model voor bouwers van apps en tools, eerder dan voor eindgebruikers die zelf een video willen maken. Ontwikkelaars kunnen het model via een interface aanroepen en in hun eigen product verwerken.\n\nVoor de gewone gebruiker in Nederland verandert er vandaag weinig zichtbaars. Gemini is hier beschikbaar, maar of Omni 1.2 Flash in de Nederlandse versie komt en wanneer, staat niet in de bronnen.\n\nOok de Europese regels spelen mee. AI-video moet in de EU voldoen aan regels voor transparantie en herkenbaarheid. Google zegt daar in deze aankondiging niets over."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders is er nog geen concrete prijs of lanceerdatum. Wat je wel kunt volgen: of het model in de Europese Gemini-omgeving opduikt en tegen welk tarief. Bedrijven die AI-video willen inzetten, doen er goed aan eerst de kosten per clip en de EU-regels rond herkenbare AI-beelden te checken. Zolang Google geen europrijzen noemt, blijft een rekensom lastig.",
+ "faq": [
+  {
+   "q": "Wat is Gemini Omni 1.2 Flash?",
+   "a": "Een nieuw model van Google voor videogeneratie. Volgens Google DeepMind is het sneller en goedkoper dan eerdere versies en maakt het langere clips."
+  },
+  {
+   "q": "Is Gemini Omni 1.2 Flash beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. De bronnen noemen geen lanceerdatum of beschikbaarheid per land."
+  },
+  {
+   "q": "Wat kost Gemini Omni 1.2 Flash?",
+   "a": "Google noemt het model kosteneffectief, maar noemt geen bedragen. Prijzen in euro's zijn nog niet gepubliceerd."
+  }
+ ],
+ "slug": "gemini-omni-1-2-flash-sneller-en-langer-videowerk",
+ "kind": "news",
+ "date": "2026-11-05",
+ "published": "2026-11-05T19:56",
+ "sources": [
+  {
+   "name": "Google DeepMind",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+  },
+  {
+   "name": "Google (The Keyword)",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+  }
+ ],
+ "path": "/nieuws/gemini-omni-1-2-flash-sneller-en-langer-videowerk/",
+ "og": "/img/og/gemini-omni-1-2-flash-sneller-en-langer-videowerk.png",
+ "take": "Sneller en goedkoper video genereren klinkt leuk, maar Google verkoopt hier een demo als product. Ik bouw mijn video's liever zelf met Remotion via Claude Code, dan klopt de tekst tenminste pixel voor pixel. Eerst zien dat zo'n model op een echt account iets oplevert, dan praten we verder."
+}

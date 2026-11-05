@@ -5156,5 +5156,43 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-05T19:56:29",
+  "slug": "",
+  "title": "Gemini Omni 1.2 Flash: sneller en langer videowerk",
+  "kind": "news",
+  "rood": [
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-05T19:56:39",
+  "slug": "",
+  "title": "GPT-6 Cyber: OpenAI's nieuwe AI-model voor cybersecurity",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-05T19:56:48",
+  "slug": "",
+  "title": "AI eiwitstructuur: Claude bepaalt vorm van mysterieus celtonnetje",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S5",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

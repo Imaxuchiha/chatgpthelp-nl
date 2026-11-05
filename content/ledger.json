@@ -2639,6 +2639,22 @@
   "aa3b92b87c": {
    "at": "2026-11-05T12:10:16.030089",
    "why": "ok"
+  },
+  "003a6dd08e": {
+   "at": "2026-11-05T19:56:16.194658",
+   "why": "ok"
+  },
+  "d7e9e3e89e": {
+   "at": "2026-11-05T19:56:16.194658",
+   "why": "ok"
+  },
+  "53c56afbaf": {
+   "at": "2026-11-05T19:57:16.194658",
+   "why": "ok"
+  },
+  "0264808b24": {
+   "at": "2026-11-05T19:58:16.194658",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3099,6 +3115,9 @@
   "Meta koopt AI-coding startup Conductor",
   "OpenAI wil ai-infrastructuur verantwoord uitrollen met nieuwe regels",
   "Nothing brengt eerste AI-gadget in december op de markt",
-  "Apple ai budget: minder geld voor interne AI-tools"
+  "Apple ai budget: minder geld voor interne AI-tools",
+  "Gemini Omni 1.2 Flash: sneller en langer videowerk",
+  "GPT-6 Cyber: OpenAI's nieuwe AI-model voor cybersecurity",
+  "AI eiwitstructuur: Claude bepaalt vorm van mysterieus celtonnetje"
  ]
 }
