@@ -5194,5 +5194,69 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-05T22:55:22",
+  "slug": "",
+  "title": "GPT-6 Cyber: OpenAI's nieuwe AI voor softwarebeveiliging",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-05T22:55:30",
+  "slug": "",
+  "title": "Meta Muse AI-avatar laat Amerikaanse gebruikers videobellen",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-05T22:55:38",
+  "slug": "",
+  "title": "OpenAI cybersecurity model uit: wat het doet en wat nog ontbreekt",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-05T22:55:46",
+  "slug": "",
+  "title": "ChatGPT Images 2.6 maakt nu ook gifjes in de app",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-05T22:55:54",
+  "slug": "",
+  "title": "Claude kan je bankrekening koppelen via Plaid",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

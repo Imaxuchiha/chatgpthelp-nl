@@ -2655,6 +2655,30 @@
   "0264808b24": {
    "at": "2026-11-05T19:58:16.194658",
    "why": "ok"
+  },
+  "756e24e3f5": {
+   "at": "2026-11-05T22:55:09.679771",
+   "why": "poort"
+  },
+  "3c0e84566a": {
+   "at": "2026-11-05T22:55:09.679771",
+   "why": "ok"
+  },
+  "2e06a7a163": {
+   "at": "2026-11-05T22:56:09.679771",
+   "why": "high-risk"
+  },
+  "ec73671ce5": {
+   "at": "2026-11-05T22:56:09.679771",
+   "why": "ok"
+  },
+  "13edca9468": {
+   "at": "2026-11-05T22:57:09.679771",
+   "why": "poort"
+  },
+  "f49d817c3f": {
+   "at": "2026-11-05T22:57:09.679771",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3118,6 +3142,9 @@
   "Apple ai budget: minder geld voor interne AI-tools",
   "Gemini Omni 1.2 Flash: sneller en langer videowerk",
   "GPT-6 Cyber: OpenAI's nieuwe AI-model voor cybersecurity",
-  "AI eiwitstructuur: Claude bepaalt vorm van mysterieus celtonnetje"
+  "AI eiwitstructuur: Claude bepaalt vorm van mysterieus celtonnetje",
+  "Meta Muse AI-avatar laat Amerikaanse gebruikers videobellen",
+  "OpenAI cybersecurity model uit: wat het doet en wat nog ontbreekt",
+  "Claude kan je bankrekening koppelen via Plaid"
  ]
 }

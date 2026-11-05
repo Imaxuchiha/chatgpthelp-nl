@@ -1,0 +1,64 @@
+{
+ "keyword": "claude bankrekening koppelen",
+ "seo_title": "Claude bankrekening koppelen: zo werkt Personal Finance",
+ "title": "Claude kan je bankrekening koppelen via Plaid",
+ "meta": "Claude krijgt een Personal Finance-functie die via Plaid aan je bank- en creditcardrekeningen koppelt. Dit betekent het voor je privacy en geldzaken in…",
+ "category": "nieuws",
+ "tags": [
+  "claude",
+  "anthropic",
+  "plaid",
+  "persoonlijke financien",
+  "privacy"
+ ],
+ "intro": "Anthropic heeft een nieuwe functie voor Claude aangekondigd: Personal Finance. Daarmee koppel je de chatbot aan je bank- en creditcardrekeningen via het platform Plaid. Je kunt Claude dan bijvoorbeeld vragen waar je geld deze maand naartoe ging, meldt The Verge.",
+ "takeaways": [
+  "Claude krijgt een Personal Finance-functie die via Plaid aan bank- en kaartrekeningen koppelt.",
+  "Je kunt de chatbot vragen om een overzicht van je uitgaven, zoals waar je geld deze maand bleef.",
+  "Plaid is een Amerikaans platform dat banken met apps verbindt; de precieze werking in Nederland is nog niet bekend.",
+  "Anthropic heeft nog geen prijs of releasedatum voor Nederland genoemd."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de functie doet",
+   "body": "Met Personal Finance koppel je Claude aan je betaal- en creditcardrekeningen. Dat gebeurt via Plaid, een dienst die bankgegevens doorgeeft aan andere apps. Volgens The Verge kun je de chatbot daarna vragen stellen over je uitgaven.\n\nEen voorbeeld dat de bron noemt: de vraag waar je geld deze maand naartoe ging. Claude zet dat om in een overzicht. Je hoeft dus niet zelf door je afschriften te scrollen.\n\nHoe het overzicht er precies uitziet, is nog niet duidelijk. The Verge schrijft dat Claude een overzicht maakt, zonder details over de vorm."
+  },
+  {
+   "heading": "Wat Plaid is",
+   "body": "Plaid is een Amerikaans bedrijf dat als tussenlaag tussen banken en apps werkt. Je logt in via Plaid en geeft zo een app toegang tot je rekeninggegevens. De app krijgt daarbij je wachtwoord niet te zien.\n\nDeze methode is in de Verenigde Staten gangbaar. In Europa gelden strengere regels voor toegang tot betaalrekeningen, met onder meer sterke klantauthenticatie. Of Plaid die Nederlandse en Europese eisen kan volgen, maakt de bron niet duidelijk.\n\nAnthropic heeft nog niet gezegd of Personal Finance in Nederland beschikbaar komt."
+  },
+  {
+   "heading": "Wat het kost en wanneer het komt",
+   "body": "Over de prijs zegt Anthropic volgens The Verge nog niets. Ook een releasedatum voor Europa ontbreekt. De aankondiging gaat over de functie zelf, niet over een uitrol per land.\n\nClaude is in Nederland te gebruiken, ook in het Nederlands. Of de koppeling met Nederlandse banken werkt, is nog niet bekend. Een abonnement op Claude kost geld; de Personal Finance-functie kan daar bovenop komen of onderdeel zijn van een bestaand abonnement."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders telt vooral de vraag of je je betaalrekening aan een AI-chatbot wilt hangen. Europese regels eisen sterke beveiliging bij toegang tot betaalrekeningen, dus een Amerikaanse koppeling als Plaid is hier niet automatisch toegestaan. Wil je dit straks gebruiken, let dan op welke banken meedoen en welke gegevens Anthropic bewaart. Je bankafschriften bevatten veel persoonlijke informatie, van je huur tot je boodschappen. Zolang Anthropic geen duidelijkheid geeft over Nederland, blijft het bij een aankondiging uit de Verenigde Staten.",
+ "faq": [
+  {
+   "q": "Kan ik Claude aan mijn Nederlandse bankrekening koppelen?",
+   "a": "Dat is nog niet bekend. Anthropic heeft de functie aangekondigd, maar zegt niets over beschikbaarheid of ondersteunde banken in Nederland."
+  },
+  {
+   "q": "Wat is Plaid?",
+   "a": "Plaid is een Amerikaans platform dat apps toegang geeft tot bankgegevens zonder dat je je wachtwoord deelt. Het werkt als tussenlaag tussen bank en app."
+  },
+  {
+   "q": "Wat kost Personal Finance van Claude?",
+   "a": "Een prijs heeft Anthropic nog niet genoemd. Ook een releasedatum voor Europa ontbreekt."
+  }
+ ],
+ "slug": "claude-kan-je-bankrekening-koppelen-via-plaid",
+ "kind": "news",
+ "date": "2026-11-05",
+ "published": "2026-11-05T22:57",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Claude AI can plug directly into your bank account",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+  }
+ ],
+ "path": "/nieuws/claude-kan-je-bankrekening-koppelen-via-plaid/",
+ "og": "/img/og/claude-kan-je-bankrekening-koppelen-via-plaid.png",
+ "take": "Mijn bankrekening aan een chatbot hangen, dat ga ik niet doen. Zo'n koppeling kost je privacy en levert mij geen euro op die ik kan aanwijzen. Ik betaal liever voor gereedschap dat direct tijd terugverdient, zoals Claude Code waarmee ik mijn hele administratie laat draaien."
+}
