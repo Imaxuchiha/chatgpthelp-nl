@@ -2727,6 +2727,26 @@
   "91f8d419f4": {
    "at": "2026-11-06T19:24:30.527360",
    "why": "ok"
+  },
+  "b651efc2ea": {
+   "at": "2026-11-06T22:26:51.543422",
+   "why": "high-risk"
+  },
+  "ba55e8c51d": {
+   "at": "2026-11-06T22:26:51.543422",
+   "why": "poort"
+  },
+  "c0641eb0de": {
+   "at": "2026-11-06T22:26:51.543422",
+   "why": "ok"
+  },
+  "29c568495a": {
+   "at": "2026-11-06T22:27:51.543422",
+   "why": "ok"
+  },
+  "7c70b636a2": {
+   "at": "2026-11-06T22:28:51.543422",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3199,6 +3219,9 @@
   "Claude kan nu je bankrekening inzien en transacties analyseren",
   "OpenAI werkt met Hacktron aan het vinden van kwetsbaarheden",
   "Meta Muse AI laat je eigen ruimtes bouwen in de app",
-  "AI dating apps: AI wordt steeds vaker een dealbreaker"
+  "AI dating apps: AI wordt steeds vaker een dealbreaker",
+  "AI datacenters zorgen voor strijd om stroom en overlast",
+  "Artex AI-hacktools: honderden servers openbaar bereikbaar",
+  "AI-uitgaven stagneren net nu Anthropic naar de beurs gaat"
  ]
 }

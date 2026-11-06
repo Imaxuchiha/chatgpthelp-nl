@@ -1,0 +1,68 @@
+{
+ "keyword": "artex ai hacktools",
+ "seo_title": "Artex AI-hacktools: honderden servers openbaar bereikbaar",
+ "title": "Artex AI-hacktools: honderden servers openbaar bereikbaar",
+ "meta": "Onderzoekers vonden honderden servers met de Artex-hacktool open op internet. Lees wat dit betekent voor bedrijven en gebruikers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "artex",
+  "beveiliging",
+  "hacktools",
+  "pentesting",
+  "dataprivacy"
+ ],
+ "intro": "Beveiligingsonderzoekers hebben honderden servers gevonden waarop de penetratietool Artex draait. Die servers zijn vanaf internet bereikbaar, meldt TechCrunch. Iedereen kan daardoor bij de hacktool komen. Dat is riskant, ook voor organisaties in Nederland.",
+ "takeaways": [
+  "Honderden servers met de Artex-hacktool stonden open en bloot op internet.",
+  "De tool is bedoeld voor penetratietests, maar is nu voor iedereen toegankelijk.",
+  "TechCrunch meldt dat onderzoekers de blootstelling hebben gevonden.",
+  "Of Nederlandse organisaties getroffen zijn, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat is Artex precies",
+   "body": "Artex is een tool voor penetratietests. Beveiligingsteams gebruiken zulke software om in te breken in hun eigen systemen. Zo zien ze waar zwakke plekken zitten voordat een aanvaller die vindt.\n\nHet probleem zit in de installatie. Honderden servers met Artex waren vanaf het openbare internet te bereiken. Volgens TechCrunch kon daardoor iedereen bij de tool. Een wachtwoord of toegangscontrole lijkt niet overal te werken.\n\nDat maakt de tool zelf een doelwit. Wie toegang krijgt, kan dezelfde software gebruiken om andere systemen aan te vallen. De onderzoekers noemen de blootstelling daarom zorgelijk."
+  },
+  {
+   "heading": "Waarom open servers gevaarlijk zijn",
+   "body": "Een hacktool op een open server is een cadeau voor kwaadwillenden. Ze hoeven zelf niets te bouwen. Ze loggen in en gebruiken de rekenkracht en de functies van een ander.\n\nDe eigenaar merkt daar weinig van. Veel organisaties weten niet eens dat zo'n testserver nog aanstaat. Zulke servers blijven vaak draaien na een project of een proefopstelling.\n\nTechCrunch schrijft niet hoeveel servers precies open stonden. Ook is niet duidelijk welke organisaties eigenaar zijn. De onderzoekers hebben hun bevindingen gedeeld, maar details over de melding ontbreken."
+  },
+  {
+   "heading": "Wat je zelf kunt controleren",
+   "body": "Heb je zelf een testomgeving met beveiligingstools? Zet die nooit rechtstreeks op internet. Gebruik een apart netwerk of een beveiligde verbinding.\n\nControleer daarnaast welke servers nog actief zijn. Ruim oude testopstellingen op. Dat scheelt stroom en voorkomt dit soort lekken.\n\nVoor bedrijven met een eigen securityteam is het verstandig om te checken of Artex ergens draait. TechCrunch noemt geen lijst met getroffen adressen. Zonder die lijst blijft het lastig om te zien of jouw organisatie erbij zit."
+  },
+  {
+   "heading": "Nog veel onduidelijk",
+   "body": "Het is niet bekend of de servers inmiddels zijn afgesloten. Ook is er geen informatie over misbruik. Of aanvallers de tool al hebben gebruikt, staat niet in het bericht.\n\nDe onderzoekers hebben hun vondst gemeld bij de betrokken partijen. TechCrunch geeft geen reactie van de makers van Artex. Vragen daarover blijven voorlopig open."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en instellingen is dit een waarschuwing om eigen testservers na te lopen. Veel organisaties huren externe partijen in voor penetratietests. Vraag na afloop of die omgeving echt is opgeruimd. Onder de Europese NIS2-regels moeten veel organisaties hun digitale weerbaarheid op orde hebben. Een openstaande hacktool past daar niet bij. Of er Nederlandse servers tussen zitten, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is de Artex-hacktool?",
+   "a": "Artex is software voor penetratietests. Beveiligingsteams gebruiken het om hun eigen systemen te testen op zwakke plekken."
+  },
+  {
+   "q": "Hoeveel servers stonden open?",
+   "a": "TechCrunch spreekt van honderden servers. Een exact aantal noemt het bericht niet."
+  },
+  {
+   "q": "Moet ik me zorgen maken als Nederlander?",
+   "a": "Alleen als jouw organisatie zelf met Artex werkt of zo'n testomgeving heeft. Controleer of die servers bereikbaar zijn vanaf internet."
+  }
+ ],
+ "slug": "artex-ai-hacktools-honderden-servers-openbaar-bereikbaar",
+ "kind": "news",
+ "date": "2026-11-06",
+ "published": "2026-11-06T22:27",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+  }
+ ],
+ "path": "/nieuws/artex-ai-hacktools-honderden-servers-openbaar-bereikbaar/",
+ "og": "/img/og/artex-ai-hacktools-honderden-servers-openbaar-bereikbaar.png",
+ "take": "Een hacktool die honderden keren open en bloot op internet staat, daar word ik niet warm van. Ik beoordeel elke tool op wat hij oplevert en deze levert vooral risico op voor de eigenaar. Mijn geldknoppen blijven bij een mens, en bij beveiliging geldt dat net zo hard."
+}

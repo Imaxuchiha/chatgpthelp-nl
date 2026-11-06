@@ -1,0 +1,64 @@
+{
+ "keyword": "ai-uitgaven stagneren",
+ "seo_title": "AI-uitgaven stagneren richting beursgang Anthropic",
+ "title": "AI-uitgaven stagneren net nu Anthropic naar de beurs gaat",
+ "meta": "Uitgavendata van Ramp tonen dat AI-gebruik groeit maar de bestedingen stokken. Wat dat betekent voor Anthropic en voor bedrijven in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "anthropic",
+  "ai-uitgaven",
+  "beursgang",
+  "openai",
+  "bedrijven"
+ ],
+ "intro": "Het gebruik van AI stijgt nog steeds, maar de uitgaven eraan blijven achter. Dat blijkt uit betaaldata van het Amerikaanse Ramp, meldt TechCrunch. De timing is opvallend: Anthropic maakt zich op voor zijn beursgang. Prijsverlagingen en zuiniger kostenbeheer bij grote afnemers zetten de aannames over snelle groei van de AI-markt onder druk.",
+ "takeaways": [
+  "Uitgaven aan AI stokken terwijl het gebruik blijft groeien, volgens data van Ramp",
+  "Prijsverlagingen en betere kostencontrole bij grote afnemers remmen de omzetgroei",
+  "Anthropic nadert zijn beursgang, waardoor beleggers extra letten op groeicijfers",
+  "TechCrunch zegt dat de data vragen oproepen bij aannames over snelle groei van AI"
+ ],
+ "sections": [
+  {
+   "heading": "Gebruik groeit, rekening niet",
+   "body": "Steeds meer mensen en teams werken met AI. Toch geven ze daar niet evenredig meer aan uit. Ramp ziet dat in zijn betaalgegevens: het verbruik loopt op, de bestedingen blijven hangen.\n\nDat patroon zegt iets over hoe bedrijven met AI omgaan. Eerst ging het om uitproberen en licenties afnemen. Nu kijken afnemers naar de rekening en schrappen ze wat weinig oplevert.\n\nTechCrunch baseert zich op Ramp, een Amerikaans platform dat bedrijfsbetalingen verwerkt. De cijfers geven daardoor een beeld van wat organisaties feitelijk afrekenen, niet van wat ze van plan zijn."
+  },
+  {
+   "heading": "Prijsverlagingen drukken de omzet",
+   "body": "Aanbieders verlagen hun prijzen om klanten te houden. Ook grote afnemers letten scherper op hun kosten en zetten het verbruik van AI strakker af. Beide bewegingen remmen de omzet, ook als het aantal gebruikers groeit.\n\nVoor investeerders is dat een lastig signaal. Zij rekenen vaak op snelle groei van de AI-markt. De Ramp-data zet vraagtekens bij dat beeld, aldus TechCrunch.\n\nHoeveel omzet de grote AI-bedrijven precies draaien, maken de bronnen niet duidelijk. Concrete bedragen noemt TechCrunch niet."
+  },
+  {
+   "heading": "Beursgang Anthropic in zicht",
+   "body": "Anthropic, het bedrijf achter Claude, nadert zijn beursgang. Precies in die fase komt het nieuws over stokkende uitgaven binnen. Beleggers kijken bij zo'n stap naar groei en naar de vraag of klanten blijven betalen.\n\nEen trager stijgende besteding maakt de beursgang spannender. Het bedrijf moet laten zien dat klanten niet alleen veel gebruiken, maar ook veel blijven afrekenen.\n\nWanneer de beursgang precies plaatsvindt, is nog niet bekend. Ook over de waardering zegt TechCrunch niets."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven betekent dit vooral dat de rekening van AI nu telt. Veel organisaties hier gebruiken ChatGPT, Claude of Copilot via een teamabonnement en betalen per gebruiker of per verbruik. Als leveranciers hun prijzen verlagen, kun je contracten opnieuw bekijken. Let daarbij op wat je echt gebruikt en zeg ongebruikte licenties op. Voor beleggers in Nederland die via een broker willen instappen bij de beursgang van Anthropic: wacht op de officiële cijfers. De Europese regels voor AI-gebruik veranderen daar niets aan; het gaat hier om kosten, niet om wetgeving.",
+ "faq": [
+  {
+   "q": "Waarom stokken de AI-uitgaven terwijl het gebruik groeit?",
+   "a": "Volgens de data van Ramp verlagen aanbieders hun prijzen en letten grote afnemers scherper op hun kosten. Daardoor groeit het verbruik wel, maar de besteding minder hard mee."
+  },
+  {
+   "q": "Wat betekent dit voor de beursgang van Anthropic?",
+   "a": "Beleggers letten bij een beursgang op groei en op blijvende betalingen van klanten. Trager stijgende uitgaven maken die cijfers belangrijker. Een datum of waardering is nog niet bekend."
+  },
+  {
+   "q": "Moet ik als Nederlands bedrijf nu mijn AI-abonnementen herzien?",
+   "a": "Het loont om te kijken wat je echt gebruikt. Zeg licenties op die weinig worden gebruikt en vergelijk tarieven, zeker nu aanbieders hun prijzen verlagen."
+  }
+ ],
+ "slug": "ai-uitgaven-stagneren-net-nu-anthropic-naar-de-beurs-gaat",
+ "kind": "news",
+ "date": "2026-11-06",
+ "published": "2026-11-06T22:28",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+  }
+ ],
+ "path": "/nieuws/ai-uitgaven-stagneren-net-nu-anthropic-naar-de-beurs-gaat/",
+ "og": "/img/og/ai-uitgaven-stagneren-net-nu-anthropic-naar-de-beurs-gaat.png",
+ "take": "Prijsverlagingen en zuiniger kostenbeheer zijn geen teken dat AI minder waard wordt, het is de rekening die eindelijk klopt. Ik koop zelf liever een goedkope API dan het duurste abonnement, want een tool moet zijn geld terugverdienen en niet alleen mooi staan in een pitch. Anthropic mag van mij best naar de beurs, maar beleggers kopen daar een verhaal over groei terwijl bedrijven gewoon op de centen letten."
+}

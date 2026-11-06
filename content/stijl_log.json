@@ -5385,5 +5385,54 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-06T22:27:05",
+  "slug": "",
+  "title": "NASA toont X-70 Fractal: mysterieus AI-vliegtuig moet binnen twee jaar vliegen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-06T22:27:16",
+  "slug": "",
+  "title": "AI datacenters zorgen voor strijd om stroom en overlast",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-06T22:27:27",
+  "slug": "",
+  "title": "Artex AI-hacktools: honderden servers openbaar bereikbaar",
+  "kind": "news",
+  "rood": [],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-06T22:27:48",
+  "slug": "",
+  "title": "AI-uitgaven stagneren net nu Anthropic naar de beurs gaat",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
