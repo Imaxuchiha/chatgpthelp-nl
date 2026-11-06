@@ -5258,5 +5258,53 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-06T12:05:44",
+  "slug": "",
+  "title": "Airbnb werkt aan AI reisagent voor plannen en boeken",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-06T12:05:53",
+  "slug": "",
+  "title": "Algoritmeverbod voor jongeren stuit op verzet van Big Tech",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-06T12:06:03",
+  "slug": "",
+  "title": "Claude kan nu je bankrekening inzien en transacties analyseren",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-06T12:06:34",
+  "slug": "",
+  "title": "ChatGPT-abonnement opzeggen: zo stop je Plus of Pro en wat je houdt",
+  "kind": "evergreen",
+  "rood": [
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

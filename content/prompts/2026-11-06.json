@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: reiskosten declareren met bonnetjes",
+ "situation": "Gebruik dit als je een berg losse bonnetjes en ritten hebt en je declaratie netjes en compleet wilt indienen. Handig voor werk, vrijwilligerswerk of een vergoeding van je vereniging.",
+ "prompt": "Je bent een administratief medewerker die declaraties controleert. Ik lever een rommelige set reiskosten aan en wil dat je er een overzichtelijke declaratie van maakt.\n\nMijn gegevens:\n- Doel van de declaratie: [WERK, VRIJWILLIGERSWERK OF VERENIGING]\n- Regeling of afspraak: [BEDRAG PER KILOMETER OF VERGOEDING UIT EEN REGLEMENT]\n- Periode: [MAAND OF DATUMREEEKS]\n- Mijn ritten en kosten: [PLAK HIER JE LOSSE NOTITIES, BONNETJES EN BEDRAGEN]\n- Wat er al vergoed is: [BEDRAG OF GEEN]\n\nLever op:\n1. Een tabel met datum, omschrijving, kilometers of bedrag, en totaal per regel.\n2. Een eindtotaal en het bedrag dat ik nog tegoed heb.\n3. Een korte begeleidende mail aan [NAAM AFDELING OF PERSOON].\n4. Een lijstje met ontbrekende gegevens of bonnetjes die ik moet aanvullen.\n\nReken eerst en controleer daarna je eigen optelling. Noem bij twijfel wat je niet zeker weet.",
+ "tip": "Vraag om een aparte regel voor parkeerkosten en ov-tickets, dan zie je meteen wat vergoed wordt.",
+ "tags": [
+  "werk",
+  "administratie",
+  "declaratie",
+  "reiskosten"
+ ],
+ "date": "2026-11-06",
+ "slug": "prompt-reiskosten-declareren-met-bonnetjes",
+ "path": "/prompts/2026-11-06-prompt-reiskosten-declareren-met-bonnetjes/"
+}

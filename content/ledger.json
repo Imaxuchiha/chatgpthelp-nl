@@ -2679,6 +2679,22 @@
   "f49d817c3f": {
    "at": "2026-11-05T22:57:09.679771",
    "why": "ok"
+  },
+  "cc48f8093c": {
+   "at": "2026-11-06T12:05:32.790171",
+   "why": "ok"
+  },
+  "1eac7fe42e": {
+   "at": "2026-11-06T12:05:32.790171",
+   "why": "ok"
+  },
+  "aacceabebc": {
+   "at": "2026-11-06T12:06:32.790171",
+   "why": "ok"
+  },
+  "dc5f8aa2c4": {
+   "at": "2026-11-06T12:07:32.790171",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3145,6 +3161,9 @@
   "AI eiwitstructuur: Claude bepaalt vorm van mysterieus celtonnetje",
   "Meta Muse AI-avatar laat Amerikaanse gebruikers videobellen",
   "OpenAI cybersecurity model uit: wat het doet en wat nog ontbreekt",
-  "Claude kan je bankrekening koppelen via Plaid"
+  "Claude kan je bankrekening koppelen via Plaid",
+  "Airbnb werkt aan AI reisagent voor plannen en boeken",
+  "Algoritmeverbod voor jongeren stuit op verzet van Big Tech",
+  "Claude kan nu je bankrekening inzien en transacties analyseren"
  ]
 }

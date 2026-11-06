@@ -1,0 +1,68 @@
+{
+ "keyword": "claude bankrekening",
+ "seo_title": "Claude bankrekening: Anthropic koppelt AI aan je transacties",
+ "title": "Claude kan nu je bankrekening inzien en transacties analyseren",
+ "meta": "Claude van Anthropic krijgt toegang tot je persoonlijke bankrekening, net als ChatGPT. Lees wat dat betekent voor je privacy en geldzaken in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "claude",
+  "anthropic",
+  "chatgpt",
+  "privacy",
+  "bankieren"
+ ],
+ "intro": "Claude van Anthropic kan voortaan verbinding maken met je persoonlijke bankrekening. Daarmee krijgt de chatbot toegang tot je transacties, net als ChatGPT dat al kan. Bright meldt de nieuwe mogelijkheid op 6 november. Voor gebruikers in Nederland roept dat meteen de vraag op wat er met bankgegevens gebeurt.",
+ "takeaways": [
+  "Claude krijgt een koppeling met je persoonlijke bankrekening, vergelijkbaar met ChatGPT.",
+  "De chatbot kan daardoor je transacties analyseren.",
+  "Het is nog niet bekend welke banken in Nederland meedoen.",
+  "Ook niet duidelijk is of de functie hier al beschikbaar is."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Claude met je bankgegevens doet",
+   "body": "Claude is de chatbot van het Amerikaanse bedrijf Anthropic. Volgens Bright krijgt de assistent de optie om verbinding te leggen met een persoonlijke bankrekening. Die koppeling geeft het model inzicht in wat je uitgeeft en ontvangt.\n\nMet die gegevens kan Claude vragen beantwoorden over je uitgavenpatroon. Denk aan een overzicht van je abonnementen of een analyse van je maandelijkse kosten. Het gaat dus om hetzelfde soort functie dat ChatGPT al heeft.\n\nHoe de koppeling technisch werkt, maakt Bright niet duidelijk. Ook blijft open of je per bank toestemming geeft of via één algemene koppeling."
+  },
+  {
+   "heading": "ChatGPT deed het eerder",
+   "body": "OpenAI biedt vergelijkbare bankkoppelingen al aan voor ChatGPT. Anthropic volgt met Claude dus een pad dat concurrenten al hebben ingeslagen. Beide bedrijven zetten in op assistenten die meedenken over je persoonlijke financiën.\n\nVoor gebruikers betekent dat meer gemak. Je hoeft niet zelf je afschriften te doorzoeken. De keerzijde is dat je een commerciële partij toegang geeft tot gevoelige gegevens.\n\nHet is niet bekend of Anthropic de functie gefaseerd uitrolt of direct voor iedereen openzet."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Bright noemt geen prijs voor de functie. Ook is niet duidelijk of de bankkoppeling in het gratis abonnement zit of alleen bij een betaald plan hoort. Claude kent in Nederland betaalde abonnementen in euro's, maar of die iets veranderen aan deze optie, is onbekend.\n\nWelke Nederlandse banken meewerken, vermeldt de bron niet. Grote banken als ING, Rabobank en ABN AMRO hebben eigen regels voor het delen van betaalgegevens. Of zij een koppeling met Anthropic toestaan, is nog niet bevestigd.\n\nOok over de bewaartermijn van je transacties zegt Bright niets. Dat is juist het punt waar veel gebruikers op letten."
+  },
+  {
+   "heading": "Privacy en regels in Europa",
+   "body": "Bankgegevens vallen onder de Europese privacywet AVG. Een bedrijf mag die gegevens alleen verwerken met een duidelijke grondslag, meestal jouw toestemming. Je moet dus zelf akkoord gaan voordat Claude je afschriften ziet.\n\nIn Nederland houdt de Autoriteit Persoonsgegevens toezicht op zulke verwerkingen. Of Anthropic al aan de Europese eisen voldoet voor deze functie, is niet bekend. De bron gaat daar niet op in.\n\nPraktisch advies: deel alleen wat nodig is. Je kunt vaak een aparte rekening of een beperkte periode aanleveren in plaats van je volledige betaalgeschiedenis."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders is de belangrijkste vraag of de koppeling hier überhaupt werkt. Claude is in Nederland te gebruiken, maar bankkoppelingen lopen vaak via Amerikaanse diensten die Europese banken niet ondersteunen. Zolang geen Nederlandse bank is bevestigd, blijft de functie voor de meeste gebruikers hier vooral theorie. Wil je je transacties laten analyseren, dan moet je bovendien zelf toestemming geven onder de AVG. Let daarbij op welke gegevens je deelt en hoe lang die bewaard blijven.",
+ "faq": [
+  {
+   "q": "Kan Claude mijn bankrekening inzien?",
+   "a": "Volgens Bright krijgt Claude de mogelijkheid om te verbinden met een persoonlijke bankrekening. Of dat in Nederland werkt en bij welke banken, is nog niet bekend."
+  },
+  {
+   "q": "Is dit hetzelfde als bij ChatGPT?",
+   "a": "Ja, ChatGPT biedt al vergelijkbare bankkoppelingen aan. Anthropic volgt met Claude hetzelfde spoor."
+  },
+  {
+   "q": "Is mijn bankgegevens delen veilig?",
+   "a": "Dat hangt af van je toestemming en de bewaartermijn, die de bron niet noemt. Onder de AVG moet je zelf akkoord gaan voordat een partij je transacties verwerkt."
+  }
+ ],
+ "slug": "claude-kan-nu-je-bankrekening-inzien-en-transacties-analyseren",
+ "kind": "news",
+ "date": "2026-11-06",
+ "published": "2026-11-06T12:07",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Claude wil nu ook in je bankrekening kijken om je transacties te analyseren",
+   "url": "https://www.bright.nl/nieuws/2155774/claude-wil-nu-ook-in-je-bankrekening-kijken-om-je-transacties-te-analyseren.html"
+  }
+ ],
+ "path": "/nieuws/claude-kan-nu-je-bankrekening-inzien-en-transacties-analyseren/",
+ "og": "/img/og/claude-kan-nu-je-bankrekening-inzien-en-transacties-analyseren.png",
+ "take": "Claude die mijn transacties mag inzien, daar pas ik voor. Bij mij blijven de knoppen waar geld in het spel is bij een mens, en dat geldt dubbel voor een koppeling met mijn bank. Laat ze eerst maar bewijzen dat zo'n koppeling iets oplevert wat ik kan aanwijzen, anders is dit gewoon een deur extra in mijn administratie."
+}
