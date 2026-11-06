@@ -5306,5 +5306,84 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-06T19:22:44",
+  "slug": "",
+  "title": "OpenAI werkt met Hacktron aan het vinden van kwetsbaarheden",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-06T19:22:55",
+  "slug": "",
+  "title": "Slimme hoofdbanden trainen ai met jouw hersengolven",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-06T19:23:07",
+  "slug": "",
+  "title": "Anthropic ontwikkelt AI twee keer zo snel, bewijs blijft geheim",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-06T19:23:17",
+  "slug": "",
+  "title": "Meta Muse AI laat je eigen ruimtes bouwen in de app",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-06T19:23:23",
+  "slug": "",
+  "title": "Airbnb werkt aan AI-reisagent die je vakantie plant",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 2,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-06T19:23:35",
+  "slug": "",
+  "title": "AI dating apps: AI wordt steeds vaker een dealbreaker",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

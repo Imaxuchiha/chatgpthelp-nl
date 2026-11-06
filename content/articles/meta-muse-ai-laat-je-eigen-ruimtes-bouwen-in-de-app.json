@@ -1,0 +1,65 @@
+{
+ "keyword": "meta muse ai",
+ "seo_title": "Meta Muse AI: eigen ruimtes bouwen in de app",
+ "title": "Meta Muse AI laat je eigen ruimtes bouwen in de app",
+ "meta": "Meta Muse AI krijgt ruimtes: zelfgebouwde mini-apps voor shoppen, school of muziek. Lees wat de functie doet en wat hij betekent voor gebruikers in…",
+ "category": "nieuws",
+ "tags": [
+  "meta",
+  "muse",
+  "ai-assistent",
+  "ai-tools",
+  "ruimtes"
+ ],
+ "intro": "Meta geeft zijn AI-assistent Muse een nieuwe functie: ruimtes. Daarin bouwt Muse zelf een klein app-achtig onderdeel, zoals een winkeloverzicht of een muzieklijst. Volgens The Verge kun je zo'n ruimte direct in de app gebruiken en koppelen aan een bestaande app.",
+ "takeaways": [
+  "Muse kan binnen de app kleine, op maat gemaakte onderdelen bouwen die Meta spaces noemt.",
+  "Voorbeelden zijn een winkelhub, een schooldashboard, een muziektracker en een triviaspel.",
+  "Je kunt een ruimte verbinden met een relevante app, meldt The Verge.",
+  "Over prijzen, releasedatum en beschikbaarheid in Nederland is nog niets bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Meta met ruimtes bedoelt",
+   "body": "Muse is de AI-assistent van Meta. De nieuwe functie laat die assistent een soort mini-app maken voor een taak die je nu nodig hebt. The Verge noemt een winkelhub, een schooldashboard, een muziektracker en een triviaspel als voorbeelden.\n\nJe gebruikt zo'n ruimte binnen de Muse-app zelf. Het is dus geen losse app die je in een store downloadt. De ruimte past zich aan wat je op dat moment wilt doen, schrijft The Verge.\n\nKoppel je de ruimte aan een relevante app, dan kan Muse daar gegevens uit halen. Wat dat precies oplevert, maakt de bron niet duidelijk."
+  },
+  {
+   "heading": "Een assistent die zelf interfaces bouwt",
+   "body": "Meta zet met deze stap een richting neer die meer AI-bedrijven kiezen. De assistent geeft niet alleen antwoord, hij bouwt ook een scherm waarin je verder klikt. Dat scheelt stappen als je iets wilt bijhouden of vergelijken.\n\nVoor Meta is het ook een manier om gebruikers langer in de eigen app te houden. Een muziektracker of schooldashboard nodigt uit tot dagelijks gebruik. Of dat lukt, hangt af van hoe goed die ruimtes werken.\n\nThe Verge noemt geen technische details. Over de onderliggende modellen en de limieten per gebruiker is niets bekend."
+  },
+  {
+   "heading": "Wat nog open is",
+   "body": "Meta heeft niet gezegd wanneer ruimtes breed beschikbaar komen. Ook een prijs noemt de bron niet. Het is dus niet duidelijk of de functie gratis blijft of in een betaald abonnement terechtkomt.\n\nBeschikbaarheid in Europa is een apart punt. Meta bracht AI-functies in het verleden later of beperkter uit in de Europese Unie vanwege privacyregels. Of ruimtes hier meteen komen, is nog niet bekend.\n\nOok de vraag welke apps je kunt koppelen, blijft open. The Verge spreekt van een relevante app, zonder namen te noemen."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders verandert er nu weinig, want de functie is nog niet in ons land aangekondigd. Wie Muse al gebruikt, kan er op termijn mee werken zonder extra app te installeren. Bedrijven die een koppeling willen, moeten afwachten welke apps Meta toelaat. Let ook op de Europese regels rond persoonsgegevens: zodra een ruimte gegevens uit andere apps haalt, speelt de AVG mee.",
+ "faq": [
+  {
+   "q": "Wat zijn spaces in Meta Muse AI?",
+   "a": "Dat zijn kleine, app-achtige onderdelen die Muse voor je bouwt, zoals een winkeloverzicht of muzieklijst. Je gebruikt ze binnen de Muse-app zelf."
+  },
+  {
+   "q": "Is Meta Muse AI met ruimtes al beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. Meta heeft geen releasedatum of lijst met landen gegeven."
+  },
+  {
+   "q": "Kost een ruimte in Muse extra geld?",
+   "a": "Over de prijs zegt Meta niets in de bron. Of ruimtes gratis blijven of bij een abonnement horen, is dus nog open."
+  }
+ ],
+ "sections_note": null,
+ "slug": "meta-muse-ai-laat-je-eigen-ruimtes-bouwen-in-de-app",
+ "kind": "news",
+ "date": "2026-11-06",
+ "published": "2026-11-06T19:23",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+   "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
+  }
+ ],
+ "path": "/nieuws/meta-muse-ai-laat-je-eigen-ruimtes-bouwen-in-de-app/",
+ "og": "/img/og/meta-muse-ai-laat-je-eigen-ruimtes-bouwen-in-de-app.png",
+ "take": "Meta Muse bouwt straks je hele winkeloverzicht in de app, en dat klinkt leuk tot je vraagt wie dat onderhoudt. Ik kijk naar wat zo'n ruimte na een jaar nog oplevert, niet naar hoe soepel de eerste klik voelt. Mijn oordeel over dit soort functies komt pas na twaalf tot achttien maanden, met jaar-op-jaar ernaast."
+}
