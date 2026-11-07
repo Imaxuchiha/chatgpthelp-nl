@@ -5561,5 +5561,46 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-07T21:09:32",
+  "slug": "",
+  "title": "Anthropic beursgang wordt lastig door gekeerd AI-sentiment",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-07T21:09:41",
+  "slug": "",
+  "title": "AI-wetgeving VS: Democraten plannen veel nieuwe regels",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-07T21:09:50",
+  "slug": "",
+  "title": "Codex bij cult.fit: fitnessbedrijf bouwt eigen tools met AI",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

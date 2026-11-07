@@ -2783,6 +2783,18 @@
   "1b9119e805": {
    "at": "2026-11-07T18:00:44.236594",
    "why": "ok"
+  },
+  "c0851c43bd": {
+   "at": "2026-11-07T21:09:19.271595",
+   "why": "ok"
+  },
+  "0d5a7581e2": {
+   "at": "2026-11-07T21:10:19.271595",
+   "why": "ok"
+  },
+  "c88b52d0b2": {
+   "at": "2026-11-07T21:11:19.271595",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3264,6 +3276,9 @@
   "OpenAI meet hoe AI-agents omgaan met dagelijks labwerk",
   "AI cybersecurity: wat er veranderd is en wat nu telt",
   "Anthropic versnelt ai-ontwikkeling: METR-rapport baart onderzoekers zorgen",
-  "GTA VI AI-klonen zetten Rockstar onder tijdsdruk"
+  "GTA VI AI-klonen zetten Rockstar onder tijdsdruk",
+  "Anthropic beursgang wordt lastig door gekeerd AI-sentiment",
+  "AI-wetgeving VS: Democraten plannen veel nieuwe regels",
+  "Codex bij cult.fit: fitnessbedrijf bouwt eigen tools met AI"
  ]
 }

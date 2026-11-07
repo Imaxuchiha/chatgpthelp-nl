@@ -1,0 +1,68 @@
+{
+ "keyword": "codex cult.fit",
+ "seo_title": "Codex cult.fit: fitnessbedrijf bouwt eigen tools met AI",
+ "title": "Codex bij cult.fit: fitnessbedrijf bouwt eigen tools met AI",
+ "meta": "OpenAI meldt dat cult.fit Codex inzet om teams eigen tools te laten bouwen en sneller te werken. Wat betekent dat voor bedrijven in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "codex",
+  "cult.fit",
+  "ai op het werk",
+  "softwareontwikkeling"
+ ],
+ "intro": "Fitnessbedrijf cult.fit gebruikt Codex van OpenAI om teams in verschillende afdelingen zelf tools te laten bouwen. Dat moet het werk sneller maken en de manier van werken veranderen. OpenAI noemt cult.fit als voorbeeld van een bedrijf dat Codex breed inzet.",
+ "takeaways": [
+  "cult.fit zet Codex in bij teams in meerdere functies, volgens OpenAI",
+  "Medewerkers gebruiken Codex om eigen tools te bouwen",
+  "OpenAI zegt dat dit het werk sneller maakt",
+  "Er zijn geen details bekend over kosten, aantal gebruikers of resultaten"
+ ],
+ "sections": [
+  {
+   "heading": "Wat cult.fit met Codex doet",
+   "body": "Cult.fit is een fitnessbedrijf dat Codex gebruikt om teams in verschillende functies tools te laten maken. OpenAI noemt dat in een eigen bericht over de samenwerking. Het gaat dus om medewerkers die zelf iets bouwen, niet alleen om een vaste softwareafdeling.\n\nVolgens OpenAI helpt Codex die teams om sneller te werken. Het bedrijf zegt ook dat de manier waarop werk wordt gedaan verandert. Concrete voorbeelden van die tools noemt OpenAI niet in het bericht."
+  },
+  {
+   "heading": "Wat Codex precies is",
+   "body": "Codex is een hulpmiddel van OpenAI dat code kan schrijven en aanpassen. Je geeft in gewone taal door wat je wilt, en het systeem zet dat om in programmeerwerk. Het is daarmee een van de producten naast ChatGPT.\n\nVoor bedrijven betekent dat vooral dit: iemand zonder jarenlange programmeerervaring kan toch een klein intern hulpmiddel laten bouwen. Of dat in de praktijk goed gaat, hangt af van controle en testen. OpenAI geeft in het bericht over cult.fit geen cijfers over fouten of kwaliteit."
+  },
+  {
+   "heading": "Waarom OpenAI dit voorbeeld deelt",
+   "body": "OpenAI publiceert vaker verhalen over bedrijven die zijn producten gebruiken. Zulke verhalen dienen als bewijs dat de tools in de praktijk werken. Voor OpenAI is dat nuttig bij de verkoop aan andere organisaties.\n\nHet bericht over cult.fit blijft wel globaal. Er staan geen aantallen bij, geen prijzen en geen namen van teams. Wie wil weten wat Codex oplevert, krijgt uit dit verhaal weinig harde gegevens."
+  },
+  {
+   "heading": "Wat nog niet bekend is",
+   "body": "Over de kosten voor cult.fit is niets naar buiten gebracht. Ook is niet duidelijk hoeveel medewerkers Codex gebruiken en of het bedrijf betaalt per gebruiker of via een zakelijk abonnement.\n\nOpenAI noemt geen resultaten in tijdswinst of geld. Het is dus niet vast te stellen of de aanpak zich terugbetaalt. Dat maakt het verhaal vooral een signaal dat Codex breder wordt ingezet dan alleen bij techbedrijven."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven laat dit zien dat Codex niet alleen voor softwareteams bedoeld is. Een marketingafdeling of hr-team kan er zelf een simpel hulpmiddel mee bouwen, zonder meteen een ontwikkelaar in te huren. Let wel op de Europese regels rond gegevens en AI: werk je met klantdata, dan moet je weten waar die terechtkomt. OpenAI geeft daarover in dit bericht geen details. Wil je Codex uitproberen, kijk dan eerst naar de voorwaarden en naar wat je eigen IT-afdeling toestaat.",
+ "faq": [
+  {
+   "q": "Wat doet cult.fit met Codex?",
+   "a": "Volgens OpenAI gebruiken teams in verschillende functies Codex om eigen tools te bouwen en sneller te werken."
+  },
+  {
+   "q": "Is Codex hetzelfde als ChatGPT?",
+   "a": "Nee, het zijn aparte producten van OpenAI. Codex richt zich op het schrijven en aanpassen van code."
+  },
+  {
+   "q": "Wat kost Codex voor een bedrijf?",
+   "a": "OpenAI noemt in het bericht over cult.fit geen prijzen. Over de kosten voor dit specifieke bedrijf is niets bekend."
+  }
+ ],
+ "slug": "codex-bij-cult-fit-fitnessbedrijf-bouwt-eigen-tools-met-ai",
+ "kind": "news",
+ "date": "2026-11-07",
+ "published": "2026-11-07T21:11",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Cult.fit builds operational muscle with Codex",
+   "url": "https://openai.com/index/cultfit-builds-with-codex"
+  }
+ ],
+ "path": "/nieuws/codex-bij-cult-fit-fitnessbedrijf-bouwt-eigen-tools-met-ai/",
+ "og": "/img/og/codex-bij-cult-fit-fitnessbedrijf-bouwt-eigen-tools-met-ai.png",
+ "take": "Elk team zijn eigen tools laten bouwen klinkt goed, tot je ziet wat er zonder controle uit komt. Ik heb Claude Code dagelijks aan mijn bestanden en scripts hangen, dus ik weet dat de winst zit in wat je zelf nakijkt en bijstuurt. Bij OpenAI lees ik alleen dat cult.fit het breed inzet, en een voorbeeld is nog geen bewijs dat het bij jou iets oplevert."
+}
