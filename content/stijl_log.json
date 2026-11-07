@@ -5514,5 +5514,52 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-07T17:58:59",
+  "slug": "",
+  "title": "NYT Cooking AI-assistent helpt bij kip maar faalt bij cake",
+  "kind": "news",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-07T17:59:14",
+  "slug": "",
+  "title": "AI cybersecurity: wat er veranderd is en wat nu telt",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-07T17:59:23",
+  "slug": "",
+  "title": "Anthropic versnelt ai-ontwikkeling: METR-rapport baart onderzoekers zorgen",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-07T17:59:35",
+  "slug": "",
+  "title": "GTA VI AI-klonen zetten Rockstar onder tijdsdruk",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

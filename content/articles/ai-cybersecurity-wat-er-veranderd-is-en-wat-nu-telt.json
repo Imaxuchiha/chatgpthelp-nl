@@ -1,0 +1,68 @@
+{
+ "keyword": "ai cybersecurity",
+ "seo_title": "AI cybersecurity: wat hackers nu anders doen",
+ "title": "AI cybersecurity: wat er veranderd is en wat nu telt",
+ "meta": "AI heeft de cybersecuritywereld op zijn kop gezet. Wat betekent dat voor bedrijven en gebruikers in Nederland? Lees de stand van zaken en het advies.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "cybersecurity",
+  "hackers",
+  "datalek",
+  "veiligheid"
+ ],
+ "intro": "De beveiliging van digitale systemen staat onder zware druk door AI. Volgens The Verge zegt beveiligingsexpert Alex Stamos dat de cybersecuritywereld flink is ontregeld. Hij is chief security officer bij Cognition en praat in een podcast over de puinhoop die is ontstaan. Voor Nederlandse bedrijven en gebruikers maakt dat de vraag urgent wat er nu nog helpt.",
+ "takeaways": [
+  "The Verge spreekt met Alex Stamos, beveiligingsexpert bij Cognition, over de staat van cybersecurity.",
+  "Volgens Stamos is de cybersecuritywereld door AI in een rommelige situatie beland.",
+  "Het gesprek is het eerste deel van een reeks over AI in het dagelijks leven.",
+  "Concrete cijfers over schade of aanvalsaantallen noemt de bron niet."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Stamos zegt over de stand van zaken",
+   "body": "The Verge voert een gesprek met Alex Stamos, chief security officer bij Cognition. Hij geldt als een ervaren kenner van digitale veiligheid. In de aflevering schetst hij hoezeer AI het speelveld van aanvallers en verdedigers heeft veranderd.\n\nDe podcast is deel één van een reeks over AI in het echte leven. The Verge noemt Stamos direct in zijn uitspraken. Wat hij precies adviseert, wordt in de samenvatting van de bron niet uitgewerkt. Duidelijk is wel dat hij de situatie niet rooskleurig neerzet.\n\nCijfers over het aantal aanvallen of de schade ontbreken in de bron. Ook blijft onbekend welke technieken hij concreet noemt. Wie meer wil weten, moet naar de volledige aflevering luisteren."
+  },
+  {
+   "heading": "Waarom AI het werk van beveiligers lastiger maakt",
+   "body": "Beveiligers werken met signalen: een vreemde inlog, een mailtje met een link, een bestand dat ergens opduikt. AI maakt het makkelijker om zulke signalen na te bootsen. Een tekst die vroeger krom Nederlands bevatte, ziet er nu vlekkeloos uit.\n\nOok het tempo ligt hoger. Een aanval kan geautomatiseerd worden uitgevoerd, terwijl een verdediger handmatig moet controleren. Dat verschil in snelheid is precies waar Stamos volgens The Verge op wijst.\n\nDe bron geeft geen lijst met nieuwe aanvalstechnieken. Wat wel vaststaat: de klassieke waarschuwing om op te letten bij onbekende afzenders is niet genoeg. Controleer een verzoek via een tweede kanaal, bijvoorbeeld door te bellen naar een bekend nummer."
+  },
+  {
+   "heading": "Wat dit betekent voor gewone gebruikers",
+   "body": "Voor iemand thuis draait het vooral om basisgedrag. Gebruik een apart wachtwoord per dienst en zet tweestapsverificatie aan. Dat kost tien minuten en vangt veel ellende weg.\n\nLet op berichten die om haast vragen. Een mail van je bank of een pakketdienst die binnen een uur actie eist, is verdacht. Klik niet op de link en open de app of site zelf.\n\nDe bron noemt geen specifieke Nederlandse slachtoffers of bedragen. Beweringen daarover kun je dus niet op dit gesprek baseren."
+  },
+  {
+   "heading": "Wat bedrijven in Nederland kunnen doen",
+   "body": "Bedrijven hebben meer armslag dan particulieren. Begin bij de toegang: wie mag waarvoor inloggen, en is dat nog steeds nodig. Beperk rechten tot wat iemand echt gebruikt.\n\nTest daarna of je een aanval opmerkt. Een oefening met een nepmail laat zien hoe medewerkers reageren. De uitslag is geen rapportcijfer, het is een startpunt voor betere afspraken.\n\nOnder de Europese NIS2-regels krijgen meer organisaties te maken met verplichte meldingen bij incidenten. De bron gaat daar niet op in. Controleer bij je eigen sector of die regels voor jou gelden."
+  }
+ ],
+ "nl_angle": "Nederlandse organisaties zitten midden in deze ontwikkeling. Veel bedrijven werken met Amerikaanse clouddiensten en AI-tools, waardoor een lek aan de andere kant van de oceaan hier direct voelbaar is. De Autoriteit Persoonsgegevens kan boetes opleggen bij datalekken, en sinds de NIS2-richtlijn gelden er strengere eisen voor onder meer energie, zorg en logistiek. Voor het mkb is het praktisch om eerst de basis op orde te brengen: tweestapsverificatie, een actueel overzicht van accounts en een vast protocol bij verdachte mails. De bron noemt geen Nederlandse cijfers, dus hoe groot het probleem hier precies is, blijft vooralsnog onbekend.",
+ "faq": [
+  {
+   "q": "Wat zei Alex Stamos over AI en cybersecurity?",
+   "a": "Volgens The Verge noemt hij de situatie in de cybersecuritywereld rommelig. Hij is chief security officer bij Cognition en spreekt in een podcast over de gevolgen van AI voor aanvallers en verdedigers."
+  },
+  {
+   "q": "Is AI veiliger of onveiliger voor bedrijven?",
+   "a": "De bron geeft geen eenduidig antwoord. AI maakt aanvallen sneller en overtuigender, terwijl verdedigers er ook mee kunnen werken. De precieze balans werkt The Verge niet uit in de samenvatting."
+  },
+  {
+   "q": "Wat kan ik zelf doen tegen AI-aanvallen?",
+   "a": "Gebruik een apart wachtwoord per dienst, zet tweestapsverificatie aan en controleer haastige verzoeken via een tweede kanaal. Deze basisadviezen staan los van de specifieke technieken die in de podcast aan bod komen."
+  }
+ ],
+ "slug": "ai-cybersecurity-wat-er-veranderd-is-en-wat-nu-telt",
+ "kind": "news",
+ "date": "2026-11-07",
+ "published": "2026-11-07T17:58",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "AI broke the cybersecurity world. What’s next?",
+   "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+  }
+ ],
+ "path": "/nieuws/ai-cybersecurity-wat-er-veranderd-is-en-wat-nu-telt/",
+ "og": "/img/og/ai-cybersecurity-wat-er-veranderd-is-en-wat-nu-telt.png",
+ "take": "Ik lees hier vooral dat een expert zegt dat het rommelt, en dat zal best. Mijn insteek bij beveiliging is dezelfde als bij alles: zelf bouwen wat je nodig hebt en geen abonnement nemen op de zoveelste tool die je niet kunt nameten. Wat er nu echt helpt, staat er niet bij, dus ik houd het op eerst zien en dan geloven."
+}

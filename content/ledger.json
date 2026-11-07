@@ -2767,6 +2767,22 @@
   "cfd4354afa": {
    "at": "2026-11-07T11:26:36.699428",
    "why": "ok"
+  },
+  "fa06ff8fdc": {
+   "at": "2026-11-07T17:58:44.236594",
+   "why": "poort"
+  },
+  "055e03fe8f": {
+   "at": "2026-11-07T17:58:44.236594",
+   "why": "ok"
+  },
+  "8879475e62": {
+   "at": "2026-11-07T17:59:44.236594",
+   "why": "ok"
+  },
+  "1b9119e805": {
+   "at": "2026-11-07T18:00:44.236594",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3245,6 +3261,9 @@
   "AI-uitgaven stagneren net nu Anthropic naar de beurs gaat",
   "OpenAI waardering stijgt naar $1,25 biljoen na nieuwe ronde",
   "Nvidia China spionage: Chinese dienst rekruteerde Megaspeed-topman",
-  "OpenAI meet hoe AI-agents omgaan met dagelijks labwerk"
+  "OpenAI meet hoe AI-agents omgaan met dagelijks labwerk",
+  "AI cybersecurity: wat er veranderd is en wat nu telt",
+  "Anthropic versnelt ai-ontwikkeling: METR-rapport baart onderzoekers zorgen",
+  "GTA VI AI-klonen zetten Rockstar onder tijdsdruk"
  ]
 }

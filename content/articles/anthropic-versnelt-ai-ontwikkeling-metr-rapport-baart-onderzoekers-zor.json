@@ -1,0 +1,64 @@
+{
+ "keyword": "anthropic ai-ontwikkeling",
+ "seo_title": "Anthropic ai-ontwikkeling versnelt: METR-rapport alarmslaat",
+ "title": "Anthropic versnelt ai-ontwikkeling: METR-rapport baart onderzoekers zorgen",
+ "meta": "Anthropic gebruikt ai om krachtigere ai te bouwen en dat gaat twee keer zo snel als een jaar geleden, meldt METR. Wat betekent dit voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "anthropic",
+  "metr",
+  "ai-veiligheid",
+  "ai-onderzoek",
+  "openai"
+ ],
+ "intro": "Anthropic zet ai in om sterkere ai te maken, en dat lijkt opvallend goed te werken. Volgens een nieuw rapport van onderzoeksorganisatie METR gaan de modellen van het bedrijf ongeveer twee keer zo snel vooruit als een jaar geleden. The Verge meldt dat onderzoekers zich daar zorgen over maken.",
+ "takeaways": [
+  "METR onderzocht elf weken lang hoe Anthropic ai inzet bij de ontwikkeling van nieuwe modellen.",
+  "De modellen van Anthropic verbeteren ruwweg twee keer zo snel als een jaar eerder.",
+  "Onderzoekers zien weinig tekenen dat die versnelling afremt.",
+  "Het rapport roept vragen op over controle en veiligheid bij snelle ai-ontwikkeling."
+ ],
+ "sections": [
+  {
+   "heading": "Wat METR precies onderzocht",
+   "body": "METR is een organisatie die ai-systemen test op veiligheid en capaciteiten. Het onderzoek naar Anthropic duurde elf weken. In die periode keken de onderzoekers hoe het bedrijf ai inzet bij het bouwen en verbeteren van zijn eigen modellen.\n\nDe uitkomst: de modellen worden sneller beter dan een jaar geleden. Het gaat om een ruwe verdubbeling van het tempo. Volgens The Verge ziet METR weinig aanwijzingen dat die vaart afneemt."
+  },
+  {
+   "heading": "Waarom onderzoekers ongerust zijn",
+   "body": "Als ai-systemen zichzelf sneller kunnen verbeteren, wordt het lastiger om te voorspellen wat een model wel en niet kan. Toezichthouders en onderzoekers willen graag kunnen uitleggen waarom een systeem iets doet. Bij een snel stijgende capaciteit wordt dat ingewikkelder.\n\nHet rapport komt van een organisatie die juist is opgericht om risico's vroeg te signaleren. Dat METR met deze cijfers komt, geeft de zorgen extra gewicht. Concrete voorbeelden van misstanden noemt de bron niet."
+  },
+  {
+   "heading": "Anthropic en de concurrentie",
+   "body": "Anthropic is het bedrijf achter Claude en werkt net als OpenAI en Google aan krachtigere modellen. De vraag is of de versnelling bij Anthropic iets zegt over de hele sector. Daar geeft het rapport geen duidelijk antwoord op.\n\nWel duidelijk is dat ai-bedrijven steeds vaker ai gebruiken bij hun eigen onderzoek. Of dat bij OpenAI en Google net zo snel gaat, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die Claude of andere ai-modellen inzetten, betekent dit vooral dat de mogelijkheden snel veranderen. Wat vandaag nog niet kan, kan over enkele maanden wel werken. Wie ai in producten of werkprocessen stopt, doet er goed aan om regelmatig te toetsen of het model nog doet wat je verwacht. Ook Europees toezicht krijgt hiermee meer nadruk: de AI-verordening vraagt om uitleg en controle, en een sneller verbeterend model maakt die controle lastiger. Concrete prijzen of releasedata noemt de bron niet.",
+ "faq": [
+  {
+   "q": "wat is METR?",
+   "a": "METR is een onderzoeksorganisatie die ai-systemen test op veiligheid en capaciteiten. Het rapport over Anthropic volgde na een onderzoek van elf weken."
+  },
+  {
+   "q": "hoeveel sneller gaan de modellen van Anthropic?",
+   "a": "Ruwweg twee keer zo snel als een jaar geleden, meldt The Verge op basis van het rapport. Er zijn weinig tekenen dat die versnelling afneemt."
+  },
+  {
+   "q": "geldt deze versnelling ook voor OpenAI en Google?",
+   "a": "Dat is nog niet bekend. Het rapport gaat over Anthropic en zegt niets over andere bedrijven."
+  }
+ ],
+ "slug": "anthropic-versnelt-ai-ontwikkeling-metr-rapport-baart-onderzoekers-zor",
+ "kind": "news",
+ "date": "2026-11-07",
+ "published": "2026-11-07T17:59",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+  }
+ ],
+ "path": "/nieuws/anthropic-versnelt-ai-ontwikkeling-metr-rapport-baart-onderzoekers-zor/",
+ "og": "/img/og/anthropic-versnelt-ai-ontwikkeling-metr-rapport-baart-onderzoekers-zor.png",
+ "take": "Twee keer zo snel vooruit, dat is precies waarom ik AI-tekst wantrouw die als AI leest. Anthropic laat een model zijn eigen opvolger bouwen en de onderzoekers worden er zenuwachtig van, maar een rapport over snelheid zegt me niks over of het werk klopt. Ik zie liever dat iemand toegeeft wat er misging dan dat er een grafiek omhoog wijst."
+}
