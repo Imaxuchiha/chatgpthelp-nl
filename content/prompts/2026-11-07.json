@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: reparatieverzoek huurwoning op papier zetten",
+ "situation": "Je huurt en er is iets kapot dat de verhuurder moet oplossen, zoals een lekkage, verwarming of schimmel. Je wilt een helder bericht sturen waarin je afspraken vastlegt.",
+ "prompt": "Je bent mijn hulp bij het opstellen van een reparatieverzoek aan mijn verhuurder. Rol: ervaren huurder die weet hoe je een verzoek netjes en vastlegbaar formuleert.\n\nContext: ik huur een woning in [PLAATS] van [VERHUURDER/ORGANISATIE]. Het probleem: [BESCHRIJF HET PROBLEEM, BIJVOORBEELD LEKKAGE IN DE BADKAMER]. Ik meldde dit al op [DATUM EERSTE MELDING] via [TELEFOON/APP/E-MAIL]. Reactie tot nu toe: [WAT DE VERHUURDER ZEI OF DEED].\n\nGewenste output: een bericht van maximaal 250 woorden dat ik per e-mail kan versturen. Bevat: korte feitelijke omschrijving, datum eerste melding, wat ik tot nu toe zelf deed, een concrete vraag om een reparatietermijn, en de vraag om schriftelijke bevestiging. Sluit af met een vriendelijke maar duidelijke opmerking dat ik het probleem vastleg voor het geval het langer duurt.\n\nVoorbeeld van gewenste toon: 'Op 3 maart meldde ik telefonisch dat de cv-ketel niet aanslaat. Tot vandaag is er geen monteur langs geweest.' Geen dreigende taal, geen juridische claims.",
+ "tip": "Voeg de exacte datum en het kanaal van je eerste melding toe, dan staat je tijdlijn steviger.",
+ "tags": [
+  "huren",
+  "reparatie",
+  "verhuurder",
+  "e-mail"
+ ],
+ "date": "2026-11-07",
+ "slug": "prompt-reparatieverzoek-huurwoning-op-papier-zetten",
+ "path": "/prompts/2026-11-07-prompt-reparatieverzoek-huurwoning-op-papier-zetten/"
+}

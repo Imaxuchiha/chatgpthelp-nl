@@ -1,0 +1,75 @@
+{
+ "keyword": "shopify google ads koppeling",
+ "seo_title": "Shopify Google Ads koppeling: mijn eerlijke review",
+ "title": "Shopify is top, maar de Google-koppeling breekt te vaak",
+ "meta": "Shopify Google Ads koppeling: waarom ik het platform top vind, maar de feeds en conversies vaker breken dan je denkt. Mijn praktijkervaring.",
+ "category": "mening",
+ "tags": [
+  "Shopify",
+  "Google Ads",
+  "productfeeds",
+  "conversietracking",
+  "e-commerce"
+ ],
+ "intro": "Shopify is voor webshops gewoon het beste platform dat er is. Maar de koppelingen met Google, vooral productfeeds en conversietracking, breken vaker dan je denkt. Ik run er tientallen klantaccounts mee en zie elke week wel iets stukgaan. Dat kost omzet en zorgt voor meetfouten waar Google's AI vervolgens vol overtuiging op gaat sturen.",
+ "takeaways": [
+  "Shopify is het beste platform voor webshops, maar de Google-koppelingen zijn fragiel.",
+  "Conversietracking via Shopify of externe apps geeft vaak een veel te rooskleurig beeld.",
+  "Controleer je ROAS en conversiewaarden handmatig voordat je op de AI van Google vertrouwt."
+ ],
+ "sections": [
+  {
+   "heading": "Waarvoor ik Shopify gebruik",
+   "body": "Ik beheer Google Ads voor klanten met webshops. Shopify is dan bijna altijd de basis. Producten, voorraad, bestellingen, checkout, het werkt gewoon. De productfeed naar Google is in theorie één klik. In de praktijk is dat ook waar de ellende begint.\n\nVoor mijn eigen projecten gebruik ik Shopify ook. Een landingpage of een simpele shop staat er in een middag. De koppeling met Google Ads en Merchant Center is ingebouwd. Dat scheelt een hoop geknutsel met plugins."
+  },
+  {
+   "heading": "Wat er goed is aan Shopify",
+   "body": "Het platform zelf is solide. De interface is duidelijk, de thema's zijn prima en je kunt er snel mee schakelen. Voor performancemarketing is de flexibiliteit belangrijk. Je past landingspagina's aan, zet kortingscodes in en koppelt je feed. Dat gaat allemaal zonder developer.\n\nDe checkout is ook sterk. Weinig gedoe, hoge conversie. Klanten vertrouwen het. En als er iets misgaat met een bestelling, is dat binnen Shopify snel opgelost. Dat is voor een webshopondernemer goud waard."
+  },
+  {
+   "heading": "De Google-koppelingen breken vaker dan je denkt",
+   "body": "Nu het eerlijke deel. De productfeed naar Google Merchant Center loopt regelmatig vast. Soms door een app die een veld verkeerd overschrijft, soms door een update van Shopify zelf. Resultaat: producten verdwijnen uit Shopping en je advertenties lopen leeg. Je ziet het pas als de omzet al weg is.\n\nConversietracking is nog erger. Shopify's eigen integratie met Google Ads lijkt simpel, maar in de praktijk kloppen de cijfers vaak niet. Bij een webshop rapporteerde Google Ads bijna het dubbele van de omzet die er echt binnenkwam. Een externe tracking-app stond als primaire aankoop ingesteld. De eerlijke ROAS lag tussen 129% en 204%, niet op de 298% uit het dashboard.\n\nEn dan heb je nog de apps die zogenaamd je tracking verbeteren. Een tracking-app zette paginaweergaven, winkelwagen en checkout-start als primaire conversies aan. Resultaat: zo'n 10.000 euro nep-conversiewaarde waar het biedalgoritme vrolijk op ging sturen. Je betaalt dan voor conversies die geen omzet zijn."
+  },
+  {
+   "heading": "Meetfouten zijn vaak het echte probleem",
+   "body": "Ik scande de funnels van 12 webshops in GA4. Van de 12 'lekken' waren er 8 meetfouten en 1 was bots: tienduizenden sessies uit één ver land, 0 aankopen. Maar 3 lekken waren echt. Dat zegt genoeg. De meeste problemen in advertentieaccounts zijn meetfouten, geen echte dalingen.\n\nDus voordat je campagnes gaat optimaliseren of budgetten verschuift, check je tracking. Kijk niet alleen naar het Google Ads dashboard, maar vergelijk met Shopify en je betaalprovider. Alleen dan weet je wat je echte ROAS is."
+  },
+  {
+   "heading": "Voor wie is Shopify wel en niet geschikt",
+   "body": "Voor bijna elke webshopondernemer is Shopify een prima keuze. Zeker als je geen zin hebt in technisch gedoe en gewoon wilt verkopen. De kosten zijn te overzien en je krijgt er een betrouwbaar platform voor terug.\n\nMaar als je zwaar leunt op Google Shopping of Performance Max, moet je de koppelingen actief in de gaten houden. Stel alerts in voor je feed en controleer je conversietracking elke week. Anders betaal je voor data die je op het verkeerde been zet.\n\nVoor developers of grote maatwerk-shops kan Shopify beperkend zijn. De API is prima, maar je zit wel in hun ecosysteem. Wil je volledige controle, dan bouw je iets op maat. Maar voor 95% van de ondernemers is dat overkill."
+  },
+  {
+   "heading": "Mijn eindoordeel",
+   "body": "Shopify is top. Het platform zelf verdient een dikke voldoende. Maar de koppelingen met Google zijn het zwakke punt. Ze breken vaker dan je denkt en de meetfouten die daardoor ontstaan, kunnen je flink geld kosten.\n\nMijn advies: gebruik Shopify gerust, maar vertrouw nooit blind op de cijfers die Google Ads rapporteert. Check je ROAS handmatig. En zet je tracking zo simpel mogelijk op, zonder externe apps die er een potje van maken."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse webshopondernemers betekent dit: controleer je Shopify-Google koppeling actief. Kijk wekelijks of je productfeed nog draait en of je conversies kloppen. Vergelijk je Google Ads cijfers met Shopify en je betaalprovider. Alleen dan weet je of je campagnes echt renderen. En pas op met tracking-apps die beloven je ROAS te verbeteren; vaak maken ze het alleen maar ondoorzichtiger.",
+ "faq": [
+  {
+   "q": "Waarom breekt de Shopify Google Ads koppeling zo vaak?",
+   "a": "Vaak door apps die velden overschrijven of door updates van Shopify zelf. De feed stopt dan met synchroniseren en producten verdwijnen uit Shopping."
+  },
+  {
+   "q": "Hoe kan ik mijn conversietracking betrouwbaarder maken?",
+   "a": "Zet tracking zo simpel mogelijk op, zonder externe apps. Gebruik de eigen Shopify-integratie en controleer wekelijks of de cijfers overeenkomen met je betaalprovider."
+  },
+  {
+   "q": "Is Shopify geschikt voor Google Shopping?",
+   "a": "Ja, maar je moet de feed actief monitoren. Stel alerts in en check regelmatig of alle producten nog actief zijn in Merchant Center."
+  }
+ ],
+ "lessons_used": [
+  "Les tracking-app-verdubbelt-omzet",
+  "Les nep-conversiewaarde",
+  "Les funnel-lekken-meetfout"
+ ],
+ "slug": "shopify-is-top-maar-de-google-koppeling-breekt-te-vaak",
+ "kind": "review",
+ "date": "2026-11-07",
+ "published": "2026-11-07T11:24",
+ "sources": [],
+ "path": "/mening/shopify-is-top-maar-de-google-koppeling-breekt-te-vaak/",
+ "og": "/img/og/shopify-is-top-maar-de-google-koppeling-breekt-te-vaak.png",
+ "tool": "Shopify",
+ "author": "Maxim"
+}

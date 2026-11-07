@@ -2747,6 +2747,26 @@
   "7c70b636a2": {
    "at": "2026-11-06T22:28:51.543422",
    "why": "ok"
+  },
+  "73e37e5325": {
+   "at": "2026-11-07T11:24:36.699428",
+   "why": "poort"
+  },
+  "6813d62fd9": {
+   "at": "2026-11-07T11:24:36.699428",
+   "why": "ok"
+  },
+  "1bc7ba2a28": {
+   "at": "2026-11-07T11:25:36.699428",
+   "why": "ok"
+  },
+  "118369de89": {
+   "at": "2026-11-07T11:26:36.699428",
+   "why": "poort"
+  },
+  "cfd4354afa": {
+   "at": "2026-11-07T11:26:36.699428",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3222,6 +3242,9 @@
   "AI dating apps: AI wordt steeds vaker een dealbreaker",
   "AI datacenters zorgen voor strijd om stroom en overlast",
   "Artex AI-hacktools: honderden servers openbaar bereikbaar",
-  "AI-uitgaven stagneren net nu Anthropic naar de beurs gaat"
+  "AI-uitgaven stagneren net nu Anthropic naar de beurs gaat",
+  "OpenAI waardering stijgt naar $1,25 biljoen na nieuwe ronde",
+  "Nvidia China spionage: Chinese dienst rekruteerde Megaspeed-topman",
+  "OpenAI meet hoe AI-agents omgaan met dagelijks labwerk"
  ]
 }

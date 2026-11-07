@@ -1,0 +1,68 @@
+{
+ "keyword": "ai in het lab",
+ "seo_title": "ai in het lab: OpenAI test agents met BioBasicsBench",
+ "title": "OpenAI meet hoe AI-agents omgaan met dagelijks labwerk",
+ "meta": "OpenAI lanceert BioBasicsBench: honderd labtaken waarmee je ziet hoe goed een AI-agent ruwe proefdata leest en alledaags labwerk aanpakt.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-agents",
+  "laboratorium",
+  "biowetenschap",
+  "benchmark"
+ ],
+ "intro": "OpenAI heeft een nieuwe testset gepubliceerd voor AI-agents in het laboratorium. BioBasicsBench bestaat uit honderd taken. Daarmee meet OpenAI hoe goed een agent ruwe meetgegevens begrijpt en gewoon labwerk uitvoert.",
+ "takeaways": [
+  "BioBasicsBench telt honderd taken rond alledaags labwerk.",
+  "De test kijkt hoe agents ruwe experimentele data interpreteren.",
+  "OpenAI noemt het een benchmark voor praktisch wetenschappelijk werk.",
+  "Er zijn nog geen resultaten per model of prijzen bekendgemaakt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies meet",
+   "body": "BioBasicsBench draait om de basis van labwerk. Een agent krijgt ruwe data voorgeschoteld en moet daar iets zinnigs mee doen. Denk aan meetwaarden ordenen, afwijkingen herkennen en conclusies trekken uit een proef.\n\nVolgens OpenAI gaat het om honderd taken. Die zijn samen een benchmark: een vaste set opdrachten waarmee je modellen onderling kunt vergelijken. Zo'n set maakt scores herhaalbaar en daarmee beter te vergelijken dan losse demo's.\n\nHet gaat uitdrukkelijk om dagelijks werk in een nat lab, dus met vloeistoffen, samples en meetapparatuur. OpenAI noemt dat zelf de alledaagse kant van de wetenschap."
+  },
+  {
+   "heading": "Waarom ruwe data lastig is",
+   "body": "Een taalmodel dat netjes geschreven teksten samenvat, is nog geen labassistent. Ruwe meetdata zit vol ruis, ontbrekende waarden en meetfouten. Een agent moet daar doorheen prikken zonder er iets bij te verzinnen.\n\nPrecies daar zit de waarde van deze benchmark. Je test of een model begrijpt wat een getal betekent in de context van een experiment. Een verkeerd geïnterpreteerde meting kan in een lab serieuze gevolgen hebben.\n\nOpenAI geeft in de aankondiging geen scores per model. Welke agent het beste presteert, is dus nog niet bekend."
+  },
+  {
+   "heading": "Van demo naar meetbare prestaties",
+   "body": "AI-bedrijven laten agents graag zien in korte filmpjes. Een vaste benchmark is een nuchterder maatstaf. Iedereen krijgt dezelfde opdrachten, dus je kunt scores naast elkaar leggen.\n\nOf BioBasicsBench de standaard wordt, moet blijken. OpenAI heeft de set zelf opgezet, wat altijd vraagt om kritische blik van buiten. Onafhankelijke herhaling van de test zou het beeld sterker maken.\n\nDuidelijk is wel dat de nadruk verschuift. Het gaat minder om mooie voorbeelden en meer om aantoonbare prestaties op echt werk."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Over de kosten of beschikbaarheid van de benchmark maakt OpenAI niets bekend. Ook is onduidelijk of buitenstaanders de taken kunnen indienen of aanpassen.\n\nDe publicatie datum is 5 november 2026. Meer details over de opzet per taak zijn in de bron niet uitgewerkt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse labteams en biotechbedrijven is dit vooral een signaal om kritisch te kijken naar AI-tools die proefdata interpreteren. Een agent die meetwaarden samenvat kan tijd schelen, maar de controle blijft bij de onderzoeker. Wie zo'n tool inzet, doet er goed aan te vragen op welke taken hij is getest en hoe hij omgaat met ontbrekende waarden. Er zijn nog geen Nederlandse richtlijnen of toelatingseisen bekend die specifiek op dit soort labagents ingaan.",
+ "faq": [
+  {
+   "q": "wat is BioBasicsBench?",
+   "a": "Een set van honderd labtaken waarmee OpenAI meet hoe goed AI-agents ruwe experimentele data begrijpen en alledaags labwerk aanpakken."
+  },
+  {
+   "q": "welk AI-model scoort het best op deze labtest?",
+   "a": "Dat is nog niet bekend. OpenAI noemt in de aankondiging geen scores per model."
+  },
+  {
+   "q": "kan ik dit als Nederlands lab gebruiken?",
+   "a": "De benchmark is gepubliceerd, maar OpenAI maakt niet bekend of buitenstaanders de taken kunnen gebruiken of aanpassen. Daar is meer duidelijkheid over nodig."
+  }
+ ],
+ "slug": "openai-meet-hoe-ai-agents-omgaan-met-dagelijks-labwerk",
+ "kind": "news",
+ "date": "2026-11-07",
+ "published": "2026-11-07T11:26",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+  }
+ ],
+ "path": "/nieuws/openai-meet-hoe-ai-agents-omgaan-met-dagelijks-labwerk/",
+ "og": "/img/og/openai-meet-hoe-ai-agents-omgaan-met-dagelijks-labwerk.png",
+ "take": "OpenAI zet honderd labtaken neer om te meten hoe goed een agent proefdata leest. Mooi, maar dat is een meetlat voor hun eigen model, geen gereedschap dat ik kan inzetten. Ik bouw mijn automatisering liever zelf met Claude Code en DeepSeek dan dat ik wacht op een kant-en-klare agent van OpenAI."
+}

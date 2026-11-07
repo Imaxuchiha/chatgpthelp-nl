@@ -5434,5 +5434,85 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-07T11:24:53",
+  "slug": "",
+  "title": "AI journalistiek: hoe menselijk blijft het nieuws?",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-07T11:25:03",
+  "slug": "",
+  "title": "OpenAI waardering stijgt naar $1,25 biljoen na nieuwe ronde",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-07T11:25:15",
+  "slug": "",
+  "title": "Nvidia China spionage: Chinese dienst rekruteerde Megaspeed-topman",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-07T11:25:25",
+  "slug": "",
+  "title": "OpenAI haalt volgens berichten 11 miljard dollar extra op",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-07T11:25:37",
+  "slug": "",
+  "title": "OpenAI meet hoe AI-agents omgaan met dagelijks labwerk",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-07T11:26:29",
+  "slug": "",
+  "title": "Shopify is top, maar de Google-koppeling breekt te vaak",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
