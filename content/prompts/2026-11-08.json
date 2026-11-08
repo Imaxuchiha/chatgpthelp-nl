@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: factuur laten checken op fouten",
+ "situation": "Je krijgt een factuur van een zzp'er of klein bedrijf en wilt weten of bedrag, btw en omschrijving kloppen voordat je betaalt.",
+ "prompt": "Je bent een administratief medewerker die facturen controleert voor een klein Nederlands bedrijf. Ik plak hieronder een factuur die ik heb ontvangen. Controleer of alles klopt en wijs me op fouten of onduidelijkheden. Let op: btw-tarief en berekening, het totaalbedrag, de factuurdatum en het factuurnummer, de omschrijving van de geleverde dienst of het product, de vermelding van KvK-nummer en btw-nummer van de afzender, en of de factuur voldoet aan de eisen die de Belastingdienst stelt. Geef per punt aan: in orde, twijfelachtig of ontbreekt. Sluit af met een kort lijstje vragen dat ik het beste aan de afzender kan stellen voordat ik betaal. Factuur: [PLAK HIER DE TEKST VAN DE FACTUUR]. Mijn situatie: [PARTICULIER OF BEDRIJF, EN OF IK DE BTW KAN TERUGVRAGEN].",
+ "tip": "Vraag ChatGPT daarna om een korte, vriendelijke e-mail aan de afzender met de vragen die eruit kwamen.",
+ "tags": [
+  "administratie",
+  "facturen",
+  "btw",
+  "geld"
+ ],
+ "date": "2026-11-08",
+ "slug": "prompt-factuur-laten-checken-op-fouten",
+ "path": "/prompts/2026-11-08-prompt-factuur-laten-checken-op-fouten/"
+}

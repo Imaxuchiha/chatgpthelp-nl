@@ -5602,5 +5602,66 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-08T11:32:51",
+  "slug": "",
+  "title": "Meta Spaces laat je samenwerken met AI-figuurtjes Muse",
+  "kind": "news",
+  "rood": [],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-08T11:33:01",
+  "slug": "",
+  "title": "Dario Amodei ai-risico: de visie van de Anthropic-topman",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-08T11:33:10",
+  "slug": "",
+  "title": "Palo Alto Networks praat over overname Clutch van $500 miljoen",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-08T11:33:20",
+  "slug": "",
+  "title": "Australische universiteiten zetten ChatGPT breed in bij opleidingen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-08T11:33:51",
+  "slug": "",
+  "title": "AI nieuws week 45: OpenAI, Anthropic en Meta in één overzicht",
+  "kind": "news",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

@@ -1,0 +1,67 @@
+{
+ "keyword": "palo alto clutch overname",
+ "seo_title": "Palo Alto Networks praat over overname Clutch van $500",
+ "title": "Palo Alto Networks praat over overname Clutch van $500 miljoen",
+ "meta": "Palo Alto Networks onderhandelt over de koop van beveiligingsbedrijf Clutch voor 500 miljoen dollar. Wat dat betekent voor AI-agenten en Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "palo alto networks",
+  "clutch",
+  "ai-agenten",
+  "beveiliging",
+  "overname"
+ ],
+ "intro": "Palo Alto Networks voert gesprekken om het beveiligingsbedrijf Clutch over te nemen voor 500 miljoen dollar. Clutch richt zich op de beveiliging van AI-agenten. TechCrunch meldt de gesprekken op basis van een bron.",
+ "takeaways": [
+  "Palo Alto Networks praat over een overname van Clutch voor 500 miljoen dollar, omgerekend ruwweg 430 miljoen euro.",
+  "Clutch was bij de laatste waardering 85 miljoen dollar waard, aldus een bron.",
+  "Investeerders Lightspeed en SignalFire zitten achter Clutch.",
+  "Clutch beveiligt AI-agenten, software die zelfstandig taken uitvoert."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Clutch doet en wie erachter zit",
+   "body": "Clutch is een startup die zich richt op de beveiliging van AI-agenten. Dat zijn programma's die met een taalmodel zelfstandig stappen zetten, bijvoorbeeld een mailbox doorwerken of gegevens opzoeken. Beveiliging gaat dan over de vraag welke acties zo'n agent mag uitvoeren en hoe je misbruik voorkomt.\n\nAchter Clutch zitten de investeerders Lightspeed en SignalFire. Bij de laatste waardering kwam het bedrijf uit op 85 miljoen dollar, volgens een bron van TechCrunch. Het bedrag dat nu op tafel ligt, is een veelvoud daarvan."
+  },
+  {
+   "heading": "De deal is nog niet rond",
+   "body": "Palo Alto Networks en Clutch praten over een overname, meldt TechCrunch. Daarmee is de koop nog geen feit. Over de voorwaarden is weinig bekend buiten het genoemde bedrag van 500 miljoen dollar.\n\nOf de gesprekken slagen, is niet duidelijk. Ook is niet bekend wanneer er een besluit valt. TechCrunch baseert zich op één bron en noemt geen officiële bevestiging van een van beide bedrijven."
+  },
+  {
+   "heading": "Waarom een netwerkbeveiliger dit wil",
+   "body": "Palo Alto Networks is een grote speler in netwerkbeveiliging. Het bedrijf verkoopt onder meer firewalls en diensten die bedrijfsnetwerken in de gaten houden. AI-agenten passen minder goed in dat klassieke beeld, omdat ze zelfstandig handelen en met veel systemen praten.\n\nMet Clutch zou Palo Alto Networks die markt binnenstappen. Voor bedrijven die agenten inzetten, wordt de vraag dan wie de toegang en de acties controleert. Dat is een andere vraag dan welk netwerkverkeer er langs een firewall komt."
+  },
+  {
+   "heading": "Prijs in euro's en wat er nog ontbreekt",
+   "body": "500 miljoen dollar is bij de huidige koers ruwweg 430 miljoen euro. Het precieze bedrag in euro's hangt af van de wisselkoers op het moment van betalen.\n\nOver de omzet van Clutch, het aantal klanten en de precieze technologie zegt de bron niets. Ook een tijdpad voor de overname ontbreekt. Wie wil weten of de koop doorgaat, moet wachten op een officiële mededeling."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die met AI-agenten werken, is dit een signaal dat beveiliging van die agenten een eigen markt wordt. Grote leveranciers kopen nu specialistische kennis in plaats van die zelf op te bouwen. Dat kan betekenen dat beveiligingsfuncties voor agenten straks via bestaande netwerkleveranciers komen, met bijbehorende contracten en prijzen in euro's. Let op: de overname is nog niet rond, dus concrete producten of Nederlandse prijzen zijn er nog niet.",
+ "faq": [
+  {
+   "q": "Wat is Clutch voor bedrijf?",
+   "a": "Clutch is een startup die AI-agenten beveiligt. Het bedrijf haalde geld op bij Lightspeed en SignalFire en was bij de laatste waardering 85 miljoen dollar waard."
+  },
+  {
+   "q": "Is de overname van Clutch al rond?",
+   "a": "Nee. Palo Alto Networks en Clutch praten erover, meldt TechCrunch op basis van een bron. Een officiële bevestiging is er niet."
+  },
+  {
+   "q": "Wat kost de overname in euro's?",
+   "a": "Het genoemde bedrag is 500 miljoen dollar, ruwweg 430 miljoen euro. Het exacte bedrag in euro's hangt af van de wisselkoers op het moment van betalen."
+  }
+ ],
+ "slug": "palo-alto-networks-praat-over-overname-clutch-van-500-miljoen",
+ "kind": "news",
+ "date": "2026-11-08",
+ "published": "2026-11-08T11:33",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+   "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+  }
+ ],
+ "path": "/nieuws/palo-alto-networks-praat-over-overname-clutch-van-500-miljoen/",
+ "og": "/img/og/palo-alto-networks-praat-over-overname-clutch-van-500-miljoen.png"
+}

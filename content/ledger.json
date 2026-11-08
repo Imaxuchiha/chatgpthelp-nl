@@ -2795,6 +2795,22 @@
   "c88b52d0b2": {
    "at": "2026-11-07T21:11:19.271595",
    "why": "ok"
+  },
+  "3b417e7660": {
+   "at": "2026-11-08T11:32:35.918967",
+   "why": "ok"
+  },
+  "de14dac6ab": {
+   "at": "2026-11-08T11:33:35.918967",
+   "why": "poort"
+  },
+  "904574e3ce": {
+   "at": "2026-11-08T11:33:35.918967",
+   "why": "ok"
+  },
+  "b58fee4edb": {
+   "at": "2026-11-08T11:34:35.918967",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3279,6 +3295,9 @@
   "GTA VI AI-klonen zetten Rockstar onder tijdsdruk",
   "Anthropic beursgang wordt lastig door gekeerd AI-sentiment",
   "AI-wetgeving VS: Democraten plannen veel nieuwe regels",
-  "Codex bij cult.fit: fitnessbedrijf bouwt eigen tools met AI"
+  "Codex bij cult.fit: fitnessbedrijf bouwt eigen tools met AI",
+  "Meta Spaces laat je samenwerken met AI-figuurtjes Muse",
+  "Palo Alto Networks praat over overname Clutch van $500 miljoen",
+  "Australische universiteiten zetten ChatGPT breed in bij opleidingen"
  ]
 }
