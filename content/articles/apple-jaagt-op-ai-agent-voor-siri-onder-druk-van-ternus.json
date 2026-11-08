@@ -1,0 +1,67 @@
+{
+ "keyword": "siri ai agent",
+ "seo_title": "Siri ai agent: Apple versnelt race met OpenAI en Meta",
+ "title": "Apple jaagt op AI-agent voor Siri onder druk van Ternus",
+ "meta": "Apple versnelt de ontwikkeling van een krachtige AI-agent voor Siri. Lees wat The Verge meldt over de race met OpenAI en Meta en wat dit voor Nederland…",
+ "category": "nieuws",
+ "tags": [
+  "apple",
+  "siri",
+  "ai-agent",
+  "openai",
+  "meta"
+ ],
+ "intro": "Apple zet haast achter de ontwikkeling van Siri als AI-agent. Volgens The Verge oefent topman John Ternus druk uit op AI-chef Craig Federighi om sneller te leveren. Het bedrijf wil meekomen met agenten van OpenAI en Meta.",
+ "takeaways": [
+  "Apple-topman John Ternus dringt aan op een snellere roadmap voor Siri.",
+  "AI-chef Craig Federighi leverde al een werkende versie van Siri AI op korte termijn.",
+  "Apple wil een agent die kan concurreren met OpenAI's Dots en Meta's Muse.",
+  "Apple heeft volgens The Verge geen illusies over de huidige staat van Siri."
+ ],
+ "sections": [
+  {
+   "heading": "Druk van bovenaf op de Siri-roadmap",
+   "body": "Bij Apple komt de vaart van boven. John Ternus, de hoogste baas, zet AI-verantwoordelijke Craig Federighi naar verluidt onder druk om het schema voor Siri aan te scherpen. Dat meldt The Verge op basis van Bloomberg-journalist Mark Gurman.\n\nHet doel is een krachtige AI-agent. Zo'n agent voert zelfstandig taken uit, zoals het opzoeken van informatie of het regelen van afspraken. Apple wil daarmee op hetzelfde speelveld komen als OpenAI en Meta.\n\nFederighi heeft volgens de bron al een functionele versie van Siri AI afgeleverd. Dat gebeurde in een opvallend kort tijdsbestek. Toch ziet Apple in dat de huidige Siri nog niet het niveau haalt van de concurrentie."
+  },
+  {
+   "heading": "Concurrenten zitten niet stil",
+   "body": "OpenAI werkt aan Dots, een agent die zelfstandig stappen zet. Meta ontwikkelt Muse, een vergelijkbaar systeem. Beide namen vallen in de berichtgeving van The Verge als maatstaf voor waar Apple tegenop bokst.\n\nWat die agenten precies kunnen, is nog niet volledig duidelijk. De bronnen geven geen details over functies, releasedata of prijzen. Apple heeft zelf niets officieel aangekondigd over een lanceerdatum.\n\nDuidelijk is wel dat de wedloop om AI-assistenten in een nieuwe fase zit. Het gaat niet meer om losse vragen beantwoorden. Het gaat om software die taken voor je uitvoert."
+  },
+  {
+   "heading": "Wat een agent eigenlijk is",
+   "body": "Een AI-agent is software die met een doel aan de slag gaat. Je geeft een opdracht en het systeem bedenkt zelf de stappen. Denk aan het verzamelen van reisinformatie of het sorteren van e-mail.\n\nBij Siri zou dat betekenen dat de assistent meer doet dan een vraag beantwoorden. De assistent handelt dan binnen de apps op je toestel. Apple heeft daar nog geen concrete voorbeelden van gedeeld.\n\nDe term agentic komt uit het Engels. Het betekent letterlijk 'handelend'. In de praktijk draait het om autonomie: hoe minder tussenstappen jij hoeft te doen, hoe agentischer het systeem."
+  },
+  {
+   "heading": "Onzekerheid over timing en vorm",
+   "body": "Wanneer Nederlandse gebruikers iets van deze nieuwe Siri merken, is niet bekend. Apple heeft geen datum genoemd. Ook is onduidelijk of functies in de Europese Unie direct beschikbaar komen.\n\nApple kampt in Europa vaker met uitstel door regelgeving. Of dat hier speelt, vermelden de bronnen niet. Tot die duidelijkheid er is, blijft het bij verwachtingen."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders met een iPhone verandert er voorlopig weinig zichtbaars. Siri blijft werken zoals nu, en een datum voor de agent-versie ontbreekt. Zodra Apple iets lanceert, bepaalt de Europese uitrol of je er direct bij bent. Bedrijven die Siri gebruiken voor klantcontact doen er goed aan niet te wachten op een datum die er nog niet is. Kijk eerder naar wat concurrerende assistenten nu al kunnen en test die zelf.",
+ "faq": [
+  {
+   "q": "Wat is een agentic Siri?",
+   "a": "Dat is een versie van Siri die zelfstandig taken uitvoert, zoals informatie verzamelen of acties in apps starten. Apple heeft nog geen details of datum gedeeld."
+  },
+  {
+   "q": "Wanneer komt de nieuwe Siri in Nederland?",
+   "a": "Daar is niets over bekend. De bronnen noemen geen lanceerdatum, dus ook niet voor Nederland of de Europese Unie."
+  },
+  {
+   "q": "Met welke AI-agenten concurreert Apple?",
+   "a": "Volgens The Verge richt Apple zich op OpenAI's Dots en Meta's Muse. Over de precieze mogelijkheden van die systemen is nog weinig bekend."
+  }
+ ],
+ "slug": "apple-jaagt-op-ai-agent-voor-siri-onder-druk-van-ternus",
+ "kind": "news",
+ "date": "2026-11-08",
+ "published": "2026-11-08T21:25",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Apple is racing to make Siri more agentic",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+  }
+ ],
+ "path": "/nieuws/apple-jaagt-op-ai-agent-voor-siri-onder-druk-van-ternus/",
+ "og": "/img/og/apple-jaagt-op-ai-agent-voor-siri-onder-druk-van-ternus.png"
+}

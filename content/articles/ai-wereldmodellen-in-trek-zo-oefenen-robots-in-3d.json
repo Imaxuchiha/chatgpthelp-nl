@@ -1,0 +1,68 @@
+{
+ "keyword": "ai wereldmodellen",
+ "seo_title": "AI-wereldmodellen: wat ze doen en waarom ze in trek zijn",
+ "title": "AI-wereldmodellen in trek: zo oefenen robots in 3D",
+ "meta": "AI-wereldmodellen bootsen de fysieke wereld in 3D na. Lees wat ze doen, waarom bedrijven erin investeren en wat dit betekent voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "wereldmodellen",
+  "robots",
+  "zelfrijdende auto's",
+  "3d"
+ ],
+ "intro": "Bedrijven investeren flink in AI-wereldmodellen. Die modellen bouwen een 3D-kopie van de fysieke wereld. Robots en zelfrijdende auto's kunnen daarin oefenen zonder echt te bewegen. Dat meldt Bright.",
+ "takeaways": [
+  "AI-wereldmodellen simuleren de fysieke wereld in 3D.",
+  "Robots en zelfrijdende auto's trainen in die digitale omgevingen.",
+  "Veel bedrijven steken geld in de ontwikkeling van deze modellen.",
+  "De modellen zijn volgens Bright nu echt in opkomst."
+ ],
+ "sections": [
+  {
+   "heading": "Wat is een AI-wereldmodel?",
+   "body": "Een AI-wereldmodel is software die de echte wereld nabouwt in 3D. Je kunt het zien als een digitale speeltuin waarin van alles gebeurt. Voorwerpen, mensen en bewegingen krijgen een plek in die virtuele ruimte.\n\nHet model leert hoe de wereld reageert. Bijvoorbeeld: wat gebeurt er als een robot een kopje optilt? Of hoe beweegt een auto door een drukke straat? Die kennis zit opgesloten in het model.\n\nVolgens Bright investeren veel bedrijven op dit moment in zulke modellen. De techniek is populair aan het worden."
+  },
+  {
+   "heading": "Waarom robots en auto's erin oefenen",
+   "body": "Een robot die in het echt leert lopen, kan vallen en schade oplopen. In een digitaal wereldmodel gaat dat anders. De robot maakt fouten zonder gevolgen. Hij kan duizenden keren opnieuw proberen.\n\nHetzelfde geldt voor zelfrijdende auto's. Die kunnen in de simulatie gevaarlijke situaties tegenkomen. Denk aan een kind dat de weg op rent. De auto leert daarvan, terwijl er niemand gewond raakt.\n\nHet grote voordeel: oefenen in een model is sneller en goedkoper dan testen in de echte wereld. Je hoeft geen fysieke proefopstelling te bouwen."
+  },
+  {
+   "heading": "Waarom de vraag nu groeit",
+   "body": "De belangstelling voor wereldmodellen neemt toe. Bright schrijft dat veel bedrijven er nu in investeren. Dat wijst op een groeiende markt.\n\nDe techniek vraagt wel veel rekenkracht. Een 3D-model van de wereld is complex. Bedrijven hebben dus stevige computers nodig om zo'n model te trainen en te draaien.\n\nHet is nog niet bekend welke bedrijven precies hoeveel geld in wereldmodellen steken. Bright noemt geen bedragen of namen. Duidelijk is wel dat de ontwikkeling in beweging is."
+  },
+  {
+   "heading": "Wat het betekent voor de techniek",
+   "body": "Wereldmodellen kunnen de ontwikkeling van robots versnellen. Een robot die eerst duizenden uren in een fabriek moet oefenen, leert dat nu deels in de computer. Daarna gaat hij de echte wereld in.\n\nOok zelfrijdende auto's kunnen profiteren. Zij krijgen meer oefenuren dan op de openbare weg mogelijk is. Zo worden ze mogelijk sneller veiliger.\n\nToch is een model geen kopie van de werkelijkheid. De echte wereld zit vol verrassingen. Een simulatie blijft een benadering."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en onderzoekers is dit relevant. Wie werkt aan robots of zelfrijdende voertuigen kan wereldmodellen gebruiken om sneller te testen. Denk aan de robotica-afdelingen van universiteiten of bedrijven in de logistiek. Ook de Nederlandse auto-industrie en toeleveranciers kunnen baat hebben bij simulaties. Let wel: de rekenkracht die nodig is, kan een drempel zijn. En de wetgeving rond zelfrijdende auto's in Nederland is nog volop in ontwikkeling. Het is nog niet bekend of er Nederlandse initiatieven zijn op het gebied van wereldmodellen.",
+ "faq": [
+  {
+   "q": "Wat is een AI-wereldmodel?",
+   "a": "Een AI-wereldmodel is software die de fysieke wereld in 3D nabootst. Robots en zelfrijdende auto's kunnen daarin oefenen met bewegen en reageren."
+  },
+  {
+   "q": "Waarom zijn wereldmodellen populair?",
+   "a": "Veel bedrijven investeren erin omdat je in een simulatie veilig en goedkoop kunt trainen. Je hebt geen fysieke proefopstelling nodig."
+  },
+  {
+   "q": "Wat betekent dit voor Nederland?",
+   "a": "Nederlandse bedrijven en onderzoekers kunnen wereldmodellen gebruiken voor robotica en zelfrijdende voertuigen. Of er al Nederlandse projecten zijn, is niet bekend."
+  }
+ ],
+ "slug": "ai-wereldmodellen-in-trek-zo-oefenen-robots-in-3d",
+ "kind": "news",
+ "date": "2026-11-08",
+ "published": "2026-11-08T21:23",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "AI-wereldmodellen zijn behoorlijk in trek, waar wat doen ze?",
+   "url": "https://www.bright.nl/nieuws/2156641/ai-wereldmodellen-zijn-behoorlijk-in-trek-waar-wat-doen-ze.html"
+  }
+ ],
+ "path": "/nieuws/ai-wereldmodellen-in-trek-zo-oefenen-robots-in-3d/",
+ "og": "/img/og/ai-wereldmodellen-in-trek-zo-oefenen-robots-in-3d.png",
+ "take": "Robots laten oefenen in een 3D-kopie van de wereld is een prima idee, zolang een mens bepaalt wanneer ze echt de straat op gaan. Bij mij blijven dat soort knoppen bij een mens, ook als het model honderdduizend rondjes heeft geoefend. Een demo waarin een robot schuurt langs een muur zegt me niks tot hij op een echte vloer staat."
+}

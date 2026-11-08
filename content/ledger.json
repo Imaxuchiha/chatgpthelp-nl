@@ -2831,6 +2831,18 @@
   "b0ae5318de": {
    "at": "2026-11-08T18:15:21.477035",
    "why": "high-risk"
+  },
+  "c84fac6da2": {
+   "at": "2026-11-08T21:23:48.594515",
+   "why": "ok"
+  },
+  "c1f11ae96d": {
+   "at": "2026-11-08T21:24:48.594515",
+   "why": "ok"
+  },
+  "53044e44b3": {
+   "at": "2026-11-08T21:25:48.594515",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3320,6 +3332,9 @@
   "Palo Alto Networks praat over overname Clutch van $500 miljoen",
   "Australische universiteiten zetten ChatGPT breed in bij opleidingen",
   "AI muziek herkennen: zo spot je nep-artiesten op Spotify",
-  "Google AI zoeken scholen: scholen kunnen Gemini overslaan, AI-zoeken niet"
+  "Google AI zoeken scholen: scholen kunnen Gemini overslaan, AI-zoeken niet",
+  "AI-wereldmodellen in trek: zo oefenen robots in 3D",
+  "Apple wil Siri ombouwen tot ai-agent die zelfstandig taken uitvoert",
+  "Apple jaagt op AI-agent voor Siri onder druk van Ternus"
  ]
 }

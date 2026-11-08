@@ -5714,5 +5714,55 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-08T21:24:04",
+  "slug": "",
+  "title": "AI-wereldmodellen in trek: zo oefenen robots in 3D",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-08T21:24:16",
+  "slug": "",
+  "title": "Apple wil Siri ombouwen tot ai-agent die zelfstandig taken uitvoert",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-08T21:24:27",
+  "slug": "",
+  "title": "Apple jaagt op AI-agent voor Siri onder druk van Ternus",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-08T21:24:52",
+  "slug": "",
+  "title": "AI-week 45: Apple bouwt Siri om, Google verplicht AI-zoeken op scholen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]

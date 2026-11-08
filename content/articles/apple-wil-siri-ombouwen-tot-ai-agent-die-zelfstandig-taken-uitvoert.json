@@ -1,0 +1,68 @@
+{
+ "keyword": "siri ai-agent",
+ "seo_title": "Siri ai-agent: Apple wil dat Siri zelf taken gaat doen",
+ "title": "Apple wil Siri ombouwen tot ai-agent die zelfstandig taken uitvoert",
+ "meta": "Apple werkt volgens Bright aan een ai-agent van Siri die zelf taken uitvoert. Lees wat topman Ternus wil en wat dit voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "apple",
+  "siri",
+  "ai-agent",
+  "assistent",
+  "iphone"
+ ],
+ "intro": "Apple wil van Siri een assistent maken die zelfstandig klussen voor je uitvoert. Topman John Ternus vindt de ai-achterstand van het bedrijf te groot en heeft softwarebaas Craig Federighi gevraagd Siri om te bouwen tot zo'n ai-agent. Dat meldt Bright.",
+ "takeaways": [
+  "John Ternus, topman bij Apple, is ontevreden over de ai-achterstand van het bedrijf.",
+  "Hij heeft softwarebaas Craig Federighi opdracht gegeven Siri om te bouwen tot een ai-agent.",
+  "Een ai-agent voert zelfstandig taken uit, zonder dat je elke stap aanstuurt.",
+  "Een releasedatum en prijs zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Apple met Siri van plan is",
+   "body": "Siri moet meer worden dan een stem die vragen beantwoordt. Volgens Bright wil Apple de assistent omvormen tot een ai-agent. Zo'n agent pakt zelf een taak op en werkt die af, zonder dat je bij elke stap iets hoeft te zeggen.\n\nDe opdracht komt van John Ternus, die binnen Apple een topfunctie heeft. Hij is naar verluidt niet tevreden met hoe ver het bedrijf achterloopt op het gebied van ai. Softwarebaas Craig Federighi moet de ombouw van Siri nu gaan uitvoeren.\n\nHoe die agent er precies uitziet, is nog niet bekend. Apple heeft zelf niets over de plannen naar buiten gebracht. De informatie komt van Bright en niet uit een officiële aankondiging."
+  },
+  {
+   "heading": "Waarom een ai-agent anders werkt",
+   "body": "Een gewone assistent wacht op een commando en geeft dan antwoord. Een ai-agent gaat een stap verder: die splitst een opdracht op in delen en voert die achter elkaar uit. Denk aan het opzoeken van informatie, het vergelijken van opties en het klaarzetten van een resultaat.\n\nBij een reis kan dat betekenen dat de agent vluchten vergelijkt en een voorstel klaarzet. Bij werk kan het gaan om het ordenen van mail of het voorbereiden van een overzicht. De gebruiker houdt wel de controle, maar hoeft niet elke handeling zelf te starten.\n\nApple is niet het enige bedrijf dat deze kant op gaat. OpenAI, Google en Anthropic werken al langer aan assistenten die meerdere stappen zelf kunnen zetten. Apple loopt op dat punt achter, en daar zit volgens Bright de irritatie bij Ternus."
+  },
+  {
+   "heading": "De ai-achterstand van Apple",
+   "body": "Apple stond jaren bekend als het bedrijf dat nieuwe technologie netjes afmaakt. Bij ai ligt dat anders. De eerste ai-functies kwamen later dan bij concurrenten en vielen in tests niet altijd mee.\n\nDat wringt, want Siri zit op elke iPhone en iPad. Een zwakke assistent valt daardoor direct op bij honderden miljoenen gebruikers. De druk om Siri slimmer te maken komt dus niet uit de lucht vallen.\n\nEen ombouw naar een ai-agent kost tijd. Apple moet de techniek betrouwbaar krijgen en tegelijk de privacy belofte overeind houden. Het bedrijf benadrukt vaker dat gegevens op het toestel zelf blijven waar dat kan."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Een datum waarop de nieuwe Siri verschijnt, is er niet. Ook is niet duidelijk of de ai-agent in één keer komt of in fases wordt uitgerold. Apple heeft de plannen niet bevestigd.\n\nOf Nederlandse gebruikers meteen aan de beurt zijn, is evenmin bekend. Apple bracht eerdere ai-functies eerst uit in de Verenigde Staten en daarna in Europa. Nederlands taalgebruik kwam daarbij vaak later aan bod dan Engels."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse iPhone-gebruikers verandert er op korte termijn weinig. Siri werkt hier gewoon zoals nu, en een releasedatum voor de ai-agent is niet bekend. Komt die agent er, dan is de vraag of hij meteen Nederlands spreekt. Apple leverde eerdere ai-functies eerst in de VS en pas later in Europa, met Nederlands vaak als laatste stap. Bedrijven die Siri in hun werk willen gebruiken, kunnen daar nu dus nog niet op plannen.",
+ "faq": [
+  {
+   "q": "Wat is een ai-agent?",
+   "a": "Een ai-agent is software die zelfstandig meerdere stappen zet om een taak af te maken. Je geeft één opdracht en de agent regelt de tussenstappen."
+  },
+  {
+   "q": "Wanneer komt de nieuwe Siri uit?",
+   "a": "Dat is nog niet bekend. Apple heeft de plannen niet bevestigd en er is geen releasedatum genoemd."
+  },
+  {
+   "q": "Werkt de nieuwe Siri in het Nederlands?",
+   "a": "Dat is niet duidelijk. Apple bracht ai-functies eerder eerst in de VS uit en daarna in Europa, waarbij Nederlands vaak later kwam."
+  }
+ ],
+ "slug": "apple-wil-siri-ombouwen-tot-ai-agent-die-zelfstandig-taken-uitvoert",
+ "kind": "news",
+ "date": "2026-11-08",
+ "published": "2026-11-08T21:24",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Apple wil Siri ombouwen tot AI-agent die zelfstandig taken uitvoert",
+   "url": "https://www.bright.nl/nieuws/2156625/apple-wil-siri-ombouwen-tot-ai-agent-die-zelfstandig-taken-uitvoert.html"
+  }
+ ],
+ "path": "/nieuws/apple-wil-siri-ombouwen-tot-ai-agent-die-zelfstandig-taken-uitvoert/",
+ "og": "/img/og/apple-wil-siri-ombouwen-tot-ai-agent-die-zelfstandig-taken-uitvoert.png",
+ "take": "Een ai-agent van Siri is leuk, maar ik benoem resultaten pas na maanden meten. Laat Apple eerst een jaar bewijzen dat die agent het huishouden echt uit handen neemt. Tot die tijd blijft het een aankondiging, en daar heb ik niets aan."
+}
