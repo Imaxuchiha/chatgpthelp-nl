@@ -2811,6 +2811,26 @@
   "b58fee4edb": {
    "at": "2026-11-08T11:34:35.918967",
    "why": "ok"
+  },
+  "dd56162899": {
+   "at": "2026-11-08T18:13:21.477035",
+   "why": "ok"
+  },
+  "3a10904324": {
+   "at": "2026-11-08T18:14:21.477035",
+   "why": "high-risk"
+  },
+  "3ecc8b1834": {
+   "at": "2026-11-08T18:14:21.477035",
+   "why": "poort"
+  },
+  "56b7bacf1d": {
+   "at": "2026-11-08T18:14:21.477035",
+   "why": "ok"
+  },
+  "b0ae5318de": {
+   "at": "2026-11-08T18:15:21.477035",
+   "why": "high-risk"
   }
  },
  "published_titles": [
@@ -3298,6 +3318,8 @@
   "Codex bij cult.fit: fitnessbedrijf bouwt eigen tools met AI",
   "Meta Spaces laat je samenwerken met AI-figuurtjes Muse",
   "Palo Alto Networks praat over overname Clutch van $500 miljoen",
-  "Australische universiteiten zetten ChatGPT breed in bij opleidingen"
+  "Australische universiteiten zetten ChatGPT breed in bij opleidingen",
+  "AI muziek herkennen: zo spot je nep-artiesten op Spotify",
+  "Google AI zoeken scholen: scholen kunnen Gemini overslaan, AI-zoeken niet"
  ]
 }

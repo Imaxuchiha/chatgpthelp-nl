@@ -1,0 +1,68 @@
+{
+ "keyword": "google ai zoeken scholen",
+ "seo_title": "Google AI zoeken scholen: geen keuze meer voor scholen",
+ "title": "Google AI zoeken scholen: scholen kunnen Gemini overslaan, AI-zoeken niet",
+ "meta": "Google biedt scholen meer keuze, maar AI-zoeken blijft verplicht. Wat betekent dit voor Nederlandse scholen en hun privacy?",
+ "category": "nieuws",
+ "tags": [
+  "google",
+  "ai",
+  "onderwijs",
+  "privacy",
+  "zoeken"
+ ],
+ "intro": "Google geeft scholen de mogelijkheid om Gemini over te slaan, maar AI-zoeken blijft verplicht. Dat meldt Ars Technica. Scholen krijgen dus meer keuze, maar niet de keuze die ze willen.",
+ "takeaways": [
+  "Scholen kunnen ervoor kiezen om Gemini niet te gebruiken, maar AI-zoeken is niet optioneel.",
+  "Google biedt technisch gezien meer keuze, maar de kern van AI-zoeken blijft verplicht.",
+  "De beslissing raakt privacy en controle over technologie in het onderwijs.",
+  "Nederlandse scholen moeten zich afvragen wat dit betekent voor hun data en lesmateriaal."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Google precies aanbiedt",
+   "body": "Google zegt dat scholen zelf mogen bepalen of ze Gemini gebruiken. Dat lijkt een keuze. Toch blijft AI-zoeken onderdeel van de zoekresultaten, ook als een school Gemini overslaat. Volgens Ars Technica is dat geen echte keuze: de AI-laag zit vast aan het zoeken zelf.\n\nScholen die bezwaar hebben tegen AI in de klas, kunnen dus niet volledig terug naar het oude zoeken. Google noemt dat technisch gezien een aparte optie, maar de zoekfunctie zelf verandert mee. De vraag is of scholen daar iets aan hebben."
+  },
+  {
+   "heading": "Waarom dit gevoelig ligt",
+   "body": "Veel scholen maken zich zorgen over privacy en over de invloed van grote techbedrijven op lesmateriaal. AI-zoeken kan bijvoorbeeld antwoorden geven die niet kloppen of die leerlingen te veel laten vertrouwen op één bron. Door AI-zoeken verplicht te stellen, houdt Google controle over hoe informatie wordt gepresenteerd.\n\nArs Technica noemt het een keuze die niemand wil: je mag iets overslaan, maar de kern blijft. Voor scholen die een alternatief zoeken, is dat lastig. Overstappen naar een andere zoekmachine is mogelijk, maar kost tijd en geld."
+  },
+  {
+   "heading": "Wat betekent dit voor Nederland",
+   "body": "Nederlandse scholen vallen onder Europese privacyregels. Als AI-zoeken standaard aan staat, moeten scholen goed kijken welke data naar Google gaan. De Autoriteit Persoonsgegevens heeft eerder kritiek geuit op grote techbedrijven in het onderwijs. Scholen moeten dus zelf beoordelen of deze verplichte AI-laag past binnen hun afspraken.\n\nDaarnaast speelt mee dat veel Nederlandse scholen al gebruikmaken van Google Workspace for Education. Wie daarin zit, krijgt mogelijk automatisch met AI-zoeken te maken. Het is nog niet bekend of Google een aparte optie biedt voor Europese scholen. Dat maakt de keuze voor veel besturen lastig."
+  },
+  {
+   "heading": "Hoe scholen kunnen reageren",
+   "body": "Scholen die AI-zoeken willen vermijden, kunnen kiezen voor een andere zoekmachine of voor een eigen leeromgeving. Dat vraagt wel om investering in apparatuur en begeleiding. Ook kunnen ze met Google in gesprek gaan over de instellingen. Of dat lukt, hangt af van de contracten die al lopen.\n\nVoor docenten is het vooral belangrijk om leerlingen te leren hoe AI-zoekresultaten tot stand komen. Zo kunnen ze kritisch blijven kijken naar wat ze online vinden. De discussie over AI in het onderwijs is daarmee nog niet voorbij."
+  }
+ ],
+ "nl_angle": "Nederlandse scholen die met Google werken, krijgen te maken met een verplichte AI-laag in de zoekfunctie. Dat raakt direct aan privacy en aan de manier waarop leerlingen informatie vinden. Besturen moeten nagaan of hun contracten ruimte bieden om AI-zoeken uit te zetten. De Autoriteit Persoonsgegevens houdt toezicht op dataverwerking in het onderwijs. Scholen doen er goed aan om dit punt mee te nemen in hun volgende leveranciersgesprek.",
+ "faq": [
+  {
+   "q": "Kunnen scholen AI-zoeken van Google uitzetten?",
+   "a": "Volgens Ars Technica kunnen scholen Gemini overslaan, maar AI-zoeken blijft onderdeel van de zoekresultaten. Of dat in Nederland ook geldt, is nog niet duidelijk."
+  },
+  {
+   "q": "Wat betekent dit voor de privacy van leerlingen?",
+   "a": "AI-zoeken kan data naar Google sturen. Scholen moeten controleren of dat past binnen de Europese privacyregels en hun eigen afspraken."
+  },
+  {
+   "q": "Hebben Nederlandse scholen een alternatief?",
+   "a": "Ja, ze kunnen kiezen voor een andere zoekmachine of een eigen leeromgeving. Dat kost wel tijd en geld."
+  }
+ ],
+ "slug": "google-ai-zoeken-scholen-scholen-kunnen-gemini-overslaan-ai-zoeken-nie",
+ "kind": "news",
+ "date": "2026-11-08",
+ "published": "2026-11-08T18:14",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+   "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/"
+  }
+ ],
+ "path": "/nieuws/google-ai-zoeken-scholen-scholen-kunnen-gemini-overslaan-ai-zoeken-nie/",
+ "og": "/img/og/google-ai-zoeken-scholen-scholen-kunnen-gemini-overslaan-ai-zoeken-nie.png",
+ "take": "Scholen mogen Gemini overslaan, maar AI-zoeken niet. Dat is kiezen tussen twee dingen die je niet wilt en het dan keuzevrijheid noemen. Mijn regel is simpel: als een leverancier een optie geeft, vraag dan wat de optie kost die je niet mag weigeren."
+}

@@ -5663,5 +5663,56 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-08T18:13:35",
+  "slug": "",
+  "title": "AI muziek herkennen: zo spot je nep-artiesten op Spotify",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-08T18:13:45",
+  "slug": "",
+  "title": "Gemini gaat ouders waarschuwen als kinderen over zelfbeschadiging praten",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-08T18:13:55",
+  "slug": "",
+  "title": "Google AI zoeken scholen: scholen kunnen Gemini overslaan, AI-zoeken niet",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-08T18:14:16",
+  "slug": "",
+  "title": "AI nieuws week 45: OpenAI, Google en Meta bepalen de agenda",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
  }
 ]
