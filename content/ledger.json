@@ -2847,6 +2847,26 @@
   "ba4fd3aa9b": {
    "at": "2026-11-09T12:46:19.640669",
    "why": "poort"
+  },
+  "56a4998068": {
+   "at": "2026-11-09T22:36:36.677712",
+   "why": "poort"
+  },
+  "f1eea0a278": {
+   "at": "2026-11-09T22:36:36.677712",
+   "why": "poort"
+  },
+  "9c331579e2": {
+   "at": "2026-11-09T22:36:36.677712",
+   "why": "ok"
+  },
+  "932fe34bad": {
+   "at": "2026-11-09T22:37:36.677712",
+   "why": "ok"
+  },
+  "044985615b": {
+   "at": "2026-11-09T22:38:36.677712",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3339,6 +3359,9 @@
   "Google AI zoeken scholen: scholen kunnen Gemini overslaan, AI-zoeken niet",
   "AI-wereldmodellen in trek: zo oefenen robots in 3D",
   "Apple wil Siri ombouwen tot ai-agent die zelfstandig taken uitvoert",
-  "Apple jaagt op AI-agent voor Siri onder druk van Ternus"
+  "Apple jaagt op AI-agent voor Siri onder druk van Ternus",
+  "ChatGPT Enterprise is nu te koop via AWS Marketplace",
+  "OpenAI API laat Kuken 70 jaar tekeningen in minuten doorzoeken",
+  "Samsung AI-functies worden betaald: wat verandert er?"
  ]
 }

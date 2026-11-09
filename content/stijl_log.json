@@ -5786,5 +5786,60 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-09T22:36:51",
+  "slug": "",
+  "title": "Anthropic lanceert Claude Fable en Mythos 5.2: sneller en beter in code",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-09T22:37:02",
+  "slug": "",
+  "title": "ChatGPT Enterprise is nu te koop via AWS Marketplace",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-09T22:37:12",
+  "slug": "",
+  "title": "OpenAI API laat Kuken 70 jaar tekeningen in minuten doorzoeken",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S5",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-09T22:37:21",
+  "slug": "",
+  "title": "Samsung AI-functies worden betaald: wat verandert er?",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

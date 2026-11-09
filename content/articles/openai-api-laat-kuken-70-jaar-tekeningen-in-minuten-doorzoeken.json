@@ -1,0 +1,63 @@
+{
+ "keyword": "openai tekeningen zoeken",
+ "seo_title": "OpenAI tekeningen zoeken: 70 jaar archief in minuten",
+ "title": "OpenAI API laat Kuken 70 jaar tekeningen in minuten doorzoeken",
+ "meta": "Kuken Industries vindt met de OpenAI API een reparatietekening in 4,5 minuut. Zo werkt AI-zoeken in een archief van 70 jaar en wat betekent dat in…",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai in de techniek",
+  "archief",
+  "koeltorens",
+  "documentzoeken"
+ ],
+ "intro": "Kuken Industries doorzoekt met de OpenAI API een archief van zeventig jaar koeltoren-tekeningen. Een monteur vindt de juiste tekening voor een reparatie in 4,5 minuut. Vroeger kostte dat bijna een uur, meldt OpenAI.",
+ "takeaways": [
+  "Kuken Industries gebruikt de OpenAI API om zeventig jaar aan koeltoren-tekeningen te doorzoeken.",
+  "Een ingenieur vindt een reparatietekening in 4,5 minuut, tegen bijna een uur eerder.",
+  "Het bedrijf bouwt koeltorens; oude tekeningen zijn nodig bij onderhoud en reparatie."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Kuken met de OpenAI API doet",
+   "body": "Kuken Industries bouwt koeltorens. In zeventig jaar verzamelde het bedrijf een groot archief aan technische tekeningen. Die tekeningen zijn nodig zodra een klant een reparatie of aanpassing wil.\n\nHet zoeken in dat archief kostte veel tijd. Een ingenieur was bijna een uur bezig om de juiste tekening te vinden. Met de OpenAI API duurt dat nu 4,5 minuut, volgens OpenAI.\n\nHet bedrijf gebruikt de API dus voor het doorzoeken van eigen documenten. OpenAI noemt geen prijs, geen aantal tekeningen en geen technische details over de gebruikte modellen."
+  },
+  {
+   "heading": "Waarom oude tekeningen lastig zijn",
+   "body": "Technische tekeningen uit verschillende decennia verschillen in opmaak, handschrift en kwaliteit. Een gewone zoekfunctie pakt dat soort verschillen slecht op. Een taalmodel kan wel overweg met rommelige tekst en oude scans.\n\nVoor Kuken telt de tijdwinst per reparatie. Een monteur die bij een klant staat, wil snel het juiste bouwjaar en de juiste uitvoering hebben. Minuten zoeken schelen direct in de kosten van een servicebeurt.\n\nOpenAI geeft geen cijfers over hoeveel aanvragen Kuken per dag doet. Ook is niet bekend of het bedrijf de tekeningen zelf heeft gedigitaliseerd of dat al eerder deed."
+  },
+  {
+   "heading": "Wat dit zegt over AI in de techniek",
+   "body": "Dit is een praktijkvoorbeeld van AI die geen nieuwe tekst maakt, maar bestaande documenten terugvindt. Dat soort werk komt veel voor bij bedrijven met een lang verleden. Denk aan machinebouw, installatietechniek en scheepsbouw.\n\nDe winst zit in het archief zelf. Veel bedrijven hebben hun oude tekeningen nooit goed ontsloten. Een model dat daar doorheen zoekt, maakt kennis bruikbaar die anders in kasten blijft liggen.\n\nOpenAI publiceert het voorbeeld als klantverhaal. Onafhankelijke cijfers over de nauwkeurigheid van zulke zoekopdrachten ontbreken in de bron."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven met een oud tekeningenarchief is dit een concreet voorbeeld. Denk aan installateurs, machinebouwers en waterschappen met decennia aan technische documenten. De OpenAI API is in Nederland en de EU gewoon af te nemen, maar let op de regels voor persoonsgegevens en datalocatie. Zet je tekeningen in een Europese of eigen omgeving als dat nodig is. Een proef met één archiefdeel geeft snel zicht op de tijdwinst.",
+ "faq": [
+  {
+   "q": "Hoe snel vindt Kuken een tekening met de OpenAI API?",
+   "a": "Een ingenieur vindt de juiste tekening in 4,5 minuut. Zonder de API kostte dat bijna een uur, volgens OpenAI."
+  },
+  {
+   "q": "Wat bouwt Kuken Industries?",
+   "a": "Kuken Industries bouwt koeltorens. Het bedrijf gebruikt de OpenAI API om zeventig jaar aan eigen tekeningen te doorzoeken."
+  },
+  {
+   "q": "Kan mijn bedrijf in Nederland dit ook gebruiken?",
+   "a": "De OpenAI API is hier beschikbaar. Voor eigen documenten gelden wel de Europese regels voor gegevensbescherming. Kijk per archief welke gegevens je deelt."
+  }
+ ],
+ "slug": "openai-api-laat-kuken-70-jaar-tekeningen-in-minuten-doorzoeken",
+ "kind": "news",
+ "date": "2026-11-09",
+ "published": "2026-11-09T22:37",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "url": "https://openai.com/index/kuken"
+  }
+ ],
+ "path": "/nieuws/openai-api-laat-kuken-70-jaar-tekeningen-in-minuten-doorzoeken/",
+ "og": "/img/og/openai-api-laat-kuken-70-jaar-tekeningen-in-minuten-doorzoeken.png",
+ "take": "Een monteur die in 4,5 minuut een tekening vindt in plaats van in bijna een uur, dat is de maat waar ik naar kijk. AI die een archief van zeventig jaar ontsluit levert gewoon tijd op, en die tijd kun je aanwijzen. Mooi dat OpenAI dit deelt, maar ik zie liever de rekening dan de demo: pas als zo'n klant vertelt wat het per maand kost en wat het oplevert, geloof ik dat het werkt."
+}

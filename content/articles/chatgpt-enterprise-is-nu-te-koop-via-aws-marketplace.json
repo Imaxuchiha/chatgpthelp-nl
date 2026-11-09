@@ -1,0 +1,68 @@
+{
+ "keyword": "chatgpt enterprise aws",
+ "seo_title": "ChatGPT Enterprise nu via AWS Marketplace te koop",
+ "title": "ChatGPT Enterprise is nu te koop via AWS Marketplace",
+ "meta": "ChatGPT Enterprise is beschikbaar in AWS Marketplace. Zo kopen bedrijven het via hun bestaande AWS-factuur, ook in Nederland. Wat dat praktisch betekent.",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt enterprise",
+  "aws marketplace",
+  "openai",
+  "inkoop",
+  "zakelijk"
+ ],
+ "intro": "OpenAI heeft ChatGPT Enterprise toegevoegd aan AWS Marketplace. Organisaties kunnen het zakelijke ChatGPT-abonnement daardoor afnemen via hun bestaande AWS-inkoop en facturatie. Voor veel bedrijven scheelt dat een apart contract en een extra leverancier in de administratie.",
+ "takeaways": [
+  "ChatGPT Enterprise staat sinds 9 november 2026 in AWS Marketplace, meldt OpenAI.",
+  "Afrekenen loopt via de bestaande AWS-relatie van een organisatie.",
+  "OpenAI noemt vereenvoudigde inkoop als het belangrijkste voordeel.",
+  "Prijs, regio's en releasedatum voor Nederland noemt OpenAI niet in de aankondiging."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies verandert",
+   "body": "ChatGPT Enterprise is het zakelijke abonnement van OpenAI. Het is bedoeld voor organisaties die het model met meerdere medewerkers gebruiken. Tot nu toe liep zo'n afname via OpenAI zelf.\n\nNu staat het product ook in AWS Marketplace. Dat is de online winkel van Amazon Web Services, waar bedrijven software kopen en die op dezelfde factuur zetten als hun clouddiensten. Volgens OpenAI hoeven klanten daardoor geen nieuwe inkooprelatie op te tuigen.\n\nDe aankondiging gaat over inkoop en facturatie. OpenAI zegt niets over nieuwe functies in ChatGPT Enterprise zelf."
+  },
+  {
+   "heading": "Waarom inkoop via de cloudfactuur uitmaakt",
+   "body": "Grote organisaties hebben vaak al een contract met AWS. Software die via die marktplaats loopt, valt onder dezelfde voorwaarden en dezelfde betalingstermijnen. Inkoopafdelingen hoeven dan geen aparte leveranciersbeoordeling te doen.\n\nDat klinkt als administratie, maar het bepaalt in de praktijk of een tool snel wordt goedgekeurd. Een los contract betekent vaak een extra juridische check en een nieuwe factuurstroom. Via de cloudfactuur verdwijnt dat werk.\n\nAWS Marketplace rekent doorgaans in dollars. Nederlandse bedrijven betalen dus in Amerikaanse valuta, tenzij hun AWS-account in euro's loopt. OpenAI geeft in de aankondiging geen prijzen."
+  },
+  {
+   "heading": "Wat OpenAI wel en niet zegt",
+   "body": "De aankondiging is kort. OpenAI noemt de beschikbaarheid in AWS Marketplace en het gemak van bestaande inkoop- en facturatiestromen. Meer details ontbreken.\n\nOnbekend is welke regio's meteen meedoen. Ook is niet duidelijk of Nederlandse organisaties direct kunnen bestellen of eerst moeten wachten. Over een europrijs of korting zegt OpenAI niets.\n\nWie al een ChatGPT Enterprise-contract heeft, hoeft vermoedelijk niets te doen. Of bestaande klanten kunnen overstappen naar de AWS-factuur, vermeldt de aankondiging niet."
+  },
+  {
+   "heading": "Concurrentie om de zakelijke koper",
+   "body": "OpenAI is niet de enige die via cloudmarktplaatsen verkoopt. Amazon biedt in AWS Marketplace ook andere AI-modellen aan. Voor inkopers wordt het daardoor makkelijker om aanbieders naast elkaar te zetten op dezelfde factuur.\n\nVoor OpenAI telt bereik. Elke organisatie die al bij AWS zit, is nu een potentiële klant zonder extra inkoopstap. Dat verlaagt de drempel, zeker bij bedrijven waar IT en inkoop strikt gescheiden zijn."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven met een AWS-account wordt ChatGPT Enterprise vooral een inkoopvraagstuk. Ligt je cloudcontract al bij AWS, dan kun je het abonnement mogelijk op dezelfde factuur zetten. Dat scheelt werk voor IT en finance. Let wel op de valuta en op je eigen inkoopregels: sommige organisaties eisen een Europese factuur of een Nederlandse leverancier. OpenAI noemt geen europrijs en geen aparte voorwaarden voor Nederland, dus vraag die na bij je AWS-contactpersoon of bij OpenAI voordat je bestelt.",
+ "faq": [
+  {
+   "q": "Wat is ChatGPT Enterprise?",
+   "a": "Dat is het zakelijke abonnement van OpenAI, bedoeld voor organisaties die ChatGPT met meerdere medewerkers gebruiken. OpenAI noemt in deze aankondiging geen functies of prijzen."
+  },
+  {
+   "q": "Hoe koop ik ChatGPT Enterprise via AWS Marketplace?",
+   "a": "Volgens OpenAI verloopt de afname via je bestaande AWS-inkoop en facturatie. De precieze stappen en voorwaarden staan niet in de aankondiging."
+  },
+  {
+   "q": "Wat kost ChatGPT Enterprise in Nederland?",
+   "a": "Een europrijs maakt OpenAI niet bekend. AWS rekent vaak in dollars, dus controleer je valuta en inkoopregels voordat je bestelt."
+  }
+ ],
+ "slug": "chatgpt-enterprise-is-nu-te-koop-via-aws-marketplace",
+ "kind": "news",
+ "date": "2026-11-09",
+ "published": "2026-11-09T22:36",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+  }
+ ],
+ "path": "/nieuws/chatgpt-enterprise-is-nu-te-koop-via-aws-marketplace/",
+ "og": "/img/og/chatgpt-enterprise-is-nu-te-koop-via-aws-marketplace.png",
+ "take": "Een enterprise-abonnement via je AWS-factuur is handig voor de administratie, daar zeg ik niks op. Maar voordat je dat intekent, wil ik weten wat je met die licentie gaat meten, want de meeste bedrijven kopen een AI-tool en vergeten de koppelingen met hun advertentie- en verkoopdata. Mijn ervaring is dat de meeste problemen in accounts meetfouten zijn, dus eerst je meting op orde en dan pas een dure zitplaats erbij."
+}
