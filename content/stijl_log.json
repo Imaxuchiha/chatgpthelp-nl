@@ -5764,5 +5764,27 @@
   ],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-09T12:46:34",
+  "slug": "",
+  "title": "OpenAI stelt beursgang uit bij waardering van 1,25 biljoen",
+  "kind": "news",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-09T12:46:57",
+  "slug": "",
+  "title": "Is ChatGPT gratis? Wat je wel en niet krijgt",
+  "kind": "evergreen",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

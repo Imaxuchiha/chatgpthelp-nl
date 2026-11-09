@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: buurtapp-ruzies sussen met een neutrale samenvatting",
+ "situation": "Gebruik dit als een discussie in je buurtapp of WhatsApp-groep uit de hand loopt en je wilt dat iedereen weer hetzelfde beeld heeft van wat er speelt.",
+ "prompt": "Je bent een onafhankelijke buurtbemiddelaar. Ik plak hieronder een reeks berichten uit onze buurtapp over [ONDERWERP, bijvoorbeeld parkeren of geluidsoverlast]. Maak een neutrale samenvatting van maximaal 250 woorden. Zet eerst op een rij welke feiten door meerdere mensen worden genoemd. Benoem daarna per partij wat hun zorg is, in eigen woorden en zonder oordeel. Laat standpunten weg die alleen als verwijt zijn geschreven. Sluit af met drie concrete vragen die de buurt tijdens een kort overleg kan beantwoorden om een stap verder te komen. Gebruik geen namen, vervang die door BEWONER A, BEWONER C enzovoort. Houd de toon rustig en zakelijk, alsof je verslag doet voor iemand die er niet bij was. Hier zijn de berichten: [PLAK DE BERICHTEN HIER].",
+ "tip": "Plak ook de datum en het tijdstip van elk bericht erbij, dan kan ChatGPT de volgorde van de discussie beter volgen.",
+ "tags": [
+  "buurt",
+  "communicatie",
+  "bemiddeling",
+  "WhatsApp"
+ ],
+ "date": "2026-11-09",
+ "slug": "prompt-buurtapp-ruzies-sussen-met-een-neutrale-samenvatting",
+ "path": "/prompts/2026-11-09-prompt-buurtapp-ruzies-sussen-met-een-neutrale-samenvatting/"
+}
