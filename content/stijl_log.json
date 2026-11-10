@@ -5906,5 +5906,55 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-10T12:23:19",
+  "slug": "",
+  "title": "AI in het onderwijs: OpenAI richt zich op leraren en AI-vaardigheid",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-10T12:23:27",
+  "slug": "",
+  "title": "Apple Intelligence-tegoed kost je eenmalig vijftig dollar",
+  "kind": "news",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-10T12:23:38",
+  "slug": "",
+  "title": "Otter AI volgt gesprekken in ruim 30 talen, ook bij taalwissel",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-10T12:23:51",
+  "slug": "",
+  "title": "Anthropic IPO: beursgang lijkt deze week vorm te krijgen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

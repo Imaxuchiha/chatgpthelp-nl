@@ -2883,6 +2883,22 @@
   "4a7141713a": {
    "at": "2026-11-10T01:11:46.948465",
    "why": "ok"
+  },
+  "01a8528fa1": {
+   "at": "2026-11-10T12:23:06.817352",
+   "why": "ok"
+  },
+  "929b6e8f04": {
+   "at": "2026-11-10T12:24:06.817352",
+   "why": "poort"
+  },
+  "0cb7ad579a": {
+   "at": "2026-11-10T12:24:06.817352",
+   "why": "ok"
+  },
+  "6289435bdb": {
+   "at": "2026-11-10T12:25:06.817352",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3381,6 +3397,9 @@
   "Samsung AI-functies worden betaald: wat verandert er?",
   "OpenAI Control Room houdt modelwerkzaamheden in de gaten",
   "CodeRabbit levert 20x meer software met OpenAI Codex",
-  "Apple verkoopt extra AI-gebruik in Logic Pro voor $50"
+  "Apple verkoopt extra AI-gebruik in Logic Pro voor $50",
+  "AI in het onderwijs: OpenAI richt zich op leraren en AI-vaardigheid",
+  "Otter AI volgt gesprekken in ruim 30 talen, ook bij taalwissel",
+  "Anthropic IPO: beursgang lijkt deze week vorm te krijgen"
  ]
 }

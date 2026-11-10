@@ -1,0 +1,67 @@
+{
+ "keyword": "ai in het onderwijs",
+ "seo_title": "AI in het onderwijs: OpenAI wil leraren beter ondersteunen",
+ "title": "AI in het onderwijs: OpenAI richt zich op leraren en AI-vaardigheid",
+ "meta": "OpenAI deelt lessen uit Europese onderwijsprojecten. Lees wat dat betekent voor AI in het onderwijs en voor scholen in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "onderwijs",
+  "ai-vaardigheid",
+  "leraren",
+  "europa"
+ ],
+ "intro": "OpenAI heeft lessen gepubliceerd uit zijn onderwijsprojecten in Europa, het Midden-Oosten en Afrika. Het bedrijf koppelt die aan nieuw onderzoek van ThinkYoung. De kern: leraren ondersteunen en leerlingen zelfstandig laten leren met AI.",
+ "takeaways": [
+  "OpenAI bundelt ervaringen uit onderwijsprojecten in Europa, het Midden-Oosten en Afrika.",
+  "Het bedrijf noemt steun aan leraren, AI-vaardigheid en zelfstandig leren als speerpunten.",
+  "Nieuw onderzoek van ThinkYoung vormt de basis voor de aanpak.",
+  "OpenAI noemt geen bedragen, data of concrete vervolgstappen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies zegt",
+   "body": "Volgens OpenAI is er een gat tussen wat scholen nodig hebben en wat er aan begeleiding beschikbaar is. Het bedrijf spreekt over een guidance gap: richtlijnen en hulp bij het gebruik van AI in de klas.\n\nOpenAI baseert zich op eigen samenwerkingen met onderwijsinstellingen in Europa, het Midden-Oosten en Afrika. Daarnaast gebruikt het bedrijf nieuw onderzoek van ThinkYoung, een organisatie die zich richt op jongeren in Europa.\n\nDrie thema's komen terug: leraren ondersteunen, AI-vaardigheid opbouwen en zelfstandig leren bevorderen. Concrete cijfers of voorbeelden van scholen geeft OpenAI in de aankondiging niet."
+  },
+  {
+   "heading": "Waarom leraren centraal staan",
+   "body": "Veel discussie over AI in de klas gaat over leerlingen die opdrachten laten uitvoeren door een chatbot. OpenAI legt de nadruk op de leraar als begeleider.\n\nDat past bij een bredere lijn in het onderwijs: hulpmiddelen werken beter als de docent weet wat ze doen en wanneer ze wel of niet passen. AI-vaardigheid gaat dan over begrijpen wat een model doet, inclusief de fouten die het maakt.\n\nZelfstandig leren is het derde punt. Leerlingen zouden AI kunnen gebruiken om vragen te stellen en uitleg te krijgen, zonder dat het denkwerk wordt overgenomen. Hoe scholen dat precies moeten aanpakken, blijft in de aankondiging open."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "OpenAI noemt geen namen van scholen, geen deelnemersaantallen en geen bedragen. Of er nieuwe financiering komt voor onderwijsprojecten, is niet duidelijk.\n\nOok ontbreekt een tijdpad. Het is niet bekend of er Nederlandse of Europese richtlijnen uit dit traject volgen, en of OpenAI daarvoor met overheden gaat samenwerken.\n\nWat wel vaststaat: het bedrijf zet het onderwerp hoger op de agenda. Scholen die nu al met AI werken, krijgen daarmee meer aandacht voor begeleiding en afspraken."
+  },
+  {
+   "heading": "AI-beleid op scholen in Europa",
+   "body": "In de Europese Unie valt het gebruik van AI in het onderwijs onder de AI-verordening. Die verdeelt toepassingen in risicoklassen. Onderwijs komt daarin op een plek waar extra eisen gelden, bijvoorbeeld op het gebied van transparantie en toezicht.\n\nVoor scholen betekent dat: niet alleen kijken naar wat een tool kan, maar ook naar wat je erover moet vastleggen. Denk aan heldere afspraken over gebruik door leerlingen en docenten.\n\nOpenAI gaat in zijn bericht niet in op die regels. De oproep om leraren te ondersteunen staat los van de vraag hoe scholen aan de Europese eisen voldoen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse scholen, van basisschool tot mbo en hoger onderwijs, zegt dit vooral iets over de richting. AI-hulpmiddelen komen er, en de vraag verschuift van verbieden naar begeleiden. Scholen die nu afspraken maken over gebruik door docenten en leerlingen, lopen voorop. Concrete Nederlandse projecten of steun van OpenAI worden niet genoemd, dus wat er hier precies gebeurt, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat doet OpenAI in het onderwijs?",
+   "a": "OpenAI werkt samen met onderwijsinstellingen in Europa, het Midden-Oosten en Afrika. Het bedrijf richt zich op steun aan leraren, AI-vaardigheid en zelfstandig leren."
+  },
+  {
+   "q": "Wat is het guidance gap in het onderwijs?",
+   "a": "Daarmee bedoelt OpenAI het verschil tussen wat scholen nodig hebben en de begeleiding die er is bij het gebruik van AI in de klas."
+  },
+  {
+   "q": "Geldt de Europese AI-wet ook voor scholen?",
+   "a": "Ja. AI-toepassingen in het onderwijs vallen onder de AI-verordening van de EU, met extra eisen op het gebied van transparantie en toezicht."
+  }
+ ],
+ "slug": "ai-in-het-onderwijs-openai-richt-zich-op-leraren-en-ai-vaardigheid",
+ "kind": "news",
+ "date": "2026-11-10",
+ "published": "2026-11-10T12:23",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Closing the AI guidance gap in education",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+  }
+ ],
+ "path": "/nieuws/ai-in-het-onderwijs-openai-richt-zich-op-leraren-en-ai-vaardigheid/",
+ "og": "/img/og/ai-in-het-onderwijs-openai-richt-zich-op-leraren-en-ai-vaardigheid.png"
+}
