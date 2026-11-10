@@ -1,0 +1,15 @@
+{
+ "title": "Oude sokken vervangen: voorraadkast uitmesten met plan",
+ "situation": "Handig als je kledingkast uitpuilt en je niet weet waar je moet beginnen met opruimen. Je krijgt een concreet afvoerplan in plaats van een vaag opruimadvies.",
+ "prompt": "Je bent een praktische opruimcoach voor een huishouden in Nederland. Ik wil mijn kledingkast en voorraadkast uitmesten, maar ik raak steeds overweldigd. Mijn situatie: [AANTAL PERSONEN IN HUIS], [SOORT KAST, BIJV. SLAAPKAMERKAST OF GARAGEKAST], ongeveer [AANTAL STUKS] items en [AANTAL UREN] beschikbaar deze week. Mijn doel: [BIJV. ALLEEN WAT IK ECHT DRAGEN, RUIMTE VOOR NIEUWE AANKOPEN]. Geef een stappenplan in blokken van maximaal 30 minuten. Verdeel spullen in vier bakken: houden, weggeven, textielcontainer en twijfel. Voeg per bak een concreet besliscriterium toe, bijvoorbeeld: had ik dit het afgelopen jaar aan? Geef ook een voorbeeld van hoe ik een twijfelstuk in twee dagen beslis. Sluit af met een korte checklist die ik na elk blok afvink. Houd de toon nuchter en de stappen uitvoerbaar zonder iets te kopen.",
+ "tip": "Vul bij het aantal uren liever te weinig dan te veel in; dan blijft het plan realistisch.",
+ "tags": [
+  "opruimen",
+  "huishouden",
+  "thuis",
+  "planning"
+ ],
+ "date": "2026-11-10",
+ "slug": "oude-sokken-vervangen-voorraadkast-uitmesten-met-plan",
+ "path": "/prompts/2026-11-10-oude-sokken-vervangen-voorraadkast-uitmesten-met-plan/"
+}

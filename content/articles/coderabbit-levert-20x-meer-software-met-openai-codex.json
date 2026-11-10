@@ -1,0 +1,64 @@
+{
+ "keyword": "coderabbit openai codex",
+ "seo_title": "CodeRabbit openai codex: 20x meer software met zelfde team",
+ "title": "CodeRabbit levert 20x meer software met OpenAI Codex",
+ "meta": "CodeRabbit gebruikt OpenAI-modellen en Codex om AI-code te controleren en 20x meer software te leveren met hetzelfde team. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "codex",
+  "coderabbit",
+  "softwareontwikkeling",
+  "ai-agents"
+ ],
+ "intro": "CodeRabbit gebruikt OpenAI-modellen om door AI geschreven code te beoordelen en te vertrouwen. Met Codex levert het bedrijf twintig keer meer software met hetzelfde engineeringteam. OpenAI meldt dat in een klantverhaal van 9 november 2026.",
+ "takeaways": [
+  "CodeRabbit zet OpenAI-modellen in om AI-gegenereerde code te controleren en te vertrouwen.",
+  "Met Codex levert hetzelfde team twintig keer meer software.",
+  "Het gaat om agentische softwareontwikkeling: agents schrijven en beoordelen code.",
+  "OpenAI noemt CodeRabbit als voorbeeld van opschaling met Codex."
+ ],
+ "sections": [
+  {
+   "heading": "Wat CodeRabbit precies doet",
+   "body": "CodeRabbit is een tool die code automatisch nakijkt. Ontwikkelaars krijgen feedback voordat een wijziging wordt samengevoegd. Daarbij gebruikt het bedrijf modellen van OpenAI om te bepalen welke AI-code betrouwbaar genoeg is.\n\nDat is nodig zodra agents zelf code gaan schrijven. Een agent levert dan werk op dat niemand handmatig heeft getypt. De controle moet dus ook deels automatisch gaan. Volgens OpenAI is dat de kern van wat CodeRabbit doet: de code beoordelen en erop vertrouwen."
+  },
+  {
+   "heading": "Twintig keer meer opleveren",
+   "body": "Het concrete resultaat dat OpenAI noemt is groot. CodeRabbit levert twintig keer meer software op met hetzelfde aantal engineers. Dat cijfer komt uit het klantverhaal en is niet onafhankelijk nagerekend.\n\nHoe dat in de praktijk werkt, maakt OpenAI niet tot in detail duidelijk. Wel is het patroon herkenbaar: agents nemen het repetitieve werk over, mensen houden het overzicht. Of die factor twintig bij elk team haalbaar is, staat nergens. Dat blijft dus een vraag."
+  },
+  {
+   "heading": "Agentische ontwikkeling in het kort",
+   "body": "Agentische softwareontwikkeling betekent dat AI niet alleen suggesties doet in de editor. De agent pakt een taak op, schrijft code, test die en levert een voorstel op. Een reviewer of een tweede systeem keurt het resultaat goed.\n\nDaarmee verschuift het werk van typen naar beoordelen. Voor teams betekent dat minder handwerk en meer controle. De kwaliteit van die controle bepaalt of de snelheid echt iets oplevert."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelteams is dit vooral een signaal over de rolverdeling. De winst zit in sneller opleveren, de risico's in minder handmatige controle. Let bij tools als CodeRabbit op waar de code wordt verwerkt en of dat past bij je afspraken met klanten. Ook under de Europese AI-regels blijft een mens verantwoordelijk voor wat er live gaat. Bedrijven die met agents willen werken, doen er goed aan eerst de reviewstap goed in te richten.",
+ "faq": [
+  {
+   "q": "Wat is CodeRabbit?",
+   "a": "CodeRabbit is een tool die code automatisch nakijkt. Het bedrijf gebruikt OpenAI-modellen om AI-gegenereerde code te beoordelen en te vertrouwen."
+  },
+  {
+   "q": "Wat betekent 20x meer software precies?",
+   "a": "Volgens OpenAI levert CodeRabbit twintig keer meer software met hetzelfde engineeringteam. Dat cijfer komt uit het klantverhaal en is niet onafhankelijk gecontroleerd."
+  },
+  {
+   "q": "Wat is Codex van OpenAI?",
+   "a": "Codex is de naam die OpenAI gebruikt voor zijn model en tooling voor het schrijven van code. CodeRabbit zet het in bij het opleveren van software."
+  }
+ ],
+ "slug": "coderabbit-levert-20x-meer-software-met-openai-codex",
+ "kind": "news",
+ "date": "2026-11-10",
+ "published": "2026-11-10T01:10",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "url": "https://openai.com/index/coderabbit-codex-daybreak"
+  }
+ ],
+ "path": "/nieuws/coderabbit-levert-20x-meer-software-met-openai-codex/",
+ "og": "/img/og/coderabbit-levert-20x-meer-software-met-openai-codex.png",
+ "take": "Twintig keer meer software met hetzelfde team, dat is een claim van OpenAI over een klant en geen meting die ik kan natrekken. Mijn eerste vraag gaat altijd over de teller: wordt er meer opgeleverd of wordt er meer geteld, want dat scheelt nogal. Bij mij geldt meten voor je optimaliseert, en dat geldt net zo hard voor een AI die je code nakijkt als voor een advertentieaccount."
+}

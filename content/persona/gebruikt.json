@@ -20,7 +20,11 @@
   "Les elevenlabs-opgezegd",
   "Les claude-code-abonnement",
   "Les deepseek-denken-uit",
-  "pmax-buiten-feed"
+  "pmax-buiten-feed",
+  "Les claude-code-abonnement",
+  "Les deepseek-denken-uit",
+  "Les sora-tekst-in-beeld",
+  "Les budget-verhogen-niets"
  ],
  "tools": [
   "Claude Code (Anthropic)",
@@ -50,6 +54,7 @@
   "83-van-je-google-ads-budget-gaat-naar-nooit-verkopers",
   "ai-hype-misleiding-ik-wil-eerst-de-cijfers-zien",
   "ai-deepfake-apps-waarom-je-ze-beter-niet-installeert",
-  "performance-max-je-budget-verdwijnt-buiten-je-feed"
+  "performance-max-je-budget-verdwijnt-buiten-je-feed",
+  "apple-laat-je-betalen-voor-ai-gebruik-daar-trap-ik-niet-in"
  ]
 }

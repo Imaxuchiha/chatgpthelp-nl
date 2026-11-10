@@ -5841,5 +5841,70 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-10T01:10:01",
+  "slug": "",
+  "title": "OpenAI Control Room houdt modelwerkzaamheden in de gaten",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-10T01:10:10",
+  "slug": "",
+  "title": "CodeRabbit levert 20x meer software met OpenAI Codex",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-10T01:10:20",
+  "slug": "",
+  "title": "Nvidia en Jensen Huang: wat China kan krijgen van de topman",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-10T01:10:29",
+  "slug": "",
+  "title": "Apple verkoopt extra AI-gebruik in Logic Pro voor $50",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-10T01:11:00",
+  "slug": "",
+  "title": "Apple laat je betalen voor AI-gebruik. Daar trap ik niet in",
+  "kind": "column",
+  "rood": [
+   "S5",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

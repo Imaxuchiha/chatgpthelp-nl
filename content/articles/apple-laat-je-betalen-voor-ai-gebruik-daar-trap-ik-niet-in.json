@@ -1,0 +1,89 @@
+{
+ "keyword": "apple ai gebruik betalen",
+ "seo_title": "Apple AI gebruik betalen: waarom ik dat niks vind",
+ "title": "Apple laat je betalen voor AI-gebruik. Daar trap ik niet in",
+ "meta": "Apple verkoopt extra AI-gebruik in Logic Pro voor $49,99. Maxim legt uit waarom hij niet betaalt voor AI die hij zelf goedkoper bouwt.",
+ "category": "mening",
+ "tags": [
+  "Apple",
+  "AI-kosten",
+  "Logic Pro",
+  "abonnementen",
+  "zelf bouwen"
+ ],
+ "intro": "Apple begint met het verkopen van extra AI-gebruik in Logic Pro. Voor $49,99 koop je een Intelligence Usage Pack. Ik snap de business, maar voor mij is dit de verkeerde kant op. AI hoort geen betaalde toevoeging te zijn bovenop software waar je al voor betaald hebt.",
+ "takeaways": [
+  "Apple verkoopt extra AI-gebruik in Logic Pro voor $49,99 per pack.",
+  "Ik betaal liever voor tools die direct geld opleveren, niet voor AI als luxe.",
+  "Zelf bouwen met Claude Code en DeepSeek is vaak goedkoper en flexibeler."
+ ],
+ "sections": [
+  {
+   "heading": "AI als betaalde extra is een verkeerd signaal",
+   "body": "Apple zet AI nu achter een betaalmuur in Logic Pro. Je koopt voor $49,99 eenmalig extra AI-gebruik. Dat klinkt als een eerlijke deal, maar het is een glijdende schaal. Eerst Logic Pro, straks misschien Pages of Keynote.\n\nVoor mij is AI geen luxe accessoire. Het is gereedschap dat werk sneller maakt. Als je daar apart voor moet betalen, voelt dat als een boete op efficiëntie. Ik betaal al voor de software. Waarom zou ik extra betalen voor de functie die mij juist tijd bespaart?\n\nSamsung doet iets vergelijkbaars. Zij willen AI-functies exclusief maken voor betalende gebruikers. Dat is dezelfde trend. Bedrijven zien AI als melkkoe, niet als onderdeel van het product."
+  },
+  {
+   "heading": "Mijn meetlat: levert het geld op of niet",
+   "body": "Ik kijk altijd naar ROI. Een tool is pas goed als ik kan aanwijzen welke tijd of welk geld hij oplevert. Bij Apple zie ik dat niet. $49,99 voor extra AI-gebruik in Logic Pro, terwijl ik geen idee heb wat dat concreet oplevert. Meer nummers af? Snellere mixen? Het is vaag.\n\nNeem mijn eigen stack. Claude Code draait op mijn bestaande abonnement. Daarmee bouw ik rapportages, analyses en websites. Geen extra kosten. DeepSeek gebruik ik via de API voor teksten en e-mails. Belachelijk goedkoop. Laatst gaf het nieuwe flash-model lege antwoorden. Het gebruikte al zijn tokens om na te denken. Denken uitzetten en het werkte: 3 artikelen, een meme en een prompt voor 0,6 dollarcent. Dat is pas duidelijk.\n\nVoor videowerk gebruik ik Sora via ChatGPT Pro. Sora maakt mooie sfeerbeelden, maar verprutst tekst en schermen. Dus bouw ik alles met schermen in code met Remotion. Pixel voor pixel klopt het. Dat kost meer tijd, maar het resultaat is bruikbaar. Apple's AI-packs lossen zoiets niet op."
+  },
+  {
+   "heading": "Liever zelf bouwen dan een AI-abonnement",
+   "body": "Ik koop liever geen kant-en-klare AI-functie als ik hem zelf kan bouwen. Met Claude Code en DeepSeek zet ik in een middag een script in elkaar dat precies doet wat ik nodig heb. Geen $49,99 per pack, geen vendor lock-in.\n\nNeem mijn ochtendanalyse van klantaccounts. Die draait via Claude Code op mijn bestaande abonnement. Geen extra kosten. DeepSeek staat klaar als goedkope terugval. Waarom zou ik dan betalen voor Apple's AI in Logic Pro? Ik maak geen muziek, maar het principe is hetzelfde. Betaal voor iets dat je zelf kunt bouwen, alleen als het je meer oplevert dan het kost.\n\nVoor veel ondernemers is dat misschien anders. Als je geen code schrijft, is een AI-pack misschien handig. Maar dan nog: $49,99 voor een onduidelijke hoeveelheid AI-gebruik is vaag. Ik wil weten wat ik koop."
+  },
+  {
+   "heading": "De echte kosten zitten in slechte data en verkeerde keuzes",
+   "body": "Veel ondernemers denken dat AI hun problemen oplost, maar de echte kosten zitten vaak in slechte data of verkeerde beslissingen. Een klant verhoogde zelf het dagbudget van Performance Max van ongeveer 21 naar 46 euro. De kosten per aanvraag gingen van zo'n 37 naar 66 euro. De extra uitgaven leverden vrijwel geen extra aanvragen op. Meer budget is geen strategie.\n\nZo werkt het ook met AI. Apple verkoopt je extra AI-gebruik, maar als je geen goed proces hebt, koop je alleen maar dure ruis. Ik meet eerst, dan optimaliseer ik. Nooit oordelen op 30 dagen data. Altijd 12 tot 18 maanden en jaar-op-jaar bekijken. Pas dan weet je of iets werkt.\n\nApple's AI-packs zijn een makkelijke uitgave. Maar de vraag is: levert het meer op dan het kost? Ik zie het bewijs nog niet."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ondernemers is dit een signaal. AI wordt steeds vaker een betaalde extra bovenop bestaande software. Kijk dus kritisch naar elke AI-uitgave. Kun je het zelf bouwen met Claude Code of een goedkope API? Doen. Kun je het niet zelf bouwen, vraag dan om een duidelijke ROI voordat je betaalt. En onthoud: meer budget of meer AI is geen strategie. Eerst meten, dan pas uitgeven.",
+ "faq": [
+  {
+   "q": "Wat zijn Apple Intelligence Usage Packs?",
+   "a": "Dat zijn eenmalige aankopen van $49,99 voor extra AI-gebruik in Logic Pro. Apple introduceert ze nu, maar het is nog onduidelijk hoeveel AI-gebruik je precies krijgt."
+  },
+  {
+   "q": "Moet ik als Nederlandse gebruiker betalen voor Apple AI?",
+   "a": "Alleen als je Logic Pro gebruikt en meer AI-functies wilt dan standaard. Voor andere Apple-apps zijn er nu geen betaalde AI-packs, maar de trend is wel duidelijk."
+  }
+ ],
+ "lessons_used": [
+  "Les claude-code-abonnement",
+  "Les deepseek-denken-uit",
+  "Les sora-tekst-in-beeld",
+  "Les budget-verhogen-niets"
+ ],
+ "slug": "apple-laat-je-betalen-voor-ai-gebruik-daar-trap-ik-niet-in",
+ "kind": "column",
+ "date": "2026-11-10",
+ "published": "2026-11-10T01:09",
+ "sources": [
+  {
+   "name": "ChatGPT Help",
+   "title": "Apple verkoopt extra AI-gebruik in Logic Pro voor $50",
+   "url": "https://chatgpthelp.nl/nieuws/apple-verkoopt-extra-ai-gebruik-in-logic-pro-voor-50/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "CodeRabbit levert 20x meer software met OpenAI Codex",
+   "url": "https://chatgpthelp.nl/nieuws/coderabbit-levert-20x-meer-software-met-openai-codex/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "OpenAI Control Room houdt modelwerkzaamheden in de gaten",
+   "url": "https://chatgpthelp.nl/nieuws/openai-control-room-houdt-modelwerkzaamheden-in-de-gaten/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Samsung AI-functies worden betaald: wat verandert er?",
+   "url": "https://chatgpthelp.nl/nieuws/samsung-ai-functies-worden-betaald-wat-verandert-er/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "OpenAI API laat Kuken 70 jaar tekeningen in minuten doorzoeken",
+   "url": "https://chatgpthelp.nl/nieuws/openai-api-laat-kuken-70-jaar-tekeningen-in-minuten-doorzoeken/"
+  }
+ ],
+ "path": "/mening/apple-laat-je-betalen-voor-ai-gebruik-daar-trap-ik-niet-in/",
+ "og": "/img/og/apple-laat-je-betalen-voor-ai-gebruik-daar-trap-ik-niet-in.png",
+ "author": "Maxim"
+}

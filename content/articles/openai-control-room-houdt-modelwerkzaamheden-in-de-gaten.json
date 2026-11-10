@@ -1,0 +1,64 @@
+{
+ "keyword": "openai control room",
+ "seo_title": "OpenAI Control Room: toezicht op modelwerkzaamheden",
+ "title": "OpenAI Control Room houdt modelwerkzaamheden in de gaten",
+ "meta": "OpenAI heeft Control Room gelanceerd: een systeem dat modelwerkzaamheden op de onderzoeksinfrastructuur volgt en snel kan stopzetten bij risico's.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-veiligheid",
+  "control room",
+  "toezicht",
+  "onderzoek"
+ ],
+ "intro": "OpenAI heeft een systeem gebouwd dat al het rekenwerk van modellen op de eigen onderzoeksinfrastructuur volgt. Control Room moet zulk werk ook direct kunnen stoppen zodra er veiligheids- of beveiligingszorgen opduiken. Dat meldt OpenAI in een eigen toelichting.",
+ "takeaways": [
+  "Control Room volgt modelwerkzaamheden over de hele onderzoeksinfrastructuur van OpenAI.",
+  "Het systeem kan dat werk snel stopzetten bij veiligheids- of beveiligingszorgen.",
+  "OpenAI noemt het een centrale plek voor toezicht op wat modellen doen.",
+  "Details over kosten, invoering en werking buiten OpenAI zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Control Room doet",
+   "body": "Control Room is volgens OpenAI bedoeld als één centraal overzicht van het rekenwerk dat modellen verrichten. Het systeem kijkt mee over de onderzoeksinfrastructuur heen, dus niet per losse proef of per losse server.\n\nDat overzicht moet het mogelijk maken om snel in te grijpen. Zodra zich een veiligheids- of beveiligingsprobleem voordoet, kan OpenAI het betreffende werk stopzetten. Het bedrijf noemt dat een kernfunctie van het systeem.\n\nOpenAI geeft in de toelichting geen cijfers over hoeveel werk Control Room precies ziet of hoe vaak het al heeft ingegrepen. Ook blijft onduidelijk hoe lang het duurt voordat een stopzetting ingaat."
+  },
+  {
+   "heading": "Waarom toezicht op rekenwerk telt",
+   "body": "Grote AI-modellen draaien op veel rekenkracht, verdeeld over veel machines. Als daar iets misgaat, wil je niet eerst alle losse onderdelen langsgaan. Eén systeem dat alles overziet, maakt zo'n ingreep eenvoudiger.\n\nOpenAI plaatst Control Room in de hoek van veiligheid en beveiliging. Denk aan werk dat ongewenst gedrag vertoont of aan een storing die misbruik mogelijk maakt. Het systeem moet dan de rem erop kunnen zetten.\n\nDe aankondiging past bij een bredere beweging in de AI-sector. Bedrijven bouwen steeds vaker interne controles rond hun modellen, juist omdat die modellen meer en meer zelfstandig taken uitvoeren."
+  },
+  {
+   "heading": "Wat nog niet bekend is",
+   "body": "Over de techniek achter Control Room zegt OpenAI weinig. Het is niet duidelijk of het systeem ook buiten de eigen infrastructuur werkt, bijvoorbeeld bij klanten die modellen via de API gebruiken.\n\nOok is niet bekend of Control Room invloed heeft op de beschikbaarheid van diensten. Een stopzetting van werk kan immers betekenen dat een taak later of helemaal niet afkomt.\n\nVoor Europese klanten is nog geen informatie gegeven over gegevensverwerking of toezicht door toezichthouders. Dat blijft voorlopig onbekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die OpenAI-modellen gebruiken, verandert er op korte termijn weinig zichtbaars. Control Room is een intern systeem van OpenAI zelf. Wel laat de aankondiging zien dat het bedrijf meer nadruk legt op het kunnen stoppen van modelwerk. Mocht jouw organisatie afhankelijk zijn van OpenAI-diensten, dan is het verstandig om te weten dat zo'n ingreep invloed kan hebben op lopende taken. Concrete gevolgen voor Nederlandse klanten zijn nog niet gemeld.",
+ "faq": [
+  {
+   "q": "Wat is OpenAI Control Room?",
+   "a": "Een systeem van OpenAI dat modelwerkzaamheden op de eigen onderzoeksinfrastructuur volgt en die snel kan stopzetten bij veiligheids- of beveiligingszorgen."
+  },
+  {
+   "q": "Kan ik Control Room zelf gebruiken?",
+   "a": "Daar zegt OpenAI niets over. Het systeem is gericht op de eigen infrastructuur van OpenAI, niet op klanten."
+  },
+  {
+   "q": "Merken Nederlandse gebruikers hier iets van?",
+   "a": "Voorlopig is er geen concreet gevolg gemeld. Het systeem zit aan de kant van OpenAI zelf."
+  }
+ ],
+ "slug": "openai-control-room-houdt-modelwerkzaamheden-in-de-gaten",
+ "kind": "news",
+ "date": "2026-11-10",
+ "published": "2026-11-10T01:09",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "url": "https://openai.com/index/control-room"
+  }
+ ],
+ "path": "/nieuws/openai-control-room-houdt-modelwerkzaamheden-in-de-gaten/",
+ "og": "/img/og/openai-control-room-houdt-modelwerkzaamheden-in-de-gaten.png",
+ "take": "OpenAI bouwt een noodrem voor zijn eigen rekenwerk en dat is verstandig om te hebben. Ik geloof er alleen pas in als er cijfers liggen over wat die rem heeft tegengehouden, want tot nu toe is dit een aankondiging en geen bewijs. Een stopknop die je nooit hoeft in te drukken vertelt je namelijk niks over hoe goed hij werkt."
+}

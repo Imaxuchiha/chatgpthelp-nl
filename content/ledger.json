@@ -2867,6 +2867,22 @@
   "044985615b": {
    "at": "2026-11-09T22:38:36.677712",
    "why": "ok"
+  },
+  "f37b680abc": {
+   "at": "2026-11-10T01:09:46.948465",
+   "why": "ok"
+  },
+  "23b94c6976": {
+   "at": "2026-11-10T01:10:46.948465",
+   "why": "ok"
+  },
+  "285987eab7": {
+   "at": "2026-11-10T01:11:46.948465",
+   "why": "poort"
+  },
+  "4a7141713a": {
+   "at": "2026-11-10T01:11:46.948465",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3362,6 +3378,9 @@
   "Apple jaagt op AI-agent voor Siri onder druk van Ternus",
   "ChatGPT Enterprise is nu te koop via AWS Marketplace",
   "OpenAI API laat Kuken 70 jaar tekeningen in minuten doorzoeken",
-  "Samsung AI-functies worden betaald: wat verandert er?"
+  "Samsung AI-functies worden betaald: wat verandert er?",
+  "OpenAI Control Room houdt modelwerkzaamheden in de gaten",
+  "CodeRabbit levert 20x meer software met OpenAI Codex",
+  "Apple verkoopt extra AI-gebruik in Logic Pro voor $50"
  ]
 }
