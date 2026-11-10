@@ -5995,5 +5995,44 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-10T22:46:07",
+  "slug": "",
+  "title": "OpenAI neemt Odessia over, reisstartup van Sonder-oprichter",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-10T22:46:17",
+  "slug": "",
+  "title": "Nieuwe AI-wet in New York treft OpenAI en Anthropic",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-10T22:46:26",
+  "slug": "",
+  "title": "Anthropic IPO: zeven oprichters verkopen elk voor 250 miljoen dollar",
+  "kind": "news",
+  "rood": [
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
