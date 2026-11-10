@@ -1,0 +1,68 @@
+{
+ "keyword": "ai freelance werk",
+ "seo_title": "AI freelance werk: meer vraag naar AI-projecten",
+ "title": "AI freelance werk: meer uren en budget voor AI-projecten",
+ "meta": "OpenAI en Upwork zien verschuivende vraag naar freelance werk. AI-projecten krijgen grotere budgetten en meer uren. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "upwork",
+  "freelance",
+  "ai-werk",
+  "arbeidsmarkt"
+ ],
+ "intro": "OpenAI en Upwork hebben samen onderzoek gedaan naar hoe AI het werk van freelancers verandert. De vraag naar bepaald werk verschuift, er ontstaan nieuwe combinaties van vaardigheden en AI-projecten krijgen grotere budgetten en meer uren. Voor Nederlandse freelancers is dat relevant, want zij werken steeds vaker met AI-tools.",
+ "takeaways": [
+  "OpenAI en Upwork deden samen onderzoek naar freelance werk en AI.",
+  "De vraag naar freelance werk verschuift door AI.",
+  "Er ontstaan nieuwe combinaties van vaardigheden bij freelancers.",
+  "AI-projecten krijgen grotere budgetten en meer uren."
+ ],
+ "sections": [
+  {
+   "heading": "Wat het onderzoek laat zien",
+   "body": "OpenAI en Upwork keken samen naar de vraag naar freelance werk. Volgens OpenAI verschuift die vraag. Welke opdrachten precies groeien of krimpen, maakt de samenvatting niet duidelijk. Concrete cijfers per vakgebied noemt OpenAI niet in de samenvatting.\n\nWat het onderzoek wel meldt: freelancers combineren vaker verschillende vaardigheden. Een tekstschrijver die ook met AI-tools werkt, of een programmeur die AI-modellen inzet bij opdrachten. Die combinatie lijkt onderdeel van het werk te worden.\n\nOok de omvang van AI-opdrachten valt op. Projecten rond AI krijgen grotere budgetten en meer uren dan voorheen. Dat wijst erop dat opdrachtgevers meer geld en tijd uittrekken voor werk waarin AI een rol speelt."
+  },
+  {
+   "heading": "Meer uren, groter budget",
+   "body": "Grotere budgetten en meer uren voor AI-projecten zeggen iets over hoe bedrijven dit werk insteken. Ze behandelen het als een serieus project, met ruimte voor uitzoekwerk en uitvoering. Voor freelancers betekent dat langere opdrachten en meer uren per klus.\n\nWat dit precies betekent voor de tarieven, is nog niet bekend. OpenAI noemt in de samenvatting geen bedragen of percentages. Ook is niet duidelijk of het om Amerikaanse cijfers gaat of om wereldwijde data. Upwork is een Amerikaans platform, maar freelancers uit veel landen werken erop."
+  },
+  {
+   "heading": "Nieuwe vaardigheden combineren",
+   "body": "Het onderzoek wijst op nieuwe combinaties van vaardigheden. Freelancers die naast hun vak ook met AI kunnen werken, lijken beter aan te sluiten bij de vraag. Denk aan een vormgever die AI-beelden maakt of een data-analist die modellen traint.\n\nDie combinatie vraagt wel om bijscholing. Wie alleen het oude vak beheerst, heeft mogelijk minder opdrachten. Wie AI-tools leert gebruiken naast het eigen vak, kan juist nieuwe klussen binnenhalen. OpenAI zegt niet welke vaardigheden het zwaarst wegen."
+  },
+  {
+   "heading": "Wat het betekent voor opdrachtgevers",
+   "body": "Bedrijven die freelancers inhuren, krijgen te maken met een ander aanbod. Ze kunnen vaker kiezen uit mensen die zowel hun vak als AI-tools beheersen. Dat kan de selectie lastiger maken, want twee kandidaten met dezelfde achtergrond kunnen verschillend met AI werken.\n\nOok het budget vraagt aandacht. AI-projecten kosten meer uren en dus meer geld. Wie een AI-opdracht uitzet, doet er goed aan vooraf te bepalen wat het oplevert en hoeveel tijd het mag kosten."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse freelancers en zzp'ers is dit een signaal om AI-vaardigheden serieus te nemen. Veel opdrachtgevers in Nederland werken al met ChatGPT en andere tools, en wie die tools beheerst, kan zich onderscheiden. Let wel op: het onderzoek van OpenAI en Upwork gaat over het platform Upwork, met name Amerikaanse opdrachten. Of dezelfde verschuiving in Nederland optreedt, is nog niet bekend. Nederlandse cijfers over AI-werk bij freelancers ontbreken in de bron.",
+ "faq": [
+  {
+   "q": "Wat onderzochten OpenAI en Upwork?",
+   "a": "Ze keken samen naar de vraag naar freelance werk en hoe AI die vraag verandert. Daarbij keken ze naar verschuivende vraag, nieuwe combinaties van vaardigheden en de omvang van AI-projecten."
+  },
+  {
+   "q": "Krijgen freelancers meer betaald voor AI-werk?",
+   "a": "AI-projecten krijgen grotere budgetten en meer uren, meldt OpenAI. Concrete tarieven of percentages noemt de samenvatting niet."
+  },
+  {
+   "q": "Geldt dit ook voor Nederlandse freelancers?",
+   "a": "Dat is nog niet bekend. Het onderzoek richt zich op het platform Upwork, met veel Amerikaanse opdrachten. Nederlandse cijfers ontbreken in de bron."
+  }
+ ],
+ "slug": "ai-freelance-werk-meer-uren-en-budget-voor-ai-projecten",
+ "kind": "news",
+ "date": "2026-11-10",
+ "published": "2026-11-10T19:49",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work"
+  }
+ ],
+ "path": "/nieuws/ai-freelance-werk-meer-uren-en-budget-voor-ai-projecten/",
+ "og": "/img/og/ai-freelance-werk-meer-uren-en-budget-voor-ai-projecten.png",
+ "take": "Grotere budgetten voor AI-werk op Upwork zeggen me pas iets als ik zie wat ermee terugkomt. Ik heb zelf gemerkt dat je met een goedkope API als DeepSeek voor 0,6 dollarcent drie artikelen, een meme en een prompt maakt, dus wie een fors uurtarief rekent moet vooral laten zien wat er per euro uitkomt. Mijn toets blijft simpel: een tool verdient zich terug of hij gaat eruit."
+}
