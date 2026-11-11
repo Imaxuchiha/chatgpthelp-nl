@@ -1,0 +1,64 @@
+{
+ "keyword": "grok apps datalek",
+ "seo_title": "Grok apps datalek: SpaceX-gegevens openbaar bereikbaar",
+ "title": "Grok-apps lekken data van SpaceX en X: wat je moet weten",
+ "meta": "Onderzoekers vonden duizenden openbare apps die met Grok zijn gemaakt, waaronder 24 van SpaceX- en X-medewerkers. Zo voorkom je dat jouw data lekt.",
+ "category": "nieuws",
+ "tags": [
+  "grok",
+  "datalek",
+  "spacex",
+  "ai-agents",
+  "privacy"
+ ],
+ "intro": "Apps die met de AI-agent Grok zijn gebouwd, blijken soms gevoelige bedrijfsgegevens openbaar te tonen. Onderzoekers van Claroc vonden duizenden zulke apps, waarvan 24 van medewerkers van SpaceX en X. De oorzaak zit meestal in slecht ingestelde toegang.",
+ "takeaways": [
+  "Claroc vond duizenden openbaar bereikbare apps die met Grok zijn gemaakt.",
+  "Daaronder zijn 24 apps van medewerkers van SpaceX en X.",
+  "Gevoelige informatie staat openbaar als de toegang niet goed is ingesteld.",
+  "Iedereen met de link kan zulke apps en hun data bekijken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies misging",
+   "body": "Grok kan op verzoek in korte tijd een app bouwen. Handig voor medewerkers die snel iets willen testen of delen. Het probleem ontstaat zodra de toegang niet goed is geregeld.\n\nDan staat de app openbaar op internet. Iedereen met de link kan meekijken. Volgens Bright vonden de onderzoekers van Claroc zo duizenden apps die op die manier bereikbaar waren.\n\nOnder die apps zaten er 24 van medewerkers van SpaceX en X. Wat daar precies in stond, maakt de bron niet duidelijk. Wel is duidelijk dat het om gevoelige gegevens gaat."
+  },
+  {
+   "heading": "Waarom dit vaker gebeurt",
+   "body": "Een AI-agent bouwt een app op basis van een korte opdracht. De nadruk ligt op snel resultaat. Beveiliging en toegangsrechten krijgen vaak minder aandacht.\n\nMedewerkers testen zo'n app snel en vergeten hem daarna af te schermen. De app blijft dan gewoon online staan. Een link delen met een collega lijkt onschuldig, tot die link op straat ligt.\n\nDit patroon is niet uniek voor Grok. Elke tool die snel apps maakt, loopt tegen hetzelfde risico aan. De gebruiker blijft verantwoordelijk voor wat er online komt."
+  },
+  {
+   "heading": "Wat je zelf kunt doen",
+   "body": "Controleer of je eigen AI-apps openbaar bereikbaar zijn. Zet de toegang op privé als dat kan. Gebruik een wachtwoord of inlog voor alles wat interne data bevat.\n\nRuim testapps op zodra je klaar bent. Deel links alleen met mensen die ze nodig hebben. Zet geen klantgegevens of interne documenten in een app die je niet hebt afgeschermd.\n\nVoor bedrijven helpt een vaste regel: geen app live zonder check op toegang. Dat kost weinig tijd en voorkomt veel schade."
+  }
+ ],
+ "nl_angle": "Nederlandse bedrijven gebruiken steeds vaker AI-tools om snel interne apps te bouwen. De Autoriteit Persoonsgegevens kijkt streng naar datalekken, en een openbare app met persoonsgegevens kan zo een meldplicht opleveren. Check dus of je Grok- of andere AI-apps goed zijn afgeschermd. Bij een lek met klantdata geldt in de EU bovendien de meldplicht binnen 72 uur.",
+ "faq": [
+  {
+   "q": "Wat is Grok eigenlijk?",
+   "a": "Grok is een AI-chatbot van xAI, het bedrijf van Elon Musk. De tool kan ook op verzoek apps bouwen."
+  },
+  {
+   "q": "Zijn mijn gegevens veilig in een Grok-app?",
+   "a": "Alleen als je de toegang goed instelt. Staat de app openbaar, dan kan iedereen met de link meekijken."
+  },
+  {
+   "q": "Moet ik een datalek melden in Nederland?",
+   "a": "Bij een lek met persoonsgegevens geldt vaak een meldplicht bij de Autoriteit Persoonsgegevens. Doe dat binnen 72 uur."
+  }
+ ],
+ "slug": "grok-apps-lekken-data-van-spacex-en-x-wat-je-moet-weten",
+ "kind": "news",
+ "date": "2026-11-11",
+ "published": "2026-11-11T19:51",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Grok AI-agent deelt gevoelige SpaceX-gegevens",
+   "url": "https://www.bright.nl/nieuws/2157834/grok-apps-lekken-gevoelige-spacex-en-bedrijfsgegevens.html"
+  }
+ ],
+ "path": "/nieuws/grok-apps-lekken-data-van-spacex-en-x-wat-je-moet-weten/",
+ "og": "/img/og/grok-apps-lekken-data-van-spacex-en-x-wat-je-moet-weten.png",
+ "take": "Iedereen die met een AI-agent apps in elkaar zet, moet opletten wie er meekijkt. Ik test dit soort dingen op mijn eigen accounts en zet nooit iets live zonder de toegang zelf na te lopen. Eén verkeerde instelling en je bedrijfsdata staat gewoon openbaar, en daar heb je maanden later pas last van."
+}

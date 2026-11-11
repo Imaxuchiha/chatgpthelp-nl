@@ -1,0 +1,68 @@
+{
+ "keyword": "ai opschalen jio",
+ "seo_title": "AI opschalen bij Jio: lessen voor 500 miljoen gebruikers",
+ "title": "AI opschalen bij Jio: wat een architect leert over 500 miljoen gebruikers",
+ "meta": "OpenAI sprak met JioStar-architect Vijay Seshadri over AI opschalen naar 500 miljoen gebruikers. Lees zijn lessen over evals en guardrails.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "jiostar",
+  "ai-opschaling",
+  "guardrails",
+  "evals"
+ ],
+ "intro": "OpenAI heeft een gesprek gepubliceerd met Vijay Seshadri, chief architect bij JioStar. Hij vertelt hoe het bedrijf AI-ontdekking op grote schaal aanpakt, met honderden miljoenen gebruikers. De lessen gaan over tests, vangrails en de stap naar productie.",
+ "takeaways": [
+  "JioStar bedient volgens OpenAI een schaal van 500 miljoen gebruikers met AI-ontdekking.",
+  "Vijay Seshadri deelt lessen over evals, guardrails en het nemen van AI naar productie.",
+  "Het gesprek is gepubliceerd op 10 november 2026 op de site van OpenAI.",
+  "OpenAI noemt geen concrete cijfers over kosten, doorlooptijd of foutmarges."
+ ],
+ "sections": [
+  {
+   "heading": "Wie is Vijay Seshadri en wat doet JioStar",
+   "body": "Vijay Seshadri is chief architect bij JioStar. Dat bedrijf is een grote speler in India op het gebied van media en streaming. Volgens OpenAI bedient het een publiek van 500 miljoen gebruikers.\n\nDie schaal maakt AI-ontdekking lastig. Een aanbevelingssysteem moet snel werken voor heel veel mensen tegelijk. Seshadri legt uit hoe zijn team dat aanpakt. OpenAI publiceerde het gesprek op 10 november 2026."
+  },
+  {
+   "heading": "Evals: eerst meten, dan bouwen",
+   "body": "Seshadri benadrukt het belang van evals. Dat zijn testen waarmee je meet hoe goed een AI-model presteert op vaste taken. Zonder zulke tests weet je niet of een wijziging echt helpt.\n\nBij JioStar gebruiken ze evals om keuzes te onderbouwen. Dat voorkomt dat een team op gevoel aanpassingen doet. Volgens OpenAI is dit een van de kernlessen uit het gesprek."
+  },
+  {
+   "heading": "Guardrails houden AI in het gareel",
+   "body": "Guardrails zijn vangrails die het gedrag van een AI-systeem beperken. Ze zorgen bijvoorbeeld dat een model geen ongepaste inhoud toont. Bij een publiek van 500 miljoen gebruikers is dat geen luxe.\n\nSeshadri legt uit hoe JioStar die vangrails inricht. De precieze techniek blijft in het gesprek globaal. OpenAI noemt geen specifieke leveranciers of tools die JioStar gebruikt."
+  },
+  {
+   "heading": "Van proef naar productie",
+   "body": "De stap van een proefproject naar productie is vaak lastig. Seshadri deelt zijn ervaring met die overgang. Een model dat in een demo werkt, hoeft nog niet stabiel te zijn voor miljoenen gebruikers.\n\nVolgens OpenAI draait het om discipline. Teams moeten blijven meten en bijsturen. Concrete cijfers over doorlooptijd of foutpercentages geeft OpenAI niet."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die AI willen inzetten, biedt het gesprek een paar praktische aanknopingspunten. Grote schaal vraagt om tests en vangrails, ook als je publiek veel kleiner is dan dat van JioStar. De AI-verordening van de EU stelt bovendien eisen aan transparantie en risicobeheer. Wie nu begint met evals en guardrails, loopt bij een latere controle minder tegen verrassingen aan. OpenAI noemt geen prijzen of beschikbaarheid voor Nederland.",
+ "faq": [
+  {
+   "q": "Wat is een eval in AI?",
+   "a": "Een eval is een test waarmee je meet hoe goed een AI-model presteert op vaste taken. Zo kun je verschillende versies met elkaar vergelijken."
+  },
+  {
+   "q": "Wat zijn guardrails bij AI?",
+   "a": "Guardrails zijn regels en filters die het gedrag van een AI-systeem beperken. Ze voorkomen bijvoorbeeld dat een model ongepaste inhoud toont."
+  },
+  {
+   "q": "Wat betekent dit voor Nederlandse bedrijven?",
+   "a": "Het laat zien dat tests en vangrails nodig zijn zodra je AI op grotere schaal inzet. De EU stelt daar via de AI-verordening ook eisen aan."
+  }
+ ],
+ "slug": "ai-opschalen-bij-jio-wat-een-architect-leert-over-500-miljoen-gebruike",
+ "kind": "news",
+ "date": "2026-11-11",
+ "published": "2026-11-11T19:53",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "url": "https://openai.com/index/jiostar-vijay-seshadri"
+  }
+ ],
+ "path": "/nieuws/ai-opschalen-bij-jio-wat-een-architect-leert-over-500-miljoen-gebruike/",
+ "og": "/img/og/ai-opschalen-bij-jio-wat-een-architect-leert-over-500-miljoen-gebruike.png",
+ "take": "Bij Jio gaat het over honderden miljoenen gebruikers, en dan is het gesprek over tests en vangrails terecht. Maar een architect die in een blog van OpenAI vertelt hoe goed zijn aanpak werkt, is voor mij nog steeds een demo. Ik geloof die lessen pas als ik zie dat iemand buiten dat bedrijf hetzelfde bouwt en het overeind blijft."
+}

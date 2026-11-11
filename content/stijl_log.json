@@ -6089,5 +6089,43 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-11T19:51:19",
+  "slug": "",
+  "title": "Grok-apps lekken data van SpaceX en X: wat je moet weten",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-11T19:51:29",
+  "slug": "",
+  "title": "Nvidia-ceo Huang en de grotere rol van Singapore in AI-handel",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-11T19:51:37",
+  "slug": "",
+  "title": "AI opschalen bij Jio: wat een architect leert over 500 miljoen gebruikers",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
