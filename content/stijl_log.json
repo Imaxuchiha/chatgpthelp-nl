@@ -6127,5 +6127,42 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-11T23:37:40",
+  "slug": "",
+  "title": "Receptenmakers lijden onder AI die recepten maakt",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-11T23:37:47",
+  "slug": "",
+  "title": "CoreWeave vraagt klanten vooraf te betalen voor ai-groei",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-11T23:37:57",
+  "slug": "",
+  "title": "Fractile haalt 720 miljoen dollar op voor ai-chips",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

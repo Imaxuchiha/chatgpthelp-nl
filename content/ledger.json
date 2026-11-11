@@ -2947,6 +2947,18 @@
   "8c999d6885": {
    "at": "2026-11-11T19:53:08.005595",
    "why": "ok"
+  },
+  "70719cd05c": {
+   "at": "2026-11-11T23:37:26.238947",
+   "why": "ok"
+  },
+  "850c064410": {
+   "at": "2026-11-11T23:38:26.238947",
+   "why": "ok"
+  },
+  "6f3c74a04f": {
+   "at": "2026-11-11T23:39:26.238947",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3460,6 +3472,9 @@
   "Adobe opent Creative Cloud voor externe AI-agents",
   "Grok-apps lekken data van SpaceX en X: wat je moet weten",
   "Nvidia-ceo Huang en de grotere rol van Singapore in AI-handel",
-  "AI opschalen bij Jio: wat een architect leert over 500 miljoen gebruikers"
+  "AI opschalen bij Jio: wat een architect leert over 500 miljoen gebruikers",
+  "Receptenmakers lijden onder AI die recepten maakt",
+  "CoreWeave vraagt klanten vooraf te betalen voor ai-groei",
+  "Fractile haalt 720 miljoen dollar op voor ai-chips"
  ]
 }

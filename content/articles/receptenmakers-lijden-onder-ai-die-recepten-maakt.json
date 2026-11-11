@@ -1,0 +1,68 @@
+{
+ "keyword": "ai recepten makers",
+ "seo_title": "AI recepten maken: receptenmakers lijden onder AI",
+ "title": "Receptenmakers lijden onder AI die recepten maakt",
+ "meta": "Receptenmakers hebben last van AI die recepten maakt. Lees wat dat betekent voor hun werk, hun inkomsten en voor jou als je recepten zoekt.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "recepten",
+  "receptenmakers",
+  "cookbooks",
+  "media"
+ ],
+ "intro": "Receptenmakers hebben het zwaar door kunstmatige intelligentie. Volgens Bright moeten ze oppassen dat ze geen recept van een ander kopiëren, moet het resultaat lekker zijn en is er flinke concurrentie van AI. Dat raakt een beroepsgroep die vaak buiten beeld blijft.",
+ "takeaways": [
+  "Receptenmakers concurreren met AI die zelf recepten maakt.",
+  "Ze moeten origineel werk leveren en mogen niet kopiëren.",
+  "De druk op hun werk en inkomsten neemt toe.",
+  "Over cijfers en omzetverlies is nog niets bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat een receptenmaker eigenlijk doet",
+   "body": "Een recept maken lijkt simpel. Je schrijft op wat je in de pan doet en klaar. Toch komt er meer bij kijken, meldt Bright. De maker moet zorgen dat het gerecht echt lekker is en dat de stappen kloppen als iemand het thuis maakt.\n\nDaar komt een tweede eis bij. Het recept mag geen kopie zijn van het werk van een ander. Een receptenmaker moet dus zelf bedenken en testen, en kan niet zomaar iets overnemen.\n\nDie combinatie van smaak en originaliteit kost tijd. Juist die tijd is nu onder druk komen te staan."
+  },
+  {
+   "heading": "Waarom AI het werk raakt",
+   "body": "AI-systemen schrijven in seconden een recept bij elkaar. Ze combineren ingrediënten en stappen en leveren iets dat er op het eerste gezicht bruikbaar uitziet. Voor lezers is dat handig en gratis.\n\nVoor de receptenmaker betekent het concurrentie. Het publiek kan voor een simpele vraag terecht bij een chatbot in plaats van bij een maker met een naam en een verhaal. Bright noemt de concurrentie van kunstmatige intelligentie hevig.\n\nHoe groot het omzetverlies precies is, staat niet in de bron. Cijfers over gederfde inkomsten of het aantal makers dat stopt, zijn nog niet bekend."
+  },
+  {
+   "heading": "Originaliteit als zwakke plek van AI",
+   "body": "AI heeft een bekend probleem met origineel werk. Een model leert van bestaande teksten en kan daardoor op bestaand werk lijken. Of een gegenereerd recept echt nieuw is, valt moeilijk te controleren.\n\nDat raakt precies de kern van het vak. Een receptenmaker moet kunnen aantonen dat het werk van hem of haar komt. Bij een chatbot is die herkomst onduidelijk.\n\nToch lost dat de druk niet op. De lezer zoekt vaak gewoon een antwoord en let minder op wie het maakte."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Over de gevolgen op lange termijn is weinig hard te zeggen. Bright beschrijft de positie van receptenmakers, zonder cijfers over inkomsten of werkgelegenheid.\n\nOok is niet duidelijk of uitgevers en platforms regels gaan stellen voor AI-recepten. Nederland en de EU hebben wel regels voor AI, maar of die hier soepel of streng uitpakken, is nog niet uitgewerkt in de bron."
+  }
+ ],
+ "nl_angle": "In Nederland werken veel receptenmakers voor tijdschriften, kookboeken, supermarkten en websites. Zij merken dat lezers vaker een chatbot vragen om een recept. Dat raakt freelance opdrachten en licentie-inkomsten, al zijn daar geen cijfers over. Wie zelf recepten maakt, doet er goed aan herkomst en eigen tests vast te leggen. Voor lezers blijft het opletten: een gegenereerd recept is niet automatisch getest in een echte keuken.",
+ "faq": [
+  {
+   "q": "Waarom hebben receptenmakers last van AI?",
+   "a": "AI maakt snel en gratis recepten, waardoor lezers minder snel bij een maker terechtkomen. Volgens Bright is de concurrentie hevig."
+  },
+  {
+   "q": "Mag AI zomaar een recept van iemand overnemen?",
+   "a": "Een receptenmaker moet volgens Bright voorkomen dat hij werk van een ander kopieert. Voor AI ligt dat ingewikkelder, omdat modellen van bestaande teksten leren."
+  },
+  {
+   "q": "Zijn er al cijfers over omzetverlies?",
+   "a": "Nee, in de bron staan geen cijfers over inkomsten of het aantal makers dat stopt. Dat is nog niet bekend."
+  }
+ ],
+ "slug": "receptenmakers-lijden-onder-ai-die-recepten-maakt",
+ "kind": "news",
+ "date": "2026-11-11",
+ "published": "2026-11-11T23:37",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Hoe receptenmakers in het bijzonder lijden onder AI",
+   "url": "https://www.bright.nl/plusplus/2157863/hoe-receptenmakers-in-het-bijzonder-lijden-onder-ai.html"
+  }
+ ],
+ "path": "/nieuws/receptenmakers-lijden-onder-ai-die-recepten-maakt/",
+ "og": "/img/og/receptenmakers-lijden-onder-ai-die-recepten-maakt.png",
+ "take": "Receptenmakers die klagen over AI die hun werk overneemt, moeten eerst naar hun eigen proces kijken. Ik betaal alleen voor een tool als hij zichzelf terugverdient, dus een kok die zijn recepten niet slim inzet, verliest het gewoon van een model dat gratis meeschrijft. Bouw zelf iets met diezelfde AI en zorg dat je sneller levert dan de concurrent, want stilzitten kost meer dan een abonnement."
+}

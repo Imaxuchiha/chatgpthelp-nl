@@ -1,0 +1,64 @@
+{
+ "keyword": "coreweave ai financiering",
+ "seo_title": "CoreWeave ai financiering: klanten betalen vooraf",
+ "title": "CoreWeave vraagt klanten vooraf te betalen voor ai-groei",
+ "meta": "CoreWeave financiert zijn ai-groei met vooruitbetalingen van klanten en kortere contracten. Wat dat betekent voor ai-rekenkracht en prijzen in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "coreweave",
+  "ai-rekenkracht",
+  "datacenters",
+  "financiering",
+  "cloud"
+ ],
+ "intro": "CoreWeave laat klanten steeds vaker vooraf betalen voor rekenkracht. Het bedrijf leent ook geld op basis van specifieke contracten en kijkt naar kortlopende deals. Dat blijkt uit de kwartaalcijfers van het derde kwartaal, meldt TechCrunch.",
+ "takeaways": [
+  "CoreWeave vraagt klanten om vooruitbetalingen voor ai-rekenkracht.",
+  "Het bedrijf leent geld op basis van afzonderlijke klantcontracten.",
+  "Kortere contracten kunnen tot hogere prijzen leiden.",
+  "De cijfers gaan over het derde kwartaal van 2026."
+ ],
+ "sections": [
+  {
+   "heading": "Vooraf betalen voor rekenkracht",
+   "body": "CoreWeave verkoopt rekenkracht met grafische processoren, de chips waarop ai-modellen draaien. Klanten betalen nu vaker vooraf voor die capaciteit. Dat geld gebruikt het bedrijf om zijn eigen groei te betalen.\n\nHet bedrijf leent daarnaast geld op basis van specifieke contracten. Een bank of investeerder krijgt dan zekerheid over één klantdeal. Zo hangt de financiering direct aan de omzet die er tegenover staat.\n\nOok kijkt CoreWeave naar kortlopende deals. Die kunnen volgens TechCrunch leiden tot hogere prijzen voor klanten."
+  },
+  {
+   "heading": "Waarom het bedrijf dit doet",
+   "body": "Ai-rekenkracht vraagt grote investeringen in datacenters en chips. CoreWeave moet die kosten betalen voordat klanten hun rekening voldoen. Vooruitbetalingen verkleinen dat gat.\n\nHet patroon past bij een bredere trend in de ai-sector. Bedrijven die rekenkracht leveren, zoeken manieren om groei te financieren zonder alleen op eigen geld of aandelen te leunen.\n\nTechCrunch baseert zich op de kwartaalcijfers van CoreWeave over het derde kwartaal. Verdere details over bedragen en voorwaarden noemt de bron niet."
+  },
+  {
+   "heading": "Kortere contracten, hogere prijzen",
+   "body": "Kortlopende contracten geven klanten minder zekerheid over beschikbare capaciteit. Ze betalen dan mogelijk meer per uur of per chip. CoreWeave kan zo sneller inspelen op vraag en aanbod.\n\nVoor afnemers betekent dit meer rekenen aan de kostenkant. Wie langdurig ai-modellen traint, wil vaste prijzen. Korte deals maken de rekening minder voorspelbaar.\n\nOf de hogere prijzen echt doorzetten, is nog niet bekend. De cijfers wijzen op een richting, geen uitgemaakte zaak."
+  }
+ ],
+ "nl_angle": "Nederlandse bedrijven die ai-rekenkracht inhuren bij dit soort partijen, kunnen vaker met vooruitbetalingen en kortere contracten te maken krijgen. Dat raakt de cashflow van startups en scale-ups die modellen trainen. Reken dus op minder flexibele voorwaarden en mogelijk hogere kosten per uur. Wie in de EU capaciteit inkoopt, doet er goed aan de contractduur en betaaltermijn vooraf goed te checken.",
+ "faq": [
+  {
+   "q": "Wat is CoreWeave?",
+   "a": "CoreWeave is een Amerikaans bedrijf dat rekenkracht met grafische processoren verhuurt voor ai-toepassingen. Het levert capaciteit aan partijen die ai-modellen trainen en draaien."
+  },
+  {
+   "q": "Waarom vragen ze klanten vooraf te betalen?",
+   "a": "CoreWeave moet datacenters en chips betalen voordat klanten hun rekening voldoen. Vooruitbetalingen en leningen op basis van contracten helpen dat gat te dichten."
+  },
+  {
+   "q": "Wordt ai-rekenkracht nu duurder in Nederland?",
+   "a": "Kortere contracten kunnen tot hogere prijzen leiden, meldt TechCrunch op basis van de kwartaalcijfers. Concrete prijzen voor de Nederlandse markt zijn nog niet bekend."
+  }
+ ],
+ "slug": "coreweave-vraagt-klanten-vooraf-te-betalen-voor-ai-groei",
+ "kind": "news",
+ "date": "2026-11-11",
+ "published": "2026-11-11T23:38",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
+  }
+ ],
+ "path": "/nieuws/coreweave-vraagt-klanten-vooraf-te-betalen-voor-ai-groei/",
+ "og": "/img/og/coreweave-vraagt-klanten-vooraf-te-betalen-voor-ai-groei.png",
+ "take": "CoreWeave vraagt klanten vooraf te betalen en leent op losse contracten. Dat vertelt me vooral dat de rekening voor ai-rekenkracht nu bij de klant ligt, en die rekening komt uiteindelijk ook bij Nederlandse bedrijven die ai draaien. Bij mij blijven budgetten en contracten een mensending: een leverancier die vooraf wil cashen, mag eerst laten zien wat er echt staat."
+}
