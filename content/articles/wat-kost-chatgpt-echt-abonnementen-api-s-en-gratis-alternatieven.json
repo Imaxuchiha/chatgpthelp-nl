@@ -1,0 +1,70 @@
+{
+ "keyword": "kosten chatgpt",
+ "seo_title": "Kosten ChatGPT: abonnementen, API's en gratis opties",
+ "title": "Wat kost ChatGPT echt? Abonnementen, API's en gratis alternatieven",
+ "meta": "Kosten ChatGPT op een rij: wat je betaalt voor een abonnement, hoe API-prijzen werken en welke gratis AI-alternatieven er zijn. Zo kies je slim.",
+ "category": "uitleg",
+ "tags": [
+  "chatgpt",
+  "kosten",
+  "api",
+  "gratis ai",
+  "abonnement"
+ ],
+ "intro": "Kosten ChatGPT is een van de meest getypte vragen over AI in Nederland. Logisch: er is een gratis versie, een betaald abonnement en een losse API waarmee je per gebruik betaalt. Die drie lopen makkelijk door elkaar, terwijl de rekensom per situatie anders uitvalt.",
+ "takeaways": [
+  "De gratis versie van ChatGPT kost niets, maar heeft beperkingen in gebruik en snelheid.",
+  "Een betaald abonnement is een vast bedrag per maand, ongeacht hoeveel je typt.",
+  "De API rekent per verwerkte tekst en is voordelig bij weinig gebruik, duur bij veel.",
+  "Gratis alternatieven bestaan, maar let op wat ze met je gegevens doen."
+ ],
+ "sections": [
+  {
+   "heading": "Gratis ChatGPT: wat je wel en niet krijgt",
+   "body": "De gratis versie kost je niets en dekt voor veel mensen het meeste werk. Je kunt vragen stellen, tekst herschrijven en samenvattingen maken. Bij drukte krijg je soms een tragere reactie of moet je wachten.\n\nOok de nieuwste functies komen vaak eerst in de betaalde versie. Voor een simpele vraag of een korte e-mail is dat geen probleem. Werk je dagelijks met AI, dan loop je tegen de grenzen aan.\n\nEr is nog een punt om op te letten. Bij de gratis versie kan je invoer worden gebruikt om het model te verbeteren. Wil je vertrouwelijke stukken verwerken, kijk dan eerst in de instellingen wat je kunt uitzetten."
+  },
+  {
+   "heading": "Betaald abonnement: vast bedrag per maand",
+   "body": "Een abonnement is de simpelste vorm. Je betaalt een vast bedrag per maand en krijgt meer ruimte, snellere antwoorden en toegang tot extra functies. De prijs staat in dollars en wordt omgerekend naar euro's, dus je ziet op je afschrift een iets ander bedrag dan de folderprijs.\n\nReken ook de btw mee. Voor particulieren in Nederland komt die er vaak bovenop. Het totaalbedrag verschilt daardoor per moment, afhankelijk van de wisselkoers. Kijk op de factuur van OpenAI voor het exacte bedrag op het moment van schrijven.\n\nVoor wie ChatGPT dagelijks gebruikt, is een abonnement meestal voordeliger dan losse betalingen. Je hoeft niet na te denken over verbruik en je weet wat je per maand kwijt bent."
+  },
+  {
+   "heading": "API: betalen per gebruik",
+   "body": "Een API is een koppeling waarmee je ChatGPT in je eigen programma of website bouwt. Je betaalt dan niet per maand, maar per stukje tekst dat je verstuurt en terugkrijgt. Dat heet tokens: ruwweg stukjes van een paar letters.\n\nBij weinig gebruik is dit goedkoop. Een klein bedrijf dat af en toe een vraag laat beantwoorden, betaalt soms maar een paar euro per maand. Gaat het om duizenden gesprekken per dag, dan loopt de rekening snel op.\n\nDe prijzen verschillen per model. Een groot model kost meer per token dan een klein, sneller model. Voor veel taken is het kleine model goed genoeg. Test dat eerst voordat je het duurdere model inschakelt.\n\nWil je de kosten chatgpt in de hand houden via de API, stel dan een limiet in. De meeste platforms laten je een maximumbedrag per maand instellen. Zo voorkom je een verrassing aan het eind van de maand."
+  },
+  {
+   "heading": "Gratis alternatieven en waar je op let",
+   "body": "Er zijn gratis AI-chatten van andere aanbieders, zoals Gemini en Copilot. Vaak krijg je daar een ruime basisversie zonder abonnement. Ook zijn er open modellen die je zelf op een computer kunt draaien.\n\nDat laatste klinkt aantrekkelijk, maar vraagt wel een stevige machine en wat technisch geduld. Voor de meeste mensen is een gratis online versie praktischer.\n\nLet bij gratis tools op twee dingen. Ten eerste wat er met je gegevens gebeurt. Ten tweede of er een limiet zit op het aantal vragen per dag. Een tool die eerst gratis lijkt, kan na verloop van tijd om een abonnement vragen.\n\nEen voorbeeldprompt om twee tools eerlijk te vergelijken:\n\n\"Vat deze alinea samen in drie punten en noem daarna welke informatie ontbreekt om een goed besluit te nemen.\"\n\nStel die vraag aan beide tools en vergelijk de antwoorden. Zo zie je snel welke tool het beste bij je past."
+  },
+  {
+   "heading": "Zo kies je de juiste vorm",
+   "body": "Begin met de gratis versie en kijk of je ermee uitkomt. Loop je tegen limieten aan of gebruik je ChatGPT elke werkdag, stap dan over op een abonnement.\n\nBouw je iets met AI in een eigen systeem, dan is de API de logische keuze. Houd de kosten in de gaten met een maandlimiet en begin met een klein model.\n\nVoor bedrijven komt daar nog iets bij. Verwerk je klantgegevens, dan moet je weten waar de data staat en hoe die wordt bewaard. Dat weegt soms zwaarder dan de prijs per maand."
+  }
+ ],
+ "nl_angle": "In Nederland valt de btw bovenop de dollarprijs van een abonnement, waardoor je effectief iets meer betaalt dan de folderprijs. Voor bedrijven speelt mee dat de Autoriteit Persoonsgegevens strenge eisen stelt aan het verwerken van persoonsgegevens. Kies je een tool, kijk dan niet alleen naar de kosten chatgpt, maar ook naar de voorwaarden.",
+ "faq": [
+  {
+   "q": "Is ChatGPT gratis te gebruiken?",
+   "a": "Ja, er is een gratis versie met beperkingen in snelheid en toegang tot functies. Voor veel dagelijkse taken is die voldoende."
+  },
+  {
+   "q": "Wat is een API en heb ik die nodig?",
+   "a": "Een API is een koppeling om ChatGPT in je eigen software te gebruiken. Je betaalt per verwerkte tekst. Heb je alleen de chat nodig, dan is een abonnement genoeg."
+  },
+  {
+   "q": "Zijn er gratis alternatieven voor ChatGPT?",
+   "a": "Ja, onder meer Gemini en Copilot hebben een gratis versie. Let op de limieten en op wat er met je gegevens gebeurt."
+  },
+  {
+   "q": "Wat kost ChatGPT per maand?",
+   "a": "De prijs van een abonnement staat in dollars en wordt omgerekend naar euro's, met btw erbij. Het exacte bedrag verschilt per moment, dus check de factuur van OpenAI."
+  }
+ ],
+ "slug": "wat-kost-chatgpt-echt-abonnementen-api-s-en-gratis-alternatieven",
+ "kind": "evergreen",
+ "date": "2026-11-11",
+ "published": "2026-11-11T12:09",
+ "sources": [],
+ "path": "/uitleg/wat-kost-chatgpt-echt-abonnementen-api-s-en-gratis-alternatieven/",
+ "og": "/img/og/wat-kost-chatgpt-echt-abonnementen-api-s-en-gratis-alternatieven.png",
+ "seed": "Wat kost AI echt? Abonnementen, API's en gratis alternatieven op een rij"
+}

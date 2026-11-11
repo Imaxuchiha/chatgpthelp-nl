@@ -2923,6 +2923,18 @@
   "e18f58ec7d": {
    "at": "2026-11-10T22:47:56.100657",
    "why": "ok"
+  },
+  "f28f90d289": {
+   "at": "2026-11-11T12:09:48.176936",
+   "why": "ok"
+  },
+  "80b38ea7da": {
+   "at": "2026-11-11T12:10:48.176936",
+   "why": "ok"
+  },
+  "3da61aa058": {
+   "at": "2026-11-11T12:11:48.176936",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3430,6 +3442,9 @@
   "AI freelance werk: meer uren en budget voor AI-projecten",
   "OpenAI neemt Odessia over, reisstartup van Sonder-oprichter",
   "Nieuwe AI-wet in New York treft OpenAI en Anthropic",
-  "Anthropic IPO: zeven oprichters verkopen elk voor 250 miljoen dollar"
+  "Anthropic IPO: zeven oprichters verkopen elk voor 250 miljoen dollar",
+  "ai in de advocatuur: hoe Gilbert + Tobin zijn werk anders inricht",
+  "ChatGPT Plus een jaar gratis voor veteranen: 20.000 claims",
+  "Adobe opent Creative Cloud voor externe AI-agents"
  ]
 }

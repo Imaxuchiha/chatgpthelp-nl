@@ -6034,5 +6034,60 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-11T12:10:02",
+  "slug": "",
+  "title": "ai in de advocatuur: hoe Gilbert + Tobin zijn werk anders inricht",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-11T12:10:12",
+  "slug": "",
+  "title": "ChatGPT Plus een jaar gratis voor veteranen: 20.000 claims",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-11T12:10:22",
+  "slug": "",
+  "title": "Adobe opent Creative Cloud voor externe AI-agents",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-11T12:10:48",
+  "slug": "",
+  "title": "Wat kost ChatGPT echt? Abonnementen, API's en gratis alternatieven",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]

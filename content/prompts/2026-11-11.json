@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: afspraken met je oppas op papier zetten",
+ "situation": "Je huurt een oppas in via een oppascentrale of kent iemand uit de buurt. Met deze prompt zet je de afspraken over eten, bedtijd, noodcontact en betaling helder op een rij.",
+ "prompt": "Je bent een ervaren gastouder en gezinsplanner. Ik wil een overzichtelijke oppasbrief maken voor [NAAM OPPAS] die op [DATUM] van [TIJDSTIP] tot [TIJDSTIP] op mijn [AANTAL KINDEREN] kind(eren) past. Hier zijn de feiten: namen en leeftijden [NAMEN EN LEEFTIJDEN], allergieën of medicijnen [ALLERGIEËN/MEDICIJNEN], bedtijd en routines [BEDTIJD EN ROUTINE], wat er gegeten wordt [MAALTIJD/SNACK], schermtijd of huisregels [REGELS], noodnummers [TELEFOONNUMMERS], afspraak over betaling [BEDRAG EN WIJZE]. Maak een brief van maximaal één A4 in gewone taal. Gebruik kopjes: welkom, tijden, eten, slapen, regels, nood, betaling. Zet bij elk kopje alleen wat de oppas moet weten. Voeg onderaan een kort invulveld toe voor vragen of bijzonderheden. Houd zinnen kort en vermijd vakjargon.",
+ "tip": "Vraag om een tweede, kortere versie van vijf regels die je op de koelkast plakt.",
+ "tags": [
+  "thuis",
+  "kinderen",
+  "oppas",
+  "ouders"
+ ],
+ "date": "2026-11-11",
+ "slug": "prompt-afspraken-met-je-oppas-op-papier-zetten",
+ "path": "/prompts/2026-11-11-prompt-afspraken-met-je-oppas-op-papier-zetten/"
+}
