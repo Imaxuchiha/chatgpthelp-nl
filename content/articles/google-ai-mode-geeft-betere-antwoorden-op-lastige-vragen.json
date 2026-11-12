@@ -1,0 +1,63 @@
+{
+ "keyword": "google ai mode",
+ "seo_title": "Google AI Mode krijgt betere antwoorden met Gemini 4",
+ "title": "Google AI Mode geeft betere antwoorden op lastige vragen",
+ "meta": "Google verbetert AI Mode in Zoeken met Gemini 4 Hydrogen. Lees wat er verandert aan complexe vragen, links en visuele antwoorden.",
+ "category": "nieuws",
+ "tags": [
+  "google",
+  "ai mode",
+  "zoeken",
+  "gemini",
+  "ai"
+ ],
+ "intro": "Google heeft zijn AI Mode in Zoeken een upgrade gegeven. Het systeem draait nu op Gemini 4 Hydrogen. Daardoor begrijpt het ingewikkelde vragen beter en toont het rijkere antwoorden, meldt TechCrunch.",
+ "takeaways": [
+  "AI Mode in Google Zoeken werkt nu met Gemini 4 Hydrogen.",
+  "Het systeem begrijpt complexe zoekvragen beter dan voorheen.",
+  "Antwoorden bevatten meer relevante links en visuele elementen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies verandert in AI Mode",
+   "body": "AI Mode is de aparte zoekstand van Google waarin een taalmodel het antwoord samenstelt. Die stand krijgt nu kracht van Gemini 4 Hydrogen, het nieuwste model van het bedrijf. Volgens TechCrunch merk je dat vooral bij vragen met meerdere stappen.\n\nDenk aan een vraag waarin je verschillende eisen combineert. Het systeem haalt die uit elkaar en zoekt per onderdeel naar bruikbare informatie. Het antwoord wordt daarna in één keer opgebouwd.\n\nOok de verwijzingen naar websites krijgen meer aandacht. AI Mode toont relevante links bij het antwoord, zodat je zelf kunt doorlezen waar de informatie vandaan komt."
+  },
+  {
+   "heading": "Visuele antwoorden en ingewikkelde vragen",
+   "body": "De update richt zich op vragen die mensen normaal gesproken in meerdere zoekopdrachten zouden splitsen. Google noemt dat complexe queries. Het model moet zulke vragen in één keer aankunnen.\n\nNaast tekst levert AI Mode meer visuele reacties op. Wat dat precies inhoudt, maakt TechCrunch niet concreet. Het gaat in elk geval om een rijkere presentatie dan een blok platte tekst.\n\nOf de antwoorden ook echt kloppen, is per vraag verschillend. Google geeft geen cijfers over de nauwkeurigheid van de nieuwe versie."
+  },
+  {
+   "heading": "Waarom Google dit doet",
+   "body": "Zoeken is het belangrijkste product van Google. Concurrenten bouwen hun eigen AI-antwoorden in en proberen zoekers weg te trekken. Met een sterker model wil Google zijn positie in dat gevecht houden.\n\nTegelijk is er druk van uitgevers. Die zien minder bezoekers binnenkomen wanneer een AI-antwoord het werk overneemt. Door links nadrukkelijker te tonen, probeert Google dat deels op te vangen.\n\nHoeveel verkeer websites uiteindelijk krijgen, blijft een open vraag. Daar geeft de bron geen uitsluitsel over."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders verandert er weinig aan de manier waarop je Google opent. AI Mode is onderdeel van Zoeken en de update rolt geleidelijk uit. Wie de stand al gebruikt, merkt vooral verschil bij lastige vragen. Bedrijven die afhankelijk zijn van zoekverkeer doen er goed aan hun positie in de gaten te houden. Meer AI-antwoorden kunnen klikken naar hun site verminderen. Of en wanneer de nieuwe versie in Nederland volledig beschikbaar is, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is Google AI Mode?",
+   "a": "Dat is een zoekstand in Google waarin een AI-model het antwoord samenstelt. Je krijgt één uitgewerkt antwoord in plaats van een lijst losse links."
+  },
+  {
+   "q": "Wat is Gemini 4 Hydrogen?",
+   "a": "Dat is het AI-model van Google waar AI Mode nu op draait. Het moet beter omgaan met vragen die uit meerdere delen bestaan."
+  },
+  {
+   "q": "Is de nieuwe AI Mode al in Nederland te gebruiken?",
+   "a": "Dat is niet duidelijk. De update wordt uitgerold, maar een precieze datum voor Nederland noemt de bron niet."
+  }
+ ],
+ "slug": "google-ai-mode-geeft-betere-antwoorden-op-lastige-vragen",
+ "kind": "news",
+ "date": "2026-11-12",
+ "published": "2026-11-12T23:13",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+   "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+  }
+ ],
+ "path": "/nieuws/google-ai-mode-geeft-betere-antwoorden-op-lastige-vragen/",
+ "og": "/img/og/google-ai-mode-geeft-betere-antwoorden-op-lastige-vragen.png",
+ "take": "Google gooit er een nieuw model tegenaan en noemt de antwoorden beter, maar ik zie liever eerst een test op echte zooi. Wat zo'n upgrade waard is, blijkt pas als hij met mijn data en koppelingen overweg kan. De knoppen waarmee je echt geld uitgeeft, blijven bij mij toch in handen van een mens."
+}

@@ -1,0 +1,64 @@
+{
+ "keyword": "openai amplitude wave",
+ "seo_title": "OpenAI Amplitude Wave: productupdates in 1 tot 2 dagen",
+ "title": "Amplitude levert productupdates in 1 tot 2 dagen met OpenAI",
+ "meta": "Amplitude gebruikt OpenAI-modellen voor agent Wave: bepaalt wat te bouwen, helpt bij coderen en meet resultaat. Wat betekent dit voor Nederlandse teams?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "amplitude",
+  "ai-agents",
+  "productontwikkeling",
+  "software"
+ ],
+ "intro": "Amplitude bouwt zijn proactieve productagent Wave vooral op modellen van OpenAI. Volgens OpenAI bepaalt Wave wat er gebouwd moet worden, helpt het teams wijzigingen binnen één tot twee dagen uit te leveren en meet het daarna het effect. Dat is opvallend, want softwareteams worstelen vaak met lange doorlooptijden tussen idee en release.",
+ "takeaways": [
+  "Wave van Amplitude draait vooral op OpenAI-modellen, meldt OpenAI.",
+  "De agent bepaalt wat er gebouwd moet worden en meet daarna de impact.",
+  "Wijzigingen komen volgens OpenAI binnen één tot twee dagen live.",
+  "Coding agents helpen teams bij het doorvoeren van de aanpassingen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Wave precies doet",
+   "body": "Wave is een productagent. Dat is software die zelfstandig stappen zet in een werkproces, in dit geval productontwikkeling. De agent kijkt welke verbeteringen zinvol zijn en stelt vast wat er gebouwd moet worden.\n\nDaarna schakelt Wave coding agents in. Dat zijn AI-hulpen die code schrijven of aanpassen. Teams kunnen zo een wijziging doorvoeren zonder eerst een lang traject van overleg en planning.\n\nNa de release meet Wave wat het effect is. Zo zie je of een aanpassing echt iets oplevert of niet."
+  },
+  {
+   "heading": "Eén tot twee dagen van idee naar release",
+   "body": "De doorlooptijd is het opvallendste cijfer. Volgens OpenAI levert Amplitude productverbeteringen in één tot twee dagen op. Normaal duurt zo'n cyclus bij veel softwarebedrijven weken.\n\nDat komt doordat dezelfde agent zowel bepaalt wat er moet gebeuren als helpt bij de uitvoering. Besluitvorming en bouwwerk zitten daardoor dicht op elkaar.\n\nOpenAI noemt geen prijzen of limieten voor dit gebruik. Ook is niet bekend welke specifieke modellen Amplitude inzet."
+  },
+  {
+   "heading": "Wat dit zegt over de markt voor AI-agents",
+   "body": "OpenAI gebruikt Amplitude als voorbeeld van hoe bedrijven agents inzetten voor echt werk. Het gaat hier om productteams die met AI sneller schakelen tussen analyse en uitvoering.\n\nVoor softwarebedrijven betekent dit een andere rolverdeling. De agent neemt een deel van het denkwerk en het eerste bouwwerk over. Mensen beoordelen en sturen bij.\n\nOf dit bij elke organisatie werkt, is nog niet bekend. De casus komt van OpenAI zelf en is dus één voorbeeld, geen breed onderzoek."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse software- en productteams is dit een concreet voorbeeld om naar te kijken. Kortere cycli van idee naar release kunnen helpen bij krappe teams en snelle concurrentie. Let wel op: de tooling van OpenAI en Amplitude is in Nederland en de EU te gebruiken, maar bedrijven moeten zelf regelen hoe ze met data en AI-uitkomsten omgaan onder de AVG. Er is nog geen informatie over Nederlandse prijzen of een aparte EU-versie.",
+ "faq": [
+  {
+   "q": "Wat is Wave van Amplitude?",
+   "a": "Wave is een productagent die volgens OpenAI bepaalt wat er gebouwd moet worden, coding agents aanstuurt en daarna de impact meet."
+  },
+  {
+   "q": "Hoe snel levert Amplitude wijzigingen op?",
+   "a": "Volgens OpenAI komen productverbeteringen binnen één tot twee dagen live."
+  },
+  {
+   "q": "Gebruikt Amplitude alleen OpenAI-modellen?",
+   "a": "Wave is vooral op OpenAI-modellen gebouwd, meldt OpenAI. Welke modellen precies en tegen welke prijs is niet bekend."
+  }
+ ],
+ "slug": "amplitude-levert-productupdates-in-1-tot-2-dagen-met-openai",
+ "kind": "news",
+ "date": "2026-11-12",
+ "published": "2026-11-12T23:11",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "url": "https://openai.com/index/amplitude"
+  }
+ ],
+ "path": "/nieuws/amplitude-levert-productupdates-in-1-tot-2-dagen-met-openai/",
+ "og": "/img/og/amplitude-levert-productupdates-in-1-tot-2-dagen-met-openai.png",
+ "take": "Een agent die bepaalt wat er gebouwd moet worden en dat binnen één tot twee dagen laat uitrollen, daar zit de winst in de doorlooptijd. Ik sleep zo'n tool er alleen in als een mens de knoppen vasthoudt: wat er live gaat, wie er tekent en wanneer een feature terug in de ijskast gaat. Amplitude verkoopt de snelheid, de beslissing blijft van jou."
+}

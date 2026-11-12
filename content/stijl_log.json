@@ -6299,5 +6299,53 @@
   "rood": [],
   "andere_fouten": 1,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-12T23:12:08",
+  "slug": "",
+  "title": "Amplitude levert productupdates in 1 tot 2 dagen met OpenAI",
+  "kind": "news",
+  "rood": [],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-12T23:12:17",
+  "slug": "",
+  "title": "AI-agent vindt geen nieuwe maya-site: onderzoeker gecorrigeerd",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-12T23:12:25",
+  "slug": "",
+  "title": "Google AI Mode geeft betere antwoorden op lastige vragen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-12T23:12:48",
+  "slug": "",
+  "title": "Performance Max budget verhogen: zo werkt het niet",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S5",
+   "S8"
+  ],
+  "andere_fouten": 2,
+  "stand": "meten"
  }
 ]

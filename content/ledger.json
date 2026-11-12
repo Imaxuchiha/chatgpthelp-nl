@@ -2991,6 +2991,18 @@
   "4213b9afef": {
    "at": "2026-11-12T20:07:24.882900",
    "why": "ok"
+  },
+  "372847c949": {
+   "at": "2026-11-12T23:11:55.046173",
+   "why": "ok"
+  },
+  "3b869b1138": {
+   "at": "2026-11-12T23:12:55.046173",
+   "why": "ok"
+  },
+  "875637b2c3": {
+   "at": "2026-11-12T23:13:55.046173",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3513,6 +3525,9 @@
   "Gemini voor Home toont nu visuele antwoorden op je slimme scherm",
   "Hugging Face-ceo blijft strijden voor open source ai na exit Huang",
   "United Airlines blokkeert AI-agents bij het boeken van vluchten",
-  "Generatieve ai gameontwikkeling groeit naar 40 procent van ontwikkelaars"
+  "Generatieve ai gameontwikkeling groeit naar 40 procent van ontwikkelaars",
+  "Amplitude levert productupdates in 1 tot 2 dagen met OpenAI",
+  "AI-agent vindt geen nieuwe maya-site: onderzoeker gecorrigeerd",
+  "Google AI Mode geeft betere antwoorden op lastige vragen"
  ]
 }

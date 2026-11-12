@@ -1,0 +1,68 @@
+{
+ "keyword": "ai agent maya-site",
+ "seo_title": "AI-agent maya-site: geen nieuwe vondst, wel kritiek",
+ "title": "AI-agent vindt geen nieuwe maya-site: onderzoeker gecorrigeerd",
+ "meta": "Een Google-onderzoeker meldde een onontdekte maya-site, gevonden met AI-agents. De site was al bekend. Wat dit zegt over AI als onderzoekshulp.",
+ "category": "nieuws",
+ "tags": [
+  "ai-agents",
+  "archeologie",
+  "google",
+  "onderzoek",
+  "maya"
+ ],
+ "intro": "Een team AI-agents zou een onbekende maya-site in Mexico hebben gevonden. Dat claimde Google-onderzoeker Pietro Miotti deze week. Het probleem: de site stond vorig jaar al in een wetenschappelijk tijdschrift. De fout levert kritiek op uit de archeologie.",
+ "takeaways": [
+  "Google-onderzoeker Pietro Miotti meldde een mogelijk onontdekte maya-site in Mexico, gevonden met AI-agents.",
+  "De locatie was al eerder beschreven in een academisch artikel uit het jaar daarvoor.",
+  "Archeologen reageerden online kritisch op de claim.",
+  "Het voorval laat zien dat AI-output altijd langs menselijke controle moet."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies gebeurde",
+   "body": "Miotti zette deze week een team AI-agents aan het werk. Die agents moesten zelfstandig bronnen doorzoeken en verbanden leggen. De uitkomst leek een doorbraak: een stuk maya-site in Mexico dat nog niet op kaarten stond.\n\nAl snel bleek dat de vindplaats vorig jaar al in een vakblad is gepubliceerd. Archeologen met kennis van de regio zagen dat meteen. Volgens The Verge uitten zij online felle kritiek op de gang van zaken.\n\nDe claim was dus te groot. De agents hadden bestaande kennis gevonden en die als nieuw gepresenteerd. Dat is geen ontdekking, het is een zoekresultaat."
+  },
+  {
+   "heading": "Waarom dit vaker misgaat",
+   "body": "AI-agents werken met grote hoeveelheden tekst. Ze combineren wat ze vinden tot een antwoord dat overtuigend klinkt. Of dat antwoord klopt, controleren ze niet uit zichzelf.\n\nBij archeologie komt daar iets bij. Veel vondsten staan in vakbladen die slecht vindbaar zijn online. Een agent die vooral openbare bronnen leest, mist dan precies de publicatie die de vondst al beschreef.\n\nHet gevolg is een bekende valkuil: het model presenteert oude informatie met veel vertrouwen als iets nieuws. Zonder vakgenoot die meeleest, blijft zo'n fout makkelijk hangen."
+  },
+  {
+   "heading": "Wat archeologen ervan vinden",
+   "body": "De reacties online waren duidelijk. Onderzoekers wezen erop dat je een vondst pas nieuw noemt na vergelijking met bestaande literatuur. Dat werk hoort bij het vak.\n\nVolgens The Verge benadrukken critici dat AI het veldwerk niet vervangt. Een agent kan bronnen sneller doorzoeken. De beoordeling of iets echt onbekend is, blijft mensenwerk.\n\nDat betekent niet dat AI niets toevoegt. Het middel is bruikbaar, zolang je de uitkomst ziet als een eerste aanwijzing. Niet als een eindconclusie."
+  },
+  {
+   "heading": "Wat je hiervan kunt leren",
+   "body": "Gebruik je zelf AI-agents voor onderzoek, vraag dan altijd naar de bronnen. Laat het systeem niet alleen zeggen wat het vond, maar ook waar.\n\nControleer daarna of die bron echt bestaat en of de conclusie klopt. Bij twijfel is een vakgenoot of een tweede zoekronde verstandig. Dat kost tijd, maar voorkomt een claim die je later moet intrekken.\n\nDe les uit Mexico is simpel. Een agent die snel antwoord geeft, is nog geen onderzoeker."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en onderzoekers die met AI-agents werken, is dit een concreet waarschuwingssignaal. Tools als Copilot en ChatGPT kunnen bronnen doorzoeken, maar de controle blijft bij jou. Zet in je werkproces een stap waarin iemand de gevonden bronnen naloopt. Bij subsidieaanvragen of publicaties is dat extra belangrijk, want een onjuiste claim kost geloofwaardigheid. Er zijn geen Nederlandse regels die dit voorschrijven. De verantwoordelijkheid ligt bij de gebruiker.",
+ "faq": [
+  {
+   "q": "Heeft een AI-agent echt een nieuwe maya-site gevonden?",
+   "a": "Nee. De site was vorig jaar al beschreven in een academisch tijdschrift. De AI-agents vonden bestaande informatie en presenteerden die als nieuw."
+  },
+  {
+   "q": "Wie deed de claim?",
+   "a": "Google-onderzoeker Pietro Miotti meldde de vondst deze week. Archeologen reageerden online kritisch, meldt The Verge."
+  },
+  {
+   "q": "Kan ik AI-agents gebruiken voor eigen onderzoek?",
+   "a": "Ja, als hulpmiddel bij het doorzoeken van bronnen. Controleer de gevonden bronnen altijd zelf voordat je een conclusie deelt."
+  }
+ ],
+ "slug": "ai-agent-vindt-geen-nieuwe-maya-site-onderzoeker-gecorrigeerd",
+ "kind": "news",
+ "date": "2026-11-12",
+ "published": "2026-11-12T23:12",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "No, AI agents did not discover a previously unknown Maya site",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+  }
+ ],
+ "path": "/nieuws/ai-agent-vindt-geen-nieuwe-maya-site-onderzoeker-gecorrigeerd/",
+ "og": "/img/og/ai-agent-vindt-geen-nieuwe-maya-site-onderzoeker-gecorrigeerd.png",
+ "take": "Een AI-agent die een site vindt die vorig jaar al in een tijdschrift stond, dat is geen ontdekking maar een zoekfout met een persbericht eromheen. Ik zie hetzelfde patroon in advertentieaccounts: iets wordt afgeschreven op een korte meting, terwijl de data er gewoon al lag. Eerst fatsoenlijk natrekken en dan pas roepen dat je iets hebt gevonden."
+}
