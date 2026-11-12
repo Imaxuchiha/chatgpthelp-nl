@@ -2971,6 +2971,26 @@
   "ec2284041f": {
    "at": "2026-11-12T12:29:44.248123",
    "why": "ok"
+  },
+  "09f2f819b5": {
+   "at": "2026-11-12T20:05:24.882900",
+   "why": "poort"
+  },
+  "5c8a7e2ce9": {
+   "at": "2026-11-12T20:05:24.882900",
+   "why": "ok"
+  },
+  "322f998ba4": {
+   "at": "2026-11-12T20:06:24.882900",
+   "why": "ok"
+  },
+  "3293393520": {
+   "at": "2026-11-12T20:07:24.882900",
+   "why": "high-risk"
+  },
+  "4213b9afef": {
+   "at": "2026-11-12T20:07:24.882900",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3490,6 +3510,9 @@
   "Fractile haalt 720 miljoen dollar op voor ai-chips",
   "Holiday Extras bouwt met Codex betere apps en meer boekingen",
   "OpenAI steekt 2 miljoen dollar in onderzoek naar AI en kinderveiligheid",
-  "Gemini voor Home toont nu visuele antwoorden op je slimme scherm"
+  "Gemini voor Home toont nu visuele antwoorden op je slimme scherm",
+  "Hugging Face-ceo blijft strijden voor open source ai na exit Huang",
+  "United Airlines blokkeert AI-agents bij het boeken van vluchten",
+  "Generatieve ai gameontwikkeling groeit naar 40 procent van ontwikkelaars"
  ]
 }

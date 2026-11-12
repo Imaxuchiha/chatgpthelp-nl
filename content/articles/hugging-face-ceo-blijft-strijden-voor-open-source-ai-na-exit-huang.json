@@ -1,0 +1,64 @@
+{
+ "keyword": "hugging face open source ai",
+ "seo_title": "Hugging Face open source ai: ceo strijdt door na exit Huang",
+ "title": "Hugging Face-ceo blijft strijden voor open source ai na exit Huang",
+ "meta": "Hugging Face-ceo belooft door te gaan voor open source ai na het vertrek van Jensen Huang. Wat betekent dat voor Nvidia's overname van 12,9 miljard dollar?",
+ "category": "nieuws",
+ "tags": [
+  "hugging face",
+  "open source ai",
+  "nvidia",
+  "jensen huang",
+  "overname"
+ ],
+ "intro": "De topman van Hugging Face laat zich niet uit het veld slaan door het vertrek van Jensen Huang. Hij belooft te blijven knokken voor open source ai. Dat roept vragen op over de overname van Hugging Face door Nvidia, die 12,9 miljard dollar kost.",
+ "takeaways": [
+  "De ceo van Hugging Face zegt de strijd voor open source ai voort te zetten.",
+  "Het vertrek van Jensen Huang roept vragen op over Nvidia's overname van 12,9 miljard dollar.",
+  "Onzeker is wat het vertrek betekent voor de koers van Hugging Face.",
+  "Nederlandse bedrijven die op open modellen bouwen, merken mogelijk weinig van de soap."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er speelt rond Hugging Face",
+   "body": "Hugging Face is een platform waar ontwikkelaars open ai-modellen delen en downloaden. Het bedrijf groeide uit tot een centrale plek voor open source ai. Nvidia kondigde een overname aan van 12,9 miljard dollar, omgerekend zo'n 11 miljard euro.\n\nNu is Jensen Huang vertrokken. TechCrunch meldt dat de ceo van Hugging Face daarna beloofde door te gaan met zijn inzet voor open source ai. Waarom Huang wegging, maakt de bron niet duidelijk. Ook is niet bekend of zijn vertrek gevolgen heeft voor de deal zelf.\n\nDe timing is opvallend. Een overname van deze omvang brengt altijd onzekerheid mee voor een open platform. Het vertrek van een sleutelfiguur maakt die onzekerheid groter."
+  },
+  {
+   "heading": "Waarom open source ai onder druk staat",
+   "body": "Open source ai betekent dat de bouwstenen van een model vrij beschikbaar zijn. Iedereen kan ze bekijken, aanpassen en hergebruiken. Dat botst soms met de belangen van grote techbedrijven, die veel geld steken in gesloten modellen.\n\nHugging Face heeft daar een eigen positie in. Het platform leeft van de gemeenschap die modellen deelt. Komt het onder een grote chipfabrikant, dan kijken gebruikers scherp naar wat er verandert. De ceo zegt nu publiek dat de koers hetzelfde blijft.\n\nOf die belofte standhoudt, is nog niet te zeggen. De overname is nog niet afgerond, voor zover bekend. Concrete afspraken over het open karakter zijn niet naar buiten gebracht."
+  },
+  {
+   "heading": "Wat Nvidia met Hugging Face wil",
+   "body": "Nvidia is vooral bekend van de chips waarop ai-modellen draaien. Met Hugging Face haalt het bedrijf een groot netwerk van ontwikkelaars binnen. Dat past bij een bredere beweging: chipmakers willen dichter bij de software zitten.\n\nDe 12,9 miljard dollar is een fors bedrag. Het laat zien hoe waardevol een platform met ai-modellen is geworden. Voor ontwikkelaars betekent het vooral dat hun favoriete plek in andere handen komt.\n\nWat er precies verandert aan het platform, is nog niet bekend. De bron noemt geen plannen voor prijzen, voorwaarden of toegang."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en bedrijven die met open modellen werken, is Hugging Face vaak een eerste stop. Verandert het platform van koers, dan raakt dat hun werk direct. De overname moet nog worden afgerond en Europese toezichthouders kunnen daar naar kijken. Zolang er geen duidelijkheid is, loont het om te weten welke modellen je gebruikt en of je ze ook elders kunt vinden. De prijs in euro's van de deal zegt weinig over wat gebruikers gaan betalen; het platform is nu grotendeels gratis toegankelijk.",
+ "faq": [
+  {
+   "q": "Wat gebeurt er met Hugging Face na het vertrek van Jensen Huang?",
+   "a": "De ceo zegt dat het bedrijf blijft inzetten op open source ai. Wat het vertrek betekent voor de overname door Nvidia is nog niet bekend."
+  },
+  {
+   "q": "Hoeveel kost de overname van Hugging Face?",
+   "a": "Nvidia legt 12,9 miljard dollar neer, omgerekend ongeveer 11 miljard euro."
+  },
+  {
+   "q": "Merken Nederlandse gebruikers hier iets van?",
+   "a": "Misschien. Veel Nederlandse ontwikkelaars halen open modellen bij Hugging Face. Verandert de koers, dan raakt dat hun werk."
+  }
+ ],
+ "slug": "hugging-face-ceo-blijft-strijden-voor-open-source-ai-na-exit-huang",
+ "kind": "news",
+ "date": "2026-11-12",
+ "published": "2026-11-12T20:05",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+  }
+ ],
+ "path": "/nieuws/hugging-face-ceo-blijft-strijden-voor-open-source-ai-na-exit-huang/",
+ "og": "/img/og/hugging-face-ceo-blijft-strijden-voor-open-source-ai-na-exit-huang.png",
+ "take": "Open source heeft baat bij een grote mond, dus laat die ceo vooral doorgaan. Maar een overname van 12,9 miljard dollar verandert de spelregels zodra het geld op de rekening staat, en een belofte is nog geen contract. Ik geloof pas in open source als de code er over een jaar nog steeds vrij te pakken is."
+}

@@ -1,0 +1,68 @@
+{
+ "keyword": "generatieve ai gameontwikkeling",
+ "seo_title": "Generatieve ai gameontwikkeling: 40 procent ontwikkelaars",
+ "title": "Generatieve ai gameontwikkeling groeit naar 40 procent van ontwikkelaars",
+ "meta": "Steeds meer gameontwikkelaars zetten generatieve ai in hun werk, meldt The Verge. Wat betekent dat voor banen en voor de game-industrie in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "generatieve ai",
+  "game-industrie",
+  "gdc",
+  "ontwikkelaars",
+  "arbeidsmarkt"
+ ],
+ "intro": "Het aandeel gameontwikkelaars dat generatieve ai in het werk gebruikt, is in een jaar gestegen van 36 naar 40 procent. Dat blijkt uit de jaarlijkse enquête van het GDC Festival of Gaming, meldt The Verge. De stijging is bescheiden, maar laat zien dat ai langzaam vast onderdeel wordt van het productieproces.",
+ "takeaways": [
+  "40 procent van de ondervraagde ontwikkelaars gebruikt generatieve ai als onderdeel van het werk.",
+  "In 2025 lag dat aandeel op 36 procent.",
+  "Het gebruik ligt hoger bij een deel van de ontwikkelaars dan bij de groep als geheel.",
+  "De cijfers komen uit de jaarlijkse enquête van het GDC Festival of Gaming."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de cijfers zeggen",
+   "body": "De enquête van het GDC Festival of Gaming peilt elk jaar hoe ontwikkelaars tegen hun vak en de sector aankijken. Dit jaar zegt 40 procent van de ondervraagden generatieve ai te gebruiken als onderdeel van het werk. Vorig jaar was dat 36 procent.\n\nDaarmee zet de groei door, al gaat het om een paar procentpunt. The Verge meldt dat het gebruik hoger ligt bij een specifieke groep ontwikkelaars, maar de bron maakt in de samenvatting niet duidelijk om welke groep het precies gaat. Duidelijke cijfers daarover ontbreken nog."
+  },
+  {
+   "heading": "Waar ontwikkelaars ai voor inzetten",
+   "body": "Generatieve ai kan tekst, beeld en code produceren op basis van een opdracht in gewone taal. In de game-industrie zijn daar meerdere toepassingen denkbaar: concepten voor personages, het schrijven van dialoog of het maken van tijdelijke beelden tijdens het ontwerp.\n\nDe bronnen bij dit bericht noemen geen concrete taken die ontwikkelaars met de tools uitvoeren. Welke modellen populair zijn en hoe vaak ai wordt ingezet, blijft daarmee onbekend. De enquête meet vooral of ontwikkelaars de tools gebruiken, niet precies waarvoor."
+  },
+  {
+   "heading": "Ai en banen in de sector",
+   "body": "De vraag naar ai hangt samen met discussies over werkgelegenheid in de game-industrie. Ontwikkelaars maken zich zorgen dat ai taken overneemt, terwijl uitgevers juist kijken naar kostenbesparing. De bron geeft geen cijfers over ontslagen die direct aan ai zijn toe te schrijven.\n\nWat de enquête wel laat zien: ai is geen randverschijnsel meer. Vier op de tien ontwikkelaars hebben het in hun dagelijkse werk. Voor de rest geldt dat nog altijd niet, en een meerderheid werkt dus zonder deze tools."
+  },
+  {
+   "heading": "Wat Nederland hiervan merkt",
+   "body": "De Nederlandse game-industrie bestaat vooral uit kleine en middelgrote studio's, verspreid over steden als Utrecht, Amsterdam en Hilversum. Zulke teams hebben vaak minder budget dan grote buitenlandse uitgevers. Ai-tools kunnen daar uitkomst bieden bij taken die veel tijd kosten, zoals het maken van variaties op concepten.\n\nTegelijk spelen dezelfde vragen als internationaal: wie is eigenaar van ai-output, en wat betekent het voor de positie van artiesten en programmeurs? De bron gaat daar niet op in. Duidelijk is wel dat de Europese Unie regels heeft voor ai, waaronder de Ai-verordening. Werkgevers moeten zich aan die regels houden, ook als ze ai inzetten voor gameontwikkeling."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gamestudio's betekent dit dat ai steeds normaler wordt in het werk, ook bij kleine teams. Wie zelf ai wil inzetten, moet letten op auteursrecht en de Europese ai-regels. De enquête geeft geen cijfers over Nederland, dus hoeveel Nederlandse ontwikkelaars de tools gebruiken is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Hoeveel gameontwikkelaars gebruiken generatieve ai?",
+   "a": "Volgens de jaarlijkse enquête van het GDC Festival of Gaming zegt 40 procent van de ondervraagde ontwikkelaars generatieve ai te gebruiken als onderdeel van het werk. Vorig jaar was dat 36 procent."
+  },
+  {
+   "q": "Waarvoor gebruiken gameontwikkelaars ai?",
+   "a": "De bron noemt geen specifieke taken. Generatieve ai kan onder meer tekst, beeld en code maken, maar welke toepassingen ontwikkelaars precies kiezen, blijkt niet uit de cijfers."
+  },
+  {
+   "q": "Geldt dit ook voor Nederlandse gamestudio's?",
+   "a": "De enquête geeft geen cijfers per land. Of Nederlandse ontwikkelaars even vaak ai gebruiken, is dus niet bekend."
+  }
+ ],
+ "slug": "generatieve-ai-gameontwikkeling-groeit-naar-40-procent-van-ontwikkelaa",
+ "kind": "news",
+ "date": "2026-11-12",
+ "published": "2026-11-12T20:07",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "More game developers are starting to use generative AI",
+   "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs"
+  }
+ ],
+ "path": "/nieuws/generatieve-ai-gameontwikkeling-groeit-naar-40-procent-van-ontwikkelaa/",
+ "og": "/img/og/generatieve-ai-gameontwikkeling-groeit-naar-40-procent-van-ontwikkelaa.png",
+ "take": "Veertig procent van de ontwikkelaars gebruikt generatieve ai, prima, maar de vraag is wie er op de knop van de release drukt. Bij mij bouwt de ai het werk en blijft de geld-knop bij een mens, en zo hoort het in games ook te gaan. Laat eerst de kwaliteit maar zien, dan praten we over banen."
+}

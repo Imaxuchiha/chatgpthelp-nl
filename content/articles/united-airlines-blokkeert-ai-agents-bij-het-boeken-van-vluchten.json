@@ -1,0 +1,68 @@
+{
+ "keyword": "ai agent vliegticket boeken",
+ "seo_title": "AI-agent vliegticket boeken: United Airlines blokkeert het",
+ "title": "United Airlines blokkeert AI-agents bij het boeken van vluchten",
+ "meta": "United Airlines staat geen AI-agents toe om vluchten te boeken of reserveringen te beheren. Wat betekent dat voor reizigers en bedrijven in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "united airlines",
+  "ai-agents",
+  "luchtvaart",
+  "cybersecurity",
+  "reizen"
+ ],
+ "intro": "United Airlines laat klanten geen AI-agents gebruiken om vluchten te boeken of reserveringen te beheren. Het bedrijf wijst op veiligheidsrisico's. De stap raakt iedereen die reizen wil uitbesteden aan slimme software.",
+ "takeaways": [
+  "United Airlines weigert AI-agents voor het boeken van vluchten en het beheren van reserveringen.",
+  "Het bedrijf noemt cybersecurityrisico's als reden voor het verbod.",
+  "De maatregel geldt voor klanten die zulke agents zelf inzetten.",
+  "Of Europese en Nederlandse luchtvaartmaatschappijen volgen, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat United precies weigert",
+   "body": "United Airlines staat niet toe dat klanten een AI-agent gebruiken om een vlucht te boeken. Ook het beheren van een bestaande reservering via zo'n agent mag niet. Dat meldt TechCrunch.\n\nHet gaat om software die zelfstandig stappen zet, bijvoorbeeld een formulier invullen of een boeking afronden. De maatschappij ziet daarin een veiligheidsrisico. Welke risico's precies spelen, maakt United niet duidelijk in de berichtgeving.\n\nHet verbod raakt klanten die zo'n agent zelf aansturen. Of United ook systemen van reisbureaus of zakelijke partners weert, is niet bekend."
+  },
+  {
+   "heading": "Waarom een airline hier voor kiest",
+   "body": "Boekingssystemen bevatten persoonsgegevens en betaalgegevens. Een agent die namens een klant inlogt, krijgt toegang tot dat alles. Voor een airline is dat lastig te controleren.\n\nOok fraude speelt mee. Een kwaadwillende kan een agent zo instellen dat hij andermans account gebruikt. United noemt cybersecurity als reden, zonder verder in detail te treden.\n\nReizigers merken het vooral aan de technologie zelf. Veel nieuwe tools beloven dat je in gewone taal een reis kunt regelen. Bij United stuit dat nu op een grens."
+  },
+  {
+   "heading": "Wat dit zegt over de bredere trend",
+   "body": "AI-agents die zelfstandig taken uitvoeren, zijn volop in ontwikkeling. Websites en diensten bepalen zelf of ze zulke software toelaten. United kiest voor een duidelijk nee.\n\nDat is opvallend, want veel bedrijven experimenteren juist met dit soort hulp. Een airline heeft daarbij meer dan gemiddeld te verliezen. Boekingen gaan over geld, identiteit en aansprakelijkheid.\n\nOf andere maatschappijen hetzelfde doen, is nog niet bekend. TechCrunch noemt alleen United. Een brede lijn in de luchtvaart is dus niet vast te stellen."
+  },
+  {
+   "heading": "Nog geen duidelijkheid over Europa",
+   "body": "De maatregel komt van een Amerikaanse maatschappij. Of Europese luchtvaartmaatschappijen AI-agents weren, is niet gemeld. Ook over Nederlandse vervoerders zegt de bron niets.\n\nReizigers die vanuit Nederland bij United boeken, krijgen met het verbod te maken. Zij moeten hun boeking dan zelf regelen via de site of app van de maatschappij.\n\nWat er gebeurt als iemand het toch via een agent probeert, is niet bekend. United heeft daar geen uitleg over gegeven."
+  }
+ ],
+ "nl_angle": "Voor reizigers in Nederland betekent dit dat je bij United je vlucht zelf moet boeken. Tools die je reis in gewone taal regelen, werken daar niet. Boek je via een Nederlands reisbureau of een Europese maatschappij, dan hangt het af van hun eigen regels. Die zijn nog niet bekend. Bedrijven die reizen voor medewerkers regelen, doen er goed aan na te gaan of hun software bij United nog werkt.",
+ "faq": [
+  {
+   "q": "Mag ik met een AI-agent een vliegticket boeken bij United?",
+   "a": "Nee, United Airlines staat dat niet toe. Het bedrijf noemt cybersecurityrisico's als reden."
+  },
+  {
+   "q": "Geldt het verbod ook voor Europese luchtvaartmaatschappijen?",
+   "a": "Dat is nog niet bekend. De bron meldt alleen de stap van United."
+  },
+  {
+   "q": "Wat gebeurt er als ik het toch via een agent probeer?",
+   "a": "United heeft niet uitgelegd wat er dan gebeurt. Duidelijk is alleen dat het niet is toegestaan."
+  }
+ ],
+ "slug": "united-airlines-blokkeert-ai-agents-bij-het-boeken-van-vluchten",
+ "kind": "news",
+ "date": "2026-11-12",
+ "published": "2026-11-12T20:06",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+   "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+  }
+ ],
+ "path": "/nieuws/united-airlines-blokkeert-ai-agents-bij-het-boeken-van-vluchten/",
+ "og": "/img/og/united-airlines-blokkeert-ai-agents-bij-het-boeken-van-vluchten.png",
+ "take": "United Airlines mag van mij best de deur dichtgooien voor AI-agents, maar dat is een keuze die je pas kunt beoordelen na een jaar of wat echte boekingen. Ik kijk nooit naar dertig dagen data om te bepalen of iets werkt. Laat eerst twaalf tot achttien maanden zien hoeveel boekingen zo'n agent verprutst en hoeveel hij oplevert, dan praten we verder."
+}
