@@ -24,7 +24,8 @@
   "Les claude-code-abonnement",
   "Les deepseek-denken-uit",
   "Les sora-tekst-in-beeld",
-  "Les budget-verhogen-niets"
+  "Les budget-verhogen-niets",
+  "cookiebanner-brak-conversies"
  ],
  "tools": [
   "Claude Code (Anthropic)",

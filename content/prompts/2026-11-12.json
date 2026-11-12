@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: huurverhoging checken en bezwaar voorbereiden",
+ "situation": "Je huurbaas kondigt een huurverhoging aan en je wilt weten of het bedrag klopt voordat je betaalt of bezwaar maakt.",
+ "prompt": "Je bent een Nederlandse huurdeskundige die huurders helpt bij huurverhogingen. Ik huur een [SOCIALE HUURWONING / VRIJE SECTOR WONING] in [PLAATS]. Mijn huidige kale huur is [BEDRAG] euro per maand. Per [INGANGSDATUM] wil de verhuurder de huur verhogen naar [NIEUW BEDRAG] euro. Mijn inkomen is ongeveer [INKOMEN] euro per jaar en ik woon er [AANTAL JAREN] jaar. Geef een overzicht: 1) of deze verhoging binnen de regels valt voor mijn type woning, 2) welk percentage en bedrag er maximaal mag gelden op basis van wat ik aanlever, 3) welke gegevens ik mis om dit goed te checken. Schrijf daarna een korte, nette brief aan de verhuurder waarin ik om uitleg vraag of bezwaar maak. Noem geen bedragen die ik niet heb aangeleverd en zeg het eerlijk als iets nog niet bekend is.",
+ "tip": "Vraag om een aparte versie van de brief in twee toonhoogtes, vriendelijk en formeel, zodat je zelf kunt kiezen.",
+ "tags": [
+  "huren",
+  "geld",
+  "brief",
+  "wonen"
+ ],
+ "date": "2026-11-12",
+ "slug": "prompt-huurverhoging-checken-en-bezwaar-voorbereiden",
+ "path": "/prompts/2026-11-12-prompt-huurverhoging-checken-en-bezwaar-voorbereiden/"
+}

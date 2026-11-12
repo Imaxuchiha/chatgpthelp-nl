@@ -2959,6 +2959,18 @@
   "6f3c74a04f": {
    "at": "2026-11-11T23:39:26.238947",
    "why": "ok"
+  },
+  "0990939c7d": {
+   "at": "2026-11-12T12:27:44.248123",
+   "why": "ok"
+  },
+  "b06379671e": {
+   "at": "2026-11-12T12:28:44.248123",
+   "why": "ok"
+  },
+  "ec2284041f": {
+   "at": "2026-11-12T12:29:44.248123",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3475,6 +3487,9 @@
   "AI opschalen bij Jio: wat een architect leert over 500 miljoen gebruikers",
   "Receptenmakers lijden onder AI die recepten maakt",
   "CoreWeave vraagt klanten vooraf te betalen voor ai-groei",
-  "Fractile haalt 720 miljoen dollar op voor ai-chips"
+  "Fractile haalt 720 miljoen dollar op voor ai-chips",
+  "Holiday Extras bouwt met Codex betere apps en meer boekingen",
+  "OpenAI steekt 2 miljoen dollar in onderzoek naar AI en kinderveiligheid",
+  "Gemini voor Home toont nu visuele antwoorden op je slimme scherm"
  ]
 }

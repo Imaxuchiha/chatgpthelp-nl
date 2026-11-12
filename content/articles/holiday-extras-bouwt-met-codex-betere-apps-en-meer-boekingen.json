@@ -1,0 +1,67 @@
+{
+ "keyword": "codex holiday extras",
+ "seo_title": "Codex bij Holiday Extras: apps en meer boekingen",
+ "title": "Holiday Extras bouwt met Codex betere apps en meer boekingen",
+ "meta": "Holiday Extras gebruikt OpenAI Codex voor betere apps en hogere boekingsconversie. Lees wat dit betekent voor ontwikkelaars en bedrijven in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "codex",
+  "holiday extras",
+  "softwareontwikkeling",
+  "ai in bedrijven"
+ ],
+ "intro": "Holiday Extras zet OpenAI Codex in om klantkennis om te zetten in betere apps. Volgens OpenAI leidt dat tot hogere boekingsconversie en nieuwe groeimogelijkheden. Het Britse reisbedrijf laat zien hoe een niet-technisch team software kan bouwen met een AI-model.",
+ "takeaways": [
+  "Holiday Extras gebruikt Codex om klantexpertise om te zetten in betere apps.",
+  "Volgens OpenAI stijgt daardoor de boekingsconversie.",
+  "Codex opent voor het bedrijf nieuwe mogelijkheden voor groei.",
+  "Het voorbeeld komt uit een klantverhaal van OpenAI zelf."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Holiday Extras met Codex doet",
+   "body": "Holiday Extras verkoopt extra's bij reizen, zoals parkeren bij de luchthaven en hotelovernachtingen. Het bedrijf zet Codex in om kennis van klanten en medewerkers om te zetten in werkende apps.\n\nVolgens OpenAI levert dat betere apps op. Ook de conversie van boekingen gaat omhoog. Het bedrijf ziet daarnaast nieuwe mogelijkheden om te groeien.\n\nOpenAI noemt geen bedragen, percentages of termijnen. Hoeveel boekingen er precies bij komen, is dus nog niet bekend."
+  },
+  {
+   "heading": "Codex als hulpmiddel voor bouwers",
+   "body": "Codex is een model van OpenAI dat code kan schrijven en aanpassen. Het werkt via een opdracht in gewone taal. Een ontwikkelaar of productmedewerker beschrijft wat er moet komen en het model levert code aan.\n\nIn het verhaal van Holiday Extras draait het om klantexpertise. Medewerkers weten welke vragen reizigers hebben en wat ze nodig hebben bij het boeken. Die kennis komt nu sneller in de software terecht.\n\nOpenAI publiceert het verhaal als klantcase. Onafhankelijke cijfers over het effect ontbreken in de bron."
+  },
+  {
+   "heading": "Wat dit zegt over AI in softwareteams",
+   "body": "Het voorbeeld past bij een bredere beweging: AI helpt teams die zelf weinig programmeurs hebben. Een klein team kan sneller iets bouwen en testen.\n\nDat betekent niet dat code automatisch goed is. Iemand moet het resultaat controleren, testen en beveiligen. Bij reisboekingen spelen betalingen en persoonsgegevens mee.\n\nHoliday Extras is een Brits bedrijf. De lessen gelden ook voor Nederlandse reisbedrijven en webshops met veel klantcontact."
+  },
+  {
+   "heading": "Nog geen cijfers of prijzen",
+   "body": "OpenAI geeft geen prijs per gebruik of een pakketprijs voor Codex in dit verhaal. Wat een Nederlandse developer precies betaalt, is nog niet bekend uit deze bron.\n\nOok ontbreekt een tijdlijn. Het is niet duidelijk wanneer Holiday Extras begon of wanneer de resultaten zijn gemeten.\n\nWie Codex wil proberen, kan terecht bij OpenAI. Let daarbij op de regels voor data en de voorwaarden die voor jouw bedrijf gelden."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven laat dit zien dat Codex interessant is als je klantkennis snel in software wilt stoppen. Denk aan reisbedrijven, webshops en klantenservice-teams. De keerzijde: je hebt nog steeds mensen nodig die code testen en privacy bewaken. Concrete prijzen in euro's en beschikbaarheid in Nederland noemt OpenAI in dit verhaal niet.",
+ "faq": [
+  {
+   "q": "wat is codex van openai",
+   "a": "Codex is een model van OpenAI dat code schrijft en aanpast op basis van een opdracht in gewone taal. Het wordt gebruikt door ontwikkelaars en productteams."
+  },
+  {
+   "q": "wat doet holiday extras met codex",
+   "a": "Holiday Extras zet Codex in om klantexpertise om te zetten in betere apps. Volgens OpenAI leidt dat tot hogere boekingsconversie en nieuwe groeimogelijkheden."
+  },
+  {
+   "q": "is codex beschikbaar in nederland",
+   "a": "OpenAI noemt in dit klantverhaal geen beschikbaarheid per land. Of en hoe Nederlandse bedrijven Codex kunnen gebruiken, staat niet in de bron."
+  }
+ ],
+ "slug": "holiday-extras-bouwt-met-codex-betere-apps-en-meer-boekingen",
+ "kind": "news",
+ "date": "2026-11-12",
+ "published": "2026-11-12T12:27",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+  }
+ ],
+ "path": "/nieuws/holiday-extras-bouwt-met-codex-betere-apps-en-meer-boekingen/",
+ "og": "/img/og/holiday-extras-bouwt-met-codex-betere-apps-en-meer-boekingen.png"
+}

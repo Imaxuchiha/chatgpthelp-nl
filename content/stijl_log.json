@@ -6164,5 +6164,73 @@
   ],
   "andere_fouten": 0,
   "stand": "meten"
+ },
+ {
+  "at": "2026-11-12T12:27:57",
+  "slug": "",
+  "title": "Holiday Extras bouwt met Codex betere apps en meer boekingen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-12T12:28:07",
+  "slug": "",
+  "title": "OpenAI steekt 2 miljoen dollar in onderzoek naar AI en kinderveiligheid",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-12T12:28:17",
+  "slug": "",
+  "title": "Gemini voor Home toont nu visuele antwoorden op je slimme scherm",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-12T12:29:03",
+  "slug": "",
+  "title": "Cookiebanner brak conversies: dit moet je checken",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S11",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-12T12:29:18",
+  "slug": "",
+  "title": "Cookiebanner brak conversies: dit moet je checken",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S11",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
  }
 ]
