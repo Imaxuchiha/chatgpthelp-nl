@@ -1,0 +1,68 @@
+{
+ "keyword": "chatgpt wallet",
+ "seo_title": "ChatGPT Wallet: betalen via ChatGPT met je eigen kaart",
+ "title": "ChatGPT Wallet laat AI-agenten betalen met jouw goedkeuring",
+ "meta": "ChatGPT Wallet laat agenten in ChatGPT Work, Codex en dots aankopen doen met jouw goedkeuring en bestaande kaartbescherming. Zo werkt het.",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "openai",
+  "betalingen",
+  "ai-agenten",
+  "chatgpt work"
+ ],
+ "intro": "OpenAI heeft ChatGPT Wallet aangekondigd. Daarmee kunnen agenten in ChatGPT Work, Codex en dots aankopen afronden, pas nadat de gebruiker ze goedkeurt. De bestaande bescherming van je betaalkaart blijft daarbij gelden, meldt OpenAI.",
+ "takeaways": [
+  "ChatGPT Wallet is bedoeld voor aankopen door agenten in ChatGPT Work, Codex en dots.",
+  "Elke aankoop vereist goedkeuring van de gebruiker.",
+  "De kaartbescherming die je al hebt, blijft van toepassing.",
+  "OpenAI noemt de wallet een veilige manier om aankopen te laten afronden."
+ ],
+ "sections": [
+  {
+   "heading": "Wat ChatGPT Wallet precies doet",
+   "body": "ChatGPT Wallet is een betaalroute binnen ChatGPT. Een agent kan een aankoop voorbereiden, waarna jij als gebruiker akkoord geeft. Pas daarna wordt de betaling afgerond.\n\nOpenAI koppelt de wallet aan drie producten: ChatGPT Work, Codex en dots. Dat zijn de omgevingen waar agenten namens jou taken uitvoeren. De wallet geeft die agenten een manier om ook de laatste stap te zetten: betalen.\n\nVolgens OpenAI gebeurt dat met de bescherming die je van je kaart gewend bent. Je bestaande kaartvoorwaarden en fraudeafhandeling blijven dus gelden. OpenAI noemt de wallet zelf een veilige manier om aankopen te doen."
+  },
+  {
+   "heading": "Goedkeuring blijft de kern",
+   "body": "Het opvallende punt is de goedkeuring. Een agent kan niets afrekenen zonder jouw akkoord. Daarmee houd je zelf de controle over wat er van je rekening gaat.\n\nHoe die goedkeuring er in de praktijk uitziet, maakt OpenAI in de aankondiging niet concreet. Of je een melding krijgt in de app, een bevestiging in het gesprek of iets anders, is nog niet bekend. Evenmin is duidelijk of je limieten per aankoop kunt instellen.\n\nOok over kosten zegt OpenAI niets. Er is geen informatie over een vergoeding per transactie of een abonnement dat nodig is. Wat de wallet precies gaat kosten, is dus nog niet bekend."
+  },
+  {
+   "heading": "Waarom dit uitmaakt voor agenten",
+   "body": "AI-agenten worden steeds vaker ingezet voor taken die meerdere stappen vragen. Denk aan het regelen van een bestelling of het afhandelen van een administratieve klus. Zodra zo'n taak bij betalen eindigt, stopt het zonder betaalmogelijkheid.\n\nMet een wallet wordt dat gat gedicht. Een agent kan dan een bestelling plaatsen en afrekenen, terwijl jij de knop indrukt. Dat scheelt handmatig werk en houdt de controle bij de gebruiker.\n\nVoor bedrijven die ChatGPT Work gebruiken, kan dit betekenen dat inkoopklussen deels geautomatiseerd worden. De goedkeuringsstap blijft dan het moment waarop een medewerker meekijkt."
+  },
+  {
+   "heading": "Wat nog open is",
+   "body": "OpenAI geeft geen lijst van ondersteunde kaarten of landen. Of iDEAL of een Nederlandse bankkaart werkt, staat niet in de aankondiging. Dat is voor Nederlandse gebruikers een belangrijk punt.\n\nOok de Europese regels rond betalingen en persoonsgegevens komen in de aankondiging niet aan bod. Of de wallet in de hele EU beschikbaar komt, is niet gemeld. Wie wil weten of het hier werkt, moet dus nog wachten op meer informatie van OpenAI."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders is de belangrijkste vraag of ChatGPT Wallet hier überhaupt komt. OpenAI noemt geen landen of lanceerdatum, dus duidelijkheid daarover ontbreekt nog. Werk je met ChatGPT Work of Codex, dan kan een agent straks mogelijk aankopen voorbereiden die jij goedkeurt. Let wel op: iDEAL wordt niet genoemd, en of je Nederlandse kaart werkt is niet bekend. Bedrijven die dit willen inzetten, doen er goed aan eerst de kaartvoorwaarden en interne inkoopregels te checken.",
+ "faq": [
+  {
+   "q": "wat is chatgpt wallet",
+   "a": "ChatGPT Wallet is een betaalmethode van OpenAI waarmee agenten in ChatGPT Work, Codex en dots aankopen kunnen afronden. Dat gebeurt pas nadat de gebruiker de aankoop goedkeurt."
+  },
+  {
+   "q": "werkt chatgpt wallet in nederland",
+   "a": "Dat is nog niet bekend. OpenAI noemt in de aankondiging geen ondersteunde landen of een lanceerdatum."
+  },
+  {
+   "q": "kan een ai-agent zomaar betalen met mijn kaart",
+   "a": "Nee. Volgens OpenAI is voor elke aankoop goedkeuring van de gebruiker nodig en blijft de bestaande bescherming van je kaart gelden."
+  }
+ ],
+ "slug": "chatgpt-wallet-laat-ai-agenten-betalen-met-jouw-goedkeuring",
+ "kind": "news",
+ "date": "2026-11-13",
+ "published": "2026-11-13T19:42",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Introducing ChatGPT Wallet",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet"
+  }
+ ],
+ "path": "/nieuws/chatgpt-wallet-laat-ai-agenten-betalen-met-jouw-goedkeuring/",
+ "og": "/img/og/chatgpt-wallet-laat-ai-agenten-betalen-met-jouw-goedkeuring.png",
+ "take": "Een agent die pas mag afrekenen nadat jij op akkoord hebt gedrukt, dat is precies de goede volgorde. Het werk mag van mij automatisch, de geld-knop blijft bij een mens. Ik wil wel eerst zien dat die goedkeuring in de praktijk waterdicht is voordat ik zo'n wallet op een klantaccount loslaat."
+}

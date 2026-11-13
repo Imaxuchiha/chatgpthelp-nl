@@ -3015,6 +3015,26 @@
   "fed6646d5c": {
    "at": "2026-11-13T12:13:53.369028",
    "why": "ok"
+  },
+  "52ac5bea74": {
+   "at": "2026-11-13T19:42:40.036130",
+   "why": "poort"
+  },
+  "5bf4951adb": {
+   "at": "2026-11-13T19:42:40.036130",
+   "why": "ok"
+  },
+  "f17748102e": {
+   "at": "2026-11-13T19:43:40.036130",
+   "why": "ok"
+  },
+  "4e379f6cb9": {
+   "at": "2026-11-13T19:44:40.036130",
+   "why": "poort"
+  },
+  "cd9d1a105b": {
+   "at": "2026-11-13T19:44:40.036130",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3543,6 +3563,9 @@
   "Google AI Mode geeft betere antwoorden op lastige vragen",
   "Deepfake crypto oplichting: Noord-Korea steelt ruim 350 miljoen euro",
   "OpenAI-productagent helpt Amplitude in 1 tot 2 dagen leveren",
-  "Microsoft-storing legt Outlook en Teams deels plat"
+  "Microsoft-storing legt Outlook en Teams deels plat",
+  "ChatGPT Wallet laat AI-agenten betalen met jouw goedkeuring",
+  "Nvidia chips china ai: verboden hardware in Chinese topmodellen",
+  "Claude Duet is Anthropic's agent voor niet-programmeurs"
  ]
 }

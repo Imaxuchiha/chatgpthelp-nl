@@ -1,0 +1,68 @@
+{
+ "keyword": "claude duet agent",
+ "seo_title": "Claude Duet agent: Anthropic's AI-agent voor gewone",
+ "title": "Claude Duet is Anthropic's agent voor niet-programmeurs",
+ "meta": "Claude Duet is Anthropic's AI-agent voor consumenten. The Verge testte hem: wat doet hij, wat kost het en wat merk je ervan in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "claude",
+  "anthropic",
+  "ai-agents",
+  "claude duet",
+  "ai-tools"
+ ],
+ "intro": "Anthropic heeft met Claude Duet een AI-agent gemaakt voor consumenten. De agent is bedoeld voor mensen die niet programmeren. The Verge testte Duet en noemt hem licht neurotisch, maar verrassend behulpzaam.",
+ "takeaways": [
+  "Claude Duet is Anthropic's AI-agent voor consumenten, gericht op niet-programmeurs.",
+  "The Verge testte de agent en vond hem behulpzaam, met trekjes die aan een zenuwachtige assistent doen denken.",
+  "Duet bood tijdens de test zelf aan om te helpen bij het schrijven over de ervaring met de tool.",
+  "Prijzen en beschikbaarheid in Nederland of de EU worden in de bron niet genoemd."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Claude Duet is",
+   "body": "Claude Duet is de consumentenversie van Anthropic's AI-agent. Volgens The Verge is het de nieuwste poging van een AI-bedrijf om te laten zien dat agents nuttig zijn voor mensen die geen code schrijven.\n\nEen agent pakt een taak in meerdere stappen aan. Je geeft een opdracht en de software zoekt zelf uit hoe hij die uitvoert. Dat gaat verder dan een chatbot die alleen antwoord geeft op een vraag.\n\nAnthropic richt zich met Duet op een brede groep gebruikers. De tool is dus niet alleen voor ontwikkelaars bedoeld."
+  },
+  {
+   "heading": "Hoe de test verliep",
+   "body": "De tester van The Verge merkt op dat de meeste producten die hij test niet aanbieden om te helpen bij het verslag. Duet deed dat wel. Volgens de bron gedroeg de agent zich een beetje neurotisch, maar was hij verrassend nuttig.\n\nWat Duet precies deed tijdens de test, maakt de samenvatting van de bron niet duidelijk. Concrete taken, fouten of resultaten worden daar niet in genoemd. Duidelijk is wel dat de agent meerdere dagen is uitgeprobeerd.\n\nThe Verge noemt de test een interessante kennismaking. Meer details over de opdrachten die Duet kreeg, ontbreken in de samenvatting."
+  },
+  {
+   "heading": "Wat je van een agent mag verwachten",
+   "body": "Een agent als Duet werkt anders dan een gewone chat. Je stelt een doel en de tool bedenkt stappen om daar te komen. Denk aan het verzamelen van informatie of het uitvoeren van een reeks handelingen.\n\nDat maakt de uitkomst minder voorspelbaar. Een agent kan zelfstandig dingen doen die je niet had voorzien. The Verge beschrijft Duet daarom als een tikje neurotisch: de agent lijkt soms meer te willen doen dan nodig.\n\nVoor gewone gebruikers is de vraag vooral of zo'n agent tijd bespaart. De test van The Verge wijst daar voorzichtig op, zonder harde cijfers."
+  },
+  {
+   "heading": "Wat nog onbekend is",
+   "body": "Over de prijs van Claude Duet zegt de bron niets. Ook is niet duidelijk of de agent in Nederland en de rest van de EU te gebruiken is. Anthropic heeft daar in de aangeleverde informatie geen uitspraken over gedaan.\n\nDat is relevant, want AI-diensten komen niet altijd op hetzelfde moment in alle landen beschikbaar. Europese regels rond AI en gegevensbescherming kunnen de uitrol vertragen.\n\nWie Duet wil proberen, moet dus eerst checken of de tool in Nederland werkt. Zolang daar geen duidelijkheid over is, blijft het bij een buitenlandse test."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers en bedrijven is Claude Duet vooral interessant als alternatief voor bestaande AI-agents. Of je hem hier kunt gebruiken, is nog niet bekend. Bedrijven die nu al met agents werken, doen er goed aan te letten op Europese regels voor AI en data. Een agent die zelfstandig stappen zet, vraagt om duidelijke afspraken over wat hij mag doen en welke gegevens hij aanraakt.",
+ "faq": [
+  {
+   "q": "Wat is Claude Duet?",
+   "a": "Claude Duet is een AI-agent van Anthropic voor consumenten. De tool is bedoeld voor mensen die niet programmeren en pakt taken in meerdere stappen aan."
+  },
+  {
+   "q": "Is Claude Duet beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. De aangeleverde bron noemt geen beschikbaarheid voor Nederland of de EU."
+  },
+  {
+   "q": "Wat kost Claude Duet?",
+   "a": "Over de prijs zegt de bron niets. Anthropic heeft in de beschikbare informatie geen tarief genoemd."
+  }
+ ],
+ "slug": "claude-duet-is-anthropic-s-agent-voor-niet-programmeurs",
+ "kind": "news",
+ "date": "2026-11-13",
+ "published": "2026-11-13T19:44",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+  }
+ ],
+ "path": "/nieuws/claude-duet-is-anthropic-s-agent-voor-niet-programmeurs/",
+ "og": "/img/og/claude-duet-is-anthropic-s-agent-voor-niet-programmeurs.png",
+ "take": "Een agent die niet-programmeurs zelf laat werken, daar word ik nieuwsgierig van, want het echte werk zit in bestanden, scripts en koppelingen aansturen. Maar 'licht neurotisch' klinkt als een tool die ik eerst een maand op mijn eigen accounts laat lopen voordat ik er een klant mee in de buurt laat komen. Een demo is geen product, en dat geldt hier net zo hard."
+}

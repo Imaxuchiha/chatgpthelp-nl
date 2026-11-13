@@ -28,7 +28,8 @@
   "cookiebanner-brak-conversies",
   "funnel-lekken-meetfout",
   "budget-verhogen-niets",
-  "smart-bidding-minimum"
+  "smart-bidding-minimum",
+  "pinning-ad-strength"
  ],
  "tools": [
   "Claude Code (Anthropic)",
