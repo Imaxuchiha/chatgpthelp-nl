@@ -1,0 +1,67 @@
+{
+ "keyword": "langchain waarde",
+ "seo_title": "LangChain waarde $3 miljard: wat betekent dat?",
+ "title": "LangChain haalt $3 miljard waarde met agentplatform",
+ "meta": "LangChain is $3 miljard waard en heeft 7.000 klanten voor LangSmith. Lees wat dat betekent voor AI-agents en voor bedrijven in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "langchain",
+  "ai-agents",
+  "langsmith",
+  "openai",
+  "investeringen"
+ ],
+ "intro": "LangChain heeft een waardering van $3 miljard bereikt. Dat meldt TechCrunch. Het bedrijf achter het agentplatform LangSmith zegt 7.000 klanten te hebben. De stap zegt veel over de groei van AI-agents als zakelijke markt.",
+ "takeaways": [
+  "LangChain is nu $3 miljard waard, volgens TechCrunch.",
+  "LangSmith heeft 7.000 klanten, aldus het bedrijf zelf.",
+  "LangSmith werkt met meerdere modellen en platforms.",
+  "Het bedrijf positioneert zich als beheertool voor AI-agents."
+ ],
+ "sections": [
+  {
+   "heading": "Wat LangChain en LangSmith doen",
+   "body": "LangChain bouwt gereedschap voor ontwikkelaars die met AI-agents werken. Een agent is software die zelf stappen zet: een vraag opzoeken, een taak uitvoeren, een vervolgactie kiezen. LangSmith is het platform waarmee teams zulke agents beheren.\n\nHet platform is model- en platformonafhankelijk. Je zit dus niet vast aan één leverancier, zoals OpenAI of Anthropic. Dat maakt het aantrekkelijk voor bedrijven die meerdere modellen naast elkaar gebruiken.\n\nVolgens TechCrunch heeft LangSmith nu 7.000 klanten. Het bedrijf noemt dat aantal zelf. Onafhankelijke cijfers over omzet of winst zijn niet bekend."
+  },
+  {
+   "heading": "Waarom beleggers dit interessant vinden",
+   "body": "De waardering van $3 miljard past bij de vraag naar beheer van AI-agents. Veel organisaties bouwen proefprojecten met agents. Het lastige deel komt daarna: overzicht houden, fouten opsporen en kosten bewaken.\n\nLangChain verkoopt precies dat stuk gereedschap. Het bedrijf verdient dus aan de laag tussen het taalmodel en de dagelijkse bedrijfsvoering. Beleggers zien daar ruimte, omdat agents steeds vaker echte taken uitvoeren.\n\nConcrete investeringsbedragen of namen van investeerders staan niet in de bron. Ook een datum voor een nieuwe financieringsronde ontbreekt."
+  },
+  {
+   "heading": "Concurrentie en risico's",
+   "body": "De markt voor agenttools groeit snel. Grote modelbouwers leveren zelf ook beheerfuncties. Denk aan OpenAI en Anthropic, die hun eigen platforms uitbreiden. Daarmee wordt de ruimte voor een tussenlaag kleiner.\n\nLangSmith speelt daarop in met zijn leveranciersonafhankelijke aanpak. Of dat genoeg is, moet blijken. De bron geeft geen cijfers over klantverloop of groei per jaar.\n\nEen andere vraag is hoe houdbaar de waardering is. Bij jonge AI-bedrijven lopen omzet en waardering vaak ver uiteen. TechCrunch noemt alleen het klantaantal en de waardering."
+  },
+  {
+   "heading": "Wat een agent precies is",
+   "body": "Een AI-agent is meer dan een chatbot. Een chatbot antwoordt op een vraag. Een agent krijgt een doel en zoekt zelf de stappen om daar te komen.\n\nIn de praktijk gaat het om taken zoals gegevens verzamelen, formulieren invullen of een bestelling controleren. Bedrijven zetten zulke agents in voor administratie, klantcontact en softwareontwikkeling.\n\nBeheer wordt dan belangrijk. Een agent die fout loopt, kost tijd en geld. Platforms als LangSmith laten zien wat een agent doet en waar het misgaat."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die met AI-agents experimenteren, is dit vooral een signaal over de markt. Er komen meer beheertools, en die zijn vaak in euro's af te nemen via een abonnement. Let bij zo'n keuze op waar de gegevens staan en of het platform aan de Europese privacyregels voldoet. De bron noemt geen prijzen of beschikbaarheid in Nederland, dus dat is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is LangChain?",
+   "a": "LangChain is een bedrijf dat gereedschap bouwt voor ontwikkelaars die met AI-agents werken. Het bekendste product is het beheerplatform LangSmith."
+  },
+  {
+   "q": "Hoeveel klanten heeft LangSmith?",
+   "a": "Het bedrijf zegt 7.000 klanten te hebben. Dat aantal komt van LangChain zelf, via TechCrunch."
+  },
+  {
+   "q": "Wat betekent een agent in AI?",
+   "a": "Een agent is software die zelf stappen zet om een doel te bereiken, zoals gegevens opzoeken of een taak uitvoeren. Dat gaat verder dan een chatbot die alleen antwoord geeft."
+  }
+ ],
+ "slug": "langchain-haalt-3-miljard-waarde-met-agentplatform",
+ "kind": "news",
+ "date": "2026-11-13",
+ "published": "2026-11-13T22:55",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+  }
+ ],
+ "path": "/nieuws/langchain-haalt-3-miljard-waarde-met-agentplatform/",
+ "og": "/img/og/langchain-haalt-3-miljard-waarde-met-agentplatform.png"
+}

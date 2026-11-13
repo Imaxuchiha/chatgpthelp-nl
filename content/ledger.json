@@ -3035,6 +3035,22 @@
   "cd9d1a105b": {
    "at": "2026-11-13T19:44:40.036130",
    "why": "ok"
+  },
+  "951c845619": {
+   "at": "2026-11-13T22:55:23.129407",
+   "why": "high-risk"
+  },
+  "38741df50e": {
+   "at": "2026-11-13T22:55:23.129407",
+   "why": "ok"
+  },
+  "d7736a3353": {
+   "at": "2026-11-13T22:56:23.129407",
+   "why": "ok"
+  },
+  "90d7922370": {
+   "at": "2026-11-13T22:57:23.129407",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3566,6 +3582,9 @@
   "Microsoft-storing legt Outlook en Teams deels plat",
   "ChatGPT Wallet laat AI-agenten betalen met jouw goedkeuring",
   "Nvidia chips china ai: verboden hardware in Chinese topmodellen",
-  "Claude Duet is Anthropic's agent voor niet-programmeurs"
+  "Claude Duet is Anthropic's agent voor niet-programmeurs",
+  "LangChain haalt $3 miljard waarde met agentplatform",
+  "OpenAI-bestuurder waarschuwt voor AI-overname van de samenleving",
+  "Gondola verdubbelt omzet met Codex van OpenAI"
  ]
 }

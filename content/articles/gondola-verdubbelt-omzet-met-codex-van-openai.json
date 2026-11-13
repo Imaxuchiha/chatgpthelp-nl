@@ -1,0 +1,67 @@
+{
+ "keyword": "codex openai gondola",
+ "seo_title": "Codex openai gondola: omzet verdubbeld bij Gondola",
+ "title": "Gondola verdubbelt omzet met Codex van OpenAI",
+ "meta": "Gondola verdubbelde zijn omzet en verhoogde de productie van zijn lead engineer met 50 procent dankzij Codex van OpenAI. Zo werkt dat in de praktijk.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "codex",
+  "chatgpt",
+  "ontwikkelaars",
+  "productiviteit"
+ ],
+ "intro": "Gondola, een dienst die creatieven helpt aan erkenning en werk, heeft zijn omzet verdubbeld. Volgens OpenAI komt dat onder meer doordat het bedrijf meer bouwt met Codex, de codeertool van OpenAI. De lead engineer van Gondola produceert naar verluidt 50 procent meer.",
+ "takeaways": [
+  "Gondola heeft zijn omzet verdubbeld, meldt OpenAI in een klantverhaal.",
+  "De lead engineer van Gondola levert 50 procent meer werk op met Codex.",
+  "ChatGPT neemt bij Gondola dagelijkse taken weg, zodat er meer tijd overblijft voor bouwen.",
+  "OpenAI noemt geen bedragen, geen termijn en geen aantal medewerkers."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Gondola doet",
+   "body": "Gondola helpt creatieven om credits te krijgen voor hun werk en om aan opdrachten te komen. Dat is de kern van het bedrijf, aldus OpenAI. Het bedrijf bouwt zijn product met Codex, de tool waarmee ontwikkelaars code laten schrijven en aanpassen.\n\nDie combinatie valt op. Een klein team kan met hulp van AI meer werk verzetten dan voorheen. OpenAI noemt in het klantverhaal geen omzetcijfers in euro's of dollars. Over de precieze periode waarin de omzet verdubbelde, zegt OpenAI niets."
+  },
+  {
+   "heading": "Helft meer output bij de lead engineer",
+   "body": "De lead engineer van Gondola haalt volgens OpenAI 50 procent meer uit zijn werk met Codex. Dat gaat om het aantal taken dat hij afrondt, niet om een gemeten omzet per persoon. OpenAI licht niet toe hoe dat percentage is berekend.\n\nNaast Codex gebruikt Gondola ChatGPT voor dagelijkse taken. Dat scheelt tijd die anders opgaat aan losse klussen. De ruimte die overblijft, gaat naar het bouwen van het product zelf."
+  },
+  {
+   "heading": "Wat Codex is",
+   "body": "Codex is de codeertool van OpenAI. Je geeft in gewone taal door wat er moet gebeuren, waarna de tool code voorstelt of aanpast. Een ontwikkelaar controleert dat werk en neemt het over of stuurt bij.\n\nVoor bedrijven betekent dit vooral minder handwerk bij terugkerende klussen. Denk aan het schrijven van tests of het opschonen van bestaande code. De tool vervangt de ontwikkelaar niet. De snelheid waarmee die werkt, kan wel omhoog gaan."
+  },
+  {
+   "heading": "Kleine teams, grotere ambities",
+   "body": "Het verhaal van Gondola past bij wat OpenAI vaker laat zien: kleine teams die met AI meer output halen. Of dat in elk bedrijf lukt, is nog niet bekend. OpenAI publiceert alleen het voorbeeld van Gondola zelf.\n\nEr zijn ook geen cijfers over hoe vaak Codex verkeerde code oplevert. Zulke fouten kosten ontwikkelaars tijd om te herstellen. Wie de tool inzet, doet er goed aan het resultaat altijd zelf na te lopen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven is het vooral een signaal over werken met AI-tools. Een klein ontwikkelteam kan met Codex meer werk verzetten, wat interessant is voor startups en bureaus met krappe budgetten. Let wel op de prijs: Codex valt onder de betaalde abonnementen van OpenAI, en de rekening loopt in dollars. De btw en het wisselkoerseffect komen daar nog bij. Nederlandse werkgevers moeten ook afspraken maken over wie controleert wat de tool oplevert. De AI-verordening van de EU vraagt vanaf volgend jaar om meer transparantie bij zulke systemen, al geldt die plicht vooral bij risicovolle toepassingen.",
+ "faq": [
+  {
+   "q": "Wat doet Gondola precies?",
+   "a": "Gondola helpt creatieven om erkenning te krijgen voor hun werk en om opdrachten te vinden. Het bedrijf bouwt zijn product met Codex van OpenAI."
+  },
+  {
+   "q": "Hoeveel kost Codex in Nederland?",
+   "a": "OpenAI noemt in het klantverhaal geen prijs. Codex valt onder de betaalde abonnementen van OpenAI, die in dollars worden afgerekend."
+  },
+  {
+   "q": "Verdubbelde Gondola zijn omzet door Codex?",
+   "a": "Volgens OpenAI verdubbelde de omzet en levert de lead engineer 50 procent meer werk op met Codex. OpenAI geeft geen cijfers over de periode of het bedrag."
+  }
+ ],
+ "slug": "gondola-verdubbelt-omzet-met-codex-van-openai",
+ "kind": "news",
+ "date": "2026-11-13",
+ "published": "2026-11-13T22:57",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Gondola doubles revenue as its team builds more with Codex",
+   "url": "https://openai.com/business/customer-stories/gondola"
+  }
+ ],
+ "path": "/nieuws/gondola-verdubbelt-omzet-met-codex-van-openai/",
+ "og": "/img/og/gondola-verdubbelt-omzet-met-codex-van-openai.png"
+}

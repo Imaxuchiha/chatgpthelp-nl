@@ -29,7 +29,8 @@
   "funnel-lekken-meetfout",
   "budget-verhogen-niets",
   "smart-bidding-minimum",
-  "pinning-ad-strength"
+  "pinning-ad-strength",
+  "branded-lek"
  ],
  "tools": [
   "Claude Code (Anthropic)",
