@@ -1,0 +1,67 @@
+{
+ "keyword": "openai productagent",
+ "seo_title": "OpenAI productagent: Amplitude levert in 1 tot 2 dagen",
+ "title": "OpenAI-productagent helpt Amplitude in 1 tot 2 dagen leveren",
+ "meta": "Amplitude gebruikt OpenAI-modellen voor productagent Wave. Lees hoe teams sneller wijzigingen doorvoeren en wat dit voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "amplitude",
+  "ai-agents",
+  "productontwikkeling",
+  "software"
+ ],
+ "intro": "Amplitude bouwt zijn productagent Wave vooral op modellen van OpenAI. Die agent bepaalt wat er gebouwd moet worden, helpt teams wijzigingen door te voeren met code-agents en meet daarna het effect. Volgens OpenAI levert dat verbeteringen op in één tot twee dagen.",
+ "takeaways": [
+  "Wave draait vooral op modellen van OpenAI, meldt OpenAI in een klantverhaal.",
+  "De agent stelt vast wat er gebouwd moet worden en meet daarna de impact.",
+  "Code-agents helpen ontwikkelteams om wijzigingen snel door te voeren.",
+  "Volgens OpenAI gaan productverbeteringen daardoor in één tot twee dagen live."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Wave precies doet",
+   "body": "Wave is een productagent van Amplitude. Het bedrijf maakt software waarmee andere bedrijven hun digitale producten meten. Wave kijkt mee en bepaalt welke verbetering als eerste nodig is.\n\nDaarna schakelt de agent ontwikkelaars in die met code-agents aan de slag gaan. Zo'n code-agent schrijft of past programmacode aan op aanwijzing van een mens. Na het uitrollen meet Wave wat de wijziging oplevert.\n\nDie drie stappen zitten in één proces: bepalen, bouwen en meten. Volgens OpenAI is dat de kern van het klantverhaal."
+  },
+  {
+   "heading": "Eén tot twee dagen in plaats van weken",
+   "body": "OpenAI noemt de doorlooptijd van één tot twee dagen expliciet. Een productverbetering gaat daarmee binnen twee werkdagen van idee naar meting.\n\nHoeveel sneller dat is dan de oude werkwijze van Amplitude, staat niet in de bron. Cijfers over eerdere doorlooptijden ontbreken. Ook is niet bekend hoeveel mensen bij Amplitude met Wave werken.\n\nDuidelijk is wel dat de agent het werk verdeelt. Mensen bepalen de koers, de agent en code-agents doen het uitvoerende deel."
+  },
+  {
+   "heading": "Waarom OpenAI dit verhaal naar buiten brengt",
+   "body": "OpenAI publiceert vaker verhalen over bedrijven die zijn modellen gebruiken. Zulke klantverhalen dienen als bewijs dat de modellen in de praktijk werken. Ze helpen bij de verkoop aan andere bedrijven.\n\nVoor Amplitude werkt het andersom ook. Het bedrijf laat zien dat zijn productagent echt iets oplevert. Beide partijen hebben baat bij het verhaal.\n\nOnafhankelijke cijfers over het effect ontbreken in de bron. De resultaten komen van de betrokken bedrijven zelf."
+  },
+  {
+   "heading": "Agenten als vast onderdeel van software",
+   "body": "Wave past in een bredere beweging. Steeds meer softwarebedrijven bouwen een agent in hun product die zelfstandig taken uitvoert. Die agent zoekt uit wat nodig is en voert het uit.\n\nVoor ontwikkelaars verandert het werk daardoor. Ze sturen code-agents aan en beoordelen hun uitvoer. Het schrijven zelf verschuift naar de machine.\n\nDat vraagt wel om controle. Een agent die zelfstandig code aanpast, moet binnen afgesproken grenzen blijven. Hoe Amplitude dat heeft geregeld, staat niet in de bron."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse softwarebedrijven is dit een concreet voorbeeld van een agent die het hele traject van idee tot meting afdekt. Teams die met OpenAI-modellen werken, kunnen zo'n aanpak zelf nabouwen. Let wel op de Europese regels: een agent die zelfstandig code wijzigt, valt onder de eisen voor AI-systemen in de EU. Hoe streng die controle precies moet zijn, hangt af van het risico dat je systeem loopt. Prijzen of licentiekosten voor Wave noemt OpenAI niet, dus wat zo'n agent een Nederlands bedrijf kost, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "wat is wave van amplitude",
+   "a": "Wave is een productagent van Amplitude die bepaalt wat er gebouwd moet worden, wijzigingen helpt doorvoeren met code-agents en daarna het effect meet."
+  },
+  {
+   "q": "welke openai-modellen gebruikt amplitude",
+   "a": "OpenAI noemt in het klantverhaal geen specifieke modelnamen. Wel staat er dat Wave vooral op modellen van OpenAI is gebouwd."
+  },
+  {
+   "q": "hoe snel levert amplitude productverbeteringen",
+   "a": "Volgens OpenAI gaan verbeteringen met Wave in één tot twee dagen van start naar meting. Onafhankelijke cijfers daarover ontbreken."
+  }
+ ],
+ "slug": "openai-productagent-helpt-amplitude-in-1-tot-2-dagen-leveren",
+ "kind": "news",
+ "date": "2026-11-13",
+ "published": "2026-11-13T12:12",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "url": "https://openai.com/business/customer-stories/amplitude"
+  }
+ ],
+ "path": "/nieuws/openai-productagent-helpt-amplitude-in-1-tot-2-dagen-leveren/",
+ "og": "/img/og/openai-productagent-helpt-amplitude-in-1-tot-2-dagen-leveren.png"
+}

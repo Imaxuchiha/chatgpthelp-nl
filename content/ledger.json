@@ -3003,6 +3003,18 @@
   "875637b2c3": {
    "at": "2026-11-12T23:13:55.046173",
    "why": "ok"
+  },
+  "bf5a1d024c": {
+   "at": "2026-11-13T12:11:53.369028",
+   "why": "ok"
+  },
+  "5b0f73df89": {
+   "at": "2026-11-13T12:12:53.369028",
+   "why": "ok"
+  },
+  "fed6646d5c": {
+   "at": "2026-11-13T12:13:53.369028",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3528,6 +3540,9 @@
   "Generatieve ai gameontwikkeling groeit naar 40 procent van ontwikkelaars",
   "Amplitude levert productupdates in 1 tot 2 dagen met OpenAI",
   "AI-agent vindt geen nieuwe maya-site: onderzoeker gecorrigeerd",
-  "Google AI Mode geeft betere antwoorden op lastige vragen"
+  "Google AI Mode geeft betere antwoorden op lastige vragen",
+  "Deepfake crypto oplichting: Noord-Korea steelt ruim 350 miljoen euro",
+  "OpenAI-productagent helpt Amplitude in 1 tot 2 dagen leveren",
+  "Microsoft-storing legt Outlook en Teams deels plat"
  ]
 }

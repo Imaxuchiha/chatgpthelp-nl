@@ -1,0 +1,68 @@
+{
+ "keyword": "microsoft storing outlook",
+ "seo_title": "Microsoft-storing: Outlook en Teams liggen eruit",
+ "title": "Microsoft-storing legt Outlook en Teams deels plat",
+ "meta": "Een grote Microsoft-storing treft Outlook, Teams en Copilot. Lees wat er bekend is, wat je zelf kunt doen en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "microsoft",
+  "storing",
+  "outlook",
+  "teams",
+  "copilot"
+ ],
+ "intro": "Sinds gistermiddag rond 17.00 uur Nederlandse tijd kampen gebruikers wereldwijd met een storing bij Microsoft. Mailprogramma Outlook en samenwerktool Teams werken daardoor deels niet. Ook Copilot, de AI van Microsoft, heeft er last van.",
+ "takeaways": [
+  "De storing begon gistermiddag rond 17.00 uur Nederlandse tijd.",
+  "Outlook en Teams zijn deels uit de lucht.",
+  "Ook Microsoft Copilot ondervindt problemen.",
+  "Het is nog niet bekend wanneer alles weer werkt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat werkt er niet",
+   "body": "De problemen raken vooral Outlook en Teams. Volgens Bright zijn beide diensten deels uit de lucht. Dat betekent niet per se dat alles platligt: sommige gebruikers merken weinig, anderen kunnen helemaal niet bij hun mail of vergaderingen.\n\nOok Copilot heeft last van de storing. Die AI-assistent zit in Microsoft 365 en helpt bij mail, notulen en documenten. Wie Copilot nu nodig heeft, kan pech hebben."
+  },
+  {
+   "heading": "Hoe lang duurt dit",
+   "body": "De storing begon gistermiddag rond 17.00 uur Nederlandse tijd. Op het moment van schrijven is er nog geen oplossing. Wanneer alles weer normaal werkt, is niet bekend.\n\nMicrosoft heeft nog geen duidelijk tijdpad gegeven. Zodra er meer informatie is, wordt dat meestal via de statuspagina van het bedrijf gemeld."
+  },
+  {
+   "heading": "Wat kun je zelf doen",
+   "body": "Heb je haast met een mail? Probeer dan een andere route, bijvoorbeeld de webversie van Outlook. Lukt dat niet, dan is het verstandig om belangrijke afspraken even telefonisch of via een ander kanaal te bevestigen.\n\nVoor vergaderingen in Teams geldt hetzelfde. Een alternatief platform of een gewone belverbinding kan uitkomst bieden. Bewaar belangrijke bestanden lokaal, zodat je erbij kunt als de clouddienst hapert."
+  },
+  {
+   "heading": "Wat betekent dit voor Nederland",
+   "body": "Veel Nederlandse bedrijven en overheidsorganisaties werken dagelijks met Microsoft 365. Een storing als deze legt een deel van de interne communicatie stil. Dat merk je vooral bij organisaties die mail en overleg volledig op Outlook en Teams hebben ingericht.\n\nEr is geen aanwijzing dat de storing met een cyberaanval te maken heeft. Microsoft noemt tot nu toe geen oorzaak. Voor werknemers betekent het vooral: even terug naar bellen en een kop koffie."
+  }
+ ],
+ "nl_angle": "In Nederland werken talloze kantoren, scholen en overheidsdiensten met Outlook en Teams. Een storing op dit moment raakt dus direct de werkdag van veel mensen. Heb je vandaag een sollicitatiegesprek, een deadline of een online overleg? Check dan eerst of je alternatief bereikbaar bent. De Autoriteit Persoonsgegevens en andere toezichthouders hebben nog geen waarschuwing afgegeven.",
+ "faq": [
+  {
+   "q": "Is er een storing bij Microsoft?",
+   "a": "Ja, sinds gistermiddag rond 17.00 uur Nederlandse tijd. Outlook, Teams en Copilot werken deels niet."
+  },
+  {
+   "q": "Wanneer is de Microsoft-storing opgelost?",
+   "a": "Dat is nog niet bekend. Microsoft heeft nog geen tijdpad gegeven."
+  },
+  {
+   "q": "Werkt Copilot ook niet door de storing?",
+   "a": "Copilot heeft problemen, meldt Bright. De AI-assistent zit in Microsoft 365 en is dus afhankelijk van dezelfde diensten."
+  }
+ ],
+ "slug": "microsoft-storing-legt-outlook-en-teams-deels-plat",
+ "kind": "news",
+ "date": "2026-11-13",
+ "published": "2026-11-13T12:13",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Outlook en Teams werken niet door een grote storing bij Microsoft",
+   "url": "https://www.bright.nl/nieuws/2158323/outlook-en-teams-werken-niet-door-een-grote-storing-bij-microsoft.html"
+  }
+ ],
+ "path": "/nieuws/microsoft-storing-legt-outlook-en-teams-deels-plat/",
+ "og": "/img/og/microsoft-storing-legt-outlook-en-teams-deels-plat.png",
+ "take": "Een storing bij Microsoft legt Outlook, Teams en Copilot plat, en dat is precies waarom ik geld-knoppen bij een mens houd. Als je je mail en je AI-assistent op één leverancier stapelt, zit je bij zo'n storing meteen stil. Ik werk liever met losse tools die ik zelf aanstuur, dan met één pakket dat alles doet tot het omvalt."
+}

@@ -1,0 +1,70 @@
+{
+ "keyword": "ai teksten",
+ "seo_title": "AI teksten herkennen: kun je zien of ChatGPT het schreef?",
+ "title": "AI teksten herkennen: kun je zien of iets door ChatGPT is geschreven?",
+ "meta": "AI teksten herkennen: zo pak je het aan als docent of werkgever. Concrete stappen, voorbeeldprompt en wat detectietools wel en niet kunnen.",
+ "category": "uitleg",
+ "tags": [
+  "ai teksten",
+  "chatgpt",
+  "detectie",
+  "onderwijs",
+  "werk"
+ ],
+ "intro": "AI teksten zijn overal: werkstukken, sollicitatiebrieven, rapporten. Docenten en werkgevers willen weten of een tekst door ChatGPT is geschreven. Detectietools beloven zekerheid, maar die is er niet. Je kunt wel beter leren kijken.",
+ "takeaways": [
+  "Geen enkele detector geeft 100 procent zekerheid; vals positief komt voor.",
+  "AI-teksten hebben vaak weinig bronnen, vage voorbeelden en een gladde toon.",
+  "Als docent of werkgever kun je beter op gesprek en proces sturen dan op één tool.",
+  "Bewaar tussenversies en stel vragen over keuzes; dat zegt meer dan een score."
+ ],
+ "sections": [
+  {
+   "heading": "Waarom AI teksten lastig te herkennen zijn",
+   "body": "AI teksten lijken op gewone teksten. ChatGPT leert van menselijke voorbeelden en schrijft vloeiend Nederlands. Er is geen watermerk dat je met het blote oog ziet. Een detector kijkt naar patronen, zoals woordkeuze en zinslengte. Die patronen zeggen iets over waarschijnlijkheid, niet over zekerheid.\n\nBovendien passen mensen hun schrijfstijl aan. Een tekst die door AI is begonnen en daarna bewerkt, is bijna niet meer te onderscheiden. En een mens die saai of voorspelbaar schrijft, kan onterecht als AI worden bestempeld. Detectoren maken die fout ook. Vals positief heet dat: een menselijke tekst wordt als AI gezien.\n\nEr is nog een probleem: AI verandert. Modellen worden bijgewerkt en schrijven anders. Een detector die vorig jaar goed werkte, kan nu minder betrouwbaar zijn. De toolhouders beloven vaak veel, maar publiceren weinig over foutmarges. Neem een score dus nooit als bewijs."
+  },
+  {
+   "heading": "Wat je zelf kunt zien aan een tekst",
+   "body": "Er zijn signalen die vaker voorkomen bij AI teksten. Let op vage bronnen: \"onderzoek wijst uit\" zonder naam of jaartal. AI verzint soms bronnen of maakt ze af. Kijk ook naar voorbeelden: zijn ze concreet en Nederlands, of blijven ze algemeen?\n\nEen ander signaal is de toon. AI teksten zijn vaak glad en evenwichtig. Ze zeggen zelden iets onverwachts. Herhaling van dezelfde structuur, zoals elk alinea met een opsomming, kan wijzen op een sjabloon. Maar mensen doen dat ook. Gebruik signalen als aanleiding voor een gesprek, niet als bewijs.\n\nKijk naar het proces. Heeft iemand tussenversies, aantekeningen of een bronnenlijst? Een tekst die plotseling verschijnt zonder voorwerk is verdacht. Vraag naar de aanpak. Wie het zelf schreef, kan vertellen waarom bepaalde keuzes zijn gemaakt."
+  },
+  {
+   "heading": "Detectietools: wat ze wel en niet kunnen",
+   "body": "Er zijn online tools die een percentage geven. Ze vergelijken een tekst met patronen van AI en mens. De uitslag is een schatting. Geen enkele tool kan met zekerheid zeggen: dit is door ChatGPT geschreven. Fabrikanten claimen hoge nauwkeurigheid, maar onafhankelijke tests laten wisselende resultaten zien.\n\nGebruik een detector daarom als hulpmiddel. Laat de uitkomst nooit automatisch leiden tot een sanctie. Zeker in het onderwijs en op de werkvloer gelden zorgvuldigheidseisen. Een beschuldiging zonder gesprek is niet houdbaar. Leg uit hoe je tot je oordeel komt en geef de ander de kans te reageren."
+  },
+  {
+   "heading": "Concrete stappen voor docenten en werkgevers",
+   "body": "Stap 1: kijk naar het proces. Vraag om een plan, tussenversies of een korte toelichting. Stap 2: stel vragen over de inhoud. Laat iemand een keuze uitleggen of een bron noemen. Stap 3: gebruik een detector alleen als extra signaal, niet als bewijs. Stap 4: voer een gesprek. Vraag hoe de tekst tot stand kwam en welke hulp is gebruikt.\n\nStap 5: maak afspraken vooraf. Mag AI helpen bij brainstorming, of helemaal niet? Zet dat in de opdracht of het beleid. Duidelijke regels voorkomen discussie achteraf. Stap 6: beoordeel het leerproces of de vaardigheid, niet alleen het eindproduct. Een presentatie of mondelinge toelichting laat zien wat iemand zelf kan.\n\nEen voorbeeldprompt die je kunt gebruiken in een gesprek of als opdracht:\n\"Leg in eigen woorden uit welke drie keuzes je in deze tekst hebt gemaakt en waarom. Noem bij elke keuze een alternatief dat je hebt overwogen.\"\n\nDeze vraag maakt zichtbaar of iemand de tekst echt doorgrondt. AI kan zo'n antwoord ook verzinnen, maar in een mondeling gesprek valt dat door de mand."
+  },
+  {
+   "heading": "AI tekst herkennen: zo pak je het aan",
+   "body": "AI tekst herkennen is geen kwestie van één knop. Het is een combinatie van kijken, vragen en afspraken. Als je vermoedt dat een tekst door ChatGPT is geschreven, begin dan met een open gesprek. Vraag naar het proces en de keuzes. Een detector kan daarna een signaal geven, maar blijft feilbaar.\n\nVoor werkgevers geldt hetzelfde. Een sollicitatiebrief die perfect is, zegt weinig over de persoon. Een kort gesprek of een kleine testopdracht zegt meer. Leg in je beleid vast wat je verwacht rond AI-gebruik. Dan weet iedereen waar die aan toe is."
+  }
+ ],
+ "nl_angle": "In Nederland worstelen scholen en bedrijven met dezelfde vraag. De Autoriteit Persoonsgegevens waarschuwt voor het zomaar doorsturen van persoonsgegevens naar AI-diensten. Gebruik je een detector, check dan of dat mag volgens de privacyregels. Voor docenten: de Onderwijsinspectie kijkt naar helder beleid, niet naar detectoruitslagen. Maak dus afspraken en documenteer ze.",
+ "faq": [
+  {
+   "q": "Is er een betrouwbare tool om ai tekst herkennen mee te doen?",
+   "a": "Er zijn meerdere tools, maar geen enkele is 100 procent betrouwbaar. Ze geven een schatting en kunnen menselijke teksten onterecht als AI aanmerken. Gebruik ze als hulpmiddel, niet als bewijs."
+  },
+  {
+   "q": "Kan ChatGPT zelf zien of een tekst door AI is geschreven?",
+   "a": "Nee. ChatGPT kan geen betrouwbaar onderscheid maken tussen AI- en menselijke teksten. Vraag het dus niet als beoordelaar."
+  },
+  {
+   "q": "Wat mag ik als docent doen als ik vermoed dat een student AI heeft gebruikt?",
+   "a": "Voer eerst een gesprek en vraag naar het proces. Vraag om tussenversies of een toelichting. Een detectoruitslag alleen is onvoldoende grond voor een sanctie."
+  },
+  {
+   "q": "Verandert de detectie nu AI-modellen zich blijven ontwikkelen?",
+   "a": "Ja, detectie wordt lastiger naarmate modellen beter schrijven. Ook worden teksten vaker bewerkt. Blijf daarom inzetten op proces en gesprek."
+  }
+ ],
+ "slug": "ai-teksten-herkennen-kun-je-zien-of-iets-door-chatgpt-is-geschreven",
+ "kind": "evergreen",
+ "date": "2026-11-13",
+ "published": "2026-11-13T12:11",
+ "sources": [],
+ "path": "/uitleg/ai-teksten-herkennen-kun-je-zien-of-iets-door-chatgpt-is-geschreven/",
+ "og": "/img/og/ai-teksten-herkennen-kun-je-zien-of-iets-door-chatgpt-is-geschreven.png",
+ "seed": "AI-teksten herkennen: kun je zien of iets door ChatGPT is geschreven?"
+}

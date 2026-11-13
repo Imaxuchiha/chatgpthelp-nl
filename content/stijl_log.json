@@ -1,18 +1,5 @@
 [
  {
-  "at": "2026-10-04T21:32:21",
-  "slug": "",
-  "title": "Gemini abonnement: gratis gebruikers raken Pro-model kwijt",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
   "at": "2026-10-04T21:32:26",
   "slug": "",
   "title": "GPT-6 Astra speelt StarCraft en kiest voor valsspelen",
@@ -6346,6 +6333,71 @@
    "S8"
   ],
   "andere_fouten": 2,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-13T12:12:07",
+  "slug": "",
+  "title": "Deepfake crypto oplichting: Noord-Korea steelt ruim 350 miljoen euro",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-13T12:12:16",
+  "slug": "",
+  "title": "OpenAI-productagent helpt Amplitude in 1 tot 2 dagen leveren",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-13T12:12:23",
+  "slug": "",
+  "title": "Microsoft-storing legt Outlook en Teams deels plat",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-13T12:12:55",
+  "slug": "",
+  "title": "AI teksten herkennen: kun je zien of iets door ChatGPT is geschreven?",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S11",
+   "S4"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-13T12:13:18",
+  "slug": "",
+  "title": "Smart Bidding heeft 15 conversies per maand nodig",
+  "kind": "column",
+  "rood": [
+   "S11",
+   "S8"
+  ],
+  "andere_fouten": 1,
   "stand": "meten"
  }
 ]

@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: eindafrekening van je aannemer nalopen",
+ "situation": "Je hebt verbouwd of laten klussen en de eindafrekening valt hoger uit dan verwacht. Hiermee loop je de posten stap voor stap na voordat je betaalt.",
+ "prompt": "Je bent een bouwkundige die vaker eindafrekeningen van aannemers controleert. Ik heb een verbouwing laten uitvoeren en twijfel over de eindafrekening. Hieronder staan de afgesproken werkzaamheden en de gefactureerde posten. [PLAK HIER DE AFSPRAKEN UIT DE OPDRACHTBEVESTIGING] en [PLAK HIER DE POSTEN VAN DE EINDAFREKENING]. Loop per post na of die terug te vinden is in de afspraken. Wijs posten aan die dubbel lijken, hoger zijn dan afgesproken of niet in de opdracht staan. Geef per twijfelpunt een korte vraag die ik de aannemer kan stellen, in gewone taal. Maak daarna een overzichtelijke reactie aan de aannemer waarin ik om uitleg vraag, zonder ruzie te maken. Noem geen bedragen die niet in mijn tekst staan. Als iets onduidelijk is, schrijf je 'nog niet bekend' in plaats van te gokken.",
+ "tip": "Plak ook de offerte erbij, dan kan ChatGPT afspraak en factuur naast elkaar leggen.",
+ "tags": [
+  "verbouwing",
+  "factuur",
+  "aannemer",
+  "klus"
+ ],
+ "date": "2026-11-13",
+ "slug": "prompt-eindafrekening-van-je-aannemer-nalopen",
+ "path": "/prompts/2026-11-13-prompt-eindafrekening-van-je-aannemer-nalopen/"
+}
