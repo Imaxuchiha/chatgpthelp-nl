@@ -1,0 +1,68 @@
+{
+ "keyword": "chatgpt wallet",
+ "seo_title": "ChatGPT Wallet: OpenAI geeft je AI-agent een portemonnee",
+ "title": "ChatGPT Wallet: OpenAI geeft je AI-agent een portemonnee",
+ "meta": "OpenAI test een ChatGPT Wallet voor AI-agenten in de VS. Wat het is, waarom het nu alleen Amerikanen raakt en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "openai",
+  "ai-agenten",
+  "betalen",
+  "dots"
+ ],
+ "intro": "OpenAI heeft een portemonnee voor zijn AI-agenten aangekondigd. Amerikanen kunnen hun Dot geld meegeven, zodat die zelf betalingen kan doen. In Nederland is dat nog niet mogelijk. Het plan zegt veel over waar OpenAI met zijn chatbots naartoe wil.",
+ "takeaways": [
+  "OpenAI noemt het product ChatGPT Wallet, bedoeld voor de AI-agent Dots.",
+  "Alleen Amerikanen kunnen hun Dot nu een portemonnee geven.",
+  "Een agent met geld kan activiteiten voor je uitvoeren die betaling vragen.",
+  "Voor Nederland en de EU is nog geen lanceerdatum bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Een portemonnee voor je chatbot",
+   "body": "OpenAI zet naar eigen zeggen sterk in op OpenAI Dots. Dat zijn AI-chatbots die er bewust vriendelijk uitzien. Het idee erachter: zo'n Dot moet allerlei klusjes voor je kunnen doen.\n\nSommige van die klusjes kosten geld. Denk aan iets kopen of een dienst afnemen. Daarvoor heeft de Dot een eigen betaalmiddel nodig. Volgens OpenAI krijgen Amerikaanse gebruikers die mogelijkheid nu: ze kunnen hun Dot een portemonnee geven.\n\nDe naam ChatGPT Wallet ligt dicht bij het merk ChatGPT. Toch is het geld niet bedoeld voor je eigen aankopen in de chat. De portemonnee hoort bij de agent, die namens jou betaalt."
+  },
+  {
+   "heading": "Waarom OpenAI dit wil",
+   "body": "Een AI-agent die alleen kan praten, blijft beperkt. Zodra zo'n agent geld kan uitgeven, kan hij ook echt taken afronden. OpenAI lijkt Dots daarom stap voor stap meer zelfstandigheid te geven.\n\nDat roept wel vragen op. Wie ziet wat je Dot koopt? Kun je een betaling terugdraaien? En hoeveel mag de agent zelf beslissen? De bronnen geven daar geen antwoord op. Die details zijn nog niet bekend.\n\nDuidelijk is wel dat OpenAI het betalen onderdeel maakt van het product zelf. De wallet is geen losse app, maar een functie binnen het Dot-systeem."
+  },
+  {
+   "heading": "Eerst alleen in de Verenigde Staten",
+   "body": "De uitrol begint in de Verenigde Staten. Europese gebruikers hebben voorlopig niets aan de functie. OpenAI heeft geen datum genoemd waarop Nederland aan de beurt is.\n\nDat past bij hoe OpenAI vaker werkt. Nieuwe functies komen eerst in de VS, daarna in andere landen. Soms zit daar maanden tussen, soms langer.\n\nVoor Nederlanders met een ChatGPT-abonnement verandert er nu dus niets. Je kunt je Dot geen budget meegeven en er ook geen aankopen mee laten doen."
+  },
+  {
+   "heading": "Wat een agent met geld lastig maakt",
+   "body": "Betalen door software is niet nieuw. Webshops en abonnementen werken al jaren met opgeslagen betaalgegevens. Het verschil zit in de zelfstandigheid: een agent bepaalt zelf wanneer hij betaalt.\n\nDaar hangt veel vanaf. Een verkeerde aankoop is snel gedaan. Ook fraude met zo'n wallet wordt een nieuw aandachtspunt voor OpenAI.\n\nDe bronnen zeggen niets over limieten, terugbetalingen of toezicht. Wie precies verantwoordelijk is als een Dot te veel uitgeeft, blijft voorlopig onduidelijk."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders is de ChatGPT Wallet nu niet beschikbaar. OpenAI noemt geen datum voor Nederland of de rest van de EU. Zodra betalen via een AI-agent hier komt, krijgt Europese regelgeving een rol. Denk aan regels voor elektronisch geld en de verplichtingen uit de AI-verordening. Bedrijven die nu al met AI-agenten experimenteren, doen er goed aan om interne afspraken te maken over wie mag betalen en tot welk bedrag. De Amerikaanse start zegt nog weinig over de Europese planning.",
+ "faq": [
+  {
+   "q": "Wat is de ChatGPT Wallet?",
+   "a": "Een portemonnee die je aan je OpenAI Dot kunt geven, zodat de AI-agent zelf betalingen kan doen. OpenAI test dit eerst in de Verenigde Staten."
+  },
+  {
+   "q": "Kan ik in Nederland een ChatGPT Wallet gebruiken?",
+   "a": "Nee. De functie is voorlopig alleen voor Amerikanen. OpenAI heeft geen datum genoemd waarop Nederland of de EU volgt."
+  },
+  {
+   "q": "Wat is een Dot van OpenAI?",
+   "a": "Een AI-chatbot van OpenAI met een vriendelijk uiterlijk. Zo'n Dot moet klusjes voor je uitvoeren, en kan met een wallet ook betalingen doen."
+  }
+ ],
+ "slug": "chatgpt-wallet-openai-geeft-je-ai-agent-een-portemonnee",
+ "kind": "news",
+ "date": "2026-11-14",
+ "published": "2026-11-14T21:38",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "OpenAI geeft mensen een ChatGPT Wallet, maar die is voor hun AI-agent",
+   "url": "https://www.bright.nl/nieuws/2158910/openai-geeft-mensen-een-chatgpt-wallet-maar-die-is-voor-hun-ai-agent.html"
+  }
+ ],
+ "path": "/nieuws/chatgpt-wallet-openai-geeft-je-ai-agent-een-portemonnee/",
+ "og": "/img/og/chatgpt-wallet-openai-geeft-je-ai-agent-een-portemonnee.png",
+ "take": "OpenAI kondigt een portemonnee aan en meteen gaat het over wat Dot allemaal zelf kan betalen. Ik zie nog geen enkele Nederlander die dit gebruikt, dus dit is voor mij een demo met een mooie plaatje erbij. Ik geloof best dat een agent ooit zelf dingen afrekent, maar dan wil ik eerst iemand zien die het op een echt account doet en er geld mee verdient."
+}

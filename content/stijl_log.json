@@ -1,83 +1,5 @@
 [
  {
-  "at": "2026-10-07T12:23:32",
-  "slug": "",
-  "title": "Apple TV 4K krijgt betere integratie met Siri AI en HomePod",
-  "kind": "news",
-  "rood": [
-   "S11",
-   "S8"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-07T12:23:39",
-  "slug": "",
-  "title": "Claude werkt nu in Google Docs, Sheets en Slides",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-07T12:23:47",
-  "slug": "",
-  "title": "ChatGPT for Teens krijgt harde kritiek van Common Sense Media",
-  "kind": "news",
-  "rood": [
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-07T12:23:54",
-  "slug": "",
-  "title": "ChatGPT in quant research: hoe Jump Trading AI-workflows schaalt",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-07T12:24:02",
-  "slug": "",
-  "title": "OpenAI deelt ai-resultaten voor open wiskundeproblemen",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-07T12:24:27",
-  "slug": "",
-  "title": "De EU AI Act in gewone taal: wat verandert er voor jou",
-  "kind": "evergreen",
-  "rood": [
-   "S10",
-   "S11",
-   "S5",
-   "S6"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-07T19:57:19",
   "slug": "",
   "title": "ChatGPT voor tieners krijgt collegeplanner en flashcards",
@@ -6387,6 +6309,82 @@
    "S9"
   ],
   "andere_fouten": 2,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T21:38:34",
+  "slug": "",
+  "title": "ChatGPT Wallet: OpenAI geeft je AI-agent een portemonnee",
+  "kind": "news",
+  "rood": [
+   "S5"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T21:38:44",
+  "slug": "",
+  "title": "Chatbot vindt winkel: zo zorgen winkels dat ChatGPT ze noemt",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T21:38:52",
+  "slug": "",
+  "title": "AI-projecten mislukt: TechCrunch houdt een lijst bij van gestopte plannen",
+  "kind": "news",
+  "rood": [
+   "S4"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T21:38:59",
+  "slug": "",
+  "title": "Gemini 4 Hydrogen: Google's nieuwste model voor lastige vragen",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T21:39:09",
+  "slug": "",
+  "title": "Nectar zet AI-agent in voor influencer marketing",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T21:39:31",
+  "slug": "",
+  "title": "SEO domeinautoriteit: 100/100 on-page, maar 44 kliks",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S9"
+  ],
+  "andere_fouten": 1,
   "stand": "meten"
  }
 ]

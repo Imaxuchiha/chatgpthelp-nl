@@ -3087,6 +3087,26 @@
   "c371d06a52": {
    "at": "2026-11-14T18:18:39.568001",
    "why": "ok"
+  },
+  "1960596748": {
+   "at": "2026-11-14T21:38:20.863559",
+   "why": "ok"
+  },
+  "460a77e00d": {
+   "at": "2026-11-14T21:39:20.863559",
+   "why": "poort"
+  },
+  "b08cefd999": {
+   "at": "2026-11-14T21:39:20.863559",
+   "why": "poort"
+  },
+  "3403360ccc": {
+   "at": "2026-11-14T21:39:20.863559",
+   "why": "ok"
+  },
+  "d3c21aad12": {
+   "at": "2026-11-14T21:40:20.863559",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3627,6 +3647,9 @@
   "Jensen Huang weg bij Nvidia: wat dat doet met AI-financiering",
   "AI maakt datalekken sneller: zwakheden vind je in een halve minuut",
   "Vertrek Jensen Huang zorgt voor onrust bij AI-start-ups",
-  "OpenAI-bestuurslid: AI-takeover kan maanden weg zijn"
+  "OpenAI-bestuurslid: AI-takeover kan maanden weg zijn",
+  "ChatGPT Wallet: OpenAI geeft je AI-agent een portemonnee",
+  "Gemini 4 Hydrogen: Google's nieuwste model voor lastige vragen",
+  "Nectar zet AI-agent in voor influencer marketing"
  ]
 }

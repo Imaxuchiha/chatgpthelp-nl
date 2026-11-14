@@ -1,0 +1,68 @@
+{
+ "keyword": "gemini 4 hydrogen",
+ "seo_title": "Gemini 4 Hydrogen: Google's nieuwste model uitgelegd",
+ "title": "Gemini 4 Hydrogen: Google's nieuwste model voor lastige vragen",
+ "meta": "Google lanceert Gemini 4 Hydrogen. Het model splitst ingewikkelde vragen op en beantwoordt elk deel. Dit merk je ervan in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "gemini",
+  "google",
+  "ai-modellen",
+  "zoeken",
+  "ai-tools"
+ ],
+ "intro": "Google heeft een nieuw model uitgebracht: Gemini 4 Hydrogen. Het moet beter omgaan met vragen die uit meerdere delen bestaan, met typefouten of met heel specifieke wensen. Het model is vanaf nu beschikbaar in Zoeken en in de Gemini-app, meldt The Verge.",
+ "takeaways": [
+  "Gemini 4 Hydrogen splitst een vraag op en beantwoordt elk onderdeel apart.",
+  "Het model gaat om met moeilijk leesbare typefouten en zeer specifieke verzoeken.",
+  "Het is direct beschikbaar in Zoeken, de Gemini-app en alle Google-abonnementen.",
+  "Google noemt zelf geen Nederlandse prijzen of releasedata voor nieuwe functies."
+ ],
+ "sections": [
+  {
+   "heading": "Wat het model anders doet",
+   "body": "Veel chatbots geven één antwoord op een vraag met drie losse delen. Vaak blijft dan een deel liggen. Gemini 4 Hydrogen pakt dat anders aan, zegt Google. Het model haalt de vraag uit elkaar en loopt de onderdelen één voor één langs.\n\nOok rommelige invoer moet minder snel misgaan. Google noemt typefouten die lastig te lezen zijn en verzoeken die heel specifiek zijn. Het model vult die beter in dan zijn voorganger, is de belofte."
+  },
+  {
+   "heading": "Waar je het tegenkomt",
+   "body": "Het model zit vanaf de lancering in Google Zoeken. Ook de Gemini-app krijgt het, net als alle abonnementen van Google, volgens The Verge. Welke functies per abonnement precies meegaan, maakt het bericht niet duidelijk.\n\nGoogle geeft geen aparte releasedatum voor Nederland. De uitrol loopt via de bestaande kanalen van het bedrijf. Zodra een functie in jouw account verschijnt, merk je het vanzelf in de app of in de zoekresultaten."
+  },
+  {
+   "heading": "Wat het betekent voor je zoekgedrag",
+   "body": "Een vraag met meerdere delen stel je nu vaker in één keer. Denk aan een vraag over een reis, waarbij je vertrekpunt, budget en reisduur tegelijk noemt. Het model hoort dan per punt antwoord te geven.\n\nDat verandert weinig aan de basis. Je krijgt nog steeds een samenvatting bovenaan Zoeken, met links eronder. Het verschil zit in de volledigheid van die samenvatting. Of het in de praktijk echt beter gaat, moet blijken uit gebruik."
+  },
+  {
+   "heading": "Wat Google niet zegt",
+   "body": "Over snelheid, kosten en foutmarges zegt Google niets in het bericht. Ook is niet bekend of het model in het Nederlands dezelfde sprong maakt als in het Engels. Google test modellen vaak eerst in het Engels en breidt daarna uit.\n\nPrijzen voor Nederlandse gebruikers blijven onvermeld. De abonnementen van Google hebben vaste tarieven, maar of die veranderen door dit model, is niet gemeld."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers verandert er vooral iets in de gratis versie van Zoeken en in de Gemini-app. Je hoeft niets te installeren. Wie met een zakelijk Google-account werkt, kan het model tegenkomen in de zoeksamenvattingen zonder dat de beheerder iets heeft aangezet. Let dus op wat er in je account verschijnt. Of de Nederlandse antwoorden even goed zijn als de Engelse, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is Gemini 4 Hydrogen?",
+   "a": "Het is een nieuw model van Google. Het splitst ingewikkelde vragen op en beantwoordt elk deel apart."
+  },
+  {
+   "q": "Is Gemini 4 Hydrogen gratis te gebruiken?",
+   "a": "Het model komt in Zoeken en in de Gemini-app, meldt The Verge. Google noemt geen aparte prijzen voor Nederland."
+  },
+  {
+   "q": "Werkt het model goed in het Nederlands?",
+   "a": "Dat is nog niet bekend. Google geeft in het bericht geen uitsluitsel over de kwaliteit per taal."
+  }
+ ],
+ "slug": "gemini-4-hydrogen-google-s-nieuwste-model-voor-lastige-vragen",
+ "kind": "news",
+ "date": "2026-11-14",
+ "published": "2026-11-14T21:39",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Google’s new Gemini model is better at understanding complicated questions",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+  }
+ ],
+ "path": "/nieuws/gemini-4-hydrogen-google-s-nieuwste-model-voor-lastige-vragen/",
+ "og": "/img/og/gemini-4-hydrogen-google-s-nieuwste-model-voor-lastige-vragen.png",
+ "take": "Een model dat lastige vragen in stukjes knipt, lost bij mij alleen iets op als de invoer klopt. In advertentieaccounts zie ik vaak genoeg dat het probleem bij de meting zit en niet bij de vraag zelf. Ik kijk eerst of de cijfers kloppen voordat ik zo'n model serieus neem."
+}
