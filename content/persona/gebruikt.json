@@ -31,7 +31,8 @@
   "smart-bidding-minimum",
   "pinning-ad-strength",
   "branded-lek",
-  "display-concurrenten"
+  "display-concurrenten",
+  "ab-test-onhaalbaar"
  ],
  "tools": [
   "Claude Code (Anthropic)"

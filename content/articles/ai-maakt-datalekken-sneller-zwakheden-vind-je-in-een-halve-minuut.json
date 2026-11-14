@@ -1,0 +1,68 @@
+{
+ "keyword": "ai datalekken",
+ "seo_title": "AI datalekken: zo vindt een hacker zwakheden",
+ "title": "AI maakt datalekken sneller: zwakheden vind je in een halve minuut",
+ "meta": "Steeds meer Nederlandse bedrijven krijgen met datalekken te maken. AI maakt het vinden van zwakke plekken veel sneller, zeggen lezers tegen NU.nl.",
+ "category": "nieuws",
+ "tags": [
+  "datalekken",
+  "ai",
+  "hacks",
+  "privacy",
+  "cybersecurity"
+ ],
+ "intro": "Van sportclubs tot cadeauwinkels: steeds meer bedrijven raken betrokken bij hacks waarbij persoonsgegevens op straat belanden. Lezers van NU.nl vrezen dat AI die golf van aanvallen versterkt. Een van hen zegt dat je met AI binnen een halve minuut zwakheden vindt.",
+ "takeaways": [
+  "Steeds meer Nederlandse organisaties, van sportclubs tot cadeauwinkels, krijgen te maken met datalekken.",
+  "Lezers van NU.nl denken dat AI het zoeken naar zwakke plekken flink versnelt.",
+  "Volgens een lezer vind je met AI binnen een halve minuut zwakheden in een systeem.",
+  "Hoe groot het aandeel van AI bij deze lekken precies is, blijkt niet uit de berichtgeving."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er aan de hand is",
+   "body": "Het aantal meldingen van datalekken in Nederland groeit. Bij die lekken komen persoonsgegevens van klanten, leden of personeel in verkeerde handen. De getroffen organisaties lopen uiteen: sportclubs, cadeauwinkels en andere bedrijven.\n\nNU.nl sprak met lezers over die ontwikkeling. Verschillende van hen leggen een verband met AI. Zij verwachten dat slimme software het aanvallers makkelijker maakt."
+  },
+  {
+   "heading": "Een halve minuut voor een zwakke plek",
+   "body": "Een van de lezers vat het gevoel bondig samen. Waar een mens vroeger lang moest zoeken, wijst AI volgens hem snel de zwakke plekken aan. Zijn woorden: binnen een halve minuut ontdek je zwakheden.\n\nDat beeld past bij wat AI-tools kunnen. Ze scannen websites en systemen op bekende fouten en zwakke instellingen. Een aanvaller hoeft daarvoor zelf geen expert te zijn."
+  },
+  {
+   "heading": "Wat AI wel en niet doet",
+   "body": "AI voert de aanval niet zelf uit. De software helpt vooral bij het vinden van ingangen en het automatiseren van saaie stappen. Het echte werk, zoals het misbruiken van een gevonden fout, blijft mensenwerk.\n\nHoe groot het aandeel van AI bij de gemelde lekken is, wordt niet duidelijk uit de berichtgeving. Cijfers daarover ontbreken. Ook is niet bekend hoeveel van de getroffen bedrijven in Nederland staan."
+  },
+  {
+   "heading": "Wat je zelf kunt doen",
+   "body": "Voor bedrijven blijft de basis hetzelfde. Werk software snel bij, gebruik sterke wachtwoorden en zet tweestapsverificatie aan waar dat kan. Beperk daarnaast welke gegevens je bewaart: wat er niet is, kan ook niet lekken.\n\nControleer ook wie toegang heeft tot systemen met persoonsgegevens. Oude accounts van vertrokken medewerkers zijn een bekende zwakke plek. Een simpele opruimactie scheelt vaak al veel risico."
+  }
+ ],
+ "nl_angle": "In Nederland moeten organisaties een datalek melden bij de Autoriteit Persoonsgegevens. Dat geldt ook voor een sportclub of kleine winkel. Blijkt dat je onvoldoende beveiliging had, dan kan de toezichthouder ingrijpen en een boete opleggen. Voor klanten en leden is het zaak om bij zo'n melding alert te zijn op phishing en hergebruik van wachtwoorden.",
+ "faq": [
+  {
+   "q": "Maakt AI datalekken erger?",
+   "a": "Lezers van NU.nl denken van wel, omdat AI snel zwakke plekken vindt. Harde cijfers over het aandeel van AI bij gemelde lekken ontbreken in de berichtgeving."
+  },
+  {
+   "q": "Moet ik een datalek melden in Nederland?",
+   "a": "Ja. Organisaties met persoonsgegevens moeten een lek melden bij de Autoriteit Persoonsgegevens. Dat geldt ook voor kleine bedrijven en verenigingen."
+  },
+  {
+   "q": "Hoe snel vindt AI een zwakke plek?",
+   "a": "Volgens een lezer van NU.nl binnen een halve minuut. Dat is een ervaring uit de praktijk, geen gemeten landelijk cijfer."
+  }
+ ],
+ "slug": "ai-maakt-datalekken-sneller-zwakheden-vind-je-in-een-halve-minuut",
+ "kind": "news",
+ "date": "2026-11-14",
+ "published": "2026-11-14T18:16",
+ "sources": [
+  {
+   "name": "NU.nl Tech",
+   "title": "AI is boosdoener bij datalekken: 'Binnen een halve minuut ontdek je zwakheden'",
+   "url": "https://www.nu.nl/tech/6416361/ai-is-boosdoener-bij-datalekken-binnen-een-halve-minuut-ontdek-je-zwakheden.html"
+  }
+ ],
+ "path": "/nieuws/ai-maakt-datalekken-sneller-zwakheden-vind-je-in-een-halve-minuut/",
+ "og": "/img/og/ai-maakt-datalekken-sneller-zwakheden-vind-je-in-een-halve-minuut.png",
+ "take": "Een halve minuut om een zwakke plek te vinden klinkt indrukwekkend, tot je beseft dat je diezelfde minuut ook had kunnen besteden aan het dichtzetten ervan. Ik meet liever wat een fout me kost dan dat ik trots vertel hoe snel ik hem vind. Wie zijn eigen sloten niet nakijkt, verliest het van elke scanner die gratis rondgaat."
+}

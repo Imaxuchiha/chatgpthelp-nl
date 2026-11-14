@@ -1,100 +1,5 @@
 [
  {
-  "at": "2026-10-06T19:23:22",
-  "slug": "",
-  "title": "ChatGPT krijgt onzichtbaar watermerk voor gebruikers in de EU",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-06T19:23:30",
-  "slug": "",
-  "title": "Atlassian en OpenAI koppelen AI aan bedrijfskennis",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S8"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-06T19:23:38",
-  "slug": "",
-  "title": "AI hackers banken: Zuid-Korea waarschuwt voor aanvallen met AI",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S11",
-   "S6",
-   "S9"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-06T19:23:46",
-  "slug": "",
-  "title": "Claude Team gratis: Anthropic geeft startups een jaar cadeau",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-06T22:55:20",
-  "slug": "",
-  "title": "OpenAI en Ironclad testen AI-agents op contractwerk",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S4",
-   "S5",
-   "S6"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-06T22:55:28",
-  "slug": "",
-  "title": "AI contentmoderatie krijgt licht model PolicyLM-1.7B",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-06T22:55:36",
-  "slug": "",
-  "title": "AI-agent websites weren bots, nieuwe standaard moet helpen",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-07T12:23:32",
   "slug": "",
   "title": "Apple TV 4K krijgt betere integratie met Siri AI en HomePod",
@@ -6390,6 +6295,98 @@
    "S5"
   ],
   "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T18:16:53",
+  "slug": "",
+  "title": "AI maakt datalekken sneller: zwakheden vind je in een halve minuut",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T18:17:00",
+  "slug": "",
+  "title": "Eerste muziekprijzen voor AI-artiesten uitgereikt in Los Angeles",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 2,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T18:17:11",
+  "slug": "",
+  "title": "Vertrek Jensen Huang zorgt voor onrust bij AI-start-ups",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T18:17:21",
+  "slug": "",
+  "title": "OpenAI-bestuurslid dat Altman ontsloeg: ceo's blijven onbetrouwbaar",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T18:17:29",
+  "slug": "",
+  "title": "FAA zet AI-tool voor luchtverkeersdrukte in over heel de VS",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T18:17:40",
+  "slug": "",
+  "title": "OpenAI-bestuurslid: AI-takeover kan maanden weg zijn",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T18:18:12",
+  "slug": "",
+  "title": "Ab-testen bij kleine shops is vaak theater",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 2,
   "stand": "meten"
  }
 ]
