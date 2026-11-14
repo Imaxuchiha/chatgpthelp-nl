@@ -1,97 +1,5 @@
 [
  {
-  "at": "2026-10-06T00:33:55",
-  "slug": "",
-  "title": "AI schrijft acnerecept na scan: ik zou eerst de data checken",
-  "kind": "column",
-  "rood": [
-   "S10",
-   "S4",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-06T12:29:29",
-  "slug": "",
-  "title": "Utah keurt eerste AI-dokter goed voor acne-recepten",
-  "kind": "news",
-  "rood": [
-   "S10"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-06T12:29:36",
-  "slug": "",
-  "title": "OpenAI voegt onzichtbaar watermerk toe aan ChatGPT-teksten in de EU",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-06T12:29:41",
-  "slug": "",
-  "title": "OpenAI's AI-agenten zorgden voor Wikipedia-storing in mei",
-  "kind": "news",
-  "rood": [
-   "S10"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-06T12:29:50",
-  "slug": "",
-  "title": "Gemini Call for Me breidt mogelijk uit naar familie en vrienden",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S5",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-06T12:29:57",
-  "slug": "",
-  "title": "Reflection lanceert Beam: open-weight AI-model voor bedrijven",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S4",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-06T12:30:05",
-  "slug": "",
-  "title": "AI wiskunde doorbraak: wat OpenAI en Anthropic claimen",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S4",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-06T19:23:22",
   "slug": "",
   "title": "ChatGPT krijgt onzichtbaar watermerk voor gebruikers in de EU",
@@ -6396,6 +6304,92 @@
    "S5"
   ],
   "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T11:38:31",
+  "slug": "",
+  "title": "AI-boeken op Amazon: wat je koopt en waar je op let",
+  "kind": "news",
+  "rood": [
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T11:38:40",
+  "slug": "",
+  "title": "OpenAI ai-agenten it: Shield laat technici portaalwerk overdragen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T11:38:48",
+  "slug": "",
+  "title": "Jensen Huang weg bij Nvidia: wat dat doet met AI-financiering",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T11:39:22",
+  "slug": "",
+  "title": "Claude Code review: dit is de beste AI-tool voor echt werk",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S5",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T11:39:43",
+  "slug": "",
+  "title": "Display campagne op concurrenten: geld weggooien",
+  "kind": "column",
+  "rood": [
+   "S5"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T11:39:52",
+  "slug": "",
+  "title": "Display campagne op concurrenten: geld weggooien",
+  "kind": "column",
+  "rood": [
+   "S5"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-14T11:40:03",
+  "slug": "",
+  "title": "Display campagne op concurrenten: geld weggooien",
+  "kind": "column",
+  "rood": [
+   "S5"
+  ],
+  "andere_fouten": 0,
   "stand": "meten"
  }
 ]

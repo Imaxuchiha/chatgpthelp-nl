@@ -3051,6 +3051,18 @@
   "90d7922370": {
    "at": "2026-11-13T22:57:23.129407",
    "why": "ok"
+  },
+  "fc57e9f3e8": {
+   "at": "2026-11-14T11:38:16.897595",
+   "why": "ok"
+  },
+  "d1318183fe": {
+   "at": "2026-11-14T11:39:16.897595",
+   "why": "ok"
+  },
+  "ad639fbc65": {
+   "at": "2026-11-14T11:40:16.897595",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3585,6 +3597,9 @@
   "Claude Duet is Anthropic's agent voor niet-programmeurs",
   "LangChain haalt $3 miljard waarde met agentplatform",
   "OpenAI-bestuurder waarschuwt voor AI-overname van de samenleving",
-  "Gondola verdubbelt omzet met Codex van OpenAI"
+  "Gondola verdubbelt omzet met Codex van OpenAI",
+  "AI-boeken op Amazon: wat je koopt en waar je op let",
+  "OpenAI ai-agenten it: Shield laat technici portaalwerk overdragen",
+  "Jensen Huang weg bij Nvidia: wat dat doet met AI-financiering"
  ]
 }

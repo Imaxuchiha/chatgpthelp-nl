@@ -1,0 +1,68 @@
+{
+ "keyword": "openai ai-agenten it",
+ "seo_title": "OpenAI ai-agenten it: Shield laat technici werk overdragen",
+ "title": "OpenAI ai-agenten it: Shield laat technici portaalwerk overdragen",
+ "meta": "Shield gebruikt OpenAI-agenten om IT-technici werk in oude portalen te laten overdragen. Zo werkt dat en wat betekent het voor Nederlandse IT-teams?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-agenten",
+  "it-beheer",
+  "shield",
+  "automatisering"
+ ],
+ "intro": "Shield zet AI-agenten in om IT-technici werk uit handen te nemen in verouderde portalen. Volgens OpenAI navigeren die agenten zelf door systemen, zodat technici tijd overhouden voor problemen die hun oordeel vragen. Voor IT-teams in Nederland is dat herkenbaar: veel beheerwerk zit nog vast in oude systemen.",
+ "takeaways": [
+  "Shield gebruikt OpenAI om werk in legacy-portalen over te dragen aan AI-agenten",
+  "De agenten, Forge genaamd, bewegen zich zelfstandig door bestaande systemen",
+  "Technici houden zich bezig met kwesties die menselijke beoordeling nodig hebben",
+  "OpenAI noemt Shield als voorbeeld van AI in bedrijfsprocessen"
+ ],
+ "sections": [
+  {
+   "heading": "Wat Shield doet met OpenAI",
+   "body": "Shield helpt IT-technici om werk over te dragen aan AI. Dat gebeurt in zogeheten legacy-portalen: oude beheeromgevingen die vaak lastig te koppelen zijn aan moderne software. Volgens OpenAI zorgen de Forge-agenten van Shield ervoor dat technici niet zelf door die systemen hoeven te klikken.\n\nDe agenten navigeren door de portalen en pakken terugkerende taken op. Technici richten zich op vraagstukken waar menselijk inzicht nodig is. OpenAI noemt Shield in een klantverhaal als voorbeeld van hoe AI werk in bedrijfsprocessen kan overnemen."
+  },
+  {
+   "heading": "Waarom oude portalen een knelpunt zijn",
+   "body": "Veel organisaties werken met beheersystemen die jaren geleden zijn ingericht. Die omgevingen hebben vaak geen moderne koppelingen. Werk dat daar binnenkomt, moet handmatig worden afgehandeld.\n\nDat kost tijd die technici liever aan storingen en advies besteden. Een agent die zelfstandig door zo'n portaal beweegt, verandert dat. De technicus hoeft niet elke stap zelf te zetten."
+  },
+  {
+   "heading": "Wat OpenAI wel en niet zegt",
+   "body": "OpenAI geeft geen cijfers over hoeveel tijd Shield bespaart. Ook is niet bekend hoeveel klanten Shield heeft of welke systemen de agenten precies ondersteunen. De beschrijving blijft op hoofdlijnen: agenten nemen portaalwerk over, technici doen de rest.\n\nDetails over prijs, contractvorm of technische werking staan niet in de bron. Wie wil weten of dit in een eigen omgeving werkt, zal dat bij Shield zelf moeten navragen."
+  },
+  {
+   "heading": "AI-agenten in IT-beheer",
+   "body": "De inzet van agenten past bij een bredere beweging in IT-beheer. Steeds vaker proberen bedrijven terugkerende taken te automatiseren zonder bestaande systemen te vervangen. Dat scheelt migraties en houdt oude processen draaiend.\n\nVoor beheerders betekent het een verschuiving in taken. Minder klikwerk in portalen, meer beoordelen en bijsturen. De vraag is hoeveel controle een team wil houden op wat een agent zelfstandig doet."
+  }
+ ],
+ "nl_angle": "Nederlandse IT-teams kampen net als elders met verouderde beheerportalen. Grote organisaties en mkb-bedrijven werken vaak nog met systemen die geen moderne koppelingen hebben. AI-agenten die daar zelfstandig doorheen navigeren, kunnen de werkdruk verlagen. Let wel op Europese regels rond gegevensverwerking en aansprakelijkheid als een agent namens jou wijzigingen doorvoert. Concrete prijzen in euro's en beschikbaarheid in Nederland maakt OpenAI in deze bron niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is Shield van OpenAI?",
+   "a": "Shield is een bedrijf dat AI-agenten inzet om IT-technici werk in oude beheerportalen te laten overdragen. OpenAI noemt het als klantvoorbeeld."
+  },
+  {
+   "q": "Wat doen Forge-agenten precies?",
+   "a": "Volgens OpenAI navigeren ze zelf door legacy-portalen en pakken ze terugkerende taken op. Technici houden tijd over voor werk dat menselijk oordeel vraagt."
+  },
+  {
+   "q": "Is dit al beschikbaar in Nederland?",
+   "a": "Daar zegt de bron niets over. Prijzen, beschikbaarheid en ondersteunde systemen zijn niet bekendgemaakt."
+  }
+ ],
+ "slug": "openai-ai-agenten-it-shield-laat-technici-portaalwerk-overdragen",
+ "kind": "news",
+ "date": "2026-11-14",
+ "published": "2026-11-14T11:39",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "url": "https://openai.com/business/customer-stories/shield"
+  }
+ ],
+ "path": "/nieuws/openai-ai-agenten-it-shield-laat-technici-portaalwerk-overdragen/",
+ "og": "/img/og/openai-ai-agenten-it-shield-laat-technici-portaalwerk-overdragen.png",
+ "take": "Elke agent die zelf door oude portalen klikt, is een script met een duur abonnement eromheen. Ik bouw zulke dingen liever zelf met Claude Code en een goedkope API, dan betaal ik niet voor de zoveelste SaaS-laag. Laat eerst maar zien dat zo'n agent het op een echte omgeving volhoudt, want een demo waarin alles netjes werkt is nog geen product."
+}

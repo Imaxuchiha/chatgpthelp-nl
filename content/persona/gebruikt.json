@@ -30,20 +30,11 @@
   "budget-verhogen-niets",
   "smart-bidding-minimum",
   "pinning-ad-strength",
-  "branded-lek"
+  "branded-lek",
+  "display-concurrenten"
  ],
  "tools": [
-  "Claude Code (Anthropic)",
-  "DeepSeek (API)",
-  "ChatGPT Pro (OpenAI)",
-  "Higgsfield",
-  "ElevenLabs",
-  "Voicebox (open source)",
-  "CapCut Pro",
-  "Remotion",
-  "n8n",
-  "Google Ads (als adverteerder)",
-  "Shopify"
+  "Claude Code (Anthropic)"
  ],
  "columns": [
   "niet-snoeien-op-gevoel-je-beste-producten-verkopen-later",

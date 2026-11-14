@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: schooladvies van de juf naast Citotoets leggen",
+ "situation": "Je kind krijgt binnenkort het schooladvies voor het voortgezet onderwijs. Met deze prompt zet je het advies, de toetsgegevens en je eigen observaties naast elkaar en bereid je het gesprek met school voor.",
+ "prompt": "Je bent een ervaren onderwijskundige die ouders helpt het schooladvies van hun kind te begrijpen en goed voorbereid het gesprek met school in te gaan. Hieronder de gegevens.\n\nContext: mijn kind zit in groep [GROEP] van basisschool [NAAM SCHOOL]. Het voorlopig schooladvies is [ADVIES, bijv. vmbo-t/havo]. De eindtoets is [CITO/LEERLINGVOLGSYSTEEM] met score [SCORE]. De juf noemde als sterke punten [STERKE PUNTEN] en als aandachtspunten [AANDACHTSPUNTEN]. Wat ik thuis zie: [EIGEN OBSERVATIE].\n\nGewenste output: 1) een korte uitleg wat het advies betekent in het Nederlandse schoolsysteem, 2) drie vragen die ik aan de leerkracht kan stellen om het advies te onderbouwen, 3) een lijstje met wat ik zelf nog kan aanleveren als bewijs, 4) een neutrale gespreksopening van twee zinnen. Geen oordeel over de school, houd het feitelijk.",
+ "tip": "Vraag om een tweede versie waarin je het advies twee niveaus hoger laat uitwerken, zodat je ziet welke argumenten daar wél en niet bij passen.",
+ "tags": [
+  "schooladvies",
+  "basisonderwijs",
+  "ouders",
+  "gesprek"
+ ],
+ "date": "2026-11-14",
+ "slug": "prompt-schooladvies-van-de-juf-naast-citotoets-leggen",
+ "path": "/prompts/2026-11-14-prompt-schooladvies-van-de-juf-naast-citotoets-leggen/"
+}
