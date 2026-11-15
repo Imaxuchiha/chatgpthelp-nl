@@ -1,0 +1,68 @@
+{
+ "keyword": "openai robotica",
+ "seo_title": "OpenAI robotica: afdeling stopt, robots blijven plan",
+ "title": "OpenAI heft robotica-afdeling op, maar houdt robots op de agenda",
+ "meta": "OpenAI stopt met zijn aparte robotica-afdeling. Personeel gaat naar andere onderzoeksteams. Wat betekent dat voor robots en voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "robotica",
+  "robots",
+  "ai-onderzoek",
+  "technieuws"
+ ],
+ "intro": "OpenAI heeft zijn zelfstandige robotica-afdeling opgeheven. Er vallen geen ontslagen: de medewerkers gaan op in de bredere onderzoeksteams van het bedrijf. Volgens OpenAI betekent dit niet dat het stopt met robots. Het bedrijf noemt robotica nog altijd een langetermijnplan.",
+ "takeaways": [
+  "De losse robotica-afdeling van OpenAI bestaat niet meer.",
+  "Er vallen geen ontslagen bij de opheffing.",
+  "Het robotica-personeel gaat deel uitmaken van algemenere onderzoeksteams.",
+  "OpenAI ziet robotica nog steeds als plan voor de lange termijn."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies verandert",
+   "body": "De op zichzelf staande afdeling robotica van OpenAI is niet meer. Dat meldt Bright. Het besluit raakt de organisatie, niet de mensen: er vallen geen ontslagen.\n\nDe medewerkers van de afdeling worden onderdeel van de algemenere onderzoeksteams van het bedrijf. Hun werk verdwijnt dus niet, het wordt anders ingedeeld. OpenAI geeft zelf aan dat dit geen afscheid van robots betekent."
+  },
+  {
+   "heading": "Robots blijven op de lange termijn",
+   "body": "Volgens OpenAI blijft robotica een langetermijnplan. Het bedrijf ziet robots dus nog steeds als iets om aan te werken. Alleen de aparte afdeling daarvoor is weg.\n\nWat dat concreet betekent voor producten of tijdlijnen, is nog niet bekend. OpenAI heeft geen details gegeven over welke robots het wil bouwen of wanneer die er zouden moeten zijn. Duidelijk is wel dat het onderzoek niet stil komt te liggen."
+  },
+  {
+   "heading": "Waarom bedrijven hun afdelingen herschikken",
+   "body": "Een losse robotica-afdeling is duur en vraagt veel specialisten. Door mensen bij bredere teams te plaatsen, kan kennis tussen projecten stromen. Dat is een organisatorische keuze, geen aankondiging van een nieuw product.\n\nBij OpenAI lopen meerdere onderzoekslijnen naast elkaar. Het samenvoegen van teams past bij die opzet. Of het bedrijf daarmee sneller vooruitgang boekt met robots, valt niet te zeggen."
+  },
+  {
+   "heading": "Wat we nog niet weten",
+   "body": "OpenAI heeft niet gezegd hoe groot de afdeling was of hoeveel mensen er precies verhuizen. Ook is onbekend of er nog aparte robotica-projecten blijven bestaan onder een andere naam.\n\nWie hoopt op een concrete robot van OpenAI, moet dus nog geduld hebben. Het bedrijf houdt de deur open, zonder datum of specificaties te noemen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die naar robots kijken, verandert er vandaag weinig. OpenAI levert geen robots in Nederland en heeft geen Europese robotica-producten aangekondigd. Wie met robotica aan de slag wil, blijft aangewezen op bestaande leveranciers en onderzoeksinstellingen. Wel is het een signaal dat de grote AI-spelers hun onderzoeksorganisatie blijven herschikken. Nederlandse ontwikkelaars die OpenAI-technologie gebruiken, merken niets van de opheffing: de beschikbare tools en interfaces blijven zoals ze zijn. Let op nieuwe aankondigingen van het bedrijf als je wilt weten of er ooit een robot bij komt.",
+ "faq": [
+  {
+   "q": "Stopt OpenAI helemaal met robots?",
+   "a": "Nee. Volgens OpenAI blijft robotica een langetermijnplan. Alleen de aparte robotica-afdeling is opgeheven."
+  },
+  {
+   "q": "Vallen er ontslagen bij OpenAI robotica?",
+   "a": "Nee, er vallen geen ontslagen. De medewerkers gaan deel uitmaken van de algemenere onderzoeksteams."
+  },
+  {
+   "q": "Merken Nederlandse gebruikers hier iets van?",
+   "a": "Nee. OpenAI levert geen robots in Nederland en de bestaande tools blijven beschikbaar."
+  }
+ ],
+ "slug": "openai-heft-robotica-afdeling-op-maar-houdt-robots-op-de-agenda",
+ "kind": "news",
+ "date": "2026-11-15",
+ "published": "2026-11-15T18:58",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "OpenAI stopt met zijn robotica-afdeling, maar niet met robots",
+   "url": "https://www.bright.nl/nieuws/2159049/openai-stopt-met-zijn-robotica-afdeling-maar-niet-met-robots.html"
+  }
+ ],
+ "path": "/nieuws/openai-heft-robotica-afdeling-op-maar-houdt-robots-op-de-agenda/",
+ "og": "/img/og/openai-heft-robotica-afdeling-op-maar-houdt-robots-op-de-agenda.png",
+ "take": "OpenAI schrapt de afdeling en noemt robots nog steeds een langetermijnplan. Bij mij telt wat er op tafel ligt, niet wat er op de agenda staat. Tot er een werkende robot te testen is, is dit voor Nederland gewoon een persbericht."
+}

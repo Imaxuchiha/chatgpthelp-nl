@@ -3135,6 +3135,18 @@
   "40e78db660": {
    "at": "2026-11-15T12:12:34.435433",
    "why": "ok"
+  },
+  "d32b120b65": {
+   "at": "2026-11-15T18:57:26.222399",
+   "why": "ok"
+  },
+  "81e0022572": {
+   "at": "2026-11-15T18:58:26.222399",
+   "why": "ok"
+  },
+  "a88bddb172": {
+   "at": "2026-11-15T18:59:26.222399",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3681,6 +3693,9 @@
   "Nectar zet AI-agent in voor influencer marketing",
   "Jensen Huang van Nvidia verliest alles na affaires en spionage",
   "Google brengt Gemini 4 Hydrogen uit en stopt met 3.8 Flash",
-  "llama.cpp 1.0 verschenen: steviger fundament voor lokale AI"
+  "llama.cpp 1.0 verschenen: steviger fundament voor lokale AI",
+  "Apple slimme bril komt eind volgend jaar met AI-functies",
+  "OpenAI heft robotica-afdeling op, maar houdt robots op de agenda",
+  "LLMON markup language zit nu in Granite 4.1 3B en 8B"
  ]
 }

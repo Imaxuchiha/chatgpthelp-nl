@@ -1,51 +1,5 @@
 [
  {
-  "at": "2026-10-08T12:43:38",
-  "slug": "",
-  "title": "Samsung ai-chips winst: kwartaalwinst bijna vertienvoudigd",
-  "kind": "news",
-  "rood": [],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-08T12:43:45",
-  "slug": "",
-  "title": "OpenAI ai veiligheid: ex-medewerkers waarschuwen bestuur",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-08T12:43:52",
-  "slug": "",
-  "title": "ChatGPT for Teens houdt tieners aan het praten tijdens crisis",
-  "kind": "news",
-  "rood": [
-   "S5",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-08T12:44:34",
-  "slug": "",
-  "title": "Google Ads tracking fout: je omzet klopt niet",
-  "kind": "column",
-  "rood": [
-   "S10"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-08T19:58:41",
   "slug": "",
   "title": "Oracle gebruikt ChatGPT en Codex voor sneller werk",
@@ -6390,6 +6344,61 @@
    "S5"
   ],
   "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-15T18:57:36",
+  "slug": "",
+  "title": "Apple slimme bril komt eind volgend jaar met AI-functies",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-15T18:57:44",
+  "slug": "",
+  "title": "OpenAI heft robotica-afdeling op, maar houdt robots op de agenda",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-15T18:57:54",
+  "slug": "",
+  "title": "LLMON markup language zit nu in Granite 4.1 3B en 8B",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-15T18:58:17",
+  "slug": "",
+  "title": "AI nieuws week 46: Gemini 4 Hydrogen, llama.cpp 1.0 en vertrek Huang",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S5",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
   "stand": "meten"
  }
 ]

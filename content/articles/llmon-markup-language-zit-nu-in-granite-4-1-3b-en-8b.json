@@ -1,0 +1,68 @@
+{
+ "keyword": "llmon markup language",
+ "seo_title": "LLMON markup language nu in IBM Granite 4.1 modellen",
+ "title": "LLMON markup language zit nu in Granite 4.1 3B en 8B",
+ "meta": "LLMON is een markup language speciaal voor taalmodellen. IBM stopte het in Granite 4.1 3B en 8B. Lees wat het doet en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "llmon",
+  "ibm granite",
+  "taalmodellen",
+  "hugging face",
+  "markup"
+ ],
+ "intro": "IBM heeft LLMON toegevoegd aan zijn Granite 4.1-modellen van 3 en 8 miljard parameters. LLMON is een markup language die is ontworpen voor taalmodellen zelf. Dat meldt Hugging Face in een blog over de Granite-modellen.",
+ "takeaways": [
+  "LLMON staat voor LLM-Native Markup Language en is gemaakt voor gebruik door taalmodellen.",
+  "De taal zit nu in de Granite 4.1-modellen met 3 en 8 miljard parameters.",
+  "IBM publiceerde de toevoeging via een blog op Hugging Face op 12 november 2026.",
+  "Het is nog niet bekend wanneer Nederlandse bedrijven er concreet mee aan de slag kunnen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat LLMON precies is",
+   "body": "LLMON is een markup language die taalmodellen als eerste gebruiker heeft. Dat is anders dan bij bestaande talen zoals HTML of Markdown. Die zijn ooit voor mensen en browsers bedacht.\n\nEen markup language legt vast hoe tekst is opgebouwd. Denk aan koppen, lijsten en verwijzingen. LLMON doet dat op een manier die een taalmodel makkelijk kan lezen en schrijven. Het blog van Hugging Face noemt het een taal die native is voor grote taalmodellen.\n\nIBM bouwde de taal en stopte hem in de Granite 4.1-modellen. Het gaat om de varianten met 3 miljard en 8 miljard parameters. Het aantal parameters zegt iets over de grootte van een model. Meer parameters betekent vaak meer capaciteit, maar ook meer rekenkracht."
+  },
+  {
+   "heading": "Waarom IBM dit in Granite stopt",
+   "body": "Granite is de model familie van IBM. De 4.1-versies zijn de nieuwste telgen in die reeks. Door LLMON erin te verwerken, kunnen de modellen de taal direct herkennen en produceren.\n\nDat kan handig zijn bij taken waarbij structuur belangrijk is. Een model dat zelf netjes koppen, lijsten en velden kan aanbrengen, levert overzichtelijker werk af. Het scheelt ook omweggetjes via een aparte vertaalslag.\n\nHet blog geeft geen cijfers over hoe veel beter de modellen presteren met LLMON. Benchmarks of vergelijkingen met eerdere versies ontbreken in de bron. Wat de taal in de praktijk oplevert, is dus nog niet met metingen onderbouwd."
+  },
+  {
+   "heading": "Wat je zelf kunt uitproberen",
+   "body": "De Granite-modellen zijn openbaar beschikbaar via Hugging Face. Wie wil, kan de 3B- en 8B-versies downloaden en lokaal draaien. Dat vraagt wel om een machine met genoeg geheugen en rekenkracht.\n\nVoor de 8B-variant is een stevige videokaart of een server met veel werkgeheugen nodig. De 3B-versie is lichter en past op bescheidener hardware. Het blog noemt geen minimale specificaties, dus check die vooral in de modelkaart op Hugging Face.\n\nOntwikkelaars kunnen de modellen ook via een API gebruiken. Of dat bij IBM zelf kan, en tegen welke prijs, staat niet in de bron. Het blog beperkt zich tot de technische aankondiging."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Het blog gaat niet in op de licentie van LLMON zelf. Of andere partijen de taal mogen overnemen en aanpassen, is daarmee onduidelijk. Ook is er geen datum waarop een volgende versie verschijnt.\n\nVragen over ondersteuning voor andere talen dan Engels blijven onbeantwoord. De bron noemt geen meertalige tests. Voor Nederlandse gebruikers is dat een punt om in de gaten te houden."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die zelf taalmodellen draaien, is Granite met LLMON een optie om te testen. De modellen zijn gratis te downloaden, dus de kosten zitten vooral in hardware en stroom. Wie een model huurt via een cloudpartij, betaalt per gebruik. Let op: de Europese AI-wet vraagt bij inzet in bepaalde toepassingen om documentatie en risicobeoordeling. Of LLMON daar iets aan verandert, is nog niet bekend. Nederlandse ontwikkelaars kunnen de 3B-versie op een gewone werkplek proberen, de 8B-versie vraagt meer.",
+ "faq": [
+  {
+   "q": "wat is llmon",
+   "a": "LLMON is een markup language die speciaal is gemaakt voor grote taalmodellen. IBM heeft de taal toegevoegd aan de Granite 4.1-modellen van 3 en 8 miljard parameters."
+  },
+  {
+   "q": "waar kan ik granite 4.1 downloaden",
+   "a": "De modellen staan op Hugging Face. Het blog van IBM en Hugging Face linkt naar de modelpagina's van de 3B- en 8B-versies."
+  },
+  {
+   "q": "is llmon gratis te gebruiken",
+   "a": "Dat is nog niet bekend. Het blog noemt geen licentie voor LLMON zelf. De Granite-modellen zijn wel openbaar te downloaden via Hugging Face."
+  }
+ ],
+ "slug": "llmon-markup-language-zit-nu-in-granite-4-1-3b-en-8b",
+ "kind": "news",
+ "date": "2026-11-15",
+ "published": "2026-11-15T18:59",
+ "sources": [
+  {
+   "name": "Hugging Face",
+   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+   "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+  }
+ ],
+ "path": "/nieuws/llmon-markup-language-zit-nu-in-granite-4-1-3b-en-8b/",
+ "og": "/img/og/llmon-markup-language-zit-nu-in-granite-4-1-3b-en-8b.png",
+ "take": "Een nieuwe markup language voor taalmodellen klinkt leuk, maar ik zie nergens staan wat het een Nederlandse ondernemer oplevert. Ik betaal alleen voor iets dat zichzelf terugverdient, dus tot er een gratis proef of open source-versie ligt, blijft dit voor mij een persbericht. Eerst zien wat het doet, dan praten we."
+}
