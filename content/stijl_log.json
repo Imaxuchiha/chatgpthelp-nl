@@ -1,33 +1,5 @@
 [
  {
-  "at": "2026-10-08T19:58:41",
-  "slug": "",
-  "title": "Oracle gebruikt ChatGPT en Codex voor sneller werk",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-08T19:58:48",
-  "slug": "",
-  "title": "Pollo AI maakt campagnes met GPT-5.6 en GPT-6 Astra",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S11",
-   "S6",
-   "S8"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-08T19:58:56",
   "slug": "",
   "title": "Claude Opus 5.5 review: AI werkt uren zelfstandig door",
@@ -6395,6 +6367,31 @@
    "S10",
    "S5",
    "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-15T21:58:50",
+  "slug": "",
+  "title": "VS scherpt exportregels voor ai-chips aan na Nvidia-schandaal",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-15T21:59:00",
+  "slug": "",
+  "title": "AI-week 46: onrust bij Nvidia, Gemini 4 Hydrogen en llama.cpp 1.0",
+  "kind": "news",
+  "rood": [
    "S8",
    "S9"
   ],

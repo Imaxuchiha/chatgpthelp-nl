@@ -3147,6 +3147,10 @@
   "a88bddb172": {
    "at": "2026-11-15T18:59:26.222399",
    "why": "ok"
+  },
+  "1207b5c1c7": {
+   "at": "2026-11-15T21:58:35.089543",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3696,6 +3700,7 @@
   "llama.cpp 1.0 verschenen: steviger fundament voor lokale AI",
   "Apple slimme bril komt eind volgend jaar met AI-functies",
   "OpenAI heft robotica-afdeling op, maar houdt robots op de agenda",
-  "LLMON markup language zit nu in Granite 4.1 3B en 8B"
+  "LLMON markup language zit nu in Granite 4.1 3B en 8B",
+  "VS scherpt exportregels voor ai-chips aan na Nvidia-schandaal"
  ]
 }

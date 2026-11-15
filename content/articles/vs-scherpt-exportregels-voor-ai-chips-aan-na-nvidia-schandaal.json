@@ -1,0 +1,68 @@
+{
+ "keyword": "ai-chips export regels",
+ "seo_title": "ai-chips export regels: Congres VS scherpt aan na schandaal",
+ "title": "VS scherpt exportregels voor ai-chips aan na Nvidia-schandaal",
+ "meta": "Het Amerikaanse Congres wil strengere exportregels voor ai-chips na het Nvidia-schandaal. Lees wat dit betekent voor Nederland en de Europese techsector.",
+ "category": "nieuws",
+ "tags": [
+  "nvidia",
+  "ai-chips",
+  "exportregels",
+  "verenigde staten",
+  "congres"
+ ],
+ "intro": "Het Amerikaanse Congres wil de exportregels voor ai-chips verder aanscherpen. Dat gebeurt na het schandaal rond de inmiddels vertrokken Nvidia-topman Jensen Huang en een vermoedelijke Chinese spion. Zowel Democraten als Republikeinen steunen maatregelen, meldt The Verge.",
+ "takeaways": [
+  "Congresleden van beide partijen willen strengere exportregels voor ai-chips.",
+  "Huang en andere Nvidia-leiders moeten voor het Congres getuigen.",
+  "De roep om beperkingen volgt op een spionageschandaal rond de oud-topman.",
+  "Het is nog niet bekend welke wetsvoorstellen het halen en wanneer ze ingaan."
+ ],
+ "sections": [
+  {
+   "heading": "Wat is er aan de hand bij Nvidia",
+   "body": "Rond Nvidia is een schandaal ontstaan waarbij een vermoedelijke Chinese spion betrokken is. Jensen Huang is inmiddels geen ceo meer van het bedrijf. Het Congres reageert daarop met een strengere blik op de verkoop van ai-chips aan het buitenland.\n\nVolgens The Verge hebben zowel Democraten als Republikeinen steun uitgesproken voor verschillende maatregelen en wetsvoorstellen. Die moeten de regels rond export verstrakken. Ook eisen leden dat Huang en andere Nvidia-leiders komen getuigen.\n\nDe Senaatsfractie van de Democraten heeft zich in het debat gemengd. Precieze details van alle voorstellen zijn nog niet volledig duidelijk."
+  },
+  {
+   "heading": "Waarom Washington naar de chips kijkt",
+   "body": "Ai-chips zijn krachtige processoren die nodig zijn om grote taalmodellen te trainen en te draaien. Wie die chips levert, geeft landen toegang tot rekenkracht die ook militair of strategisch nut kan hebben. De Verenigde Staten zien China als belangrijkste zorg daarbij.\n\nNvidia is een van de grootste leveranciers van zulke chips wereldwijd. Amerikaanse regels bepalen nu al welke chips wel en niet naar bepaalde landen mogen. Het Congres wil die regels verder dichtzetten.\n\nHet is nog niet bekend welke voorstellen het uiteindelijk halen en wanneer nieuwe regels ingaan."
+  },
+  {
+   "heading": "Nederland en de Europese chipketen",
+   "body": "Voor Nederland is dit geen ver-van-mijn-bedshow. ASML in Veldhoven levert machines die nodig zijn om geavanceerde chips te maken. Strengere Amerikaanse exportregels raken de hele keten, ook als een bedrijf zelf niet in de VS zit.\n\nEuropese afnemers van Nvidia-chips kunnen merken dat leveringen trager worden of dat bepaalde modellen niet meer beschikbaar komen. Dat raakt bijvoorbeeld datacenters, onderzoeksinstellingen en bedrijven die eigen ai-toepassingen bouwen.\n\nDe Europese Unie heeft eigen regels voor export van gevoelige technologie. Het is nog niet duidelijk of Brussel het Amerikaanse voorbeeld volgt of een eigen koers kiest."
+  },
+  {
+   "heading": "Wat er nu op tafel ligt",
+   "body": "Het Congres bespreekt meerdere wetsvoorstellen tegelijk. De steun van beide partijen maakt de kans op nieuwe beperkingen groter dan bij eerdere rondes. Toch blijft wetgeving in de VS een traject van maanden, soms langer.\n\nOndertussen blijft de vraag hangen hoe het schandaal precies in elkaar zit. The Verge spreekt van een vermoedelijke Chinese spion, zonder alle details te geven. Ook over de rol van Huang zelf is nog veel onbekend."
+  }
+ ],
+ "nl_angle": "Nederlandse bedrijven die ai-chips inkopen of eigen modellen trainen, krijgen mogelijk te maken met langere levertijden en meer papierwerk. ASML en toeleveranciers in de Brainportregio volgen de Amerikaanse regels op de voet, omdat die doorwerken in de hele chipketen. Wie in Nederland ai-toepassingen bouwt, doet er goed aan om alternatieve leveranciers en rekenkracht in Europa achter de hand te houden. Concrete prijzen of ingangsdata zijn nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat betekenen strengere Amerikaanse exportregels voor ai-chips voor Nederland?",
+   "a": "Ze kunnen leiden tot langere levertijden en meer controles voor Nederlandse afnemers van Nvidia-chips. Ook de toeleveringsketen rond ASML kan er effect van merken."
+  },
+  {
+   "q": "Moet Jensen Huang voor het Congres getuigen?",
+   "a": "Ja, leden van het Congres eisen dat Huang en andere Nvidia-leiders komen getuigen over het schandaal. Wanneer dat gebeurt, is nog niet bekend."
+  },
+  {
+   "q": "Zijn de nieuwe exportregels al ingegaan?",
+   "a": "Nee. Het Congres bespreekt nog meerdere wetsvoorstellen. Welke daarvan het halen en wanneer ze ingaan, is nog niet duidelijk."
+  }
+ ],
+ "slug": "vs-scherpt-exportregels-voor-ai-chips-aan-na-nvidia-schandaal",
+ "kind": "news",
+ "date": "2026-11-15",
+ "published": "2026-11-15T21:58",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+  }
+ ],
+ "path": "/nieuws/vs-scherpt-exportregels-voor-ai-chips-aan-na-nvidia-schandaal/",
+ "og": "/img/og/vs-scherpt-exportregels-voor-ai-chips-aan-na-nvidia-schandaal.png",
+ "take": "Strengere exportregels klinken stoer tot je ziet wat er echt ligt. Een vermoeden en een vertrokken topman zijn voor mij nog geen bewijs dat de grens dicht moet, en niemand heeft laten zien waar de chips precies heen gingen. Eerst de feiten op tafel, dan pas een wet."
+}
