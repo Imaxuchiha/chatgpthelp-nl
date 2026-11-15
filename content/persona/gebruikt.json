@@ -33,7 +33,8 @@
   "branded-lek",
   "display-concurrenten",
   "ab-test-onhaalbaar",
-  "seo-autoriteit"
+  "seo-autoriteit",
+  "dmarc-spam"
  ],
  "tools": [
   "Claude Code (Anthropic)"
@@ -54,6 +55,7 @@
   "ai-hype-misleiding-ik-wil-eerst-de-cijfers-zien",
   "ai-deepfake-apps-waarom-je-ze-beter-niet-installeert",
   "performance-max-je-budget-verdwijnt-buiten-je-feed",
-  "apple-laat-je-betalen-voor-ai-gebruik-daar-trap-ik-niet-in"
+  "apple-laat-je-betalen-voor-ai-gebruik-daar-trap-ik-niet-in",
+  "waarom-je-mail-in-spam-belandt-check-je-dmarc"
  ]
 }

@@ -1,0 +1,68 @@
+{
+ "keyword": "llama.cpp 1.0",
+ "seo_title": "llama.cpp 1.0 is uit: lokale AI draait op een steviger",
+ "title": "llama.cpp 1.0 verschenen: steviger fundament voor lokale AI",
+ "meta": "llama.cpp 1.0 is uit. Lees wat de eerste grote versie betekent voor lokaal draaien van AI-modellen op je eigen laptop of server in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "llama.cpp",
+  "lokale ai",
+  "hugging face",
+  "open source",
+  "ggml"
+ ],
+ "intro": "Het opensourceproject llama.cpp heeft versie 1.0.0 bereikt. Dat meldt Hugging Face in een blogbericht van 13 november 2026. De eerste grote versie moet een steviger fundament leggen voor het draaien van AI-modellen op eigen hardware.",
+ "takeaways": [
+  "llama.cpp staat op versie 1.0.0, de eerste grote release.",
+  "Het project draait AI-modellen lokaal, dus op je eigen apparaat.",
+  "Hugging Face noemt de release een sterker fundament voor het lokale AI-ecosysteem.",
+  "Details over nieuwe functies en prestaties zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat llama.cpp doet",
+   "body": "llama.cpp is software waarmee je grote taalmodellen op je eigen computer laat werken. Je hebt geen verbinding met een server van een aanbieder nodig. Het project is opensource en wordt door ontwikkelaars wereldwijd gebruikt.\n\nDe software hoort bij de ggml-familie, een verzameling gereedschap voor het efficiënt uitvoeren van modellen. Veel Nederlanders komen het tegen via programma's die lokale modellen aanbieden. Die programma's bouwen vaak op deze techniek."
+  },
+  {
+   "heading": "Waarom versie 1.0 uitmaakt",
+   "body": "Een 1.0-versie markeert bij opensourceprojecten meestal een punt waarop de basis stabiel genoeg wordt geacht voor breder gebruik. Volgens Hugging Face legt deze release een sterker fundament voor het lokale AI-ecosysteem.\n\nWat er precies is veranderd, staat niet in de aangeleverde bron. Het is dus nog niet bekend welke functies nieuw zijn of hoeveel sneller de software draait. Duidelijk is wel dat het project de stap naar 1.0 bewust zet."
+  },
+  {
+   "heading": "Lokaal draaien in de praktijk",
+   "body": "Een model lokaal draaien betekent dat de tekst die je invoert je eigen apparaat niet verlaat. Dat kan aantrekkelijk zijn voor werk met gevoelige gegevens, zoals klantdossiers of medische notities. Je hebt wel een redelijk krachtige computer nodig.\n\nDe kwaliteit van lokale modellen blijft achter bij de grootste commerciële diensten. Voor veel taken is het verschil klein genoeg om het te proberen. Reken wel op meer uitzoekwerk dan bij een kant-en-klare chatbot."
+  },
+  {
+   "heading": "Wat de release nog niet zegt",
+   "body": "De bron bevat geen informatie over een releasedatum van nieuwe functies, over ondersteunde besturingssystemen of over prestaties. Ook is niet bekend of er een Nederlandse handleiding komt.\n\nWie wil weten of zijn favoriete programma al op deze versie draait, moet dat bij dat programma zelf navragen. De projectpagina op Hugging Face is de plek waar de ontwikkelaars hun aankondiging delen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en bedrijven die AI lokaal willen draaien, is een stabiele 1.0-versie praktisch nieuws. Je kunt erop bouwen zonder dat je elke update je opstelling omgooit. Let wel op de Europese regels: verwerk je persoonsgegevens met een lokaal model, dan blijf je zelf verantwoordelijk onder de AVG. Lokale verwerking maakt de administratie eenvoudiger, maar heft die plicht niet op.",
+ "faq": [
+  {
+   "q": "wat is llama.cpp?",
+   "a": "Het is opensource-software om AI-taalmodellen op je eigen computer te draaien, zonder clouddienst."
+  },
+  {
+   "q": "is llama.cpp gratis?",
+   "a": "Ja, het project is opensource en vrij te gebruiken. De voorwaarden staan bij de projectpagina."
+  },
+  {
+   "q": "heb ik een dure computer nodig?",
+   "a": "Dat hangt af van het model dat je kiest. Grotere modellen vragen meer rekenkracht en geheugen."
+  }
+ ],
+ "slug": "llama-cpp-1-0-verschenen-steviger-fundament-voor-lokale-ai",
+ "kind": "news",
+ "date": "2026-11-15",
+ "published": "2026-11-15T12:12",
+ "sources": [
+  {
+   "name": "Hugging Face",
+   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+  }
+ ],
+ "path": "/nieuws/llama-cpp-1-0-verschenen-steviger-fundament-voor-lokale-ai/",
+ "og": "/img/og/llama-cpp-1-0-verschenen-steviger-fundament-voor-lokale-ai.png",
+ "take": "Lokaal draaien is precies waar mijn geld naartoe gaat: geen abonnement, geen rekening per token, gewoon je eigen hardware die het werk doet. Dat llama.cpp nu op 1.0 staat betekent voor mij een fundament dat niet elke maand omvalt, en daar betaal ik graag nul euro voor. Ik geloof er pas in als mijn eigen scripts er maanden later nog steeds op draaien, want een versienummer is nog geen garantie."
+}

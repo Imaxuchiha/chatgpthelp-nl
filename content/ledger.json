@@ -3107,6 +3107,34 @@
   "d3c21aad12": {
    "at": "2026-11-14T21:40:20.863559",
    "why": "ok"
+  },
+  "76118ea279": {
+   "at": "2026-11-15T12:10:34.435433",
+   "why": "ok"
+  },
+  "a67e1509e9": {
+   "at": "2026-11-15T12:11:34.435433",
+   "why": "ok"
+  },
+  "81bcb5c122": {
+   "at": "2026-11-15T12:12:34.435433",
+   "why": "high-risk"
+  },
+  "a8d5fa7d24": {
+   "at": "2026-11-15T12:12:34.435433",
+   "why": "poort"
+  },
+  "ad614f81e4": {
+   "at": "2026-11-15T12:12:34.435433",
+   "why": "poort"
+  },
+  "f98f612fda": {
+   "at": "2026-11-15T12:12:34.435433",
+   "why": "poort"
+  },
+  "40e78db660": {
+   "at": "2026-11-15T12:12:34.435433",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3650,6 +3678,9 @@
   "OpenAI-bestuurslid: AI-takeover kan maanden weg zijn",
   "ChatGPT Wallet: OpenAI geeft je AI-agent een portemonnee",
   "Gemini 4 Hydrogen: Google's nieuwste model voor lastige vragen",
-  "Nectar zet AI-agent in voor influencer marketing"
+  "Nectar zet AI-agent in voor influencer marketing",
+  "Jensen Huang van Nvidia verliest alles na affaires en spionage",
+  "Google brengt Gemini 4 Hydrogen uit en stopt met 3.8 Flash",
+  "llama.cpp 1.0 verschenen: steviger fundament voor lokale AI"
  ]
 }

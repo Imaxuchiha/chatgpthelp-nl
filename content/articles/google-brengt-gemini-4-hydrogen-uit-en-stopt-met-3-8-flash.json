@@ -1,0 +1,68 @@
+{
+ "keyword": "gemini 4 hydrogen",
+ "seo_title": "Gemini 4 Hydrogen vervangt 3.8 Flash bij Google",
+ "title": "Google brengt Gemini 4 Hydrogen uit en stopt met 3.8 Flash",
+ "meta": "Google heeft Gemini 4 Hydrogen uitgerold als opvolger van 3.8 Flash. Lees wat het model is, hoe de release verliep en wat het voor gebruikers in…",
+ "category": "nieuws",
+ "tags": [
+  "gemini",
+  "google",
+  "ai-modellen",
+  "chatbots",
+  "ai-nieuws"
+ ],
+ "intro": "Google heeft Gemini 4 Hydrogen uitgerold. Het model neemt de plek over van 3.8 Flash. Opvallend is het tempo: eerdere modellen kregen een voorzichtige release, dit keer ging het sneller.",
+ "takeaways": [
+  "Gemini 4 Hydrogen vervangt 3.8 Flash als model van Google.",
+  "De uitrol verliep minder voorzichtig dan bij Gemini Carbon en Argon.",
+  "Google koos dit keer niet voor een release met extra aandacht voor veiligheid.",
+  "Details over beschikbaarheid in Nederland zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Gemini 4 Hydrogen is",
+   "body": "Gemini 4 Hydrogen is de nieuwe versie van het taalmodel van Google. Het vervangt 3.8 Flash, dat tot nu toe de dienst uitmaakte. Volgens Ars Technica is de uitrol in gang gezet.\n\nHet model bouwt voort op de eerdere Gemini-versies. Google bracht eerder Carbon en Argon uit. Die kregen een rustiger uitroltraject, met meer nadruk op veiligheid."
+  },
+  {
+   "heading": "Een snellere release dan bij Carbon en Argon",
+   "body": "De uitrol van Hydrogen gaat anders dan bij de vorige twee modellen. Ars Technica meldt dat Google dit keer niet kiest voor een langzame release met veel veiligheidscontroles. Carbon en Argon kregen die behandeling wel.\n\nWat precies is overgeslagen, maakt de bron niet duidelijk. Ook blijft open hoe Google de veiligheid van Hydrogen heeft getest. Daar is nog geen informatie over gepubliceerd."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Over de prestaties van Hydrogen zegt de bron weinig. Cijfers over snelheid, kosten of nauwkeurigheid ontbreken. Vergelijkingen met 3.8 Flash zijn er nog niet.\n\nOok is niet bekend wanneer het model in Nederland en de rest van de Europese Unie beschikbaar komt. Google heeft daar volgens de bron niets over gezegd. Prijzen voor gebruik via de API zijn evenmin genoemd."
+  },
+  {
+   "heading": "Waarom de naam opvalt",
+   "body": "Google koos eerder namen als Carbon en Argon. Hydrogen past in dat rijtje van scheikundige elementen. De cijfers ervoor geven de generatie aan.\n\nVoor gebruikers verandert er vooral iets als 3.8 Flash verdwijnt. Wie nu op dat model bouwt, moet mogelijk overstappen. Wanneer dat moet gebeuren, is nog niet duidelijk."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders die ChatGPT, Claude of Gemini gebruiken, is er nog geen concrete verandering. Gemini 4 Hydrogen is volgens de bron uitgerold, maar of en wanneer het model hier te kiezen is, is niet bekend. Bedrijven die op 3.8 Flash bouwen, doen er goed aan de aankondigingen van Google in de gaten te houden. Zodra er een datum voor het einde van 3.8 Flash is, kan een overstap nodig zijn. Let daarbij ook op de Europese regels rond AI: Google moet aan dezelfde eisen voldoen als bij eerdere modellen.",
+ "faq": [
+  {
+   "q": "Wat is Gemini 4 Hydrogen?",
+   "a": "Dat is het nieuwe taalmodel van Google. Het vervangt 3.8 Flash."
+  },
+  {
+   "q": "Is Gemini 4 Hydrogen al in Nederland te gebruiken?",
+   "a": "Dat is nog niet bekend. De bron noemt geen datum of landenlijst."
+  },
+  {
+   "q": "Waarom ging de release sneller dan bij eerdere modellen?",
+   "a": "Volgens Ars Technica koos Google dit keer niet voor een langzame release met veel veiligheidscontroles, zoals bij Carbon en Argon."
+  }
+ ],
+ "slug": "google-brengt-gemini-4-hydrogen-uit-en-stopt-met-3-8-flash",
+ "kind": "news",
+ "date": "2026-11-15",
+ "published": "2026-11-15T12:11",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+   "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
+  }
+ ],
+ "path": "/nieuws/google-brengt-gemini-4-hydrogen-uit-en-stopt-met-3-8-flash/",
+ "og": "/img/og/google-brengt-gemini-4-hydrogen-uit-en-stopt-met-3-8-flash.png",
+ "take": "Google gooit 3.8 Flash eruit en zet er in hoog tempo Hydrogen neer, terwijl de vorige modellen nog een voorzichtige release kregen. Dat snelle tempo zegt me vooral dat ik niets ga uitgeven aan een upgrade voordat ik zie wat het model echt beter doet op mijn eigen werk. Eerst gratis testen met wat ik al heb, en betalen pas als het zich terugverdient."
+}

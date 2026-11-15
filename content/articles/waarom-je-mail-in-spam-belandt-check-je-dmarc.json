@@ -1,0 +1,65 @@
+{
+ "keyword": "dmarc spam voorkomen",
+ "seo_title": "DMARC spam voorkomen: zo los je het zelf op",
+ "title": "Waarom je mail in spam belandt: check je DMARC",
+ "meta": "Je koude mails belanden in spam? Check je DNS. Twee DMARC-records en Gmail negeert alles. Zo los je het op, zonder dure tools.",
+ "category": "mening",
+ "tags": [
+  "dmarc",
+  "spam",
+  "e-mailmarketing",
+  "dns",
+  "koude acquisitie"
+ ],
+ "intro": "Mijn eigen koude mails belandden in spam. Geen AI-tool had dat gevonden. Het probleem zat in de DNS, niet in de inhoud.",
+ "takeaways": [
+  "Controleer je DNS op dubbele DMARC-records voordat je aan je mailtekst sleutelt.",
+  "Eén fout record maakt al je mail onbetrouwbaar voor Gmail en Outlook.",
+  "AI kan je copy verbeteren, maar technische oorzaken van spam lost het niet op."
+ ],
+ "sections": [
+  {
+   "heading": "Het probleem: twee DMARC-records",
+   "body": "Ik stuur koude mails voor Adsvantage. Gewoon kort, persoonlijk, geen AI-tekst. Toch kwamen antwoorden niet binnen. Toen ik testte, zag ik dat mijn mails in spam belandden. Niet bij één ontvanger, maar structureel.\n\nIk dacht eerst aan de inhoud. Te veel links, te weinig personalisatie, noem maar op. Maar de echte oorzaak was technisch. Mijn domein had twee DMARC-records in de DNS. Dat mag niet.\n\nGmail zag twee records en negeerde DMARC volledig. Daardoor kon Gmail niet controleren of mijn mail echt van mij kwam. En onbetrouwbare mail gaat naar spam."
+  },
+  {
+   "heading": "De oplossing was simpel",
+   "body": "Ik heb één record verwijderd. Meer niet. Binnen een dag waren mijn mails uit de spam. Geen tool, geen abonnement, geen AI. Gewoon de DNS bekijken en het dubbele record weghalen.\n\nHet stomme is dat ik dit zelf had veroorzaakt. Ooit een DMARC-record aangemaakt, later een ander systeem dat er nog één toevoegde. Niemand die dat controleert. Tot je mail niet meer aankomt.\n\nLes: controleer je DNS-records. Eén SPF, één DKIM, één DMARC. Meer is niet beter."
+  },
+  {
+   "heading": "AI lost dit niet op",
+   "body": "Ik werk dagelijks met Claude Code en DeepSeek. Die tools zijn top voor analyses en automatisering. Maar geen enkele AI-tool had dit gevonden zonder dat ik zelf de DNS bekeek. AI kijkt naar je tekst, je onderwerpregel, je verzendfrequentie. Niet naar je DNS-instellingen.\n\nSterker nog, als ik een AI had gevraagd waarom mijn mail in spam belandt, had ik waarschijnlijk tien tips gekregen over mijn copy. En was het probleem gebleven. AI is goed in patronen herkennen, maar niet in het zien van een fout die buiten zijn dataset ligt.\n\nDaarom blijf ik zelf de basis controleren. DNS, SPF, DKIM, DMARC. Daarna pas de inhoud."
+  },
+  {
+   "heading": "Checklist voor je eigen domein",
+   "body": "Ga naar een DNS-checker. Er zijn gratis tools genoeg. Kijk of je meerdere records van hetzelfde type hebt. Eén SPF, één DKIM, één DMARC. Meer is fout.\n\nTest je mail. Stuur naar een Gmail-adres en kijk waar hij binnenkomt. Komt hij in spam, check dan je DNS. Niet je onderwerpregel.\n\nEn wees niet te snel met AI. AI kan je mailtekst verbeteren, maar als je DNS niet klopt, helpt geen enkele tekst. Eerst techniek, dan copy."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ondernemers die koude acquisitie doen: check vandaag nog je DNS. Het kost je vijf minuten. Een dubbele DMARC of SPF is zo gemaakt, en het verpest je hele outreach. Zonder goede aflevering is elke AI-tool voor e-mailmarketing weggegooid geld.",
+ "faq": [
+  {
+   "q": "Hoe controleer ik of ik dubbele DMARC-records heb?",
+   "a": "Gebruik een gratis DNS-checker zoals MXToolbox of dmarcian. Voer je domein in en kijk of er meerdere DMARC-records verschijnen."
+  },
+  {
+   "q": "Wat is het effect van twee DMARC-records?",
+   "a": "Ontvangende mailservers zoals Gmail negeren DMARC dan volledig. Je mail wordt niet als betrouwbaar gezien en belandt sneller in spam."
+  },
+  {
+   "q": "Kan AI dit probleem oplossen?",
+   "a": "Nee. AI-tools kijken vooral naar tekst en inhoud. Een fout in de DNS-instellingen zie je alleen door zelf je DNS te controleren."
+  }
+ ],
+ "lessons_used": [
+  "les dmarc-spam"
+ ],
+ "slug": "waarom-je-mail-in-spam-belandt-check-je-dmarc",
+ "kind": "practice",
+ "date": "2026-11-15",
+ "published": "2026-11-15T12:10",
+ "sources": [],
+ "path": "/mening/waarom-je-mail-in-spam-belandt-check-je-dmarc/",
+ "og": "/img/og/waarom-je-mail-in-spam-belandt-check-je-dmarc.png",
+ "lesson": "dmarc-spam",
+ "author": "Maxim"
+}

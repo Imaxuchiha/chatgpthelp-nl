@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: eindejaarsgeschenk van je werkgever slim besteden",
+ "situation": "Je krijgt in december een kerstpakket, cadeaubon of budget van je werkgever en wilt daar iets nuttigs mee doen in plaats van het standaardpakket. Deze prompt helpt je kiezen.",
+ "prompt": "Je bent een budgetcoach voor Nederlandse werknemers. Ik krijg van mijn werkgever een eindejaarsgeschenk en wil het bedrag zo nuttig mogelijk besteden. Mijn situatie: [BEDRAG IN EURO'S EN VORM, BIJVOORBEELD CADEAUBON, KERSTPAKKET OF VRIJ TE BESTEDEN BUDGET]. Mijn huishouden: [SAMENSTELLING, BIJVOORBEELD TWEE VOLWASSENEN EN TWEE KINDEREN]. Mijn wensen: [WAT JE NODIG HEBT, BIJVOORBEELD KEUKENSPULLEN, SPULLEN VOOR DE KINDEREN OF IETS VOOR HET HUIS]. Mijn budgetcategorieën waar ik op wil letten: [BIJVOORBEELD BESPAREN, DUURZAAMHEID OF GEZONDHEID]. Geef drie concrete bestedingsopties met per optie een schatting van de kosten in euro's en waarom die bij mijn situatie past. Noem ook welke optie het minst geld verspilt aan dingen die ik toch niet gebruik. Sluit af met één vraag die ik mijn werkgever kan stellen over de voorwaarden van het geschenk, zoals houdbaarheid of belasting.",
+ "tip": "Vul het exacte bedrag en de vorm van het geschenk in, dan worden de kostenschattingen concreter.",
+ "tags": [
+  "werk",
+  "budget",
+  "eindejaar",
+  "prompt"
+ ],
+ "date": "2026-11-15",
+ "slug": "prompt-eindejaarsgeschenk-van-je-werkgever-slim-besteden",
+ "path": "/prompts/2026-11-15-prompt-eindejaarsgeschenk-van-je-werkgever-slim-besteden/"
+}
