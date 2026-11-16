@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: reparatiekosten fiets checken bij de fietsenmaker",
+ "situation": "Je fietsenmaker noemt een bedrag voor een reparatie en je wilt weten of dat redelijk is voordat je akkoord geeft.",
+ "prompt": "Je bent een ervaren fietsmonteur in Nederland. Ik heb een reparatieofferte van mijn fietsenmaker en wil weten of de prijs klopt en of alle werkzaamheden nodig lijken. Mijn fiets: [TYPE FIETS, BIJV. STADSFIETS MET 7 VERSNELLINGEN]. De offerte: [BESCHRIJF OF PLAK HIER DE OFFERTE MET ONDERDELEN EN PRIJZEN]. Gebruikelijk gebruik: [BIJV. 4 KEER PER WEEK 5 KM NAAR HET WERK]. Geef per regel aan of het onderdeel of de handeling logisch is, wat een gangbare prijs in Nederland is en waar ik op kan besparen. Sluit af met drie vragen die ik de fietsenmaker kan stellen voordat ik akkoord ga. Houd het overzichtelijk in een tabel en gebruik gewone taal.",
+ "tip": "Vraag de fietsenmaker om de offerte per onderdeel uit te splitsen, dan kan ChatGPT gerichter meedenken.",
+ "tags": [
+  "fiets",
+  "reparatie",
+  "geld",
+  "thuis"
+ ],
+ "date": "2026-11-16",
+ "slug": "prompt-reparatiekosten-fiets-checken-bij-de-fietsenmaker",
+ "path": "/prompts/2026-11-16-prompt-reparatiekosten-fiets-checken-bij-de-fietsenmaker/"
+}

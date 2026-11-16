@@ -3151,6 +3151,22 @@
   "1207b5c1c7": {
    "at": "2026-11-15T21:58:35.089543",
    "why": "ok"
+  },
+  "91e58e2ea9": {
+   "at": "2026-11-16T12:40:15.493566",
+   "why": "poort"
+  },
+  "87d7014c15": {
+   "at": "2026-11-16T12:40:15.493566",
+   "why": "ok"
+  },
+  "4b0fc5b701": {
+   "at": "2026-11-16T12:41:15.493566",
+   "why": "ok"
+  },
+  "8b7092965b": {
+   "at": "2026-11-16T12:42:15.493566",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3701,6 +3717,9 @@
   "Apple slimme bril komt eind volgend jaar met AI-functies",
   "OpenAI heft robotica-afdeling op, maar houdt robots op de agenda",
   "LLMON markup language zit nu in Granite 4.1 3B en 8B",
-  "VS scherpt exportregels voor ai-chips aan na Nvidia-schandaal"
+  "VS scherpt exportregels voor ai-chips aan na Nvidia-schandaal",
+  "ChatGPT-model GPT-6 Astra helpt bij bewijs voor standaardmodel",
+  "OpenAI opent science blog voor onderzoek met AI",
+  "Apple onderzoekt AI voor gezondheid met nieuwe app"
  ]
 }
