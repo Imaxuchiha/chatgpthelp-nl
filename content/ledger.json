@@ -3167,6 +3167,26 @@
   "8b7092965b": {
    "at": "2026-11-16T12:42:15.493566",
    "why": "ok"
+  },
+  "f26f2a4dfd": {
+   "at": "2026-11-16T22:12:13.821680",
+   "why": "ok"
+  },
+  "b1c71d0787": {
+   "at": "2026-11-16T22:13:13.821680",
+   "why": "high-risk"
+  },
+  "f891bd93f3": {
+   "at": "2026-11-16T22:13:13.821680",
+   "why": "ok"
+  },
+  "ebd9eb9496": {
+   "at": "2026-11-16T22:14:13.821680",
+   "why": "poort"
+  },
+  "b0ded74e06": {
+   "at": "2026-11-16T22:14:13.821680",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3720,6 +3740,9 @@
   "VS scherpt exportregels voor ai-chips aan na Nvidia-schandaal",
   "ChatGPT-model GPT-6 Astra helpt bij bewijs voor standaardmodel",
   "OpenAI opent science blog voor onderzoek met AI",
-  "Apple onderzoekt AI voor gezondheid met nieuwe app"
+  "Apple onderzoekt AI voor gezondheid met nieuwe app",
+  "ChatGPT voor onderzoekers: 200.000 gratis accounts wereldwijd",
+  "ChatGPT voor wetenschappers: ruim 1.800 onderzoekers aan het woord",
+  "ChatGPT zorg: OpenAI richt zich op computer-use agents"
  ]
 }

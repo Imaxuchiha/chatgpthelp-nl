@@ -1,0 +1,67 @@
+{
+ "keyword": "chatgpt zorg",
+ "seo_title": "ChatGPT zorg: OpenAI richt zich op computer-use agents",
+ "title": "ChatGPT zorg: OpenAI richt zich op computer-use agents",
+ "meta": "OpenAI werkt aan computer-use agents voor zorgteams. Wat dat betekent voor Nederlandse ziekenhuizen, huisartsen en patiëntgegevens lees je hier.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "chatgpt",
+  "zorg",
+  "ai-agents",
+  "privacy"
+ ],
+ "intro": "OpenAI heeft een aankondiging gedaan over computer-use agents voor zorgteams. Zulke agents bedienen software namens een gebruiker, bijvoorbeeld door klikken en formulieren in te vullen. De aankondiging telt voor Nederlandse zorgorganisaties, want veel administratief werk gaat nu nog met de hand.",
+ "takeaways": [
+  "OpenAI noemt de stap gericht op computer-use agents voor zorgteams.",
+  "Een computer-use agent voert taken uit in bestaande software, zonder aparte koppeling.",
+  "OpenAI heeft nog geen prijzen, releasedatum of beschikbaarheid in Nederland gemeld.",
+  "Of de functie onder de Europese AI-wet valt, is nog niet duidelijk."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI aankondigt",
+   "body": "OpenAI meldt dat het computer-use agents wil inzetten voor zorgteams. Een computer-use agent is software die zelfstandig met een computerprogramma werkt. Hij klikt knoppen aan, vult velden in en leest schermen, ongeveer zoals een medewerker dat doet.\n\nDat is anders dan een chatbot die alleen tekst teruggeeft. De agent handelt in de programmatuur die een ziekenhuis of huisartsenpost al gebruikt. Volgens OpenAI past die aanpak bij zorgteams die veel tijd kwijt zijn aan administratie.\n\nHoe de agent precies werkt, welke software wordt ondersteund en welke ziekenhuizen meedoen, staat niet in de aankondiging. Concrete cijfers over tijdwinst of foutmarges ontbreken ook."
+  },
+  {
+   "heading": "Waarom dit in de zorg speelt",
+   "body": "Zorgmedewerkers in Nederland besteden veel uren aan verslaglegging, verwijzingen en het overtypen van gegevens tussen systemen. Een agent die dat werk overneemt, kan ruimte geven voor patiëntcontact. Dat is de belofte, niet een gemeten resultaat.\n\nTegelijk ligt de lat hoog. Een verkeerd ingevulde dosering of een verwisselde patiënt heeft direct gevolgen. Zorginstellingen zullen daarom willen weten wie verantwoordelijk is als een agent een fout maakt.\n\nOpenAI geeft daar in de aankondiging nog geen antwoord op. Ook over logbestanden en controle door een mens staat niets concreets."
+  },
+  {
+   "heading": "Wat het betekent voor softwareleveranciers",
+   "body": "Een computer-use agent werkt via het scherm van bestaande programma's. Leveranciers van huisartsen- en ziekenhuissystemen hoeven daardoor niet meteen een koppeling te bouwen. Dat kan de invoering sneller maken.\n\nHet nadeel is dat zulke agents kwetsbaar zijn voor wijzigingen in de interface. Past een leverancier een knop of menu aan, dan kan de agent vastlopen. Beheer en tests blijven dus nodig.\n\nVoor Nederlandse leveranciers zoals die van huisartsinformatiesystemen is de vraag of OpenAI hun software noemt. Dat is nog niet bekend."
+  },
+  {
+   "heading": "Nog geen prijs of datum",
+   "body": "OpenAI heeft geen prijs, releasedatum of landenlijst gepubliceerd. Of Nederlandse zorginstellingen de functie kunnen gebruiken, is dus niet te zeggen. Er is ook geen Europese uitrol aangekondigd.\n\nZorgorganisaties die willen testen, kunnen het beste eerst een kleine administratieve taak kiezen. Denk aan het overnemen van gegevens uit een verwijsbrief. Houd daarbij een medewerker als controle.\n\nPatiëntgegevens vragen extra zorg. Een agent die schermen leest, ziet immers alles wat op dat scherm staat."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse huisartsenposten, ziekenhuizen en thuiszorgorganisaties is dit vooral een signaal dat AI verder gaat dan tekst genereren. De administratieve druk is hier hoog en het personeelstekort groot, dus de belangstelling zal er zijn. Toch gelden de regels van de AVG en de Europese AI-wet gewoon. Zorginstellingen moeten zelf vastleggen wat een agent mag doen, wie meekijkt en hoe gegevens worden bewaard. Zolang OpenAI geen prijs, datum en landenlijst noemt, blijft dit een aankondiging om te volgen.",
+ "faq": [
+  {
+   "q": "Wat is een computer-use agent?",
+   "a": "Dat is software die zelfstandig met een computerprogramma werkt, door te klikken, te typen en schermen te lezen. De agent doet dat namens een medewerker."
+  },
+  {
+   "q": "Is dit al beschikbaar in Nederland?",
+   "a": "OpenAI heeft geen releasedatum of landenlijst genoemd. Of en wanneer Nederlandse zorginstellingen het kunnen gebruiken, is nog niet bekend."
+  },
+  {
+   "q": "Mag een zorginstelling dit zomaar inzetten?",
+   "a": "Nee. Een instelling moet zelf regelen wie verantwoordelijk is, hoe patiëntgegevens worden beschermd en of een medewerker controleert. De AVG blijft van toepassing."
+  }
+ ],
+ "slug": "chatgpt-zorg-openai-richt-zich-op-computer-use-agents",
+ "kind": "news",
+ "date": "2026-11-16",
+ "published": "2026-11-16T22:14",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
+  }
+ ],
+ "path": "/nieuws/chatgpt-zorg-openai-richt-zich-op-computer-use-agents/",
+ "og": "/img/og/chatgpt-zorg-openai-richt-zich-op-computer-use-agents.png"
+}
