@@ -1,0 +1,68 @@
+{
+ "keyword": "chatgpt voor zorg",
+ "seo_title": "ChatGPT voor zorg: OpenAI komt met computer-agents",
+ "title": "ChatGPT voor de zorg: OpenAI voegt computer-agents en plugins toe",
+ "meta": "OpenAI breidt ChatGPT for Healthcare uit met computer-use agents, betere klinische antwoorden en plugins voor zorgsoftware. Wat merk je daarvan in…",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "openai",
+  "zorg",
+  "gezondheidszorg",
+  "ai-agents"
+ ],
+ "intro": "OpenAI heeft zijn aanbod voor de gezondheidszorg uitgebreid. ChatGPT for Healthcare krijgt computer-use agents, betere antwoorden op klinische vragen en nieuwe plugins die samenwerken met zorgsoftware. Volgens OpenAI moet dat helpen om echt werk gedaan te krijgen in de zorg.",
+ "takeaways": [
+  "ChatGPT for Healthcare krijgt computer-use agents die taken in zorgsoftware uitvoeren.",
+  "OpenAI meldt verbeterde antwoorden op klinische vragen.",
+  "Nieuwe plugins werken samen met bestaande zorgsoftware.",
+  "OpenAI noemt zelf geen prijzen, releasedatum of beschikbaarheid in Nederland."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI aankondigt voor de zorg",
+   "body": "De aankondiging draait om drie onderdelen. Computer-use agents kunnen zelfstandig met zorgsoftware werken. Betere klinische antwoorden moeten de kwaliteit van ChatGPT bij medische vragen verhogen. Nieuwe plugins koppelen ChatGPT aan software die zorgverleners al gebruiken.\n\nOpenAI zegt dat het doel is om echt werk gedaan te krijgen. Dat suggereert dat de nadruk ligt op administratieve en ondersteunende taken. Concrete voorbeelden van taken noemt de bron niet."
+  },
+  {
+   "heading": "Computer-use agents: wat ze doen",
+   "body": "Een computer-use agent is software die zelfstandig met een computerprogramma werkt. Je geeft een opdracht en de agent klikt en typt door de applicatie heen. In de zorg kan dat bijvoorbeeld gaan om gegevens opzoeken of formulieren invullen.\n\nHoeveel controle de gebruiker houdt, is nog niet bekend. OpenAI geeft in de aankondiging geen details over toezicht of foutmarges. Ook is niet duidelijk welke zorgsoftware precies wordt ondersteund."
+  },
+  {
+   "heading": "Betere antwoorden en plugins",
+   "body": "Naast de agents noemt OpenAI verbeterde antwoorden op klinische vragen. Wat er precies is veranderd, staat niet in de bron. De nieuwe plugins moeten ervoor zorgen dat ChatGPT informatie uit zorgsoftware kan halen en gebruiken.\n\nDat klinkt als een stap richting één werkplek waarin zorgverleners vragen stellen en taken laten uitvoeren. Of dat in de praktijk werkt, moet nog blijken."
+  },
+  {
+   "heading": "Wat nog ontbreekt",
+   "body": "OpenAI noemt geen prijzen, releasedatum of landen waar het aanbod beschikbaar komt. Ook over certificering voor de Europese zorgmarkt zegt de aankondiging niets. Voor Nederlandse ziekenhuizen en huisartsen is dat relevante informatie.\n\nZolang die gegevens ontbreken, blijft het bij een aankondiging. De vraag is of en wanneer zorgorganisaties in Nederland ermee aan de slag kunnen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse zorgverleners en ziekenhuizen is er nog geen concreet perspectief. De aankondiging noemt geen beschikbaarheid in Nederland of de EU. Zorginstellingen die met patiëntgegevens werken, moeten daarnaast voldoen aan de AVG en aan eisen rond medische gegevensverwerking. Of ChatGPT for Healthcare daaraan voldoet, is nog niet bekend. Werkgevers in de zorg kunnen de ontwikkeling wel volgen, want administratieve lasten zijn een bekend knelpunt.",
+ "faq": [
+  {
+   "q": "Wat is ChatGPT for Healthcare?",
+   "a": "Dat is OpenAI's aanbod van ChatGPT voor de gezondheidszorg. Het krijgt nu computer-use agents, betere klinische antwoorden en plugins voor zorgsoftware."
+  },
+  {
+   "q": "Wat is een computer-use agent?",
+   "a": "Software die zelfstandig met een computerprogramma werkt, zoals klikken en formulieren invullen. OpenAI noemt geen details over toezicht."
+  },
+  {
+   "q": "Is ChatGPT for Healthcare beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI noemt in de aankondiging geen landen, prijzen of releasedatum."
+  }
+ ],
+ "slug": "chatgpt-voor-de-zorg-openai-voegt-computer-agents-en-plugins-toe",
+ "kind": "news",
+ "date": "2026-11-17",
+ "published": "2026-11-17T01:10",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "More ways to move care forward with ChatGPT for Healthcare",
+   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+  }
+ ],
+ "path": "/nieuws/chatgpt-voor-de-zorg-openai-voegt-computer-agents-en-plugins-toe/",
+ "og": "/img/og/chatgpt-voor-de-zorg-openai-voegt-computer-agents-en-plugins-toe.png",
+ "take": "Een computer-agent die zelf door zorgsoftware klikt, daar wil ik eerst een werkende versie van zien op een echte omgeving. Ik heb zelf geen ervaring met zorgtools, dus ik oordeel op het nieuws: een aankondiging is nog geen product. Bij mij komt een agent pas in de buurt als hij een maand meedraait en overeind blijft."
+}

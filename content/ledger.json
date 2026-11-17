@@ -3187,6 +3187,26 @@
   "b0ded74e06": {
    "at": "2026-11-16T22:14:13.821680",
    "why": "ok"
+  },
+  "d0b83026be": {
+   "at": "2026-11-17T01:09:42.061494",
+   "why": "high-risk"
+  },
+  "773cc78ee1": {
+   "at": "2026-11-17T01:09:42.061494",
+   "why": "high-risk"
+  },
+  "650a9481de": {
+   "at": "2026-11-17T01:09:42.061494",
+   "why": "ok"
+  },
+  "cfcc7acb02": {
+   "at": "2026-11-17T01:10:42.061494",
+   "why": "ok"
+  },
+  "cd9a297fa8": {
+   "at": "2026-11-17T01:11:42.061494",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3743,6 +3763,9 @@
   "Apple onderzoekt AI voor gezondheid met nieuwe app",
   "ChatGPT voor onderzoekers: 200.000 gratis accounts wereldwijd",
   "ChatGPT voor wetenschappers: ruim 1.800 onderzoekers aan het woord",
-  "ChatGPT zorg: OpenAI richt zich op computer-use agents"
+  "ChatGPT zorg: OpenAI richt zich op computer-use agents",
+  "AI huis te koop: housephishing zorgt voor teleurstelling",
+  "ChatGPT voor de zorg: OpenAI voegt computer-agents en plugins toe",
+  "Apple test dagelijkse limieten voor zwaardere Siri AI-taken"
  ]
 }

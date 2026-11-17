@@ -1,0 +1,63 @@
+{
+ "keyword": "siri ai limiet",
+ "seo_title": "Siri AI limiet: Apple test dagelijkse gebruikslimieten",
+ "title": "Apple test dagelijkse limieten voor zwaardere Siri AI-taken",
+ "meta": "Apple test in iOS 27.3 dagelijkse limieten voor complexe Siri AI-functies. Eenvoudige opdrachten blijven gratis. Dit betekent het voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "apple",
+  "siri",
+  "apple intelligence",
+  "ios 27",
+  "ai-limieten"
+ ],
+ "intro": "Apple test dagelijkse gebruikslimieten voor de zwaardere AI-functies van Siri. De eerste bètaversies van iOS 27.3, iPadOS 27.3 en macOS 27.3 zijn verschenen en daarin zit die test, meldt The Verge op basis van MacRumors. Eenvoudige Siri-opdrachten blijven gratis en onbeperkt.",
+ "takeaways": [
+  "Apple test per apparaat een dagelijkse limiet voor complexe Siri AI-functies.",
+  "Simpele commando's en vragen aan Siri blijven gratis en zonder limiet.",
+  "De test zit in de bèta's van iOS 27.3, iPadOS 27.3 en macOS 27.3.",
+  "Apple heeft nog niet bekendgemaakt wat er na de limiet gebeurt of wat het kost."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Apple precies test",
+   "body": "De limiet geldt per apparaat en per dag. Het gaat om functies die veel rekenkracht vragen, zoals de zwaardere Apple Intelligence-taken binnen Siri. Gewone opdrachten, zoals een timer zetten of een app openen, vallen buiten de limiet.\n\nApple heeft de update in bèta gezet. Ontwikkelaars en testers kunnen er nu mee aan de slag. The Verge noemt de limieten een test, wat betekent dat de definitieve regels nog kunnen veranderen.\n\nHoe hoog de limiet ligt, is niet bekend. Apple heeft ook niet gezegd wat er gebeurt als je er overheen gaat. Mogelijk stopt de functie tijdelijk of komt er een betaalde optie."
+  },
+  {
+   "heading": "Waarom Apple dit doet",
+   "body": "Zware AI-taken kosten rekenkracht. Bij sommige opdrachten werkt Siri samen met servers van Apple, en dat brengt kosten per verzoek met zich mee. Een daglimiet is een manier om die kosten in de hand te houden.\n\nThe Verge verwijst in de titel naar een iCloud-abonnement. Dat suggereert dat Apple een betaalde route onderzoekt voor extra gebruik. Bevestigd is dat niet. Apple heeft geen prijzen of abonnementsvormen gepubliceerd.\n\nVoor gebruikers verandert er voorlopig weinig. De bèta is bedoeld om te testen, niet om iedereen meteen te beperken."
+  },
+  {
+   "heading": "Wat dit betekent voor iPhone-bezitters",
+   "body": "De meeste mensen gebruiken Siri voor korte opdrachten. Die blijven werken zoals nu. Pas bij de zwaardere AI-functies krijg je mogelijk een plafond per dag.\n\nWelke functies precies onder de limiet vallen, maakt Apple nog niet duidelijk. Denk aan opdrachten waarbij Siri iets uit je apps haalt of een langere vraag beantwoordt. Zodra Apple meer bekendmaakt, wordt dat duidelijker.\n\nDe bèta's zijn nog niet voor iedereen beschikbaar. Een definitieve uitrol volgt later, en de precieze datum is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Nederlandse iPhone-gebruikers merken voorlopig weinig van de test. De bèta is bedoeld voor ontwikkelaars en testers, niet voor het grote publiek. Zodra Apple de limieten definitief invoert, geldt dat ook in Nederland, want Apple Intelligence werkt hier inmiddels op ondersteunde toestellen. Let wel op: Nederlandstalige Siri heeft nog niet alle AI-functies die Engelstalige gebruikers wel hebben. Wat een abonnement in euro's gaat kosten, is nog niet bekend. Bedrijven die Siri in apps of workflows gebruiken, doen er goed aan de aankondiging van Apple af te wachten voordat ze erop rekenen.",
+ "faq": [
+  {
+   "q": "Blijft Siri gratis?",
+   "a": "Eenvoudige Siri-opdrachten blijven gratis en onbeperkt, meldt The Verge. Voor zwaardere AI-functies test Apple een daglimiet."
+  },
+  {
+   "q": "Wat gebeurt er als ik de limiet haal?",
+   "a": "Dat is nog niet bekend. Apple heeft niet gezegd of de functie stopt of dat er een betaalde optie komt."
+  },
+  {
+   "q": "Geldt de limiet ook in Nederland?",
+   "a": "De test zit in bèta's van iOS 27.3 en macOS 27.3. Als Apple de limieten definitief invoert, gelden ze ook voor gebruikers in Nederland."
+  }
+ ],
+ "slug": "apple-test-dagelijkse-limieten-voor-zwaardere-siri-ai-taken",
+ "kind": "news",
+ "date": "2026-11-17",
+ "published": "2026-11-17T01:11",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+   "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
+  }
+ ],
+ "path": "/nieuws/apple-test-dagelijkse-limieten-voor-zwaardere-siri-ai-taken/",
+ "og": "/img/og/apple-test-dagelijkse-limieten-voor-zwaardere-siri-ai-taken.png"
+}

@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: sportabonnement opzeggen na blessure",
+ "situation": "Je kunt tijdelijk niet sporten door een blessure en wilt je abonnement pauzeren of opzeggen zonder te veel te betalen. Deze prompt zet je argumenten en de juiste toon op een rij.",
+ "prompt": "Je bent een Nederlandse jurist die gespecialiseerd is in consumentenovereenkomsten en sportschoolabonnementen. Ik wil mijn abonnement bij [NAAM SPORTSCHOOL] pauzeren of opzeggen vanwege een blessure. Mijn situatie: ik heb [BLESSURE] en de verwachte hersteltijd is [AANTAL WEKEN/MAANDEN]. Mijn abonnement loopt tot [EINDDATUM] en ik betaal [BEDRAG] per maand. De algemene voorwaarden zeggen: [CITEER RELEVANTE PASSAGE OF ZEG DAT JE ZE NIET HEBT]. Schrijf een zakelijke e-mail aan de sportschool waarin ik om [PAUZE/OPZEGGING] vraag, met verwijzing naar mijn blessure en, waar mogelijk, naar redelijkheid en de wettelijke regels voor langdurige overeenkomsten. Geef ook drie alternatieven als ze weigeren, plus een korte versie van de mail van maximaal 100 woorden. Verzin geen wetsartikelen; noem alleen regels die echt bestaan en zeg het als iets onzeker is.",
+ "tip": "Voeg de exacte datum van je blessure en een bewijsstuk zoals een doktersverklaring toe, dan wordt de mail sterker.",
+ "tags": [
+  "sportschool",
+  "abonnement",
+  "blessure",
+  "opzeggen"
+ ],
+ "date": "2026-11-17",
+ "slug": "prompt-sportabonnement-opzeggen-na-blessure",
+ "path": "/prompts/2026-11-17-prompt-sportabonnement-opzeggen-na-blessure/"
+}
