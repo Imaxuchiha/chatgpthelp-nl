@@ -1,0 +1,63 @@
+{
+ "keyword": "gemini tasks",
+ "seo_title": "Gemini Tasks: Google breidt toegang uit voor bellen en kopen",
+ "title": "Gemini Tasks breder beschikbaar: bellen en kopen namens jou",
+ "meta": "Google geeft meer gebruikers toegang tot Gemini Tasks. De assistent kan bellen, inloggen op websites en aankopen doen. Dit betekent het voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "gemini",
+  "google",
+  "ai-assistent",
+  "tasks",
+  "privacy"
+ ],
+ "intro": "Google maakt de Task-modus van Gemini voor meer mensen beschikbaar. In die modus kan de assistent telefoontjes coördineren, inloggen op websites en zelfs aankopen namens de gebruiker afronden. TechCrunch meldt de uitbreiding. Voor Nederland is nog niet bekend wanneer en in welke vorm de functie hier komt.",
+ "takeaways": [
+  "Gemini Tasks kan bellen, websites openen en betalingen afronden voor de gebruiker.",
+  "Google breidt de toegang tot de functie uit, meldt TechCrunch.",
+  "Beschikbaarheid en prijs in Nederland zijn nog niet bevestigd.",
+  "De vraag is hoe Google omgaat met inloggegevens en betalingen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Gemini Tasks doet",
+   "body": "Gemini is de AI-assistent van Google. In de Task-modus pakt de assistent klussen op die je normaal zelf uitvoert. TechCrunch noemt drie voorbeelden: telefoontjes afstemmen, inloggen op websites en aankopen doen.\n\nDat gaat verder dan een chatbot die tekst teruggeeft. De assistent handelt in je plaats, binnen websites en aan de telefoon. Hoe zelfstandig dat precies gebeurt, is niet duidelijk uit de berichtgeving. Of je elke stap moet goedkeuren, vermeldt de bron niet.\n\nDe uitbreiding betekent dat meer gebruikers de modus kunnen proberen. Google heeft eerder de toegang tot Gemini Tasks beperkt gehouden. TechCrunch schrijft niet hoeveel mensen nu toegang krijgen."
+  },
+  {
+   "heading": "Bellen en betalen door een assistent",
+   "body": "Een assistent die namens jou belt, raakt direct aan je dagelijkse leven. Denk aan een afspraak verzetten bij de tandarts of een reservering bevestigen. Zulke taken vragen om betrouwbaarheid. Gaat er iets mis, dan merk je dat pas achteraf.\n\nAankopen doen namens de gebruiker is een zwaardere stap. Daarbij spelen betaalgegevens en toestemming een grote rol. Google heeft niet uitgelegd hoe het bedrijf fraude of verkeerde aankopen voorkomt. Ook is onbekend welke betaalmethoden worden ondersteund.\n\nInloggen op websites vraagt om wachtwoorden en accounts. Een assistent die dat doet, krijgt veel vertrouwen van de gebruiker. TechCrunch besteedt in de samenvatting geen aandacht aan de beveiliging rond die logins."
+  },
+  {
+   "heading": "Nog geen duidelijkheid over Europa",
+   "body": "Of Gemini Tasks in Nederland werkt, is niet bekend. Google heeft geen datum genoemd voor uitrol in Europa. De bron noemt alleen de bredere toegang, zonder landenlijst.\n\nEuropese regels voor AI en gegevensbescherming kunnen de uitrol beïnvloeden. De AI-verordening van de EU stelt eisen aan systemen die zelfstandig handelen. Hoe Google daarmee omgaat, is nog niet gemeld.\n\nOok een prijs voor de functie ontbreekt. Het is niet duidelijk of Tasks bij een betaald abonnement hoort of apart wordt aangeboden. Zodra Google meer bekendmaakt, wordt dat duidelijk."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders verandert er nu nog weinig. Zolang Google geen uitroldatum voor Europa noemt, kun je de Task-modus hier niet plannen. Wel geeft de stap een beeld van waar AI-assistenten naartoe gaan: ze voeren taken uit in plaats van alleen antwoorden te geven. Bedrijven die bellen en online betalingen afhandelen, kunnen daar op termijn mee te maken krijgen. Let op je inloggegevens en betaalgegevens zodra zulke functies hier komen.",
+ "faq": [
+  {
+   "q": "Wat is Gemini Tasks?",
+   "a": "Een modus van de Google-assistent Gemini waarin de AI taken uitvoert, zoals bellen, inloggen op websites en aankopen doen namens de gebruiker."
+  },
+  {
+   "q": "Is Gemini Tasks beschikbaar in Nederland?",
+   "a": "Dat is nog niet bekend. Google heeft geen uitroldatum of landenlijst voor Europa genoemd."
+  },
+  {
+   "q": "Kan Gemini zelf betalingen doen?",
+   "a": "Volgens TechCrunch kan de Task-modus aankopen namens de gebruiker afronden. Hoe dat precies werkt en welke betaalmethoden meedoen, is niet gemeld."
+  }
+ ],
+ "slug": "gemini-tasks-breder-beschikbaar-bellen-en-kopen-namens-jou",
+ "kind": "news",
+ "date": "2026-11-17",
+ "published": "2026-11-17T21:01",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+   "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"
+  }
+ ],
+ "path": "/nieuws/gemini-tasks-breder-beschikbaar-bellen-en-kopen-namens-jou/",
+ "og": "/img/og/gemini-tasks-breder-beschikbaar-bellen-en-kopen-namens-jou.png"
+}

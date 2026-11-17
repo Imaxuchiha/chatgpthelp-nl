@@ -1,72 +1,5 @@
 [
  {
-  "at": "2026-10-10T11:58:28",
-  "slug": "",
-  "title": "IMF waarschuwt voor mix van AI-investeringen, energie en schuld",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S11",
-   "S4",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-10T11:58:42",
-  "slug": "",
-  "title": "Jev: niet-tekst AI-model miljarden waard kort na lancering",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-10T11:59:18",
-  "slug": "",
-  "title": "Voicebox open source review: gratis en goed genoeg",
-  "kind": "column",
-  "rood": [
-   "S5",
-   "S6"
-  ],
-  "andere_fouten": 2,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-10T11:59:51",
-  "slug": "",
-  "title": "CapCut Pro: snelste weg van AI-beelden naar video",
-  "kind": "column",
-  "rood": [
-   "S5",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-10T18:22:21",
-  "slug": "",
-  "title": "AI agent privacy: wat OpenAI DevDay belooft en wat nog onduidelijk is",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-10T18:22:28",
   "slug": "",
   "title": "Nikon diskwalificeert winnaar microscopieprijs om AI-gebruik",
@@ -6381,6 +6314,72 @@
    "S11",
    "S6",
    "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-17T20:59:37",
+  "slug": "",
+  "title": "OpenAI lanceert GPT-6.2 Astra en Sol voor werk en code",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-17T20:59:45",
+  "slug": "",
+  "title": "Apple waarschuwt Mac-gebruikers die AI-agent apps laten besturen",
+  "kind": "news",
+  "rood": [
+   "S11"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-17T20:59:53",
+  "slug": "",
+  "title": "Fotoboek toont gebied met meeste AI-datacentra ter wereld",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-17T21:00:02",
+  "slug": "",
+  "title": "Google Tasks AI-agent: Spark wordt gratis en doet je mail en agenda",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-17T21:00:11",
+  "slug": "",
+  "title": "Gemini Tasks breder beschikbaar: bellen en kopen namens jou",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
   ],
   "andere_fouten": 0,
   "stand": "meten"

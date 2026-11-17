@@ -3231,6 +3231,26 @@
   "adc690e60e": {
    "at": "2026-11-17T13:03:47.870651",
    "why": "ok"
+  },
+  "549a77347d": {
+   "at": "2026-11-17T20:59:23.765738",
+   "why": "ok"
+  },
+  "37c99d9d34": {
+   "at": "2026-11-17T21:00:23.765738",
+   "why": "poort"
+  },
+  "cde956cd67": {
+   "at": "2026-11-17T21:00:23.765738",
+   "why": "poort"
+  },
+  "72284a47c9": {
+   "at": "2026-11-17T21:00:23.765738",
+   "why": "ok"
+  },
+  "3aa0c6065a": {
+   "at": "2026-11-17T21:01:23.765738",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3793,6 +3813,9 @@
   "Apple test dagelijkse limieten voor zwaardere Siri AI-taken",
   "OpenAI helpt de NAVO met AI bij cyberdefensie",
   "Revolut snijdt codetijd met 30 tot 60 procent dankzij OpenAI Codex",
-  "Sam Altman: AI-industrie redt het ook zonder Jensen Huang aan het roer"
+  "Sam Altman: AI-industrie redt het ook zonder Jensen Huang aan het roer",
+  "OpenAI lanceert GPT-6.2 Astra en Sol voor werk en code",
+  "Google Tasks AI-agent: Spark wordt gratis en doet je mail en agenda",
+  "Gemini Tasks breder beschikbaar: bellen en kopen namens jou"
  ]
 }

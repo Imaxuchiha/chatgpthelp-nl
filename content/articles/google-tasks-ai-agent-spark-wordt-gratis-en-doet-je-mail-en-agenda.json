@@ -1,0 +1,68 @@
+{
+ "keyword": "google tasks ai agent",
+ "seo_title": "Google Tasks AI-agent: Spark wordt gratis takenhulp",
+ "title": "Google Tasks AI-agent: Spark wordt gratis en doet je mail en agenda",
+ "meta": "Google maakt zijn AI-agent Spark gratis en doopt hem om tot Tasks. Wat de agent doet, welke AI erachter zit en wanneer hij in Nederland komt.",
+ "category": "nieuws",
+ "tags": [
+  "google",
+  "ai-agent",
+  "tasks",
+  "gemini",
+  "productiviteit"
+ ],
+ "intro": "Google heeft zijn AI-agent Spark omgedoopt tot Tasks en maakt het onderdeel gratis. De agent draait op het nieuwe AI-model Gemini 4 Hydrogen en regelt onder meer maaltijdplannen, je agenda en terugkerende kosten in je mail. Het nieuws komt van The Verge en raakt iedereen die Google-apps dagelijks gebruikt.",
+ "takeaways": [
+  "Spark heet nu Tasks en is gratis te gebruiken",
+  "De agent werkt op het nieuwe model Gemini 4 Hydrogen",
+  "Tasks maakt maaltijdplannen, beheert je agenda en speurt naar terugkerende kosten in je mail",
+  "De uitrol start in de Verenigde Staten"
+ ],
+ "sections": [
+  {
+   "heading": "Van Spark naar Tasks: wat er verandert",
+   "body": "Google hangt een nieuwe naam aan zijn AI-agent. Spark verdwijnt als label en Tasks komt ervoor in de plaats. Volgens The Verge is het onderdeel vanaf nu gratis, waar het eerder een betaalde functie was.\n\nDe agent is geen losse chatbot. Je geeft hem een opdracht en hij voert die uit binnen je Google-omgeving. Denk aan een weekmenu samenstellen of je agenda opruimen.\n\nGoogle levert de rekenkracht via Gemini 4 Hydrogen. Dat model is nieuw en vormt de motor achter de taken die de agent uitvoert."
+  },
+  {
+   "heading": "Wat de agent concreet doet",
+   "body": "Tasks maakt maaltijdplannen, beheert je agenda en graaft door je e-mails. Daarbij zoekt hij naar terugkerende kosten die je misschien niet meer nodig hebt. Dat kan gaan om abonnementen die maandelijks terugkomen.\n\nHet idee is simpel: de agent neemt routineklusjes over die je anders zelf uitzoekt. Je hoeft dus niet zelf door je inbox te spitten op zoek naar een vergeten abonnement.\n\nHoeveel controle je precies houdt over wat de agent doet, maakt de bron niet duidelijk. Ook is niet bekend of je elke actie eerst moet goedkeuren."
+  },
+  {
+   "heading": "Eerst de VS, Nederland wacht nog",
+   "body": "De uitrol begint in de Verenigde Staten. The Verge meldt dat Amerikaanse gebruikers als eersten aan de beurt zijn. Wanneer Nederland volgt, is nog niet bekend.\n\nGoogle brengt functies vaak in fases uit, eerst in het Engels en daarna in meer talen en landen. Een datum voor Europa noemt de bron niet. Houd de release-opmerkingen van Google in de gaten als je wilt weten wanneer Tasks hier komt.\n\nVoor Nederlandse gebruikers betekent dit voorlopig vooral: kijken hoe het in de VS werkt en afwachten."
+  },
+  {
+   "heading": "Gratis klinkt mooi, maar let op je data",
+   "body": "Een gratis agent die door je mail en agenda gaat, vraagt om vertrouwen. Je geeft Google toegang tot veel persoonlijke gegevens. Het bedrijf zegt niets over hoe lang die gegevens worden bewaard of waarvoor ze nog meer worden gebruikt.\n\nOnder de Europese privacyregels (de AVG) moet een dienst uitleggen welke data hij verwerkt en waarom. Voor een functie die je inbox doorzoekt, is dat geen detail. Zodra Tasks in de EU komt, zal Google daar duidelijkheid over moeten geven.\n\nWil je zo'n agent gebruiken, kijk dan eerst welke rechten hij krijgt. Beperk de toegang tot wat nodig is."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders verandert er nu nog weinig: Tasks is gratis, maar start in de VS. Zodra de functie hier komt, krijg je een agent die je agenda en mail doorzoekt. Dat kan handig zijn tegen vergeten abonnementen, maar het betekent ook dat Google meer van je gegevens ziet. Let dus op de rechten die je instelt en op wat de AVG voorschrijft. Bedrijven die met Google Workspace werken, kunnen de komst van Tasks meenemen in hun afspraken over dataverwerking.",
+ "faq": [
+  {
+   "q": "Is Google Tasks gratis?",
+   "a": "Ja, volgens The Verge is de AI-agent Tasks gratis te gebruiken. Eerder was Spark een betaalde functie."
+  },
+  {
+   "q": "Welk AI-model zit achter Google Tasks?",
+   "a": "Tasks draait op Gemini 4 Hydrogen, het nieuwe model van Google."
+  },
+  {
+   "q": "Wanneer komt Google Tasks naar Nederland?",
+   "a": "Dat is nog niet bekend. De uitrol begint in de Verenigde Staten en een datum voor Nederland of de EU noemt de bron niet."
+  }
+ ],
+ "slug": "google-tasks-ai-agent-spark-wordt-gratis-en-doet-je-mail-en-agenda",
+ "kind": "news",
+ "date": "2026-11-17",
+ "published": "2026-11-17T21:00",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+  }
+ ],
+ "path": "/nieuws/google-tasks-ai-agent-spark-wordt-gratis-en-doet-je-mail-en-agenda/",
+ "og": "/img/og/google-tasks-ai-agent-spark-wordt-gratis-en-doet-je-mail-en-agenda.png",
+ "take": "Een agent die je mail en agenda gratis bijhoudt, daar heb ik niets op tegen. Ik betaal alleen pas als zo'n Tasks echt werk uit mijn handen haalt dat ik kan aanwijzen. Eerst een paar weken op mijn eigen accounts draaien, dan zie ik wel of het wat oplevert."
+}

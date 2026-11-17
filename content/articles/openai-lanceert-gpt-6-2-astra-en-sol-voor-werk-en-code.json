@@ -1,0 +1,68 @@
+{
+ "keyword": "gpt-6.2 astra sol",
+ "seo_title": "GPT-6.2 Astra en Sol: wat OpenAI nieuw brengt",
+ "title": "OpenAI lanceert GPT-6.2 Astra en Sol voor werk en code",
+ "meta": "OpenAI heeft GPT-6.2 Astra en Sol uitgebracht. Lees wat de modellen beter maken, wat het kost en wanneer je ermee kunt werken in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "gpt-6.2",
+  "chatgpt",
+  "codex",
+  "api"
+ ],
+ "intro": "OpenAI heeft twee nieuwe modellen aangekondigd: GPT-6.2 Astra en GPT-6.2 Sol. Ze moeten betere resultaten leveren voor professioneel werk, programmeren en computergebruik. Volgens OpenAI gaat dat gepaard met minder kosten. De modellen komen beschikbaar in ChatGPT Work, Codex en de API.",
+ "takeaways": [
+  "GPT-6.2 Astra en Sol zijn twee aparte modellen van OpenAI.",
+  "Ze zijn gericht op professioneel werk, code en computergebruik.",
+  "OpenAI belooft betere prestaties bij lagere kosten.",
+  "Beschikbaar via ChatGPT Work, Codex en de API."
+ ],
+ "sections": [
+  {
+   "heading": "Twee modellen in één aankondiging",
+   "body": "OpenAI noemt in zijn aankondiging twee namen: Astra en Sol. Het bedrijf presenteert ze samen als GPT-6.2. Wat de twee modellen precies van elkaar onderscheidt, maakt OpenAI niet duidelijk in de aankondiging. Ook blijft onbekend of het gaat om verschillende groottes of om varianten voor aparte taken.\n\nDuidelijk is wel waar ze voor bedoeld zijn. OpenAI richt zich op professionele output, programmeren en computer use. Die laatste term betekent dat een model zelfstandig met software en schermen kan werken, bijvoorbeeld door knoppen aan te klikken of formulieren in te vullen.\n\nDe aankondiging noemt geen releasedatum per land. Ook staan er geen benchmarks in de tekst. Nederlanders die willen weten hoe goed de modellen scoren, moeten dus wachten op meer informatie."
+  },
+  {
+   "heading": "Goedkoper werken met de API",
+   "body": "Een opvallend punt is de efficiëntie. OpenAI zegt dat de modellen betere resultaten geven tegen lagere kosten. Dat geldt voor ChatGPT Work, Codex en de API. Voor bedrijven die via de API betalen per gebruik, kan dat verschil maken in de maandrekening.\n\nOpenAI noemt geen tarieven in de aankondiging. Het is dus nog niet bekend wat een miljoen tokens bij Astra of Sol gaat kosten. Zulke prijzen staan meestal op de prijzenpagina van OpenAI, maar die cijfers ontbreken in de bron.\n\nVoor teams in Nederland die ChatGPT Work gebruiken, verandert er mogelijk weinig aan de interface. De winst zit vooral in de kwaliteit van de antwoorden en de snelheid waarmee taken worden afgerond."
+  },
+  {
+   "heading": "Computer use als speerpunt",
+   "body": "OpenAI noemt computer use apart als verbeterpunt. Dat sluit aan op een bredere beweging in de AI-sector, waarbij modellen niet alleen tekst schrijven maar ook handelingen uitvoeren. Denk aan het openen van een browser, het invullen van een spreadsheet of het doorklikken van een bestelsysteem.\n\nZulke functies vragen wel om controle. Een model dat zelfstandig klikt, kan ook fouten maken. OpenAI geeft in de aankondiging geen details over veiligheidsmaatregelen of toezicht.\n\nVoor ontwikkelaars is Codex interessant. Dat is de omgeving van OpenAI voor programmeerwerk. Betere codekwaliteit en lagere kosten zijn daar direct merkbaar, zeker bij grote projecten."
+  },
+  {
+   "heading": "Wat nog ontbreekt",
+   "body": "De aankondiging is kort en bevat weinig cijfers. Er zijn geen benchmarks, geen vergelijking met eerdere modellen en geen prijslijst. Ook een datum waarop Europese gebruikers toegang krijgen, staat er niet in.\n\nDat betekent niet dat er niets bekend is. De drie kanalen zijn duidelijk: ChatGPT Work, Codex en de API. Wie nu al via een van die kanalen werkt, kan verwachten dat de nieuwe modellen daar op termijn opduiken.\n\nMeer informatie over prijzen, limieten en beschikbaarheid per land zal vermoedelijk volgen via OpenAI zelf."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven betekent de komst van GPT-6.2 vooral een kans om goedkoper te werken met AI. Teams die ChatGPT Work gebruiken voor teksten, analyses of klantcontact kunnen profiteren van betere output bij dezelfde of lagere kosten. Ontwikkelaars die via de API bouwen, moeten letten op de nieuwe tarieven zodra OpenAI die publiceert. Let ook op de Europese regels: bij computer use blijven menselijke controle en vastlegging van acties nodig, zeker in processen met persoonsgegevens.",
+ "faq": [
+  {
+   "q": "Wat is het verschil tussen GPT-6.2 Astra en Sol?",
+   "a": "Dat maakt OpenAI in de aankondiging niet duidelijk. Het bedrijf noemt beide namen samen en geeft geen aparte uitleg per model."
+  },
+  {
+   "q": "Waar kan ik GPT-6.2 gebruiken?",
+   "a": "Volgens OpenAI komt het beschikbaar in ChatGPT Work, Codex en de API. Een datum per land noemt het bedrijf niet."
+  },
+  {
+   "q": "Wordt GPT-6.2 goedkoper?",
+   "a": "OpenAI zegt dat de modellen efficiënter werken en lagere kosten hebben. Concrete prijzen staan nog niet in de aankondiging."
+  }
+ ],
+ "slug": "openai-lanceert-gpt-6-2-astra-en-sol-voor-werk-en-code",
+ "kind": "news",
+ "date": "2026-11-17",
+ "published": "2026-11-17T20:59",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+  }
+ ],
+ "path": "/nieuws/openai-lanceert-gpt-6-2-astra-en-sol-voor-werk-en-code/",
+ "og": "/img/og/openai-lanceert-gpt-6-2-astra-en-sol-voor-werk-en-code.png",
+ "take": "OpenAI belooft lagere kosten en betere prestaties, en dat is precies waar ik eerst de cijfers van wil zien. Mijn ochtendanalyse van klantaccounts draait al via Claude Code op mijn bestaande abonnement, met DeepSeek als goedkope terugval, dus een nieuw model moet zich bij mij eerst terugverdienen op echt werk. Tot die tijd verandert er voor mijn bureau niets."
+}
