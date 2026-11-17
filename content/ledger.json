@@ -3207,6 +3207,30 @@
   "cd9a297fa8": {
    "at": "2026-11-17T01:11:42.061494",
    "why": "ok"
+  },
+  "590cb0b9c5": {
+   "at": "2026-11-17T13:01:47.870651",
+   "why": "ok"
+  },
+  "6b3e631d9f": {
+   "at": "2026-11-17T13:02:47.870651",
+   "why": "high-risk"
+  },
+  "f054a54f82": {
+   "at": "2026-11-17T13:02:47.870651",
+   "why": "ok"
+  },
+  "bec78e9702": {
+   "at": "2026-11-17T13:03:47.870651",
+   "why": "poort"
+  },
+  "5f72fbdc79": {
+   "at": "2026-11-17T13:03:47.870651",
+   "why": "high-risk"
+  },
+  "adc690e60e": {
+   "at": "2026-11-17T13:03:47.870651",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3766,6 +3790,9 @@
   "ChatGPT zorg: OpenAI richt zich op computer-use agents",
   "AI huis te koop: housephishing zorgt voor teleurstelling",
   "ChatGPT voor de zorg: OpenAI voegt computer-agents en plugins toe",
-  "Apple test dagelijkse limieten voor zwaardere Siri AI-taken"
+  "Apple test dagelijkse limieten voor zwaardere Siri AI-taken",
+  "OpenAI helpt de NAVO met AI bij cyberdefensie",
+  "Revolut snijdt codetijd met 30 tot 60 procent dankzij OpenAI Codex",
+  "Sam Altman: AI-industrie redt het ook zonder Jensen Huang aan het roer"
  ]
 }

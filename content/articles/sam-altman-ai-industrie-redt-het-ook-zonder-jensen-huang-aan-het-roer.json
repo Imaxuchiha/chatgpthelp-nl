@@ -1,0 +1,67 @@
+{
+ "keyword": "sam altman nvidia",
+ "seo_title": "Sam Altman over Nvidia zonder Jensen Huang: industrie",
+ "title": "Sam Altman: AI-industrie redt het ook zonder Jensen Huang aan het roer",
+ "meta": "OpenAI-ceo Sam Altman zegt dat de AI-industrie 'fine' blijft zonder Jensen Huang als Nvidia-topman. Wat betekent dat voor AI-gebruikers en bedrijven in…",
+ "category": "nieuws",
+ "tags": [
+  "sam altman",
+  "openai",
+  "nvidia",
+  "jensen huang",
+  "ai-industrie"
+ ],
+ "intro": "OpenAI-ceo Sam Altman denkt dat de AI-industrie het ook zonder Jensen Huang als baas van Nvidia redt. Hij noemt de Nvidia-topman wel bijzonder voor de opkomst van AI. Meer details gaf hij niet.",
+ "takeaways": [
+  "Altman erkent dat Jensen Huang een aparte rol speelde in de AI-groei.",
+  "Volgens Altman blijft de industrie 'fine' als Huang vertrekt bij Nvidia.",
+  "OpenAI en Nvidia werken nauw samen bij de bouw van AI-systemen.",
+  "Er zijn geen concrete plannen voor een vertrek van Huang gemeld."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Altman precies zei",
+   "body": "Altman gaf tijdens een optreden antwoord op de vraag wat er gebeurt als Jensen Huang Nvidia verlaat. Volgens TechCrunch noemde hij eerst de bijzondere plek die Huang in de AI-groei heeft. Daarna zei hij dat de industrie het uiteindelijk 'fine' redt zonder hem.\n\nDie uitspraak is opvallend. Nvidia levert de chips waarop veel AI-modellen draaien, ook die van OpenAI. Toch schetst Altman geen rampbeeld bij een vertrek van Huang. Hij gaf geen tijdpad en noemde ook geen opvolger."
+  },
+  {
+   "heading": "Waarom Nvidia zo zwaar weegt in AI",
+   "body": "Nvidia maakt de grafische processoren die nodig zijn om grote AI-modellen te trainen en te draaien. De vraag naar die chips is de afgelopen jaren flink gegroeid. Daardoor werd Nvidia een van de meest gewaardeerde bedrijven ter wereld.\n\nHuang leidt Nvidia al sinds de oprichting in 1993. Hij geldt als het gezicht van het bedrijf en van de AI-chipmarkt. Een wisseling aan de top raakt dus niet alleen Nvidia, maar ook de hele toeleveringsketen eromheen."
+  },
+  {
+   "heading": "Wat OpenAI met Nvidia te maken heeft",
+   "body": "OpenAI huurt veel rekenkracht bij andere partijen en koopt zelf hardware voor zijn modellen. Nvidia is daarbij een grote leverancier. De twee bedrijven zijn zakelijk dus nauw verbonden.\n\nAltmans relativerende woorden zeggen iets over hoe hij naar die afhankelijkheid kijkt. Hij lijkt ervan uit te gaan dat de techniek en de markt sterk genoeg zijn om een leiderschapswissel op te vangen. Bewijs daarvoor geeft hij in het artikel niet."
+  },
+  {
+   "heading": "Geen teken van vertrek",
+   "body": "Er zijn geen berichten dat Huang daadwerkelijk weggaat bij Nvidia. De vraag kwam waarschijnlijk voort uit speculatie in de sector. Altman reageerde daarop met een kort antwoord.\n\nWat er gebeurt als Huang ooit stopt, blijft dus onduidelijk. Nvidia heeft zelf niets over een opvolging naar buiten gebracht."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die AI draaien op Nvidia-hardware verandert er nu niets. De chips blijven voorlopig gewoon leverbaar via de bestaande kanalen. Wel laat de uitspraak zien dat OpenAI minder zwaar leunt op één persoon bij zijn belangrijkste leverancier. Mocht er ooit een wissel komen, dan is de verwachting van Altman dat de markt doorloopt. Bedrijven die hun AI-planning op lange termijn maken, kunnen dat meenemen als risico dat kleiner is dan gedacht.",
+ "faq": [
+  {
+   "q": "Gaat Jensen Huang weg bij Nvidia?",
+   "a": "Daar is niets over bekend. De vraag kwam uit de sector, niet uit een aangekondigd vertrek."
+  },
+  {
+   "q": "Wat betekent dit voor OpenAI?",
+   "a": "Volgens Altman blijft de industrie draaien, ook zonder Huang aan het roer bij Nvidia. OpenAI koopt nog steeds veel hardware bij Nvidia."
+  },
+  {
+   "q": "Merken Nederlandse gebruikers hier iets van?",
+   "a": "Nee, de levering van Nvidia-chips en de AI-diensten van OpenAI veranderen voorlopig niet."
+  }
+ ],
+ "slug": "sam-altman-ai-industrie-redt-het-ook-zonder-jensen-huang-aan-het-roer",
+ "kind": "news",
+ "date": "2026-11-17",
+ "published": "2026-11-17T13:03",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+   "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/"
+  }
+ ],
+ "path": "/nieuws/sam-altman-ai-industrie-redt-het-ook-zonder-jensen-huang-aan-het-roer/",
+ "og": "/img/og/sam-altman-ai-industrie-redt-het-ook-zonder-jensen-huang-aan-het-roer.png"
+}

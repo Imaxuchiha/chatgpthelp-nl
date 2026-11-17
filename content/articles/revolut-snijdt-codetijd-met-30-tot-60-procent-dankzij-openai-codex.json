@@ -1,0 +1,68 @@
+{
+ "keyword": "revolut openai codex",
+ "seo_title": "Revolut openai codex: 30-60% sneller coderen",
+ "title": "Revolut snijdt codetijd met 30 tot 60 procent dankzij OpenAI Codex",
+ "meta": "Revolut gebruikt OpenAI-modellen en Codex voor sneller coderen en fraudeonderzoek. Wat betekent dat voor banken en developers in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "codex",
+  "revolut",
+  "fintech",
+  "developerproductiviteit"
+ ],
+ "intro": "Revolut zet OpenAI-modellen en Codex in om sneller software te bouwen en fraudezaken op te schalen. Volgens OpenAI levert dat een codetijdwinst op van 30 tot 60 procent. De Britse fintech houdt naar eigen zeggen de beveiliging op hetzelfde niveau.",
+ "takeaways": [
+  "Revolut gebruikt OpenAI-modellen en Codex in zijn ontwikkelproces.",
+  "Codeertijd daalt met 30 tot 60 procent, meldt OpenAI in een klantverhaal.",
+  "Ook financiële misdaadonderzoeken worden met de modellen opgeschaald.",
+  "Beveiliging blijft volgens Revolut even streng."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Revolut met de modellen doet",
+   "body": "OpenAI beschrijft in een klantverhaal hoe Revolut zijn modellen en Codex inzet bij softwareontwikkeling. Codex is de code-assistent van OpenAI. Die stelt code voor, vult functies aan en helpt bij het opsporen van fouten.\n\nHet effect is meetbaar volgens OpenAI: programmeurs besteden 30 tot 60 procent minder tijd aan code schrijven. Dat betekent niet dat er mensen verdwijnen. De tijdwinst gaat naar meer werk in dezelfde periode.\n\nRevolut gebruikt dezelfde techniek ook bij het onderzoek naar financiële criminaliteit. Het gaat om het doorzoeken en beoordelen van grote hoeveelheden gegevens. Dat werk groeit mee met het aantal klanten."
+  },
+  {
+   "heading": "Meer ambitie zonder concessies",
+   "body": "De titel van het klantverhaal zegt het al: meer ambitie zonder de lat lager te leggen. Revolut wil sneller nieuwe producten bouwen en tegelijk streng blijven op beveiliging. Volgens OpenAI lukt dat door de modellen binnen bestaande controleprocessen te gebruiken.\n\nHoe dat er technisch uitziet, maakt OpenAI niet precies. Duidelijk is dat het bedrijf de modellen inzet naast bestaande werkwijzen. Menselijke controle blijft onderdeel van het proces.\n\nRevolut is een van de grootste neobanken van Europa. Het bedrijf heeft een bankvergunning en groeit snel buiten het Verenigd Koninkrijk, ook in Nederland."
+  },
+  {
+   "heading": "Wat Codex precies is",
+   "body": "Codex is een model van OpenAI dat is getraind op programmeercode. Het werkt samen met tools als GitHub en kan zelfstandig stukken code uitvoeren. Ontwikkelaars geven een opdracht in gewone taal en krijgen code terug.\n\nIn de praktijk gaat het om kleine taken: een functie herschrijven, een test toevoegen, een fout reproduceren. De winst zit in de optelsom van al die kleine stappen. Bij een groot team telt dat op tot weken werk per jaar.\n\nOpenAI noemt de cijfers van Revolut zonder ze te onderbouwen met ruwe data. Neem de percentages dus als klantclaim, niet als onafhankelijk gemeten resultaat."
+  },
+  {
+   "heading": "Wat dit zegt over de markt",
+   "body": "Grote financiële instellingen kijken naar AI voor twee dingen: sneller bouwen en kosten drukken. Revolut laat zien dat beide samen kunnen gaan in één verhaal. Dat maakt het voorbeeld aantrekkelijk voor andere banken.\n\nTegelijk blijft de vraag hoe je zulke cijfers vergelijkt met je eigen team. Een startup met tien developers boekt andere winst dan een bank met duizenden programmeurs. De opzet van het ontwikkelproces bepaalt meer dan het model alleen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse banken en fintechs is dit een concreet voorbeeld om naar te kijken. De Europese AI-verordening vraagt bij AI in kredietbeslissingen om extra uitleg en controle. Bij code-assistentie ligt de lat lager, maar gegevensbescherming blijft gelden zodra klantdata in een model belandt. Wil je Codex of een vergelijkbare tool inzetten, regel dan eerst afspraken over welke data wel en niet meegaat naar de leverancier. Ook de Autoriteit Persoonsgegevens kijkt mee bij verwerking van persoonsgegevens van klanten.",
+ "faq": [
+  {
+   "q": "Wat doet Revolut met OpenAI Codex?",
+   "a": "Revolut gebruikt Codex bij het schrijven van code en bij onderzoek naar financiële criminaliteit. Volgens OpenAI scheelt dat 30 tot 60 procent codetijd."
+  },
+  {
+   "q": "Is Codex hetzelfde als ChatGPT?",
+   "a": "Nee. Codex is een model dat op programmeercode is gericht. ChatGPT is de gespreksassistent waarin je ook met Codex-achtige modellen kunt werken."
+  },
+  {
+   "q": "Kan mijn Nederlandse bedrijf dit ook gebruiken?",
+   "a": "Ja, OpenAI levert deze modellen ook in Nederland en de EU. Let wel op je eigen afspraken over data en controle voordat je klantgegevens instuurt."
+  }
+ ],
+ "slug": "revolut-snijdt-codetijd-met-30-tot-60-procent-dankzij-openai-codex",
+ "kind": "news",
+ "date": "2026-11-17",
+ "published": "2026-11-17T13:02",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How Revolut raises ambition without lowering the bar",
+   "url": "https://openai.com/business/customer-stories/revolut"
+  }
+ ],
+ "path": "/nieuws/revolut-snijdt-codetijd-met-30-tot-60-procent-dankzij-openai-codex/",
+ "og": "/img/og/revolut-snijdt-codetijd-met-30-tot-60-procent-dankzij-openai-codex.png",
+ "take": "Revolut claimt 30 tot 60 procent minder codetijd met Codex, en dat geloof ik best als het om standaardwerk gaat. Mijn vraag is wat zo'n koppeling kost per maand tegenover wat je zelf bouwt met een goedkope API en een tool als Claude Code. Ik betaal liever een paar tientjes aan tokens dan een abonnement op de zoveelste SaaS-laag waarvan ik de meerwaarde niet kan aanwijzen."
+}

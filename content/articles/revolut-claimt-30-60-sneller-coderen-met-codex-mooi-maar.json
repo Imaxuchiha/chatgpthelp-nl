@@ -1,0 +1,83 @@
+{
+ "keyword": "openai codex revolut",
+ "seo_title": "OpenAI Codex bij Revolut: 30-60% sneller coderen",
+ "title": "Revolut claimt 30-60% sneller coderen met Codex. Mooi, maar...",
+ "meta": "Revolut zegt 30 tot 60 procent sneller te coderen dankzij OpenAI Codex. Maxim van Adsvantage zet daar zijn vraagtekens bij: meten is weten.",
+ "category": "mening",
+ "tags": [
+  "OpenAI Codex",
+  "Revolut",
+  "AI in softwareontwikkeling",
+  "productiviteit",
+  "meten"
+ ],
+ "intro": "Revolut roept dat ze 30 tot 60 procent sneller coderen met OpenAI Codex. Top voor ze. Maar ik wil eerst zien hoe ze dat gemeten hebben.",
+ "takeaways": [
+  "Een codetijdwinst van 30 tot 60 procent is een claim die je pas serieus neemt met een duidelijke meetmethode.",
+  "AI-tools besparen pas echt tijd als je de output kunt controleren en de kwaliteit meetbaar blijft.",
+  "Meten vóór optimaliseren geldt net zo hard voor developers als voor advertentiecampagnes."
+ ],
+ "sections": [
+  {
+   "heading": "30 tot 60 procent sneller? Laat de meetdata maar zien",
+   "body": "Revolut zegt dus dat ze met OpenAI-modellen en Codex 30 tot 60 procent sneller software bouwen. Dat klinkt mooi, maar zonder meetmethode is het een marketingpraatje.\n\nIk zie dit vaker: bedrijven roepen percentages zonder te vertellen wat ze precies gemeten hebben. Gaat het om regels code per uur? Om doorlooptijd van een feature? Om het aantal pull requests? Zonder die context zegt zo'n getal weinig.\n\nIn mijn eigen werk meet ik alles. Bij een webshop verdubbelden we in juni het budget en de ROAS bleef op 4,9 staan. Dat wist ik pas zeker omdat de meting klopte. Zo werkt het ook met AI-tools: je moet de output kunnen controleren."
+  },
+  {
+   "heading": "AI-code is pas winst als de kwaliteit meebeweegt",
+   "body": "Revolut zegt dat de beveiliging op hetzelfde niveau blijft. Dat is een claim die ik graag zie onderbouwd. Code sneller schrijven betekent niets als je daarna meer tijd kwijt bent aan bugs fixen of security patches.\n\nZelf gebruik ik Claude Code dagelijks. Het verschil met chatten is dat het echt bestanden, scripts en API's aanstuurt. Dat scheelt tijd, maar ik controleer nog steeds wat eruit komt. Vooral bij dingen die geld kosten of waar klantdata doorheen gaat.\n\nAI mag het werk doen, maar de geld-knoppen blijven bij een mens. Dat geldt voor advertentiebudgetten, maar ook voor code die naar productie gaat."
+  },
+  {
+   "heading": "De echte les: meet je eigen tijdsbesparing",
+   "body": "Wat moet je als Nederlandse ondernemer of developer met dit nieuws? Je kunt Codex of Claude Code prima uitproberen, maar meet je eigen productiviteit. Zet een simpel logboek op: hoe lang duurde een taak zonder AI, hoe lang met AI?\n\nBij mij thuis werkte het nieuwe DeepSeek-flash-model eerst niet. Het gaf lege antwoorden omdat het al zijn tokens gebruikte om na te denken. Denken uitzetten en het werkte: 3 artikelen, een meme en een prompt voor 0,6 dollarcent. Dat is pas een meetbare winst.\n\nPas als je zelf ziet dat je sneller werkt zonder kwaliteitsverlies, is zo'n tool het geld waard. Niet omdat een fintech uit Londen dat roept."
+  }
+ ],
+ "nl_angle": "Nederlandse developers en ondernemers moeten niet blind varen op claims van bedrijven als Revolut. Test zelf, meet je eigen tijdsbesparing en controleer de kwaliteit. Alleen dan weet je of een tool echt iets oplevert. En onthoud: een demo is geen product, en een percentage zonder meetmethode is geen bewijs.",
+ "faq": [
+  {
+   "q": "Is OpenAI Codex ook geschikt voor kleine Nederlandse bedrijven?",
+   "a": "Codex is vooral gericht op softwareontwikkeling. Voor kleine bedrijven zonder eigen developers is het minder relevant. Maar vergelijkbare AI-tools zoals Claude Code kunnen ook voor automatisering van rapportages of websites worden gebruikt."
+  },
+  {
+   "q": "Hoe meet je of een AI-tool echt tijd bespaart?",
+   "a": "Zet een simpel logboek op. Noteer hoe lang een taak zonder AI duurde en hoe lang met AI. Vergelijk ook de kwaliteit van het resultaat. Pas als je consequent sneller werkt zonder kwaliteitsverlies, is de tool de kosten waard."
+  }
+ ],
+ "lessons_used": [
+  "Les juni-doorbraak-schalen",
+  "Les deepseek-denken-uit"
+ ],
+ "slug": "revolut-claimt-30-60-sneller-coderen-met-codex-mooi-maar",
+ "kind": "column",
+ "date": "2026-11-17",
+ "published": "2026-11-17T13:01",
+ "sources": [
+  {
+   "name": "ChatGPT Help",
+   "title": "Sam Altman: AI-industrie redt het ook zonder Jensen Huang aan het roer",
+   "url": "https://chatgpthelp.nl/nieuws/sam-altman-ai-industrie-redt-het-ook-zonder-jensen-huang-aan-het-roer/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Revolut snijdt codetijd met 30 tot 60 procent dankzij OpenAI Codex",
+   "url": "https://chatgpthelp.nl/nieuws/revolut-snijdt-codetijd-met-30-tot-60-procent-dankzij-openai-codex/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "OpenAI helpt de NAVO met AI bij cyberdefensie",
+   "url": "https://chatgpthelp.nl/nieuws/openai-helpt-de-navo-met-ai-bij-cyberdefensie/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Apple test dagelijkse limieten voor zwaardere Siri AI-taken",
+   "url": "https://chatgpthelp.nl/nieuws/apple-test-dagelijkse-limieten-voor-zwaardere-siri-ai-taken/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "ChatGPT voor de zorg: OpenAI voegt computer-agents en plugins toe",
+   "url": "https://chatgpthelp.nl/nieuws/chatgpt-voor-de-zorg-openai-voegt-computer-agents-en-plugins-toe/"
+  }
+ ],
+ "path": "/mening/revolut-claimt-30-60-sneller-coderen-met-codex-mooi-maar/",
+ "og": "/img/og/revolut-claimt-30-60-sneller-coderen-met-codex-mooi-maar.png",
+ "author": "Maxim"
+}
