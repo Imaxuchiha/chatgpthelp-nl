@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: oppasinstructies voor de vakantie op papier",
+ "situation": "Je gaat een week weg en de oppas of grootouders passen op. Met deze prompt zet je alle afspraken, ritmes en noodnummers overzichtelijk op één vel.",
+ "prompt": "Je bent een ervaren oppascoördinator. Ik ga van [DATUM VAN] tot [DATUM TOT] weg en [NAAM OPPAS] past op mijn [AANTAL] kind(eren) van [LEEFTIJDEN]. Schrijf een helder invulblad van maximaal één A4 met deze kopjes: dagritme (opstaan, eten, slapen), eten en drinken met eventuele allergieën, schermtijd en wat wel en niet mag, bedtijdritueel, medicijnen of bijzonderheden per kind, noodnummers (huisarts, ouders, buurvrouw), en wat te doen bij kleine ongelukjes. Gebruik korte zinnen en checkvakjes waar dat kan. Verwerk deze input: [BESCHRIJF JULLIE GEWOONTES, RITME EN REGELS]. Sluit af met drie vragen die de oppas vooraf met ons moet doornemen. Houd de toon rustig en praktisch, zonder overbodige uitleg.",
+ "tip": "Vraag om een tweede versie in telegramstijl voor op de koelkast, naast het uitgebreide blad.",
+ "tags": [
+  "thuis",
+  "gezin",
+  "oppas",
+  "vakantie"
+ ],
+ "date": "2026-11-18",
+ "slug": "prompt-oppasinstructies-voor-de-vakantie-op-papier",
+ "path": "/prompts/2026-11-18-prompt-oppasinstructies-voor-de-vakantie-op-papier/"
+}

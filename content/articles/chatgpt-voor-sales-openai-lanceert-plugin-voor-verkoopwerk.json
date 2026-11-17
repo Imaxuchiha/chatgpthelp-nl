@@ -1,0 +1,67 @@
+{
+ "keyword": "chatgpt voor sales",
+ "seo_title": "ChatGPT voor sales: nieuwe plugin voor verkoopteams",
+ "title": "ChatGPT voor sales: OpenAI lanceert plugin voor verkoopwerk",
+ "meta": "OpenAI brengt ChatGPT voor sales uit, met een Sales-plugin en ruim 30 partnerplugins. Lees wat het doet en wat het voor Nederlandse teams betekent.",
+ "category": "nieuws",
+ "tags": [
+  "chatgpt",
+  "openai",
+  "sales",
+  "plugins",
+  "crm"
+ ],
+ "intro": "OpenAI heeft een Sales-plugin voor ChatGPT aangekondigd, samen met meer dan dertig nieuwe en uitgebreide partnerplugins. Verkoopteams moeten daarmee prospects kunnen onderzoeken, pitches voorbereiden en hun CRM bijwerken. Het is de eerste keer dat OpenAI ChatGPT zo expliciet op één beroepsgroep richt.",
+ "takeaways": [
+  "OpenAI lanceert een Sales-plugin in ChatGPT voor verkoopwerk.",
+  "Er komen meer dan 30 nieuwe en uitgebreide partnerplugins bij.",
+  "De plugin is bedoeld voor prospectonderzoek, pitchvoorbereiding en CRM-werk.",
+  "OpenAI noemt geen prijs, releasedatum of beschikbaarheid per land."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de Sales-plugin doet",
+   "body": "Volgens OpenAI is de Sales-plugin gemaakt om verkoopwerk in ChatGPT samen te brengen. Je kunt er prospects mee onderzoeken voordat je contact opneemt. Ook kun je een pitch voorbereiden op basis van wat je over een klant weet.\n\nDaarnaast moet de plugin helpen je CRM bij te werken. Dat betekent dat je gegevens over een deal vastlegt zonder tussen systemen te wisselen. OpenAI zegt dat de plugin bedoeld is om deals vooruit te helpen. Hoe dat in de praktijk werkt, maakt het bedrijf nog niet concreet."
+  },
+  {
+   "heading": "Dertig partnerplugins erbij",
+   "body": "Naast de eigen Sales-plugin breidt OpenAI het aantal partnerplugins uit. Het gaat om meer dan dertig plugins die nieuw zijn of een grotere functie krijgen. Partnerplugins zijn koppelingen die andere bedrijven op ChatGPT bouwen, bijvoorbeeld voor software die je al gebruikt.\n\nOpenAI noemt in de aankondiging geen namen van partners. Welke tools precies aansluiten, is dus nog niet bekend. Dat maakt het lastig om te bepalen of jouw eigen software straks mee kan doen."
+  },
+  {
+   "heading": "Verkoop als eerste doelgroep",
+   "body": "Met deze stap richt OpenAI ChatGPT op een specifieke groep gebruikers. Verkoopteams werken veel met losse tools: een CRM, een zoekmachine en documenten met klantinformatie. Een plugin die dat samenbrengt, kan tijd schelen.\n\nToch blijft veel onduidelijk. OpenAI geeft geen voorbeelden van bedrijven die de plugin al testen. Ook is er geen informatie over hoe betrouwbaar de CRM-updates zijn. Bij verkoopdata telt een foutje zwaar, want een verkeerd klantrecord kost omzet."
+  },
+  {
+   "heading": "Wat OpenAI nog niet zegt",
+   "body": "De aankondiging noemt geen prijs. Ook is er geen releasedatum en geen lijst van landen waar de plugin direct werkt. Voor Nederlandse gebruikers is dat het belangrijkste gat in de informatie.\n\nChatGPT is in Nederland en de rest van de EU beschikbaar, maar nieuwe functies komen niet altijd meteen hierheen. Soms spelen taal- en regelgeving mee. OpenAI heeft daarover in deze aankondiging niets gezegd. Zodra er meer bekend is, wordt dat duidelijk."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse verkoopteams betekent dit vooral een vraag: wanneer kun je de Sales-plugin hier gebruiken? OpenAI noemt geen datum en geen prijs, dus je kunt er nu nog niet op plannen. Bedrijven die met een CRM werken, kunnen wel opletten welke partnerplugins straks aansluiten. Kijk daarbij ook naar de Europese regels voor persoonsgegevens, want klantdata in een AI-tool valt onder de AVG. Zet je klantgegevens in ChatGPT, dan blijft de verwerkingsverantwoordelijkheid bij jouw bedrijf liggen.",
+ "faq": [
+  {
+   "q": "Wat is de ChatGPT Sales-plugin?",
+   "a": "Dat is een plugin van OpenAI waarmee je in ChatGPT prospects onderzoekt, pitches voorbereidt en je CRM bijwerkt. OpenAI noemt nog geen precieze werkwijze."
+  },
+  {
+   "q": "Wanneer komt ChatGPT voor sales naar Nederland?",
+   "a": "Dat is nog niet bekend. OpenAI geeft in de aankondiging geen releasedatum en geen lijst van landen."
+  },
+  {
+   "q": "Wat kost de Sales-plugin?",
+   "a": "OpenAI noemt geen prijs. Ook is niet duidelijk of de plugin bij een bestaand abonnement hoort of apart wordt afgerekend."
+  }
+ ],
+ "slug": "chatgpt-voor-sales-openai-lanceert-plugin-voor-verkoopwerk",
+ "kind": "news",
+ "date": "2026-11-18",
+ "published": "2026-11-18T00:27",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Introducing ChatGPT for Sales",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales"
+  }
+ ],
+ "path": "/nieuws/chatgpt-voor-sales-openai-lanceert-plugin-voor-verkoopwerk/",
+ "og": "/img/og/chatgpt-voor-sales-openai-lanceert-plugin-voor-verkoopwerk.png"
+}

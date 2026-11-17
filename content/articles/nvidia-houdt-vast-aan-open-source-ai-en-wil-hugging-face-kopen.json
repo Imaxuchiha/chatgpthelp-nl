@@ -1,0 +1,68 @@
+{
+ "keyword": "nvidia hugging face",
+ "seo_title": "Nvidia hugging face: open-source strategie blijft na",
+ "title": "Nvidia houdt vast aan open-source AI en wil Hugging Face kopen",
+ "meta": "Nvidia zet zijn open-source AI-strategie voort na het plotselinge vertrek van Jensen Huang. Het bedrijf wil Hugging Face overnemen. Wat betekent dat in…",
+ "category": "nieuws",
+ "tags": [
+  "nvidia",
+  "hugging face",
+  "open source",
+  "jensen huang",
+  "ai"
+ ],
+ "intro": "Nvidia houdt vast aan zijn strategie voor open-source AI. Dat zegt de waarnemend topman van het bedrijf, een dag na het onverwachte vertrek van Jensen Huang. Tegelijk wil Nvidia Hugging Face overnemen. Dat meldt TechCrunch.",
+ "takeaways": [
+  "De waarnemend ceo van Nvidia bevestigt dat de open-source aanpak van het bedrijf ongewijzigd blijft.",
+  "Nvidia is van plan Hugging Face te kopen.",
+  "Het vertrek van Jensen Huang kwam onverwacht en is nog niet toegelicht.",
+  "Veel AI-modellen die Nederlandse ontwikkelaars gebruiken, staan op Hugging Face."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies gebeurde",
+   "body": "Jensen Huang is plotseling vertrokken bij Nvidia. Details over zijn vertrek geeft het bedrijf niet. TechCrunch meldt dat de waarnemend ceo daags erna naar buiten trad met een korte verklaring.\n\nDaarin staat dat de open-source strategie van Nvidia intact blijft. Ook de plannen om Hugging Face over te nemen gaan door. Wie de waarnemend ceo is, maakt het bericht niet duidelijk."
+  },
+  {
+   "heading": "Waarom Hugging Face ertoe doet",
+   "body": "Hugging Face is een platform waar ontwikkelaars AI-modellen delen en downloaden. Veel bedrijven bouwen hun eigen toepassingen op modellen die daar staan. Een overname door Nvidia geeft de chipmaker invloed op dat ecosysteem.\n\nNvidia levert de videokaarten waarop veel AI-modellen worden getraind en gedraaid. Met Hugging Face in handen komt het bedrijf dichter bij de softwarekant. Of de overname al is goedgekeurd, is niet bekend."
+  },
+  {
+   "heading": "Open source als strategie",
+   "body": "Nvidia zet al langer in op open modellen en gereedschap. Dat trekt ontwikkelaars die zelf willen sleutelen aan AI. Voor het bedrijf is dat een manier om vraag naar zijn hardware vast te houden.\n\nDe bevestiging na het vertrek van Huang lijkt bedoeld om rust te brengen. Grote klanten willen weten of de koers verandert. Volgens de waarnemend ceo is dat niet het geval."
+  },
+  {
+   "heading": "Wat nog onduidelijk is",
+   "body": "Over de reden van Huang's vertrek is niets naar buiten gebracht. Ook is niet bekend wie hem definitief opvolgt. De overname van Hugging Face kent nog geen prijs of tijdlijn.\n\nTechCrunch noemt geen bedragen en geen datum waarop de deal rond moet zijn. Zodra daar meer over bekend is, wordt dat duidelijk."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en AI-startups is Hugging Face een veelgebruikte bron van modellen. Komt het platform in handen van Nvidia, dan kan het beleid veranderen: denk aan toegang, prijzen of voorwaarden voor commercieel gebruik. Europese regels rond mededinging kunnen bovendien een rol spelen bij zo'n overname. Bedrijven die nu op deze modellen bouwen, doen er goed aan hun afhankelijkheid van één platform te spreiden. Concrete prijzen in euro's of nieuwe voorwaarden zijn nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is Hugging Face?",
+   "a": "Een platform waar ontwikkelaars AI-modellen en datasets delen en downloaden. Veel AI-toepassingen bouwen erop voort."
+  },
+  {
+   "q": "Waarom vertrok Jensen Huang bij Nvidia?",
+   "a": "Dat is niet bekendgemaakt. Het bedrijf heeft alleen bevestigd dat de strategie ongewijzigd blijft."
+  },
+  {
+   "q": "Verandert er iets voor gebruikers van Nvidia-hardware?",
+   "a": "Voorlopig niet. De open-source aanpak blijft volgens Nvidia gelijk, en de overname van Hugging Face is nog niet afgerond."
+  }
+ ],
+ "slug": "nvidia-houdt-vast-aan-open-source-ai-en-wil-hugging-face-kopen",
+ "kind": "news",
+ "date": "2026-11-18",
+ "published": "2026-11-18T00:28",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+  }
+ ],
+ "path": "/nieuws/nvidia-houdt-vast-aan-open-source-ai-en-wil-hugging-face-kopen/",
+ "og": "/img/og/nvidia-houdt-vast-aan-open-source-ai-en-wil-hugging-face-kopen.png",
+ "take": "Nvidia zegt open-source trouw te blijven en wil tegelijk Hugging Face kopen. Dat lees ik als een demo, geen product: eerst zien wat er na die overname echt open blijft, dan geloven. Ik heb zelf niets met Hugging Face gedaan, dus ik wacht op iets dat ik kan testen voordat ik er waarde aan hang."
+}

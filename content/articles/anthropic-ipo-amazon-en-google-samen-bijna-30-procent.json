@@ -1,0 +1,69 @@
+{
+ "keyword": "anthropic ipo",
+ "seo_title": "Anthropic IPO: Amazon en Google samen bijna 30 procent",
+ "title": "Anthropic IPO: Amazon en Google samen bijna 30 procent",
+ "meta": "Na de Anthropic IPO bezitten Amazon en Google samen bijna 30 procent van het AI-bedrijf. Wat dat betekent voor Claude en voor bedrijven in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "anthropic",
+  "ipo",
+  "amazon",
+  "google",
+  "claude",
+  "ai"
+ ],
+ "intro": "Amazon en Google krijgen samen bijna 30 procent van Anthropic in handen na de beursgang van het AI-bedrijf. Amazon komt net onder de 15 procent uit, Google volgt met bijna 14 procent. TechCrunch meldt dat Amazon zijn belang daarna nog flink kan uitbreiden.",
+ "takeaways": [
+  "Amazon bezit na de IPO net geen 15 procent van Anthropic.",
+  "Google staat daar dicht achter met bijna 14 procent.",
+  "Samen komen de twee techgiganten op bijna 30 procent.",
+  "Amazon houdt een optie om zijn belang veel groter te maken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de cijfers zeggen",
+   "body": "De aandelenverhouding wordt duidelijk rond de beursgang van Anthropic. Amazon krijgt iets minder dan 15 procent, Google zit daar net onder met bijna 14 procent. Opgeteld is dat bijna een derde van het bedrijf achter Claude.\n\nTechCrunch schrijft dat Amazon de mogelijkheid heeft om zijn stuk aanzienlijk te vergroten. Hoe groot dat extra belang precies kan worden, is nog niet bekend. Ook de prijs per aandeel en de waardering bij de IPO noemt de bron niet."
+  },
+  {
+   "heading": "Waarom twee eigenaren opvalt",
+   "body": "Amazon en Google zijn allebei concurrent van Anthropic op de AI-markt. Ze bouwen eigen modellen en verkopen clouddiensten waar AI-bedrijven op draaien. Een groot belang in een rivaal geeft invloed op de koers van dat bedrijf.\n\nVoor Anthropic betekent de spreiding van aandelen dat het niet onder één hoedje valt. De twee grootste aandeelhouders houden elkaar in evenwicht. Of dat in de praktijk ook zo uitpakt, moet blijken zodra het bedrijf als beursgenoot moet rapporteren."
+  },
+  {
+   "heading": "Claude blijft het product",
+   "body": "Anthropic is het bedrijf achter Claude, de chatbot die veel Nederlanders kennen als alternatief voor ChatGPT. Een beursgang verandert in eerste instantie weinig aan hoe je Claude gebruikt. De dienst draait gewoon door.\n\nWat wel kan verschuiven, is de druk op groei. Beursgenoteerde bedrijven moeten elk kwartaal cijfers laten zien. Dat kan leiden tot snellere prijsaanpassingen of nieuwe abonnementen. Concrete plannen daarvoor zijn nog niet naar buiten gebracht."
+  },
+  {
+   "heading": "Nog geen datum of prijs",
+   "body": "Over de timing van de beursgang is niets bevestigd in de bron. Ook een beoogde opbrengst of beurswaarde ontbreekt. Zulke gegevens komen doorgaans pas vlak voor de daadwerkelijke stap naar de beurs naar buiten.\n\nVoor beleggers in Nederland is het nog afwachten of en waar het aandeel verhandelbaar wordt. Een notering in de Verenigde Staten sluit een Europese toegang niet uit, maar daar is niets over gemeld."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die Claude gebruiken via de API of een zakelijk abonnement, verandert er op korte termijn weinig aan de dienst zelf. De eigenaren achter het bedrijf worden wel zichtbaarder, en dat raakt de vraag hoe onafhankelijk Anthropic blijft van Amazon en Google. Let op: dit is geen beleggingsadvies. Of je via een Nederlandse broker kunt instappen, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Hoeveel procent van Anthropic krijgt Amazon?",
+   "a": "Amazon krijgt net geen 15 procent na de beursgang. Het bedrijf houdt daarnaast een optie om zijn belang flink te vergroten."
+  },
+  {
+   "q": "Wanneer gaat Anthropic naar de beurs?",
+   "a": "Een datum is nog niet bevestigd. Ook de waardering en de prijs per aandeel zijn nog niet bekendgemaakt."
+  },
+  {
+   "q": "Verandert er iets aan Claude door de beursgang?",
+   "a": "Aan de werking van Claude verandert op korte termijn niets. Als beursgenoot krijgt Anthropic wel meer druk om elk kwartaal groei te laten zien."
+  }
+ ],
+ "slug": "anthropic-ipo-amazon-en-google-samen-bijna-30-procent",
+ "kind": "news",
+ "date": "2026-11-18",
+ "published": "2026-11-18T00:29",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+  }
+ ],
+ "path": "/nieuws/anthropic-ipo-amazon-en-google-samen-bijna-30-procent/",
+ "og": "/img/og/anthropic-ipo-amazon-en-google-samen-bijna-30-procent.png",
+ "take": "Amazon en Google krijgen samen bijna 30 procent van Anthropic, dus Claude draait straks op de agenda van twee bedrijven die zelf ook AI bouwen. Voor mijn werk maakt dat weinig uit zolang de tool blijft leveren wat hij nu levert: ik betaal voor Claude Code omdat het mijn rapportages en analyses zelf uitvoert, en dat is tijd die ik kan aanwijzen. Verandert de koers of de prijs, dan pak ik gewoon DeepSeek als werkpaard erbij."
+}

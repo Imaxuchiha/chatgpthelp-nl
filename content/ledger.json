@@ -3251,6 +3251,18 @@
   "3aa0c6065a": {
    "at": "2026-11-17T21:01:23.765738",
    "why": "ok"
+  },
+  "c6c361c53b": {
+   "at": "2026-11-18T00:27:28.421620",
+   "why": "ok"
+  },
+  "8f07365d37": {
+   "at": "2026-11-18T00:28:28.421620",
+   "why": "ok"
+  },
+  "b397f013e7": {
+   "at": "2026-11-18T00:29:28.421620",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3816,6 +3828,9 @@
   "Sam Altman: AI-industrie redt het ook zonder Jensen Huang aan het roer",
   "OpenAI lanceert GPT-6.2 Astra en Sol voor werk en code",
   "Google Tasks AI-agent: Spark wordt gratis en doet je mail en agenda",
-  "Gemini Tasks breder beschikbaar: bellen en kopen namens jou"
+  "Gemini Tasks breder beschikbaar: bellen en kopen namens jou",
+  "ChatGPT voor sales: OpenAI lanceert plugin voor verkoopwerk",
+  "Nvidia houdt vast aan open-source AI en wil Hugging Face kopen",
+  "Anthropic IPO: Amazon en Google samen bijna 30 procent"
  ]
 }
