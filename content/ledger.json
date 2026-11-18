@@ -3275,6 +3275,22 @@
   "035e817066": {
    "at": "2026-11-18T12:56:16.085459",
    "why": "ok"
+  },
+  "53f2a14376": {
+   "at": "2026-11-18T20:33:01.696590",
+   "why": "ok"
+  },
+  "d7174b90d1": {
+   "at": "2026-11-18T20:34:01.696590",
+   "why": "poort"
+  },
+  "61a25aea71": {
+   "at": "2026-11-18T20:34:01.696590",
+   "why": "ok"
+  },
+  "00a34e9a7f": {
+   "at": "2026-11-18T20:35:01.696590",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3846,6 +3862,9 @@
   "Anthropic IPO: Amazon en Google samen bijna 30 procent",
   "ChatGPT krijgt Le Figaro: wat OpenAI's deal met de Franse krant betekent",
   "Google bewaart Gemini-gesprekken tijdelijk twee maanden",
-  "Copilot helpt binnenkort bij pc-problemen, meldt Microsoft"
+  "Copilot helpt binnenkort bij pc-problemen, meldt Microsoft",
+  "Codex sandbox: OpenAI legt uit hoe het je bestanden en netwerk begrenst",
+  "Google AI Mode krijgt incognito: gesprekken niet in je zoekgeschiedenis",
+  "Disney animatronics ai: Star Wars-figuren reageren op bezoekers"
  ]
 }

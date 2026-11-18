@@ -1,0 +1,67 @@
+{
+ "keyword": "google ai mode incognito",
+ "seo_title": "Google AI Mode incognito: gesprekken niet opgeslagen",
+ "title": "Google AI Mode krijgt incognito: gesprekken niet in je zoekgeschiedenis",
+ "meta": "Google AI Mode heeft nu tijdelijke gesprekken. Je chat verdwijnt uit je zoekgeschiedenis en beïnvloedt je aanbevelingen niet. Zo werkt het.",
+ "category": "nieuws",
+ "tags": [
+  "google",
+  "ai mode",
+  "privacy",
+  "zoekgeschiedenis",
+  "incognito"
+ ],
+ "intro": "Google heeft een privéstand toegevoegd aan AI Mode in Zoeken. Gesprekken die je daar voert, komen niet in je zoekgeschiedenis en sturen je latere aanbevelingen niet bij. TechCrunch meldt dat de functie tijdelijke gesprekken heet.",
+ "takeaways": [
+  "Google AI Mode krijgt tijdelijke gesprekken, een soort incognitostand voor de AI-chat in Zoeken.",
+  "Wat je in die stand typt, belandt niet in je zoekgeschiedenis.",
+  "De gesprekken beïnvloeden je toekomstige aanbevelingen niet.",
+  "Google maakte de functie bekend op 18 november 2026, volgens TechCrunch."
+ ],
+ "sections": [
+  {
+   "heading": "Wat tijdelijke gesprekken precies doen",
+   "body": "AI Mode is de chatfunctie bovenin Google Zoeken. Je stelt daar vragen en krijgt een samengesteld antwoord met links. Normaal bewaart Google die gesprekken, net als je gewone zoekopdrachten.\n\nMet tijdelijke gesprekken zet je dat opslaan uit. De chat verdwijnt uit je zoekgeschiedenis. Ook gebruikt Google de inhoud niet om je latere resultaten of aanbevelingen te sturen. Dat is vergelijkbaar met incognitomodus in een browser, maar dan voor de AI-chat in Zoeken.\n\nTechCrunch schrijft dat gebruikers zo gesprekken kunnen voeren zonder sporen achter te laten in hun account. Hoe lang de functie precies beschikbaar is per gesprek, maakt de bron niet duidelijk."
+  },
+  {
+   "heading": "Waarom Google dit toevoegt",
+   "body": "Mensen stellen in AI Mode soms vragen die ze liever niet in hun profiel terugzien. Denk aan gezondheidsklachten, schulden of sollicitaties. Een gesprek dat maanden later opduikt in je geschiedenis kan ongemakkelijk zijn.\n\nGoogle speelt met deze stand in op die wens naar meer controle. Het bedrijf zegt volgens TechCrunch dat tijdelijke gesprekken niet meetellen voor je aanbevelingen. Dat betekent wel dat je minder gepersonaliseerde antwoorden krijgt in die stand.\n\nOf Google de gesprekken op de achtergrond toch kort bewaart voor misbruik of veiligheid, is niet bekend uit de bron."
+  },
+  {
+   "heading": "Wat het betekent voor je privacy",
+   "body": "De privéstand lost één ding op: je chat komt niet in je eigen geschiedenis. Het is geen volledige anonimiteit. Je bent nog steeds ingelogd bij Google en het bedrijf ziet het verkeer.\n\nWil je echt niets delen, dan blijft de vuistregel: voer geen namen, adressen of medische details in. Dat geldt voor elke AI-chat, ook in een tijdelijke modus.\n\nTechCrunch noemt geen einddatum of uitrolschema. Het is dus nog niet duidelijk of iedereen de functie meteen ziet."
+  },
+  {
+   "heading": "AI Mode in Nederland",
+   "body": "AI Mode is in Nederland beschikbaar in het Nederlands. De tijdelijke gesprekken komen in dezelfde omgeving. Of de functie hier op dezelfde dag live gaat als in de Verenigde Staten, vermeldt de bron niet.\n\nGoogle rolt dit soort functies vaak eerst in Engelstalige landen uit. Nederlanders kunnen dus te maken krijgen met een korte wachttijd. Controleer in je Google-account of de optie al zichtbaar is bij AI Mode."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers verandert er vooral iets aan de omgang met gevoelige vragen. Je kunt in AI Mode nu een gesprek voeren over bijvoorbeeld een aandoening of een arbeidsconflict, zonder dat het in je zoekgeschiedenis blijft staan. Let op: de chat is niet anoniem. Google ziet je account nog steeds, en de precieze bewaartermijn is niet gepubliceerd. Bedrijven die Google Zoeken gebruiken voor klantcontact doen er goed aan medewerkers te wijzen op het verschil tussen een gewoon gesprek en een tijdelijk gesprek.",
+ "faq": [
+  {
+   "q": "Wat is een tijdelijk gesprek in Google AI Mode?",
+   "a": "Een chat in AI Mode die niet in je zoekgeschiedenis komt en je aanbevelingen niet beïnvloedt. Het lijkt op incognitomodus, maar dan voor de AI-chat in Zoeken."
+  },
+  {
+   "q": "Is Google AI Mode incognito echt anoniem?",
+   "a": "Nee. Je bent nog ingelogd bij Google en het bedrijf ziet je verkeer. De stand voorkomt alleen dat het gesprek in je geschiedenis en aanbevelingen terechtkomt."
+  },
+  {
+   "q": "Is de functie al beschikbaar in Nederland?",
+   "a": "AI Mode werkt in Nederland, maar TechCrunch noemt geen uitrolschema voor tijdelijke gesprekken. Het is niet bekend of de optie hier op dezelfde dag beschikbaar is."
+  }
+ ],
+ "slug": "google-ai-mode-krijgt-incognito-gesprekken-niet-in-je-zoekgeschiedenis",
+ "kind": "news",
+ "date": "2026-11-18",
+ "published": "2026-11-18T20:34",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Google’s AI feature in Search gets its own incognito mode",
+   "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"
+  }
+ ],
+ "path": "/nieuws/google-ai-mode-krijgt-incognito-gesprekken-niet-in-je-zoekgeschiedenis/",
+ "og": "/img/og/google-ai-mode-krijgt-incognito-gesprekken-niet-in-je-zoekgeschiedenis.png"
+}

@@ -1,0 +1,68 @@
+{
+ "keyword": "codex sandbox",
+ "seo_title": "Codex sandbox: zo begrenst OpenAI je bestanden en netwerk",
+ "title": "Codex sandbox: OpenAI legt uit hoe het je bestanden en netwerk begrenst",
+ "meta": "OpenAI legt uit hoe de Codex sandbox commando's op je computer uitvoert met limieten voor bestanden en netwerk, op macOS, Linux en Windows.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "codex",
+  "beveiliging",
+  "ontwikkelaars",
+  "sandbox"
+ ],
+ "intro": "OpenAI heeft in een technische uitleg laten zien hoe de Codex sandbox werkt. Codex voert commando's uit op je eigen machine, maar houdt zich aan grenzen die jij instelt voor bestanden en netwerk. Dat gebeurt op macOS, Linux en Windows. Voor ontwikkelaars die een AI-assistent code laten draaien, is dat het punt waar vertrouwen en risico samenkomen.",
+ "takeaways": [
+  "Codex draait commando's op je eigen computer, binnen door jou ingestelde limieten.",
+  "De sandbox begrenst zowel toegang tot het bestandssysteem als netwerkverkeer.",
+  "OpenAI ondersteunt dit op macOS, Linux en Windows.",
+  "De uitleg komt van OpenAI zelf; onafhankelijke tests zijn niet genoemd."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de sandbox precies doet",
+   "body": "De Codex sandbox is de laag die bepaalt wat een commando wel en niet mag. Volgens OpenAI draait Codex opdrachten op je machine, terwijl de sandbox de toegang tot bestanden en het netwerk beperkt. Die grenzen stel je zelf in.\n\nHet gaat dus om een afscherming rond het werk dat de assistent uitvoert. Een commando dat buiten de ingestelde grenzen valt, hoort daar volgens de opzet niet doorheen te komen. OpenAI noemt in de uitleg drie besturingssystemen waar dit werkt: macOS, Linux en Windows."
+  },
+  {
+   "heading": "Waarom dit voor ontwikkelaars telt",
+   "body": "Een AI-assistent die code schrijft, wil je soms ook dingen laten uitvoeren. Denk aan een testcommando of een script dat bestanden aanpast. Zonder begrenzing krijgt zo'n assistent dezelfde toegang als jijzelf.\n\nDe sandbox moet dat afknellen tot wat jij toestaat. Voor teams die met Codex werken, is dat het verschil tussen een hulpmiddel dat meeleest en een dat zelfstandig op je systeem rondloopt. OpenAI levert de uitleg zelf; hoe de sandbox in de praktijk presteert bij aanvallen, blijkt er niet uit."
+  },
+  {
+   "heading": "Drie systemen, een aanpak",
+   "body": "OpenAI noemt macOS, Linux en Windows in één adem. Dat is praktisch: veel ontwikkelaars wisselen tussen die omgevingen, of werken in een team waar iedereen iets anders gebruikt.\n\nDe precieze technische invulling per systeem licht OpenAI in de bijdrage toe. Wat er niet in staat, is een lijst met bekende zwakke plekken of een tijdlijn voor updates. Wie de sandbox zakelijk inzet, doet er goed aan de instellingen zelf te controleren."
+  },
+  {
+   "heading": "Wat nog open blijft",
+   "body": "De uitleg is technisch van aard en komt van de maker van Codex. Onafhankelijke beveiligingsonderzoekers komen er niet in voor. Cijfers over hoe vaak de sandbox iets tegenhoudt, ontbreken.\n\nOok is niet duidelijk of de grenzen per project of per sessie gelden. OpenAI zegt daar in de samenvatting niets over. Voor Nederlandse teams die Codex op klantcode zetten, is dat een vraag om zelf uit te zoeken in de instellingen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en bureaus verandert er weinig aan de regels, wel aan het gereedschap. Codex draait lokaal op je eigen laptop of werkomgeving, dus de sandbox-instellingen bepalen hoe ver de assistent komt met jouw bestanden en netwerk. Werk je met klantcode of persoonsgegevens, stel de grenzen dan bewust in en test ze voordat je Codex loslaat. De AI-verordening van de EU stelt eisen aan risicobeheer bij AI-systemen; een strakke sandbox helpt daarbij, maar vervangt je eigen afspraken niet.",
+ "faq": [
+  {
+   "q": "wat is de codex sandbox?",
+   "a": "Dat is de beveiligingslaag waarmee Codex commando's op je computer uitvoert binnen grenzen die jij instelt voor bestanden en netwerk."
+  },
+  {
+   "q": "op welke systemen werkt de codex sandbox?",
+   "a": "Volgens OpenAI op macOS, Linux en Windows."
+  },
+  {
+   "q": "moet ik zelf instellingen aanpassen?",
+   "a": "Ja, de limieten stel je zelf in. OpenAI geeft in de uitleg geen standaardwaarden of cijfers over hoe vaak iets wordt tegengehouden."
+  }
+ ],
+ "slug": "codex-sandbox-openai-legt-uit-hoe-het-je-bestanden-en-netwerk-begrenst",
+ "kind": "news",
+ "date": "2026-11-18",
+ "published": "2026-11-18T20:33",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Inside the Codex sandbox",
+   "url": "https://openai.com/index/inside-the-codex-sandbox"
+  }
+ ],
+ "path": "/nieuws/codex-sandbox-openai-legt-uit-hoe-het-je-bestanden-en-netwerk-begrenst/",
+ "og": "/img/og/codex-sandbox-openai-legt-uit-hoe-het-je-bestanden-en-netwerk-begrenst.png",
+ "take": "Codex die zelf je bestanden en netwerk aanraakt, daar zit de spanning. Ik wil eerst zien dat die grenzen echt dichtzitten voordat ik zo'n agent loslaat op een klantaccount. Een uitleg over hoe het werkt is nog geen bewijs dat het goed gaat."
+}

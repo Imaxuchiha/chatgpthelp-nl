@@ -1,51 +1,5 @@
 [
  {
-  "at": "2026-10-11T12:08:16",
-  "slug": "",
-  "title": "AI noodrem: Nadella wil een rem voor AI-modellen",
-  "kind": "news",
-  "rood": [],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-11T12:08:42",
-  "slug": "",
-  "title": "AI-week 41: noodrem, bankregels en code-agents",
-  "kind": "news",
-  "rood": [
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-11T18:45:04",
-  "slug": "",
-  "title": "AI tekst detectie: checkers beoordelen of tekst van mensen komt",
-  "kind": "news",
-  "rood": [
-   "S6",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-11T18:45:13",
-  "slug": "",
-  "title": "Noodrem voor AI-modellen: Microsoft-topman Nadella pleit",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S11",
-   "S6"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
   "at": "2026-10-11T18:45:23",
   "slug": "",
   "title": "Voice AI in Nederland bereikt ChatGPT-moment nog niet",
@@ -6376,6 +6330,55 @@
   "kind": "news",
   "rood": [
    "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-18T20:33:21",
+  "slug": "",
+  "title": "Codex sandbox: OpenAI legt uit hoe het je bestanden en netwerk begrenst",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-18T20:33:29",
+  "slug": "",
+  "title": "Nvidia zonder Jensen Huang: hoe afhankelijk is AI van één man?",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-18T20:33:43",
+  "slug": "",
+  "title": "Google AI Mode krijgt incognito: gesprekken niet in je zoekgeschiedenis",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-18T20:33:58",
+  "slug": "",
+  "title": "Disney animatronics ai: Star Wars-figuren reageren op bezoekers",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
   ],
   "andere_fouten": 0,
   "stand": "meten"
