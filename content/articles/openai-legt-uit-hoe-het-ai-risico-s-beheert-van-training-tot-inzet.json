@@ -1,0 +1,68 @@
+{
+ "keyword": "openai ai-risico",
+ "seo_title": "OpenAI ai-risico: zo beheert het bedrijf risico's",
+ "title": "OpenAI legt uit hoe het ai-risico's beheert van training tot inzet",
+ "meta": "OpenAI beschrijft hoe het risico's van frontier-ai beheert: modelafstemming, sandboxing, blokkades en monitoring. Lees wat dit betekent voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-risico",
+  "veiligheid",
+  "frontier-ai",
+  "regulering"
+ ],
+ "intro": "OpenAI heeft op 18 november 2026 een toelichting gepubliceerd over het beheersen van risico's van frontier-ai, van training tot inzet. Het bedrijf noemt modelafstemming, sandboxing, blokkades en monitoring als kernmaatregelen. De uitleg is relevant voor iedereen die met krachtige ai-systemen werkt of ze inzet in Nederland.",
+ "takeaways": [
+  "OpenAI beschrijft vier soorten maatregelen: modelafstemming, sandboxing, blokkades en monitoring.",
+  "Het risicobeheer loopt van de trainingsfase tot en met de inzet van een model.",
+  "OpenAI geeft geen concrete cijfers of termijnen voor de maatregelen in de publicatie.",
+  "Voor Nederlandse bedrijven betekent dit meer inzicht in hoe een grote ai-aanbieder veiligheid aanpakt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies beschrijft",
+   "body": "OpenAI legt uit dat het risico's van frontier-ai op meerdere momenten aanpakt. Tijdens de training richt het bedrijf zich op modelafstemming: het model moet zich gedragen zoals bedoeld. Daarna volgen technische maatregelen zoals sandboxing, waarbij een model in een afgeschermde omgeving draait. Ook blokkades en monitoring horen bij het pakket, volgens OpenAI.\n\nDe publicatie geeft geen details over specifieke modellen of data. Het stuk blijft op hoofdlijnen. OpenAI noemt geen termijnen of meetbare doelen. Dat maakt het lastig om de effectiviteit van de maatregelen te beoordelen."
+  },
+  {
+   "heading": "Van training tot inzet: vier lagen van beveiliging",
+   "body": "De vier genoemde maatregelen grijpen op verschillende momenten in. Modelafstemming gebeurt tijdens de ontwikkeling. Sandboxing beperkt wat een model kan doen als het eenmaal draait. Blokkades moeten ongewenste acties tegenhouden. Monitoring houdt in de gaten of er iets misgaat.\n\nOpenAI zet deze middelen in van training tot deployment, oftewel de inzet bij gebruikers. Het bedrijf zegt zo het risico te beheersen. Hoe dat in de praktijk uitpakt, blijft onduidelijk. De bron bevat geen voorbeelden van incidenten of testresultaten."
+  },
+  {
+   "heading": "Waarom dit nieuws is",
+   "body": "Grote ai-bedrijven staan onder druk om veiligheid concreet te maken. Overheden en toezichthouders vragen om aantoonbare maatregelen. OpenAI publiceert vaker over zijn aanpak, maar geeft zelden cijfers. Deze toelichting past in die lijn.\n\nVoor gebruikers in Nederland is het vooral een signaal. Wie een ai-model inzet, blijft zelf verantwoordelijk voor het gebruik. De maatregelen van OpenAI nemen dat niet weg. De publicatie helpt wel om gerichte vragen te stellen aan leveranciers."
+  },
+  {
+   "heading": "Wat het betekent voor ai-gebruik in Nederland",
+   "body": "Nederlandse organisaties die met frontier-ai werken, kunnen de vier maatregelen als checklist gebruiken. Vraag een leverancier hoe modelafstemming is geregeld. Informeer naar sandboxing en blokkades. En check of monitoring continu gebeurt of steekproefsgewijs.\n\nDe Europese ai-wet verplicht aanbieders van hoogrisico-ai tot documentatie en risicobeheer. OpenAI noemt de ai-wet niet in de publicatie. Of de beschreven maatregelen aan die wet voldoen, is nog niet bekend. Bedrijven doen er goed aan dit zelf na te gaan."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en instellingen die OpenAI-modellen gebruiken, biedt de publicatie houvast bij het beoordelen van leveranciers. Je weet nu welke vier soorten maatregelen OpenAI noemt. Vraag bij je eigen ai-leverancier hoe het zit met modelafstemming, sandboxing, blokkades en monitoring. Let op: de Europese ai-wet stelt eigen eisen. De publicatie van OpenAI vervangt die verplichtingen niet. Wil je zekerheid, laat dan juridisch toetsen of je ai-gebruik aan de wet voldoet.",
+ "faq": [
+  {
+   "q": "Wat bedoelt OpenAI met frontier-ai?",
+   "a": "OpenAI gebruikt de term voor zeer krachtige ai-modellen die aan de voorhoede van de techniek staan. De publicatie geeft geen exacte definitie."
+  },
+  {
+   "q": "Welke maatregelen noemt OpenAI tegen ai-risico's?",
+   "a": "OpenAI noemt modelafstemming, sandboxing, blokkades en monitoring. Deze maatregelen gelden van training tot inzet."
+  },
+  {
+   "q": "Geldt deze aanpak ook voor gebruikers in Nederland?",
+   "a": "De maatregelen gelden voor OpenAI's eigen modellen, waar ook Nederlandse gebruikers mee werken. Nederlandse wetgeving en de Europese ai-wet blijven daarnaast van kracht."
+  }
+ ],
+ "slug": "openai-legt-uit-hoe-het-ai-risico-s-beheert-van-training-tot-inzet",
+ "kind": "news",
+ "date": "2026-11-18",
+ "published": "2026-11-18T23:55",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Managing frontier AI risk: From training to deployment",
+   "url": "https://openai.com/index/managing-frontier-ai-risk"
+  }
+ ],
+ "path": "/nieuws/openai-legt-uit-hoe-het-ai-risico-s-beheert-van-training-tot-inzet/",
+ "og": "/img/og/openai-legt-uit-hoe-het-ai-risico-s-beheert-van-training-tot-inzet.png",
+ "take": "OpenAI legt netjes uit hoe het zijn modellen temt, met afstemming, sandboxing en monitoring. Mooi, maar dat is een verhaal over hun eigen keuken en niet over wat er in mijn scripts gebeurt. Ik bouw mijn eigen automatisering liever zelf, dan bepaal ik waar de remmen zitten en betaal ik geen abonnement voor een belofte."
+}

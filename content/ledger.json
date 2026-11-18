@@ -3291,6 +3291,18 @@
   "00a34e9a7f": {
    "at": "2026-11-18T20:35:01.696590",
    "why": "ok"
+  },
+  "e683d40fba": {
+   "at": "2026-11-18T23:54:58.391500",
+   "why": "ok"
+  },
+  "8b6ac2940f": {
+   "at": "2026-11-18T23:55:58.391500",
+   "why": "ok"
+  },
+  "b7121aa761": {
+   "at": "2026-11-18T23:56:58.391500",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3865,6 +3877,9 @@
   "Copilot helpt binnenkort bij pc-problemen, meldt Microsoft",
   "Codex sandbox: OpenAI legt uit hoe het je bestanden en netwerk begrenst",
   "Google AI Mode krijgt incognito: gesprekken niet in je zoekgeschiedenis",
-  "Disney animatronics ai: Star Wars-figuren reageren op bezoekers"
+  "Disney animatronics ai: Star Wars-figuren reageren op bezoekers",
+  "OpenAI schetst hoe AI de samenleving kan hervormen",
+  "OpenAI legt uit hoe het ai-risico's beheert van training tot inzet",
+  "Anthropic IPO geprijsd op $83 per aandeel, boven verwachting"
  ]
 }

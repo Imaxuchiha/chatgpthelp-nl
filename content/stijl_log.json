@@ -1,44 +1,5 @@
 [
  {
-  "at": "2026-10-11T18:45:23",
-  "slug": "",
-  "title": "Voice AI in Nederland bereikt ChatGPT-moment nog niet",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S4",
-   "S6"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-11T18:45:31",
-  "slug": "",
-  "title": "Lokale AI draaien: modellen op je eigen computer",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-11T18:45:52",
-  "slug": "",
-  "title": "AI-week 41: banken op de rem, Nadella op de noodrem",
-  "kind": "news",
-  "rood": [
-   "S6",
-   "S9"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
   "at": "2026-10-11T22:11:39",
   "slug": "",
   "title": "Nikon diskwalificeert winnaar fotowedstrijd om generatieve AI",
@@ -6377,6 +6338,44 @@
   "title": "Disney animatronics ai: Star Wars-figuren reageren op bezoekers",
   "kind": "news",
   "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-18T23:55:15",
+  "slug": "",
+  "title": "OpenAI schetst hoe AI de samenleving kan hervormen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-18T23:55:29",
+  "slug": "",
+  "title": "OpenAI legt uit hoe het ai-risico's beheert van training tot inzet",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-18T23:55:45",
+  "slug": "",
+  "title": "Anthropic IPO geprijsd op $83 per aandeel, boven verwachting",
+  "kind": "news",
+  "rood": [
+   "S10",
    "S8",
    "S9"
   ],
