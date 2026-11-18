@@ -1,0 +1,68 @@
+{
+ "keyword": "gemini gesprekken bewaren",
+ "seo_title": "Gemini gesprekken bewaren: Google verlengt naar twee maanden",
+ "title": "Google bewaart Gemini-gesprekken tijdelijk twee maanden",
+ "meta": "Google bewaart Gemini-gesprekken zonder geschiedenis straks twee maanden in plaats van 72 uur. Wat dat betekent voor je privacy in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "google",
+  "gemini",
+  "privacy",
+  "ai",
+  "chatgeschiedenis"
+ ],
+ "intro": "Google verlengt de periode waarin het Gemini-gesprekken bewaart die buiten de opgeslagen geschiedenis vallen. Nu blijven die chats 72 uur staan, straks twee maanden. Het bedrijf zegt dat te doen om zijn AI-systemen veiliger te maken. Voor gebruikers in Nederland verandert er iets aan wat er met hun chats gebeurt.",
+ "takeaways": [
+  "Gesprekken met Gemini zonder opgeslagen geschiedenis blijven straks twee maanden bewaard.",
+  "De bewaartermijn gaat van 72 uur naar ongeveer zestig dagen.",
+  "Google noemt veiligheid van zijn AI-systemen als reden voor de verlenging.",
+  "De maatregel is volgens Bright tijdelijk bedoeld."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies verandert",
+   "body": "Gemini kent twee soorten gesprekken. Chats die je laat opslaan, blijven in je account staan tot je ze zelf weggooit. Daarnaast zijn er gesprekken die buiten je geschiedenis vallen. Die worden nu na 72 uur verwijderd.\n\nDie laatste groep krijgt een langere bewaartermijn. Volgens Bright gaan die gesprekken voortaan twee maanden mee. Dat is dus ongeveer zestig dagen in plaats van drie.\n\nDe verlenging geldt voor chats zonder opgeslagen geschiedenis. Google heeft niet per gesprek een keuze aangekondigd. Het gaat om een aanpassing aan de termijn die voor die categorie geldt."
+  },
+  {
+   "heading": "Waarom Google dit doet",
+   "body": "Google geeft veiligheid als reden op. Het bedrijf wil zijn AI-systemen beter kunnen controleren en misbruik eerder opsporen. Met meer gespreksdata kan het team patronen zien die in drie dagen misschien niet opvallen.\n\nDat is een bekende afweging bij AI-diensten. Meer data helpt bij het vinden van fouten en ongewenst gebruik. Tegelijk betekent het dat gegevens langer op servers staan.\n\nHoe Google de gesprekken precies gebruikt, maakt het bedrijf niet duidelijk in de berichtgeving. Of mensen in de Europese Unie een aparte regeling krijgen, is nog niet bekend."
+  },
+  {
+   "heading": "Wat je zelf kunt doen",
+   "body": "Wil je zo weinig mogelijk van je chats bewaren, dan is de keuze voor opgeslagen geschiedenis nog steeds de belangrijkste knop. Zet die uit als je gesprekken niet in je account wilt houden. Let wel op: ook dan blijven ze dus tijdelijk twee maanden staan.\n\nDeel geen persoonsgegevens, wachtwoorden of klantinformatie in een chat als dat niet nodig is. Dat advies geldt altijd, en zeker nu de bewaartermijn langer is.\n\nJe kunt ook periodiek je geschiedenis opschonen. Voor de categorie zonder geschiedenis helpt dat niet, omdat die gesprekken buiten je account vallen."
+  },
+  {
+   "heading": "Tijdelijk, zegt Bright",
+   "body": "De langere bewaartermijn is volgens Bright tijdelijk. Hoe lang die precies duurt, is niet bekend. Google heeft geen einddatum genoemd.\n\nOok is onduidelijk of het bedrijf de termijn daarna terugzet naar 72 uur of een andere periode kiest. Wie daarover duidelijkheid wil, moet de aankondigingen van Google volgen.\n\nVoor nu geldt: de klok loopt langer door dan voorheen. Reken dus op twee maanden in plaats van drie dagen."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders die Gemini gebruiken, betekent dit vooral een langere bewaartermijn van chats die ze juist niet wilden opslaan. Onder de Europese privacyregels moeten bedrijven uitleggen waarom ze gegevens bewaren en hoe lang. Google noemt veiligheid als grond, maar of dat in de EU voldoende is, valt nog te bezien. Werk je met gevoelige klantinformatie, dan is het verstandig om te checken of je organisatie Gemini mag gebruiken en welke afspraken er gelden.",
+ "faq": [
+  {
+   "q": "Hoelang bewaart Google mijn Gemini-gesprekken?",
+   "a": "Gesprekken die je laat opslaan blijven staan tot je ze verwijdert. Chats zonder opgeslagen geschiedenis gaan van 72 uur naar twee maanden."
+  },
+  {
+   "q": "Geldt de langere bewaartermijn ook in Nederland?",
+   "a": "De aanpassing komt van Google en lijkt voor Gemini-gebruikers te gelden. Of er voor de EU een aparte regeling komt, is nog niet bekend."
+  },
+  {
+   "q": "Kan ik voorkomen dat mijn chats worden bewaard?",
+   "a": "Je kunt de opgeslagen geschiedenis uitzetten en je chats opschonen. Voor de categorie zonder geschiedenis geldt dan nog steeds de termijn van twee maanden."
+  }
+ ],
+ "slug": "google-bewaart-gemini-gesprekken-tijdelijk-twee-maanden",
+ "kind": "news",
+ "date": "2026-11-18",
+ "published": "2026-11-18T12:55",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Google gaat Gemini-gesprekken de komende tijd twee maanden bewaren",
+   "url": "https://www.bright.nl/nieuws/2160087/google-gaat-gemini-gesprekken-de-komende-tijd-twee-maanden-bewaren.html"
+  }
+ ],
+ "path": "/nieuws/google-bewaart-gemini-gesprekken-tijdelijk-twee-maanden/",
+ "og": "/img/og/google-bewaart-gemini-gesprekken-tijdelijk-twee-maanden.png",
+ "take": "Twee maanden bewaren in plaats van 72 uur is een eerlijke mededeling van Google, en dat waardeer ik. Ik ga er niet ineens anders door typen, want de gesprekken die ik voer zijn werkteksten en geen geheimen. Wat me wel stoort is het woord veiliger: dat is een belofte die je pas kunt beoordelen als je precies ziet wat er met die data gebeurt, en dat staat er niet bij."
+}

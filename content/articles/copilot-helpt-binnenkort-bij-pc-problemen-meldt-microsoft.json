@@ -1,0 +1,68 @@
+{
+ "keyword": "copilot pc problemen",
+ "seo_title": "Copilot pc problemen: Microsoft breidt hulp uit",
+ "title": "Copilot helpt binnenkort bij pc-problemen, meldt Microsoft",
+ "meta": "Microsoft kondigt op Ignite aan dat Copilot je binnenkort helpt bij pc-problemen. Wat dat betekent voor gebruikers in Nederland lees je hier.",
+ "category": "nieuws",
+ "tags": [
+  "copilot",
+  "microsoft",
+  "ignite",
+  "windows",
+  "ai-assistent"
+ ],
+ "intro": "Microsoft heeft op het jaarlijkse Ignite-evenement aangekondigd dat Copilot binnenkort kan helpen wanneer je problemen hebt met je pc. De AI-assistent van het bedrijf krijgt er dus een taak bij naast tekst en code. Volgens Bright gaat het om hulp bij het achterhalen wat er mis is met je computer.",
+ "takeaways": [
+  "Microsoft maakte de uitbreiding bekend tijdens Ignite, het jaarlijkse evenement van het bedrijf.",
+  "Copilot moet binnenkort achterhalen wat er mis is met je pc.",
+  "Het is nog niet bekend wanneer de functie in Nederland beschikbaar komt.",
+  "Ook de prijs en de precieze werking zijn nog niet toegelicht."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Copilot straks doet",
+   "body": "Copilot is de AI-assistent van Microsoft. Je stelt hem vragen in gewone taal en krijgt een antwoord terug. Tot nu toe draait dat vooral om tekst, code en vragen over documenten.\n\nDaar komt volgens Bright een taak bij: hulp bij computerproblemen. De assistent moet kunnen achterhalen wat er mis is met je pc. Hoe dat precies werkt, is nog niet duidelijk. Microsoft heeft tijdens Ignite alleen de komst van de functie aangekondigd."
+  },
+  {
+   "heading": "Nog geen datum of prijs",
+   "body": "Wanneer de functie beschikbaar komt, is niet bekend. Ook over de prijs zegt Microsoft nog niets. Het is dus de vraag of je extra moet betalen bovenop een bestaand Copilot-abonnement.\n\nOok de vraag of de functie in Nederland en de rest van de EU meteen meegaat, staat open. Microsoft heeft daar tijdens Ignite geen uitspraken over gedaan."
+  },
+  {
+   "heading": "Wat het betekent voor je privacy",
+   "body": "Hulp bij pc-problemen betekent dat de assistent iets van je systeem moet zien. Denk aan foutmeldingen of instellingen. Microsoft heeft nog niet uitgelegd welke gegevens Copilot daarvoor gebruikt.\n\nDat maakt het lastig om te beoordelen hoe het zit met privacy en met de Europese regels voor gegevensbescherming. Zodra daar meer over bekend is, wordt dat duidelijk."
+  },
+  {
+   "heading": "Ignite als moment voor aankondigingen",
+   "body": "Ignite is het jaarlijkse evenement waar Microsoft zijn plannen voor bedrijven en ontwikkelaars presenteert. Nieuwe functies voor Copilot komen vaak daar voor het eerst langs. De aankondiging past in die lijn.\n\nOf de functie ook echt snel komt, blijkt pas later. Bright meldt de aankondiging, zonder datum of details over de uitrol."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders met een Windows-pc kan dit handig zijn: hulp bij een vastloper of foutmelding zonder zelf te hoeven zoeken. Toch is er nog geen zicht op een releasedatum voor Nederland. Let dus op of Microsoft de functie hier tegelijk met andere landen uitbrengt, en of er een abonnement voor nodig is. Bedrijven die met Copilot werken, doen er goed aan de privacyafspraken in de gaten te houden zodra Microsoft meer vertelt over welke systeemgegevens de assistent inziet.",
+ "faq": [
+  {
+   "q": "Wanneer komt Copilot met pc-hulp naar Nederland?",
+   "a": "Dat is nog niet bekend. Microsoft heeft alleen de komst van de functie aangekondigd, zonder datum of landenlijst."
+  },
+  {
+   "q": "Moet ik betalen voor Copilot bij pc-problemen?",
+   "a": "Ook dat is nog niet duidelijk. Microsoft heeft tijdens Ignite niets gezegd over de prijs of over een apart abonnement."
+  },
+  {
+   "q": "Wat doet Copilot precies bij een pc-probleem?",
+   "a": "Volgens Bright moet de assistent achterhalen wat er mis is met je pc. Hoe dat technisch werkt, heeft Microsoft nog niet uitgelegd."
+  }
+ ],
+ "slug": "copilot-helpt-binnenkort-bij-pc-problemen-meldt-microsoft",
+ "kind": "news",
+ "date": "2026-11-18",
+ "published": "2026-11-18T12:56",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Copilot kan binnenkort achterhalen wat er mis is met je pc",
+   "url": "https://www.bright.nl/nieuws/2160085/copilot-kan-binnenkort-achterhalen-wat-er-mis-is-met-je-pc.html"
+  }
+ ],
+ "path": "/nieuws/copilot-helpt-binnenkort-bij-pc-problemen-meldt-microsoft/",
+ "og": "/img/og/copilot-helpt-binnenkort-bij-pc-problemen-meldt-microsoft.png",
+ "take": "Copilot die je pc nakijkt is handig voor mensen die zelf niet weten waar ze moeten beginnen. Voor mij telt één ding: wat kost dat abonnement per maand en wat levert het op als ik het zelf met een script en een goedkope API bouw. Zolang Microsoft geen prijs noemt, betaal ik nergens voor."
+}

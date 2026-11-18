@@ -1,46 +1,5 @@
 [
  {
-  "at": "2026-10-10T22:00:46",
-  "slug": "",
-  "title": "AI code agents genereren meer code, maar niet meer software",
-  "kind": "news",
-  "rood": [
-   "S11",
-   "S4",
-   "S5",
-   "S6",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-11T12:08:03",
-  "slug": "",
-  "title": "AI bij Nederlandse banken: regels remmen gebruik",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S5",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-11T12:08:09",
-  "slug": "",
-  "title": "Nadella: ga ervan uit dat alle AI-modellen compromised zijn",
-  "kind": "news",
-  "rood": [
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-11T12:08:16",
   "slug": "",
   "title": "AI noodrem: Nadella wil een rem voor AI-modellen",
@@ -6380,6 +6339,43 @@
   "rood": [
    "S11",
    "S5"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-18T12:54:28",
+  "slug": "",
+  "title": "ChatGPT krijgt Le Figaro: wat OpenAI's deal met de Franse krant betekent",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-18T12:54:38",
+  "slug": "",
+  "title": "Google bewaart Gemini-gesprekken tijdelijk twee maanden",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-18T12:54:46",
+  "slug": "",
+  "title": "Copilot helpt binnenkort bij pc-problemen, meldt Microsoft",
+  "kind": "news",
+  "rood": [
+   "S8"
   ],
   "andere_fouten": 0,
   "stand": "meten"

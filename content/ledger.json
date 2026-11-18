@@ -3263,6 +3263,18 @@
   "b397f013e7": {
    "at": "2026-11-18T00:29:28.421620",
    "why": "ok"
+  },
+  "6cab9c8cd3": {
+   "at": "2026-11-18T12:54:16.085459",
+   "why": "ok"
+  },
+  "c2f4318c9b": {
+   "at": "2026-11-18T12:55:16.085459",
+   "why": "ok"
+  },
+  "035e817066": {
+   "at": "2026-11-18T12:56:16.085459",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3831,6 +3843,9 @@
   "Gemini Tasks breder beschikbaar: bellen en kopen namens jou",
   "ChatGPT voor sales: OpenAI lanceert plugin voor verkoopwerk",
   "Nvidia houdt vast aan open-source AI en wil Hugging Face kopen",
-  "Anthropic IPO: Amazon en Google samen bijna 30 procent"
+  "Anthropic IPO: Amazon en Google samen bijna 30 procent",
+  "ChatGPT krijgt Le Figaro: wat OpenAI's deal met de Franse krant betekent",
+  "Google bewaart Gemini-gesprekken tijdelijk twee maanden",
+  "Copilot helpt binnenkort bij pc-problemen, meldt Microsoft"
  ]
 }
