@@ -1,0 +1,67 @@
+{
+ "keyword": "apple ai agent",
+ "seo_title": "Apple AI agent: vacature verraadt eigen assistent",
+ "title": "Apple bouwt eigen AI-agent en zoekt er engineers voor",
+ "meta": "Apple werkt aan een eigen AI-agent die taken uitvoert in apps en op het web. Een vacature verraadt de plannen. Wat betekent dit in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "apple",
+  "ai-agent",
+  "siri",
+  "openai",
+  "vacature"
+ ],
+ "intro": "Apple zoekt een engineer die de leiding krijgt over de bouw van een eigen AI-agent. Dat blijkt uit een vacature die Bloomberg opmerkte en die The Verge beschrijft. De assistent moet zelfstandig taken uitvoeren, van browsen tot code schrijven. Daarmee zet Apple een volgende stap naast Siri.",
+ "takeaways": [
+  "Apple zoekt een engineer om een agentic AI-assistent te leiden.",
+  "De agent moet taken uitvoeren in apps, op het web, met code en bij diensten.",
+  "Het nieuws komt uit een vacature die Bloomberg zag en The Verge beschreef.",
+  "Apple heeft zelf nog geen product of lanceerdatum aangekondigd."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de vacature laat zien",
+   "body": "De vacature draait om één rol: een engineer die de creatie van een agentic AI-assistent leidt. Volgens The Verge moet die assistent een reeks taken voor je uitvoeren. Denk aan browsen op het web, werken tussen verschillende apps, code schrijven en diensten aanroepen.\n\nDat is een ander soort assistent dan de Siri die je nu kent. Een agent pakt een taak zelf op en voert meerdere stappen uit. Je hoeft dan niet elke handeling los te vragen. Apple heeft de plannen zelf niet officieel toegelicht."
+  },
+  {
+   "heading": "Waarom Apple deze richting kiest",
+   "body": "Grote AI-bedrijven bouwen al langer dit soort agents. OpenAI, Anthropic en Google werken aan assistenten die zelfstandig stappen zetten. Apple blijft in dat rijtje vooralsnog achter, al zegt het bedrijf daar zelf weinig over.\n\nEen eigen agent past bij Apples aanpak: software die diep in het systeem zit. De vacature noemt werken over apps heen en het aanroepen van diensten. Dat wijst op een assistent die binnen iOS en macOS taken kan afhandelen. Concrete details over werking of releasedatum ontbreken nog."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Apple heeft geen aankondiging gedaan over een product. Er is geen datum, geen prijs en geen lijst met toestellen waarop de agent zou werken. De vacature is het enige concrete signaal.\n\nOok is onduidelijk hoe de agent zich verhoudt tot Siri. Wordt het een vervanger, een uitbreiding of een aparte functie? The Verge noemt alleen de bouw van een agentic assistent. Tot Apple zelf met meer komt, blijft dat open."
+  },
+  {
+   "heading": "Agent of chatbot",
+   "body": "Het verschil zit in wat de software zelf doet. Een chatbot geeft antwoord op een vraag. Een agent voert een opdracht uit in meerdere stappen en gebruikt daarbij andere programma's.\n\nDie stap maakt assistenten nuttiger, maar ook lastiger. Een agent die zelf diensten aanroept, moet betrouwbaar omgaan met jouw gegevens en accounts. Apple benadrukt vaker privacy, maar hoe dat hier uitpakt, is nog niet te zeggen."
+  }
+ ],
+ "nl_angle": "Voor gebruikers in Nederland verandert er nu nog niets. Apple heeft geen product aangekondigd, dus er is geen releasedatum of prijs in euro's. Wel geeft de vacature een richting aan: een assistent die zelf taken uitvoert op je iPhone of Mac. Zodra zoiets komt, valt het onder de Europese regels voor AI en gegevensbescherming, waaronder de AI Act en de AVG. Nederlandse bedrijven die apps bouwen voor Apple kunnen daar later mee te maken krijgen, bijvoorbeeld als zo'n agent taken in hun app uitvoert. Concrete eisen zijn nog niet bekend.",
+ "faq": [
+  {
+   "q": "Komt er een AI-agent van Apple?",
+   "a": "Apple zoekt volgens The Verge een engineer om een eigen AI-agent te bouwen. Het bedrijf heeft nog geen product aangekondigd."
+  },
+  {
+   "q": "Wat kan de Apple AI-agent doen?",
+   "a": "Volgens de vacature moet de assistent onder meer browsen, werken tussen apps, code schrijven en diensten aanroepen."
+  },
+  {
+   "q": "Wanneer is de Apple AI-agent in Nederland beschikbaar?",
+   "a": "Dat is nog niet bekend. Apple heeft geen lanceerdatum of prijs genoemd."
+  }
+ ],
+ "slug": "apple-bouwt-eigen-ai-agent-en-zoekt-er-engineers-voor",
+ "kind": "news",
+ "date": "2026-11-19",
+ "published": "2026-11-19T23:59",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+  }
+ ],
+ "path": "/nieuws/apple-bouwt-eigen-ai-agent-en-zoekt-er-engineers-voor/",
+ "og": "/img/og/apple-bouwt-eigen-ai-agent-en-zoekt-er-engineers-voor.png"
+}

@@ -1,0 +1,68 @@
+{
+ "keyword": "ai-agent storingen",
+ "seo_title": "AI-agent storingen: waarom systemen uitvallen",
+ "title": "AI-agent storingen: waarom boekings- en banksystemen uitvallen",
+ "meta": "Recente storingen bij boekings-, bank- en werkplatforms lijken op Y2K, zeggen experts. Lees wat AI-agents ermee te maken hebben en wat het voor Nederland…",
+ "category": "nieuws",
+ "tags": [
+  "ai-agents",
+  "storingen",
+  "cybersecurity",
+  "y2k",
+  "banken"
+ ],
+ "intro": "Boekingssystemen van luchtvaartmaatschappijen, bankplatforms en werkapplicaties vielen de afgelopen tijd opvallend vaak uit. Toeval is dat volgens cybersecurityexperts waarschijnlijk niet. Zij wijzen op een dieper probleem dat met AI-agents te maken heeft.",
+ "takeaways": [
+  "Recente storingen troffen boekingssystemen, bankplatforms en werkapplicaties.",
+  "Cybersecurityexperts noemen de reeks niet zomaar toeval.",
+  "Volgens TechCrunch zit er een diepere oorzaak achter, die aan AI-agents raakt.",
+  "Hoe groot het aandeel van AI-agents precies is, maken de bronnen niet concreet."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er aan de hand is",
+   "body": "De afgelopen periode gingen er meerdere systemen tegelijk of kort na elkaar onderuit. Het ging om boekingssystemen bij luchtvaartmaatschappijen, platforms voor bankieren en applicaties waarmee mensen hun werk doen. TechCrunch vroeg zich af of dat nog toeval is.\n\nCybersecurityexperts denken van niet. Volgens hen speelt er iets diepers dan een losse server die omvalt of een verkeerde update. De reeks doet denken aan de angst rond Y2K, toen bedrijven vreesden dat computers de eeuwwisseling niet zouden overleven."
+  },
+  {
+   "heading": "Waarom AI-agents hier een rol spelen",
+   "body": "AI-agents zijn programma's die zelfstandig taken uitvoeren. Ze klikken door websites, vullen formulieren in en zetten stappen in gang zonder dat een mens meekijkt. Dat maakt ze handig, maar ook lastig te volgen als er iets misgaat.\n\nDe bronnen noemen AI-agents in één adem met de storingen. Hoe precies te bewijzen valt dat een agent een systeem liet vastlopen, blijft in het midden. TechCrunch spreekt van een waarschijnlijke diepere oorzaak, zonder die tot op de bodem uit te werken. Concrete cijfers over het aantal incidenten ontbreken."
+  },
+  {
+   "heading": "De Y2K-vergelijking",
+   "body": "Rond 2000 vreesde de techwereld dat oude systemen datums met twee cijfers niet zouden snappen. Bedrijven staken veel geld in controles en tests. Grote rampen bleven uit, maar de spanning was echt.\n\nDe huidige reeks roept dat gevoel terug. Systemen die jarenlang stabiel leken, blijken kwetsbaar zodra er iets nieuws op aansluit. Dat nieuwe is nu de AI-agent, die veel sneller en vaker met systemen praat dan een mens ooit deed."
+  },
+  {
+   "heading": "Wat nog onduidelijk blijft",
+   "body": "TechCrunch noemt geen namen van getroffen bedrijven en geen aantallen. Ook is niet bekend of de storingen bij elkaar horen of losse incidenten zijn. De experts spreken in algemene termen over een patroon.\n\nVoor gebruikers betekent dat vooral onzekerheid. Je merkt een storing pas als een boeking mislukt of een betaling blijft hangen. Waarom dat gebeurt, blijft vaak buiten beeld."
+  }
+ ],
+ "nl_angle": "Nederlandse banken en luchtvaartmaatschappijen leunen op dezelfde soorten systemen als de platforms in het artikel. Een storing hier raakt direct reizigers, pinbetalingen en online bankieren. Bedrijven die zelf AI-agents inzetten, doen er goed aan te checken wat zo'n agent precies mag aanraken. De bronnen geven geen signalen dat er al Nederlandse gevallen bekend zijn.",
+ "faq": [
+  {
+   "q": "wat is een ai-agent",
+   "a": "Een programma dat zelfstandig taken uitvoert, zoals door websites klikken of formulieren invullen, zonder dat een mens elke stap stuurt."
+  },
+  {
+   "q": "komen de storingen door ai-agents",
+   "a": "Cybersecurityexperts denken dat er een diepere oorzaak is die met AI-agents samenhangt. Hard bewijs en concrete cijfers ontbreken in de bronnen."
+  },
+  {
+   "q": "moet ik me zorgen maken over mijn bank",
+   "a": "De bronnen noemen geen Nederlandse banken. Het is nog niet bekend of Nederlandse systemen geraakt zijn of worden."
+  }
+ ],
+ "slug": "ai-agent-storingen-waarom-boekings-en-banksystemen-uitvallen",
+ "kind": "news",
+ "date": "2026-11-20",
+ "published": "2026-11-20T00:00",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "These tech outages are giving Y2K, AI agent style",
+   "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
+  }
+ ],
+ "path": "/nieuws/ai-agent-storingen-waarom-boekings-en-banksystemen-uitvallen/",
+ "og": "/img/og/ai-agent-storingen-waarom-boekings-en-banksystemen-uitvallen.png",
+ "take": "Experts wijzen naar AI-agents en dan gaat het dus mis in de keten die niemand meer snapt. Mijn regel blijft: wat je niet kunt natrekken, moet je niet automatisch laten beslissen. Ik lees zo'n storing als een teken dat er te veel lagen op elkaar zitten waar niemand meer bij kan."
+}

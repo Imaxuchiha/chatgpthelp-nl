@@ -1,45 +1,5 @@
 [
  {
-  "at": "2026-10-13T00:53:44",
-  "slug": "",
-  "title": "AI maakt vergunningklare bouwtekeningen in minuten",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-13T00:53:53",
-  "slug": "",
-  "title": "Epic Games kiest volgens Ars Technica voor AI bij games",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-13T00:54:23",
-  "slug": "",
-  "title": "Epic Games zet alles op AI: de rekening komt bij spelers",
-  "kind": "column",
-  "rood": [
-   "S10",
-   "S11"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-13T00:54:34",
   "slug": "",
   "title": "Epic Games zet alles op AI: de rekening komt bij spelers",
@@ -6379,6 +6339,46 @@
    "S10",
    "S5",
    "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-20T00:00:06",
+  "slug": "",
+  "title": "Apple bouwt eigen AI-agent en zoekt er engineers voor",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-20T00:00:15",
+  "slug": "",
+  "title": "AI-agent storingen: waarom boekings- en banksystemen uitvallen",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-20T00:00:23",
+  "slug": "",
+  "title": "Google zet AI-gesprekken op de homepage",
+  "kind": "news",
+  "rood": [
+   "S10",
    "S8",
    "S9"
   ],

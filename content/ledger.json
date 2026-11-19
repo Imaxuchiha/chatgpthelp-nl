@@ -3343,6 +3343,18 @@
   "8aef6b1ab7": {
    "at": "2026-11-19T20:38:26.759457",
    "why": "ok"
+  },
+  "a22c687c43": {
+   "at": "2026-11-19T23:59:53.536503",
+   "why": "ok"
+  },
+  "52653ae3ad": {
+   "at": "2026-11-20T00:00:53.536503",
+   "why": "ok"
+  },
+  "6900f6014b": {
+   "at": "2026-11-20T00:01:53.536503",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3926,6 +3938,9 @@
   "Nadella: veel kritieke infrastructuur is niet te patchen tegen AI-aanvallen",
   "ChatGPT snelheid: hoe OpenAI's Performance Factory trage antwoorden aanpakt",
   "Robot met taalmodel wandelt zelfstandig door de Alpen",
-  "AI-modellen wijzen burgers te makkelijk aan als militaire doelwitten"
+  "AI-modellen wijzen burgers te makkelijk aan als militaire doelwitten",
+  "Apple bouwt eigen AI-agent en zoekt er engineers voor",
+  "AI-agent storingen: waarom boekings- en banksystemen uitvallen",
+  "Google zet AI-gesprekken op de homepage"
  ]
 }
