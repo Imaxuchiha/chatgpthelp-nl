@@ -1,0 +1,68 @@
+{
+ "keyword": "chatgpt snelheid",
+ "seo_title": "ChatGPT snelheid: OpenAI's Performance Factory uitgelegd",
+ "title": "ChatGPT snelheid: hoe OpenAI's Performance Factory trage antwoorden aanpakt",
+ "meta": "OpenAI legt uit hoe de Performance Factory met Codex-workflows prestatieproblemen in ChatGPT opspoort en oplost. Wat dat betekent voor gebruikers in…",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "chatgpt",
+  "performance factory",
+  "codex",
+  "snelheid"
+ ],
+ "intro": "OpenAI heeft voor het eerst uitgelegd hoe het de snelheid van ChatGPT op peil houdt. Het bedrijf bouwde daarvoor de Performance Factory: een systeem van workflows op basis van Codex dat prestatieproblemen opspoort en verhelpt. Dat telt voor iedereen die ChatGPT dagelijks gebruikt, want trage antwoorden merken gebruikers direct.",
+ "takeaways": [
+  "De Performance Factory is een systeem van Codex-workflows dat prestatieproblemen in ChatGPT vindt en repareert.",
+  "OpenAI beschrijft de aanpak in een eigen publicatie van 19 november 2026.",
+  "Het doel is om ChatGPT snel te houden naarmate er meer functies bijkomen.",
+  "Over concrete snelheidswinst noemt OpenAI in de bron geen cijfers."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de Performance Factory doet",
+   "body": "De Performance Factory is volgens OpenAI een verzameling workflows die draait op Codex, de code-assistent van het bedrijf. Die workflows sporen prestatieproblemen op en lossen ze op. Het systeem is dus geen los product voor klanten, maar gereedschap waarmee OpenAI zelf aan ChatGPT sleutelt.\n\nHet idee erachter is simpel. ChatGPT krijgt steeds meer functies, en elke functie kan het antwoord trager maken. Door problemen vroeg te vinden, blijft de dienst bruikbaar voor gewone gebruikers.\n\nOpenAI noemt in de publicatie geen concrete cijfers over snelheidswinst. Hoeveel milliseconden er precies gewonnen worden, is dus nog niet bekend."
+  },
+  {
+   "heading": "Waarom Codex centraal staat",
+   "body": "Codex is bij OpenAI de tool die code leest en aanpast. In de Performance Factory zoekt die tool naar plekken waar ChatGPT onnodig werk doet. Vervolgens stelt het systeem een oplossing voor of voert die door.\n\nDat scheelt ontwikkelaars handwerk. Zij hoeven niet zelf elke verdachte regel code na te lopen. De mens blijft wel aan zet bij de controle, zo blijkt uit de beschrijving van OpenAI.\n\nVoor gebruikers is het effect indirect. Een snellere achterkant betekent korter wachten op een antwoord, ook op een telefoon met een matige verbinding."
+  },
+  {
+   "heading": "Wat merkt een gebruiker ervan",
+   "body": "De meeste mensen zien de Performance Factory nooit. Ze merken alleen of ChatGPT vlot reageert, of het laden van een gesprek soepel gaat en of lange antwoorden blijven doorlopen.\n\nSnelheid is een van de weinige eigenschappen die elke gebruiker direct voelt. Een seconde extra wachttijd valt op, zeker bij kort werk zoals een e-mail herschrijven of een som uitrekenen.\n\nOf de aanpak ook voor andere diensten van OpenAI gaat gelden, vermeldt de bron niet. Claude en Gemini van concurrenten hebben hun eigen techniek achter de schermen."
+  },
+  {
+   "heading": "Wat OpenAI nog niet zegt",
+   "body": "OpenAI geeft geen tijdpad en geen meetbare doelen. Er staat niet in de publicatie hoeveel procent sneller ChatGPT moet worden of wanneer een volgende ronde klaar is.\n\nOok is onduidelijk of de Performance Factory alleen voor de gratis versie geldt of ook voor betaalde abonnementen. De bron noemt die verdeling niet.\n\nDuidelijk is wel dat OpenAI prestatie als doorlopend werk ziet. De fabriek draait als een proces dat blijft lopen, niet als een eenmalige opruimactie."
+  }
+ ],
+ "nl_angle": "Voor gebruikers in Nederland verandert er weinig aan de bediening van ChatGPT. De dienst blijft gewoon via chatgpt.com en de apps werken, met dezelfde abonnementen in euro's. Het nieuws zit vooral in de verwachting: OpenAI laat zien dat het snelheid serieus neemt, wat relevant is voor Nederlandse bedrijven die ChatGPT in hun werkproces hebben zitten. Wie ChatGPT via een eigen systeem aanroept, bijvoorbeeld met de API, merkt vertraging vaak eerder dan een gewone gebruiker. Let op dat OpenAI geen cijfers deelt, dus claims over snelheidswinst zijn voorlopig niet te controleren.",
+ "faq": [
+  {
+   "q": "Wat is de Performance Factory van OpenAI?",
+   "a": "Een systeem van workflows op basis van Codex waarmee OpenAI prestatieproblemen in ChatGPT opspoort en oplost. Het is intern gereedschap, geen product voor gebruikers."
+  },
+  {
+   "q": "Wordt ChatGPT hierdoor sneller?",
+   "a": "Dat is het doel, maar OpenAI noemt in de publicatie geen concrete cijfers of termijnen. Hoeveel sneller het wordt, is nog niet bekend."
+  },
+  {
+   "q": "Merken gebruikers in Nederland iets van dit nieuws?",
+   "a": "Aan de bediening verandert niets. Het effect zit in de achtergrond: korter wachten op een antwoord, ook bij een trage verbinding."
+  }
+ ],
+ "slug": "chatgpt-snelheid-hoe-openai-s-performance-factory-trage-antwoorden-aan",
+ "kind": "news",
+ "date": "2026-11-19",
+ "published": "2026-11-19T20:36",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+  }
+ ],
+ "path": "/nieuws/chatgpt-snelheid-hoe-openai-s-performance-factory-trage-antwoorden-aan/",
+ "og": "/img/og/chatgpt-snelheid-hoe-openai-s-performance-factory-trage-antwoorden-aan.png",
+ "take": "Snelheid is meetbaar, dus daar kan OpenAI gewoon cijfers over laten zien. Tot die cijfers er liggen is Performance Factory voor mij een verhaal over een systeem dat problemen opspoort, terwijl ik wil weten hoeveel trager ChatGPT werd en hoe vaak dat gebeurde. Ik meet liever zelf dan dat ik een uitleg op waarde schat."
+}

@@ -37,7 +37,8 @@
   "dmarc-spam",
   "Les juni-doorbraak-schalen",
   "Les deepseek-denken-uit",
-  "gbp-resultaat"
+  "gbp-resultaat",
+  "deepseek-denken-uit"
  ],
  "tools": [
   "Claude Code (Anthropic)"
@@ -60,6 +61,7 @@
   "performance-max-je-budget-verdwijnt-buiten-je-feed",
   "apple-laat-je-betalen-voor-ai-gebruik-daar-trap-ik-niet-in",
   "waarom-je-mail-in-spam-belandt-check-je-dmarc",
-  "revolut-claimt-30-60-sneller-coderen-met-codex-mooi-maar"
+  "revolut-claimt-30-60-sneller-coderen-met-codex-mooi-maar",
+  "deepseek-denken-uitzetten-lost-lege-antwoorden-op"
  ]
 }

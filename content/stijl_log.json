@@ -1,71 +1,5 @@
 [
  {
-  "at": "2026-10-12T22:24:51",
-  "slug": "",
-  "title": "VisionQuest review: AI's zoeken hun menselijkheid",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S11",
-   "S6"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-12T22:25:01",
-  "slug": "",
-  "title": "AI concentratie onderzoek: 10 minuten al minder volhardend",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S4",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-12T22:25:09",
-  "slug": "",
-  "title": "Meta lanceert Muse Wonder en Muse Wonder Full",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S11",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-12T22:25:20",
-  "slug": "",
-  "title": "Honeyjar biedt AI voor pr en communicatie aan elk bedrijf",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S11",
-   "S6",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-13T00:53:34",
-  "slug": "",
-  "title": "Microsoft: VK kan AI-regulering het beste trekken",
-  "kind": "news",
-  "rood": [
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-13T00:53:44",
   "slug": "",
   "title": "AI maakt vergunningklare bouwtekeningen in minuten",
@@ -6379,6 +6313,74 @@
   "kind": "column",
   "rood": [
    "S4"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-19T20:36:40",
+  "slug": "",
+  "title": "ChatGPT snelheid: hoe OpenAI's Performance Factory trage antwoorden aanpakt",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S5",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-19T20:36:48",
+  "slug": "",
+  "title": "Robot met taalmodel wandelt zelfstandig door de Alpen",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-19T20:36:57",
+  "slug": "",
+  "title": "AI-modellen wijzen burgers te makkelijk aan als militaire doelwitten",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-19T20:37:17",
+  "slug": "",
+  "title": "DeepSeek denken uitzetten lost lege antwoorden op",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S5",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-19T20:37:26",
+  "slug": "",
+  "title": "DeepSeek denken uitzetten lost lege antwoorden op",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S5",
+   "S6",
+   "S8",
+   "S9"
   ],
   "andere_fouten": 0,
   "stand": "meten"

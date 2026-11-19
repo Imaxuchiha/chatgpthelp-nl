@@ -3331,6 +3331,18 @@
   "2cf389d7c3": {
    "at": "2026-11-19T12:53:29.632151",
    "why": "ok"
+  },
+  "6687f7be62": {
+   "at": "2026-11-19T20:36:26.759457",
+   "why": "ok"
+  },
+  "863b68e960": {
+   "at": "2026-11-19T20:37:26.759457",
+   "why": "ok"
+  },
+  "8aef6b1ab7": {
+   "at": "2026-11-19T20:38:26.759457",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3911,6 +3923,9 @@
   "Anthropic IPO geprijsd op $83 per aandeel, boven verwachting",
   "AP raadt aankoop van AI-camerabrillen af na eigen onderzoek",
   "Anthropic beursgang: beleggers staan in de rij voor maker van Claude",
-  "Nadella: veel kritieke infrastructuur is niet te patchen tegen AI-aanvallen"
+  "Nadella: veel kritieke infrastructuur is niet te patchen tegen AI-aanvallen",
+  "ChatGPT snelheid: hoe OpenAI's Performance Factory trage antwoorden aanpakt",
+  "Robot met taalmodel wandelt zelfstandig door de Alpen",
+  "AI-modellen wijzen burgers te makkelijk aan als militaire doelwitten"
  ]
 }

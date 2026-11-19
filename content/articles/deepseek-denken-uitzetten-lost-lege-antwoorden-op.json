@@ -1,0 +1,60 @@
+{
+ "keyword": "deepseek denken uitzetten",
+ "seo_title": "DeepSeek denken uitzetten: lege antwoorden oplossen",
+ "title": "DeepSeek denken uitzetten lost lege antwoorden op",
+ "meta": "DeepSeek denken uitzetten was mijn fix voor lege antwoorden. Het flash-model dacht te lang en gaf niets terug. Zo los je het op.",
+ "category": "mening",
+ "tags": [
+  "DeepSeek",
+  "AI-tools",
+  "automatisering",
+  "praktijkles"
+ ],
+ "intro": "Ik zette het denken uit en DeepSeek werkte weer. Niet omdat denken slecht is, maar omdat het model al zijn tokens opbrandde aan nadenken. Dan blijft er niks over voor het antwoord. Simpel probleem, simpele fix.",
+ "takeaways": [
+  "DeepSeek-flash gaf lege antwoorden tot ik het denken uitzette.",
+  "Denken kost tokens; zonder budget voor het antwoord krijg je niets terug.",
+  "Test altijd eerst met een kleine prompt voordat je een model in je workflow zet."
+ ],
+ "sections": [
+  {
+   "heading": "Lege antwoorden bij het bouwen van de site",
+   "body": "Ik was bezig met deze nieuwssite en had DeepSeek in een script gezet om artikelen te schrijven. Het nieuwe flash-model leek snel en goedkoop, dus prima voor volume. Maar bij elke run kreeg ik een leeg antwoord terug.\n\nEerst dacht ik aan een API-fout of een foute instelling. Na wat testen zag ik het patroon: het model gebruikte al zijn tokens om na te denken. Er bleef niets over voor het daadwerkelijke antwoord. Dat is alsof je iemand vraagt een rapport te schrijven en hij alleen maar voor zich uit staart.\n\nDe oplossing was simpel: denken uitzetten. In de API-instellingen zette ik de parameter voor redeneren uit. Daarna draaide het meteen. Drie artikelen, een meme en een prompt voor 0,6 dollarcent. Geen grap, dat was de hele rekening."
+  },
+  {
+   "heading": "Waarom dit je geld kost als je niet oplet",
+   "body": "Veel mensen zien een nieuw model en zetten het meteen in productie. Dat deed ik dus ook. Maar een model dat lege antwoorden geeft, kost je tijd. En tijd is geld, zeker als je per uur factureert of deadlines hebt.\n\nBij een klant zou zoiets funest zijn. Stel je voor dat je automatisch productbeschrijvingen laat genereren en de helft is leeg. Dan moet je handmatig controleren en opnieuw draaien. Dat is precies het tegenovergestelde van automatiseren.\n\nMijn regel is nu: elk nieuw model eerst testen met een simpele prompt. Krijg je een normaal antwoord? Dan pas inbouwen. Klinkt logisch, maar ik trap er zelf ook in."
+  },
+  {
+   "heading": "De les voor ondernemers",
+   "body": "AI-modellen veranderen snel. Vandaag werkt iets, morgen is er een update en ineens gedraagt het zich anders. Daarom bouw ik mijn eigen tools met AI, maar ik test elke stap. Geen blind vertrouwen.\n\nVoor DeepSeek betekent het: het blijft een belachelijk goedkoop werkpaard. Voor volume aan teksten en analyses is het prima. Maar ik zet het denken uit bij simpele taken. Anders verspil je tokens aan iets wat geen toegevoegde waarde heeft.\n\nEn ja, ik geef toe dat ik eerst dacht dat het aan mijn code lag. Dat is ook een les: check eerst het model, dan je eigen werk."
+  }
+ ],
+ "nl_angle": "Als Nederlandse ondernemer moet je niet blind varen op een AI-model. Test eerst met een kleine prompt of je krijgt wat je verwacht. Zet bij simpele taken het denken uit, dat scheelt tokens en gedoe. En onthoud: een leeg antwoord is geen fout van jou, maar van de instellingen.",
+ "faq": [
+  {
+   "q": "Hoe zet ik het denken uit bij DeepSeek?",
+   "a": "In de API-instellingen zet je de parameter voor redeneren uit. Bij sommige interfaces heet dat 'thinking' of 'reasoning'."
+  },
+  {
+   "q": "Waarom gaf DeepSeek lege antwoorden?",
+   "a": "Het flash-model gebruikte al zijn tokens om na te denken en hield niets over voor het antwoord. Denken uitzetten loste dat op."
+  },
+  {
+   "q": "Is DeepSeek nog bruikbaar na deze fix?",
+   "a": "Ja, voor volume aan teksten en analyses is het prima. Ik gebruik het nog steeds in mijn eigen tools, maar dan zonder denken voor simpele taken."
+  }
+ ],
+ "lessons_used": [
+  "deepseek-denken-uit"
+ ],
+ "slug": "deepseek-denken-uitzetten-lost-lege-antwoorden-op",
+ "kind": "practice",
+ "date": "2026-11-19",
+ "published": "2026-11-19T20:36",
+ "sources": [],
+ "path": "/mening/deepseek-denken-uitzetten-lost-lege-antwoorden-op/",
+ "og": "/img/og/deepseek-denken-uitzetten-lost-lege-antwoorden-op.png",
+ "lesson": "deepseek-denken-uit",
+ "author": "Maxim"
+}
