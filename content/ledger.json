@@ -3303,6 +3303,34 @@
   "b7121aa761": {
    "at": "2026-11-18T23:56:58.391500",
    "why": "ok"
+  },
+  "0d18c1b4cc": {
+   "at": "2026-11-19T12:51:29.632151",
+   "why": "ok"
+  },
+  "480d838e11": {
+   "at": "2026-11-19T12:51:29.632151",
+   "why": "ok"
+  },
+  "8bc46dcaa0": {
+   "at": "2026-11-19T12:52:29.632151",
+   "why": "ok"
+  },
+  "8aa9585b21": {
+   "at": "2026-11-19T12:53:29.632151",
+   "why": "poort"
+  },
+  "f1a80282c3": {
+   "at": "2026-11-19T12:53:29.632151",
+   "why": "poort"
+  },
+  "7ff3f8fd4b": {
+   "at": "2026-11-19T12:53:29.632151",
+   "why": "poort"
+  },
+  "2cf389d7c3": {
+   "at": "2026-11-19T12:53:29.632151",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3880,6 +3908,9 @@
   "Disney animatronics ai: Star Wars-figuren reageren op bezoekers",
   "OpenAI schetst hoe AI de samenleving kan hervormen",
   "OpenAI legt uit hoe het ai-risico's beheert van training tot inzet",
-  "Anthropic IPO geprijsd op $83 per aandeel, boven verwachting"
+  "Anthropic IPO geprijsd op $83 per aandeel, boven verwachting",
+  "AP raadt aankoop van AI-camerabrillen af na eigen onderzoek",
+  "Anthropic beursgang: beleggers staan in de rij voor maker van Claude",
+  "Nadella: veel kritieke infrastructuur is niet te patchen tegen AI-aanvallen"
  ]
 }

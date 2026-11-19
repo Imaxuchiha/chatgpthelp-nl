@@ -1,0 +1,64 @@
+{
+ "keyword": "ai cyberaanvallen infrastructuur",
+ "seo_title": "AI-cyberaanvallen: kritieke infrastructuur vaak niet",
+ "title": "Nadella: veel kritieke infrastructuur is niet te patchen tegen AI-aanvallen",
+ "meta": "Microsoft-ceo Satya Nadella zegt dat veel kritieke infrastructuur niet te patchen is. Wat betekent dat voor Nederland en de dreiging van AI-cyberaanvallen?",
+ "category": "nieuws",
+ "tags": [
+  "cyberveiligheid",
+  "ai",
+  "microsoft",
+  "satya nadella",
+  "kritieke infrastructuur"
+ ],
+ "intro": "Microsoft-topman Satya Nadella zegt dat een groot deel van de kritieke infrastructuur in de wereld niet te patchen is. Hij zei dat tijdens een techconferentie, meldt TechCrunch. Tegelijk speelde er een storing bij Outlook, die hij relativeerde. De uitspraak valt samen met groeiende zorgen over AI-cyberaanvallen.",
+ "takeaways": [
+  "Nadella stelt dat veel kritieke infrastructuur niet te patchen is.",
+  "AI levert volgens hem zowel kansen als nieuwe problemen op voor beveiliging.",
+  "De Outlook-storing werd door Nadella gerelativeerd.",
+  "Er is nog geen concreet Nederlands beleid genoemd in de bron."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Nadella precies zei",
+   "body": "Tijdens een techconferentie ging Nadella in op de beveiliging van het verbonden deel van de wereld. Veel daarvan is volgens hem niet te patchen. Dat betekent dat een softwarefout niet simpelweg met een update is te verhelpen.\n\nHij noemde daarbij ook AI. Die technologie zorgt voor kansen bij beveiliging, maar brengt ook nieuwe uitdagingen mee. De bron geeft geen details over welke systemen hij bedoelde."
+  },
+  {
+   "heading": "De Outlook-storing als bijvangst",
+   "body": "Naast zijn waarschuwing relativeerde Nadella de recente storing bij Outlook. Hij wilde de impact daarvan niet groot maken. TechCrunch meldt dat hij de storing besprak in dezelfde context van beveiliging en betrouwbaarheid.\n\nEen storing bij een maildienst is vervelend, maar valt in het niet bij problemen met systemen die niet te patchen zijn. Denk aan besturingssoftware in de industrie of verouderde apparatuur op plekken waar niemand snel iets kan vervangen."
+  },
+  {
+   "heading": "Waarom dit nu speelt",
+   "body": "Er zijn brede zorgen over cyberaanvallen die met AI worden uitgevoerd. Aanvallers kunnen sneller zwakke plekken vinden en aanvallen automatiseren. Verdedigers moeten daar iets tegenover zetten, terwijl een deel van de systemen vastzit aan oude software.\n\nNadella's boodschap is daarmee vooral een waarschuwing: niet alles is op te lossen met een update. De bron noemt geen concrete voorbeelden van aanvallen of getroffen systemen."
+  }
+ ],
+ "nl_angle": "In Nederland draaien veel vitale systemen op software die lastig te vervangen is. Denk aan gemalen, energienetten en verkeerssystemen. Als zo'n systeem niet te patchen is, moet de veiligheid uit andere maatregelen komen, zoals netwerkscheiding en strengere toegang. Wat dit concreet betekent voor Nederlandse beheerders is nog niet bekend; de bron noemt geen Nederlands beleid of richtlijnen.",
+ "faq": [
+  {
+   "q": "Wat bedoelt Nadella met niet te patchen infrastructuur?",
+   "a": "Systemen waarvan de software niet met een update is te repareren, bijvoorbeeld omdat ze verouderd zijn of niet bereikbaar voor een update. Zo'n fout blijft dan openstaan."
+  },
+  {
+   "q": "Wat betekent dit voor AI-cyberaanvallen?",
+   "a": "AI maakt het aanvallers makkelijker om zwakke plekken te vinden en aanvallen te automatiseren. Bij systemen die niet te patchen zijn, wordt verdedigen lastiger."
+  },
+  {
+   "q": "Geldt dit ook voor Nederland?",
+   "a": "De uitspraak gaat over kritieke infrastructuur wereldwijd. Of Nederlandse systemen hier ook onder vallen, is niet bekend uit de bron."
+  }
+ ],
+ "slug": "nadella-veel-kritieke-infrastructuur-is-niet-te-patchen-tegen-ai-aanva",
+ "kind": "news",
+ "date": "2026-11-19",
+ "published": "2026-11-19T12:53",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+  }
+ ],
+ "path": "/nieuws/nadella-veel-kritieke-infrastructuur-is-niet-te-patchen-tegen-ai-aanva/",
+ "og": "/img/og/nadella-veel-kritieke-infrastructuur-is-niet-te-patchen-tegen-ai-aanva.png",
+ "take": "Nadella zegt dat een groot deel van de kritieke infrastructuur niet te patchen is, en dat is precies het eerlijke verhaal dat je bij security-aankondigingen zelden hoort. Ik heb geen verstand van ziekenhuissystemen of energienetten, dus daar oordeel ik niet over. Wat ik wel weet: AI die overtuigend klinkt zonder te kloppen is het echte gevaar, en dat geldt net zo goed voor een mailtje dat namens mij verstuurd wordt als voor een gemiste patch."
+}

@@ -1,102 +1,5 @@
 [
  {
-  "at": "2026-10-11T22:11:39",
-  "slug": "",
-  "title": "Nikon diskwalificeert winnaar fotowedstrijd om generatieve AI",
-  "kind": "news",
-  "rood": [],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-11T22:11:48",
-  "slug": "",
-  "title": "Datacenter AI verzet: schrappen NDA's als oplossing",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-11T22:11:56",
-  "slug": "",
-  "title": "Nikon Small World in Motion heeft nieuwe winnaar na AI-diskwalificatie",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-11T22:12:03",
-  "slug": "",
-  "title": "AP zet stap in toezicht op AI met nieuwe directie TCA",
-  "kind": "news",
-  "rood": [
-   "S11",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-11T22:12:21",
-  "slug": "",
-  "title": "AI-week 41: toezicht, datacenters en lokale modellen",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-12T13:02:48",
-  "slug": "",
-  "title": "AI tekst detectie: check zit er zelden naast, maar bewijs ontbreekt",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-12T13:03:10",
-  "slug": "",
-  "title": "ChatGPT persbericht: zo maak je er een die klopt",
-  "kind": "evergreen",
-  "rood": [
-   "S10",
-   "S4",
-   "S6"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-12T13:03:15",
-  "slug": "",
-  "title": "ChatGPT persbericht: zo maak je er een die klopt",
-  "kind": "evergreen",
-  "rood": [
-   "S10",
-   "S6"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-12T22:24:51",
   "slug": "",
   "title": "VisionQuest review: AI's zoeken hun menselijkheid",
@@ -6378,6 +6281,104 @@
    "S10",
    "S8",
    "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-19T12:51:43",
+  "slug": "",
+  "title": "AP raadt aankoop van AI-camerabrillen af na eigen onderzoek",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-19T12:51:53",
+  "slug": "",
+  "title": "Anthropic beursgang: beleggers staan in de rij voor maker van Claude",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-19T12:52:02",
+  "slug": "",
+  "title": "Apple HomeView komt voorlopig niet naar Nederland door AI-regels",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-19T12:52:09",
+  "slug": "",
+  "title": "Gemini 4 Neon is het vierde Gemini 4-model in twee maanden",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S6"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-19T12:52:16",
+  "slug": "",
+  "title": "Anthropic naar de beurs: Claude-moederbedrijf debuteert op Nasdaq",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-19T12:52:24",
+  "slug": "",
+  "title": "Nadella: veel kritieke infrastructuur is niet te patchen tegen AI-aanvallen",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-19T12:53:08",
+  "slug": "",
+  "title": "Google Bedrijfsprofiel optimaliseren levert echt klanten op",
+  "kind": "column",
+  "rood": [
+   "S4"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-19T12:53:25",
+  "slug": "",
+  "title": "Google Bedrijfsprofiel optimaliseren levert echt klanten op",
+  "kind": "column",
+  "rood": [
+   "S4"
   ],
   "andere_fouten": 0,
   "stand": "meten"

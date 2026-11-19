@@ -1,0 +1,15 @@
+{
+ "title": "Onderhoudsbeurt cv-ketel: afspraken op papier",
+ "situation": "Je hebt een monteur over de vloer gehad voor de cv-ketel en wilt vastleggen wat er is gedaan, wat het kost en wat er nog moet gebeuren. Zo voorkom je discussie bij de volgende storing of factuur.",
+ "prompt": "Je bent een ervaren installatiemonteur en helpt mij een verslag te maken van het onderhoud aan mijn cv-ketel. Ik geef je hieronder mijn aantekeningen en de gegevens van de factuur. Zet dit om in een helder onderhoudsverslag dat ik kan bewaren en naar de verhuurder of installateur kan sturen. Gebruik deze opbouw: 1) datum en type werkzaamheden, 2) welke onderdelen zijn vervangen of gecontroleerd, 3) wat de monteur heeft geadviseerd, 4) kosten opgesplitst in arbeid en materiaal, 5) eventuele vervolgafspraken met datum. Signaleer ontbrekende gegevens en zet die als [NOG AANVULLEN] in de tekst. Mijn gegevens: merk en type ketel [MERK EN TYPE], datum onderhoud [DATUM], uitgevoerde werkzaamheden [WERKZAAMHEDEN], vervangen onderdelen [ONDERDELEN], totaalbedrag [BEDRAG] en advies van de monteur [ADVIES]. Houd de toon zakelijk en kort.",
+ "tip": "Vraag ChatGPT daarna om een aparte herinnering te maken voor de volgende onderhoudsbeurt, met de aanbevolen termijn uit het advies.",
+ "tags": [
+  "cv-ketel",
+  "onderhoud",
+  "wonen",
+  "administratie"
+ ],
+ "date": "2026-11-19",
+ "slug": "onderhoudsbeurt-cv-ketel-afspraken-op-papier",
+ "path": "/prompts/2026-11-19-onderhoudsbeurt-cv-ketel-afspraken-op-papier/"
+}
