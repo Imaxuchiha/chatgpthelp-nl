@@ -1,0 +1,69 @@
+{
+ "keyword": "google ai satellieten",
+ "seo_title": "Google AI-satellieten: Blue Origin lanceert vanaf 2029",
+ "title": "Blue Origin brengt Google AI-satellieten vanaf 2029 in de ruimte",
+ "meta": "Google laat Blue Origin vanaf 2029 AI-satellieten van Project Suncatcher lanceren met de New Glenn-raket. Wat betekent dat voor rekenkracht en Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "google",
+  "blue origin",
+  "ruimtevaart",
+  "ai",
+  "datacenter",
+  "satellieten"
+ ],
+ "intro": "Blue Origin gaat satellieten voor Google de ruimte in brengen. Het ruimtebedrijf van Jeff Bezos mag AI-satellieten van Project Suncatcher installeren en lanceren. De eerste vluchten staan gepland vanaf 2029, met de New Glenn-raket. Daarmee verhuist een deel van Googles rekenkracht naar een baan rond de aarde.",
+ "takeaways": [
+  "Blue Origin lanceert vanaf 2029 AI-satellieten voor Google.",
+  "Het gaat om Project Suncatcher, een plan voor datacenters in de ruimte.",
+  "De New Glenn-raket van Blue Origin verzorgt de lanceringen.",
+  "Google wil AI-rekenkracht buiten de aarde opbouwen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Google van plan is met Suncatcher",
+   "body": "Project Suncatcher is Googles plan om AI-datacenters in de ruimte te bouwen. Groepen satellieten moeten samen rekenkracht leveren voor AI-taken. Volgens Bright worden die satellieten vanaf 2029 in een baan rond de aarde geplaatst.\n\nHet idee past bij een bredere zoektocht naar rekenruimte. Datacenters op aarde gebruiken veel stroom en koelwater. In de ruimte is zonlicht volop aanwezig en is koeling via straling mogelijk. Of dat in de praktijk uitpakt, moet nog blijken."
+  },
+  {
+   "heading": "Waarom Blue Origin de lanceringen doet",
+   "body": "Blue Origin is het ruimtebedrijf van Jeff Bezos, de oprichter van Amazon. Het bedrijf bouwt de New Glenn, een zware raket die meerdere satellieten tegelijk kan wegbrengen. Google en Blue Origin werken samen aan de lanceringen, meldt Bright.\n\nHet contract past bij de ambitie van Blue Origin om vaker commerciële vracht te vervoeren. De New Glenn is nog jong en moet zich bewijzen tegenover concurrenten als SpaceX. Een klant als Google geeft het bedrijf meer gewicht in de markt."
+  },
+  {
+   "heading": "Ruimtedatacenters: hype of rekenkracht",
+   "body": "Het plan klinkt futuristisch, maar er zitten praktische haken aan. Satellieten moeten onderling data uitwisselen en weer contact houden met grondstations. Storingen en onderhoud zijn lastig als een apparaat honderden kilometers boven de aarde hangt.\n\nOok de levensduur telt mee. Satellieten slijten en moeten worden vervangen. Dat maakt de kosten per rekeneenheid onzeker. Google heeft nog geen prijzen of prestaties gedeeld. Wat Suncatcher precies gaat kosten, is niet bekend."
+  },
+  {
+   "heading": "Wat er tot 2029 gebeurt",
+   "body": "Tussen nu en 2029 moet er veel gebeuren. De satellieten worden ontworpen, getest en gebouwd. Blue Origin moet de New Glenn klaar hebben voor regelmatige lanceringen.\n\nOf de planning wordt gehaald, is afwachten. Ruimtevaartprojecten lopen vaak vertraging op. Google heeft geen details gegeven over het aantal satellieten of de eerste testvluchten. Nieuwe informatie komt waarschijnlijk pas dichter bij de eerste lancering naar buiten."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven verandert er op korte termijn weinig. Rekenkracht uit de ruimte is pas na 2029 aan de orde, en de diensten van Google in Nederland draaien gewoon op datacenters op aarde. Wel relevant: als ruimtedatacenters serieus worden, kan dat de vraag naar energie en grondstoffen voor datacenters elders beïnvloeden. De Autoriteit Consument en Markt en de Europese Commissie kijken mee naar de macht van grote techbedrijven. Nieuwe infrastructuur in de ruimte valt buiten bestaande regels, dus of Brussel hier iets van vindt, is nog niet duidelijk.",
+ "faq": [
+  {
+   "q": "Wat is Project Suncatcher van Google?",
+   "a": "Een plan om AI-datacenters in de ruimte te bouwen met groepen satellieten. Die moeten samen rekenkracht leveren voor AI-taken."
+  },
+  {
+   "q": "Wanneer gaan de Google-satellieten de ruimte in?",
+   "a": "Volgens Bright worden ze vanaf 2029 met de New Glenn-raket van Blue Origin in een baan rond de aarde geplaatst."
+  },
+  {
+   "q": "Heb ik in Nederland iets aan deze satellieten?",
+   "a": "Niet direct. Google-diensten in Nederland blijven voorlopig op datacenters op aarde draaien. De ruimteplannen zijn vooral een lange-termijnproject."
+  }
+ ],
+ "slug": "blue-origin-brengt-google-ai-satellieten-vanaf-2029-in-de-ruimte",
+ "kind": "news",
+ "date": "2026-11-20",
+ "published": "2026-11-20T12:54",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Blue Origin plaatst straks de AI-datacenters van Google in de ruimte",
+   "url": "https://www.bright.nl/nieuws/2160758/blue-origin-plaatst-straks-de-ai-datacenters-van-google-in-de-ruimte.html"
+  }
+ ],
+ "path": "/nieuws/blue-origin-brengt-google-ai-satellieten-vanaf-2029-in-de-ruimte/",
+ "og": "/img/og/blue-origin-brengt-google-ai-satellieten-vanaf-2029-in-de-ruimte.png",
+ "take": "Google en Blue Origin plannen vanaf 2029 AI-satellieten in de ruimte, en tot die tijd is dit een persbericht met een raket eronder. Ik beoordeel rekenkracht net als advertentietools: eerst zien wat het echt oplevert op mijn eigen werk, dan pas geloven. Een demo in een baan om de aarde is nog altijd geen product dat mijn bureau draait."
+}

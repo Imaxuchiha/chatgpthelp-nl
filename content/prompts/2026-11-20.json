@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: huurdersbelang checken bij servicekosten",
+ "situation": "Krijg je elk jaar een servicekostenafrekening van je verhuurder en zie je door de posten het bos niet meer? Met deze prompt laat je ChatGPT de afrekening per post tegen het licht houden.",
+ "prompt": "Je bent een Nederlandse woonjurist met verstand van servicekosten en de Wet betaalbare huur. Ik huur een woning in [STAD] bij [NAAM VERHUURDER] en heb de servicekostenafrekening over [JAAR] ontvangen. Hieronder plak ik de posten met bedragen:\n[PLAK HIER DE POSTEN MET BEDRAGEN]\nMijn eigen voorschot was [BEDRAG] per maand en ik heb [BEDRAG] teruggekregen of bijbetaald.\nDoe drie dingen. Eén: zet elke post in een tabel met wat het is, of het onder servicekosten valt en of het bedrag redelijk lijkt. Twee: markeer posten die volgens jou onterecht in rekening zijn gebracht, met per post een korte uitleg in gewone taal. Drie: schrijf een conceptbrief aan de verhuurder waarin ik om uitleg en onderbouwing vraag, met een redelijke reactietermijn van 14 dagen. Geen juridisch jargon. Voeg geen posten toe die niet in mijn lijst staan.",
+ "tip": "Vraag de verhuurder om de onderliggende facturen per post, dan kun je de bedragen echt controleren.",
+ "tags": [
+  "wonen",
+  "servicekosten",
+  "huur",
+  "brief opstellen"
+ ],
+ "date": "2026-11-20",
+ "slug": "prompt-huurdersbelang-checken-bij-servicekosten",
+ "path": "/prompts/2026-11-20-prompt-huurdersbelang-checken-bij-servicekosten/"
+}

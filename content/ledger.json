@@ -3355,6 +3355,22 @@
   "6900f6014b": {
    "at": "2026-11-20T00:01:53.536503",
    "why": "ok"
+  },
+  "17f8d3a01d": {
+   "at": "2026-11-20T12:52:23.570147",
+   "why": "ok"
+  },
+  "61ca92b34a": {
+   "at": "2026-11-20T12:53:23.570147",
+   "why": "poort"
+  },
+  "95c25e05b1": {
+   "at": "2026-11-20T12:53:23.570147",
+   "why": "ok"
+  },
+  "f6f42673c8": {
+   "at": "2026-11-20T12:54:23.570147",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3941,6 +3957,9 @@
   "AI-modellen wijzen burgers te makkelijk aan als militaire doelwitten",
   "Apple bouwt eigen AI-agent en zoekt er engineers voor",
   "AI-agent storingen: waarom boekings- en banksystemen uitvallen",
-  "Google zet AI-gesprekken op de homepage"
+  "Google zet AI-gesprekken op de homepage",
+  "ChatGPT krijgt aanpasbare menubalk, Nederland wacht nog",
+  "Apple zoekt mensen om van Siri een agentische AI te maken",
+  "Blue Origin brengt Google AI-satellieten vanaf 2029 in de ruimte"
  ]
 }

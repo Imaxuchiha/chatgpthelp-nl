@@ -1,71 +1,5 @@
 [
  {
-  "at": "2026-10-13T00:54:34",
-  "slug": "",
-  "title": "Epic Games zet alles op AI: de rekening komt bij spelers",
-  "kind": "column",
-  "rood": [
-   "S10",
-   "S11"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-13T12:45:46",
-  "slug": "",
-  "title": "AI-foto's op Funda maken huizen onherkenbaar bij bezichtiging",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-13T12:45:53",
-  "slug": "",
-  "title": "Meta Muse Wonder: nieuw AI-model moet opboksen tegen OpenAI en Google",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-13T12:46:01",
-  "slug": "",
-  "title": "Epic Games maakt games voortaan AI-first",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S11",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-13T12:46:08",
-  "slug": "",
-  "title": "Microsoft Maia 300 moet AI-cloud goedkoper maken",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-13T20:29:05",
   "slug": "",
   "title": "Gemini 4 Argon: Google lanceert nieuw AI-model voor lastige problemen",
@@ -6379,6 +6313,72 @@
   "kind": "news",
   "rood": [
    "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-20T12:52:35",
+  "slug": "",
+  "title": "ChatGPT krijgt aanpasbare menubalk, Nederland wacht nog",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-20T12:52:42",
+  "slug": "",
+  "title": "Google zet je AI-gesprekken in een zijbalk op de homepagina",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-20T12:52:51",
+  "slug": "",
+  "title": "Apple zoekt mensen om van Siri een agentische AI te maken",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-20T12:53:00",
+  "slug": "",
+  "title": "Blue Origin brengt Google AI-satellieten vanaf 2029 in de ruimte",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-20T12:53:33",
+  "slug": "",
+  "title": "ChatGPT premium: wat krijg je en is het nodig?",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S4",
    "S8",
    "S9"
   ],
