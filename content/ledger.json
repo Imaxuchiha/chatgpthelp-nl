@@ -3387,6 +3387,18 @@
   "f4784c3040": {
    "at": "2026-11-20T20:16:52.936446",
    "why": "ok"
+  },
+  "3ea993db7e": {
+   "at": "2026-11-20T23:36:45.525303",
+   "why": "ok"
+  },
+  "59fa562eab": {
+   "at": "2026-11-20T23:37:45.525303",
+   "why": "ok"
+  },
+  "321bf9e3c3": {
+   "at": "2026-11-20T23:38:45.525303",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3979,6 +3991,9 @@
   "Blue Origin brengt Google AI-satellieten vanaf 2029 in de ruimte",
   "Signal blokkeert screenshots om AI uit je chats te houden",
   "Canva laat je ai-functies uitzetten en minder ai-sjablonen zien",
-  "MedChemBench: OpenAI test hoe goed AI kandidaat-medicijnen vindt"
+  "MedChemBench: OpenAI test hoe goed AI kandidaat-medicijnen vindt",
+  "OpenAI bestrijdt adversarial distillation: zo beschermt het zijn modellen",
+  "Europa Fusion: Daniel Ek investeert in fusie-energie van AI-onderzoeker",
+  "Riemann hypothese: AI en mens claimen allebei een oplossing"
  ]
 }

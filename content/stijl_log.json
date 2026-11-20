@@ -1,43 +1,5 @@
 [
  {
-  "at": "2026-10-13T20:29:33",
-  "slug": "",
-  "title": "Facebook laat je algoritme aanpassen met AI-functie",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-13T23:10:59",
-  "slug": "",
-  "title": "Gemini 4 Argon: wat Google DeepMind vandaag aankondigde",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S11",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-13T23:11:07",
-  "slug": "",
-  "title": "AI-foto's op Funda maken huizen onherkenbaar bij bezichtiging",
-  "kind": "news",
-  "rood": [
-   "S8"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
   "at": "2026-10-13T23:11:14",
   "slug": "",
   "title": "Higgsfield maakt AI-video's van meer dan 10 minuten",
@@ -6381,6 +6343,46 @@
    "S6",
    "S8",
    "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-20T23:36:59",
+  "slug": "",
+  "title": "OpenAI bestrijdt adversarial distillation: zo beschermt het zijn modellen",
+  "kind": "news",
+  "rood": [
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-20T23:37:08",
+  "slug": "",
+  "title": "Europa Fusion: Daniel Ek investeert in fusie-energie van AI-onderzoeker",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-20T23:37:16",
+  "slug": "",
+  "title": "Riemann hypothese: AI en mens claimen allebei een oplossing",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8"
   ],
   "andere_fouten": 0,
   "stand": "meten"

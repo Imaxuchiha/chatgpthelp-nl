@@ -1,0 +1,68 @@
+{
+ "keyword": "adversarial distillation",
+ "seo_title": "Adversarial distillation: OpenAI pakt modeldiefstal aan",
+ "title": "OpenAI bestrijdt adversarial distillation: zo beschermt het zijn modellen",
+ "meta": "OpenAI legt uit hoe het adversarial distillation tegen gaat: training, safeguards, detectie en handhaving. Wat betekent dit voor gebruikers in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-modellen",
+  "modelbeveiliging",
+  "adversarial distillation",
+  "ai-beleid"
+ ],
+ "intro": "OpenAI heeft een meerlagige aanpak gepresenteerd om adversarial distillation tegen te gaan. Daarbij proberen anderen de capaciteiten van een model af te tappen via gerichte query's. Het bedrijf combineert training, beveiligingen, detectie en handhaving om dit tegen te werken.",
+ "takeaways": [
+  "Adversarial distillation is het heimelijk kopiëren van modelcapaciteiten via gerichte vragen.",
+  "OpenAI zet vier lagen in: training, safeguards, detectie en handhaving.",
+  "De aanpak moet modeldiefstal ontmoedigen en tegelijk normale gebruikers niet raken.",
+  "OpenAI noemt geen specifieke cijfers over het aantal gevallen of getroffen partijen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat is adversarial distillation precies?",
+   "body": "Bij adversarial distillation proberen partijen een AI-model te ondervragen om het gedrag na te bootsen. Ze gebruiken de antwoorden om een eigen model te trainen zonder toestemming. OpenAI ziet dit als een vorm van capaciteitsextractie. Het bedrijf noemt het een lastig probleem omdat de queries op normaal gebruik kunnen lijken.\n\nDe methode is niet nieuw, maar wordt volgens OpenAI steeds geraffineerder. Kwaadwillenden passen vragen aan om filters te omzeilen. Het doel is om de kennis en vaardigheden van een model over te nemen zonder de ontwikkelkosten te dragen."
+  },
+  {
+   "heading": "De vier lagen van OpenAI's aanpak",
+   "body": "OpenAI combineert vier soorten maatregelen. Ten eerste is er de training van het model zelf, zodat het minder gevoelig is voor extractiepogingen. Ten tweede zijn er safeguards die tijdens gebruik controleren of queries binnen de toegestane doelen vallen. Ten derde is er detectie: het systeem herkent patronen die op distillation wijzen. Ten vierde is er handhaving, waarbij OpenAI optreedt tegen partijen die de regels overtreden.\n\nDie lagen werken samen. Een enkele maatregel is volgens OpenAI niet genoeg, omdat aanvallers hun technieken aanpassen. De combinatie moet de drempel verhogen en het risico op ontdekking vergroten."
+  },
+  {
+   "heading": "Wat merken gewone gebruikers ervan?",
+   "body": "Voor normale gebruikers verandert er weinig. De beveiligingen zijn gericht op misbruik, niet op dagelijks gebruik. OpenAI stelt dat de maatregelen zo zijn ingericht dat legitieme toepassingen blijven werken. Wel kan het zijn dat bepaalde patronen extra controle krijgen.\n\nOntwikkelaars die via de API werken, kunnen mogelijk strengere limieten tegenkomen. OpenAI geeft geen concrete details over welke drempels gelden. Het bedrijf benadrukt dat handhaving pas volgt na detectie van duidelijke overtredingen."
+  },
+  {
+   "heading": "Waarom dit voor Nederland relevant is",
+   "body": "Ook Nederlandse bedrijven en onderzoekers gebruiken AI-modellen van OpenAI. De nieuwe maatregelen kunnen invloed hebben op hoe zij data verzamelen of modellen testen. Wie veel queries uitvoert om een eigen model te trainen, loopt meer risico op controle.\n\nDe Europese AI-verordening stelt eisen aan transparantie en auteursrecht. OpenAI's aanpak sluit daar deels bij aan, maar het bedrijf noemt de AI-wet niet expliciet. Nederlandse gebruikers doen er goed aan om de gebruiksvoorwaarden te checken voordat ze grootschalig data ophalen via de API."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse organisaties die AI-modellen gebruiken of eigen modellen trainen, betekent dit dat OpenAI strenger kijkt naar hoe data wordt verzameld. Grote hoeveelheden queries via de API kunnen eerder als verdacht worden bestempeld. Bedrijven die afhankelijk zijn van OpenAI's modellen voor eigen toepassingen, merken in de praktijk weinig, zolang ze binnen de voorwaarden blijven. Wie echter modellen nabouwt of data verzamelt voor training, moet rekening houden met detectie en mogelijke handhaving. De AI-verordening in de EU vraagt sowieso om zorgvuldigheid bij het gebruik van andermans modeluitkomsten.",
+ "faq": [
+  {
+   "q": "Wat is adversarial distillation?",
+   "a": "Het is een techniek waarbij iemand een AI-model gericht ondervraagt om de antwoorden te gebruiken voor het trainen van een eigen model, zonder toestemming van de maker."
+  },
+  {
+   "q": "Merken normale gebruikers iets van deze maatregelen?",
+   "a": "Waarschijnlijk niet. De maatregelen richten zich op misbruik en grootschalige extractie, niet op dagelijks gebruik van ChatGPT of de API."
+  },
+  {
+   "q": "Geldt dit ook voor bedrijven in Nederland?",
+   "a": "Ja, de gebruiksvoorwaarden van OpenAI gelden wereldwijd. Nederlandse bedrijven die via de API werken, vallen onder dezelfde detectie en handhaving."
+  }
+ ],
+ "slug": "openai-bestrijdt-adversarial-distillation-zo-beschermt-het-zijn-modell",
+ "kind": "news",
+ "date": "2026-11-20",
+ "published": "2026-11-20T23:36",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Combatting adversarial distillation",
+   "url": "https://openai.com/index/combatting-adversarial-distillation"
+  }
+ ],
+ "path": "/nieuws/openai-bestrijdt-adversarial-distillation-zo-beschermt-het-zijn-modell/",
+ "og": "/img/og/openai-bestrijdt-adversarial-distillation-zo-beschermt-het-zijn-modell.png",
+ "take": "OpenAI bouwt vier lagen bescherming om zijn modellen, en dat is hun goed recht. Voor mijn eigen scripts verandert er niets: ik draai op DeepSeek en Claude Code, dus ik betaal geen premium voor een slot dat ik niet nodig heb. Eerst zien dat zo'n aanpak echt werkt op andermans modellen, dan pas geloven."
+}

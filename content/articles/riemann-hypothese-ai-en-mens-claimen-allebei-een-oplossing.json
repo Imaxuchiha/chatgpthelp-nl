@@ -1,0 +1,68 @@
+{
+ "keyword": "riemann hypothese ai",
+ "seo_title": "Riemann hypothese: AI en mens claimen bewijs",
+ "title": "Riemann hypothese: AI en mens claimen allebei een oplossing",
+ "meta": "AI en een wiskundige claimen beiden de Riemann hypothese te hebben opgelost. Wat dat betekent voor wiskunde in Nederland en hoe zeker het bewijs is.",
+ "category": "nieuws",
+ "tags": [
+  "riemann hypothese",
+  "wiskunde",
+  "ai",
+  "onderzoek",
+  "bewijs"
+ ],
+ "intro": "Een AI-systeem zegt de Riemann hypothese te hebben opgelost, een wiskundig vraagstuk dat sinds 1859 openstaat. Opvallend: een menselijke wiskundige komt volgens TechCrunch met een eigen oplossing. Wiskundigen reageren verrast op beide resultaten.",
+ "takeaways": [
+  "Een AI-systeem claimt een oplossing voor de Riemann hypothese, een vraagstuk van 167 jaar oud.",
+  "Een menselijke wiskundige presenteert tegelijk een eigen oplossing volgens TechCrunch.",
+  "Wiskundigen zijn verrast door de dubbele claim.",
+  "Of een van beide oplossingen klopt, is nog niet bevestigd."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de Riemann hypothese precies is",
+   "body": "De Riemann hypothese gaat over de zèta-functie, een wiskundige formule met priemgetallen als basis. Bernhard Riemann formuleerde het vermoeden in 1859. Het zegt iets over waar de nulpunten van die functie liggen.\n\nHet vraagstuk staat al 167 jaar open. TechCrunch noemt het een van de bekendste onopgeloste problemen in de wiskunde. Een echt bewijs zou gevolgen hebben voor delen van de getaltheorie en de cryptografie."
+  },
+  {
+   "heading": "Twee claims tegelijk",
+   "body": "Volgens TechCrunch heeft een AI-systeem een oplossing gepresenteerd. Rond dezelfde tijd kwam een menselijke wiskundige met een eigen uitwerking. De twee resultaten zijn dus los van elkaar ontstaan.\n\nWiskundigen reageren volgens de bron met verbazing. TechCrunch spreekt van 'minds blown'. Dat zegt iets over de impact, maar nog niets over de vraag of het bewijs houdt."
+  },
+  {
+   "heading": "Nog geen bevestiging",
+   "body": "Of een van beide oplossingen klopt, is niet vastgesteld. Een wiskundig bewijs moet door vakgenoten worden nagelopen, en dat kost tijd. TechCrunch meldt niet welke instantie of welk systeem de AI-claim heeft gedaan.\n\nOok details over de menselijke oplossing ontbreken in de bron. Namen, instellingen en de volledige uitwerking staan er niet in. Tot die controle klaar is, blijft de status van beide claims onzeker."
+  },
+  {
+   "heading": "Waarom dit vaker gaat gebeuren",
+   "body": "AI-systemen worden steeds vaker ingezet bij wiskundig onderzoek. Ze zoeken patronen in grote hoeveelheden formules en bewijzen. Dat levert soms bruikbare tussenstappen op.\n\nDe kunst is om zo'n uitkomst te controleren. Een computer kan een bewijs produceren dat er logisch uitziet, terwijl er een fout in zit. Menselijke wiskundigen blijven nodig om dat te toetsen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse wiskundigen en onderzoeksinstellingen, zoals die aan de universiteiten in Amsterdam, Utrecht en Leiden, betekent dit vooral werk aan de winkel: claims van AI moeten worden nagelopen. Onderzoeksfinanciers en tijdschriften zullen vaker een procedure nodig hebben om AI-bijdragen aan bewijzen te beoordelen. Voor het onderwijs verandert er weinig op korte termijn. De Riemann hypothese blijft voorlopig een open vraag, en dat geldt ook voor de vraag of deze twee claims standhouden.",
+ "faq": [
+  {
+   "q": "Is de Riemann hypothese nu opgelost?",
+   "a": "Nee, dat is nog niet bevestigd. Er liggen twee claims, één van een AI-systeem en één van een menselijke wiskundige, maar geen van beide is door vakgenoten goedgekeurd."
+  },
+  {
+   "q": "Wat is de Riemann hypothese?",
+   "a": "Het is een vermoeden uit 1859 over de nulpunten van de zèta-functie, een formule die met priemgetallen samenhangt. Het staat al 167 jaar open."
+  },
+  {
+   "q": "Kan AI wiskundige bewijzen leveren?",
+   "a": "AI kan tussenstappen en kandidaten voor een bewijs vinden. Menselijke controle blijft nodig, omdat een gegenereerd bewijs fouten kan bevatten."
+  }
+ ],
+ "slug": "riemann-hypothese-ai-en-mens-claimen-allebei-een-oplossing",
+ "kind": "news",
+ "date": "2026-11-20",
+ "published": "2026-11-20T23:38",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+  }
+ ],
+ "path": "/nieuws/riemann-hypothese-ai-en-mens-claimen-allebei-een-oplossing/",
+ "og": "/img/og/riemann-hypothese-ai-en-mens-claimen-allebei-een-oplossing.png",
+ "take": "Twee oplossingen voor hetzelfde probleem, dat ruikt naar een race om de aandacht. Ik geloof pas dat er echt iets staat als wiskundigen die het kunnen narekenen hetzelfde zeggen. Een demo is geen product, en een claim is nog geen bewijs."
+}
