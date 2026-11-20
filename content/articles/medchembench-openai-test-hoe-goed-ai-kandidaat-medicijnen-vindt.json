@@ -1,0 +1,64 @@
+{
+ "keyword": "medchembench ai",
+ "seo_title": "MedChemBench: OpenAI test AI bij geneesmiddelen zoeken",
+ "title": "MedChemBench: OpenAI test hoe goed AI kandidaat-medicijnen vindt",
+ "meta": "OpenAI lanceert MedChemBench, een test die meet hoe goed AI-modellen moleculen lezen en kandidaat-medicijnen kiezen. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "medchembench",
+  "geneesmiddelen",
+  "ai in onderzoek",
+  "farmacie"
+ ],
+ "intro": "OpenAI heeft MedChemBench gepresenteerd, een benchmark die bijhoudt hoe goed AI-modellen omgaan met vroege geneesmiddelenontwikkeling. De test kijkt of modellen molecuulstructuren begrijpen, redeneren vanuit proefresultaten en kansrijke stoffen aanwijzen. Dat raakt de eerste fase van medicijnonderzoek, waar veel kandidaten sneuvelen.",
+ "takeaways": [
+  "MedChemBench meet hoe AI molecuulstructuren leest en interpreteert.",
+  "De test beoordeelt ook redeneren vanuit experimentele gegevens.",
+  "Modellen moeten laten zien welke stoffen ze in vroege ontdekking kiezen.",
+  "OpenAI noemt dit de fase van early drug discovery."
+ ],
+ "sections": [
+  {
+   "heading": "Wat MedChemBench precies meet",
+   "body": "MedChemBench draait om drie vaardigheden. Een model moet een molecuulstructuur kunnen lezen en begrijpen. Het moet vervolgens redeneren op basis van experimentele gegevens. Tot slot moet het een selectie maken uit stoffen die in de vroege ontdekking kansrijk lijken.\n\nDat klinkt technisch, maar het gaat om de basisvragen in medicijnonderzoek. Welke stof werkt, welke valt af en waarom. Volgens OpenAI toetst de benchmark precies die stappen.\n\nDe benchmark is een meetlat, geen medicijn. OpenAI zegt niets over nieuwe kandidaten of lopende trials. Het bedrijf publiceert een manier om modellen onderling te vergelijken op dit werk."
+  },
+  {
+   "heading": "Waarom dit telt voor medicijnonderzoek",
+   "body": "De eerste fase van geneesmiddelenontwikkeling kost veel tijd en geld. Onderzoekers bekijken duizenden stoffen en houden er vaak maar een paar over. Elk model dat dat voorwerk sneller of beter doet, kan onderzoekers tijd schelen.\n\nToch blijft de vraag wat een goede score waard is. Een benchmark meet een stukje van het werk, niet de hele keten van lab tot apotheek. Proeven in het lab en bij mensen blijven nodig.\n\nOpenAI geeft in de aankondiging geen cijfers over hoe goed bestaande modellen scoren. Ook is niet bekend welke modellen zijn getest. Daarover is nog niets naar buiten gebracht."
+  },
+  {
+   "heading": "AI als hulpmiddel, geen vervanging",
+   "body": "MedChemBench past in een bredere beweging: AI inzetten als hulpmiddel bij wetenschappelijk werk. De mens blijft aan zet bij de keuze welke stoffen worden getest. Een model kan opties ordenen en onderbouwen.\n\nVoor farmabedrijven en onderzoeksinstellingen is dat interessant. Zij kunnen modellen naast elkaar leggen en kijken welk model het beste past bij hun eigen vraag. De benchmark geeft daarvoor een gemeenschappelijke maat.\n\nWat ontbreekt, is een koppeling met de praktijk van alledag. Of een hoge score op MedChemBench leidt tot betere kandidaten in het lab, moet nog blijken."
+  }
+ ],
+ "nl_angle": "Voor Nederland is dit vooral relevant voor farmaonderzoek en universiteiten die met AI werken. Instellingen zoals universiteiten en onderzoeksorganisaties kunnen MedChemBench gebruiken om modellen te vergelijken voordat ze kiezen waarmee ze werken. Er zijn geen kosten of prijzen in euro's genoemd. Ook is niet bekend of Nederlandse partijen bij de benchmark betrokken zijn. Let op: de benchmark zegt iets over modelprestaties, niet over de toelating van medicijnen in de EU.",
+ "faq": [
+  {
+   "q": "Wat is MedChemBench van OpenAI?",
+   "a": "Een benchmark die meet hoe goed AI-modellen molecuulstructuren begrijpen, redeneren vanuit experimentele gegevens en stoffen kiezen in vroege geneesmiddelenontwikkeling."
+  },
+  {
+   "q": "Voorspelt MedChemBench of een medicijn werkt?",
+   "a": "Nee. De test meet hoe modellen omgaan met informatie in de vroege ontdekkingsfase. Laboratoriumonderzoek en proeven bij mensen blijven nodig."
+  },
+  {
+   "q": "Wat betekent MedChemBench voor onderzoek in Nederland?",
+   "a": "Onderzoeksinstellingen en farmabedrijven kunnen het gebruiken om AI-modellen te vergelijken. Of Nederlandse partijen meedoen, is niet bekendgemaakt."
+  }
+ ],
+ "slug": "medchembench-openai-test-hoe-goed-ai-kandidaat-medicijnen-vindt",
+ "kind": "news",
+ "date": "2026-11-20",
+ "published": "2026-11-20T20:16",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "url": "https://openai.com/index/introducing-medchembench"
+  }
+ ],
+ "path": "/nieuws/medchembench-openai-test-hoe-goed-ai-kandidaat-medicijnen-vindt/",
+ "og": "/img/og/medchembench-openai-test-hoe-goed-ai-kandidaat-medicijnen-vindt.png",
+ "take": "Een benchmark die OpenAI zelf opzet, zegt me pas iets als er een onafhankelijke partij meedoet. Tot die tijd is MedChemBench een nette demo met een indrukwekkend rijtje taken. Wie écht wil weten of een model kandidaat-medicijnen kan aanwijzen, laat dat zien op proefresultaten die niet van de maker zelf komen."
+}

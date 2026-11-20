@@ -1,0 +1,66 @@
+{
+ "keyword": "signal screenshots blokkeren",
+ "seo_title": "Signal blokkeert screenshots: AI leest je chats niet meer",
+ "title": "Signal blokkeert screenshots om AI uit je chats te houden",
+ "meta": "Signal blokkeert screenshots op iOS 27 en sommige Android-telefoons. Zo houdt de app AI-assistenten als Siri en Gemini buiten je gesprekken.",
+ "category": "nieuws",
+ "tags": [
+  "signal",
+  "privacy",
+  "ai",
+  "ios 27",
+  "android"
+ ],
+ "intro": "Signal gaat screenshots blokkeren op iPhones met iOS 27 en op een deel van de Android-telefoons. De chatapp wil zo voorkomen dat AI-assistenten zoals Siri en Gemini je gesprekken kunnen lezen. Dat meldt Bright.",
+ "takeaways": [
+  "Signal blokkeert screenshots op iPhones met iOS 27 en op sommige Android-toestellen.",
+  "De maatregel moet verhinderen dat AI-assistenten als Siri en Gemini chatgesprekken uitlezen.",
+  "Wil je toch een screenshot maken, dan moet je mogelijk eerst iets in de instellingen aanpassen."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Signal precies tegenhoudt",
+   "body": "Een screenshot van een chat wordt op de geblokkeerde toestellen tegengehouden. De functie geldt voor iPhones die op iOS 27 draaien. Op Android werkt het alleen op toestellen waar de software dit ondersteunt.\n\nSignal noemt als reden dat AI-assistenten meekijken op je scherm. Siri en Gemini kunnen scherminhoud verwerken. Een screenshot is dan een simpele route naar je gesprekken.\n\nDe blokkade is dus een dam tegen die route. Of het in de praktijk waterdicht is, blijkt pas als gebruikers het proberen."
+  },
+  {
+   "heading": "Waarom AI meekijken een probleem is",
+   "body": "Spraakassistenten op je telefoon krijgen steeds vaker toegang tot wat er op je scherm staat. Ze kunnen tekst herkennen en doorsturen naar een server. Voor gewone apps is dat handig. Voor een gesprek dat je privé houdt, is het een risico.\n\nSignal positioneert zich als app waarbij privacy vooropstaat. De blokkade past bij die koers. De app wil dat je gesprekken binnen de app blijven.\n\nEen screenshot omzeilt de beveiliging van de app zelf. Daarom pakt Signal juist dat moment aan."
+  },
+  {
+   "heading": "Wat je zelf merkt in de app",
+   "body": "Op een toestel waar de blokkade actief is, lukt een screenshot niet zomaar. Je moet dan mogelijk eerst in de instellingen iets wijzigen. Hoe dat precies werkt, verschilt per toestel en per besturingssysteem.\n\nSignal zegt niet op welke Android-toestellen de functie precies werkt. Dat is nog niet bekend. Op iPhones is iOS 27 de voorwaarde.\n\nHeb je een ouder toestel, dan verandert er voor jou voorlopig weinig. De blokkade komt dan niet mee."
+  },
+  {
+   "heading": "Wat het betekent voor je dagelijkse gebruik",
+   "body": "De meeste mensen maken zelden een screenshot van een chat. Merk je niets van de blokkade, dan is er geen actie nodig. Maak je wel eens een screenshot om iets te bewaren, dan kan dat straks omslachtiger worden.\n\nSignal levert met deze stap een signaal af aan andere chat-apps. Of WhatsApp en Telegram volgen, is niet bekend. Bij die apps is niets aangekondigd.\n\nDe maatregel raakt ook het werk van AI-bedrijven. Assistenten die scherminhoud lezen, krijgen bij Signal minder ruimte."
+  }
+ ],
+ "nl_angle": "Voor gebruikers in Nederland verandert er weinig aan de app zelf. Signal is hier gewoon te downloaden en werkt hetzelfde. Heb je een iPhone met iOS 27 of een recente Android-telefoon, dan kan een screenshot van een chat worden tegengehouden. Bedrijven die Signal gebruiken voor interne gesprekken merken dat medewerkers minder makkelijk een gesprek kunnen vastleggen als bewijs of voor een overdracht. Wil je toch iets bewaren, dan moet je een andere route kiezen. De Europese regels voor AI, de AI Act, stellen eisen aan systemen die scherminhoud verwerken. Signaal past daarmee in een bredere discussie over hoeveel toegang assistenten op je telefoon krijgen.",
+ "faq": [
+  {
+   "q": "Waarom blokkeert Signal screenshots?",
+   "a": "Signal wil voorkomen dat AI-assistenten zoals Siri en Gemini je chatgesprekken kunnen lezen via een screenshot van je scherm."
+  },
+  {
+   "q": "Op welke toestellen werkt de blokkade?",
+   "a": "Op iPhones met iOS 27 en op sommige Android-telefoons. Welke Android-toestellen precies, is nog niet bekend."
+  },
+  {
+   "q": "Kan ik nog een screenshot maken van een Signal-chat?",
+   "a": "Op een geblokkeerd toestel lukt dat niet zomaar. Je moet dan mogelijk eerst iets in de instellingen aanpassen."
+  }
+ ],
+ "slug": "signal-blokkeert-screenshots-om-ai-uit-je-chats-te-houden",
+ "kind": "news",
+ "date": "2026-11-20",
+ "published": "2026-11-20T20:14",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Signal blokkeert screenshots om AI uit je chats te houden",
+   "url": "https://www.bright.nl/nieuws/2160978/signal-blokkeert-screenshots-om-ai-uit-je-chats-te-houden.html"
+  }
+ ],
+ "path": "/nieuws/signal-blokkeert-screenshots-om-ai-uit-je-chats-te-houden/",
+ "og": "/img/og/signal-blokkeert-screenshots-om-ai-uit-je-chats-te-houden.png"
+}

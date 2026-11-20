@@ -3371,6 +3371,22 @@
   "f6f42673c8": {
    "at": "2026-11-20T12:54:23.570147",
    "why": "ok"
+  },
+  "c1308b5be1": {
+   "at": "2026-11-20T20:14:52.936446",
+   "why": "ok"
+  },
+  "3a0cb236fd": {
+   "at": "2026-11-20T20:15:52.936446",
+   "why": "high-risk"
+  },
+  "c67538fb94": {
+   "at": "2026-11-20T20:15:52.936446",
+   "why": "ok"
+  },
+  "f4784c3040": {
+   "at": "2026-11-20T20:16:52.936446",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3960,6 +3976,9 @@
   "Google zet AI-gesprekken op de homepage",
   "ChatGPT krijgt aanpasbare menubalk, Nederland wacht nog",
   "Apple zoekt mensen om van Siri een agentische AI te maken",
-  "Blue Origin brengt Google AI-satellieten vanaf 2029 in de ruimte"
+  "Blue Origin brengt Google AI-satellieten vanaf 2029 in de ruimte",
+  "Signal blokkeert screenshots om AI uit je chats te houden",
+  "Canva laat je ai-functies uitzetten en minder ai-sjablonen zien",
+  "MedChemBench: OpenAI test hoe goed AI kandidaat-medicijnen vindt"
  ]
 }
