@@ -3427,11 +3427,25 @@
   "e4c2f7b179": {
    "at": "2026-11-21T19:12:33.590784",
    "why": "ok"
+  },
+  "b336c22b05": {
+   "at": "2026-11-21T22:36:11.002927",
+   "why": "poort"
+  },
+  "6ccebafcdf": {
+   "at": "2026-11-21T22:36:11.002927",
+   "why": "ok"
+  },
+  "dffab27fe8": {
+   "at": "2026-11-21T22:37:11.002927",
+   "why": "ok"
+  },
+  "a9f34b76fc": {
+   "at": "2026-11-21T22:38:11.002927",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "Altman: beursgang OpenAI in 2026 is 'onverstandig'",
-  "Techbedrijven kampen met meer en deels onzichtbare schulden",
   "AI-bedrijven waarschuwen voor eigen tempo: 'Stop er dan mee'",
   "Fyxer bouwt AI-assistent voor je inbox met OpenAI",
   "AI-top sluit akkoord om ontwikkeling te vertragen",
@@ -4028,6 +4042,9 @@
   "Google zoekpagina ai: geen zoekknop meer, wel chatgeschiedenis",
   "Meta klimaatdoelen ai: 2030-doel wankelt door datacenters",
   "Google Assistent stopt volgend jaar op slimme speakers en Nest Hub",
-  "Etsy draait AI-beleid terug na vertrek van verkopers"
+  "Etsy draait AI-beleid terug na vertrek van verkopers",
+  "AI-agent in je sms: TechCrunch zet de opties op een rij",
+  "Acteur verkoopt AI-versie van zijn gezicht aan microdrama-startup",
+  "Anthropic naar de beurs: kan veiligheid voorop blijven?"
  ]
 }

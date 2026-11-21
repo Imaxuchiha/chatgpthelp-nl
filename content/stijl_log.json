@@ -1,54 +1,5 @@
 [
  {
-  "at": "2026-10-14T17:57:29",
-  "slug": "",
-  "title": "AI wormen verspreiden zich via slimme apparaten, waarschuwt Anthropic",
-  "kind": "news",
-  "rood": [
-   "S6",
-   "S8"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-14T22:09:36",
-  "slug": "",
-  "title": "OpenAI ai agents: Amp zet agents breder in dan code",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-14T22:09:42",
-  "slug": "",
-  "title": "SentinelOne snijdt malware-analyse terug met OpenAI Daybreak",
-  "kind": "news",
-  "rood": [
-   "S4",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-14T22:09:50",
-  "slug": "",
-  "title": "AI hallucinaties gevaar: 5 momenten dat het misging",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
   "at": "2026-10-14T22:09:58",
   "slug": "",
   "title": "Samsung Galaxy AI werkt nu in het Nederlands",
@@ -6394,6 +6345,60 @@
   "kind": "news",
   "rood": [
    "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-21T22:36:21",
+  "slug": "",
+  "title": "Riemann-hypothese bewijs met Claude roept kritiek op bij wiskundigen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-21T22:36:29",
+  "slug": "",
+  "title": "AI-agent in je sms: TechCrunch zet de opties op een rij",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-21T22:36:37",
+  "slug": "",
+  "title": "Acteur verkoopt AI-versie van zijn gezicht aan microdrama-startup",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-21T22:36:45",
+  "slug": "",
+  "title": "Anthropic naar de beurs: kan veiligheid voorop blijven?",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S5",
    "S9"
   ],
   "andere_fouten": 0,
