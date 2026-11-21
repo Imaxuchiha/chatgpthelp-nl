@@ -1,0 +1,64 @@
+{
+ "keyword": "meta klimaatdoelen ai",
+ "seo_title": "Meta klimaatdoelen ai: 2030-doel wankelt door datacenters",
+ "title": "Meta klimaatdoelen ai: 2030-doel wankelt door datacenters",
+ "meta": "Meta haalt zijn klimaatdoel voor 2030 waarschijnlijk niet door de groei van AI-datacenters. Lees wat dit betekent voor Nederland en de EU.",
+ "category": "nieuws",
+ "tags": [
+  "meta",
+  "ai",
+  "datacenters",
+  "klimaat",
+  "duurzaamheid"
+ ],
+ "intro": "Meta zegt dat het zijn klimaatdoel voor 2030 waarschijnlijk niet haalt. De oorzaak is de groeiende vraag naar AI, waardoor het bedrijf veel nieuwe datacenters bouwt en de uitstoot stijgt. Meta herziet daarom zijn duurzaamheidsdoelen en de bijbehorende tijdlijnen.",
+ "takeaways": [
+  "Meta verwacht zijn klimaatdoel voor 2030 niet te halen.",
+  "De bouw van nieuwe datacenters voor AI jaagt de uitstoot omhoog.",
+  "Meta bekijkt zijn duurzaamheidsdoelen en tijdlijnen opnieuw.",
+  "Het bedrijf noemt nog geen nieuwe deadline of cijfers."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er aan de hand is",
+   "body": "Meta had zichzelf een deadline gesteld: in 2030 moest het bedrijf zijn uitstoot flink hebben teruggedrongen. Dat lukt naar verwachting niet. Volgens Bright komt dat door AI.\n\nDe vraag naar AI groeit hard. Om die vraag aan te kunnen, bouwt Meta op grote schaal nieuwe datacenters. Die gebouwen slurpen stroom en zorgen voor meer uitstoot van broeikasgassen.\n\nHet bedrijf trekt nu aan de rem op zijn eigen duurzaamheidsbeloftes. Meta zegt zijn doelen en de tijdlijnen opnieuw te bekijken. Concrete nieuwe cijfers of een nieuwe deadline noemt het bedrijf niet."
+  },
+  {
+   "heading": "Waarom AI zoveel stroom kost",
+   "body": "Een datacenter is in feite een hal vol servers die dag en nacht rekenen. AI-modellen vragen meer rekenkracht dan gewone software. Elke vraag die je aan een chatbot stelt, kost stroom in zo'n hal.\n\nMeer gebruikers en meer modellen betekenen dus meer servers. Meer servers betekenen meer stroom en meer koeling. Zolang die stroom niet volledig uit wind, zon of andere schone bronnen komt, loopt de uitstoot op.\n\nMeta is niet het enige techbedrijf met dit probleem. De hele sector worstelt met de vraag hoe je AI laat groeien en tegelijk je klimaatbeloftes houdt. Duidelijk is dat nog niet."
+  },
+  {
+   "heading": "Doelen verschuiven, niet verdwijnen",
+   "body": "Meta zet zijn klimaatambities niet helemaal aan de kant. Het bedrijf blijft praten over duurzaamheid en hernieuwbare energie. Alleen de timing schuift op.\n\nDat is een patroon dat vaker terugkomt bij grote techbedrijven. Ze stellen een doel, de techniek verandert en het doel blijkt niet meer te passen. Dan volgt een herziening van de planning.\n\nVoor buitenstaanders is lastig te controleren hoe groot de vertraging precies is. Meta heeft nog geen nieuwe einddatum genoemd. Ook is niet bekend hoeveel extra uitstoot de nieuwe datacenters opleveren."
+  }
+ ],
+ "nl_angle": "Nederland heeft zelf een flinke datacenter-sector, onder meer in Amsterdam en de Eemshaven. Als grote techbedrijven zoals Meta meer rekenkracht voor AI nodig hebben, groeit de vraag naar stroom en ruimte ook hier. Dat raakt de discussie over het stroomnet, dat nu al op veel plekken vol zit. Bedrijven die hun eigen klimaatdoelen halen, kunnen bovendien strenger kijken naar de leveranciers van hun AI-diensten. Wie ChatGPT, Copilot of een Meta-dienst gebruikt, merkt daar indirect iets van: de rekening voor rekenkracht en energie komt uiteindelijk bij iemand terecht. Europese regels voor duurzaamheidsverslaggeving maken de druk op dit soort bedrijven groter.",
+ "faq": [
+  {
+   "q": "Haalt Meta zijn klimaatdoel voor 2030?",
+   "a": "Waarschijnlijk niet, meldt Bright. Door de groei van AI en nieuwe datacenters stijgt de uitstoot, en Meta bekijkt zijn doelen en tijdlijnen opnieuw."
+  },
+  {
+   "q": "Waarom zorgen AI-datacenters voor meer uitstoot?",
+   "a": "AI vraagt veel rekenkracht. Dat betekent meer servers, meer stroom en meer koeling. Zolang die stroom niet volledig schoon is, loopt de uitstoot op."
+  },
+  {
+   "q": "Wat merkt Nederland hiervan?",
+   "a": "Meer vraag naar rekenkracht raakt het stroomnet en de ruimte voor datacenters in Nederland. Ook Europese duurzaamheidsregels spelen mee."
+  }
+ ],
+ "slug": "meta-klimaatdoelen-ai-2030-doel-wankelt-door-datacenters",
+ "kind": "news",
+ "date": "2026-11-21",
+ "published": "2026-11-21T19:10",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Meta gaat zijn klimaatdoelen waarschijnlijk toch niet halen",
+   "url": "https://www.bright.nl/nieuws/2161323/meta-gaat-zijn-klimaatdeadline-waarschijnlijk-verschuiven.html"
+  }
+ ],
+ "path": "/nieuws/meta-klimaatdoelen-ai-2030-doel-wankelt-door-datacenters/",
+ "og": "/img/og/meta-klimaatdoelen-ai-2030-doel-wankelt-door-datacenters.png",
+ "take": "Meta schuift zijn klimaatdoel op omdat AI-stroom vreet, en dat is precies waarom ik aankondigingen eerst zie en dan geloof. Een doel dat wijkt zodra het geld kost, was een persbericht met een datum erop. Ik beoordeel een tool op wat hij oplevert als ik hem zelf draai, niet op wat een bedrijf belooft te gaan doen."
+}
