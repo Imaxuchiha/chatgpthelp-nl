@@ -41,7 +41,8 @@
   "deepseek-denken-uit"
  ],
  "tools": [
-  "Claude Code (Anthropic)"
+  "Claude Code (Anthropic)",
+  "DeepSeek (API)"
  ],
  "columns": [
   "niet-snoeien-op-gevoel-je-beste-producten-verkopen-later",

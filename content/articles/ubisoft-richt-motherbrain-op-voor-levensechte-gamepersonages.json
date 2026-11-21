@@ -1,0 +1,64 @@
+{
+ "keyword": "ubisoft motherbrain",
+ "seo_title": "Ubisoft Motherbrain: AI-personages in games",
+ "title": "Ubisoft richt Motherbrain op voor levensechte gamepersonages",
+ "meta": "Ubisoft start dochterbedrijf Motherbrain voor generatieve AI in games. Lees wat slimme NPC's betekenen voor spelers en de game-industrie in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ubisoft",
+  "motherbrain",
+  "ai in games",
+  "npc",
+  "generatieve ai"
+ ],
+ "intro": "Ubisoft heeft een apart dochterbedrijf opgericht dat zich volledig richt op generatieve AI voor videogames. Het bedrijf heet Motherbrain en gaat onder meer werken aan personages die zelfstandig reageren op spelers. Die personages moeten eerdere interacties onthouden, meldt Bright.",
+ "takeaways": [
+  "Ubisoft heeft dochterbedrijf Motherbrain opgericht, gericht op generatieve AI voor games.",
+  "Motherbrain werkt aan NPC's die zelfstandig reageren en eerdere interacties onthouden.",
+  "De technologie wordt in eigen huis ontwikkeld, niet alleen ingekocht bij externe partijen.",
+  "Wat de plannen concreet kosten en wanneer spelers het merken, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Motherbrain precies gaat doen",
+   "body": "Motherbrain is een zelfstandig dochterbedrijf van Ubisoft. De focus ligt op eigen generatieve AI-technologie voor videogames. Ubisoft wil daarmee niet afhankelijk zijn van bestaande AI-modellen van andere partijen.\n\nHet eerste werkterrein zijn npc's, de personages in een game die door de computer worden bestuurd. Die moeten zelfstandig kunnen reageren op wat een speler doet. Ook moeten ze onthouden wat er eerder in een gesprek of situatie is gebeurd.\n\nDat is een flinke stap ten opzichte van de vaste reactiepatronen die dit soort personages nu vaak hebben. Een wachter in een game zegt nu meestal steeds dezelfde zin. Met generatieve AI kan zo'n personage per speler anders reageren."
+  },
+  {
+   "heading": "Waarom Ubisoft dit apart zet",
+   "body": "Door de AI-tak in een eigen bedrijf onder te brengen, kan Ubisoft er zelfstandig aan werken. Het is gebruikelijk in de game-industrie om technologietakken los te koppelen van de studio's die games maken.\n\nUbisoft noemt geen bedragen, geen planning en geen namen van games waarin Motherbrain-technologie terugkomt. Daar is nog niets over bekendgemaakt. Of spelers er volgend jaar al iets van merken, is dus de vraag.\n\nWel is duidelijk dat Ubisoft de techniek in eigen beheer wil houden. Dat past bij een bredere beweging in de sector, waarin uitgevers eigen AI-modellen willen bouwen in plaats van alleen licenties af te nemen."
+  },
+  {
+   "heading": "Wat levensechte npc's vragen van een game",
+   "body": "Een personage dat gesprekken onthoudt, moet veel informatie bijhouden. Elk gesprek met een speler kost rekenkracht. Bij een game met duizenden spelers tegelijk loopt dat snel op.\n\nOntwikkelaars moeten dus keuzes maken: welke personages krijgen geheugen en welke niet. Ook de kosten per gesprek tellen mee. Een game waarin elke npc vrij kan praten, vraagt om servers die continu meedraaien.\n\nDaar komt bij dat AI-personages onvoorspelbaar kunnen worden. Een personage dat zelf zinnen bedenkt, kan iets zeggen dat niet in het verhaal past. Studios zullen daar grenzen aan moeten stellen."
+  }
+ ],
+ "nl_angle": "Voor spelers in Nederland verandert er op korte termijn weinig: er is nog geen releasedatum en geen titel genoemd. Wel werkt Ubisoft met Nederlandse vestigingen, dus het is goed mogelijk dat een deel van dit werk hier terechtkomt. Nederlandse gamebedrijven die zelf AI-personages willen bouwen, krijgen er een grote concurrent bij. Let bij toekomstige games op of npc's echt reageren op wat jij eerder deed, want dat is het punt waarop je merkt of Motherbrain-technologie erin zit.",
+ "faq": [
+  {
+   "q": "Wat is Motherbrain van Ubisoft?",
+   "a": "Motherbrain is een dochterbedrijf van Ubisoft dat zich richt op generatieve AI voor videogames. Het werkt onder meer aan npc's die zelfstandig reageren en eerdere interacties onthouden."
+  },
+  {
+   "q": "Wanneer komen er games met deze AI-personages?",
+   "a": "Dat is nog niet bekend. Ubisoft heeft geen planning of gametitel genoemd waarin de technologie wordt gebruikt."
+  },
+  {
+   "q": "Merken Nederlandse spelers hier iets van?",
+   "a": "Op korte termijn niet, omdat er nog geen game met deze techniek is aangekondigd. Ubisoft heeft wel vestigingen in Nederland, dus werk aan de technologie kan deels hier plaatsvinden."
+  }
+ ],
+ "slug": "ubisoft-richt-motherbrain-op-voor-levensechte-gamepersonages",
+ "kind": "news",
+ "date": "2026-11-21",
+ "published": "2026-11-21T12:21",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Ubisoft wil met een nieuw dochterbedrijf NPC's levensecht maken",
+   "url": "https://www.bright.nl/nieuws/2161161/ubisoft-wil-met-een-nieuw-dochterbedrijf-npc-s-levensecht-maken.html"
+  }
+ ],
+ "path": "/nieuws/ubisoft-richt-motherbrain-op-voor-levensechte-gamepersonages/",
+ "og": "/img/og/ubisoft-richt-motherbrain-op-voor-levensechte-gamepersonages.png",
+ "take": "Ubisoft richt een apart bedrijf op voor AI-personages, en dat is een dure manier om een probleem aan te pakken dat je zelf kunt bouwen. Ik betaal liever geen abonnement op de zoveelste SaaS-tool, ik schrijf mijn automatisering met AI in code en dan is de rekening per maand gewoon nul. Wat zo'n Motherbrain uiteindelijk oplevert aan speelplezier moeten spelers nog merken, want een aankondiging is nog geen speelbare game."
+}

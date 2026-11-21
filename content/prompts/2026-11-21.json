@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: werkruimte thuis veilig en ergonomisch checken",
+ "situation": "Je werkt een paar dagen per week thuis en wilt weten of je bureau, stoel en scherm wel verantwoord staan. Gebruik deze prompt om een simpele check te doen voordat klachten beginnen.",
+ "prompt": "Je bent een ergonoom die thuiswerkplekken beoordeelt voor kantoormedewerkers. Ik werk [AANTAL] dagen per week thuis en heb deze spullen: [BESCHRIJF BUREAU, STOEL, SCHERM, LAPTOP, TOETSENBORD, MUIS]. Mijn werkzaamheden bestaan vooral uit [TYPWERK / BELLEN / BEELDSCHERMWERK / OVERLEG]. Ik heb klachten op deze plekken: [NOEM KLACHTEN OF ZEG GEEN]. Geef een checklist in drie stappen: wat ik nu al kan verbeteren zonder iets te kopen, wat ik beter wel kan aanschaffen onder de [BEDRAG] euro, en wanneer ik naar een arts of fysiotherapeut moet stappen. Noem bij elk punt de reden en een concreet meetbaar doel, zoals 'schermtop op ooghoogte' of 'ellebogen in een hoek van 90 graden'. Sluit af met drie vragen die ik mijn werkgever kan stellen over een thuiswerkvergoeding of een aangepaste stoel. Houd het bij maximaal 400 woorden en gebruik gewone taal.",
+ "tip": "Vul eerlijk in welke klachten je al hebt, dan kan de prompt onderscheid maken tussen een inrichtingskwestie en iets voor de huisarts.",
+ "tags": [
+  "thuiswerken",
+  "ergonomie",
+  "gezondheid",
+  "werk"
+ ],
+ "date": "2026-11-21",
+ "slug": "prompt-werkruimte-thuis-veilig-en-ergonomisch-checken",
+ "path": "/prompts/2026-11-21-prompt-werkruimte-thuis-veilig-en-ergonomisch-checken/"
+}

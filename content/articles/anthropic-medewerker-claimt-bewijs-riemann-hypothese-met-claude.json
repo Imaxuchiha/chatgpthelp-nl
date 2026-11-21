@@ -1,0 +1,67 @@
+{
+ "keyword": "riemann-hypothese ai",
+ "seo_title": "Riemann-hypothese bewijs met Claude: wat we weten",
+ "title": "Anthropic-medewerker claimt bewijs Riemann-hypothese met Claude",
+ "meta": "Een wiskundige van Anthropic zegt de Riemann-hypothese te hebben bewezen met chatbot Claude. Wat klopt er en wat betekent dit voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "riemann-hypothese",
+  "anthropic",
+  "claude",
+  "wiskunde",
+  "ai"
+ ],
+ "intro": "Een wiskundige die bij AI-bedrijf Anthropic werkt, zegt dat hij met chatbot Claude de Riemann-hypothese heeft bewezen. Dat vraagstuk over de verdeling van priemgetallen staat sinds 1859 open. Onafhankelijke deskundigen moeten het bewijs nog beoordelen, meldt Bright.",
+ "takeaways": [
+  "Een medewerker van Anthropic claimt de Riemann-hypothese te hebben bewezen met Claude.",
+  "Het wiskundige vraagstuk bleef sinds 1859 onopgelost.",
+  "Er is nog geen onafhankelijke beoordeling van het bewijs.",
+  "Eerder loste AI al honderden openstaande wiskundevraagstukken op."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de claim precies inhoudt",
+   "body": "De medewerker van Anthropic stelt dat hij samen met Claude een bewijs heeft gevonden voor de Riemann-hypothese. Dat is een van de bekendste open problemen in de wiskunde. Het gaat over hoe priemgetallen verdeeld zijn over de getallenlijn.\n\nVolgens Bright bleef het vraagstuk sinds 1859 onopgelost. Meerdere generaties wiskundigen probeerden het zonder succes. De claim komt nu van iemand die zelf bij het AI-bedrijf werkt dat de chatbot maakt.\n\nDat maakt de zaak extra gevoelig. Een bewijs telt pas als vakgenoten het hebben nagelopen. Tot die tijd blijft het een bewering, hoe indrukwekkend ook."
+  },
+  {
+   "heading": "Waarom wiskundigen nog niet juichen",
+   "body": "De Riemann-hypothese is geen puzzel die je even oplost. Een bewijs moet stap voor stap kloppen en bestand zijn tegen kritiek van specialisten. Onafhankelijke deskundigen moeten het werk daarom nog beoordelen.\n\nEr is nog niets bekend over hoe lang die beoordeling duurt. Ook is niet duidelijk of het bewijs volledig is gepubliceerd. Bright noemt geen details over de opzet van de controle.\n\nEerder dit jaar ging het al vaker over AI en wiskunde. Volgens de bron loste AI honderden onopgeloste wiskundige vraagstukken op. Dat ging om kleinere problemen dan de Riemann-hypothese."
+  },
+  {
+   "heading": "De rol van Claude in het onderzoek",
+   "body": "Claude is de chatbot van Anthropic. De medewerker gebruikte het systeem naar eigen zeggen als hulpmiddel bij het vinden van het bewijs. Hoe groot die rol precies was, is niet duidelijk.\n\nDat roept een praktische vraag op. Heeft Claude het bewijs zelf gevonden, of hielp het vooral bij het uitwerken van ideeën? Het antwoord bepaalt hoeveel waarde je aan de claim kunt hechten.\n\nAnthropic heeft het nieuws nog niet officieel bevestigd met een eigen verklaring. Het bedrijf is vooral bekend van Claude en concurreert met OpenAI en Google."
+  },
+  {
+   "heading": "Wat dit zegt over AI en wiskunde",
+   "body": "De afgelopen tijd duiken vaker berichten op over AI die wiskundeproblemen aanpakt. Dat past bij de snelle ontwikkeling van taalmodellen. Toch blijft controle door mensen nodig.\n\nEen claim als deze krijgt veel aandacht, ook buiten de wiskundewereld. Dat komt doordat de Riemann-hypothese bekendstaat als een van de grote open vragen. Er hangt zelfs een prijs aan vast van een miljoen dollar, al noemt Bright dat bedrag niet.\n\nVoor Nederland is er geen directe link met regelgeving of prijzen. Wel laat het zien hoe AI steeds vaker wordt ingezet bij wetenschappelijk onderzoek."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse wiskundigen, studenten en AI-gebruikers is dit vooral een kwestie van afwachten. Een bewijs telt pas na controle door vakgenoten, en die is nog niet afgerond. Wie Claude of een andere chatbot gebruikt voor eigen onderzoek, doet er goed aan uitkomsten altijd zelf na te rekenen. Er zijn geen aanwijzingen dat de claim gevolgen heeft voor de beschikbaarheid of prijs van Claude in Nederland.",
+ "faq": [
+  {
+   "q": "Is de Riemann-hypothese nu echt bewezen?",
+   "a": "Nee, dat is nog niet vastgesteld. Een medewerker van Anthropic claimt een bewijs te hebben gevonden met Claude, maar onafhankelijke deskundigen moeten dat nog beoordelen."
+  },
+  {
+   "q": "Wat is de Riemann-hypothese?",
+   "a": "Het is een wiskundig vraagstuk over de verdeling van priemgetallen. Het staat sinds 1859 open en geldt als een van de bekendste onopgeloste problemen."
+  },
+  {
+   "q": "Heeft Claude het bewijs zelf gevonden?",
+   "a": "Dat is niet duidelijk. De medewerker gebruikte Claude naar eigen zeggen als hulpmiddel, maar details over de rol van de chatbot ontbreken."
+  }
+ ],
+ "slug": "anthropic-medewerker-claimt-bewijs-riemann-hypothese-met-claude",
+ "kind": "news",
+ "date": "2026-11-21",
+ "published": "2026-11-21T12:22",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Anthropic-medewerker claimt beroemdste wiskundige claim op te lossen met AI",
+   "url": "https://www.bright.nl/nieuws/2161146/anthropic-medewerker-claimt-beroemdste-wiskundige-claim-op-te-lossen-met-ai.html"
+  }
+ ],
+ "path": "/nieuws/anthropic-medewerker-claimt-bewijs-riemann-hypothese-met-claude/",
+ "og": "/img/og/anthropic-medewerker-claimt-bewijs-riemann-hypothese-met-claude.png"
+}

@@ -3399,6 +3399,22 @@
   "321bf9e3c3": {
    "at": "2026-11-20T23:38:45.525303",
    "why": "ok"
+  },
+  "622f5ad978": {
+   "at": "2026-11-21T12:21:14.790054",
+   "why": "ok"
+  },
+  "7c66c289ff": {
+   "at": "2026-11-21T12:22:14.790054",
+   "why": "ok"
+  },
+  "859ee3ec8c": {
+   "at": "2026-11-21T12:23:14.790054",
+   "why": "poort"
+  },
+  "4d6c192ff8": {
+   "at": "2026-11-21T12:23:14.790054",
+   "why": "ok"
   }
  },
  "published_titles": [
@@ -3994,6 +4010,9 @@
   "MedChemBench: OpenAI test hoe goed AI kandidaat-medicijnen vindt",
   "OpenAI bestrijdt adversarial distillation: zo beschermt het zijn modellen",
   "Europa Fusion: Daniel Ek investeert in fusie-energie van AI-onderzoeker",
-  "Riemann hypothese: AI en mens claimen allebei een oplossing"
+  "Riemann hypothese: AI en mens claimen allebei een oplossing",
+  "Ubisoft richt Motherbrain op voor levensechte gamepersonages",
+  "Anthropic-medewerker claimt bewijs Riemann-hypothese met Claude",
+  "Google zoekpagina ai: geen zoekknop meer, wel chatgeschiedenis"
  ]
 }

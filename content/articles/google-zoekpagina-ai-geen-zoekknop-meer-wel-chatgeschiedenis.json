@@ -1,0 +1,68 @@
+{
+ "keyword": "google zoekpagina ai",
+ "seo_title": "Google zoekpagina ai: geen zoekknop meer, wel",
+ "title": "Google zoekpagina ai: geen zoekknop meer, wel chatgeschiedenis",
+ "meta": "Google heeft zijn zoekpagina vernieuwd: geen zoekknop meer en een zijbalk met je ai-chatgeschiedenis. Dit verandert hoe je zoekt.",
+ "category": "nieuws",
+ "tags": [
+  "google",
+  "zoeken",
+  "ai",
+  "chatgeschiedenis",
+  "zoekpagina"
+ ],
+ "intro": "Google heeft een nieuwe versie van zijn zoekpagina uitgerold. De zoekknop is weg en er is een zijbalk bijgekomen met je ai-chatgeschiedenis. Volgens Ars Technica maakt Google zo de ai-hulpmiddelen makkelijker bereikbaar vanaf de zoekpagina.",
+ "takeaways": [
+  "De zoekknop op de Google-startpagina verdwijnt.",
+  "Een nieuwe zijbalk toont je eerdere ai-gesprekken.",
+  "Google wil ai-tools dichter bij het zoekveld brengen.",
+  "Het is nog niet bekend of en wanneer de nieuwe pagina in Nederland verschijnt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er precies verandert op de pagina",
+   "body": "De bekendste knop van het internet is weg. Op de nieuwe startpagina van Google staat geen aparte zoekknop meer. Je typt je vraag en drukt op enter, meer niet.\n\nDaarnaast is er een zijbalk gekomen. Daarin zie je de gesprekken die je eerder met de ai van Google voerde. Je kunt zo een oud gesprek terugvinden zonder eerst naar een aparte chatomgeving te gaan.\n\nVolgens Ars Technica is het doel simpel: ai-tools moeten vanaf de zoekpagina net zo makkelijk te bereiken zijn als een gewone zoekopdracht."
+  },
+  {
+   "heading": "Waarom Google dit doet",
+   "body": "Zoeken en chatten groeien naar elkaar toe. Mensen stellen steeds vaker een volledige vraag in plaats van een paar trefwoorden. Google speelt daarop in door de chatfunctie een vaste plek te geven.\n\nDe aanpassing kost de zoekgigant weinig ruimte. De pagina blijft leeg en wit, met het zoekveld in het midden. De geschiedenis staat aan de zijkant en valt weg als je hem niet gebruikt.\n\nConcurrenten als OpenAI en Microsoft bouwen hun eigen zoek- en chatomgevingen. Google houdt met deze stap zijn eigen pagina als startpunt vast."
+  },
+  {
+   "heading": "Wat het betekent voor je zoekgedrag",
+   "body": "Voor de meeste mensen verandert er weinig aan het zoeken zelf. Je typt nog steeds in hetzelfde vak. De knop die je toch al nooit gebruikte, is nu weg.\n\nHet verschil zit in de gesprekken. Wie vaker met de ai van Google praat, vindt die gesprekken straks direct terug vanaf de startpagina. Dat scheelt een omweg en maakt de chat meer onderdeel van het gewone zoeken.\n\nOf je de zijbalk kunt uitzetten, meldt Ars Technica niet. Ook is niet duidelijk of de geschiedenis standaard zichtbaar is of alleen na inloggen."
+  },
+  {
+   "heading": "Nog geen duidelijkheid over Nederland",
+   "body": "De uitrol start in ieder geval in de Verenigde Staten, waar Google dit soort wijzigingen doorgaans als eerste test. Een datum voor Nederland of de rest van de Europese Unie noemt de bron niet.\n\nGoogle moet in Europa rekening houden met strengere regels rond gegevens en ai. Dat kan de invoering vertragen. Het is nog niet bekend of de nieuwe pagina hier dit jaar of volgend jaar komt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse gebruikers verandert er voorlopig weinig. De nieuwe zoekpagina is nog niet in ons land aangekondigd. Zodra die komt, krijg je je ai-gesprekken sneller in beeld, ook op je werk. Let wel op: je chatgeschiedenis komt dichter bij het zoekveld te staan. Werk je op een gedeelde computer, log dan uit of gebruik een apart profiel. Bedrijven die met Google-workspace werken, doen er goed aan hun medewerkers hierop te wijzen.",
+ "faq": [
+  {
+   "q": "Is de zoekknop van Google echt weg?",
+   "a": "Op de nieuwe startpagina staat geen aparte zoekknop meer. Je drukt op enter nadat je je vraag hebt getypt."
+  },
+  {
+   "q": "Wat is de ai-zijbalk op de Google-startpagina?",
+   "a": "Dat is een paneel naast het zoekveld met je eerdere ai-gesprekken. Zo pak je een oud gesprek snel weer op."
+  },
+  {
+   "q": "Wanneer komt de nieuwe Google-zoekpagina naar Nederland?",
+   "a": "Dat is nog niet bekend. De bron noemt alleen de uitrol en geeft geen datum voor Nederland of de EU."
+  }
+ ],
+ "slug": "google-zoekpagina-ai-geen-zoekknop-meer-wel-chatgeschiedenis",
+ "kind": "news",
+ "date": "2026-11-21",
+ "published": "2026-11-21T12:23",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "Google rolls out new search homepage with AI chat history and no search button",
+   "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+  }
+ ],
+ "path": "/nieuws/google-zoekpagina-ai-geen-zoekknop-meer-wel-chatgeschiedenis/",
+ "og": "/img/og/google-zoekpagina-ai-geen-zoekknop-meer-wel-chatgeschiedenis.png",
+ "take": "Google gooit zijn zoekknop weg en zet je ai-gesprekken in een zijbalk. Voor mij verandert dat niks aan de kern: eerst kijken of je meting klopt voordat je wat dan ook optimaliseert. De meeste problemen in advertentieaccounts zijn meetfouten, geen echte dalingen, en daar helpt een nieuwe zoeklayout niet bij."
+}
