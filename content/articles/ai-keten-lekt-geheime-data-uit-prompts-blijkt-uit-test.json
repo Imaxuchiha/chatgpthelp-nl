@@ -1,0 +1,68 @@
+{
+ "keyword": "ai datalek prompts",
+ "seo_title": "ai datalek prompts: geheimen lekken via ai-keten",
+ "title": "AI-keten lekt geheime data uit prompts, blijkt uit test",
+ "meta": "Een onderzoeker stopte 2 miljoen traceerbare canaries in AI-prompts. Die geheimen doken op bij andere partijen. Wat betekent dat voor jou?",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "privacy",
+  "datalek",
+  "openai",
+  "beveiliging"
+ ],
+ "intro": "Een beveiligingsonderzoeker heeft aangetoond dat geheime gegevens uit AI-prompts niet privé blijven. Hij stopte twee miljoen unieke, traceerbare canaries in zijn invoer. Die nepgeheimen doken later op bij andere partijen in de AI-keten. Dat meldt Ars Technica.",
+ "takeaways": [
+  "De onderzoeker gebruikte twee miljoen unieke canaries om datastromen te volgen.",
+  "Geheime data uit prompts bleek buiten de eigen omgeving op te duiken.",
+  "Het probleem zit in de hele AI-keten, van model tot tussenpartijen.",
+  "De test laat zien dat je gevoelige invoer beter niet in een publieke AI stopt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de onderzoeker precies deed",
+   "body": "De onderzoeker bouwde een test met prompts die elk een uniek, traceerbaar geheim bevatten. Zo'n geheim heet een canary: een nepwaarde die je herkent zodra hij ergens opduikt. In totaal ging het om twee miljoen van die waarden.\n\nDoor die canaries te volgen, kon hij zien waar zijn invoer terechtkwam. Dat leverde een beeld op van een keten met meerdere schakels. Volgens Ars Technica bleek de data niet binnen één systeem te blijven.\n\nDe aanpak is simpel en daardoor pijnlijk duidelijk. Je stopt iets herkenbaars in een prompt en wacht af waar het opduikt. Dat maakt zichtbaar wat normaal achter de schermen blijft."
+  },
+  {
+   "heading": "Waar het misgaat in de keten",
+   "body": "Een AI-dienst bestaat zelden uit één model op één server. Er zitten tussenlagen tussen, zoals opslag, logging en doorgeefpartijen. Op elk van die plekken kan invoer blijven hangen of doorstromen.\n\nDe test wijst erop dat dit op meerdere momenten gebeurt. Geheime waarden uit prompts kwamen buiten de eigen omgeving terecht. Hoe vaak dat precies gebeurde, maakt de bron niet concreet.\n\nOok blijft onduidelijk welke partijen precies betrokken waren. De bron noemt geen namen van bedrijven achter de lekken. Wat vaststaat: de invoer die jij intypt, is niet automatisch alleen van jou."
+  },
+  {
+   "heading": "Waarom dit voor gewone gebruikers telt",
+   "body": "Veel mensen plakken zonder nadenken werkteksten, klantgegevens of wachtwoorden in een chatbot. Deze test laat zien dat zo'n invoer een eigen leven kan gaan leiden. Dat geldt ook als je niets bijzonders doet.\n\nJe hoeft geen techneut te zijn om hier iets aan te hebben. Behandel een prompt als een bericht dat je doorstuurt naar een onbekende. Zet er geen namen, adressen of sleutels in die niet mee mogen reizen.\n\nVoor bedrijven is het extra relevant. Wie klantdata in een AI-tool stopt, moet kunnen uitleggen waar die data blijft. Deze test maakt die vraag urgenter."
+  },
+  {
+   "heading": "Wat je zelf kunt doen",
+   "body": "Gebruik nepgegevens als je een AI iets wilt laten uitzoeken of samenvatten. Vervang namen door letters en bedragen door ronde getallen. Zo test je hetzelfde zonder echte informatie weg te geven.\n\nKijk daarnaast naar de instellingen van de tool die je gebruikt. Sommige diensten bieden een optie om gesprekken niet te bewaren. Of dat in de hele keten helpt, is met deze test niet bewezen.\n\nDe bron geeft geen kant-en-klare oplossing. Wel is duidelijk dat de verantwoordelijkheid niet alleen bij de aanbieder ligt. Wie gevoelige invoer deelt, neemt een restrisico."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders betekent dit vooral: pas op met wat je in een chatbot typt. De Autoriteit Persoonsgegevens kijkt streng naar het verwerken van persoonsgegevens, en een lek in de AI-keten kan onder de AVG vallen. Werk je met klantdata, dan moet je kunnen aantonen waar die blijft. Deze test laat zien dat je dat niet zomaar kunt aannemen. Bedrijven die een AI-tool invoeren, doen er goed aan het gesprek aan te gaan met de leverancier over opslag en logging.",
+ "faq": [
+  {
+   "q": "Blijven mijn prompts privé bij ChatGPT?",
+   "a": "Niet gegarandeerd. Uit deze test blijkt dat invoer via meerdere schakels kan doorstromen. OpenAI zegt zelf dat gesprekken voor verbetering gebruikt kunnen worden, tenzij je dat uitzet."
+  },
+  {
+   "q": "Wat is een canary in een AI-test?",
+   "a": "Een canary is een unieke nepwaarde die je in invoer stopt om te zien waar hij opduikt. Zo maak je datastromen zichtbaar zonder echte geheimen te gebruiken."
+  },
+  {
+   "q": "Moet ik dan helemaal geen gevoelige data in AI stoppen?",
+   "a": "Wees terughoudend met namen, adressen en sleutels. Gebruik nepgegevens waar het kan. Voor bedrijven met klantdata is overleg met de leverancier over opslag verstandig."
+  }
+ ],
+ "slug": "ai-keten-lekt-geheime-data-uit-prompts-blijkt-uit-test",
+ "kind": "news",
+ "date": "2026-11-22",
+ "published": "2026-11-22T22:42",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+   "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+  }
+ ],
+ "path": "/nieuws/ai-keten-lekt-geheime-data-uit-prompts-blijkt-uit-test/",
+ "og": "/img/og/ai-keten-lekt-geheime-data-uit-prompts-blijkt-uit-test.png",
+ "take": "Die twee miljoen canaries laten zien dat je prompt geen afgesloten kluis is. Wat je erin stopt, kan bij een volgende partij in de keten opduiken. Mijn regel is simpel: geen klantnamen, sleutels of budgetten in een prompt, en de keten zelf natrekken voordat ik er iets belangrijks doorheen stuur."
+}

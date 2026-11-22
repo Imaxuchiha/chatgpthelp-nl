@@ -3475,12 +3475,25 @@
   "265c68ec3a": {
    "at": "2026-11-22T19:40:13.877786",
    "why": "ok"
+  },
+  "98c9588494": {
+   "at": "2026-11-22T22:41:30.952635",
+   "why": "poort"
+  },
+  "05744626c0": {
+   "at": "2026-11-22T22:41:30.952635",
+   "why": "ok"
+  },
+  "6e086317ff": {
+   "at": "2026-11-22T22:42:30.952635",
+   "why": "ok"
+  },
+  "d15c456432": {
+   "at": "2026-11-22T22:43:30.952635",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "Techbedrijven lenen meer voor AI en datacenters",
-  "Meta lanceert abonnementen met AI en sociale media",
-  "Euclyd uit Eindhoven wil met Samsung-investering Nvidia uitdagen",
   "AI-projecten die mislukten: wat ging er mis?",
   "Datacenters VS verbruiken straks meer aardgas dan Duitsland en Japan samen",
   "Zuckerberg wil AI-ontwikkeling niet vertragen: markt moet het regelen",
@@ -4077,6 +4090,9 @@
   "Meta heroverweegt net zero 2030 door uitstoot ai-datacenters",
   "AI onder controle wiskunde: Mike Winer zoekt de formule",
   "Perplexity als maatstaf: hoe OpenAI vooruitgang in AI meet",
-  "Binding of Isaac haalt AI-muziek weg na reviewbomb op Steam"
+  "Binding of Isaac haalt AI-muziek weg na reviewbomb op Steam",
+  "OpenAI wil snelheid van ai-ontwikkeling meetbaar maken",
+  "AI-keten lekt geheime data uit prompts, blijkt uit test",
+  "GPT-6 Astra scoort beter bij financieel onderzoek, meldt OpenAI"
  ]
 }

@@ -1,0 +1,68 @@
+{
+ "keyword": "gpt-6 astra",
+ "seo_title": "GPT-6 Astra: betere bronnen voor financieel onderzoek",
+ "title": "GPT-6 Astra scoort beter bij financieel onderzoek, meldt OpenAI",
+ "meta": "OpenAI deelt een test met GPT-6 Astra bij onderzoeksbureau Hebbia. Lees wat er beter ging en wat nog onbekend is over prijs en komst naar de EU.",
+ "category": "nieuws",
+ "tags": [
+  "gpt-6 astra",
+  "openai",
+  "financieel onderzoek",
+  "hebbia",
+  "ai-tools"
+ ],
+ "intro": "OpenAI heeft een klantverhaal gepubliceerd over Hebbia, een partij die AI inzet voor financieel onderzoek. Hebbia testte de nog niet uitgebrachte GPT-6 Astra en zag vooruitgang bij brondekking, relevantie van citaten en de kwaliteit van presentaties. Die resultaten komen uit tests van voor de release, volgens OpenAI.",
+ "takeaways": [
+  "Hebbia testte GPT-6 Astra voor financieel onderzoek, nog voor de officiële uitgave",
+  "Volgens OpenAI gingen brondekking, citaten en presentatiekwaliteit vooruit",
+  "Prijs, releasedatum en beschikbaarheid in Nederland zijn niet bekendgemaakt",
+  "De test zegt weinig over prestaties bij andere soorten werk"
+ ],
+ "sections": [
+  {
+   "heading": "Wat Hebbia met het model deed",
+   "body": "Hebbia gebruikt AI om grote hoeveelheden documenten door te spitten voor financieel onderzoek. Het bedrijf kreeg een vroege versie van GPT-6 Astra in handen en beoordeelde die op een aantal punten. Volgens OpenAI keken de testers naar hoeveel bronnen het model wist te vinden en hoe bruikbaar de citaten waren.\n\nOok de presentatie van het antwoord telde mee. Denk aan de opbouw van een overzicht dat een analist direct kan gebruiken. OpenAI noemt de uitkomsten positief, zonder precieze cijfers te geven.\n\nDat maakt het lastig om de sprong te wegen. Zonder cijfers weet je niet of het om een kleine stap gaat of om een flinke verbetering."
+  },
+  {
+   "heading": "Waarom citaten juist hier tellen",
+   "body": "Bij financieel onderzoek telt herleidbaarheid zwaar. Een analist moet kunnen zien waar een bewering vandaan komt. Een model dat bronnen verzint of verkeerd aanhaalt, levert meer werk op dan het bespaart.\n\nDaarom is relevantie van citaten een logische maatstaf. OpenAI noemt die verbetering expliciet, met brondekking en presentatie als twee andere punten. De drie punten samen zeggen iets over hoe bruikbaar een antwoord is in de praktijk.\n\nToch blijft het een test bij één klant. Andere taken, zoals het doorrekenen van cijfers of het beoordelen van risico's, komen in het verhaal niet aan bod."
+  },
+  {
+   "heading": "Wat OpenAI niet zegt",
+   "body": "Over de uitgave van GPT-6 Astra is niets bekendgemaakt. Er is geen datum, geen prijs en geen lijst met landen waar het model als eerste komt. Ook over de Europese Unie en Nederland staat niets in de bron.\n\nDat betekent niet dat het model er niet komt. Het betekent dat je er nu nog niets over kunt zeggen. Zodra OpenAI meer deelt, wordt dat pas concreet.\n\nVoor bedrijven die nu al met AI werken aan onderzoek, blijft de vraag of hun eigen documenten en systemen het model aankunnen. Ook daar gaat de bron niet op in."
+  },
+  {
+   "heading": "Een klantverhaal als signaal",
+   "body": "OpenAI publiceert vaker verhalen over klanten die nieuwe modellen eerder mogen proberen. Zo'n verhaal laat zien waar het bedrijf de nadruk legt. Hier is dat onderzoek waarbij bronnen en citaten zwaar wegen.\n\nHet is geen onafhankelijke test. De resultaten komen van Hebbia en worden gedeeld door OpenAI. Lees het dus als een signaal over de richting, niet als bewijs dat het model overal beter presteert.\n\nVoor Nederlandse financieel analisten is de relevantie beperkt zolang er geen releasedatum is. Wel geeft het een beeld van waar de volgende generatie modellen op wordt beoordeeld."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse banken, vermogensbeheerders en onderzoeksafdelingen zegt dit nog weinig over hun eigen werk. Het model is niet uitgebracht en er is geen prijs of datum bekend. Wie nu AI inzet voor financiële analyses, kan wel opletten op dezelfde punten: hoeveel bronnen dekt het model, zijn citaten kloppend en is het antwoord bruikbaar zonder veel nawerk. Zodra OpenAI met een releasedatum en EU-beschikbaarheid komt, wordt duidelijk of dit voor de Nederlandse markt iets verandert.",
+ "faq": [
+  {
+   "q": "Wat is GPT-6 Astra?",
+   "a": "Dat is een model van OpenAI dat nog niet officieel is uitgebracht. Hebbia testte een vroege versie voor financieel onderzoek."
+  },
+  {
+   "q": "Wanneer komt GPT-6 Astra naar Nederland?",
+   "a": "Dat is niet bekend. OpenAI heeft geen releasedatum of lijst met landen gedeeld."
+  },
+  {
+   "q": "Wat kost GPT-6 Astra?",
+   "a": "Over de prijs is niets bekendgemaakt. OpenAI noemt in het klantverhaal geen tarieven."
+  }
+ ],
+ "slug": "gpt-6-astra-scoort-beter-bij-financieel-onderzoek-meldt-openai",
+ "kind": "news",
+ "date": "2026-11-22",
+ "published": "2026-11-22T22:43",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "url": "https://openai.com/business/customer-stories/hebbia"
+  }
+ ],
+ "path": "/nieuws/gpt-6-astra-scoort-beter-bij-financieel-onderzoek-meldt-openai/",
+ "og": "/img/og/gpt-6-astra-scoort-beter-bij-financieel-onderzoek-meldt-openai.png",
+ "take": "Mooi dat Hebbia betere brondekking en citaten ziet, maar dit is een klantverhaal van OpenAI zelf en dus nog geen bewijs dat het mijn werk sneller maakt. Ik beoordeel een model pas op wat het oplevert in mijn eigen rapportages en analyses, niet op een test voor de release. Prijs en komst naar de EU zijn onbekend, dus tot die tijd verandert er voor mij niets."
+}

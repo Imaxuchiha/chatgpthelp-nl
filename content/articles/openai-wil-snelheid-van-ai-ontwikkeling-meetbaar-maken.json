@@ -1,0 +1,68 @@
+{
+ "keyword": "ai-ontwikkeling limiet",
+ "seo_title": "ai-ontwikkeling limiet: OpenAI wil snelheid meten",
+ "title": "OpenAI wil snelheid van ai-ontwikkeling meetbaar maken",
+ "meta": "OpenAI's chief scientist wil een limiet op ai-ontwikkeling. Eerst moet duidelijk zijn hoe je de snelheid meet. Wat betekent dat voor Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "ai-veiligheid",
+  "ai-beleid",
+  "wetenschap",
+  "regulering"
+ ],
+ "intro": "De chief scientist van OpenAI heeft ideeën gepresenteerd over het beperken van ai-ontwikkeling. Een snelheidslimiet klinkt simpel, maar volgens hem begint alles bij één vraag: hoe meet je die snelheid eigenlijk? TechCrunch meldt dat de wetenschappelijk directeur daarover nadenkt.",
+ "takeaways": [
+  "OpenAI's chief scientist wil een limiet op de snelheid van ai-ontwikkeling.",
+  "Eerst moet er overeenstemming komen over hoe je die snelheid meet.",
+  "Zonder gedeelde meetmethode is een limiet volgens hem niet afdwingbaar.",
+  "Het is nog niet bekend of er concrete voorstellen of termijnen zijn."
+ ],
+ "sections": [
+  {
+   "heading": "Een limiet begint bij een meetlat",
+   "body": "Een snelheidslimiet op ai klinkt als een simpele afspraak. Toch zit er een lastige vraag achter. Je kunt pas een grens stellen als je weet hoe snel het veld gaat.\n\nVolgens de chief scientist van OpenAI moet daar eerst overeenstemming over komen. Ontwikkelaars, onderzoekers en toezichthouders zouden dezelfde maatstaf moeten gebruiken. Anders meet iedereen iets anders en zegt een limiet weinig."
+  },
+  {
+   "heading": "Wat meet je precies",
+   "body": "Gaat het om rekenkracht, om de prestaties van een model of om de snelheid waarmee nieuwe versies verschijnen? TechCrunch noemt die vraag als de kern van het probleem. De bron geeft geen uitgewerkte methode.\n\nDuidelijk is wel dat een limiet alleen werkt als de meting herhaalbaar is. Een losse schatting helpt niet bij handhaving. Je hebt een afspraak nodig die partijen kunnen controleren."
+  },
+  {
+   "heading": "Wie houdt de grens in de gaten",
+   "body": "Een meetmethode alleen is niet genoeg. Er moet ook iemand zijn die kijkt of bedrijven zich aan de grens houden. OpenAI noemt in de berichtgeving geen toezichthouder en geen concreet voorstel.\n\nOok over de hoogte van een eventuele limiet zegt de bron niets. Het blijft voorlopig bij een denkrichting. Of daar een werkbaar systeem uit komt, is nog niet bekend."
+  },
+  {
+   "heading": "Nog geen voorstel op tafel",
+   "body": "De uitspraken komen op een moment dat er in veel landen wordt gesproken over regels voor ai. Een meetbare snelheid zou zo'n gesprek concreter maken. Zonder cijfers blijft het echter bij een principe.\n\nWat er precies volgt, is onduidelijk. TechCrunch meldt geen datum en geen uitgewerkt plan. Nederlanders merken voorlopig vooral indirect iets van dit debat, via Europese regels en via de voorwaarden van ai-diensten."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en ontwikkelaars is dit vooral een signaal over de richting van het debat. Als er ooit een meetbare limiet komt, kan die doorwerken in Europese regels en in de eisen die leveranciers stellen. Grote ai-aanbieders als OpenAI en Google opereren internationaal, dus zo'n afspraak raakt ook Nederlandse gebruikers van ChatGPT en vergelijkbare diensten. Concrete gevolgen zijn er nu niet: er ligt geen voorstel en er zijn geen cijfers bekend.",
+ "faq": [
+  {
+   "q": "wat wil OpenAI precies met een limiet op ai?",
+   "a": "Volgens de chief scientist is een limiet pas mogelijk als partijen eerst afspreken hoe je de snelheid van ai-ontwikkeling meet. Zonder gedeelde meetmethode is een grens niet te controleren."
+  },
+  {
+   "q": "geldt zo'n limiet ook in Nederland?",
+   "a": "Er is nog geen voorstel of regeling. Als er iets komt, loopt dat waarschijnlijk via internationale afspraken en Europese regels, die ook voor Nederland gelden."
+  },
+  {
+   "q": "wanneer komt er duidelijkheid?",
+   "a": "Dat is niet bekend. De bron noemt geen termijn en geen uitgewerkt plan."
+  }
+ ],
+ "slug": "openai-wil-snelheid-van-ai-ontwikkeling-meetbaar-maken",
+ "kind": "news",
+ "date": "2026-11-22",
+ "published": "2026-11-22T22:41",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+  }
+ ],
+ "path": "/nieuws/openai-wil-snelheid-van-ai-ontwikkeling-meetbaar-maken/",
+ "og": "/img/og/openai-wil-snelheid-van-ai-ontwikkeling-meetbaar-maken.png",
+ "take": "Een limiet op ai-ontwikkeling begint bij een meetlat, en die hebben ze nog niet. Mijn regel is simpel: eerst twaalf tot achttien maanden meten voordat je iets een trend noemt. Laat OpenAI die cijfers maar op tafel leggen, dan praten we verder."
+}
