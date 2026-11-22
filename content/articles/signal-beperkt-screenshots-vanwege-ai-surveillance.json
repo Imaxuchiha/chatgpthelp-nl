@@ -1,0 +1,68 @@
+{
+ "keyword": "signal screenshots blokkeren",
+ "seo_title": "Signal blokkeert screenshots: wat merk je in Nederland",
+ "title": "Signal beperkt screenshots vanwege AI-surveillance",
+ "meta": "Signal blokkeert screenshots in de Android- en iOS-app. Lees wat dat betekent voor je chats, je werk en je privacy in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "signal",
+  "privacy",
+  "screenshots",
+  "ai-surveillance",
+  "chat-apps"
+ ],
+ "intro": "Signal beperkt het maken van screenshots in zijn Android- en iOS-app. De chatdienst noemt AI-surveillance een existentiële dreiging, meldt TechCrunch. Voor gebruikers verandert er iets bij het vastleggen van gesprekken.",
+ "takeaways": [
+  "Signal blokkeert screenshots in de mobiele apps op Android en iOS.",
+  "Het bedrijf ziet AI-surveillance als een existentiële dreiging.",
+  "TechCrunch meldt het besluit op 21 november 2026.",
+  "Onbekend is nog hoe Signal de beperking technisch handhaaft en of er een omweg bestaat."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Signal precies aanpast",
+   "body": "Signal staat niet langer toe dat je zomaar een screenshot maakt van een chat in de mobiele app. Dat geldt voor de Android-versie en de iOS-versie. TechCrunch schrijft dat de dienst de schermafdrukken beperkt.\n\nHoe de blokkade er in de praktijk uitziet, is nog niet volledig duidelijk. De bron noemt geen details over een melding, een tijdelijke uitzondering of een instelling die je zelf kunt aanzetten. Ook is niet bekend of de maatregel per gesprek geldt of voor de hele app.\n\nWel is duidelijk waarom Signal dit doet. Het bedrijf ziet AI-surveillance als een existentiële dreiging. Die term koos Signal zelf, volgens TechCrunch."
+  },
+  {
+   "heading": "Waarom een screenshot een risico is",
+   "body": "Een screenshot legt een gesprek vast buiten de beveiliging van de app. Daarna kan de afbeelding in een fotobibliotheek belanden, in een cloudback-up of in een groepschat. Signal heeft daar geen controle meer over.\n\nAI-systemen kunnen beeld herkennen en tekst uit afbeeldingen halen. Zo kan een vastgelegd gesprek alsnog doorzoekbaar worden. Voor een dienst die privacy als kernwaarde heeft, wringt dat.\n\nDe maatregel past bij een bredere discussie over schermafdrukken in chat-apps. Signal kiest hier een duidelijke kant."
+  },
+  {
+   "heading": "Wat het betekent voor je dagelijkse gebruik",
+   "body": "Deel je via Signal een afspraak, een adres of een foto van een document, dan kun je dat minder makkelijk doorsturen als plaatje. Dat raakt vooral mensen die Signal gebruiken voor werkafspraken of het delen van praktische informatie.\n\nEen schermafdruk was vaak de snelste route. Denk aan een adres dat je even naar een collega stuurt. Die route wordt beperkter.\n\nOf Signal ook het maken van foto's met een tweede toestel tegenhoudt, is niet te zeggen. Een camera op een ander apparaat blijft buiten de app. De bron gaat daar niet op in."
+  },
+  {
+   "heading": "Nog geen duidelijkheid over Europa",
+   "body": "TechCrunch noemt geen Europese uitrol of een aparte versie voor de EU. De beperking geldt volgens de bron voor de mobiele apps in het algemeen. Een precieze ingangsdatum per land staat er niet bij.\n\nOok is onbekend of Signal reageert op specifieke AI-producten of op een bredere ontwikkeling. Het bedrijf noemt alleen AI-surveillance als dreiging. Meer uitleg geeft de bron niet."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders die Signal gebruiken voor privégesprekken of werkoverleg verandert er iets praktisch: een gesprek vastleggen als plaatje wordt lastiger. Wie Signal gebruikt om gevoelige informatie te delen, krijgt er een drempel bij voor de ontvanger. Bedrijven die Signal als zakelijk kanaal gebruiken, kunnen hun medewerkers beter uitleggen dat schermafdrukken niet meer vanzelf gaan. Let op: de precieze werking en een Nederlandse ingangsdatum zijn nog niet bekend.",
+ "faq": [
+  {
+   "q": "Kan ik geen screenshots meer maken in Signal?",
+   "a": "Signal beperkt het maken van screenshots in de Android- en iOS-app, meldt TechCrunch. De precieze werking en eventuele uitzonderingen zijn nog niet bekend."
+  },
+  {
+   "q": "Waarom blokkeert Signal screenshots?",
+   "a": "Signal noemt AI-surveillance een existentiële dreiging. Een screenshot haalt een gesprek uit de beveiligde app en kan daarna door AI-systemen worden gelezen."
+  },
+  {
+   "q": "Geldt de maatregel ook in Nederland?",
+   "a": "De bron noemt geen aparte Europese of Nederlandse uitrol. Er is nog geen ingangsdatum per land bekend."
+  }
+ ],
+ "slug": "signal-beperkt-screenshots-vanwege-ai-surveillance",
+ "kind": "news",
+ "date": "2026-11-22",
+ "published": "2026-11-22T12:39",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+  }
+ ],
+ "path": "/nieuws/signal-beperkt-screenshots-vanwege-ai-surveillance/",
+ "og": "/img/og/signal-beperkt-screenshots-vanwege-ai-surveillance.png",
+ "take": "Signal noemt AI-surveillance een existentiële dreiging en zet daar meteen een blokkade tegenover. Dat is een standpunt waar je iets aan hebt, want het is zichtbaar in de app zelf en niet alleen een verhaal op een blog. Van mij mogen meer partijen zo eerlijk zijn over wat ze wel en niet beloven, in plaats van urgentie te verkopen die er niet is."
+}

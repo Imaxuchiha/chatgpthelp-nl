@@ -3443,12 +3443,21 @@
   "a9f34b76fc": {
    "at": "2026-11-21T22:38:11.002927",
    "why": "ok"
+  },
+  "0dea7d88c3": {
+   "at": "2026-11-22T12:38:12.625505",
+   "why": "ok"
+  },
+  "f3487ac988": {
+   "at": "2026-11-22T12:39:12.625505",
+   "why": "ok"
+  },
+  "8bc8fed2fb": {
+   "at": "2026-11-22T12:40:12.625505",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "AI-bedrijven waarschuwen voor eigen tempo: 'Stop er dan mee'",
-  "Fyxer bouwt AI-assistent voor je inbox met OpenAI",
-  "AI-top sluit akkoord om ontwikkeling te vertragen",
   "AI-bazen en politici botsen over tempo AI-ontwikkeling",
   "ChatGPT geeft dikke middelvinger: OpenAI en Google reageren",
   "AI-paniek: waarom waarschuwen topmensen nu ineens?",
@@ -4045,6 +4054,9 @@
   "Etsy draait AI-beleid terug na vertrek van verkopers",
   "AI-agent in je sms: TechCrunch zet de opties op een rij",
   "Acteur verkoopt AI-versie van zijn gezicht aan microdrama-startup",
-  "Anthropic naar de beurs: kan veiligheid voorop blijven?"
+  "Anthropic naar de beurs: kan veiligheid voorop blijven?",
+  "Riemann-hypothese bewezen met AI, maar critici plaatsen vraagtekens",
+  "Signal beperkt screenshots vanwege AI-surveillance",
+  "Meta heroverweegt net zero 2030 door uitstoot ai-datacenters"
  ]
 }

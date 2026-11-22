@@ -1,52 +1,5 @@
 [
  {
-  "at": "2026-10-14T22:09:58",
-  "slug": "",
-  "title": "Samsung Galaxy AI werkt nu in het Nederlands",
-  "kind": "news",
-  "rood": [
-   "S10"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-14T22:10:06",
-  "slug": "",
-  "title": "AI-race laait op: OpenAI, Anthropic en Google weer in gevecht",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-15T10:25:35",
-  "slug": "",
-  "title": "Gemini voor Home update: stop sneller begrepen",
-  "kind": "news",
-  "rood": [
-   "S10"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-15T10:25:45",
-  "slug": "",
-  "title": "Ricursive Intelligence zet AI in voor chipontwerp",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-15T10:25:56",
   "slug": "",
   "title": "Gudea voorspelt social media crisis met AI",
@@ -6400,6 +6353,57 @@
    "S11",
    "S5",
    "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-22T12:38:25",
+  "slug": "",
+  "title": "Riemann-hypothese bewezen met AI, maar critici plaatsen vraagtekens",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-22T12:38:34",
+  "slug": "",
+  "title": "Signal beperkt screenshots vanwege AI-surveillance",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-22T12:38:43",
+  "slug": "",
+  "title": "Meta heroverweegt net zero 2030 door uitstoot ai-datacenters",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-22T12:39:05",
+  "slug": "",
+  "title": "AI-week 47: Meta, Signal, Anthropic en Google zetten de toon",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S6",
+   "S8"
   ],
   "andere_fouten": 0,
   "stand": "meten"

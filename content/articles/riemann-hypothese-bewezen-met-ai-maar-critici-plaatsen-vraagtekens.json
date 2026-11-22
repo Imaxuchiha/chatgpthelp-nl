@@ -1,0 +1,68 @@
+{
+ "keyword": "riemann-hypothese ai",
+ "seo_title": "Riemann-hypothese bewijs met AI-model Claude roept kritiek",
+ "title": "Riemann-hypothese bewezen met AI, maar critici plaatsen vraagtekens",
+ "meta": "Een wiskundige bewees met AI-model Claude de Riemann-hypothese, na 167 jaar. Lees waarom critici vinden dat oplossen niet het doel is.",
+ "category": "nieuws",
+ "tags": [
+  "riemann-hypothese",
+  "claude",
+  "wiskunde",
+  "ai",
+  "onderzoek"
+ ],
+ "intro": "Een wiskundige heeft met hulp van AI-model Claude de Riemann-hypothese bewezen. Dat raadsel hield wiskundigen 167 jaar bezig. Niet iedereen is blij met de uitkomst.",
+ "takeaways": [
+  "De Riemann-hypothese is na 167 jaar opgelost met hulp van AI-model Claude.",
+  "Sommige wiskundigen vrezen dat de berekeningen niet meer te begrijpen zijn.",
+  "Critici stellen dat het oplossen van een probleem niet het enige doel is.",
+  "Het is nog niet bekend of en hoe het bewijs wordt gecontroleerd."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de Riemann-hypothese precies is",
+   "body": "De Riemann-hypothese gaat over priemgetallen en de manier waarop ze verdeeld zijn. Wiskundigen proberen al sinds 1859 te bewijzen dat een bepaald patroon altijd opgaat. Lukt dat, dan snappen we meer van hoe priemgetallen in elkaar zitten.\n\nHet probleem staat bekend als een van de lastigste binnen de wiskunde. Een bewijs ervan geldt als een mijlpaal. Volgens NU.nl Tech bleef het antwoord 167 jaar uit."
+  },
+  {
+   "heading": "Hoe AI-model Claude meehielp",
+   "body": "De wiskundige zette het AI-model Claude in om het bewijs rond te krijgen. Claude is een taalmodel van Anthropic, net als ChatGPT van OpenAI en Gemini van Google. Zulke modellen kunnen tekst genereren en redeneringen opzetten.\n\nHoe groot de rol van Claude precies was, is niet duidelijk. De bron geeft geen details over de stappen die het model zette. Ook is niet bekend hoeveel tijd het bewijs kostte."
+  },
+  {
+   "heading": "Waarom critici terughoudend reageren",
+   "body": "Sommige wiskundigen zijn niet enthousiast. Zij vrezen dat berekeningen van een AI-model niet meer te volgen zijn. Een bewijs dat je niet kunt nalezen, heeft voor hen weinig waarde.\n\nEen van hen vat het samen met de woorden dat oplossen niet het doel is. Volgens die kritiek gaat wiskunde juist om begrijpen waarom iets klopt. Een uitkomst zonder inzicht voelt dan als een leeg antwoord."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Of het bewijs klopt, is nog niet bevestigd. De bron meldt niets over een controle door andere wiskundigen. Zo'n beoordeling door vakgenoten is gebruikelijk bij grote doorbraken.\n\nOok is onduidelijk of het bewijs volledig is gepubliceerd. Zonder die controle blijft de vraag open of de Riemann-hypothese echt van de lijst kan."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse wiskundigen en studenten verandert er weinig aan hun werk. Een bewijs telt pas als vakgenoten het hebben nagelopen, en dat is nog niet gebeurd. Wel laat dit zien dat AI-modellen zoals Claude steeds vaker worden ingezet bij onderzoek. Universiteiten en onderzoeksfinanciers in Nederland zullen moeten bepalen hoe ze met zulke hulpmiddelen omgaan. Of een AI-uitkomst meetelt als wetenschappelijk resultaat, is nog niet geregeld.",
+ "faq": [
+  {
+   "q": "wat is de riemann-hypothese?",
+   "a": "Een vermoeden uit 1859 over de verdeling van priemgetallen. Wiskundigen proberen sindsdien te bewijzen dat het patroon altijd opgaat."
+  },
+  {
+   "q": "is de riemann-hypothese nu echt bewezen?",
+   "a": "Een wiskundige zegt van wel, met hulp van AI-model Claude. Of het bewijs klopt, is nog niet bevestigd door andere wiskundigen."
+  },
+  {
+   "q": "welk ai-model hielp bij het bewijs?",
+   "a": "Claude, een model van Anthropic. Het is vergelijkbaar met ChatGPT van OpenAI en Gemini van Google."
+  }
+ ],
+ "slug": "riemann-hypothese-bewezen-met-ai-maar-critici-plaatsen-vraagtekens",
+ "kind": "news",
+ "date": "2026-11-22",
+ "published": "2026-11-22T12:38",
+ "sources": [
+  {
+   "name": "NU.nl Tech",
+   "title": "Wiskundige doorbraak met AI leidt tot kritiek: 'Oplossen is niet het doel'",
+   "url": "https://www.nu.nl/tech/6417347/wiskundige-doorbraak-met-ai-leidt-tot-kritiek-oplossen-is-niet-het-doel.html"
+  }
+ ],
+ "path": "/nieuws/riemann-hypothese-bewezen-met-ai-maar-critici-plaatsen-vraagtekens/",
+ "og": "/img/og/riemann-hypothese-bewezen-met-ai-maar-critici-plaatsen-vraagtekens.png",
+ "take": "Een bewijs van 167 jaar oud wiskundig vraagstuk dat nu uit een taalmodel rolt, daar wil ik eerst de volledige uitwerking van zien voordat ik het geloof. Mijn regel blijft simpel: AI doet het rekenwerk, de mens houdt de knoppen vast waaraan geld en verantwoordelijkheid hangen. Critici die zeggen dat oplossen niet het doel is hebben op dat punt gewoon gelijk."
+}

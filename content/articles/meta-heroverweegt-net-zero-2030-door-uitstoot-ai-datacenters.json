@@ -1,0 +1,68 @@
+{
+ "keyword": "meta net zero ai",
+ "seo_title": "Meta net zero ai: 2030-doel heroverwogen om uitstoot",
+ "title": "Meta heroverweegt net zero 2030 door uitstoot ai-datacenters",
+ "meta": "Meta bekijkt opnieuw zijn net zero-doel voor 2030. Ai-datacenters zorgen voor recorduitstoot. Wat betekent dat voor Nederland en de EU?",
+ "category": "nieuws",
+ "tags": [
+  "meta",
+  "net zero",
+  "datacenters",
+  "ai",
+  "uitstoot"
+ ],
+ "intro": "Meta kijkt opnieuw naar zijn duurzaamheidsdoelen voor 2030. De uitstoot van datacenters voor ai groeit harder dan verwacht, meldt Ars Technica. Dat zet druk op de klimaatbeloftes van het bedrijf.",
+ "takeaways": [
+  "Meta zegt zijn net zero-doel voor 2030 te heroverwegen.",
+  "Datacenters voor ai stuwen de uitstoot van het bedrijf naar een record.",
+  "Ars Technica vraagt zich af of andere techbedrijven volgen.",
+  "Hoeveel het doel precies opschuift, is nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Meta zegt",
+   "body": "Meta noemt zijn duurzaamheidsdoelen voor 2030 opnieuw aan herziening onderhevig. Het bedrijf spreekt van een herbeoordeling, meldt Ars Technica. De aanleiding is de uitstoot van datacenters die voor ai worden gebouwd.\n\nDie datacenters draaien op veel stroom. Koeling en rekenkracht vragen continu energie. Daardoor stijgt de uitstoot van Meta naar een record, staat in het bericht.\n\nHet bedrijf noemt geen nieuwe datum of nieuw cijfer. Ook is niet duidelijk welke doelen precies worden aangepast."
+  },
+  {
+   "heading": "Waarom ai zoveel stroom kost",
+   "body": "Ai-modellen trainen en gebruiken kost veel rekenkracht. Dat gebeurt in grote hallen vol servers. Die servers worden warm en moeten gekoeld worden.\n\nSommige bedrijven kopen groene stroom in. Toch groeit het totale verbruik sneller dan de groene stroom meegroeit. Bij Meta loopt de uitstoot daardoor op, ook al investeert het bedrijf in duurzame energie.\n\nArs Technica noemt de ontwikkeling opvallend. Meta was een van de techbedrijven die juist vroeg met klimaatdoelen naar buiten kwam."
+  },
+  {
+   "heading": "Volgen andere bedrijven",
+   "body": "De vraag is of Microsoft, Google en Amazon hetzelfde gaan doen. Alle drie bouwen ze grote datacenters voor ai. Hun stroomverbruik stijgt ook.\n\nArs Technica stelt die vraag expliciet. Een antwoord is er nog niet. De komende maanden moet blijken of meer bedrijven hun doelen bijstellen.\n\nDuidelijk is wel dat ai de energievraag van de techsector opstuwt. Dat raakt zowel de klimaatcijfers als de stroomprijs."
+  },
+  {
+   "heading": "Wat dit betekent voor Nederland",
+   "body": "Nederland telt meerdere grote datacenters, onder meer in de regio Amsterdam en in Zeeland. Nieuwe ai-hallen vragen extra stroom en netcapaciteit. Het stroomnet zit in delen van het land al vol.\n\nAls grote techbedrijven hun klimaatdoelen losser maken, verandert dat de druk op groene stroom. Gemeenten en provincies kijken bij vergunningen naar energie en duurzaamheid. Een zwakkere belofte van een bedrijf maakt die afweging lastiger.\n\nVoor bedrijven die zelf ai gebruiken, blijft de vraag hoe groen hun rekenkracht is. Leveranciers geven daar lang niet altijd duidelijkheid over."
+  }
+ ],
+ "nl_angle": "In Nederland raakt dit de discussie over nieuwe datacenters en de volle stroomnetten. Provincies en gemeenten wegen bij vergunningen af hoeveel energie een hal vraagt en hoe duurzaam die draait. Zwakt een grote speler als Meta zijn klimaatbelofte af, dan wordt het lastiger om van datacenters stevige groene eisen te vragen. Ook Nederlandse bedrijven die ai inhuren, merken het als leveranciers minder duidelijk zijn over de herkomst van hun stroom.",
+ "faq": [
+  {
+   "q": "Wat betekent net zero?",
+   "a": "Net zero betekent dat een bedrijf per saldo geen broeikasgassen meer uitstoot. Wat het uitstoot, compenseert of vangt het dan op."
+  },
+  {
+   "q": "Waarom stijgt de uitstoot van Meta?",
+   "a": "Vooral door datacenters die nodig zijn voor ai. Die vragen veel stroom voor rekenkracht en koeling, meldt Ars Technica."
+  },
+  {
+   "q": "Geldt dit ook voor datacenters in Nederland?",
+   "a": "Nederland heeft meerdere grote datacenters en het stroomnet zit op sommige plekken vol. Of Meta zijn doel aanpast, zegt nog niets over de eisen die hier gelden."
+  }
+ ],
+ "slug": "meta-heroverweegt-net-zero-2030-door-uitstoot-ai-datacenters",
+ "kind": "news",
+ "date": "2026-11-22",
+ "published": "2026-11-22T12:40",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+   "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+  }
+ ],
+ "path": "/nieuws/meta-heroverweegt-net-zero-2030-door-uitstoot-ai-datacenters/",
+ "og": "/img/og/meta-heroverweegt-net-zero-2030-door-uitstoot-ai-datacenters.png",
+ "take": "Meta belooft net zero in 2030 en rekent zich nu al rijk met ai-datacenters die meer stroom vreten dan verwacht. Mijn maatstaf blijft simpel: een tool verdient zich terug in tijd of geld die ik kan aanwijzen, en een klimaatbelofte die onder druk verschuift levert niemand iets op. Ik kijk naar wat er na die herziening echt op de meter staat."
+}

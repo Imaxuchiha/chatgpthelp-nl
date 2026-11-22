@@ -1,0 +1,132 @@
+{
+ "keyword": "ai week overzicht",
+ "seo_title": "AI-week 47: Meta, Signal, Anthropic en Google",
+ "title": "AI-week 47: Meta, Signal, Anthropic en Google zetten de toon",
+ "meta": "AI-week 47: Meta heroverweegt zijn klimaatdoel, Signal blokkeert screenshots, Anthropic gaat naar de beurs en Google verandert zijn zoekpagina.",
+ "category": "nieuws",
+ "tags": [
+  "meta",
+  "signal",
+  "anthropic",
+  "google",
+  "privacy"
+ ],
+ "intro": "Deze week botsten klimaat, privacy en geld op elkaar in AI-land. Meta worstelt met de uitstoot van zijn datacenters, Signal schermt chats af en Anthropic zocht de beurs op. Ook Google en Etsy draaiden aan hun AI-knoppen.",
+ "takeaways": [
+  "Meta bekijkt zijn net zero-doel voor 2030 opnieuw door de uitstoot van AI-datacenters.",
+  "Signal blokkeert screenshots in de app op Android en iOS.",
+  "Anthropic, het bedrijf achter Claude, is naar de Nasdaq gegaan.",
+  "Google haalde de zoekknop weg en toont je AI-chatgeschiedenis in een zijbalk."
+ ],
+ "sections": [
+  {
+   "heading": "Meta en het klimaat: datacenters drukken zwaar",
+   "body": "Meta heroverweegt zijn doel om in 2030 net zero te zijn. De groei van AI-datacenters zorgt voor recorduitstoot, meldden meerdere artikelen deze week. Het bedrijf zegt nog niet wat er precies verandert aan de doelstelling.\n\nVoor Nederland telt dat mee. Stroom voor datacenters komt hier deels van het net, en de vraag naar capaciteit stijgt. De EU kijkt streng naar de energierekening van grote techbedrijven. Of Meta zijn cijfers in Europa anders presenteert, is nog niet bekend."
+  },
+  {
+   "heading": "Signal zet screenshots op slot",
+   "body": "Signal blokkeert screenshots in de Android- en iOS-app. De aanleiding is AI-surveillance: software die beelden automatisch leest en doorzoekt. Met de blokkade wil Signal voorkomen dat gesprekken makkelijk buiten de app belanden.\n\nDe maatregel raakt ook werk. Wie Signal gebruikt voor overleg, kan een gesprek niet meer even vastleggen met een schermafdruk. Voor journalisten en klokkenluiders in Nederland is dat een afweging tussen gemak en bescherming."
+  },
+  {
+   "heading": "Anthropic naar de beurs, Claude bewijst een vermoeden",
+   "body": "Anthropic, het bedrijf achter Claude, is naar de Nasdaq gegaan. De vraag die blijft hangen: kan veiligheid voorop blijven nu aandeelhouders meepraten? Het bedrijf geeft daar nog geen duidelijk antwoord op.\n\nEen medewerker van Anthropic claimde deze week de Riemann-hypothese te hebben bewezen met Claude. Critici plaatsen vraagtekens bij die claim. Volgens hen is het oplossen van een vermoeden niet hetzelfde als het leveren van een sluitend bewijs. Wat er precies is ingediend, is nog niet bekend."
+  },
+  {
+   "heading": "Google en Etsy draaien aan de knoppen",
+   "body": "Google heeft zijn zoekpagina vernieuwd. De zoekknop is weg en er is een zijbalk met je AI-chatgeschiedenis. Zoeken wordt daardoor meer een gesprek dan een losse vraag.\n\nEtsy wilde nieuw AI-beleid invoeren, maar verkopers vertrokken massaal. Het platform draaide de plannen terug. Voor Nederlandse verkopers op Etsy betekent dat voorlopig dat de oude regels gelden.\n\nGoogle Assistent verdwijnt volgend jaar van slimme speakers en de Nest Hub. Gebruikers moeten overstappen op Gemini. Wanneer dat precies gebeurt, is nog niet bekend."
+  },
+  {
+   "heading": "Gezichten en games: AI als handelswaar",
+   "body": "Een acteur licentieerde zijn gezicht aan een microdrama-startup. Acteurs en makers in Nederland kijken mee: wat betekent zo'n deal voor rechten en nabijheid?\n\nUbisoft richtte dochterbedrijf Motherbrain op voor generatieve AI in games. Slimme personages moeten spelers een levendiger wereld geven. TechCrunch zette ondertussen AI-agenten op een rij die in je sms-berichten leven. Voor wie ze bedoeld zijn, verschilt per aanbieder."
+  }
+ ],
+ "nl_angle": "Deze week laat zien dat AI niet alleen om modellen draait. Klimaatdoelen, privacy-instellingen en beursregels bepalen wat je in Nederland merkt van ChatGPT, Claude en Gemini. Let op je energierekening, je chatgeschiedenis en je rechten als maker.",
+ "faq": [
+  {
+   "q": "Wat verandert er bij Signal?",
+   "a": "Signal blokkeert screenshots in de app op Android en iOS. Gesprekken zijn daardoor lastiger buiten de app te delen."
+  },
+  {
+   "q": "Moet ik mijn Google Assistent vervangen?",
+   "a": "Google Assistent verdwijnt volgend jaar van slimme speakers en de Nest Hub. Je stapt dan over op Gemini. Een exacte datum is nog niet bekend."
+  }
+ ],
+ "slug": "ai-week-47-meta-signal-anthropic-en-google-zetten-de-toon",
+ "kind": "week",
+ "date": "2026-11-22",
+ "published": "2026-11-22T12:38",
+ "sources": [
+  {
+   "name": "ChatGPT Help",
+   "title": "Meta heroverweegt net zero 2030 door uitstoot ai-datacenters",
+   "url": "https://chatgpthelp.nl/nieuws/meta-heroverweegt-net-zero-2030-door-uitstoot-ai-datacenters/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Signal beperkt screenshots vanwege AI-surveillance",
+   "url": "https://chatgpthelp.nl/nieuws/signal-beperkt-screenshots-vanwege-ai-surveillance/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Riemann-hypothese bewezen met AI, maar critici plaatsen vraagtekens",
+   "url": "https://chatgpthelp.nl/nieuws/riemann-hypothese-bewezen-met-ai-maar-critici-plaatsen-vraagtekens/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Anthropic naar de beurs: kan veiligheid voorop blijven?",
+   "url": "https://chatgpthelp.nl/nieuws/anthropic-naar-de-beurs-kan-veiligheid-voorop-blijven/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Acteur verkoopt AI-versie van zijn gezicht aan microdrama-startup",
+   "url": "https://chatgpthelp.nl/nieuws/acteur-verkoopt-ai-versie-van-zijn-gezicht-aan-microdrama-startup/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "AI-agent in je sms: TechCrunch zet de opties op een rij",
+   "url": "https://chatgpthelp.nl/nieuws/ai-agent-in-je-sms-techcrunch-zet-de-opties-op-een-rij/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Etsy draait AI-beleid terug na vertrek van verkopers",
+   "url": "https://chatgpthelp.nl/nieuws/etsy-draait-ai-beleid-terug-na-vertrek-van-verkopers/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Google Assistent stopt volgend jaar op slimme speakers en Nest Hub",
+   "url": "https://chatgpthelp.nl/nieuws/google-assistent-stopt-volgend-jaar-op-slimme-speakers-en-nest-hub/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Meta klimaatdoelen ai: 2030-doel wankelt door datacenters",
+   "url": "https://chatgpthelp.nl/nieuws/meta-klimaatdoelen-ai-2030-doel-wankelt-door-datacenters/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Google zoekpagina ai: geen zoekknop meer, wel chatgeschiedenis",
+   "url": "https://chatgpthelp.nl/nieuws/google-zoekpagina-ai-geen-zoekknop-meer-wel-chatgeschiedenis/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Anthropic-medewerker claimt bewijs Riemann-hypothese met Claude",
+   "url": "https://chatgpthelp.nl/nieuws/anthropic-medewerker-claimt-bewijs-riemann-hypothese-met-claude/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Ubisoft richt Motherbrain op voor levensechte gamepersonages",
+   "url": "https://chatgpthelp.nl/nieuws/ubisoft-richt-motherbrain-op-voor-levensechte-gamepersonages/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Riemann hypothese: AI en mens claimen allebei een oplossing",
+   "url": "https://chatgpthelp.nl/nieuws/riemann-hypothese-ai-en-mens-claimen-allebei-een-oplossing/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Europa Fusion: Daniel Ek investeert in fusie-energie van AI-onderzoeker",
+   "url": "https://chatgpthelp.nl/nieuws/europa-fusion-daniel-ek-investeert-in-fusie-energie-van-ai-onderzoeker/"
+  }
+ ],
+ "path": "/nieuws/ai-week-47-meta-signal-anthropic-en-google-zetten-de-toon/",
+ "og": "/img/og/ai-week-47-meta-signal-anthropic-en-google-zetten-de-toon.png"
+}

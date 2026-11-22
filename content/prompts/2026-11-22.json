@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: eindejaarsuitje plannen binnen budget",
+ "situation": "Je bent degene die het teamuitje voor december regelt en wilt snel een concreet voorstel met kosten per persoon op tafel.",
+ "prompt": "Je bent een ervaren eventplanner voor kleine teams. Ik regel het eindejaarsuitje voor mijn team van [AANTAL] mensen, met een budget van [BEDRAG] euro per persoon. De groep bestaat uit [KORTE OMSCHRIJVING GROEP, bijv. leeftijden, wensen, of iemand die niet drinkt]. De locatie is [STAD/REGIO] en het uitje duurt [AANTAL] uur op [DATUM OF PERIODE]. Maak een voorstel met drie verschillende opties: één actief, één culinair en één rustig. Geef per optie een korte omschrijving, een schatting van de kosten per persoon in euro's, de reistijd vanaf [VERTREKPUNT] en één praktisch punt om te checken bij het reserveren. Sluit af met een tabel met de drie opties naast elkaar en een korte aanbeveling op basis van het budget. Vraag me eerst om ontbrekende informatie als iets onduidelijk is.",
+ "tip": "Vul bij de groepswensen één concrete voorkeur of afknapper in, dan worden de opties gerichter.",
+ "tags": [
+  "werk",
+  "planning",
+  "budget",
+  "teamuitje"
+ ],
+ "date": "2026-11-22",
+ "slug": "prompt-eindejaarsuitje-plannen-binnen-budget",
+ "path": "/prompts/2026-11-22-prompt-eindejaarsuitje-plannen-binnen-budget/"
+}
