@@ -1,67 +1,5 @@
 [
  {
-  "at": "2026-10-15T10:25:56",
-  "slug": "",
-  "title": "Gudea voorspelt social media crisis met AI",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S4",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-15T10:26:43",
-  "slug": "",
-  "title": "Nep conversiewaarde: 10.000 euro aan lucht in je Google Ads",
-  "kind": "column",
-  "rood": [
-   "S10",
-   "S4"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-15T17:43:10",
-  "slug": "",
-  "title": "Study mode van ChatGPT helpt leerlingen stap voor stap denken",
-  "kind": "news",
-  "rood": [
-   "S5",
-   "S6",
-   "S8"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-15T17:43:20",
-  "slug": "",
-  "title": "AI-tool brengt dodo terug: welke genen zijn nodig",
-  "kind": "news",
-  "rood": [
-   "S8"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-15T17:43:30",
-  "slug": "",
-  "title": "AI-agents komen naar de auto's van Rivian",
-  "kind": "news",
-  "rood": [
-   "S10"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-15T17:44:01",
   "slug": "",
   "title": "170 spookaankopen: zo verpest slechte data je PMax",
@@ -6404,6 +6342,76 @@
    "S4",
    "S6",
    "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-22T19:38:26",
+  "slug": "",
+  "title": "AI onder controle wiskunde: Mike Winer zoekt de formule",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-22T19:38:34",
+  "slug": "",
+  "title": "David Fincher vindt AI in film prima: het bestaat toch",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-22T19:38:42",
+  "slug": "",
+  "title": "Acteurs verhuren hun gezicht aan AI-series van Shortical",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-22T19:38:50",
+  "slug": "",
+  "title": "Perplexity als maatstaf: hoe OpenAI vooruitgang in AI meet",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-22T19:38:59",
+  "slug": "",
+  "title": "Binding of Isaac haalt AI-muziek weg na reviewbomb op Steam",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S5",
+   "S8",
+   "S9"
   ],
   "andere_fouten": 0,
   "stand": "meten"

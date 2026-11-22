@@ -1,0 +1,68 @@
+{
+ "keyword": "perplexity ai betekenis",
+ "seo_title": "Perplexity ai betekenis: zo meet OpenAI vooruitgang",
+ "title": "Perplexity als maatstaf: hoe OpenAI vooruitgang in AI meet",
+ "meta": "Wat betekent perplexity in AI-modellen? OpenAI legt uit hoe deze maatstaf ontwikkelaars helpt om nieuwe capaciteiten van modellen te vergelijken.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "perplexity",
+  "ai-modellen",
+  "evaluatie",
+  "ontwikkelaars"
+ ],
+ "intro": "OpenAI heeft een toelichting gepubliceerd over perplexity: een manier om te meten hoe goed een taalmodel de volgende woorden voorspelt. Volgens OpenAI kan die maatstaf ontwikkelaars helpen om een gedeelde aanpak te vinden bij het beoordelen van nieuwe capaciteiten van AI-modellen.",
+ "takeaways": [
+  "Perplexity meet hoe goed een model de volgende woorden in een tekst voorspelt.",
+  "OpenAI ziet de maatstaf als hulpmiddel voor een gedeelde evaluatieaanpak onder ontwikkelaars.",
+  "Het gaat om een technische maatstaf, niet om een compleet beeld van modelkwaliteit.",
+  "OpenAI noemt geen concrete cijfers of releasedata in de toelichting."
+ ],
+ "sections": [
+  {
+   "heading": "Wat perplexity precies meet",
+   "body": "Een taalmodel werkt door steeds het volgende woord of stukje woord te voorspellen. Perplexity drukt uit hoe verrast een model is bij die voorspelling. Een lage waarde betekent dat het model de tekst goed had verwacht. Een hoge waarde wijst op meer onzekerheid.\n\nDie maatstaf is al jaren bekend in de taaltechnologie. OpenAI legt in de publicatie uit hoe perplexity inzicht geeft in de prestaties van een model. Het bedrijf noemt het een manier om vooruitgang meetbaar te maken."
+  },
+  {
+   "heading": "Waarom ontwikkelaars een gedeelde aanpak zoeken",
+   "body": "Er bestaan veel manieren om AI-modellen te beoordelen. Elk lab gebruikt eigen tests en eigen rapportages. Daardoor is het lastig om modellen van verschillende makers eerlijk te vergelijken.\n\nVolgens OpenAI kan perplexity bijdragen aan een gezamenlijke methode. Als ontwikkelaars dezelfde maatstaf gebruiken, worden resultaten beter naast elkaar te leggen. Dat helpt bij het beoordelen van nieuwe capaciteiten die modellen krijgen."
+  },
+  {
+   "heading": "Wat perplexity niet zegt",
+   "body": "Een lage perplexity betekent niet automatisch dat een model betrouwbaar of nuttig is. De maatstaf kijkt naar voorspellingen op tekst, niet naar feitelijke juistheid of veiligheid. Een model kan vlot klinkende zinnen maken die toch onjuist zijn.\n\nOpenAI presenteert perplexity daarom als één hulpmiddel naast andere evaluaties. De publicatie geeft geen concrete scores, vergelijkingen of releasedata. Meer details over toepassing in toekomstige modellen zijn nog niet bekend."
+  },
+  {
+   "heading": "Technische maatstaf, praktische vraag",
+   "body": "Voor ontwikkelaars is het vooral de vraag hoe bruikbaar de maatstaf is bij nieuwe soorten modellen. Modellen die teksten genereren, passen goed bij een voorspellingstest. Bij taken met meer stappen zegt perplexity minder.\n\nOpenAI zegt dat de maatstaf kan helpen om vooruitgang inzichtelijk te maken. Of andere lab's dezelfde methode gaan volgen, is nog niet bekend."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en AI-teams is dit vooral relevant als ze modellen met elkaar willen vergelijken. Een gedeelde maatstaf maakt het makkelijker om keuzes te onderbouwen, bijvoorbeeld bij de inzet van een model in een eigen applicatie. Let wel op: perplexity zegt weinig over naleving van de Europese AI-verordening of over privacy. Nederlandse bedrijven blijven dus zelf verantwoordelijk voor tests op juistheid, veiligheid en datagebruik.",
+ "faq": [
+  {
+   "q": "Wat betekent perplexity bij AI-modellen?",
+   "a": "Perplexity is een maatstaf voor hoe goed een taalmodel het volgende woord in een tekst voorspelt. Een lage waarde betekent dat het model de tekst goed had verwacht."
+  },
+  {
+   "q": "Is perplexity hetzelfde als het bedrijf Perplexity?",
+   "a": "Nee. Perplexity is ook de naam van een zoekdienst met AI. In de publicatie van OpenAI gaat het om de technische maatstaf voor taalmodellen."
+  },
+  {
+   "q": "Gaat OpenAI perplexity gebruiken om modellen te vergelijken?",
+   "a": "Volgens OpenAI kan de maatstaf helpen bij een gedeelde evaluatieaanpak. Concrete plannen of cijfers noemt het bedrijf in de toelichting niet."
+  }
+ ],
+ "slug": "perplexity-als-maatstaf-hoe-openai-vooruitgang-in-ai-meet",
+ "kind": "news",
+ "date": "2026-11-22",
+ "published": "2026-11-22T19:39",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Perplexity and Intelligence",
+   "url": "https://openai.com/index/perplexity-and-intelligence"
+  }
+ ],
+ "path": "/nieuws/perplexity-als-maatstaf-hoe-openai-vooruitgang-in-ai-meet/",
+ "og": "/img/og/perplexity-als-maatstaf-hoe-openai-vooruitgang-in-ai-meet.png",
+ "take": "Perplexity is een getal dat zegt hoe verrassend een model de volgende woorden vindt. OpenAI legt daarmee een meetlat neer, en dat is nuttig voor ontwikkelaars die modellen willen vergelijken. Voor mijn bureau verandert er niks: ik sleep liever zelf een script in elkaar dan dat ik een abonnement neem op de zoveelste tool die een cijfer mooi presenteert."
+}

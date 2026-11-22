@@ -1,0 +1,67 @@
+{
+ "keyword": "ai onder controle wiskunde",
+ "seo_title": "AI onder controle wiskunde: Mike Winer zoekt de formule",
+ "title": "AI onder controle wiskunde: Mike Winer zoekt de formule",
+ "meta": "Wiskundigen onder leiding van Mike Winer willen voorspellen wanneer AI gevaarlijk wordt. Zo werkt hun aanpak en dit betekent het voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ai-veiligheid",
+  "wiskunde",
+  "onderzoek",
+  "mike winer",
+  "ai-regels"
+ ],
+ "intro": "Een groep wiskundigen rond Mike Winer zoekt een manier om AI-systemen onder menselijke controle te houden. Ze bouwen wiskundige modellen die gevaarlijk gedrag van AI vroeg moeten signaleren. Het lastige punt: de onderzoekers vrezen dat AI sneller vooruitgaat dan hun oplossingen, meldt Bright.",
+ "takeaways": [
+  "Mike Winer werkt met een groep wiskundigen aan modellen die gevaarlijk AI-gedrag moeten voorspellen.",
+  "Het doel is om AI onder menselijke controle te houden met behulp van wiskunde.",
+  "De onderzoekers vrezen dat AI zich sneller ontwikkelt dan hun oplossingen bijhouden."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de groep precies probeert",
+   "body": "Winer en zijn collega's willen voorspellen wanneer een AI-systeem gevaarlijk gedrag gaat vertonen. Dat doen ze met wiskundige modellen. Zo'n model moet niet achteraf constateren dat er iets misging, maar vooraf een signaal geven.\n\nDe aanpak leunt op de gedachte dat je gedrag van een systeem kunt beschrijven in formules. Als die formules een patroon laten zien dat op risico wijst, kun je ingrijpen. In theorie werkt dat bij elk model, of het nu om tekst, beeld of besturing gaat."
+  },
+  {
+   "heading": "Het probleem: snelheid",
+   "body": "De onderzoekers hebben zelf een flinke zorg. Ze denken dat AI zich sneller ontwikkelt dan hun wiskundige oplossingen. Tegen de tijd dat een model klaar is, kan de techniek alweer een stap verder zijn.\n\nDat maakt het werk lastig, want een controle die altijd een jaar achterloopt, biedt weinig houvast. Volgens Bright is dat gebrek aan tempo het grootste struikelblok voor de groep."
+  },
+  {
+   "heading": "Waarom wiskunde en niet alleen regels",
+   "body": "Toezicht op AI gebeurt nu vaak met afspraken, tests en menselijke controle. Wiskunde voegt daar iets aan toe: een bewijs of een grens die je kunt narekenen. Dat is niet afhankelijk van de vraag of een bedrijf zich netjes aan de afspraak houdt.\n\nToch lost wiskunde niet alles op. Een model dat in theorie veilig is, kan in de praktijk anders reageren door nieuwe data of een andere omgeving. De groep zoekt daarom naar signalen die ook buiten het lab standhouden."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Over de precieze modellen, de termijn en eventuele publicaties is nog niets naar buiten gebracht. Het is ook niet duidelijk of de groep samenwerkt met AI-bedrijven of met toezichthouders.\n\nWel helder is de kern van het werk: eerder zien aankomen dat een systeem de verkeerde kant op gaat. Of dat lukt voordat de techniek weer verder is, blijft de open vraag."
+  }
+ ],
+ "nl_angle": "Voor Nederland telt dit vooral op twee plekken. Bedrijven die AI inzetten, krijgen mogelijk te maken met Europese eisen rond hoog-risicosystemen, en dan helpt het als er een narekenbare methode ligt om risico's te meten. Ook Nederlandse toezichthouders en universiteiten kunnen zo'n wiskundige aanpak gebruiken bij het beoordelen van AI. Zolang de methode niet af is, blijft controle in de praktijk vooral mensenwerk.",
+ "faq": [
+  {
+   "q": "Wat wil Mike Winer bereiken met wiskunde?",
+   "a": "Hij wil met een groep wiskundigen voorspellen wanneer AI-systemen gevaarlijk gedrag gaan vertonen, zodat je op tijd kunt ingrijpen."
+  },
+  {
+   "q": "Wat is het grootste probleem van dit onderzoek?",
+   "a": "De onderzoekers vrezen dat AI zich sneller ontwikkelt dan hun wiskundige oplossingen, waardoor die steeds achterlopen."
+  },
+  {
+   "q": "Is deze methode al beschikbaar?",
+   "a": "Nee, over de modellen en de termijn is nog niets bekendgemaakt. Het werk lijkt nog in onderzoek te zitten."
+  }
+ ],
+ "slug": "ai-onder-controle-wiskunde-mike-winer-zoekt-de-formule",
+ "kind": "news",
+ "date": "2026-11-22",
+ "published": "2026-11-22T19:38",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "Mike Winer wil mensheid beschermen tegen AI met wiskunde",
+   "url": "https://www.bright.nl/nieuws/2161608/mike-winer-wil-mensheid-beschermen-tegen-ai-met-wiskunde.html"
+  }
+ ],
+ "path": "/nieuws/ai-onder-controle-wiskunde-mike-winer-zoekt-de-formule/",
+ "og": "/img/og/ai-onder-controle-wiskunde-mike-winer-zoekt-de-formule.png",
+ "take": "Wiskundigen die gevaarlijk AI-gedrag vroeg willen signaleren, daar heb ik vertrouwen in zolang ze naar jaren kijken en niet naar een paar weken. Ik beoordeel een advertentieaccount pas op twaalf tot achttien maanden en jaar-op-jaar, want op dertig dagen data zie je ruis en noem je het al snel een trend. Een model dat na één kort experiment groen licht krijgt, daar geloof ik niets van."
+}
