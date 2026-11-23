@@ -1,0 +1,68 @@
+{
+ "keyword": "ai voor juristen",
+ "seo_title": "AI voor juristen: OpenAI richt zich op legal teams",
+ "title": "AI voor juristen: OpenAI richt zich op interne legal teams",
+ "meta": "OpenAI laat zien hoe AI interne juridische teams helpt met context, herbruikbare workflows en samenwerking met externe advocaten. Wat betekent dat in…",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "juridisch",
+  "legal tech",
+  "ai",
+  "kantoren"
+ ],
+ "intro": "OpenAI heeft een sessie gepubliceerd over AI voor interne juridische teams. Daarin bespreken medewerkers van OpenAI, LECG en advocatenkantoor Cooley hoe AI bedrijfscontext kan verbinden, workflows herhaalbaar kan maken en extern advies beter benut. Voor legal teams in Nederland is dat een concreet signaal: de tooling schuift op van losse proefjes naar werkprocessen.",
+ "takeaways": [
+  "OpenAI bracht een sessie uit over AI voor in-house legal teams, met sprekers van OpenAI, LECG en Cooley.",
+  "Centrale thema's zijn bedrijfscontext, herbruikbare workflows en beter gebruik van externe advocaten.",
+  "Er zijn geen prijzen, releasedata of Nederlandse klanten genoemd in de bron.",
+  "De sessie richt zich op interne teams, niet op de hele juridische sector."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI zelf naar voren schuift",
+   "body": "Volgens OpenAI ging het gesprek over drie dingen: bedrijfscontext verbinden, workflows bouwen die je vaker kunt inzetten en meer halen uit extern counsel. Sprekers waren Stacey Wang en Craig Bruney van OpenAI, Mary O'Carroll van LECG en Richard Segal van Cooley.\n\nDie combinatie is opvallend. Een AI-leverancier, een adviesclub voor legal operations en een advocatenkantoor zitten samen aan tafel. Het laat zien dat de vraag niet alleen technisch is. Het gaat ook over hoe juridisch werk is georganiseerd.\n\nConcrete cijfers, klanten of een prijskaartje noemt de bron niet. Wat er precies is aangekondigd, blijft onduidelijk. De sessie lijkt vooral bedoeld om aanpak en voorbeelden te delen."
+  },
+  {
+   "heading": "Van losse prompt naar vaste workflow",
+   "body": "De term herbruikbare workflows is het meest praktische deel. Veel juridische teams gebruiken AI nu voor eenmalige klussen, zoals een contract samenvatten. Een workflow betekent dat je zo'n stappenreeks vastlegt en vaker draait, met dezelfde controlepunten.\n\nDaar hoort bedrijfscontext bij. Een model dat weet hoe jouw organisatie contracten beoordeelt, levert bruikbaarder werk dan een model zonder die achtergrond. In de bron blijft wel open hoe dat technisch wordt ingevuld.\n\nOok het stuk over extern counsel is relevant. Veel legal teams besteden werk uit aan advocatenkantoren. AI kan helpen om vragen scherper te stellen en stukken beter voor te bereiden. Of dat in de praktijk tijd en geld scheelt, zegt de bron niet."
+  },
+  {
+   "heading": "Wat dit zegt over de koers van OpenAI",
+   "body": "OpenAI positioneert zijn producten steeds vaker per beroepsgroep. Eerder waren er al voorbeelden voor sales, klantenservice en softwareontwikkeling. Nu is juridisch werk aan de beurt.\n\nDat past bij een bredere beweging in de markt. Anthropic richt zich met Claude ook op zakelijke gebruikers, en Microsoft stopt Copilot in de Office-omgeving die veel kantoren al gebruiken. De strijd gaat daarmee minder over het model en meer over de werkplek.\n\nVoor juridische teams betekent dat keuze. Een losse chatbot, een model via een cloudpartij of een tool die in de bestaande documentomgeving zit. Elk heeft eigen eisen op het gebied van vertrouwelijkheid en logging."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "De bron geeft geen releasedatum, geen prijs en geen lijst met functies. Ook is niet duidelijk of de besproken aanpak al beschikbaar is voor klanten buiten de Verenigde Staten.\n\nNederlandse legal teams die willen starten, zullen dus zelf moeten uitzoeken wat hun leverancier biedt. De sessie van OpenAI is vooral een inkijk in de denkwijze, geen productnieuws."
+  }
+ ],
+ "nl_angle": "Voor interne juridische teams in Nederland is de boodschap herkenbaar. Veel organisaties hier experimenteren al met ChatGPT of Copilot, vaak zonder vast beleid. De nadruk op herbruikbare workflows sluit aan bij de wens om niet per medewerker te verschillen in aanpak. Let wel op de Europese context: persoonsgegevens en vertrouwelijke contracten vallen onder de AVG, en de AI-verordening stelt eisen aan sommige toepassingen. Een team dat AI in juridisch werk wil gebruiken, doet er goed aan om vast te leggen welke gegevens wel en niet naar een model gaan. De bron noemt geen Nederlandse klanten of prijzen in euro's, dus over kosten valt nog niets te zeggen.",
+ "faq": [
+  {
+   "q": "Wat is connected intelligence voor legal teams?",
+   "a": "Het is de term die OpenAI gebruikt voor AI die bedrijfscontext, workflows en samenwerking met externe advocaten aan elkaar koppelt. De precieze invulling blijft in de bron vaag."
+  },
+  {
+   "q": "Is deze AI al beschikbaar in Nederland?",
+   "a": "De bron noemt geen releasedatum of beschikbaarheid per land. Of en wanneer Nederlandse teams dit kunnen gebruiken, is nog niet bekend."
+  },
+  {
+   "q": "Mag een juridisch team zomaar vertrouwelijke stukken in ChatGPT zetten?",
+   "a": "Dat hangt af van je contract en interne beleid. Onder de AVG en de AI-verordening gelden regels voor persoonsgegevens en sommige toepassingen, dus leg dit vooraf vast."
+  }
+ ],
+ "slug": "ai-voor-juristen-openai-richt-zich-op-interne-legal-teams",
+ "kind": "news",
+ "date": "2026-11-23",
+ "published": "2026-11-23T23:54",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Connected intelligence for in-house legal",
+   "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+  }
+ ],
+ "path": "/nieuws/ai-voor-juristen-openai-richt-zich-op-interne-legal-teams/",
+ "og": "/img/og/ai-voor-juristen-openai-richt-zich-op-interne-legal-teams.png",
+ "take": "Juristen die AI in hun werkproces zetten, moeten van meet af aan meten wat het oplevert. Ik beoordeel zo'n workflow nooit op de eerste maand, want een jaar of anderhalf geeft pas een eerlijk beeld. En de geld-knoppen en de eindbeslissing over een zaak blijven bij een mens, daar verandert een sessie van OpenAI niets aan."
+}

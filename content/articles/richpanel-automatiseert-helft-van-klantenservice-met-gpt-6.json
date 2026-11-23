@@ -1,0 +1,68 @@
+{
+ "keyword": "ai klantenservice automatiseren",
+ "seo_title": "ai klantenservice automatiseren: helft support in 30 dagen",
+ "title": "Richpanel automatiseert helft van klantenservice met GPT-6",
+ "meta": "Richpanel automatiseert volgens OpenAI de helft van klantvragen binnen 30 dagen met GPT-6 Astra, Sol en Luna. Dit betekent het voor supportteams.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "klantenservice",
+  "gpt-6",
+  "richpanel",
+  "automatisering"
+ ],
+ "intro": "Richpanel laat bedrijven de helft van hun supportvragen binnen dertig dagen automatisch afhandelen. Dat meldt OpenAI in een klantverhaal over het bedrijf. Richpanel gebruikt daarvoor drie modellen uit de GPT-6-familie, elk met een eigen taak.",
+ "takeaways": [
+  "Richpanel automatiseert volgens OpenAI 50 procent van de support in 30 dagen.",
+  "Het bedrijf zet GPT-6 Astra en GPT-6.1 Sol in voor tools en procedures van de AI-agents.",
+  "GPT-6 Luna verzorgt de gesprekken met klanten.",
+  "De cijfers komen uit een klantverhaal van OpenAI zelf, onafhankelijke controle ontbreekt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Richpanel precies doet",
+   "body": "Richpanel bouwt AI-agents voor klantenservice. Die agents krijgen toegang tot tools en procedures, zodat ze zelf actie kunnen ondernemen in plaats van alleen antwoord te geven. OpenAI noemt in het klantverhaal twee modellen die dat mogelijk maken: GPT-6 Astra en GPT-6.1 Sol.\n\nHet gesprek met de klant loopt via een derde model, GPT-6 Luna. Elk model heeft dus een eigen rol. Astra en Sol regelen het denkwerk en de stappen, Luna voert het gesprek.\n\nVolgens OpenAI leidt die opzet ertoe dat bedrijven binnen dertig dagen de helft van hun support kunnen automatiseren. Hoe dat percentage precies is gemeten, staat niet in de bron."
+  },
+  {
+   "heading": "Drie modellen, drie taken",
+   "body": "De opzet lijkt op wat OpenAI vaker beschrijft: een groot model voor redeneren en plannen, een kleiner model voor het contact met de gebruiker. Richpanel noemt de agents zelfstandig, omdat ze tools en procedures kunnen volgen.\n\nWat die tools precies zijn, maakt de bron niet duidelijk. Denk aan het opzoeken van een order, het aanpassen van een abonnement of het doorsturen van een ticket. Zulke stappen vragen om koppelingen met systemen van de klant.\n\nOf de agents zonder menselijke controle werken, is niet bekend. De bron zegt daar niets over."
+  },
+  {
+   "heading": "Wat het cijfer wel en niet zegt",
+   "body": "Een halvering van het supportvolume klinkt fors. Toch komt het cijfer uit een verhaal dat OpenAI zelf publiceert over een klant. Dat is geen onafhankelijk onderzoek.\n\nOok blijft onduidelijk welke vragen worden geautomatiseerd. Eenvoudige vragen over levertijden zijn beter te automatiseren dan klachten over een factuur. Het percentage zegt dus weinig over de kwaliteit van de afhandeling.\n\nBedrijven die dit willen navolgen, doen er goed aan eerst te meten hoeveel vragen echt standaardwerk zijn."
+  },
+  {
+   "heading": "Wat OpenAI hiermee laat zien",
+   "body": "OpenAI gebruikt klantverhalen om te laten zien wat bedrijven met de GPT-6-modellen doen. Richpanel is daar een voorbeeld van: meerdere modellen samen, elk voor een eigen taak.\n\nVoor supportteams betekent dit een verschuiving. Mensen behandelen straks vooral de lastige gevallen, terwijl de agents het standaardwerk doen. Hoe die verdeling in de praktijk uitpakt, moet nog blijken."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven met een eigen supportafdeling is dit een concreet signaal: AI-agents worden ingezet voor het standaardwerk, mensen houden de uitzonderingen. Let wel op de regels. De AI-verordening van de EU verplicht bedrijven om transparant te zijn wanneer een klant met een machine praat. Ook de privacy van klantgegevens vraagt aandacht, zeker als een agent toegang krijgt tot orders en facturen. De cijfers van Richpanel komen van OpenAI zelf; reken dus niet blind op die 50 procent en meet je eigen volume eerst.",
+ "faq": [
+  {
+   "q": "hoeveel klantvragen kan een ai-agent automatiseren",
+   "a": "Volgens OpenAI automatiseert Richpanel binnen dertig dagen de helft van de support. Dat cijfer komt uit een klantverhaal van OpenAI en is niet onafhankelijk gecontroleerd."
+  },
+  {
+   "q": "welke gpt-6-modellen gebruikt richpanel",
+   "a": "Richpanel gebruikt GPT-6 Astra en GPT-6.1 Sol voor tools en procedures van de agents. GPT-6 Luna verzorgt de gesprekken met klanten."
+  },
+  {
+   "q": "mag een ai-agent zomaar klanten te woord staan in nederland",
+   "a": "Dat mag, maar je moet klanten duidelijk maken dat ze met een machine praten. De Europese AI-verordening stelt daarnaast eisen aan risicovolle toepassingen en aan de omgang met persoonsgegevens."
+  }
+ ],
+ "slug": "richpanel-automatiseert-helft-van-klantenservice-met-gpt-6",
+ "kind": "news",
+ "date": "2026-11-23",
+ "published": "2026-11-23T23:55",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Richpanel helps companies automate 50% of support in 30 days",
+   "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+  }
+ ],
+ "path": "/nieuws/richpanel-automatiseert-helft-van-klantenservice-met-gpt-6/",
+ "og": "/img/og/richpanel-automatiseert-helft-van-klantenservice-met-gpt-6.png",
+ "take": "Richpanel laat de helft van de supportvragen automatisch afhandelen en dat is precies het soort cijfer waar ik op af ga. Ik wil weten wat zo'n model per maand kost en wat het aan handjes scheelt, want anders is het gewoon een duurder formulier. Bij mijn eigen automatisering meet ik eerst of de tijdwinst er echt is voordat ik iets in productie zet."
+}

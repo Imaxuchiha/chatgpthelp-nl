@@ -1,48 +1,5 @@
 [
  {
-  "at": "2026-10-16T17:30:00",
-  "slug": "",
-  "title": "Gemini 4 Argon: Google geeft 10.000 wetenschappers gratis toegang",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S4",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-16T17:30:11",
-  "slug": "",
-  "title": "ChatGPT-extensie voor Chrome leest nu al je tabbladen mee",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S11",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-16T17:30:20",
-  "slug": "",
-  "title": "Mistral en CERN bouwen samen AI-model voor deeltjesfysica",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S4",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-16T17:30:28",
   "slug": "",
   "title": "Nieuwe AI-detector IdeaLens kijkt naar ideeën in plaats van woorden",
@@ -6416,6 +6373,45 @@
   "rood": [
    "S10",
    "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-23T23:54:02",
+  "slug": "",
+  "title": "OpenAI en Cisco lanceren Shirudo: open-source runtime voor Linux",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-23T23:54:12",
+  "slug": "",
+  "title": "AI voor juristen: OpenAI richt zich op interne legal teams",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-23T23:54:21",
+  "slug": "",
+  "title": "Richpanel automatiseert helft van klantenservice met GPT-6",
+  "kind": "news",
+  "rood": [
    "S8",
    "S9"
   ],

@@ -3503,12 +3503,21 @@
   "914bb147d0": {
    "at": "2026-11-23T14:09:53.380492",
    "why": "ok"
+  },
+  "1d0c151fef": {
+   "at": "2026-11-23T23:53:49.960808",
+   "why": "ok"
+  },
+  "f8a4e02f42": {
+   "at": "2026-11-23T23:54:49.960808",
+   "why": "ok"
+  },
+  "680b35173b": {
+   "at": "2026-11-23T23:55:49.960808",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "AI-regulering nvidia: Jensen Huang wil veiligheid zelf regelen",
-  "AI-datacenters impopulair: 61 procent van Amerikanen is tegen",
-  "ChatGPT-cursus voor ouderen: OpenAI en AARP starten workshops",
   "OpenAI advertenties: Sponsored Agents en AI-tools voor marketeers",
   "Robots wachten op hun ChatGPT-moment: uitleg van Nvidia",
   "AI op het werk: OpenAI ziet nieuwe taken ontstaan",
@@ -4105,6 +4114,9 @@
   "GPT-6 Astra scoort beter bij financieel onderzoek, meldt OpenAI",
   "Meta Muse koopt Black Friday-deals bij Walmart voor je",
   "Asus ProArt P16 draait lokale ai-agents voor 7.000 dollar",
-  "Anthropic IPO: grote beleggers stapten vroeg in"
+  "Anthropic IPO: grote beleggers stapten vroeg in",
+  "OpenAI en Cisco lanceren Shirudo: open-source runtime voor Linux",
+  "AI voor juristen: OpenAI richt zich op interne legal teams",
+  "Richpanel automatiseert helft van klantenservice met GPT-6"
  ]
 }

@@ -1,0 +1,69 @@
+{
+ "keyword": "openai cisco shirudo",
+ "seo_title": "OpenAI en Cisco lanceren Shirudo voor Linux",
+ "title": "OpenAI en Cisco lanceren Shirudo: open-source runtime voor Linux",
+ "meta": "OpenAI en Cisco brengen Shirudo uit, een open-source runtime voor Linux die teams helpt systemen te beschermen tijdens het uitrollen van patches.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "cisco",
+  "shirudo",
+  "linux",
+  "open source",
+  "beveiliging"
+ ],
+ "intro": "OpenAI en Cisco hebben samen Shirudo aangekondigd. Dat is een open-source runtime voor Linux. Het hulpmiddel moet teams helpen om draaiende systemen te beschermen terwijl ze patches uitrollen. De aankondiging komt van OpenAI zelf.",
+ "takeaways": [
+  "Shirudo is een open-source runtime voor Linux, gemaakt door OpenAI en Cisco.",
+  "Het hulpmiddel richt zich op het beschermen van draaiende systemen tijdens het uitrollen van patches.",
+  "OpenAI noemt Shirudo open source, waardoor andere partijen de code kunnen bekijken en gebruiken.",
+  "Details over prijs, releasedatum en ondersteunde Linux-versies zijn nog niet bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Shirudo volgens OpenAI doet",
+   "body": "Shirudo is bedoeld voor teams die Linux-systemen draaiend houden en tegelijk beveiligingsupdates willen installeren. Volgens OpenAI helpt de runtime om die systemen te beschermen op het moment dat patches worden uitgerold.\n\nPreciezer maakt OpenAI het niet in de aankondiging. De bron noemt geen technische werking, geen ondersteunde distributies en geen voorbeelden van gebruik. Wat vaststaat: het gaat om een runtime, dus software die tijdens het draaien van een systeem actief is.\n\nOpen source betekent dat de broncode openbaar is. Andere organisaties kunnen de code dan zelf bekijken, aanpassen of hergebruiken. OpenAI en Cisco positioneren Shirudo daarmee als een gedeeld hulpmiddel voor systeembeheerders."
+  },
+  {
+   "heading": "Waarom patchbeheer aandacht vraagt",
+   "body": "Een patch is een update die fouten of lekken in software repareert. Het lastige zit vaak in het moment van installeren. Systemen moeten doorgaans draaien blijven, terwijl de update toch snel moet landen.\n\nShirudo richt zich op precies dat spanningsveld. Volgens OpenAI beschermt de runtime systemen zolang de uitrol van patches nog loopt. Hoe dat in de praktijk werkt, maakt de aankondiging niet duidelijk.\n\nVoor beheerders is patchbeheer een terugkerende taak. Een hulpmiddel dat daarbij helpt, kan interessant zijn voor organisaties met veel Linux-servers. Of Shirudo dat waarmaakt, is nog niet te zeggen."
+  },
+  {
+   "heading": "Open source en samenwerking met Cisco",
+   "body": "De samenwerking met Cisco valt op. OpenAI is vooral bekend van ChatGPT en AI-modellen. Cisco is een grote speler in netwerkapparatuur en beveiligingssoftware.\n\nSamen brengen ze nu een runtime voor Linux uit. Open source past bij het idee dat meer partijen de code kunnen controleren en verbeteren. OpenAI meldt niet welke licentie geldt.\n\nOok blijft onduidelijk of Cisco en OpenAI het project samen blijven onderhouden. De aankondiging noemt alleen de introductie van Shirudo."
+  },
+  {
+   "heading": "Wat nog niet bekend is",
+   "body": "Over de release is weinig concreet. OpenAI noemt geen datum waarop Shirudo beschikbaar komt. Er is ook geen informatie over een prijs, al suggereert open source dat gebruik gratis kan zijn.\n\nOok ontbreekt een lijst met Linux-versies die worden ondersteund. Systeembeheerders zullen dat willen weten voordat ze het in productie testen. OpenAI geeft daar in de aankondiging geen antwoord op.\n\nWie Shirudo wil proberen, moet dus nog wachten op meer details. Zodra die er zijn, is het verstandig om eerst te testen op een systeem dat niet kritiek is."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse organisaties met Linux-servers kan Shirudo relevant worden bij het patchbeheer. Denk aan hostingpartijen, ziekenhuizen en overheidsdiensten die systemen draaiend moeten houden tijdens updates. Zolang er geen releasedatum of licentie bekend is, is het vooral iets om in de gaten te houden. Open source betekent wel dat de code straks mogelijk vrij te gebruiken is, zonder Amerikaanse licentieprijs per server. Of dat in de EU praktisch werkt, hangt af van de ondersteuning en documentatie die nog moet komen.",
+ "faq": [
+  {
+   "q": "Wat is Shirudo?",
+   "a": "Shirudo is een open-source runtime voor Linux, aangekondigd door OpenAI en Cisco. Het hulpmiddel moet teams helpen systemen te beschermen tijdens het uitrollen van patches."
+  },
+  {
+   "q": "Is Shirudo gratis?",
+   "a": "OpenAI noemt Shirudo open source, maar geeft geen prijs of licentie. Of gebruik gratis is, wordt niet duidelijk uit de aankondiging."
+  },
+  {
+   "q": "Wanneer komt Shirudo beschikbaar?",
+   "a": "Er is nog geen releasedatum bekend. OpenAI noemt in de aankondiging geen datum en geen ondersteunde Linux-versies."
+  }
+ ],
+ "slug": "openai-en-cisco-lanceren-shirudo-open-source-runtime-voor-linux",
+ "kind": "news",
+ "date": "2026-11-23",
+ "published": "2026-11-23T23:53",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "url": "https://openai.com/index/introducing-shirudo"
+  }
+ ],
+ "path": "/nieuws/openai-en-cisco-lanceren-shirudo-open-source-runtime-voor-linux/",
+ "og": "/img/og/openai-en-cisco-lanceren-shirudo-open-source-runtime-voor-linux.png",
+ "take": "Open source van OpenAI en Cisco, prima, dan kan ik het zelf draaien en hoef ik niemand op zijn woord te geloven. Ik sluit spullen pas af als ik het echt heb getest, want iets wegzetten omdat het even niks deed kost je later gewoon geld. Eerst zien dat het werkt onder echte belasting, dan pas vertrouwen."
+}
