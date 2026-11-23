@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: briefje voor de oppas bij logeerpartij",
+ "situation": "Je kind gaat een nachtje logeren en je wilt de oppas of gastouder precies op papier zetten wat er nodig is. Handig als je zelf niet bereikbaar bent of als er meerdere mensen inspringen.",
+ "prompt": "Je bent een ervaren gastouder die heldere instructies schrijft voor ouders. Ik stuur mijn kind van [LEEFTIJD] jaar een nacht logeren bij [NAAM OPPAS]. Schrijf een briefje van maximaal één A4 met deze onderdelen: slaaptijden en bedritueel, eet- en drinkgewoonten met eventuele allergieën, medicijnen of pleisters, wat mijn kind nodig heeft bij onrust of heimwee, en de bereikbaarheid van mij en een tweede contactpersoon. Verwerk deze gegevens: [SITUATIE KIND, BIJVOORBEELD SLAAPRITUEEL, ALLERGIEËN, MEDICIJNEN]. Gebruik korte zinnen en een vriendelijke toon. Zet bovenaan naam, datum en telefoonnummers. Voeg onderaan drie regels toe voor afspraken die de oppas zelf invult, zoals bedtijd en schermtijd. Geen medische adviezen, alleen praktische afspraken.",
+ "tip": "Vraag de oppas het briefje vooraf te lezen en eventuele vragen erbij te schrijven, dan weet je zeker dat alles duidelijk is.",
+ "tags": [
+  "thuis",
+  "kinderen",
+  "oppas",
+  "afspraken"
+ ],
+ "date": "2026-11-23",
+ "slug": "prompt-briefje-voor-de-oppas-bij-logeerpartij",
+ "path": "/prompts/2026-11-23-prompt-briefje-voor-de-oppas-bij-logeerpartij/"
+}

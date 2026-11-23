@@ -2,7 +2,7 @@
  "keyword": "storing chat gpt",
  "seo_title": "Storing ChatGPT? Zo check je of ChatGPT werkt of niet",
  "title": "ChatGPT storing of werkt ChatGPT niet? Zo check je het zelf",
- "meta": "Storing bij ChatGPT of ligt het aan jou? Check de statuspagina, je verbinding, browser en account, en lees wat je tijdens een storing kunt doen.",
+ "meta": "Storing bij ChatGPT of ligt het aan jou? Check de statuspagina, je verbinding, browser en account en lees wat je tijdens een storing kunt doen.",
  "category": "uitleg",
  "tags": [
   "chatgpt",
@@ -61,6 +61,10 @@
   {
    "q": "Hoe weet ik of ChatGPT een storing heeft?",
    "a": "Vraag of anderen ook last hebben en kijk op de statuspagina van OpenAI en op sociale media of forums. Bij een echte storing verschijnen daar binnen enkele minuten veel klachten."
+  },
+  {
+   "q": "Hoe weet ik of ChatGPT een storing heeft?",
+   "a": "Vraag of anderen ook last hebben en kijk op de statuspagina van OpenAI. Bij een echte storing verschijnen binnen enkele minuten veel klachten op sociale media en forums."
   }
  ],
  "slug": "chatgpt-storing-of-werkt-chatgpt-niet-zo-check-je-het-zelf",
@@ -71,5 +75,5 @@
  "path": "/uitleg/chatgpt-storing-of-werkt-chatgpt-niet-zo-check-je-het-zelf/",
  "og": "/img/og/chatgpt-storing-of-werkt-chatgpt-niet-zo-check-je-het-zelf.png",
  "seed": "ChatGPT storing of werkt ChatGPT niet? Zo check je het en dit kun je zelf doen",
- "seo_updated": "2026-10-26"
+ "seo_updated": "2026-11-23"
 }

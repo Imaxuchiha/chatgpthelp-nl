@@ -1,0 +1,68 @@
+{
+ "keyword": "meta muse boodschappen",
+ "seo_title": "Meta Muse doet je boodschappen bij Walmart",
+ "title": "Meta Muse koopt Black Friday-deals bij Walmart voor je",
+ "meta": "Meta's AI-agent Muse doet vanaf 24 november boodschappen op de site van Walmart. Wat betekent dat voor shoppen met AI in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "meta",
+  "walmart",
+  "ai-agent",
+  "black friday",
+  "e-commerce"
+ ],
+ "intro": "Meta's AI-agent Muse kan vanaf 24 november je boodschappen doen op de website van Walmart. De Amerikaanse supermarktketen test dan een systeem waarmee AI-assistenten zelf producten zoeken en kopen. Voor Nederland is dat nog toekomstmuziek, maar het laat zien waar winkelen met AI naartoe gaat.",
+ "takeaways": [
+  "Walmart start op 24 november een live test waarbij Meta's Muse zelf inkopen doet op de site.",
+  "Het systeem heet Agent Gateway en helpt AI-agenten relevante producten vinden.",
+  "De eerste inzet is jagen op Black Friday-deals.",
+  "Nederlandse winkels hebben zo'n koppeling nog niet aangekondigd."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Walmart en Meta precies testen",
+   "body": "Walmart kondigde vorige maand een Agent Gateway aan. Dat is een technische laag die AI-agenten toegang geeft tot het assortiment van de winkelketen. Morgen, dinsdag 24 november, gaat daar een echte versie van draaien, meldt The Verge.\n\nMeta's Muse is een van de eerste agenten die via dat kanaal mag werken. Jij geeft een opdracht, Muse zoekt op de site van Walmart naar spullen en rekent ze af. De proef richt zich op Black Friday, het Amerikaanse koopjesfestival na Thanksgiving.\n\nVolgens The Verge is het idee dat een agent zelf relevante producten vindt zonder dat je eindeloos door lijsten hoeft te klikken. Hoeveel klanten mee mogen doen en welke producten in aanmerking komen, is nog niet bekend."
+  },
+  {
+   "heading": "Een agent die zelf afrekent",
+   "body": "Een AI-agent is software die een taak uitvoert met meerdere stappen. Bij gewone chatbots blijft het bij antwoorden geven. Muse gaat verder: die klikt door, vergelijkt en bestelt.\n\nDat roept meteen vragen op over betalen en toestemming. Walmart zegt dat de agent alleen koopt wat jij hebt gevraagd. Of je vooraf een maximumbedrag kunt instellen, maakt de keten nog niet duidelijk.\n\nOok de rol van Meta is nieuw. Het bedrijf achter Facebook en Instagram schuift zijn assistent naar voren als tussenpersoon bij aankopen. Daarmee komt het dichter bij de online winkelstraat dan bij het sociale netwerk."
+  },
+  {
+   "heading": "Waarom winkels hierop inzetten",
+   "body": "Webshops willen graag dat AI-assistenten hun spullen vinden. Wie als eerste door zo'n agent wordt aanbevolen, verkoopt mogelijk meer. Walmart bouwt daarom liever zelf een poort voor agenten dan dat die agenten zelf gaan schrapen op de site.\n\nVoor klanten kan het schelen in tijd. Zoeken naar een aanbieding kost nu vaak veel klikken. Een agent die dat overneemt, is aantrekkelijk bij actiedagen met duizenden producten.\n\nTegelijk blijft de vraag wie verantwoordelijk is als een agent iets verkeerds koopt. Daarover zegt Walmart vooralsnog weinig."
+  },
+  {
+   "heading": "Nederlandse webshops nog niet zover",
+   "body": "Grote Nederlandse spelers als bol en Coolblue hebben geen vergelijkbare koppeling aangekondigd. Zij werken wel met AI voor zoeken en advies, maar niet met een agent die zelf afrekent.\n\nOok de Europese regels spelen mee. Onder de AI-verordening gelden extra eisen voor systemen die namens mensen transacties doen. Bedrijven moeten dan goed uitleggen wat de agent doet en hoe je ingrijpt.\n\nOf Muse in Europa beschikbaar komt, is nog niet bekend. Meta heeft daar niets over gezegd."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse shoppers verandert er deze week niets: de proef draait alleen op de site van Walmart in de Verenigde Staten. Toch is het een voorproefje. Als dit werkt, zullen Europese winkels volgen, en dan wordt de vraag hoe je een agent toestemming geeft om met jouw geld te betalen. Let bij zulke diensten op een maximumbedrag, op welke gegevens de agent mag zien en op de herroepingsrechten die je in de EU hebt bij online aankopen.",
+ "faq": [
+  {
+   "q": "Wat is Meta Muse?",
+   "a": "Dat is de AI-assistent van Meta die namens jou taken uitvoert, zoals zoeken en kopen op een website. Bij Walmart test het bedrijf dat vanaf 24 november."
+  },
+  {
+   "q": "Kan ik in Nederland met een AI-agent boodschappen doen?",
+   "a": "Bij Nederlandse webshops kan dat nog niet. Bol en Coolblue hebben zo'n koppeling niet aangekondigd, en over een Europese versie van Muse is niets bekend."
+  },
+  {
+   "q": "Wat is Agent Gateway?",
+   "a": "Een systeem van Walmart dat AI-agenten toegang geeft tot het assortiment, zodat ze producten kunnen vinden en bestellen. De eerste live versie start op 24 november."
+  }
+ ],
+ "slug": "meta-muse-koopt-black-friday-deals-bij-walmart-voor-je",
+ "kind": "news",
+ "date": "2026-11-23",
+ "published": "2026-11-23T14:07",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Meta Muse can do your Black Friday shopping at Walmart",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"
+  }
+ ],
+ "path": "/nieuws/meta-muse-koopt-black-friday-deals-bij-walmart-voor-je/",
+ "og": "/img/og/meta-muse-koopt-black-friday-deals-bij-walmart-voor-je.png",
+ "take": "Een AI-agent die zelf Black Friday-deals bij Walmart uitzoekt, daar word ik niet warm van. Zo'n agent heeft er belang bij dat jij klikt en koopt, dus de aanbeveling is nooit neutraal. Ik geloof pas in shoppen met AI als de prijs en de voorraad kloppen op het moment van afrekenen, en dat is bij een demo op één Amerikaanse site nog niet aangetoond."
+}

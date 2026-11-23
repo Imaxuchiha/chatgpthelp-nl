@@ -1,5 +1,23 @@
 [
  {
+  "topic": "Wat is een ai agent",
+  "intent": "zoekterm uit Search Console: beantwoord precies deze zoekvraag",
+  "audience": "Nederlandse zoekers",
+  "from_gsc": true
+ },
+ {
+  "topic": "Persbericht schrijven met ai",
+  "intent": "zoekterm uit Search Console: beantwoord precies deze zoekvraag",
+  "audience": "Nederlandse zoekers",
+  "from_gsc": true
+ },
+ {
+  "topic": "Google ads budgetwaste geld verspillen",
+  "intent": "zoekterm uit Search Console: beantwoord precies deze zoekvraag",
+  "audience": "Nederlandse zoekers",
+  "from_gsc": true
+ },
+ {
   "topic": "Openai advertenties",
   "intent": "zoekterm uit Search Console: beantwoord precies deze zoekvraag",
   "audience": "Nederlandse zoekers",

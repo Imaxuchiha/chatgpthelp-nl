@@ -3491,12 +3491,21 @@
   "d15c456432": {
    "at": "2026-11-22T22:43:30.952635",
    "why": "ok"
+  },
+  "106e5d1cff": {
+   "at": "2026-11-23T14:07:53.380492",
+   "why": "ok"
+  },
+  "1793f4fe05": {
+   "at": "2026-11-23T14:08:53.380492",
+   "why": "ok"
+  },
+  "914bb147d0": {
+   "at": "2026-11-23T14:09:53.380492",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "AI-projecten die mislukten: wat ging er mis?",
-  "Datacenters VS verbruiken straks meer aardgas dan Duitsland en Japan samen",
-  "Zuckerberg wil AI-ontwikkeling niet vertragen: markt moet het regelen",
   "AI-regulering nvidia: Jensen Huang wil veiligheid zelf regelen",
   "AI-datacenters impopulair: 61 procent van Amerikanen is tegen",
   "ChatGPT-cursus voor ouderen: OpenAI en AARP starten workshops",
@@ -4093,6 +4102,9 @@
   "Binding of Isaac haalt AI-muziek weg na reviewbomb op Steam",
   "OpenAI wil snelheid van ai-ontwikkeling meetbaar maken",
   "AI-keten lekt geheime data uit prompts, blijkt uit test",
-  "GPT-6 Astra scoort beter bij financieel onderzoek, meldt OpenAI"
+  "GPT-6 Astra scoort beter bij financieel onderzoek, meldt OpenAI",
+  "Meta Muse koopt Black Friday-deals bij Walmart voor je",
+  "Asus ProArt P16 draait lokale ai-agents voor 7.000 dollar",
+  "Anthropic IPO: grote beleggers stapten vroeg in"
  ]
 }

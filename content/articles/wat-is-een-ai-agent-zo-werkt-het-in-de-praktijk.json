@@ -1,0 +1,70 @@
+{
+ "keyword": "wat is een ai agent",
+ "seo_title": "Wat is een AI-agent? Uitleg en voorbeelden",
+ "title": "Wat is een AI-agent? Zo werkt het in de praktijk",
+ "meta": "Een AI-agent voert zelfstandig taken uit met taalmodellen. Lees hoe het werkt, wat je ermee kunt en waar je op moet letten in Nederland.",
+ "category": "uitleg",
+ "tags": [
+  "ai-agent",
+  "chatgpt",
+  "automatisering",
+  "taalmodel",
+  "uitleg"
+ ],
+ "intro": "Een AI-agent is software die zelfstandig stappen zet om een doel te bereiken. Je geeft een opdracht en de agent bedenkt, voert en controleert de tussenstappen. Dat maakt hem nuttig voor terugkerend werk, maar vraagt wel om duidelijke afspraken.",
+ "takeaways": [
+  "Een AI-agent combineert een taalmodel met acties, zoals zoeken, rekenen of bestanden aanpassen.",
+  "Je stuurt bij met een doel en grenzen; de agent kiest zelf de route.",
+  "Agents zijn handig voor repetitieve taken, maar kunnen fouten maken als de opdracht vaag is.",
+  "In Nederland vallen agents onder bestaande privacy- en AI-regels; transparantie is verplicht."
+ ],
+ "sections": [
+  {
+   "heading": "Wat een AI-agent precies is",
+   "body": "Een AI-agent is een programma dat een taalmodel gebruikt om zelfstandig een taak uit te voeren. Je geeft een doel, bijvoorbeeld 'zoek uit welke facturen ontbreken'. De agent splitst dat op in stappen en voert die uit.\n\nHij kan daarbij hulpmiddelen gebruiken. Denk aan een rekenmodule, een zoekfunctie of een koppeling met je agenda. Het taalmodel bepaalt welke stap logisch is en wanneer het klaar is.\n\nHet verschil met een gewone chatbot is de zelfstandigheid. Een chatbot antwoordt op een vraag. Een agent onderneemt actie en past zijn plan aan als iets misgaat."
+  },
+  {
+   "heading": "Hoe je een agent aanstuurt",
+   "body": "Je begint met een helder doel. Schrijf op wat het eindresultaat moet zijn en welke middelen de agent mag gebruiken. Geef ook grenzen aan: welke websites, bestanden of systemen hij niet mag aanraken.\n\nDaarna formuleer je een prompt met rollen en stappen. Een voorbeeldprompt:\n\n\"Je bent een onderzoeksassistent. Zoek de drie goedkoopste treinabonnementen voor een forens van Utrecht naar Amsterdam. Gebruik alleen openbare NS-pagina's. Zet de resultaten in een tabel met prijs per maand en link. Als je een prijs niet vindt, schrijf je 'onbekend'. Stop na drie pogingen per abonnement.\"\n\nDie prompt werkt omdat hij het doel, de bronnen, de vorm en de stopvoorwaarde noemt. Zo houd je controle over wat de agent doet."
+  },
+  {
+   "heading": "Waar agents in Nederland nuttig zijn",
+   "body": "Op kantoor kun je een agent vragen om e-mails te sorteren of concepten te maken. In de zorg kan hij afspraken inplannen, mits de privacy goed is geregeld. Bij de overheid helpt een agent bij het beantwoorden van veelgestelde vragen.\n\nLet wel op de grenzen. Een agent is geen vervanging voor menselijke controle bij gevoelige beslissingen. Denk aan het afwijzen van een lening of het stellen van een medische diagnose. Daar blijft een mens verantwoordelijk."
+  },
+  {
+   "heading": "Risico's en regels in Nederland",
+   "body": "Een agent kan fouten maken door verkeerde aannames. Als je hem toegang geeft tot je mailbox, kan hij per ongeluk iets versturen. Beperk daarom de rechten tot wat nodig is en log alle acties.\n\nIn Nederland geldt de Algemene verordening gegevensbescherming (AVG) als een agent persoonsgegevens verwerkt. Je moet kunnen uitleggen welke gegevens hij gebruikt en waarom. De Europese AI-verordening stelt extra eisen aan hoogrisico-toepassingen, zoals bij werving of onderwijs.\n\nWerk je met een agent van een leverancier, vraag dan waar de gegevens worden opgeslagen. Kies bij voorkeur een Europese server als dat kan."
+  },
+  {
+   "heading": "Zo begin je zelf met een agent",
+   "body": "Start klein. Kies een taak die vaak terugkomt en weinig risico kent, zoals het samenvatten van nieuwsbrieven. Test de agent een paar dagen en kijk waar het misgaat. Pas de prompt aan met extra regels.\n\nGebruik een aparte werkmap of een testaccount. Zo voorkom je dat de agent per ongeluk echte bestanden aanpast. Laat een collega meekijken voordat je de agent in productie neemt.\n\nWil je meer zekerheid, kies dan een agent die stap voor stap om goedkeuring vraagt. Dat kost iets meer tijd, maar je houdt de regie."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven betekent dit dat je agentbeleid nodig hebt. Leg vast wie verantwoordelijk is en welke gegevens de agent mag zien. Werk je met klantgegevens, dan geldt de AVG onverkort. Een simpele vuistregel: geef een agent nooit meer rechten dan een nieuwe stagiair zou krijgen.",
+ "faq": [
+  {
+   "q": "Wat is het verschil tussen een AI-agent en ChatGPT?",
+   "a": "ChatGPT is een gespreksinterface met een taalmodel. Een AI-agent gebruikt zo'n model om zelfstandig stappen te zetten en hulpmiddelen aan te sturen. Niet elke ChatGPT-gebruiker werkt met een agent."
+  },
+  {
+   "q": "Heb ik een AI-agent nodig voor mijn bedrijf?",
+   "a": "Dat hangt af van je taken. Terugkerend, regeltjeswerk leent zich goed voor een agent. Voor eenmalige of gevoelige beslissingen is een mens vaak sneller en veiliger."
+  },
+  {
+   "q": "Is een AI-agent veilig voor privacygevoelige gegevens?",
+   "a": "Alleen als je de toegang beperkt en de verwerking vastlegt. Onder de AVG moet je kunnen uitleggen welke persoonsgegevens de agent gebruikt. Kies bij voorkeur een leverancier die data in de EU opslaat."
+  },
+  {
+   "q": "Kan een AI-agent zelf beslissingen nemen?",
+   "a": "Een agent kan stappen kiezen binnen de grenzen die jij opgeeft. Voor beslissingen met rechtsgevolgen, zoals een afwijzing, blijft een mens verantwoordelijk."
+  }
+ ],
+ "slug": "wat-is-een-ai-agent-zo-werkt-het-in-de-praktijk",
+ "kind": "evergreen",
+ "date": "2026-11-23",
+ "published": "2026-11-23T14:07",
+ "sources": [],
+ "path": "/uitleg/wat-is-een-ai-agent-zo-werkt-het-in-de-praktijk/",
+ "og": "/img/og/wat-is-een-ai-agent-zo-werkt-het-in-de-praktijk.png",
+ "seed": "Wat is een ai agent"
+}
