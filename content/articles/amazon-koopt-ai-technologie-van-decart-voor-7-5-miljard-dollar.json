@@ -1,0 +1,68 @@
+{
+ "keyword": "amazon decart overname",
+ "seo_title": "Amazon Decart overname: 7,5 miljard voor AI-technologie",
+ "title": "Amazon koopt AI-technologie van Decart voor 7,5 miljard dollar",
+ "meta": "Amazon neemt de AI-optimalisatietechnologie en het onderzoeksteam van Decart over voor 7,5 miljard dollar. Dit betekent het voor Nederlandse bedrijven.",
+ "category": "nieuws",
+ "tags": [
+  "amazon",
+  "decart",
+  "ai-chips",
+  "trainium",
+  "overname"
+ ],
+ "intro": "Amazon neemt de AI-optimalisatietechnologie en het onderzoeksteam van Decart over. Volgens TechCrunch gaat het om een bedrag van 7,5 miljard dollar. De overname valt samen met de verkoop van Amazons eigen Trainium-chips.",
+ "takeaways": [
+  "Amazon betaalt naar verluidt 7,5 miljard dollar voor de technologie en het team van Decart.",
+  "De overname hangt samen met Amazons plannen om Trainium-chips te verkopen.",
+  "Decarts technologie richt zich op het efficiënter maken van AI-modellen.",
+  "Het bedrag is nog niet officieel bevestigd door Amazon of Decart."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Amazon precies koopt",
+   "body": "Amazon neemt de AI-optimalisatietechnologie van Decart over, samen met het onderzoeksteam. TechCrunch meldt een bedrag van 7,5 miljard dollar. Dat is omgerekend ongeveer 6,5 miljard euro, afhankelijk van de wisselkoers op de dag van betaling.\n\nOptimalisatie draait om het zuiniger en sneller laten werken van AI-modellen. Minder rekenkracht per taak betekent lagere kosten voor de partij die het model draait. Voor Amazon is dat interessant zodra klanten hun AI-werk op zijn servers uitvoeren."
+  },
+  {
+   "heading": "Trainium moet klanten trekken",
+   "body": "Amazon wil zijn eigen Trainium-chips verkopen aan bedrijven die AI-modellen trainen en gebruiken. Die chips concurreren met de bekende grafische processoren van Nvidia. Volgens TechCrunch bereidt Amazon zich hierop voor met de overname.\n\nBetere software kan een chip aantrekkelijker maken. Klanten kijken naar snelheid, stroomverbruik en de vraag of bestaande modellen er zonder veel aanpassing op werken. De technologie van Decart kan daar een rol bij spelen."
+  },
+  {
+   "heading": "Bedrag nog niet bevestigd",
+   "body": "Het bedrag van 7,5 miljard dollar komt van TechCrunch en is nog niet officieel bevestigd door Amazon of Decart. Ook is niet bekend hoe de betaling is opgebouwd en of er voorwaarden aan vastzitten.\n\nWat er met de rest van Decart gebeurt, is nog niet duidelijk. De bron noemt de technologie en het onderzoeksteam, niet het hele bedrijf. Meer details zijn op dit moment niet bekend."
+  },
+  {
+   "heading": "AI-chips als strijdtoneel",
+   "body": "Grote techbedrijven bouwen steeds vaker hun eigen chips voor AI. Dat maakt hen minder afhankelijk van externe leveranciers en kan de kosten drukken. Amazon zet met Trainium op dezelfde koers.\n\nVoor afnemers betekent dit meer keuze. De vraag is wel of software en gereedschap goed genoeg werken op een nieuw chiptype. Een overname van deze omvang laat zien dat Amazon daar veel geld voor over heeft."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven die AI draaien via Amazon Web Services kan dit op termijn de prijs en prestaties raken. Amazons eigen chips zijn nu nog beperkt in gebruik buiten de VS. Komt Trainium breder beschikbaar in Europa, dan kan dat een alternatief worden naast Nvidia. Let wel op: de Europese datacenterregio's en de voorwaarden per land verschillen, en er is nog geen officiële bevestiging van de deal of van nieuwe chipaanbiedingen in Nederland.",
+ "faq": [
+  {
+   "q": "Hoeveel betaalt Amazon voor Decart?",
+   "a": "Volgens TechCrunch gaat het om 7,5 miljard dollar. Amazon en Decart hebben dat bedrag nog niet officieel bevestigd."
+  },
+  {
+   "q": "Wat is Trainium?",
+   "a": "Trainium is de eigen AI-chip van Amazon. Amazon wil die verkopen aan bedrijven die AI-modellen trainen en gebruiken."
+  },
+  {
+   "q": "Merken Nederlandse klanten hier iets van?",
+   "a": "Op korte termijn waarschijnlijk weinig. Op langere termijn kan het de prijs en prestaties van AI-diensten via Amazon beïnvloeden, maar daar is nog niets over bekend."
+  }
+ ],
+ "slug": "amazon-koopt-ai-technologie-van-decart-voor-7-5-miljard-dollar",
+ "kind": "news",
+ "date": "2026-11-24",
+ "published": "2026-11-24T14:55",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+  }
+ ],
+ "path": "/nieuws/amazon-koopt-ai-technologie-van-decart-voor-7-5-miljard-dollar/",
+ "og": "/img/og/amazon-koopt-ai-technologie-van-decart-voor-7-5-miljard-dollar.png",
+ "take": "Amazon legt 7,5 miljard dollar neer voor een team en wat technologie, en dat is een bedrag waar je van gaat nadenken. Ik geloof zo'n overname pas als er iets bruikbaars uit komt waar een gewone ondernemer iets aan heeft. Een overname is een persbericht met een prijskaartje, en die prijs betaalt uiteindelijk de klant."
+}

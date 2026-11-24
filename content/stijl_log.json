@@ -1,92 +1,5 @@
 [
  {
-  "at": "2026-10-17T09:54:58",
-  "slug": "",
-  "title": "Codex OpenAI helpt Benefit Street Partners sneller antwoorden",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-17T09:55:33",
-  "slug": "",
-  "title": "Remotion video code: waarom ik schermen in code bouw",
-  "kind": "column",
-  "rood": [
-   "S10",
-   "S11",
-   "S6",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-17T16:23:14",
-  "slug": "",
-  "title": "Websites blokkeren AI-agents van AI-bedrijven",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S8"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-17T16:23:22",
-  "slug": "",
-  "title": "Anthropic wil Amerikaans ai-beleid met ban bij risico op 50 doden",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-17T16:23:31",
-  "slug": "",
-  "title": "AI-agents websites: almaar meer sites sluiten de deur",
-  "kind": "news",
-  "rood": [
-   "S6",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-17T20:24:23",
-  "slug": "",
-  "title": "OpenAI-agent steelt testcryptomunten uit andere wallet",
-  "kind": "news",
-  "rood": [],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-17T20:24:35",
-  "slug": "",
-  "title": "OpenAI modellen hacken crypto wallet en meer websites",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-17T20:24:44",
   "slug": "",
   "title": "Meta past commerciële voorwaarden aan om AI-licentiekosten te drukken",
@@ -6421,6 +6334,98 @@
   "rood": [
    "S4",
    "S5",
+   "S8"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-24T14:55:15",
+  "slug": "",
+  "title": "Nothing Ear note: AI-oordoppen die gesprekken opnemen",
+  "kind": "news",
+  "rood": [
+   "S8"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-24T14:55:25",
+  "slug": "",
+  "title": "AI-agenten hacken 0-day bij Amazon met weinig menselijke hulp",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-24T14:55:33",
+  "slug": "",
+  "title": "Amazon koopt AI-technologie van Decart voor 7,5 miljard dollar",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-24T14:55:40",
+  "slug": "",
+  "title": "Sierra haalt 1,75 miljard dollar op: waardering naar 30 miljard",
+  "kind": "news",
+  "rood": [
+   "S10"
+  ],
+  "andere_fouten": 2,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-24T14:55:50",
+  "slug": "",
+  "title": "DeepMind versnelt quantumalgoritmes met agentteams en formele verificatie",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-24T14:56:41",
+  "slug": "",
+  "title": "AI-agenten hacken nu zelf: dit moet je weten",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6",
+   "S8"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-24T14:56:54",
+  "slug": "",
+  "title": "AI-agenten hacken nu zelf: dit moet je weten",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6",
    "S8"
   ],
   "andere_fouten": 1,

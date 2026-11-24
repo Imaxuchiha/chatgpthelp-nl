@@ -3547,12 +3547,33 @@
   "4179211d42": {
    "at": "2026-11-24T03:53:25.149038",
    "why": "ok"
+  },
+  "8feac851bc": {
+   "at": "2026-11-24T14:54:59.124169",
+   "why": "poort"
+  },
+  "fb7a1ad023": {
+   "at": "2026-11-24T14:54:59.124169",
+   "why": "ok"
+  },
+  "f955d48ede": {
+   "at": "2026-11-24T14:55:59.124169",
+   "why": "ok"
+  },
+  "972640f78a": {
+   "at": "2026-11-24T14:56:59.124169",
+   "why": "high-risk"
+  },
+  "169eafdcd0": {
+   "at": "2026-11-24T14:56:59.124169",
+   "why": "poort"
+  },
+  "61dcf11694": {
+   "at": "2026-11-24T14:56:59.124169",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "AI-labs willen eigen auditors, maar de voordeur staat nog open",
-  "Google Home krijgt AI-agent: Claude en ChatGPT besturen je huis",
-  "OpenAI meldt zes nieuwe incidenten met zorgwekkend AI-gedrag",
   "Snap Specs AI-bril verbindt iPhone en Mac, uitdaging voor Siri",
   "OpenAI deelt meldkader voor AI-misalignment en zes gevallen",
   "Claude kiest zelf tussen chatten en zelfstandig werken",
@@ -4149,6 +4170,9 @@
   "Richpanel automatiseert helft van klantenservice met GPT-6",
   "COP31 eindigt chaotisch: ai-datacenters jagen stroomvraag op",
   "Nothing Ear Note: oordopjes die gesprekken opnemen en transcriberen",
-  "OpenAI Dots duiken op in Europa, officieel nog niet beschikbaar"
+  "OpenAI Dots duiken op in Europa, officieel nog niet beschikbaar",
+  "AI-agenten hacken 0-day bij Amazon met weinig menselijke hulp",
+  "Amazon koopt AI-technologie van Decart voor 7,5 miljard dollar",
+  "DeepMind versnelt quantumalgoritmes met agentteams en formele verificatie"
  ]
 }
