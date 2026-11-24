@@ -1,0 +1,68 @@
+{
+ "keyword": "gpt-6 eiwitten ontwerpen",
+ "seo_title": "GPT-6 eiwitten ontwerpen: wat OpenAI liet zien",
+ "title": "GPT-6 ontwerpt eiwitten: wat OpenAI in het lab zag",
+ "meta": "GPT-6 modellen ontwerpen zelf eiwitstructuren en sequenties, meldt OpenAI. Lees wat de labtests lieten zien en wat dit voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "gpt-6",
+  "eiwitontwerp",
+  "biotech",
+  "ai"
+ ],
+ "intro": "OpenAI zegt dat zijn GPT-6 modellen zelf eiwitstructuren en sequenties kunnen ontwerpen. Dat gebeurt met redeneren en code, zonder aparte tool voor eiwitontwerp. In labtests vond het bedrijf aanwijzingen dat de ontworpen eiwitten aan vijf doelen binden.",
+ "takeaways": [
+  "GPT-6 ontwerpt eiwitstructuren en sequenties met redeneren en code.",
+  "Labtests gaven bewijs van binding bij vijf targets.",
+  "OpenAI noemt dit een intrinsieke eigenschap van het model.",
+  "Onafhankelijke bevestiging en details over de methode ontbreken nog."
+ ],
+ "sections": [
+  {
+   "heading": "Wat OpenAI precies meldt",
+   "body": "Volgens OpenAI gebruiken de GPT-6 modellen geen losse software die speciaal voor eiwitontwerp is gebouwd. Het model redeneert zelf over de structuur en schrijft code om tot een ontwerp te komen. Dat is opvallend, omdat eiwitontwerp tot nu toe meestal aparte gespecialiseerde programma's vraagt.\n\nDe labtests draaiden om binding. Daarbij kijkt onderzoekers of een ontworpen eiwit zich hecht aan een bepaald doelwit in het lichaam. OpenAI schrijft dat er bij vijf targets bewijs van binding is gevonden. Hoe sterk die binding was, maakt het bedrijf niet duidelijk in de aankondiging."
+  },
+  {
+   "heading": "Waarom binding zo belangrijk is",
+   "body": "Eiwitten die aan een specifiek doelwit binden zijn de basis van veel medicijnen en diagnostische tests. Wie zo'n eiwit kan ontwerpen, kan in theorie sneller werken aan behandelingen. De Amerikaanse term target betekent hier het molecuul waarop een medicijn aangrijpt.\n\nToch zegt een aanwijzing voor binding nog weinig over werking in de praktijk. Er zijn doorgaans meerdere testrondes nodig voordat een ontwerp bruikbaar is. OpenAI publiceert geen volledige labgegevens bij de aankondiging."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Het is niet duidelijk hoe de modellen zijn getest en wie de labproeven heeft uitgevoerd. Ook is niet bekend of de resultaten elders zijn herhaald. Onafhankelijke onderzoekers hebben zich nog niet publiekelijk over de resultaten uitgelaten.\n\nOpenAI geeft geen prijs of releasedatum voor toegang tot deze mogelijkheden. Of Nederlandse labs en farmabedrijven er direct mee aan de slag kunnen, is daarmee nog open."
+  },
+  {
+   "heading": "Eerder werk aan eiwitten",
+   "body": "Dit is niet het eerste AI-nieuws over eiwitten. Systemen als AlphaFold van Google DeepMind voorspellen al langer hoe eiwitten eruitzien. Het verschil zit volgens OpenAI in de combinatie: het model redeneert en schrijft zelf code voor het ontwerp.\n\nOf dat in de praktijk beter werkt dan bestaande ontwerpprogramma's, moet nog blijken. De aankondiging geeft daar geen vergelijking over."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse onderzoeksinstellingen en biotechbedrijven is dit vooral een signaal om de ontwikkeling te volgen. Komt er toegang via de OpenAI-interface of een zakelijk contract, dan kan dat het werk aan medicijnen en tests raken. Let daarbij op de Europese regels: AI die in de zorg wordt ingezet, valt onder strenge eisen voor medische hulpmiddelen. Zolang OpenAI geen prijs, datum of volledige testgegevens deelt, is het verstandig om de resultaten als voorlopig te zien.",
+ "faq": [
+  {
+   "q": "wat kan gpt-6 met eiwitten",
+   "a": "Volgens OpenAI ontwerpt GPT-6 eiwitstructuren en sequenties met redeneren en code. In labtests vond het bedrijf bewijs van binding bij vijf targets."
+  },
+  {
+   "q": "is gpt-6 eiwitontwerp al beschikbaar",
+   "a": "OpenAI noemt geen releasedatum of prijs. Of en wanneer Nederlandse gebruikers toegang krijgen, is nog niet bekend."
+  },
+  {
+   "q": "wat betekent binding bij eiwitontwerp",
+   "a": "Binding betekent dat een ontworpen eiwit zich hecht aan een doelwit, bijvoorbeeld een molecuul in het lichaam. Dat is een eerste stap, geen bewijs dat een medicijn werkt."
+  }
+ ],
+ "slug": "gpt-6-ontwerpt-eiwitten-wat-openai-in-het-lab-zag",
+ "kind": "news",
+ "date": "2026-11-24",
+ "published": "2026-11-24T22:29",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+  }
+ ],
+ "path": "/nieuws/gpt-6-ontwerpt-eiwitten-wat-openai-in-het-lab-zag/",
+ "og": "/img/og/gpt-6-ontwerpt-eiwitten-wat-openai-in-het-lab-zag.png",
+ "take": "Ik koop geen lababonnement zodra OpenAI roept dat zijn model eiwitten ontwerpt. Vijf binders in een labtest zeggen me weinig tot iemand buiten OpenAI hetzelfde laat zien. Voor mijn eigen werk geldt dezelfde regel: eerst zelf draaien en meten, dan pas betalen."
+}

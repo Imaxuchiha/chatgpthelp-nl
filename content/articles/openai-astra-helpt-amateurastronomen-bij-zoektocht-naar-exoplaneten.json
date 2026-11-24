@@ -1,0 +1,69 @@
+{
+ "keyword": "openai astra exoplaneten",
+ "seo_title": "OpenAI Astra: amateurastronomen vinden exoplaneten",
+ "title": "OpenAI Astra helpt amateurastronomen bij zoektocht naar exoplaneten",
+ "meta": "Twee amateurastronomen gebruikten Codex en Astra van OpenAI om in NASA-data naar exoplaneten te zoeken. Zo werkt dat en dit betekent het voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "openai",
+  "astra",
+  "codex",
+  "exoplaneten",
+  "nasa",
+  "sterrenkunde"
+ ],
+ "intro": "Twee amateurastronomen hebben met Codex en Astra van OpenAI gezocht naar mogelijke exoplaneten in openbare data van de Kepler- en TESS-ruimtetelescopen van NASA. OpenAI beschrijft de zoektocht in een blogpost. Het laat zien dat AI-tools het analyseren van grote hoeveelheden sterrendata toegankelijker maken.",
+ "takeaways": [
+  "OpenAI noemt twee amateurastronomen die Codex en Astra inzetten voor het vinden van mogelijke exoplaneten.",
+  "De data komen uit openbare archieven van NASA's Kepler- en TESS-missies.",
+  "Het gaat om potentiële exoplaneten, dus kandidaten die nog bevestiging nodig hebben.",
+  "OpenAI geeft geen details over hoeveel kandidaten zijn gevonden of hoe betrouwbaar die zijn."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de twee astronomen deden",
+   "body": "Volgens OpenAI gebruikten twee amateurastronomen Codex en Astra om openbare data van NASA door te zoeken. Het gaat om metingen van de Kepler- en TESS-ruimtetelescopen. Die telescopes speuren al jaren naar kleine helderheidsdips bij sterren.\n\nEen dip kan betekenen dat een planeet voor een ster langs schuift. Zulke signalen zijn zwak en zitten vaak tussen ruis. Het uitzoeken daarvan kost normaal veel tijd en kennis van data-analyse.\n\nOpenAI zegt niet precies welke methode de twee volgden. Ook blijft onduidelijk hoeveel kandidaten ze hebben gevonden. De blogpost noemt de resultaten potentiële exoplaneten."
+  },
+  {
+   "heading": "Waarom AI dit werk verandert",
+   "body": "Sterrenkundige data zijn enorm. Duizenden sterren leveren meetreeksen op die je moet opschonen en vergelijken. Codex kan daarbij helpen door code te schrijven voor het filteren en analyseren van die reeksen.\n\nAstra lijkt in deze context te worden gebruikt voor het doorzoeken en interpreteren van de data. OpenAI noemt geen technische details over de modellen. Het bedrijf presenteert het vooral als voorbeeld van hoe zijn tools in de praktijk worden gebruikt.\n\nVoor wetenschappers verandert de kern van het werk niet. Een kandidaat moet nog steeds worden gecontroleerd. Andere telescopen en vervolgonderzoek zijn nodig om te bevestigen dat er echt een planeet is."
+  },
+  {
+   "heading": "Kandidaten zijn nog geen ontdekkingen",
+   "body": "In de sterrenkunde heet zo'n signaal een kandidaat. Pas na herhaalde metingen en onafhankelijke controle spreek je van een bevestigde exoplanet. OpenAI gebruikt in de blogpost de woorden potentiële exoplaneten.\n\nDat betekent dat de zoektocht vooral laat zien dat het proces sneller kan. De waarde zit in het filteren van ruis en het vinden van interessante sterren. Of daar echte planeten bij zitten, moet nog blijken.\n\nEr zijn geen publicaties of onafhankelijke controles genoemd. Nederlanders die meer willen weten, moeten het voorlopig doen met de summiere beschrijving van OpenAI."
+  },
+  {
+   "heading": "Wat dit zegt over OpenAI's koers",
+   "body": "OpenAI laat vaker zien hoe zijn modellen worden gebruikt buiten de bekende chats en kantoor taken. Wetenschap is daarbij een terugkerend voorbeeld. De nadruk ligt op het versnellen van werk dat veel data en code vereist.\n\nVoor gebruikers in Nederland is er geen nieuwe dienst aangekondigd. Codex en Astra zijn onderdeel van het bredere aanbod van OpenAI. Prijzen in euro's of een Nederlandse lanceerdatum worden in de bron niet genoemd."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse sterrenkundigen, studenten en hobbyisten betekent dit vooral dat de drempel voor data-analyse lager wordt. De Kepler- en TESS-archieven zijn openbaar en dus ook vanuit Nederland te gebruiken. Wie zelf wil experimenteren, heeft wel codeervaardigheid en kennis van astronomie nodig. OpenAI noemt geen Nederlandse prijzen of beschikbaarheid; de tools vallen onder het bestaande aanbod van het bedrijf.",
+ "faq": [
+  {
+   "q": "Wat is OpenAI Astra?",
+   "a": "Astra is een tool van OpenAI die volgens het bedrijf wordt gebruikt voor het doorzoeken en analyseren van data. In de blogpost wordt Astra samen met Codex ingezet op NASA-data."
+  },
+  {
+   "q": "Hebben de astronomen echt nieuwe planeten gevonden?",
+   "a": "OpenAI spreekt van potentiële exoplaneten. Dat zijn kandidaten die nog bevestiging nodig hebben. Er is geen bevestigde ontdekking gemeld."
+  },
+  {
+   "q": "Kan ik zelf met Kepler- en TESS-data aan de slag?",
+   "a": "Ja, die data zijn openbaar. Je hebt wel kennis van data-analyse en code nodig om er iets nuttigs uit te halen."
+  }
+ ],
+ "slug": "openai-astra-helpt-amateurastronomen-bij-zoektocht-naar-exoplaneten",
+ "kind": "news",
+ "date": "2026-11-24",
+ "published": "2026-11-24T22:30",
+ "sources": [
+  {
+   "name": "OpenAI",
+   "title": "Searching for distant planets with Astra",
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra"
+  }
+ ],
+ "path": "/nieuws/openai-astra-helpt-amateurastronomen-bij-zoektocht-naar-exoplaneten/",
+ "og": "/img/og/openai-astra-helpt-amateurastronomen-bij-zoektocht-naar-exoplaneten.png",
+ "take": "Twee hobbyisten die met Codex en Astra door Kepler- en TESS-data ploegen, dat is een leuke demo van OpenAI. Ik geloof zo'n verhaal pas als iemand met echte sterrendata een planeet aanwijst die de vakmensen daarna bevestigen. Tot die tijd is het een blogpost met een mooie belofte, en daar koop ik niks voor."
+}

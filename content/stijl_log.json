@@ -1,71 +1,5 @@
 [
  {
-  "at": "2026-10-17T20:24:44",
-  "slug": "",
-  "title": "Meta past commerciële voorwaarden aan om AI-licentiekosten te drukken",
-  "kind": "news",
-  "rood": [
-   "S11",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-18T10:09:17",
-  "slug": "",
-  "title": "Meta haalt zinsnede over scrapen en ai-training uit voorwaarden",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S11",
-   "S5",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-18T10:09:25",
-  "slug": "",
-  "title": "Anthropic krijgt minder junioren en zit vaker in vergaderingen",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-18T10:09:33",
-  "slug": "",
-  "title": "Replit kiest OpenAI als standaardmodel, Claude blijft beschikbaar",
-  "kind": "news",
-  "rood": [
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-18T10:09:54",
-  "slug": "",
-  "title": "AI-week 42: Replit kiest OpenAI, Meta schrapt scrapetekst en agents komen in botsing",
-  "kind": "news",
-  "rood": [
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 2,
-  "stand": "meten"
- },
- {
   "at": "2026-10-18T16:46:32",
   "slug": "",
   "title": "OpenAI werkt aan mensachtige robot, software blijkt de grootste hobbel",
@@ -6429,6 +6363,71 @@
    "S8"
   ],
   "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-24T22:28:48",
+  "slug": "",
+  "title": "Tidal verbant ai-muziek: 27 miljoen nummers verdwijnen",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-24T22:28:56",
+  "slug": "",
+  "title": "GPT-6 ontwerpt eiwitten: wat OpenAI in het lab zag",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-24T22:29:05",
+  "slug": "",
+  "title": "OpenAI Astra helpt amateurastronomen bij zoektocht naar exoplaneten",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-24T22:29:33",
+  "slug": "",
+  "title": "OpenAI Astra maakt exoplaneten zoeken ineens bereikbaar",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-24T22:29:44",
+  "slug": "",
+  "title": "OpenAI Astra maakt exoplaneten zoeken ineens bereikbaar",
+  "kind": "column",
+  "rood": [
+   "S4",
+   "S5",
+   "S6"
+  ],
+  "andere_fouten": 0,
   "stand": "meten"
  }
 ]

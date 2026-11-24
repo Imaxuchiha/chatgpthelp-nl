@@ -3571,12 +3571,25 @@
   "61dcf11694": {
    "at": "2026-11-24T14:56:59.124169",
    "why": "ok"
+  },
+  "fdd5f51e8f": {
+   "at": "2026-11-24T22:28:35.471023",
+   "why": "ok"
+  },
+  "85ad47dc9b": {
+   "at": "2026-11-24T22:28:35.471023",
+   "why": "ok"
+  },
+  "3c6728c1bf": {
+   "at": "2026-11-24T22:29:35.471023",
+   "why": "ok"
+  },
+  "f3aa9260f1": {
+   "at": "2026-11-24T22:30:35.471023",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "Snap Specs AI-bril verbindt iPhone en Mac, uitdaging voor Siri",
-  "OpenAI deelt meldkader voor AI-misalignment en zes gevallen",
-  "Claude kiest zelf tussen chatten en zelfstandig werken",
   "AI banen angst: wereldwijd vreest men baanverlies",
   "AI-agent bellen: Instinct en Meta's Muse bellen nu zelf",
   "Claude Code Projects beheert meerdere AI-agents tegelijk",
@@ -4173,6 +4186,9 @@
   "OpenAI Dots duiken op in Europa, officieel nog niet beschikbaar",
   "AI-agenten hacken 0-day bij Amazon met weinig menselijke hulp",
   "Amazon koopt AI-technologie van Decart voor 7,5 miljard dollar",
-  "DeepMind versnelt quantumalgoritmes met agentteams en formele verificatie"
+  "DeepMind versnelt quantumalgoritmes met agentteams en formele verificatie",
+  "Tidal verbant ai-muziek: 27 miljoen nummers verdwijnen",
+  "GPT-6 ontwerpt eiwitten: wat OpenAI in het lab zag",
+  "OpenAI Astra helpt amateurastronomen bij zoektocht naar exoplaneten"
  ]
 }
