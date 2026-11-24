@@ -3515,12 +3515,41 @@
   "680b35173b": {
    "at": "2026-11-23T23:55:49.960808",
    "why": "ok"
+  },
+  "43b498f2b7": {
+   "at": "2026-11-24T03:51:25.149038",
+   "why": "poort"
+  },
+  "388f4aa5f2": {
+   "at": "2026-11-24T03:51:25.149038",
+   "why": "poort"
+  },
+  "0cd17937bd": {
+   "at": "2026-11-24T03:51:25.149038",
+   "why": "ok"
+  },
+  "49ef9cf508": {
+   "at": "2026-11-24T03:52:25.149038",
+   "why": "poort"
+  },
+  "588f7b0a1e": {
+   "at": "2026-11-24T03:52:25.149038",
+   "why": "poort"
+  },
+  "44fe677fd4": {
+   "at": "2026-11-24T03:52:25.149038",
+   "why": "ok"
+  },
+  "786a4f3202": {
+   "at": "2026-11-24T03:53:25.149038",
+   "why": "high-risk"
+  },
+  "4179211d42": {
+   "at": "2026-11-24T03:53:25.149038",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "OpenAI advertenties: Sponsored Agents en AI-tools voor marketeers",
-  "Robots wachten op hun ChatGPT-moment: uitleg van Nvidia",
-  "AI op het werk: OpenAI ziet nieuwe taken ontstaan",
   "AI-labs willen eigen auditors, maar de voordeur staat nog open",
   "Google Home krijgt AI-agent: Claude en ChatGPT besturen je huis",
   "OpenAI meldt zes nieuwe incidenten met zorgwekkend AI-gedrag",
@@ -4117,6 +4146,9 @@
   "Anthropic IPO: grote beleggers stapten vroeg in",
   "OpenAI en Cisco lanceren Shirudo: open-source runtime voor Linux",
   "AI voor juristen: OpenAI richt zich op interne legal teams",
-  "Richpanel automatiseert helft van klantenservice met GPT-6"
+  "Richpanel automatiseert helft van klantenservice met GPT-6",
+  "COP31 eindigt chaotisch: ai-datacenters jagen stroomvraag op",
+  "Nothing Ear Note: oordopjes die gesprekken opnemen en transcriberen",
+  "OpenAI Dots duiken op in Europa, officieel nog niet beschikbaar"
  ]
 }

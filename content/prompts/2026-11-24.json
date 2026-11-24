@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: aanmaning van een incassobureau beantwoorden",
+ "situation": "Je krijgt een aanmaning of incassobrief waarvan je het bedrag niet herkent, al hebt betaald of te laat reageert. Met deze prompt zet je in één keer een nette, juridisch verstandige reactie op papier.",
+ "prompt": "Je bent een Nederlandse schuldhulpverlener met kennis van incassorecht. Ik heb een brief van een incassobureau ontvangen en wil reageren. Hieronder de gegevens.\n\nAfzender incassobureau: [NAAM BUREAU]\nDatum brief: [DATUM]\nGevorderd bedrag: [BEDRAG IN EURO]\nWaar de vordering op zou slaan: [OMSCHRIJVING, BIJV. ENERGIE, WEBSHOP, ZORG]\nWat ik zelf weet: [BIJV. AL BETAALD OP DATUM, NOOIT KLANT GEWEEST, BEDRAG KLOPT NIET]\nDeadline in de brief: [DATUM OF GEEN]\n\nSchrijf een zakelijke brief van maximaal 250 woorden. Eerst betwist of bevestig ik de vordering in één heldere zin. Daarna vraag ik om een specificatie van het hoofdbedrag, de rente en de incassokosten, met de onderliggende factuur. Ik verzoek om opschorting van verdere stappen tot die specificatie er is. Sluit af met een redelijke termijn van 14 dagen en vermeld dat ik de brief per aangetekende post verstuur. Geen dreigende toon, wel duidelijk. Voeg onderaan twee varianten toe: één als ik al heb betaald, één als ik de vordering betwist.",
+ "tip": "Vul bij 'wat ik zelf weet' ook datums en bedragen van eerdere betalingen in, dan kan ChatGPT die letterlijk in de brief verwerken.",
+ "tags": [
+  "incasso",
+  "geld",
+  "brieven",
+  "juridisch"
+ ],
+ "date": "2026-11-24",
+ "slug": "prompt-aanmaning-van-een-incassobureau-beantwoorden",
+ "path": "/prompts/2026-11-24-prompt-aanmaning-van-een-incassobureau-beantwoorden/"
+}

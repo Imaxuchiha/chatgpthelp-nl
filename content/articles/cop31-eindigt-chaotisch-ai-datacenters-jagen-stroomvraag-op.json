@@ -1,0 +1,63 @@
+{
+ "keyword": "cop31 ai datacenters",
+ "seo_title": "COP31 ai datacenters: stroomvraag drukt klimaatdeal",
+ "title": "COP31 eindigt chaotisch: ai-datacenters jagen stroomvraag op",
+ "meta": "COP31 in Antalya sloot chaotisch af. Ai-datacenters vragen steeds meer stroom, en dat maakte de klimaattop in Turkije extra lastig.",
+ "category": "nieuws",
+ "tags": [
+  "cop31",
+  "datacenters",
+  "energie",
+  "klimaat",
+  "ai"
+ ],
+ "intro": "De klimaattop COP31 in het Turkse Antalya is zondag chaotisch en onbevredigend afgesloten. De groeiende stroomvraag van ai-datacenters speelde daarbij een lastige rol. Landen moeten hun economie juist elektrificeren, terwijl datacenters veel stroom opslokken.",
+ "takeaways": [
+  "COP31 in Antalya sloot zondag chaotisch en onbevredigend af.",
+  "Ai-datacenters vragen veel stroom, precies nu economieën moeten elektrificeren.",
+  "De spanning tussen stroomvraag en klimaatdoelen kwam op de top nadrukkelijk naar voren."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er op COP31 speelde",
+   "body": "De klimaattop in Antalya kwam zondag tot een rommelig einde. Volgens The Verge leverde de bijeenkomst een onbevredigend resultaat op. Deelnemers uit veel landen worstelden met een lastige puzzel: de energietransitie vraagt om meer elektriciteit, terwijl datacenters voor ai juist extra stroom vragen.\n\nDe Verenigde Naties houden jaarlijks zo'n klimaatconferentie. Dit jaar was dat COP31, in Turkije. De spanning tussen schonere stroom en de groeiende vraag kwam daarbij duidelijk op tafel."
+  },
+  {
+   "heading": "Stroomhonger van ai-datacenters",
+   "body": "Datacenters voor ai gebruiken veel elektriciteit. De rekenkracht achter chatbots en andere ai-toepassingen draait op servers die dag en nacht stroom trekken. Volgens The Verge zorgt die groei voor extra druk op het stroomnet, precies op het moment dat landen hun economie breder willen elektrificeren.\n\nElektrificeren betekent dat je meer taken op stroom laat draaien, bijvoorbeeld verwarming en vervoer. Dat is nodig om fossiele brandstoffen te vervangen. De opkomst van ai maakt die opgave complexer, omdat de vraag naar stroom sneller stijgt dan veel netten aankunnen."
+  },
+  {
+   "heading": "Chaotisch slot in Antalya",
+   "body": "The Verge omschrijft de afsluiting van COP31 als chaotisch en onbevredigend. Wat er precies is afgesproken, blijkt uit de bron niet. Duidelijk is wel dat de stroomvraag van datacenters de onderhandelingen geen goed heeft gedaan.\n\nDe top in Turkije laat zien hoe twee ontwikkelingen botsen. Enerzijds willen landen sneller van fossiele energie af. Anderzijds groeit het aantal datacenters dat veel stroom nodig heeft."
+  }
+ ],
+ "nl_angle": "Ook Nederland merkt deze spanning. Hier staan meerdere grote datacenters, onder meer in de regio Amsterdam en in Zeeland. Netbeheerders waarschuwen al langer dat het stroomnet vol raakt. Nieuwe datacenters moeten daardoor vaker wachten op een aansluiting. Voor bedrijven en huishoudens kan dat betekenen dat stroom duurder wordt of dat uitbreiding trager gaat. Wat COP31 concreet voor Nederland oplevert, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "wat is COP31?",
+   "a": "COP31 is de jaarlijkse klimaatconferentie van de Verenigde Naties. Dit jaar vond die plaats in Antalya, Turkije, en sloot zondag chaotisch af."
+  },
+  {
+   "q": "waarom zijn ai-datacenters een probleem voor het klimaat?",
+   "a": "Ze vragen veel elektriciteit, terwijl landen juist meer taken op stroom willen laten draaien om fossiele brandstoffen te vervangen. Dat maakt de energietransitie lastiger."
+  },
+  {
+   "q": "wat merkt Nederland van ai-datacenters?",
+   "a": "Nederland heeft meerdere grote datacenters en het stroomnet raakt op sommige plekken vol. Nieuwe aansluitingen kunnen daardoor vertraging oplopen."
+  }
+ ],
+ "slug": "cop31-eindigt-chaotisch-ai-datacenters-jagen-stroomvraag-op",
+ "kind": "news",
+ "date": "2026-11-24",
+ "published": "2026-11-24T03:51",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "AI data centers throw another wrench into chaotic UN climate talks",
+   "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
+  }
+ ],
+ "path": "/nieuws/cop31-eindigt-chaotisch-ai-datacenters-jagen-stroomvraag-op/",
+ "og": "/img/og/cop31-eindigt-chaotisch-ai-datacenters-jagen-stroomvraag-op.png",
+ "take": "De stroomrekening van een datacenter betaalt uiteindelijk iemand, en dat ben ik liever niet via een omweg. Ik kijk bij elke tool eerst wat hij per maand kost en of ik dat bedrag ergens terugzie. Rekenkracht die alleen op een klimaattop ter sprake komt, verandert daar niks aan."
+}
