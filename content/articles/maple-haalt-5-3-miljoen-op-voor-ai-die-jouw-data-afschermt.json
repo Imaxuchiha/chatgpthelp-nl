@@ -1,0 +1,68 @@
+{
+ "keyword": "maple ai privacy",
+ "seo_title": "Maple AI privacy: $5,3 miljoen voor versleutelde AI",
+ "title": "Maple haalt $5,3 miljoen op voor AI die jouw data afschermt",
+ "meta": "Maple bouwt AI waarbij zelfs het bedrijf zelf niet bij jouw gegevens kan. Zo werkt de versleutelde architectuur en dit betekent het voor Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "maple",
+  "privacy",
+  "ai",
+  "versleuteling",
+  "startups"
+ ],
+ "intro": "Het Amerikaanse startup Maple heeft 5,3 miljoen dollar opgehaald voor AI-producten die privégegevens afschermen. Volgens TechCrunch is de architectuur zo gebouwd dat zelfs Maple zelf niet bij de data van gebruikers kan. Dat raakt een gevoelige vraag: wat gebeurt er met alles wat je in een AI-chat stopt?",
+ "takeaways": [
+  "Maple haalt 5,3 miljoen dollar op voor AI met versleuteling als uitgangspunt.",
+  "De opzet moet voorkomen dat het bedrijf zelf toegang krijgt tot privégegevens.",
+  "Volgens TechCrunch is de architectuur rond versleuteling opgebouwd.",
+  "Over een Europese beschikbaarheid of prijs is nog niets bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat Maple precies bouwt",
+   "body": "Maple ontwikkelt AI-producten waarbij bescherming van data het startpunt is. De kern zit in een versleutelde architectuur. Volgens TechCrunch is die zo ontworpen dat Maple zelf geen toegang krijgt tot de privégegevens van gebruikers.\n\nDat is een opvallende keuze. Veel AI-diensten verwerken invoer op servers die het bedrijf kan inzien. Maple draait dat om: de beveiliging zit in de opzet van het systeem, niet in een belofte achteraf.\n\nHoe dat technisch werkt, maakt de bron niet concreet. Details over de producten, de klanten en de gebruikte modellen ontbreken voorlopig."
+  },
+  {
+   "heading": "Geld voor een prille startup",
+   "body": "De financieringsronde bedraagt 5,3 miljoen dollar, omgerekend ruwweg 4,5 tot 5 miljoen euro. Wie het geld heeft gestoken, vermeldt de bron niet. Ook over de omzet of het aantal gebruikers is niets bekend.\n\nDaarmee blijft Maple voorlopig een jonge speler. De ronde geeft het team ruimte om verder te bouwen, zonder dat er al een publiek product met prijskaartje ligt."
+  },
+  {
+   "heading": "Waarom dit gevoelig ligt",
+   "body": "Mensen typen steeds vaker vertrouwelijke dingen in een AI-chat. Denk aan stukken uit een contract, personeelszaken of medische vragen. Zodra die tekst op een server staat, is de vraag wie meekijkt.\n\nEen opzet waarbij de aanbieder zelf geen toegang heeft, verandert die vraag. Het bedrijf kan dan minder makkelijk data doorverkopen of delen, simpelweg omdat het de sleutel niet heeft. Of Maple die belofte in de praktijk waarmaakt, is nog niet onafhankelijk getest."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "TechCrunch noemt geen lanceerdatum voor een publiek product. Prijzen, een gratis versie en ondersteunde talen staan niet in de bron. Ook is niet duidelijk of Maple zich richt op bedrijven of op consumenten.\n\nVoor een inschatting van de praktische waarde is dat relevante informatie. Zonder die gegevens blijft het bij een belofte over architectuur."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en organisaties die met persoonsgegevens werken, is dit een thema om te volgen. De Autoriteit Persoonsgegevens kijkt streng naar doorgifte van data naar AI-leveranciers buiten de EU. Een aanbieder die zelf geen toegang heeft tot de invoer, kan de administratie rond een verwerkersovereenkomst eenvoudiger maken. Toch blijft de vraag waar de servers staan en of er data naar de Verenigde Staten gaat. Maple heeft nog niets gezegd over beschikbaarheid in Nederland of de EU. Wie nu een AI-tool kiest voor gevoelig werk, doet er goed aan de voorwaarden te lezen en geen persoonsgegevens in te voeren zonder geldige grondslag.",
+ "faq": [
+  {
+   "q": "Wat is Maple AI?",
+   "a": "Maple is een startup die AI-producten bouwt met versleuteling als basis. Volgens TechCrunch kan het bedrijf zelf niet bij de privégegevens van gebruikers."
+  },
+  {
+   "q": "Is Maple beschikbaar in Nederland?",
+   "a": "Daar is nog niets over bekend. De bron noemt geen lanceerdatum, prijs of landen waar het product te gebruiken is."
+  },
+  {
+   "q": "Kan ik veilig privégegevens in een AI-chat zetten?",
+   "a": "Dat hangt af van de aanbieder en je eigen situatie. Bij persoonsgegevens gelden regels uit de AVG, en je hebt een geldige grondslag nodig voordat je zulke data deelt."
+  }
+ ],
+ "slug": "maple-haalt-5-3-miljoen-op-voor-ai-die-jouw-data-afschermt",
+ "kind": "news",
+ "date": "2026-11-25",
+ "published": "2026-11-25T01:35",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
+  }
+ ],
+ "path": "/nieuws/maple-haalt-5-3-miljoen-op-voor-ai-die-jouw-data-afschermt/",
+ "og": "/img/og/maple-haalt-5-3-miljoen-op-voor-ai-die-jouw-data-afschermt.png",
+ "take": "Maple bouwt het goed: versleuteld, de sleutel bij de gebruiker, het bedrijf zelf kan er niet bij. Dat is een architectuur die je kunt controleren, en daar heb ik meer aan dan een privacybelofte in de kleine lettertjes. Mijn geld gaat naar wat ik zelf kan narekenen, niet naar wat een startup zegt dat veilig is."
+}

@@ -1,0 +1,63 @@
+{
+ "keyword": "ai-agent dagelijkse taken",
+ "seo_title": "ai-agent dagelijkse taken: nog veel fouten",
+ "title": "AI-agent faalt vaak bij dagelijkse taken, blijkt uit nieuwe benchmark",
+ "meta": "Nieuwe benchmark laat zien dat zelfs de beste AI-agenten dagelijkse taken niet betrouwbaar uitvoeren. Wat dat betekent voor gebruikers in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ai-agenten",
+  "benchmark",
+  "chatgpt",
+  "veiligheid",
+  "automatisering"
+ ],
+ "intro": "Miljoenen mensen gebruiken persoonlijke AI-assistenten voor klusjes van alledag. Een nieuwe benchmark zet daar een flinke domper op: zelfs de sterkste modellen ronden dagelijkse taken niet betrouwbaar af. Soms ontstaan er juist nieuwe problemen.",
+ "takeaways": [
+  "Een nieuwe benchmark test hoe AI-agenten alledaagse opdrachten uitvoeren.",
+  "Zelfs de beste modellen werken niet consistent en veilig.",
+  "Een agent kan tijdens het uitvoeren van een taak nieuwe problemen veroorzaken.",
+  "Over prijzen of beschikbaarheid van zulke agenten in Nederland is nog niets bekend."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de benchmark meet",
+   "body": "De test richt zich op gewone taken, meldt TechCrunch. Denk aan het regelen van afspraken of het verwerken van informatie. Het gaat dus niet om puzzels of examens, maar om werk dat mensen dagelijks doen.\n\nUit de resultaten blijkt dat de modellen zulke opdrachten niet consistent afmaken. Ze zijn ook niet altijd veilig in het gebruik. Een agent kan tijdens het werk iets doen wat de gebruiker niet had bedoeld."
+  },
+  {
+   "heading": "Waarom dat uitmaakt",
+   "body": "Een assistent die de ene keer wel en de andere keer niet slaagt, is lastig in te zetten. Je moet blijven controleren of het werk goed is gedaan. Daarmee verdwijnt een deel van de tijdwinst.\n\nErger wordt het als een agent fouten maakt die pas later opvallen. Bijvoorbeeld een verkeerde boeking of een verkeerd doorgegeven gegeven. De benchmark noemt dat een risico op nieuwe problemen."
+  },
+  {
+   "heading": "Wat dit zegt over de belofte",
+   "body": "AI-bedrijven presenteren agenten als hulp die zelfstandig taken uitvoert. Deze test laat zien dat die belofte nog niet rond is. De beste modellen blijven worstelen met de again van het dagelijks leven.\n\nDat betekent niet dat de techniek nutteloos is. Voor afgebakende klussen werkt een agent soms prima. Zodra een taak meer stappen of meer context vraagt, groeit de kans op fouten."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders die een AI-assistent gebruiken, blijft controle nodig. Laat een agent geen betalingen, boekingen of wijzigingen in persoonsgegevens doen zonder dat je het resultaat checkt. Bedrijven die agenten willen inzetten voor klantcontact of administratie, doen er goed aan eerst een kleine proef te draaien. Over de kosten van zulke agenten in Nederland is nog niets bekend.",
+ "faq": [
+  {
+   "q": "Wat is een AI-agent precies?",
+   "a": "Een AI-agent is een assistent die zelf stappen uitvoert om een taak af te maken, zoals gegevens opzoeken of iets regelen. Je geeft een opdracht en het model werkt die uit."
+  },
+  {
+   "q": "Zijn AI-agenten dan onbruikbaar?",
+   "a": "Nee, voor duidelijke en beperkte taken werken ze soms goed. Bij taken met meer stappen of gevoelige gegevens blijft controle door een mens nodig."
+  },
+  {
+   "q": "Wat kan ik zelf doen om fouten te beperken?",
+   "a": "Geef een agent een smalle opdracht en laat hem niets definitiefs doen zonder jouw akkoord. Controleer het resultaat voordat je verdergaat."
+  }
+ ],
+ "slug": "ai-agent-faalt-vaak-bij-dagelijkse-taken-blijkt-uit-nieuwe-benchmark",
+ "kind": "news",
+ "date": "2026-11-25",
+ "published": "2026-11-25T01:34",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Even the best AI agents struggle with everyday life",
+   "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+  }
+ ],
+ "path": "/nieuws/ai-agent-faalt-vaak-bij-dagelijkse-taken-blijkt-uit-nieuwe-benchmark/",
+ "og": "/img/og/ai-agent-faalt-vaak-bij-dagelijkse-taken-blijkt-uit-nieuwe-benchmark.png"
+}

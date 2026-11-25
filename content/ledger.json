@@ -3587,12 +3587,25 @@
   "f3aa9260f1": {
    "at": "2026-11-24T22:30:35.471023",
    "why": "ok"
+  },
+  "71615ee1eb": {
+   "at": "2026-11-25T01:34:02.716379",
+   "why": "ok"
+  },
+  "b1e5839c1d": {
+   "at": "2026-11-25T01:35:02.716379",
+   "why": "poort"
+  },
+  "4d83f53e63": {
+   "at": "2026-11-25T01:35:02.716379",
+   "why": "ok"
+  },
+  "9824edc2f4": {
+   "at": "2026-11-25T01:36:02.716379",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "AI banen angst: wereldwijd vreest men baanverlies",
-  "AI-agent bellen: Instinct en Meta's Muse bellen nu zelf",
-  "Claude Code Projects beheert meerdere AI-agents tegelijk",
   "Koning Charles houdt ai-top en heeft zelf twijfels over AI",
   "Base Labs start open-weight AI veiligheid met Hugging Face",
   "ChatGPT voor juristen: Cooley versnelt werk aan beursgang",
@@ -4189,6 +4202,9 @@
   "DeepMind versnelt quantumalgoritmes met agentteams en formele verificatie",
   "Tidal verbant ai-muziek: 27 miljoen nummers verdwijnen",
   "GPT-6 ontwerpt eiwitten: wat OpenAI in het lab zag",
-  "OpenAI Astra helpt amateurastronomen bij zoektocht naar exoplaneten"
+  "OpenAI Astra helpt amateurastronomen bij zoektocht naar exoplaneten",
+  "AI-agent faalt vaak bij dagelijkse taken, blijkt uit nieuwe benchmark",
+  "Maple haalt $5,3 miljoen op voor AI die jouw data afschermt",
+  "Anthropic aandelen zakken onder ipo-prijs: signaal voor ai-startups"
  ]
 }

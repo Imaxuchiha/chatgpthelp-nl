@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: reparatieofferte witgoed vergelijken",
+ "situation": "Je wasmachine, vaatwasser of koelkast is kapot en je hebt een offerte van een monteur. Twijfel je of de prijs en het advies kloppen? Deze prompt zet de offerte naast de opties.",
+ "prompt": "Je bent een onafhankelijke witgoedadviseur voor Nederlandse huishoudens. Ik heb een reparatieofferte voor mijn [SOORT APPARAAT, bijv. wasmachine] van [MERK EN TYPE], ongeveer [LEEFTIJD] jaar oud. De monteur stelt voor: [OMSCHRIJF WAT DE MONTEUR WIL DOEN]. De kosten zijn [BEDRAG] euro, inclusief [WAT WEL/NIET INBEGREPEN IS]. Hier is de offerte: [PLAK DE TEKST OF VATTEN DE REGELS SAMEN]. Geef mij: 1) een uitleg per offerteregel in gewone taal, met een schatting of de prijs redelijk is voor Nederland in 2026 en waar dat niet te zeggen is; 2) de afweging repareren versus vervangen, met een concreet omslagpunt in euro's en de energiekosten van een nieuw apparaat; 3) drie vragen die ik de monteur stel voordat ik akkoord ga, inclusief garantie op de reparatie; 4) een korte e-mail om de offerte te bevestigen of aan te passen. Verzin geen bedragen die ik niet noem.",
+ "tip": "Vraag de monteur om een gespecificeerde offerte met voorrijkosten en onderdelen apart, dan kan de prompt scherper rekenen.",
+ "tags": [
+  "witgoed",
+  "reparatie",
+  "geld",
+  "thuis"
+ ],
+ "date": "2026-11-25",
+ "slug": "prompt-reparatieofferte-witgoed-vergelijken",
+ "path": "/prompts/2026-11-25-prompt-reparatieofferte-witgoed-vergelijken/"
+}

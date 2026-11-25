@@ -1,105 +1,5 @@
 [
  {
-  "at": "2026-10-18T16:46:32",
-  "slug": "",
-  "title": "OpenAI werkt aan mensachtige robot, software blijkt de grootste hobbel",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S4",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 2,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-18T16:46:40",
-  "slug": "",
-  "title": "Meta past voorwaarden aan: zakelijke accounts en AI-training",
-  "kind": "news",
-  "rood": [
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-18T16:46:48",
-  "slug": "",
-  "title": "AI ontwerpt virussen: Stanford-onderzoeker maakt genetische blauwdrukken",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-18T16:47:03",
-  "slug": "",
-  "title": "ChatGPT kan nu je open Chrome-tabbladen bekijken",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-18T16:47:29",
-  "slug": "",
-  "title": "AI-week 42: ChatGPT leest je tabbladen en Meta schrapt voorwaarden",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-18T20:34:58",
-  "slug": "",
-  "title": "Anthropic denkt dat sommige AI-modellen bewustzijn hebben",
-  "kind": "news",
-  "rood": [
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-18T20:35:06",
-  "slug": "",
-  "title": "Character.AI failliet: Disney neemt meeste personeel over",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-18T20:35:15",
-  "slug": "",
-  "title": "Anthropic geeft externe ai-waakhond toegang als medewerker",
-  "kind": "news",
-  "rood": [
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-18T20:35:40",
   "slug": "",
   "title": "AI nieuws week 42: Meta scherpt voorwaarden aan, Anthropic opent deuren",
@@ -6426,6 +6326,112 @@
    "S4",
    "S5",
    "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-25T01:34:18",
+  "slug": "",
+  "title": "AI-agent faalt vaak bij dagelijkse taken, blijkt uit nieuwe benchmark",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-25T01:34:25",
+  "slug": "",
+  "title": "Walmart verkoopt Black Friday-deals via Meta's AI-agent Muse",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-25T01:34:39",
+  "slug": "",
+  "title": "Maple haalt $5,3 miljoen op voor AI die jouw data afschermt",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-25T01:34:49",
+  "slug": "",
+  "title": "Anthropic aandelen zakken onder ipo-prijs: signaal voor ai-startups",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-25T01:35:21",
+  "slug": "",
+  "title": "Persbericht schrijven met AI: zo pak je het aan",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-25T01:35:28",
+  "slug": "",
+  "title": "Persbericht schrijven met AI: zo pak je het aan",
+  "kind": "evergreen",
+  "rood": [
+   "S10",
+   "S4",
+   "S5",
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-25T01:35:45",
+  "slug": "",
+  "title": "Anthropic onder de ipo-prijs: overleeft de ai-hype?",
+  "kind": "column",
+  "rood": [
+   "S10"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-25T01:35:55",
+  "slug": "",
+  "title": "Anthropic onder de ipo-prijs: overleeft de ai-hype?",
+  "kind": "column",
+  "rood": [
+   "S10"
   ],
   "andere_fouten": 0,
   "stand": "meten"
