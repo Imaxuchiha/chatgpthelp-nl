@@ -1,0 +1,64 @@
+{
+ "keyword": "ai theoretische natuurkunde",
+ "seo_title": "AI theoretische natuurkunde: wat verandert er voor fysici",
+ "title": "AI doet natuurkundige berekeningen: wat betekent dat voor fysici?",
+ "meta": "AI lost steeds vaker berekeningen op die topfysici een dag kostten. Lees wat dat betekent voor theoretische natuurkunde en voor onderzoek in Nederland.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "natuurkunde",
+  "onderzoek",
+  "wetenschap",
+  "openai"
+ ],
+ "intro": "Frontier AI lost al problemen op waar topfysici voorheen een volle dag aan kwijt waren. Ars Technica meldt dat theoretici nu nadenken over wat hun vak nog inhoudt. De vraag verschuift van rekenen naar interpreteren.",
+ "takeaways": [
+  "AI-systemen van de nieuwste generatie lossen sommige natuurkundige berekeningen zelf op.",
+  "Die berekeningen kostten een topfysicus voorheen ongeveer een werkdag.",
+  "Natuurkundigen denken na over een nieuwe rol: vragen stellen en resultaten duiden.",
+  "Het is nog niet bekend hoe dit de opleiding en het onderzoek in Nederland raakt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat AI nu al doet in de natuurkunde",
+   "body": "De nieuwste AI-systemen zijn geen rekenmachines meer. Ze pakken vraagstukken aan die eerder een dag werk van een ervaren theoreticus vroegen. Dat schrijft Ars Technica op basis van gesprekken met onderzoekers.\n\nHet gaat om berekeningen en afleidingen binnen de theoretische natuurkunde. Denk aan het doorwerken van formules of het controleren van een vermoeden. AI levert daarbij een uitkomst die klopt of in elk geval het nakijken waard is.\n\nDaarmee verandert de rol van de computer in het vak. Het systeem doet een deel van het denkwerk dat eerst bij de onderzoeker lag."
+  },
+  {
+   "heading": "Wat betekent dit voor het werk van een fysicus",
+   "body": "Als een machine de rekenstappen overneemt, verschuift de aandacht. Natuurkundigen moeten vooral bepalen welke vraag de moeite waard is. En ze moeten beoordelen of een uitkomst echt klopt.\n\nDat klinkt eenvoudig, maar het is het lastigste deel van het vak. Een formule kan kloppen en toch niets zeggen over de werkelijkheid. De interpretatie blijft mensenwerk.\n\nArs Technica noemt dit de kern van de discussie: wat betekent het om theoreticus te zijn als het rekenwerk deels wegvalt? Een antwoord daarop is nog niet gevonden."
+  },
+  {
+   "heading": "Nog geen duidelijk beeld van de gevolgen",
+   "body": "Hoe snel dit gaat en hoe ver het reikt, is onduidelijk. De bron noemt geen concrete cijfers over foutmarges of het aantal taken dat AI overneemt. Ook is niet bekend welke systemen precies zijn getest.\n\nDuidelijk is wel dat de discussie binnen de natuurkunde zelf wordt gevoerd. Onderzoekers kijken naar hun eigen werkwijze en naar de opleiding van nieuwe generaties. De uitkomst van die discussie laat nog op zich wachten."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse natuurkundigen en onderzoeksinstellingen betekent dit vooral een verschuiving in vaardigheden. Wie nu promoveert, krijgt vaker te maken met AI die tussenstappen uitvoert. De vraag is of opleidingen daar al op inspelen. Concrete plannen zijn nog niet bekend. Universiteiten en onderzoeksfinanciers zullen moeten bepalen hoe ze het beoordelen van AI-uitkomsten in het curriculum opnemen.",
+ "faq": [
+  {
+   "q": "Kan AI nu zelfstandig natuurkunde bedrijven?",
+   "a": "Nee. AI lost bepaalde berekeningen op, maar de interpretatie en het stellen van de juiste vragen blijven bij mensen."
+  },
+  {
+   "q": "Verandert het werk van een theoretisch fysicus hierdoor?",
+   "a": "Waarschijnlijk wel. Het rekenwerk wordt deels overgenomen, waardoor de nadruk meer komt te liggen op het beoordelen en duiden van resultaten."
+  },
+  {
+   "q": "Wat merken Nederlandse universiteiten hiervan?",
+   "a": "Dat is nog niet bekend. De bron noemt geen Nederlandse instellingen of concrete gevolgen voor het onderwijs."
+  }
+ ],
+ "slug": "ai-doet-natuurkundige-berekeningen-wat-betekent-dat-voor-fysici",
+ "kind": "news",
+ "date": "2026-11-25",
+ "published": "2026-11-25T14:09",
+ "sources": [
+  {
+   "name": "Ars Technica",
+   "title": "AI may soon change what it means to be a theoretical physicist",
+   "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
+  }
+ ],
+ "path": "/nieuws/ai-doet-natuurkundige-berekeningen-wat-betekent-dat-voor-fysici/",
+ "og": "/img/og/ai-doet-natuurkundige-berekeningen-wat-betekent-dat-voor-fysici.png",
+ "take": "Rekenwerk uitbesteden aan AI is prima, zolang je zelf blijft snappen wat de uitkomst betekent. Ik betaal alleen voor een tool die zich terugverdient, en nieuwsgierigheid naar een nieuw model is geen reden om een abonnement te nemen. Laat die fysici het rekenen lekker overlaten aan de machine en zelf de interpretatie doen, want daar zit het echte werk."
+}

@@ -3603,12 +3603,37 @@
   "9824edc2f4": {
    "at": "2026-11-25T01:36:02.716379",
    "why": "ok"
+  },
+  "008a6a4d23": {
+   "at": "2026-11-25T14:09:07.465530",
+   "why": "poort"
+  },
+  "3f40fc107f": {
+   "at": "2026-11-25T14:09:07.465530",
+   "why": "poort"
+  },
+  "f5bb5e8a9a": {
+   "at": "2026-11-25T14:09:07.465530",
+   "why": "ok"
+  },
+  "3e9a37054b": {
+   "at": "2026-11-25T14:10:07.465530",
+   "why": "ok"
+  },
+  "ef2ea07a8f": {
+   "at": "2026-11-25T14:11:07.465530",
+   "why": "poort"
+  },
+  "c7d2da5c58": {
+   "at": "2026-11-25T14:11:07.465530",
+   "why": "poort"
+  },
+  "03938f50d2": {
+   "at": "2026-11-25T14:11:07.465530",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "Koning Charles houdt ai-top en heeft zelf twijfels over AI",
-  "Base Labs start open-weight AI veiligheid met Hugging Face",
-  "ChatGPT voor juristen: Cooley versnelt werk aan beursgang",
   "Crusoe haalt 3,9 miljard dollar op voor AI-datacenters",
   "Google DeepMind start instituut voor breder AGI-debat",
   "Onderzoekers hacken OpenAI met Claude: wat betekent dit?",
@@ -4205,6 +4230,9 @@
   "OpenAI Astra helpt amateurastronomen bij zoektocht naar exoplaneten",
   "AI-agent faalt vaak bij dagelijkse taken, blijkt uit nieuwe benchmark",
   "Maple haalt $5,3 miljoen op voor AI die jouw data afschermt",
-  "Anthropic aandelen zakken onder ipo-prijs: signaal voor ai-startups"
+  "Anthropic aandelen zakken onder ipo-prijs: signaal voor ai-startups",
+  "AI doet natuurkundige berekeningen: wat betekent dat voor fysici?",
+  "David Fincher onder vuur om mogelijk AI-gebruik in nieuwe film",
+  "Meta zet AI-assistent Muse direct in Instagram-dm's"
  ]
 }

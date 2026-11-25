@@ -1,0 +1,70 @@
+{
+ "keyword": "persbericht schrijven met ai",
+ "seo_title": "Persbericht schrijven met ai: stap voor stap uitleg",
+ "title": "Persbericht schrijven met ai: zo pak je het aan",
+ "meta": "Leer stap voor stap een persbericht schrijven met ai. Met concrete prompts, een checklist en antwoord op veelgestelde vragen voor Nederlandse bedrijven.",
+ "category": "uitleg",
+ "tags": [
+  "persbericht",
+  "chatgpt",
+  "schrijven",
+  "pr",
+  "prompts"
+ ],
+ "intro": "Steeds meer Nederlandse bedrijven en organisaties gebruiken ChatGPT of een andere ai-assistent om een eerste versie van een persbericht te maken. Dat scheelt tijd, maar het resultaat valt of staat bij de input die je geeft. Hieronder lees je hoe je het aanpakt, met een voorbeeldprompt en een controlelijst.",
+ "takeaways": [
+  "Een ai schrijft snel een eerste opzet, maar de feiten en quotes moet je zelf aanleveren en checken.",
+  "Geef in je prompt altijd doelgroep, medium, toon en lengte mee.",
+  "Een persbericht heeft een vaste opbouw: kop, lead, kern en contactgegevens.",
+  "Controleer altijd op feiten, namen, cijfers en citaten voordat je verstuurt."
+ ],
+ "sections": [
+  {
+   "heading": "Wat een ai wel en niet voor je doet",
+   "body": "Een ai-assistent maakt op basis van jouw aanwijzingen een tekst die er als een persbericht uitziet. Het model kent de vaste vorm: een pakkende kop, een lead met de kern, een paar alinea's met uitleg en onderaan contactgegevens. Dat scheelt je het eerste lege scherm.\n\nWat het model niet weet, zijn jouw feiten. Namen, functietitels, cijfers, data en citaten moet jij aanleveren. Verzin je die niet, dan vult een ai ze soms zelf in. Dat levert onjuistheden op die je in een persbericht niet wilt. Zie de ai daarom als tekstverwerker met een idee, niet als bron.\n\nOok de nieuwswaarde bepaalt de ai niet voor je. Of iets echt nieuws is voor een journalist, hangt af van actualiteit, impact en doelgroep. Daar blijft menselijk oordeel nodig."
+  },
+  {
+   "heading": "Zo bouw je de prompt op",
+   "body": "Een goede prompt bevat vijf dingen: wat je aankondigt, voor wie het bedoeld is, welk medium het leest, welke toon je wilt en hoe lang het mag zijn. Hoe concreter, hoe bruikbaarder de eerste versie.\n\nGeef ook aan wat de ai moet weglaten. Zeg bijvoorbeeld dat er geen superlatieven in mogen en dat citaten alleen van jou afkomstig zijn. Zo voorkom je holle marketingtaal die journalisten direct weggooien.\n\nEen voorbeeldprompt die je kunt hergebruiken:\n\n\"Schrijf een persbericht van ongeveer 350 woorden in het Nederlands. Onderwerp: [jouw nieuws in één zin]. Doelgroep: regionale en vakjournalisten. Toon: nuchter en feitelijk, geen superlatieven. Opbouw: pakkende kop, lead van maximaal 30 woorden met wie, wat, waar, wanneer en waarom, daarna twee alinea's met uitleg en één citaat dat ik hieronder aanlever. Gebruik alleen de feiten die ik geef en verzin niets bij. Sluit af met een alinea 'Over [bedrijfsnaam]' en een contactregel. Feiten: [lijst]. Citaat: [letterlijke quote met naam en functie].\""
+  },
+  {
+   "heading": "De opbouw van het persbericht",
+   "body": "Bovenaan staat de kop. Die is kort, concreet en bevat het nieuws. Daaronder volgt de lead: één alinea met de kern, waarin wie, wat, waar, wanneer en waarom terugkomen. Journalisten lezen vaak niet verder dan dat.\n\nDaarna komt de toelichting. Geef achtergrond, cijfers en het waarom achter de aankondiging. Houd alinea's kort en vermijd jargon. Een citaat van een bestuurder of betrokkene maakt het verhaal levendiger, mits het echt door die persoon is uitgesproken.\n\nOnderaan zet je een korte alinea over het bedrijf en de contactgegevens van de woordvoerder. Voeg eventueel een noot voor de redactie toe met extra uitleg. Die noot is niet bedoeld voor publicatie."
+  },
+  {
+   "heading": "Controleren en bijschaven",
+   "body": "Lees de ai-tekst altijd na op feiten. Kloppen namen, functies en cijfers? Staat er niets tussen dat je niet kunt onderbouwen? Schrap superlatieven als 'uniek' of 'toonaangevend' als ze niet concreet worden gemaakt.\n\nLet ook op stijl. Een ai schrijft soms lange zinnen en herhaalt zichzelf. Kort ze in en wissel lange en korte zinnen af. Vervang wollige formuleringen door gewone taal.\n\nLaat daarna iemand anders meelezen. Een frisse blik vangt fouten die jij mist. Pas daarna verstuur je het bericht naar de juiste redacties, met een korte persoonsgerichte mail erbij."
+  },
+  {
+   "heading": "Wat je beter zelf doet",
+   "body": "De nieuwswaarde en de strategie laat je aan jezelf. Bepaal eerst of het bericht echt iets toevoegt voor de ontvanger. Een ai kan dat niet inschatten.\n\nOok de relatie met journalisten bouw je zelf op. Een persbericht is een hulpmiddel, geen vervanging van contact. Bel een redactie na bij belangrijk nieuws en houd de lijst met ontvangers actueel.\n\nTot slot: citaten schrijf je zelf of laat je goedkeuren door de persoon in kwestie. Een ai verzint ze niet betrouwbaar, en een verkeerd citaat kost je geloofwaardigheid."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven en organisaties betekent dit vooral tijdwinst bij de eerste opzet, niet bij de eindverantwoordelijkheid. Je blijft zelf verantwoordelijk voor feiten en citaten. Let daarnaast op de AVG als je persoonsgegevens van journalisten of klanten in een ai-tool plakt.",
+ "faq": [
+  {
+   "q": "Kan ik een persbericht volledig door ai laten schrijven?",
+   "a": "Nee. Een ai maakt een bruikbare eerste versie, maar feiten, citaten en de afweging of iets nieuws is, moet je zelf aanleveren en controleren."
+  },
+  {
+   "q": "Welke ai-tool is het beste voor een persbericht?",
+   "a": "ChatGPT, Claude en Gemini kunnen alle drie een persbericht opzetten. Het verschil zit vooral in de prompt en in hoeveel feiten je meegeeft."
+  },
+  {
+   "q": "Mag ik zomaar een ai-tekst versturen naar de pers?",
+   "a": "Alleen na controle. Loop altijd namen, cijfers en citaten na en haal superlatieven eruit voordat je verstuurt."
+  },
+  {
+   "q": "Hoe lang moet een persbericht zijn?",
+   "a": "Houd het kort, meestal één tot twee pagina's. De lead bevat de kern, de rest geeft toelichting en contactgegevens."
+  }
+ ],
+ "slug": "persbericht-schrijven-met-ai-zo-pak-je-het-aan",
+ "kind": "evergreen",
+ "date": "2026-11-25",
+ "published": "2026-11-25T14:09",
+ "sources": [],
+ "path": "/uitleg/persbericht-schrijven-met-ai-zo-pak-je-het-aan/",
+ "og": "/img/og/persbericht-schrijven-met-ai-zo-pak-je-het-aan.png",
+ "seed": "Persbericht schrijven met ai"
+}

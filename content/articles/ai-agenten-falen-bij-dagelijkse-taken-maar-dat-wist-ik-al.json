@@ -1,0 +1,88 @@
+{
+ "keyword": "ai agent taken",
+ "seo_title": "AI-agenten falen bij dagelijkse taken: wat betekent dat?",
+ "title": "AI-agenten falen bij dagelijkse taken, maar dat wist ik al",
+ "meta": "Nieuwe benchmark toont dat AI-agenten dagelijkse taken niet betrouwbaar afronden. Maxim legt uit waarom autonomie overschat wordt en wat je wél met AI…",
+ "category": "mening",
+ "tags": [
+  "AI-agenten",
+  "benchmark",
+  "automatisering",
+  "ROI",
+  "praktijk"
+ ],
+ "intro": "Natuurlijk falen AI-agenten bij dagelijkse taken. Dat verbaast me niks. AI hoort niet los te staan op processen waar geld vanaf hangt. Een nieuwe benchmark bevestigt wat ik in de praktijk zie: zelfs de sterkste modellen ronden simpele klusjes niet betrouwbaar af. Soms maken ze er een grotere puinhoop van. De les is niet dat AI onbruikbaar is. De les is dat je het inzet voor taken die je kunt controleren en meten.",
+ "takeaways": [
+  "AI-agenten zijn nog niet betrouwbaar genoeg voor autonome taken met financiële impact.",
+  "Zelf bouwen met AI geeft meer controle dan kant-en-klare SaaS-agents.",
+  "Meten vóór optimaliseren: de meeste fouten komen door slechte data of koppelingen."
+ ],
+ "sections": [
+  {
+   "heading": "Autonoom klinkt leuk, maar ik wil controle",
+   "body": "Die benchmark bevestigt wat ik al jaren zie. AI-agenten die zelf taken uitvoeren, gaan regelmatig de mist in. Voor mij is dat geen nieuws. Budgetten aanpassen of campagnes aan- en uitzetten blijft mensenwerk. Die geldknoppen blijven bij een mens. Dat is geen angst voor AI. Het is gewoon gezond verstand.\n\nZelf tools bouwen met Claude Code geeft meer controle dan een dure SaaS-agent. Dan weet ik precies wat er gebeurt. Als er iets fout gaat, kan ik het script aanpassen. Bij een black box agent sta je machteloos. Dat is het verschil tussen een hamer en een robot die zelf timmert. De hamer doet precies wat ik wil."
+  },
+  {
+   "heading": "Meten voor je gaat automatiseren",
+   "body": "De meeste problemen die ik tegenkom, zijn meetfouten. Een nieuwe cookiebanner kan conversies laten verdwijnen. De afspraken komen wel binnen in de dataLayer, maar de tag manager vuurt geen conversie. Geen daling in vraag, een kapotte koppeling. Als je dan AI loslaat op optimalisatie, gaat het vol overtuiging de verkeerde kant op.\n\nDaarom meet ik eerst. Altijd. Pas als de data klopt, kan AI iets zinnigs doen. En dan nog houd ik de vinger aan de pols. Een AI-agent die zelfstandig campagnes bijstuurt op basis van foute data, kost je klauwen met geld."
+  },
+  {
+   "heading": "Waar AI wél werkt: voorspelbaarheid",
+   "body": "AI is dagelijks inzetbaar voor taken die je kunt controleren. Een ochtendanalyse van klantaccounts kan via Claude Code op een bestaand abonnement draaien. Geen extra kosten. DeepSeek is een goedkope terugval voor teksten en analyses. Dat werkt top, omdat ik de output kan checken voordat er iets mee gebeurt.\n\nAI is een stagiair die supersnel werkt. Je geeft duidelijke instructies, controleert het werk en laat het pas los als het bewezen goed is. Die benchmark bewijst dat die stagiair nog niet klaar is om zelfstandig te werken. Prima, dan behandel ik hem ook zo."
+  },
+  {
+   "heading": "De echte winst zit in lange termijn",
+   "body": "Oordelen op 30 dagen data is onverstandig. Altijd 12 tot 18 maanden en jaar-op-jaar. Bij een webshop met duizenden producten wilde iedereen de producten zonder conversies uitsluiten. Een hold-out test toonde: de set die we zouden uitsluiten haalde daarna een ROAS van 3,47, de set die we zouden houden 2,84. 89% van de latere top-50 verkocht pas in de laatste 12 maanden. Die 'top-100 levert 87% van de omzet' bleek survivorship bias.\n\nEen AI-agent die snel optimaliseert op korte termijn, had die producten eruit gegooid. En dan was je omzet gedaald. AI is goed in rekenen, maar niet in het zien van lange termijn patronen. Dat blijft mensenwerk."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ondernemers: laat AI niet los op taken waar je geen controle over hebt. Begin met automatiseringen die je zelf kunt bouwen en testen, zoals rapportages of data-analyse. Meet eerst je conversies goed, want een kapotte koppeling is geen vraaguitval. En onthoud: AI is een stagiair, geen directeur. Geef hem taken die je kunt controleren, en houd de geldknoppen bij jezelf.",
+ "faq": [
+  {
+   "q": "Waarom falen AI-agenten bij dagelijkse taken?",
+   "a": "AI-modellen zijn nog niet betrouwbaar genoeg voor autonome taken. Ze missen context en kunnen onverwachte fouten maken, vooral bij taken met meerdere stappen."
+  },
+  {
+   "q": "Hoe zet ik AI dan wél effectief in?",
+   "a": "Geef AI taken die je kunt controleren en meten, zoals data-analyse of tekstgeneratie. Houd budgetten en campagnes bij een mens. Bouw liever je eigen tools met Claude Code dan een dure SaaS-agent."
+  }
+ ],
+ "lessons_used": [
+  "les cookiebanner-brak-conversies",
+  "les claude-code-abonnement",
+  "les longtail-niet-snoeien"
+ ],
+ "slug": "ai-agenten-falen-bij-dagelijkse-taken-maar-dat-wist-ik-al",
+ "kind": "column",
+ "date": "2026-11-25",
+ "published": "2026-11-25T14:09",
+ "sources": [
+  {
+   "name": "ChatGPT Help",
+   "title": "Meta zet AI-assistent Muse direct in Instagram-dm's",
+   "url": "https://chatgpthelp.nl/nieuws/meta-zet-ai-assistent-muse-direct-in-instagram-dm-s/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "David Fincher onder vuur om mogelijk AI-gebruik in nieuwe film",
+   "url": "https://chatgpthelp.nl/nieuws/david-fincher-onder-vuur-om-mogelijk-ai-gebruik-in-nieuwe-film/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "AI doet natuurkundige berekeningen: wat betekent dat voor fysici?",
+   "url": "https://chatgpthelp.nl/nieuws/ai-doet-natuurkundige-berekeningen-wat-betekent-dat-voor-fysici/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Anthropic aandelen zakken onder ipo-prijs: signaal voor ai-startups",
+   "url": "https://chatgpthelp.nl/nieuws/anthropic-aandelen-zakken-onder-ipo-prijs-signaal-voor-ai-startups/"
+  },
+  {
+   "name": "ChatGPT Help",
+   "title": "Maple haalt $5,3 miljoen op voor AI die jouw data afschermt",
+   "url": "https://chatgpthelp.nl/nieuws/maple-haalt-5-3-miljoen-op-voor-ai-die-jouw-data-afschermt/"
+  }
+ ],
+ "path": "/mening/ai-agenten-falen-bij-dagelijkse-taken-maar-dat-wist-ik-al/",
+ "og": "/img/og/ai-agenten-falen-bij-dagelijkse-taken-maar-dat-wist-ik-al.png",
+ "author": "Maxim"
+}

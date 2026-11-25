@@ -38,7 +38,10 @@
   "Les juni-doorbraak-schalen",
   "Les deepseek-denken-uit",
   "gbp-resultaat",
-  "deepseek-denken-uit"
+  "deepseek-denken-uit",
+  "les cookiebanner-brak-conversies",
+  "les claude-code-abonnement",
+  "les longtail-niet-snoeien"
  ],
  "tools": [
   "Claude Code (Anthropic)",
@@ -63,6 +66,7 @@
   "apple-laat-je-betalen-voor-ai-gebruik-daar-trap-ik-niet-in",
   "waarom-je-mail-in-spam-belandt-check-je-dmarc",
   "revolut-claimt-30-60-sneller-coderen-met-codex-mooi-maar",
-  "deepseek-denken-uitzetten-lost-lege-antwoorden-op"
+  "deepseek-denken-uitzetten-lost-lege-antwoorden-op",
+  "ai-agenten-falen-bij-dagelijkse-taken-maar-dat-wist-ik-al"
  ]
 }
