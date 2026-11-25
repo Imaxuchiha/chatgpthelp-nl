@@ -3631,12 +3631,37 @@
   "03938f50d2": {
    "at": "2026-11-25T14:11:07.465530",
    "why": "ok"
+  },
+  "e1845ee0b5": {
+   "at": "2026-11-25T21:37:10.857914",
+   "why": "ok"
+  },
+  "28175a595e": {
+   "at": "2026-11-25T21:37:10.857914",
+   "why": "ok"
+  },
+  "ac0f642213": {
+   "at": "2026-11-25T21:38:10.857914",
+   "why": "poort"
+  },
+  "4c44ce3014": {
+   "at": "2026-11-25T21:38:10.857914",
+   "why": "poort"
+  },
+  "372ac89133": {
+   "at": "2026-11-25T21:38:10.857914",
+   "why": "poort"
+  },
+  "c2211ba4f6": {
+   "at": "2026-11-25T21:38:10.857914",
+   "why": "ok"
+  },
+  "6359c2ce09": {
+   "at": "2026-11-25T21:39:10.857914",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "Crusoe haalt 3,9 miljard dollar op voor AI-datacenters",
-  "Google DeepMind start instituut voor breder AGI-debat",
-  "Onderzoekers hacken OpenAI met Claude: wat betekent dit?",
   "AI existentieel risico: wat klopt er van de angst voor AI?",
   "Zweedse AI-drones kiezen zelf doelwit: wat betekent dit?",
   "Amodei wil tempo AI-ontwikkeling afremmen: 'pace the frontier'",
@@ -4233,6 +4258,9 @@
   "Anthropic aandelen zakken onder ipo-prijs: signaal voor ai-startups",
   "AI doet natuurkundige berekeningen: wat betekent dat voor fysici?",
   "David Fincher onder vuur om mogelijk AI-gebruik in nieuwe film",
-  "Meta zet AI-assistent Muse direct in Instagram-dm's"
+  "Meta zet AI-assistent Muse direct in Instagram-dm's",
+  "Amazon en Meta praten over Muse AI op het platform",
+  "New York verbiedt ai speelgoed met chatbot voor kinderen",
+  "SpaceX mag datacenters in de ruimte bouwen: FCC keurt Starmind goed"
  ]
 }

@@ -1,0 +1,65 @@
+{
+ "keyword": "spacex datacenters in de ruimte",
+ "seo_title": "SpaceX datacenters in de ruimte: FCC geeft groen licht",
+ "title": "SpaceX mag datacenters in de ruimte bouwen: FCC keurt Starmind goed",
+ "meta": "De FCC staat SpaceX toe tot 1 miljoen AI-satellieten te lanceren voor datacenters in de ruimte. Wat betekent dat voor Nederland en de ruimtevaart?",
+ "category": "nieuws",
+ "tags": [
+  "spacex",
+  "fcc",
+  "datacenters",
+  "ruimtevaart",
+  "ai",
+  "starmind"
+ ],
+ "intro": "SpaceX heeft toestemming gekregen om tot 1 miljoen satellieten met AI-chips in een baan om de aarde te brengen. De Amerikaanse toezichthouder FCC keurde het plan woensdag goed. Het is de eerste keer dat zo'n vergunning wordt afgegeven voor datacenters in de ruimte.",
+ "takeaways": [
+  "De FCC machtigt SpaceX voor maximaal 1 miljoen AI-satellieten binnen het project Starmind.",
+  "Het is de eerste goedkeuring voor datacenters in de ruimte; Google en Blue Origin werken ook aan plannen.",
+  "SpaceX is eigendom van Elon Musk.",
+  "De vergunning gaat over het aantal satellieten, niet over een lanceerdatum."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de FCC precies goedkeurt",
+   "body": "De Federal Communications Commission is de Amerikaanse toezichthouder op telecom en radiospectrum. Woensdag maakte de instantie bekend dat SpaceX zijn Starmind-project mag uitvoeren met maximaal 1 miljoen satellieten. Die toestellen krijgen AI-chips aan boord en moeten samen rekenkracht leveren vanuit de ruimte.\n\nVolgens The Verge is dit de eerste vergunning die de FCC afgeeft voor dit soort ruimtedatacenters. Andere partijen onderzoeken het idee ook. Google en Blue Origin hebben plannen in die richting, maar liggen achter op SpaceX.\n\nOver de lanceringen zelf zegt de vergunning weinig. Wanneer de eerste Starmind-satellieten omhoog gaan en wat het project kost, is nog niet bekend."
+  },
+  {
+   "heading": "Waarom rekenkracht in de ruimte",
+   "body": "Datacenters op aarde gebruiken veel stroom en water voor koeling. In de ruimte is het koud en valt zonne-energie ruim voorhanden. Dat maakt de ruimte voor sommige bedrijven aantrekkelijk als plek voor zware berekeningen.\n\nEen miljoen satellieten is een enorme schaal. Ter vergelijking: het huidige Starlink-netwerk van SpaceX telt duizenden satellieten. Of Starmind ooit op die omvang komt, hangt af van techniek, geld en lanceercapaciteit.\n\nOok het opruimen van satellieten aan het einde van hun leven wordt een vraagstuk. De FCC stelt eisen aan het verwijderen van uitgewerkte toestellen uit hun baan."
+  },
+  {
+   "heading": "Andere spelers op dezelfde markt",
+   "body": "Google en Blue Origin zijn niet de enige partijen met interesse. Wereldwijd kijken meer technologiebedrijven naar rekenkracht buiten de dampkring. De goedkeuring voor SpaceX kan de wedloop versnellen.\n\nVoor Europese bedrijven is de drempel hoger. Lanceercapaciteit en vergunningen liggen vaak bij nationale en Europese instanties. Een vergunning van de FCC geldt alleen voor de Amerikaanse markt en het Amerikaanse spectrum."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders verandert er op korte termijn weinig in het dagelijks leven. De vergunning is Amerikaans en zegt niets over Europese toelating of over de prijs van clouddiensten hier. Wel relevant: als ruimtedatacenters echt van de grond komen, kan dat de vraag naar lanceercapaciteit en naar schaarse frequentieruimte opstuwen. Europese toezichthouders zoals de ITU en nationale telecomautoriteiten krijgen dan meer aanvragen te beoordelen. Bedrijven die AI-rekenkracht afnemen, merken daar pas op langere termijn iets van. Concrete tarieven of Nederlandse beschikbaarheid zijn nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is Starmind van SpaceX?",
+   "a": "Starmind is de naam van het plan van SpaceX om satellieten met AI-chips in een baan om de aarde te brengen. Die moeten samen datacenters in de ruimte vormen."
+  },
+  {
+   "q": "Hoeveel satellieten mag SpaceX lanceren?",
+   "a": "De FCC staat maximaal 1 miljoen satellieten toe binnen dit project. Een lanceerschema is nog niet bekendgemaakt."
+  },
+  {
+   "q": "Kunnen Nederlanders binnenkort ruimtedatacenters gebruiken?",
+   "a": "Daar is nog niets over bekend. De vergunning is Amerikaans en er zijn geen Europese of Nederlandse toelatingen gemeld."
+  }
+ ],
+ "slug": "spacex-mag-datacenters-in-de-ruimte-bouwen-fcc-keurt-starmind-goed",
+ "kind": "news",
+ "date": "2026-11-25",
+ "published": "2026-11-25T21:39",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+   "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+  }
+ ],
+ "path": "/nieuws/spacex-mag-datacenters-in-de-ruimte-bouwen-fcc-keurt-starmind-goed/",
+ "og": "/img/og/spacex-mag-datacenters-in-de-ruimte-bouwen-fcc-keurt-starmind-goed.png",
+ "take": "Een miljoen AI-satellieten klinkt indrukwekkend, maar een vergunning van de FCC is nog geen datacenter dat stroom levert. Ik geloof pas in zoiets als er maandenlang echte rekeningen vanaf komen. Tot dan gaat mijn geld naar spullen die ik zelf kan draaien en die zich meteen terugverdienen."
+}
