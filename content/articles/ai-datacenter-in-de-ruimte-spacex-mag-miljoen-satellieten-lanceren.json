@@ -1,0 +1,68 @@
+{
+ "keyword": "ai-datacenter in de ruimte",
+ "seo_title": "AI-datacenter in de ruimte: SpaceX krijgt groen licht",
+ "title": "AI-datacenter in de ruimte: SpaceX mag miljoen satellieten lanceren",
+ "meta": "De FCC geeft SpaceX groen licht voor Starmind: een miljoen satellieten als AI-datacenter. Wat vinden experts ervan en wat merkt Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "spacex",
+  "starmind",
+  "satellieten",
+  "ai-datacenter",
+  "fcc"
+ ],
+ "intro": "De Amerikaanse telecomtoezichthouder FCC heeft woensdag toestemming gegeven voor Starmind. SpaceX mag daarvoor een miljoen satellieten lanceren die samen als datacenter voor kunstmatige intelligentie werken. Ruimtevaartingenieur Jasper Bouwmeester noemt het technisch haalbaar, maar twijfelt of het ooit loont.",
+ "takeaways": [
+  "De FCC gaf woensdag groen licht voor het Starmind-project van SpaceX.",
+  "Het project draait om een miljoen satellieten die samen AI-berekeningen uitvoeren.",
+  "Jasper Bouwmeester van de TU Delft betwijfelt of het project rendabel wordt.",
+  "Sterrenkundige Reynier Peletier vreest schade aan de nachthemel en de ozonlaag."
+ ],
+ "sections": [
+  {
+   "heading": "Een miljoen satellieten als computer",
+   "body": "SpaceX wil met Starmind een datacenter in de ruimte bouwen. Een miljoen satellieten moeten samen het rekenwerk voor AI uitvoeren. De FCC heeft dat plan woensdag goedgekeurd, meldt Bright.\n\nDaarmee is de belangrijkste Amerikaanse hindernis weg. Of de satellieten er ook echt komen, is een tweede vraag. Het project hangt af van geld, techniek en politieke keuzes in de komende jaren."
+  },
+  {
+   "heading": "Technisch kan het, zegt de ingenieur",
+   "body": "Ruimtevaartingenieur Jasper Bouwmeester van de TU Delft noemt het plan technisch haalbaar. Toch betwijfelt hij sterk of het ooit wat oplevert. Zijn scepsis gaat over de kosten en het rendement, niet over de vraag of zoiets te bouwen is.\n\nDat onderscheid is belangrijk. Een miljoen satellieten bouwen en lanceren kost veel geld. Of AI-berekeningen in de ruimte dat bedrag ooit terugverdienen, is nog niet bekend."
+  },
+  {
+   "heading": "Zorgen om de nachthemel en de ozonlaag",
+   "body": "Sterrenkundige Reynier Peletier van de Rijksuniversiteit Groningen kijkt met andere ogen naar het plan. Hij vreest voor de nachthemel. Al die satellieten kunnen het zicht op sterren verstoren, wat het werk van sterrenwachten raakt.\n\nOok de ozonlaag baart hem zorgen. Bij het vergaan van satellieten in de atmosfeer komen stoffen vrij die daar invloed op kunnen hebben. Hoe groot dat effect bij een miljoen satellieten is, staat niet in de bronnen."
+  },
+  {
+   "heading": "De vraag achter het plan",
+   "body": "Bright sprak met experts die duidelijk geen voorstander zijn. Een van hen vat de twijfel samen in één zin: als mensheid zouden we dit niet moeten willen. Dat is een ethische vraag, geen technische.\n\nDe kern is simpel. Meer rekenkracht voor AI vraagt om veel ruimte en energie. SpaceX zoekt die ruimte nu boven de aarde. Of dat verstandig is, bepalen uiteindelijk toezichthouders en politici, niet de techniek."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders verandert er vandaag weinig in de praktijk. De FCC is een Amerikaanse toezichthouder, dus de Europese Unie en de Nederlandse overheid hebben hier geen directe zeggenschap over. Wel kan een miljoen extra satellieten op termijn de nachthemel boven Nederland raken. Dat is relevant voor sterrenwachten en voor iedereen die 's avonds graag sterren kijkt. Of Starmind echt doorgaat en wat dat betekent voor de ozonlaag, is nog niet bekend.",
+ "faq": [
+  {
+   "q": "Wat is Starmind van SpaceX?",
+   "a": "Starmind is een plan van SpaceX voor een datacenter in de ruimte. Een miljoen satellieten moeten samen AI-berekeningen uitvoeren. De FCC gaf woensdag toestemming voor het project."
+  },
+  {
+   "q": "Waarom zijn experts tegen een AI-datacenter in de ruimte?",
+   "a": "Ruimtevaartingenieur Jasper Bouwmeester betwijfelt of het project ooit geld oplevert. Sterrenkundige Reynier Peletier vreest schade aan de nachthemel en de ozonlaag."
+  },
+  {
+   "q": "Merken we in Nederland iets van Starmind?",
+   "a": "De Nederlandse overheid gaat er niet over, want de vergunning komt van de Amerikaanse FCC. Wel kunnen extra satellieten op termijn de nachthemel boven Nederland veranderen. Concrete gevolgen zijn nog niet bekend."
+  }
+ ],
+ "slug": "ai-datacenter-in-de-ruimte-spacex-mag-miljoen-satellieten-lanceren",
+ "kind": "news",
+ "date": "2026-11-26",
+ "published": "2026-11-26T21:29",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "AI-datacenters in de ruimte? “Als mensheid zouden we dit niet moeten willen”",
+   "url": "https://www.bright.nl/plusplus/2163297/ai-datacenters-in-de-ruimte-als-mensheid-zouden-we-dit-niet-moeten-willen.html"
+  }
+ ],
+ "path": "/nieuws/ai-datacenter-in-de-ruimte-spacex-mag-miljoen-satellieten-lanceren/",
+ "og": "/img/og/ai-datacenter-in-de-ruimte-spacex-mag-miljoen-satellieten-lanceren.png",
+ "take": "Een miljoen satellieten als datacenter, dat is een demo op papier en nog lang geen product. Bouwers beloven altijd veel, en de rekening komt later bij iemand die stroom en een vergunning moet regelen. Ik benoem bij mijn eigen tools eerlijk wat niet werkte, en dat verwacht ik hier ook voordat ik er één euro op inzet."
+}

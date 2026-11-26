@@ -3691,12 +3691,25 @@
   "c0f2de19f0": {
    "at": "2026-11-26T13:51:16.734554",
    "why": "ok"
+  },
+  "7e997a9e66": {
+   "at": "2026-11-26T21:29:49.484991",
+   "why": "ok"
+  },
+  "3cc3d8fc17": {
+   "at": "2026-11-26T21:30:49.484991",
+   "why": "poort"
+  },
+  "3f1dd976a2": {
+   "at": "2026-11-26T21:30:49.484991",
+   "why": "ok"
+  },
+  "f6730ac844": {
+   "at": "2026-11-26T21:31:49.484991",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "OpenAI komt met blauwdruk voor AI jeugd veiligheid",
-  "Vantora haalt 100 miljoen op voor fysieke AI startups",
-  "Anthropic overweegt nieuw model ondanks eerdere rem op AI",
   "AI-regulering: de strijd binnen de sector is nog niet voorbij",
   "Vals AI wil de gouden standaard voor AI benchmarks worden",
   "Disney stelt voor het eerst een chief technology officer aan",
@@ -4293,6 +4306,9 @@
   "Nothing Ear Note: AI-oordopjes met opnamecase komen 8 december",
   "AI-gebruik bij Nederlandse bedrijven in een jaar verdubbeld naar 41 procent",
   "Audi brengt Outlook en Teams met spraak naar de auto",
-  "Character.AI faillissement: staten willen verkoop chatgeschiedenis stoppen"
+  "Character.AI faillissement: staten willen verkoop chatgeschiedenis stoppen",
+  "AI-datacenter in de ruimte: SpaceX mag miljoen satellieten lanceren",
+  "ChatGPT-limiet: OpenAI herstelt fout, je zit sneller aan je maximum",
+  "AI datacenters bouwen wordt lastiger: neoclouds voelen de druk"
  ]
 }

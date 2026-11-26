@@ -1,0 +1,69 @@
+{
+ "keyword": "ai datacenters bouwen",
+ "seo_title": "AI datacenters bouwen wordt duurder en trager",
+ "title": "AI datacenters bouwen wordt lastiger: neoclouds voelen de druk",
+ "meta": "AI datacenters bouwen wordt duurder en trager. Nvidia steunt pas laat, neoclouds kampen met vertraging en duurdere leningen. Wat betekent dat voor…",
+ "category": "nieuws",
+ "tags": [
+  "ai datacenters",
+  "nvidia",
+  "neoclouds",
+  "rekenkracht",
+  "datacenter nederland"
+ ],
+ "intro": "Het bouwen van AI datacenters stuit op meer weerstand dan een jaar geleden. Nvidia wil pas bijspringen als een datacenter bijna draait, meldt TechCrunch. Tegelijk kampen zogeheten neoclouds met bouwvertragingen en duurdere leningen. Voor ontwikkelaars telt vooral grond, stroom en een afgebouwd gebouw.",
+ "takeaways": [
+  "Nvidia steunt een AI datacenter pas als het bijna klaar is om te draaien, meldt TechCrunch.",
+  "Neoclouds, gespecialiseerde cloudaanbieders voor AI-rekenkracht, melden bouwvertragingen en duurdere schulden.",
+  "Volgens TechCrunch wegen grond, stroom en een opgeleverd gebouw zwaarder dan een goed verhaal.",
+  "Anita Verma-Lallian verkoopt grond en locaties aan partijen die datacentercapaciteit zoeken."
+ ],
+ "sections": [
+  {
+   "heading": "Nvidia wacht tot het gebouw er staat",
+   "body": "TechCrunch meldt dat Nvidia duidelijk heeft gemaakt niet garant te staan voor een AI datacenter voordat het bijna klaar is om te draaien. Dat verandert de volgorde in de sector. Een plan op papier levert steeds minder op.\n\nVoor ontwikkelaars betekent het dat grond, een stroomaansluiting en een afgebouwd gebouw zwaarder wegen dan een presentatie. Wie die zaken niet op orde heeft, krijgt lastiger financiering rond."
+  },
+  {
+   "heading": "Neoclouds betalen meer voor hun geld",
+   "body": "Neoclouds zijn cloudaanbieders die zich richten op rekenkracht voor AI. Zij melden bouwvertragingen en duurdere schulden, aldus TechCrunch. De combinatie van trage bouw en hogere rente zet hun planning onder druk.\n\nEen neocloud huurt of koopt rekenkracht en verkoopt die door aan AI-bedrijven. Zulke partijen leunen vaak op geleend geld om snel capaciteit bij te bouwen. Wordt lenen duurder, dan schuift de rekening door naar de klant of naar de investeerder."
+  },
+  {
+   "heading": "Grond en stroom worden het echte product",
+   "body": "TechCrunch noemt Anita Verma-Lallian als voorbeeld van iemand die precies dat verkoopt. Zij verkoopt grond en locaties aan partijen die een datacenter willen neerzetten. Haar boodschap aan ontwikkelaars: kom met een plek waar stroom en bouw mogelijk zijn.\n\nDat past bij een bredere verschuiving. De aandacht gaat van software en beloftes naar hectares, vergunningen en netcapaciteit. Een datacenter voor AI vraagt veel stroom, koeling en een stevige aansluiting op het elektriciteitsnet."
+  },
+  {
+   "heading": "Wat dit zegt over de ai-markt",
+   "body": "De groei van AI hangt af van rekenkracht. Als datacenters later klaar zijn, komt die capaciteit trager beschikbaar. TechCrunch schetst geen oplossing en noemt geen concrete cijfers over de omvang van de vertraging.\n\nDuidelijk is wel dat de onderhandelingspositie verschuift. Partijen met een bestaand gebouw en een stroomcontract hebben meer te bieden dan partijen met alleen een plan. Dat maakt de markt voor datacenterruimte krapper en duurder."
+  }
+ ],
+ "nl_angle": "Nederland is een populaire plek voor datacenters, met name rond Amsterdam en in de Eemshaven. Stroom is hier schaars: netbeheerders hebben wachtlijsten voor grote aansluitingen. Bouwers van AI datacenters krijgen daardoor met dezelfde problemen te maken als in de Verenigde Staten, soms eerder. Voor bedrijven die AI willen draaien, kan het lastiger en duurder worden om rekenkracht in eigen land te regelen. Wie afhankelijk is van een neocloud, merkt mogelijk meer vertraging of een hogere prijs. Het is nog niet bekend welke Nederlandse projecten concreet vertraging oplopen.",
+ "faq": [
+  {
+   "q": "wat is een neocloud?",
+   "a": "Een neocloud is een cloudaanbieder die zich richt op rekenkracht voor AI, vaak met videokaarten van Nvidia. Zulke bedrijven huren of bouwen datacenters en verkopen de capaciteit door."
+  },
+  {
+   "q": "waarom is een ai datacenter bouwen zo lastig?",
+   "a": "Er is veel stroom, koeling en een stevige netaansluiting nodig. Volgens TechCrunch kampen neoclouds met bouwvertragingen en duurdere leningen, en steunt Nvidia pas als het gebouw bijna klaar is."
+  },
+  {
+   "q": "merken bedrijven in nederland hier iets van?",
+   "a": "Mogelijk wel. Stroomaansluitingen zijn in Nederland schaars en de wachtlijsten zijn lang. Daardoor kan AI-rekenkracht hier duurder of later beschikbaar komen, al is nog niet bekend welke projecten vertraging oplopen."
+  }
+ ],
+ "sections_note": null,
+ "slug": "ai-datacenters-bouwen-wordt-lastiger-neoclouds-voelen-de-druk",
+ "kind": "news",
+ "date": "2026-11-26",
+ "published": "2026-11-26T21:31",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+   "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/"
+  }
+ ],
+ "path": "/nieuws/ai-datacenters-bouwen-wordt-lastiger-neoclouds-voelen-de-druk/",
+ "og": "/img/og/ai-datacenters-bouwen-wordt-lastiger-neoclouds-voelen-de-druk.png",
+ "take": "Nvidia komt pas helpen als het gebouw bijna staat, dus het risico ligt in de bouwfase bij de ontwikkelaar. Dat is geen AI-probleem maar een financieringsprobleem, en voor mij verandert er niks aan mijn toets: eerst kijken wat een euro aan rekenkracht terugverdient voordat ik erin geloof. Mijn eigen regel blijft meten voor je iets optimaliseert, en dat geldt bij stroom en grond net zo goed als bij advertentiedata."
+}

@@ -1,59 +1,5 @@
 [
  {
-  "at": "2026-10-21T10:42:15",
-  "slug": "",
-  "title": "GPT-6.1 beoordeelt beleggingen: Terminal X haalt 88,6% van senior oordeel",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S4",
-   "S6",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-21T10:42:24",
-  "slug": "",
-  "title": "Netflix-documentaire over OpenAI-hack klopt niet, zegt Hugging Face",
-  "kind": "news",
-  "rood": [
-   "S4",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-21T10:42:58",
-  "slug": "",
-  "title": "ChatGPT nieuws: waar vind je betrouwbare updates?",
-  "kind": "evergreen",
-  "rood": [
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-21T10:43:27",
-  "slug": "",
-  "title": "DeepSeek verbod VS: paniek of gewoon politiek?",
-  "kind": "column",
-  "rood": [
-   "S10",
-   "S4",
-   "S5",
-   "S6",
-   "S8"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-21T10:43:44",
   "slug": "",
   "title": "DeepSeek verbod VS: paniek of gewoon politiek?",
@@ -6413,6 +6359,56 @@
   "rood": [
    "S10",
    "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-26T21:30:02",
+  "slug": "",
+  "title": "AI-datacenter in de ruimte: SpaceX mag miljoen satellieten lanceren",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-26T21:30:11",
+  "slug": "",
+  "title": "AI lost 49 van 50 openstaande natuurkundeproblemen op",
+  "kind": "news",
+  "rood": [
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-26T21:30:19",
+  "slug": "",
+  "title": "ChatGPT-limiet: OpenAI herstelt fout, je zit sneller aan je maximum",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S8"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-26T21:30:29",
+  "slug": "",
+  "title": "AI datacenters bouwen wordt lastiger: neoclouds voelen de druk",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S8",
+   "S9"
   ],
   "andere_fouten": 0,
   "stand": "meten"
