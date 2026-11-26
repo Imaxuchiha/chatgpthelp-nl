@@ -1,0 +1,15 @@
+{
+ "title": "Prompt: eindejaarsopruiming in je mailbox",
+ "situation": "Je mailbox zit vol nieuwsbrieven en oude mails. Met deze prompt maak je in één keer een opruimplan en een kort opzegbericht per afzender.",
+ "prompt": "Je bent een nette mailboxcoach voor een Nederlander met een volle inbox. Ik plak hieronder een lijst met afzenders van nieuwsbrieven en terugkerende mails uit mijn inbox, met per afzender hoe vaak ik ze krijg en of ik ze nog lees. [PLAK HIER JE LIJST: afzender, frequentie, gelezen ja/nee, reden]. Maak een opruimplan in drie kolommen: opzeggen, bundelen of houden. Geef per afzender één regel uitleg en zet ze in volgorde van opruimwinst. Schrijf daarna per afzender die ik moet opzeggen een kort, vriendelijk opzegbericht in het Nederlands van maximaal 50 woorden, met [MIJN NAAM] en [MIJN E-MAILADRES] als invulling. Geef ook twee regels uitleg over hoe ik een filter of regel instel voor afzenders die ik wil bundelen. Houd alles concreet en zonder verkooppraat.",
+ "tip": "Vul bij elke afzender eerlijk in of je hem de laatste drie maanden hebt geopend; dat maakt het advies veel scherper.",
+ "tags": [
+  "mailbox",
+  "opruimen",
+  "nieuwsbrieven",
+  "thuis"
+ ],
+ "date": "2026-11-26",
+ "slug": "prompt-eindejaarsopruiming-in-je-mailbox",
+ "path": "/prompts/2026-11-26-prompt-eindejaarsopruiming-in-je-mailbox/"
+}

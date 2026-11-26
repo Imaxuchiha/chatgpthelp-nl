@@ -1,0 +1,68 @@
+{
+ "keyword": "character.ai privéchats",
+ "seo_title": "Character.ai privéchats: staten VS vechten verkoop aan",
+ "title": "Character.ai privéchats: Amerikaanse staten vechten verkoop aan",
+ "meta": "Amerikaanse staten verzetten zich tegen de verkoop van Character.ai, inclusief privéchats van 21 miljoen accounts. Wat betekent dat voor gebruikers?",
+ "category": "nieuws",
+ "tags": [
+  "character.ai",
+  "privacy",
+  "ai-chatbots",
+  "vs",
+  "dataverkoop"
+ ],
+ "intro": "De voorgestelde doorverkoop van Character.ai stuit op verzet van meerdere Amerikaanse staten. De verkoop omvat gevoelige persoonsgegevens van ruim 21 miljoen Amerikaanse accounts, waaronder 2,1 miljoen van minderjarigen. De staten vinden dat privégesprekken niet zomaar mee verkocht mogen worden.",
+ "takeaways": [
+  "De verkoop van Character.ai bevat privéchats van meer dan 21 miljoen Amerikaanse accounts.",
+  "Daarvan zijn 2,1 miljoen accounts geregistreerd door minderjarigen.",
+  "Meerdere Amerikaanse staten hebben bezwaar aangetekend tegen de veiling van die data.",
+  "Het is nog niet bekend of en wanneer de verkoop doorgaat."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er op tafel ligt",
+   "body": "Character.ai is een dienst waar je gesprekken voert met zelfgemaakte AI-personages. Het bedrijf zit in een faillissementsprocedure en wil zijn bezittingen verkopen. Volgens TechCrunch omvat die verkoop ook privégesprekken van gebruikers.\n\nHet gaat om data van meer dan 21 miljoen Amerikaanse accounts. Ruim 2,1 miljoen daarvan staan op naam van minderjarigen. De staten die bezwaar maken, noemen die gegevens gevoelig en persoonlijk.\n\nDe kern van het conflict is simpel: mag een bedrijf in financiële problemen de gesprekken van zijn gebruikers als handelswaar inzetten? De staten vinden van niet zonder meer."
+  },
+  {
+   "heading": "Waarom staten ingrijpen",
+   "body": "De Amerikaanse staten treden op als toezichthouder op consumentenbescherming. Zij stellen dat gebruikers hun chats deelden in de verwachting dat die privé bleven. Bij een veiling verdwijnt die verwachting.\n\nOpvallend is het aandeel minderjarigen. Ouders gaven vaak geen toestemming voor doorverkoop van gesprekken van hun kinderen. De staten noemen dat een extra reden om de verkoop tegen te houden.\n\nHoe groot het verzet precies is en welke staten meedoen, maakt TechCrunch niet volledig duidelijk. Ook is nog niet bekend hoe de rechter hierover oordeelt."
+  },
+  {
+   "heading": "Wat dit zegt over AI-gesprekken",
+   "body": "Veel mensen zien een chat met een AI-personage als iets persoonlijks. In de voorwaarden staat vaak iets anders. Bedrijven bewaren gesprekken en kunnen die in sommige gevallen overdragen bij een verkoop of faillissement.\n\nDeze zaak maakt dat concreet. Wat je typt tegen een chatbot, kan onderdeel worden van een zakelijke transactie. Voor gebruikers in Europa geldt de AVG, die strengere regels stelt aan het doorgeven van persoonsgegevens. Toch is duidelijk dat de opslag zelf het risico vormt."
+  },
+  {
+   "heading": "Wat er nu gebeurt",
+   "body": "De verkoop ligt voorlopig stil door het verzet van de staten. Het is nog niet bekend wanneer er een beslissing valt. Character.ai heeft nog niet publiek gereageerd op de bezwaren, voor zover bekend uit de bronnen.\n\nVoor gebruikers verandert er op korte termijn weinig aan de dienst zelf. Wel is het verstandig om na te denken over wat je in een chatbot typt. Gevoelige informatie hoeft daar niet in."
+  }
+ ],
+ "nl_angle": "Voor gebruikers in Nederland en de EU is deze zaak een waarschuwing. De AVG beperkt wat bedrijven met jouw gegevens mogen doen, ook bij een faillissement. Maar de vraag of een curator jouw chatgeschiedenis mag verkopen, is nog niet uitgekristalliseerd. Wie Character.ai of vergelijkbare diensten gebruikt, doet er goed aan geen namen, adressen of medische details in gesprekken te zetten. Bedrijven die met zulke tools werken, moeten hun dataverwerking tegen het licht houden.",
+ "faq": [
+  {
+   "q": "Worden mijn Character.ai-gesprekken verkocht?",
+   "a": "Dat is nog niet zeker. De verkoop is voorgesteld en omvat privéchats van Amerikaanse accounts, maar Amerikaanse staten vechten die verkoop aan. Een beslissing is nog niet bekend."
+  },
+  {
+   "q": "Geldt dit ook voor gebruikers in Nederland?",
+   "a": "De zaak speelt in de Verenigde Staten. Voor Nederlandse gebruikers geldt de AVG, die strengere eisen stelt aan het doorgeven van persoonsgegevens. Of de verkoop Europese data raakt, is niet duidelijk uit de bronnen."
+  },
+  {
+   "q": "Wat kan ik zelf doen om mijn chats te beschermen?",
+   "a": "Deel geen gevoelige persoonsgegevens in gesprekken met een chatbot. Denk aan namen, adressen en medische informatie. Zo beperk je wat er vastligt als een dienst zijn data doorverkoopt."
+  }
+ ],
+ "slug": "character-ai-privechats-amerikaanse-staten-vechten-verkoop-aan",
+ "kind": "news",
+ "date": "2026-11-26",
+ "published": "2026-11-26T01:13",
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+  }
+ ],
+ "path": "/nieuws/character-ai-privechats-amerikaanse-staten-vechten-verkoop-aan/",
+ "og": "/img/og/character-ai-privechats-amerikaanse-staten-vechten-verkoop-aan.png",
+ "take": "Ik verkoop geen gesprekken van mijn klanten door, ook niet als er een mooi bedrag tegenover staat. Bij Character.ai gaat het om privéchats van 21 miljoen Amerikaanse accounts, waarvan 2,1 miljoen van minderjarigen. Wie zulke data als verkoopwaar ziet, snapt niet dat vertrouwen de basis is van elk product dat je bouwt."
+}

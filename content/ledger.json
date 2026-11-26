@@ -3659,12 +3659,21 @@
   "6359c2ce09": {
    "at": "2026-11-25T21:39:10.857914",
    "why": "ok"
+  },
+  "ceecf9e348": {
+   "at": "2026-11-26T01:12:22.480580",
+   "why": "ok"
+  },
+  "9241987731": {
+   "at": "2026-11-26T01:13:22.480580",
+   "why": "ok"
+  },
+  "6b1c4ab3d0": {
+   "at": "2026-11-26T01:14:22.480580",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "AI existentieel risico: wat klopt er van de angst voor AI?",
-  "Zweedse AI-drones kiezen zelf doelwit: wat betekent dit?",
-  "Amodei wil tempo AI-ontwikkeling afremmen: 'pace the frontier'",
   "Jev: nieuw AI-model van een ChatGPT-bedenker",
   "Gouverneur Virginia grijpt in bij datacenters en AI",
   "AI-verfilming van de Odyssee valt door de mand: wat leren we ervan?",
@@ -4261,6 +4270,9 @@
   "Meta zet AI-assistent Muse direct in Instagram-dm's",
   "Amazon en Meta praten over Muse AI op het platform",
   "New York verbiedt ai speelgoed met chatbot voor kinderen",
-  "SpaceX mag datacenters in de ruimte bouwen: FCC keurt Starmind goed"
+  "SpaceX mag datacenters in de ruimte bouwen: FCC keurt Starmind goed",
+  "Google-patent My Channel maakt ai-video's op maat",
+  "Character.ai privéchats: Amerikaanse staten vechten verkoop aan",
+  "Nothing Ear Note: AI-oordopjes met opnamecase komen 8 december"
  ]
 }

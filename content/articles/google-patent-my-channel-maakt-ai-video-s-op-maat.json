@@ -1,0 +1,64 @@
+{
+ "keyword": "google my channel patent",
+ "seo_title": "Google My Channel patent: ai-video's op maat",
+ "title": "Google-patent My Channel maakt ai-video's op maat",
+ "meta": "Google vroeg patent aan op My Channel: een feed met ai-video's en advertenties op maat. Wat het plan inhoudt en wat het voor Nederland betekent.",
+ "category": "nieuws",
+ "tags": [
+  "google",
+  "ai-video",
+  "patent",
+  "advertenties",
+  "privacy"
+ ],
+ "intro": "Google heeft vorig jaar een patent aangevraagd op My Channel, een systeem dat een feed vult met persoonlijke, door ai gemaakte video's en advertenties. Het patent is afgewezen, meldt The Verge. Google kan in beroep gaan of een aangepaste versie indienen.",
+ "takeaways": [
+  "My Channel bouwt een videofeed op basis van wat Google over je weet",
+  "Het patent is afgewezen, maar herindiening blijft mogelijk",
+  "De video's en advertenties worden door ai gegenereerd",
+  "Voor Nederland geldt dat zo'n feed onder de Europese privacyregels valt"
+ ],
+ "sections": [
+  {
+   "heading": "Wat My Channel volgens het patent doet",
+   "body": "My Channel is bedoeld als een persoonlijke zender. Het systeem stelt een doorlopende reeks video's samen op basis van informatie die Google al over een gebruiker heeft. Tussen die video's door komen advertenties die op dezelfde gegevens zijn afgestemd.\n\nHet bijzondere zit in de herkomst van de beelden. De video's worden door ai gemaakt, meldt The Verge. Je kijkt dus naar materiaal dat speciaal voor jou is gegenereerd, niet naar een bestaande film of serie.\n\nHet patent beschrijft volgens The Verge een somber beeld van de toekomst van entertainment. De kijker krijgt een stroom voorgeschoteld die volledig op het eigen profiel is toegesneden."
+  },
+  {
+   "heading": "Afgewezen, maar nog niet van tafel",
+   "body": "De aanvraag is afgewezen. Daarmee ligt het plan niet definitief stil. Google kan beroep aantekenen of een aangepaste aanvraag indienen.\n\nOf Google dat daadwerkelijk doet, is niet bekend. Het bedrijf heeft zich er tot nu toe niet over uitgelaten. Een patent zegt bovendien weinig over wat er echt op de markt komt.\n\nDuidelijk is wel dat Google vaker experimenteert met ai in video en advertenties. Een systeem als dit past bij de advertentietak, waar personalisatie al jaren het verdienmodel is."
+  },
+  {
+   "heading": "Wat een gepersonaliseerde feed met je gegevens doet",
+   "body": "Voor zo'n feed is veel input nodig. Denk aan kijkgedrag, zoekopdrachten en locatie. Hoe meer Google weet, hoe scherper de video's en advertenties kunnen aansluiten.\n\nDat roept vragen op over hoeveel invloed je nog hebt op wat je ziet. Een feed die zichzelf vult, laat weinig ruimte om iets anders te kiezen dan wat het systeem voorschotelt.\n\nOok de advertentiemarkt kan verschuiven. Als video's en reclame in één stroom worden gemaakt, wordt het lastiger om te zien waar de inhoud ophoudt en de advertentie begint."
+  }
+ ],
+ "nl_angle": "Voor Nederlanders is vooral de privacykant relevant. Een feed op basis van persoonsgegevens valt onder de Algemene verordening gegevensbescherming (AVG). Je hebt recht op inzage en bezwaar tegen gepersonaliseerde advertenties. Of My Channel ooit in Nederland komt, is onbekend. Het patent is afgewezen en Google heeft nog niets aangekondigd. Mocht het systeem er komen, dan moet het aan de Europese regels voldoen, met een duidelijke grondslag voor het gebruik van je gegevens.",
+ "faq": [
+  {
+   "q": "Wat is Google My Channel?",
+   "a": "Een gepatenteerd systeem dat een persoonlijke videofeed maakt met door ai gegenereerde video's en advertenties, op basis van wat Google over je weet."
+  },
+  {
+   "q": "Komt My Channel naar Nederland?",
+   "a": "Dat is niet bekend. Het patent is afgewezen en Google heeft geen lancering aangekondigd."
+  },
+  {
+   "q": "Mag Google zomaar mijn gegevens gebruiken voor zo'n feed?",
+   "a": "In de EU valt dat onder de AVG. Google heeft een geldige grondslag nodig en je kunt bezwaar maken tegen gepersonaliseerde advertenties."
+  }
+ ],
+ "slug": "google-patent-my-channel-maakt-ai-video-s-op-maat",
+ "kind": "news",
+ "date": "2026-11-26",
+ "published": "2026-11-26T01:12",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+  }
+ ],
+ "path": "/nieuws/google-patent-my-channel-maakt-ai-video-s-op-maat/",
+ "og": "/img/og/google-patent-my-channel-maakt-ai-video-s-op-maat.png",
+ "take": "Een feed met ai-video's die zich naar jou voegt, daar zit een advertentieblok aan vast en dat is het echte plan. Ik snoei nooit op mijn gevoel in accounts, want wat nu niks doet kan volgend kwartaal de omzet dragen. Google mag van mij eerst bewijzen dat zo'n feed iets oplevert voordat ik er budget naartoe schuif."
+}
