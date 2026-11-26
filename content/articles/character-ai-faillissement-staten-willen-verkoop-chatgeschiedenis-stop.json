@@ -1,0 +1,68 @@
+{
+ "keyword": "character.ai faillissement",
+ "seo_title": "Character.AI faillissement: 42 staten tegen verkoop chats",
+ "title": "Character.AI faillissement: staten willen verkoop chatgeschiedenis stoppen",
+ "meta": "Character.AI is failliet en wil chatgeschiedenis van gebruikers verkopen. 42 Amerikaanse staten proberen dat te blokkeren. Wat betekent dit in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "character.ai",
+  "privacy",
+  "faillissement",
+  "ai-chatbots",
+  "vs"
+ ],
+ "intro": "Character.AI verkeert in een faillissementsprocedure en wil naar verluidt de chatgeschiedenis van gebruikers verkopen. Een groep van 42 Amerikaanse staten probeert dat tegen te houden. De zaak draait om de vraag of privégesprekken met een AI-chatbot zomaar verhandelbaar zijn.",
+ "takeaways": [
+  "42 Amerikaanse staten willen voorkomen dat Character.AI gebruikersdata verkoopt tijdens een faillissement.",
+  "Het gaat volgens de staten om de privéchatgeschiedenis van meer dan 21 miljoen Amerikaanse accounts.",
+  "Character.AI zit in een Chapter 11-procedure, een Amerikaanse vorm van faillissementsbescherming.",
+  "De uitkomst kan bepalen of chatgesprekken met AI als verkoopbaar bezit gelden."
+ ],
+ "sections": [
+  {
+   "heading": "Wat er speelt rond Character.AI",
+   "body": "Character.AI laat gebruikers praten met zelfgemaakte AI-personages. Het bedrijf zit in Chapter 11, een Amerikaanse faillissementsprocedure waarbij een bedrijf onder bescherming van de rechter probeert schulden af te lossen. Onderdeel van dat proces kan zijn dat bezittingen worden verkocht om schuldeisers te betalen.\n\nVolgens The Verge willen de staten voorkomen dat daar ook de chatgeschiedenis onder valt. De 42 procureurs-generaal, de hoogste juridische vertegenwoordigers van een staat, stuurden vrijwel identieke persberichten de wereld in. Daarin beschuldigen ze het bedrijf ervan de privégesprekken van meer dan 21 miljoen Amerikaanse accounts te willen veilen.\n\nDe staten roepen de rechter op die verkoop tegen te houden. Zij stellen dat gebruikers hun gesprekken deelden in de verwachting dat die privé bleven. Of de rechter dat argument overneemt, is nog niet bekend."
+  },
+  {
+   "heading": "Waarom staten zich ermee bemoeien",
+   "body": "In de Verenigde Staten houden staten zelf toezicht op consumentenbescherming en privacy. Een faillissementszaak loopt via de federale rechter, maar staten kunnen zich als belanghebbende melden. Dat doen ze hier massaal.\n\nDe kern van hun bezwaar is eigendom. Zijn chatberichten aan een chatbot persoonlijke gegevens van de gebruiker, of bezit van het bedrijf dat de dienst draait? Bij een verkoop krijgt een koper toegang tot gesprekken die mensen soms over gevoelige onderwerpen voerden.\n\nDe staten wijzen er ook op dat veel gebruikers jong zijn. Character.AI trok veel tieners en jongvolwassenen die gesprekken voeren met fictieve personages. Die groep is extra kwetsbaar als gesprekken in verkeerde handen komen."
+  },
+  {
+   "heading": "Chapter 11 in gewone taal",
+   "body": "Chapter 11 is de Amerikaanse procedure voor bedrijven die niet meer aan hun verplichtingen kunnen voldoen. Het bedrijf blijft draaien, maar staat onder toezicht van een rechter. Schuldeisers krijgen een stem in hoe het verder gaat.\n\nVaak verkoopt zo'n bedrijf onderdelen om geld op te halen. Denk aan software, merknamen of klantbestanden. Of datalijsten met chatgeschiedenis daaronder vallen, is juridisch omstreden. De staten willen dat de rechter dat expliciet uitsluit.\n\nVoor gebruikers buiten de VS is de vraag of hun gegevens ook in de verkoop zitten. Daarover geven de bronnen geen uitsluitsel. Het is nog niet bekend welke data precies onderdeel zijn van de veiling."
+  },
+  {
+   "heading": "Wat dit betekent voor AI-chatdiensten",
+   "body": "De zaak raakt meer dan één bedrijf. Veel AI-chatdiensten bewaren gesprekken om hun modellen te verbeteren of om diensten te leveren. Als een faillissement die gesprekken verkoopbaar maakt, verandert dat de verwachtingen van gebruikers.\n\nRechters kunnen een grens trekken: persoonsgegevens zijn geen gewoon bedrijfsbezit. Dat zou ook gevolgen hebben voor de voorwaarden die AI-bedrijven hanteren. Nu staat in veel privacyverklaringen dat data gedeeld kan worden bij een overname of faillissement.\n\nDe uitspraak kan dus voorbeelden geven voor andere zaken. Toch is er nog geen beslissing gevallen. De staten hebben hun bezwaar ingediend, en de rechter moet zich er nog over buigen."
+  }
+ ],
+ "nl_angle": "Voor gebruikers in Nederland is de directe vraag of hun gesprekken met Character.AI ook verkocht kunnen worden. Dat is nog niet duidelijk. Wel geldt de Europese privacywet AVG: persoonsgegevens mogen niet zomaar worden doorverkocht zonder geldige grondslag. Nederlandse gebruikers die gevoelige dingen met een chatbot bespraken, doen er verstandig aan hun gesprekken te verwijderen en na te gaan welke data het bedrijf bewaart. Bedrijven die AI-chatbots inzetten, kunnen de zaak aangrijpen om hun eigen data-afspraken met leveranciers tegen het licht te houden.",
+ "faq": [
+  {
+   "q": "Is Character.AI failliet?",
+   "a": "Character.AI zit in een Chapter 11-procedure, een Amerikaanse faillissementsbescherming. Het bedrijf mag blijven draaien terwijl het onder toezicht van een rechter schulden probeert op te lossen."
+  },
+  {
+   "q": "Wordt mijn chatgeschiedenis verkocht?",
+   "a": "Dat is nog niet bekend. De staten proberen een verkoop van chatgeschiedenis te blokkeren, maar de rechter heeft daar nog geen uitspraak over gedaan."
+  },
+  {
+   "q": "Wat kan ik doen als ik Character.AI heb gebruikt?",
+   "a": "Verwijder gesprekken die je niet wilt delen en controleer je accountgegevens. Onder de AVG kun je ook om inzage of verwijdering van je persoonsgegevens vragen."
+  }
+ ],
+ "slug": "character-ai-faillissement-staten-willen-verkoop-chatgeschiedenis-stop",
+ "kind": "news",
+ "date": "2026-11-26",
+ "published": "2026-11-26T13:51",
+ "sources": [
+  {
+   "name": "The Verge",
+   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+  }
+ ],
+ "path": "/nieuws/character-ai-faillissement-staten-willen-verkoop-chatgeschiedenis-stop/",
+ "og": "/img/og/character-ai-faillissement-staten-willen-verkoop-chatgeschiedenis-stop.png",
+ "take": "Een faillissement is precies het moment waarop blijkt wat je gegevens waard zijn. Ik vertrouw een chatgeschiedenis pas als ik zelf kan aanwijzen waar die blijft als de tent omvalt. Tot die tijd stop ik niets in zo'n chatbot wat ik niet op straat wil terugzien."
+}

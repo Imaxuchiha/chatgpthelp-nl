@@ -1,0 +1,64 @@
+{
+ "keyword": "ai gebruik nederlandse bedrijven",
+ "seo_title": "AI-gebruik Nederlandse bedrijven verdubbeld naar 41 procent",
+ "title": "AI-gebruik bij Nederlandse bedrijven in een jaar verdubbeld naar 41 procent",
+ "meta": "Steeds meer Nederlandse bedrijven zetten AI in: 41 procent in 2026, tegen 18 procent een jaar eerder. Lees wat het CBS meet en wat dit voor jou betekent.",
+ "category": "nieuws",
+ "tags": [
+  "ai",
+  "cbs",
+  "bedrijven",
+  "nederland",
+  "statistiek"
+ ],
+ "intro": "Het aandeel Nederlandse bedrijven dat AI gebruikt, is in een jaar meer dan verdubbeld. Van 18 procent in 2025 naar ongeveer 41 procent nu. Dat meldt Bright op basis van voorlopige cijfers van het Centraal Bureau voor de Statistiek. De cijfers gaan over bedrijven met twee of meer werknemers.",
+ "takeaways": [
+  "41 procent van de Nederlandse bedrijven met 2 of meer werknemers gebruikt AI.",
+  "Een jaar eerder lag dat aandeel op 18 procent.",
+  "De cijfers zijn voorlopig en komen van het CBS.",
+  "De cijfers zeggen nog niets over welke tools bedrijven precies gebruiken."
+ ],
+ "sections": [
+  {
+   "heading": "Wat de cijfers precies laten zien",
+   "body": "Het CBS telt mee of een bedrijf AI überhaupt gebruikt. Het maakt daarbij niet uit of dat een chatbot is, een beeldgenerator of software die patronen in data herkent. De voorlopige uitkomst: zo'n 41 procent van de bedrijven met twee of meer werknemers doet dat nu.\n\nEen jaar geleden was dat 18 procent. Dat is een sprong van meer dan het dubbele in twaalf maanden. Bright noemt de cijfers voorlopig, wat betekent dat het CBS ze later kan bijstellen.\n\nDe cijfers gaan over bedrijven, niet over individuele werknemers. Iemand die thuis ChatGPT gebruikt, telt hier dus niet mee. Het gaat om inzet binnen de bedrijfsvoering."
+  },
+  {
+   "heading": "Van proberen naar vast onderdeel",
+   "body": "De stijging past bij wat je in de praktijk ziet. Veel organisaties begonnen met een paar mensen die wat uitprobeerden. Nu komt de vraag of zo'n tool een vaste plek krijgt in het werkproces.\n\nToch zegt het percentage weinig over hoe serieus AI wordt ingezet. Een bedrijf dat één medewerker af en toe een tekst laat samenvatten, telt net zo zwaar als een bedrijf dat AI in de klantenservice heeft zitten. De cijfers meten gebruik, geen diepgang.\n\nOok over de keuze van tools zegt het CBS niets. Of dat ChatGPT, Copilot of een Europese aanbieder is, blijft buiten beeld."
+  },
+  {
+   "heading": "Wat er nog niet bekend is",
+   "body": "Het CBS heeft nog geen volledige uitsplitsing gepubliceerd. Dus is nog niet duidelijk welke sectoren vooroplopen. Je kunt denken aan zakelijke dienstverlening en ICT, maar dat is niet uit deze cijfers af te leiden.\n\nOok de vraag of kleine bedrijven achterblijven, blijft voorlopig open. De grens van twee werknemers zegt daar niets over. Grotere bedrijven hebben vaak meer budget en mensen om iets uit te proberen.\n\nZodra het CBS met definitieve cijfers komt, wordt meer zichtbaar. Tot die tijd blijft het bij dit ene, forse groeicijfer."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse bedrijven betekent dit dat AI steeds minder een uitzondering is. Wie nog niets doet, loopt niet direct achter, maar zit wel in een kleiner wordende groep. Let wel op de regels: de Europese AI-verordening geldt ook hier, met extra eisen zodra je AI voor gevoelige doeleinden inzet, bijvoorbeeld bij werving of beoordeling van mensen. Begin klein en kijk per taak of een tool echt tijd scheelt.",
+ "faq": [
+  {
+   "q": "hoeveel procent van de Nederlandse bedrijven gebruikt ai?",
+   "a": "Ongeveer 41 procent van de bedrijven met twee of meer werknemers, volgens voorlopige CBS-cijfers die Bright noemt. Een jaar eerder was dat 18 procent."
+  },
+  {
+   "q": "wat verstaat het cbs onder ai-gebruik?",
+   "a": "Het CBS kijkt of een bedrijf AI in de bedrijfsvoering gebruikt, ongeacht welke tool of toepassing. Hoe intensief dat gebeurt, blijkt niet uit dit cijfer."
+  },
+  {
+   "q": "zijn deze cijfers definitief?",
+   "a": "Nee, het gaat om voorlopige cijfers. Het CBS kan de uitkomsten later bijstellen."
+  }
+ ],
+ "slug": "ai-gebruik-bij-nederlandse-bedrijven-in-een-jaar-verdubbeld-naar-41-pr",
+ "kind": "news",
+ "date": "2026-11-26",
+ "published": "2026-11-26T13:49",
+ "sources": [
+  {
+   "name": "Bright",
+   "title": "AI-gebruik bij Nederlandse bedrijven in 1 jaar meer dan verdubbeld",
+   "url": "https://www.bright.nl/nieuws/2163201/ai-gebruik-bij-nederlandse-bedrijven-in-1-jaar-meer-dan-verdubbeld.html"
+  }
+ ],
+ "path": "/nieuws/ai-gebruik-bij-nederlandse-bedrijven-in-een-jaar-verdubbeld-naar-41-pr/",
+ "og": "/img/og/ai-gebruik-bij-nederlandse-bedrijven-in-een-jaar-verdubbeld-naar-41-pr.png",
+ "take": "Een verdubbeling naar 41 procent zegt me weinig over wat al die bedrijven ermee opschieten. Ik bouw mijn automatisering liever zelf met Claude Code en een goedkope DeepSeek-API dan dat ik de zoveelste SaaS-tool afsluit waar niemand de opbrengst van meet. De vraag die telt is hoeveel uur of euro's zo'n abonnement per maand terugverdient, en daar hoor ik de CBS-cijfers niet over."
+}

@@ -1,92 +1,5 @@
 [
  {
-  "at": "2026-10-20T17:50:06",
-  "slug": "",
-  "title": "DeepSeek verbod VS: Europese bedrijven letten op",
-  "kind": "column",
-  "rood": [
-   "S10",
-   "S5",
-   "S6"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-20T17:50:17",
-  "slug": "",
-  "title": "DeepSeek verbod VS: Europese bedrijven letten op",
-  "kind": "column",
-  "rood": [
-   "S10",
-   "S5",
-   "S6"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-20T21:58:09",
-  "slug": "",
-  "title": "ChatGPT voor bedrijven: franchisehouder int cash 94% sneller",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S6",
-   "S8"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-20T21:58:17",
-  "slug": "",
-  "title": "Google volgt Amazon: nieuwe tool moet PyTorch-apps van Nvidia-gpu's halen",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-20T21:58:26",
-  "slug": "",
-  "title": "ChatGPT laat je nu chats vergrendelen op je toestel",
-  "kind": "news",
-  "rood": [
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-20T21:58:46",
-  "slug": "",
-  "title": "DeepSeek verwijderen bij overheid is paniekvoetbal",
-  "kind": "column",
-  "rood": [
-   "S6"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-21T10:42:04",
-  "slug": "",
-  "title": "OpenAI neemt Orchestra Bio over voor AI in geneesmiddelenonderzoek",
-  "kind": "news",
-  "rood": [
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-21T10:42:15",
   "slug": "",
   "title": "GPT-6.1 beoordeelt beleggingen: Terminal X haalt 88,6% van senior oordeel",
@@ -6415,6 +6328,93 @@
    "S5"
   ],
   "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-26T13:49:26",
+  "slug": "",
+  "title": "AI-gebruik bij Nederlandse bedrijven in een jaar verdubbeld naar 41 procent",
+  "kind": "news",
+  "rood": [
+   "S5",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-26T13:49:34",
+  "slug": "",
+  "title": "SpaceX mag AI-datacenters in de ruimte bouwen van FCC",
+  "kind": "news",
+  "rood": [
+   "S4",
+   "S6",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-26T13:49:42",
+  "slug": "",
+  "title": "Gemini voor Home wordt sneller nu de Google Assistent verdwijnt",
+  "kind": "news",
+  "rood": [
+   "S10"
+  ],
+  "andere_fouten": 1,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-26T13:49:49",
+  "slug": "",
+  "title": "Audi brengt Outlook en Teams met spraak naar de auto",
+  "kind": "news",
+  "rood": [
+   "S6",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-26T13:50:00",
+  "slug": "",
+  "title": "Character.AI faillissement: staten willen verkoop chatgeschiedenis stoppen",
+  "kind": "news",
+  "rood": [
+   "S11",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-26T13:50:39",
+  "slug": "",
+  "title": "Claude Code abonnement: zo bespaar je op API-kosten",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-26T13:50:56",
+  "slug": "",
+  "title": "Claude Code abonnement: zo bespaar je op API-kosten",
+  "kind": "column",
+  "rood": [
+   "S10",
+   "S6"
+  ],
+  "andere_fouten": 0,
   "stand": "meten"
  }
 ]

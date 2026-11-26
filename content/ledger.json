@@ -3671,12 +3671,29 @@
   "6b1c4ab3d0": {
    "at": "2026-11-26T01:14:22.480580",
    "why": "ok"
+  },
+  "ca1279258f": {
+   "at": "2026-11-26T13:49:16.734554",
+   "why": "ok"
+  },
+  "fa02146123": {
+   "at": "2026-11-26T13:50:16.734554",
+   "why": "poort"
+  },
+  "047f5e1570": {
+   "at": "2026-11-26T13:50:16.734554",
+   "why": "poort"
+  },
+  "ddcc557b6e": {
+   "at": "2026-11-26T13:50:16.734554",
+   "why": "ok"
+  },
+  "c0f2de19f0": {
+   "at": "2026-11-26T13:51:16.734554",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "Jev: nieuw AI-model van een ChatGPT-bedenker",
-  "Gouverneur Virginia grijpt in bij datacenters en AI",
-  "AI-verfilming van de Odyssee valt door de mand: wat leren we ervan?",
   "OpenAI komt met blauwdruk voor AI jeugd veiligheid",
   "Vantora haalt 100 miljoen op voor fysieke AI startups",
   "Anthropic overweegt nieuw model ondanks eerdere rem op AI",
@@ -4273,6 +4290,9 @@
   "SpaceX mag datacenters in de ruimte bouwen: FCC keurt Starmind goed",
   "Google-patent My Channel maakt ai-video's op maat",
   "Character.ai privéchats: Amerikaanse staten vechten verkoop aan",
-  "Nothing Ear Note: AI-oordopjes met opnamecase komen 8 december"
+  "Nothing Ear Note: AI-oordopjes met opnamecase komen 8 december",
+  "AI-gebruik bij Nederlandse bedrijven in een jaar verdubbeld naar 41 procent",
+  "Audi brengt Outlook en Teams met spraak naar de auto",
+  "Character.AI faillissement: staten willen verkoop chatgeschiedenis stoppen"
  ]
 }
