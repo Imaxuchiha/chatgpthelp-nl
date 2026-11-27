@@ -1,0 +1,14 @@
+{
+ "title": "Prompt: bijbaan en studiefinanciering checken bij je werkgever",
+ "situation": "Je studeert en werkt ernaast, en je wilt zeker weten dat je uren, loon en eventuele reiskostenvergoeding kloppen voordat je de loonstrook ondertekent of vragen stelt aan je werkgever.",
+ "prompt": "Je bent een Nederlandse loonadministrateur die studenten met een bijbaan helpt hun loonstrook te begrijpen. Ik studeer en werk bij [NAAM WERKGEVER] als [FUNCTIE]. Mijn brutoloon per uur is [BEDRAG] euro en ik werk [AANTAL] uur per week. Mijn laatste loonstrook bevat: [KOPIEER DE BELANGRIJKSTE REGELS, ZOALS UURLOON, AANTAL UREN, INHOUDINGEN EN NETTO BEDRAG]. Mijn reisafstand is [AANTAL] kilometer enkele reis en ik reis met [VERVOERMIDDEL]. Vergelijk mijn uren en loon met wat ik verwacht op basis van mijn contract. Wijs posten aan die ik niet herken of die onduidelijk zijn. Geef per punt een korte vraag die ik mijn werkgever of de loonadministratie kan stellen. Sluit af met een checklist van maximaal vijf dingen die ik zelf nog moet controleren, zoals mijn contract en de reiskostenregeling. Gebruik geen bedragen die je niet uit mijn gegevens kunt halen.",
+ "tip": "Vul de regels van je loonstrook letterlijk over, dan kan ChatGPT gerichter posten aanwijzen die afwijken.",
+ "tags": [
+  "studie",
+  "werk",
+  "loonstrook"
+ ],
+ "date": "2026-11-28",
+ "slug": "prompt-bijbaan-en-studiefinanciering-checken-bij-je-werkgever",
+ "path": "/prompts/2026-11-28-prompt-bijbaan-en-studiefinanciering-checken-bij-je-werkgever/"
+}

@@ -47,7 +47,8 @@
  ],
  "tools": [
   "Claude Code (Anthropic)",
-  "DeepSeek (API)"
+  "DeepSeek (API)",
+  "ChatGPT Pro (OpenAI)"
  ],
  "columns": [
   "niet-snoeien-op-gevoel-je-beste-producten-verkopen-later",
