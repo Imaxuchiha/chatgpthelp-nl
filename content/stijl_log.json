@@ -1,18 +1,5 @@
 [
  {
-  "at": "2026-10-21T22:04:06",
-  "slug": "",
-  "title": "OpenAI juridische ai: AT&T hervormt eigen juridische afdeling",
-  "kind": "news",
-  "rood": [
-   "S6",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
   "at": "2026-10-21T22:04:15",
   "slug": "",
   "title": "OpenAI Patch the Planet: AI-agents vinden lekken in open source",
@@ -6410,6 +6397,17 @@
    "S6",
    "S8",
    "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-27T13:42:34",
+  "slug": "",
+  "title": "AI-agenten in de wetenschap: waar onderzoekers de grens trekken",
+  "kind": "news",
+  "rood": [
+   "S8"
   ],
   "andere_fouten": 0,
   "stand": "meten"

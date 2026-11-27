@@ -1,0 +1,67 @@
+{
+ "keyword": "ai-agenten wetenschap",
+ "seo_title": "AI-agenten in de wetenschap: waar trekken onderzoekers",
+ "title": "AI-agenten in de wetenschap: waar onderzoekers de grens trekken",
+ "meta": "Onderzoekers bespreken waar AI-agenten wel en niet mogen helpen in de wetenschap. Wat betekent dat voor onderzoekswerk en beleid in Nederland?",
+ "category": "nieuws",
+ "tags": [
+  "ai-agenten",
+  "wetenschap",
+  "onderzoek",
+  "hugging face",
+  "ethiek"
+ ],
+ "intro": "Onderzoekers debatteren over de vraag waar AI-agenten een plek mogen krijgen in wetenschappelijk werk. Het onderwerp staat centraal in een blog van Hugging Face, waarin wetenschappers uitleggen waar zij de grens trekken. Voor onderzoeksinstellingen en beleidsmakers is dat relevant, want de inzet van autonome software raakt direct aan betrouwbaarheid en verantwoordelijkheid.",
+ "takeaways": [
+  "Wetenschappers bespreken in een Hugging Face-blog waar AI-agenten wel en niet zijn toegestaan.",
+  "De discussie draait om vertrouwen en verantwoordelijkheid bij geautomatiseerd onderzoekswerk.",
+  "Duidelijke afspraken zijn nodig voordat agenten breder worden ingezet in onderzoek."
+ ],
+ "sections": [
+  {
+   "heading": "Wat wetenschappers bespreken",
+   "body": "In de blog van Hugging Face, geschreven door onderzoekers van Allen AI, komt de vraag aan bod waar AI-agenten een rol mogen spelen in wetenschappelijk werk. Een agent is software die zelfstandig stappen uitvoert, zoals zoeken, rekenen of teksten opstellen. De onderzoekers geven aan waar volgens hen een grens ligt.\n\nDe precieze lijst met regels is nog niet openbaar gemaakt in de bron. Wel is duidelijk dat het debat gaat over hoeveel zelfstandigheid een agent mag krijgen. Onderzoekers willen voorkomen dat geautomatiseerde stappen de controle over resultaten wegnemen."
+  },
+  {
+   "heading": "Waarom de grens ertoe doet",
+   "body": "Wetenschap leunt op herhaalbaarheid en verantwoording. Als een agent zelfstandig analyses uitvoert, moet duidelijk zijn wie verantwoordelijk is voor de uitkomst. De discussie raakt daarmee ook aan publicaties en peer review.\n\nVolgens de blog denken wetenschappers na over de vraag wanneer een agent alleen ondersteunt en wanneer die zelfstandig beslissingen neemt. Dat onderscheid bepaalt of een resultaat nog controleerbaar is. De uitkomst van dat debat is nog niet bekend."
+  },
+  {
+   "heading": "Wat dit betekent voor onderzoekspraktijk",
+   "body": "Voor onderzoeksgroepen betekent dit dat ze vooraf moeten vastleggen welke taken een agent mag uitvoeren. Denk aan het verzamelen van literatuur of het opschonen van data. Bij analyses die de kern van een conclusie raken, ligt een strengere grens voor de hand.\n\nDe blog noemt geen concrete richtlijnen die al gelden. Instellingen zullen dus zelf keuzes moeten maken. Dat vraagt om afspraken over logging en controle, zodat achteraf te zien is wat een agent heeft gedaan."
+  },
+  {
+   "heading": "Nog geen helder kader",
+   "body": "Een breed gedragen kader ontbreekt nog. De bijdrage van Hugging Face laat zien dat onderzoekers nadenken over grenzen, zonder dat er al een norm is vastgesteld. Wat precies wel en niet mag, blijft voorlopig onderwerp van gesprek.\n\nVoor wetenschappers die nu met agenten werken, is het verstandig om keuzes schriftelijk vast te leggen. Zo blijft duidelijk welke stappen door software zijn gezet en welke door mensen."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse universiteiten en onderzoeksinstellingen raakt dit debat aan bestaande afspraken over databeheer en wetenschappelijke integriteit. Instellingen die met AI-agenten werken, zullen zelf moeten vastleggen waar de grens ligt. Ook subsidieverstrekkers zoals NWO kunnen hier eisen aan stellen. Duidelijk is dat nog niet welke regels gaan gelden; de bron noemt geen Nederlands beleid.",
+ "faq": [
+  {
+   "q": "Wat is een AI-agent in de wetenschap?",
+   "a": "Een AI-agent is software die zelfstandig stappen uitvoert, zoals literatuur zoeken of data analyseren. Onderzoekers bespreken waar dat wel en niet mag."
+  },
+  {
+   "q": "Zijn er al regels voor AI-agenten in onderzoek?",
+   "a": "Een breed kader ontbreekt nog. De blog van Hugging Face laat zien dat wetenschappers grenzen bespreken, zonder dat er al een norm is vastgesteld."
+  },
+  {
+   "q": "Wat betekent dit voor Nederlandse onderzoekers?",
+   "a": "Zij moeten zelf vastleggen welke taken een agent mag doen. Dat sluit aan bij bestaande afspraken over databeheer en wetenschappelijke integriteit."
+  }
+ ],
+ "slug": "ai-agenten-in-de-wetenschap-waar-onderzoekers-de-grens-trekken",
+ "kind": "news",
+ "date": "2026-11-27",
+ "published": "2026-11-27T13:42",
+ "sources": [
+  {
+   "name": "Hugging Face",
+   "title": "Where scientists draw the line on AI agents",
+   "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+  }
+ ],
+ "path": "/nieuws/ai-agenten-in-de-wetenschap-waar-onderzoekers-de-grens-trekken/",
+ "og": "/img/og/ai-agenten-in-de-wetenschap-waar-onderzoekers-de-grens-trekken.png",
+ "take": "Wetenschappers die nu al discussiëren over waar een AI-agent wel en niet mag werken, doen het in de goede volgorde. Een blog van Hugging Face met wat uitleg is nog geen bewijs dat zo'n agent echt betrouwbaar onderzoek doet. Ik wil eerst zien dat een agent een resultaat oplevert dat een vakgenoot buiten het team overtuigt, daarna praten we over beleid."
+}

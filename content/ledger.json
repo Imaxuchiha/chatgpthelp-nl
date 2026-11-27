@@ -3723,10 +3723,13 @@
   "e2544bc1ae": {
    "at": "2026-11-27T01:31:53.634997",
    "why": "ok"
+  },
+  "37b5c9ba93": {
+   "at": "2026-11-27T13:42:22.679855",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "Gemini hackt andere bedrijven: Google noemt het passend",
   "AI voerbak kat: Petlibro Granary 2 meet wat elke kat eet",
   "Meta Muse AI: wat de nieuwe agent kan en waar het misgaat",
   "Californië onderzoekt kill switch voor AI-modellen",
@@ -4325,6 +4328,7 @@
   "AI datacenters bouwen wordt lastiger: neoclouds voelen de druk",
   "Jensen Huang deepfake: nepvideo's van de Nvidia-baas verspreiden zich",
   "llama.cpp krijgt benchmarkdashboard voor AMD Ryzen en Radeon",
-  "Gemini gaat Golden State helpen met fans en bedrijfsvoering"
+  "Gemini gaat Golden State helpen met fans en bedrijfsvoering",
+  "AI-agenten in de wetenschap: waar onderzoekers de grens trekken"
  ]
 }
