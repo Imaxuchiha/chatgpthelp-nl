@@ -1,0 +1,68 @@
+{
+ "keyword": "llama.cpp amd benchmark",
+ "seo_title": "llama.cpp benchmark voor AMD Ryzen en Radeon",
+ "title": "llama.cpp krijgt benchmarkdashboard voor AMD Ryzen en Radeon",
+ "meta": "Hugging Face en ggml-org lanceren een benchmarkdashboard voor llama.cpp op AMD Ryzen en Radeon. Zo zie je welke hardware lokale AImodellen snel draait.",
+ "category": "nieuws",
+ "tags": [
+  "llama.cpp",
+  "amd",
+  "benchmark",
+  "lokale ai",
+  "hugging face"
+ ],
+ "intro": "Hugging Face heeft een benchmarkdashboard gepubliceerd voor llama.cpp op AMD Ryzenprocessors en Radeonvideokaarten. Het dashboard bundelt meetresultaten van het opensourceproject ggml-org. Daarmee wordt zichtbaar hoe snel lokale AImodellen draaien op AMDhardware.",
+ "takeaways": [
+  "Het dashboard komt van Hugging Face en het project ggml-org.",
+  "Het richt zich op AMD Ryzen en Radeon, dus processors en videokaarten.",
+  "llama.cpp draait AImodellen lokaal op je eigen apparaat.",
+  "De resultaten helpen bij het kiezen van passende hardware."
+ ],
+ "sections": [
+  {
+   "heading": "Wat het dashboard toont",
+   "body": "Het benchmarkdashboard verzamelt prestaties van llama.cpp op AMD Ryzen en Radeon. Bezoekers kunnen resultaten naast elkaar leggen. Zo zie je welke combinatie van processor en videokaart een model vlot laat draaien.\n\nllama.cpp is software die AImodellen op je eigen computer uitvoert. Het project komt uit de ggml-org-hoek en is populair bij mensen die geen cloud willen gebruiken. De benchmarks geven een indicatie van de snelheid per opstelling.\n\nHugging Face host het dashboard op zijn blog. De precieze modellen en meetmethodes staan in de bijdrage van ggml-org."
+  },
+  {
+   "heading": "Waarom AMDhardware ertoe doet",
+   "body": "Veel lokale AIopstellingen draaien op Nvidia. AMD Ryzen en Radeon zijn een alternatief, vaak met een gunstiger prijs. Met dit dashboard wordt de prestatie van die combinaties meetbaar.\n\nVoor Nederlanders die een eigen AIomgeving bouwen is dat praktisch. Je kunt vooraf inschatten of je laptop of desktop een model aankan. De cijfers helpen bij de keuze tussen een processor met ingebouwde grafische eenheid en een losse videokaart.\n\nDe resultaten zeggen nog weinig over het stroomverbruik. Ook de prijs per kaart verschilt per winkel en per moment."
+  },
+  {
+   "heading": "Wat llama.cpp precies is",
+   "body": "llama.cpp is een programma dat grote taalmodellen lokaal laat werken. Het draait op gewone computers, zonder dat je data naar een server gaat. Dat maakt het aantrekkelijk voor privacygevoelig werk.\n\nDe software ondersteunt meerdere modelformaten. Gebruikers kiezen zelf welk model ze laden en hoeveel geheugen ze daarvoor vrijmaken. De prestaties hangen sterk af van die keuzes.\n\nBenchmarks geven dus een richtlijn. Je eigen instellingen bepalen uiteindelijk hoe soepel het werkt."
+  },
+  {
+   "heading": "Hoe je de cijfers leest",
+   "body": "Kijk eerst naar het model dat je wilt gebruiken. Een klein model draait op bijna elke recente machine. Grotere modellen vragen meer videageheugen.\n\nVergelijk daarna opstellingen die op elkaar lijken. Een Ryzenlaptop met ingebouwde grafiek haalt andere snelheden dan een desktop met losse Radeonkaart. Het dashboard maakt dat verschil inzichtelijk.\n\nDe blog noemt geen releasedatum voor nieuwe metingen. Het is nog niet bekend hoe vaak de resultaten worden bijgewerkt."
+  }
+ ],
+ "nl_angle": "Voor Nederlandse ontwikkelaars en hobbyisten die AI lokaal draaien, maakt dit dashboard de keuze voor AMDhardware concreter. Je kunt vóór aankoop checken of een Ryzen of Radeon combinatie je model snel genoeg draait. Let wel op: prijzen in euro's verschillen per leverancier, en de Europese regels voor AIgebruik veranderen niets aan deze technische benchmarks. Wie gevoelige data verwerkt, houdt met lokale modellen de gegevens in eigen beheer.",
+ "faq": [
+  {
+   "q": "Wat is het llama.cpp benchmarkdashboard?",
+   "a": "Het is een overzicht van meetresultaten van llama.cpp op AMD Ryzen en Radeon, gepubliceerd door Hugging Face en ggml-org. Je ziet er hoe snel modellen draaien per opstelling."
+  },
+  {
+   "q": "Heb ik een Radeonvideokaart nodig voor llama.cpp?",
+   "a": "Nee, llama.cpp draait ook op een processor. Een losse videokaart levert meestal meer snelheid, vooral bij grotere modellen."
+  },
+  {
+   "q": "Werkt llama.cpp op een gewone Nederlandse laptop?",
+   "a": "Ja, kleine modellen draaien op veel recente laptops. Grotere modellen vragen meer geheugen en een sterkere grafische eenheid."
+  }
+ ],
+ "slug": "llama-cpp-krijgt-benchmarkdashboard-voor-amd-ryzen-en-radeon",
+ "kind": "news",
+ "date": "2026-11-27",
+ "published": "2026-11-27T01:30",
+ "sources": [
+  {
+   "name": "Hugging Face",
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+  }
+ ],
+ "path": "/nieuws/llama-cpp-krijgt-benchmarkdashboard-voor-amd-ryzen-en-radeon/",
+ "og": "/img/og/llama-cpp-krijgt-benchmarkdashboard-voor-amd-ryzen-en-radeon.png",
+ "take": "Een dashboard met meetcijfers op echte AMD-hardware is precies wat ik wil zien voordat ik iets geloof. Ik draai lokale modellen liever op spul dat ik al heb staan dan dat ik een abonnement afsluit waarvan ik de winst niet kan aanwijzen. Eerst zelf nameten, dan pas betalen."
+}

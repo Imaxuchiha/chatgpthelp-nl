@@ -1,0 +1,14 @@
+{
+ "title": "Prompt: eindejaarsopruiming van je werkmail",
+ "situation": "Gebruik deze prompt als je mailbox volloopt en je in één avond orde wilt scheppen zonder iets belangrijks kwijt te raken. Handig voor werk, studie of je privémail.",
+ "prompt": "Je bent een ervaren office manager die mij helpt mijn mailbox op te ruimen. Mijn situatie: [BESCHRIJF JE MAILBOX, BIJV. 'drie jaar aan werkmail, 4.000 ongelezen berichten, veel nieuwsbrieven en cc-tjes']. Ik heb [AANTAL] uur en wil daarna een lege inbox en een werkbare mappenstructuur. Maak een concreet stappenplan in tijdsblokken. Geef per blok wat ik weg kan gooien, archiveren of bewaren. Stel een mappenstructuur voor met maximaal acht mappen en leg per map in één zin uit wat erin hoort. Geef tien zoekopdrachten die ik in de zoekbalk kan plakken om snel oude rommel te vinden. Sluit af met drie regels die ik elke werkdag aanhoud om te voorkomen dat het weer volloopt. Voorbeeld van een zoekopdracht: from:noreply groter:1M ouder:2jaar.",
+ "tip": "Vul je echte aantal ongelezen berichten en je mailprogramma in, dan sluit het stappenplan beter aan op wat je ziet.",
+ "tags": [
+  "mailbox",
+  "opruimen",
+  "werk"
+ ],
+ "date": "2026-11-27",
+ "slug": "prompt-eindejaarsopruiming-van-je-werkmail",
+ "path": "/prompts/2026-11-27-prompt-eindejaarsopruiming-van-je-werkmail/"
+}
