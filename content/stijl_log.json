@@ -1,31 +1,5 @@
 [
  {
-  "at": "2026-10-22T10:44:13",
-  "slug": "",
-  "title": "OpenAI scherpt gebruiksbeleid aan via distributeurs",
-  "kind": "news",
-  "rood": [
-   "S5",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 0,
-  "stand": "meten"
- },
- {
-  "at": "2026-10-22T10:44:21",
-  "slug": "",
-  "title": "Blackstone: zorgen over AI-schulden zijn overdreven",
-  "kind": "news",
-  "rood": [
-   "S10",
-   "S8",
-   "S9"
-  ],
-  "andere_fouten": 1,
-  "stand": "meten"
- },
- {
   "at": "2026-10-22T10:44:31",
   "slug": "",
   "title": "Datacenters kunnen luchtvervuiling in Texas terugbrengen",
@@ -6404,6 +6378,34 @@
   "rood": [
    "S10",
    "S6"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-28T12:57:56",
+  "slug": "",
+  "title": "AI liedje brengt deelnemers Boer zoekt Vrouw aan het huilen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S8",
+   "S9"
+  ],
+  "andere_fouten": 0,
+  "stand": "meten"
+ },
+ {
+  "at": "2026-11-28T12:58:06",
+  "slug": "",
+  "title": "Politie AI vaardigheden: waarom agenten eerst zelf misdaad moeten oplossen",
+  "kind": "news",
+  "rood": [
+   "S10",
+   "S4",
+   "S8",
+   "S9"
   ],
   "andere_fouten": 0,
   "stand": "meten"

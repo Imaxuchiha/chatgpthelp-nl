@@ -3731,11 +3731,21 @@
   "bb31516246": {
    "at": "2026-11-28T00:59:20.636858",
    "why": "high-risk"
+  },
+  "0995a574dd": {
+   "at": "2026-11-28T12:57:42.351873",
+   "why": "ok"
+  },
+  "feab94f4e7": {
+   "at": "2026-11-28T12:58:42.351873",
+   "why": "high-risk"
+  },
+  "ae559fafc8": {
+   "at": "2026-11-28T12:58:42.351873",
+   "why": "ok"
   }
  },
  "published_titles": [
-  "AI voerbak kat: Petlibro Granary 2 meet wat elke kat eet",
-  "Meta Muse AI: wat de nieuwe agent kan en waar het misgaat",
   "Californië onderzoekt kill switch voor AI-modellen",
   "AI antitrust: pleidooi voor vrijstelling van mededingingsregels",
   "Tilly Norwood AI-actrice: persreis vol fouten en kritiek",
@@ -4333,6 +4343,8 @@
   "Jensen Huang deepfake: nepvideo's van de Nvidia-baas verspreiden zich",
   "llama.cpp krijgt benchmarkdashboard voor AMD Ryzen en Radeon",
   "Gemini gaat Golden State helpen met fans en bedrijfsvoering",
-  "AI-agenten in de wetenschap: waar onderzoekers de grens trekken"
+  "AI-agenten in de wetenschap: waar onderzoekers de grens trekken",
+  "AI liedje brengt deelnemers Boer zoekt Vrouw aan het huilen",
+  "Politie AI vaardigheden: waarom agenten eerst zelf misdaad moeten oplossen"
  ]
 }
